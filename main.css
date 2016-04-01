@@ -1,0 +1,68 @@
+body {
+	padding-top: 70px;
+}
+
+h1 {
+font-size: 32px
+}
+
+h2 {
+font-size: 24px
+}
+
+.subheader {
+font-weight: bold;
+fonz-size: 14px
+
+}
+
+.container {
+	max-width: 750px;
+}
+
+a.anchor {
+	display: block;
+	position: relative;
+	top: -50px;
+	visibility: hidden;
+}
+
+.publications ul {
+	margin-top: 20px;
+}
+
+.content li {
+	padding-bottom: 20px;
+}
+
+.presenters .desc {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px;
+	font-size: 110%;
+	line-height: 1.5;
+}
+
+.presenters li {
+	padding-bottom: 20px;
+	list-style: None;
+}
+
+img.logo {
+	width: 100px;
+	width: 100px;
+}
+
+img.gesis {
+	height: 30px;
+	width: auto;
+	margin-left: 80px;
+}
+
+footer .placeholder {
+	height: 500px;
+}
+.navbar-header {
+	vertical-align: middle;
+}
+
