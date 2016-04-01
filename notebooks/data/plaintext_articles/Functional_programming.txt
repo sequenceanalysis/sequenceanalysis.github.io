@@ -1,0 +1,288 @@
+   #copyright
+
+Functional programming
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   Functional programming is a programming paradigm that conceives
+   computation as the evaluation of mathematical functions and avoids
+   state and mutable data. Functional programming emphasizes the
+   application of functions, in contrast with imperative programming,
+   which emphasizes changes in state and the execution of sequential
+   commands.
+
+   A broader conception of functional programming simply defines a set of
+   common concerns and themes rather than a list of distinctions from
+   other paradigms. Often considered important are higher-order and
+   first-class functions, closures, and recursion. Other common features
+   of functional programming languages are continuations, Hindley-Milner
+   type inference systems, non-strict evaluation (including, but not
+   limited to, " laziness"), and monads.
+
+   Functional programming languages, especially "purely functional" ones,
+   have largely been emphasized in academia rather than in commercial
+   software development. However, notable functional programming languages
+   used in industry and commercial applications include Erlang (concurrent
+   applications), R (statistics), Mathematica (symbolic math), J and K
+   (financial analysis), and domain-specific programming languages like
+   XSLT. Important influences on functional programming have been the
+   lambda calculus, the APL programming language, the Lisp programming
+   language, and more recently the Haskell programming language.
+
+History
+
+   Lambda calculus, invented by Alonzo Church in the 1930s, provides a
+   theoretical framework for describing functions and their evaluation.
+   Though it is a mathematical abstraction rather than a programming
+   language, lambda calculus forms the basis of almost all functional
+   programming languages today.
+
+   Combinatory logic is an equivalent theoretical foundation, developed by
+   Moses Schönfinkel and Haskell Curry. It was originally developed to
+   achieve a larger goal: a clearer approach to the foundations of
+   mathematics. Combinatory logic, which is commonly perceived as more
+   abstract than lambda calculus, preceded lambda-calculus in invention.
+
+   The first computer-based functional programming language was
+   Information Processing Language (IPL), developed by Newell, Shaw, and
+   Simon at RAND Corporation for the JOHNNIAC computer in the mid-1950s.
+   An early functional-flavored programming language was LISP (now
+   mixed-case "Lisp"), developed by John McCarthy while at MIT for the IBM
+   700/7000 series scientific computers in the late 1950s. LISP introduced
+   many of the features now found in modern functional programming
+   languages, though LISP is technically a multi-paradigm language. Scheme
+   and Dylan were later attempts to simplify and improve LISP.
+
+   Kenneth E. Iverson developed the APL programming language in the early
+   1960s, described in his 1962 book "A Programming Language." APL was the
+   primary influence on John Backus's FP programming language. In the
+   early 1990s, Iverson and Roger Hui created a successor to APL, the J
+   programming language. In the mid 1990s, Arthur Whitney, who had
+   previously worked with Iverson, created the K programming language,
+   which is used commercially in financial industries.
+
+   John Backus presented the FP programming language in his 1977 Turing
+   Award lecture Can Programming Be Liberated From the von Neumann Style?
+   A Functional Style and its Algebra of Programs. He defines functional
+   programs as being built up in a hierarchical way by means of "combining
+   forms" that allow an "algebra of programs"; in modern language, this
+   means that functional program follow the principle of compositionality.
+   Backus's paper popularized research into functional programming, though
+   it emphasized function-level programming rather than the
+   lambda-calculus style which has come to be associated with functional
+   programming.
+
+   In the 1970s the ML programming language was created by Robin Milner at
+   the University of Edinburgh, and David Turner developed the language
+   Miranda at the University of Kent. ML eventually developed into several
+   dialects, the most common of which are now Objective Caml and Standard
+   ML. The Haskell programming language was released in the late 1980s in
+   an attempt to gather together many ideas in functional programming
+   research.
+
+Concepts
+
+   A number of concepts and paradigms are specific to functional
+   programming, and generally foreign to imperative programming (including
+   object oriented programming). However, programming languages are often
+   hybrids of several programming paradigms so programmers using "mostly
+   imperative" languages may have utilized some of these concepts.
+
+Higher-order functions
+
+   Functional programming uses the notion of higher-order functions.
+   Functions are higher-order when they can take other functions as
+   arguments, and/or return functions as results. (The derivative and
+   antiderivative in calculus are mathematical examples of functions that
+   map a function to another function.)
+
+   Higher-order functions are closely related to first-class functions, in
+   that higher-order functions and first-class functions both allow
+   functions as arguments and results of other functions. The distinction
+   between the two is subtle: "higher-order" describes a mathematical
+   concept of functions that operate on other functions, while
+   "first-class" is a computer science term that describes programming
+   language entities that have no restriction on their use (thus
+   first-class functions can appear anywhere in the program that other
+   first-class entities like numbers can, including as arguments to other
+   functions and as their return values).
+
+   Higher-order functions enable currying, a technique in which a function
+   is applied to its arguments one at a time, with each application
+   returning a new (higher-order) function that accepts the next argument.
+
+Pure functions
+
+   Purely functional programs have no side-effects. Not all functional
+   programs or functional programming languages are purely functional.
+   Since pure functions do not modify state, no data may be changed by
+   parallel function calls. Pure functions are therefore thread-safe,
+   which allows languages to use call-by-future evaluation. The lack of
+   side-effects allows some languages, such as Haskell, to use
+   call-by-need evaluation.
+
+   "Pure" functional programming languages typically enforce referential
+   transparency, which is the notion that 'equals can be substituted for
+   equals': if two expressions have "equal" values (for some notion of
+   equality), then one can be substituted for the other in any larger
+   expression without affecting the result of the computation. For
+   example, in
+y = f(x) * f(x);
+
+   a compiler can factor out f(x) if it is pure, transforming the program
+   to
+z = f(x);
+y = z * z;
+
+   and eliminating the second evaluation of the (possibly costly) call to
+   f(x). This optimization is called common subexpression elimination.
+
+   However, if a function has side effects, the function call cannot be
+   eliminated. Consider the following program fragment:
+y = random() * random();
+
+   The second call to random cannot be eliminated, because its return
+   value may be different from that of the first call. Similarly,
+y = printf("x") * printf("x");
+
+   cannot be optimized away; even if printf returns the same value both
+   times, failing to make the second call would result in different
+   program output.
+
+   Most compilers for imperative programming languages do not perform
+   common subexpression elimination for function calls, because they do
+   not track whether a function is pure. It is possible for an advanced
+   compiler to infer whether a local function has effects and optimize
+   accordingly; however, most pre-compiled libraries do not expose this
+   information, preventing calls to external functions from being
+   optimized away. Some compilers, such as gcc, add extra keywords for a
+   programmer to explicitly mark pure functions so that this optimization
+   can be performed.
+
+Recursion
+
+   Iteration (looping) in functional languages is usually accomplished via
+   recursion. Recursive functions invoke themselves, allowing an operation
+   to be performed over and over. Recursion may require maintaining a
+   stack, but tail recursion can be recognized and optimized by a compiler
+   into the same code used to implement iteration in imperative languages.
+   The Scheme programming language standard requires implementations to
+   recognize and optimize tail recursion.
+
+   Common patterns of recursion can be factored out using higher order
+   functions, catamorphisms and anamorphisms (or "folds" and "unfolds")
+   being the most obvious examples. Such higher order functions play a
+   role analogous to built-in control structures such as loops in
+   imperative languages.
+
+Functional programming in non-functional languages
+
+   It is possible to employ a functional style of programming in languages
+   that are not traditionally considered functional languages. Some
+   non-functional languages have borrowed features such as lambda
+   functions, higher-order functions, and list comprehensions from
+   functional programming languages. This makes it easier to adopt a
+   functional style when using these languages. Functional constructs such
+   as higher-order functions and lazy lists can be obtained in C++ via
+   libraries. In C one can use function pointers to get some of the
+   effects of higher-order functions, for example one can implement the
+   common function map using function pointers. Widespread declarative
+   domain specific languages like SQL and Lex/ Yacc, while not
+   Turing-complete, use some elements of functional programming,
+   especially in eschewing mutable values.
+
+Comparison of functional and imperative programming
+
+   Functional programming is very different from imperative programming.
+   The most significant differences stem from the fact that functional
+   programming avoids side effects, which are used in imperative
+   programming to implement state and I/O. Pure functional programming
+   disallows side effects completely. Disallowing side effects provides
+   for referential transparency, which makes it easier to verify,
+   optimize, and parallelize programs, and easier to write automated tools
+   to perform those tasks.
+
+   Higher order functions are rarely used in older imperative programming.
+   Where a traditional imperative program might use a loop to traverse a
+   list, a functional style would often use a higher-order function, map,
+   that takes as argument a function and a list, applies the function to
+   each element of the list, and returns a list of the results.
+
+Simulating state
+
+   There are tasks—for example, maintaining a bank account balance—that
+   often seem most naturally implemented with state. Pure functional
+   programming performs these tasks, and I/O tasks such as accepting user
+   input and printing to the screen, in a different way.
+
+   The pure functional programming language Haskell implements them using
+   monads, derived from category theory in mathematics. Monads are
+   extremely powerful and offer an intuitive way to model state (and other
+   side effects such as IO) in an imperative manner without losing purity.
+   While existing monads are easy to use, many find it difficult to
+   understand how to define new monads (which is sometimes needed for
+   certain types of libraries).
+
+   Alternative methods such as Hoare logic have been developed to track
+   side effects in programs. Some modern research languages use effect
+   systems to make explicit the presence of side effects.
+
+Efficiency issues
+
+   Functional programming languages have automatic memory management with
+   garbage collection, in contrast to older imperative languages like C
+   and Pascal which use explicit memory management. Functional programming
+   languages have been perceived as less efficient in their use of CPU and
+   memory than those languages. However, many modern imperative languages
+   such as Java, Perl, Python, and Ruby also perform automatic memory
+   management.
+
+   Functional programming languages have become more efficient over the
+   years. For programs which perform intensive numerical computations,
+   functional languages such as OCaml and Clean are similar in speed to C.
+   For programs that handle large matrices and multidimensional databases,
+   array functional languages (such as J and K) were designed with speed
+   optimization in mind. Despite purely functional languages having a
+   reputation for being slower, any imperative algorithm is expressible in
+   these languages with a logarithmic slowdown in the worst case.
+   Moreover, the immutability of data can in many cases lead to greater
+   execution efficiency owing to the compiler making assumptions that are
+   unsafe in an imperative language.
+
+Coding styles
+
+   Imperative programs tend to emphasize the series of steps taken by a
+   program in carrying out an action, while functional programs tend to
+   emphasize the composition and arrangement of functions, often without
+   specifying explicit steps. A simple example of two solutions to the
+   same programming goal (using the same multi-paradigm language Python)
+   illustrates this.
+# imperative style
+target = []               # create empty list
+for item in source_list:  # iterate over each thing in source
+    trans1 = G(item)      # transform the item with the G() function
+    trans2 = F(trans1)    # second transform with the F() function
+    target.append(trans2) # add transformed item to target
+
+   A functional version has a different feel to it:
+# functional style
+def compose2(F, G):       # FP-oriented languages often have standard compose()
+    def C(item):          # here we create utility-function for composition
+        return F(G(item))
+    return C
+target = map(compose2(F,G), source_list)
+
+# More compact examples of the functional paradigm in Python:
+target =  map(lambda x: F(G(x)), source_list) # uses a lambda form with map
+# or:
+target = [F(G(item)) for item in source_list] # a list comprehension
+
+   In contrast to the imperative style that describes the steps involved
+   in building target, the functional style describes the mathematical
+   relationship between source_list and target.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Functional_programming"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

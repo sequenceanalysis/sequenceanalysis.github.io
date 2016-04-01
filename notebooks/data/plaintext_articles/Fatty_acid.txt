@@ -1,0 +1,286 @@
+   #copyright
+
+Fatty acid
+
+2007 Schools Wikipedia Selection. Related subjects: Food and agriculture;
+Health and medicine
+
+      Types of Fats in Food
+     * Unsaturated fat
+          + Monounsaturated fat
+          + Polyunsaturated fat
+          + Trans fat
+          + Omega: 3, 6, 9
+     * Saturated fat
+
+            See Also
+     * Fatty acid
+     * Essential fatty acid
+
+   In chemistry, especially biochemistry, a fatty acid is a carboxylic
+   acid often with a long unbranched aliphatic tail ( chain), which is
+   either saturated or unsaturated. Carboxylic acids as short as butyric
+   acid (4 carbon atoms) are considered to be fatty acids, while fatty
+   acids derived from natural fats and oils may be assumed to have at
+   least 8 carbon atoms, e.g. caprylic acid (octanoic acid). Most of the
+   natural fatty acids have an even number of carbon atoms, because their
+   biosynthesis involves acetyl-CoA, a coenzyme carrying a two-carbon-atom
+   group.
+
+   Industrially, fatty acids are produced by the hydrolysis of the ester
+   linkages in a fat or biological oil (both of which are triglycerides),
+   with the removal of glycerol. See oleochemicals.
+
+Types of fatty acids
+
+   Several fatty acid molecules
+   Several fatty acid molecules
+
+Saturated fatty acids
+
+   Saturated fatty acids do not contain any double bonds or other
+   functional groups along the chain. The term "saturated" refers to
+   hydrogen, in that all carbons (apart from the carboxylic acid [-COOH]
+   group) contain as many hydrogens as possible. In other words, the omega
+   (ω) end contains 3 hydrogens (CH[3]-) and each carbon within the chain
+   contains 2 hydrogen
+
+   Saturated fatty acids form straight chains and, as a result, can be
+   packed together very tightly, allowing living organisms to store
+   chemical energy very densely. The fatty tissues of animals contain
+   large amounts of long-chain saturated fatty acids. In IUPAC
+   nomenclature, fatty acids have an [-oic acid] suffix. In common
+   nomenclature, the suffix is usually -ic.
+
+   The shortest descriptions of fatty acids include only the number of
+   carbon atoms and double bonds in them (e.g. C18:0 or 18:0). C18:0 means
+   that the carbon chain of the fatty acid consists of 18 carbon atoms and
+   there are no (zero) double bonds in it, whereas C18:1 describes an
+   18-carbon chain with one double bond in it. Each double bond can be
+   either in a cis- or trans- conformation and in a different position
+   with respect to the ends of the fatty acid, therefore, not all C18:1s,
+   for example, are identical. If there is one or more double bonds in the
+   fatty acid, it is no longer considered saturated, rather it makes it
+   mono- or polyunsaturated.
+
+   Most commonly occurring saturated fatty acids are:
+   This is a computer generated image of Dodecanoic Acid, a fatty acid.
+   Enlarge
+   This is a computer generated image of Dodecanoic Acid, a fatty acid.
+     * Butyric (butanoic acid): CH[3](CH[2])[2]COOH or C4:0
+     * Caproic (hexanoic acid): CH[3](CH[2])[4]COOH or C6:0
+     * Caprylic (octanoic acid): CH[3](CH[2])[6]COOH or C8:0
+     * Capric (decanoic acid): CH[3](CH[2])[8]COOH or C10:0
+     * Lauric (dodecanoic acid): CH[3](CH[2])[10]COOH or C12:0
+     * Myristic (tetradecanoic acid): CH[3](CH[2])[12]COOH or C14:0
+     * Palmitic (hexadecanoic acid): CH[3](CH[2])[14]COOH or C16:0
+     * Stearic (octadecanoic acid): CH[3](CH[2])[16]COOH or C18:0
+     * Arachidic (eicosanoic acid): CH[3](CH[2])[18]COOH or C20:0
+     * Behenic (docosanoic acid): CH[3](CH[2])[20]COOH or C22:0
+
+Unsaturated fatty acids
+
+   Unsaturated fatty acids are of similar form, except that one or more
+   alkenyl functional groups exist along the chain, with each alkene
+   substituting a singly- bonded " -CH[2]-CH[2]-" part of the chain with a
+   doubly-bonded "-CH=CH-" portion (that is, a carbon double bonded to
+   another carbon).
+
+   The two next carbon atoms in the chain that are bound to either side of
+   the double bond can occur in a cis or trans configuration.
+
+   cis
+          A cis configuration means that the two carbons are on the same
+          side of the double bond. The rigidity of the double bond freezes
+          its conformation and, in the case of the cis isomer, causes the
+          chain to bend and restricts the conformational freedom of the
+          fatty acid. The more double bonds the chain has in the cis
+          configuration, the less flexibility it has. When a chain has
+          many cis bonds, it becomes quite curved in its most accessible
+          conformations. For example, oleic acid, with one double bond,
+          has a "kink" in it, while linoleic acid, with two double bonds,
+          has a more pronounced bend. Alpha-linolenic acid, with three
+          double bonds, favors a hooked shape. The effect of this is that
+          in restricted environments, such as when fatty acids are part of
+          a phospholipid in a lipid bilayer, or triglycerides in lipid
+          droplets, cis bonds limit the ability of fatty acids to be
+          closely packed and therefore could affect the melting
+          temperature of the membrane or of the fat.
+
+   trans
+          A trans configuration, by contrast, means that the next two
+          carbon atoms are bound to opposite sides of the double bond. As
+          a result, they don't cause the chain to bend much, and their
+          shape is similar to straight saturated fatty acids.
+
+   In most naturally occurring unsaturated fatty acids, each double bond
+   has 3n carbon atoms after it, for some n, and all are cis bonds. Most
+   fatty acids in the trans configuration (trans fats) are not found in
+   nature and are the result of human processing (eg, hydrogenation).
+
+   The differences in geometry between the various types of unsaturated
+   fatty acids, as well as between saturated and unsaturated fatty acids,
+   play an important role is biological processes, and in the construction
+   of biological structures (such as cell membranes).
+
+Nomenclature
+
+   There are two different ways to make clear where the double bonds are
+   located in molecules. For example:
+     * cis/trans-Delta-x or cis/trans-Δ^x: The double bond is located on
+       the xth carbon-carbon bond, counting from the carboxyl terminus.
+       The cis or trans notation indicates whether the molecule is
+       arranged in a cis or trans conformation. In the case of a molecule
+       having more than one double bond, the notation is, for example,
+       cis,cis-Δ^9,Δ^12.
+     * Omega-x or ω-x : A double bond is located on the xth carbon-carbon
+       bond, counting from the ω, (methyl carbon) end of the chain.
+       Sometimes, the symbol ω is substituted with a lowercase letter n,
+       making it n-6 or n-3.
+
+   Examples of unsaturated fatty acids:
+     * Oleic acid: CH[3](CH[2])[7]CH=CH(CH[2])[7]COOH or cis-Δ^9 C18:1
+     * Linoleic acid: CH[3](CH[2])[4]CH=CHCH[2]CH=CH(CH[2])[7]COOH or
+       C18:2
+     * Alpha-linolenic acid:
+       CH[3]CH[2]CH=CHCH[2]CH=CHCH[2]CH=CH(CH[2])[7]COOH or C18:3
+     * Arachidonic acid
+       CH[3](CH[2])[4]CH=CHCH[2]CH=CHCH[2]CH=CHCH[2]CH=CH(CH[2])[3]COOH^
+       NIST or C20:4
+     * Eicosapentaenoic acid or C20:5
+     * Docosahexaenoic acid or C22:6
+     * Erucic acid: CH[3](CH[2])[7]CH=CH(CH[2])[11]COOH or C22:1
+
+   Alpha-linolenic, docosahexaenoic, and eicosapentaenoic acids are
+   examples of omega-3 fatty acids. Linoleic acid and arachidonic acid are
+   omega-6 fatty acids. Oleic and erucic acid are omega-9 fatty acids.
+   Stearic and oleic acid are both 18 C fatty acids. They differ only in
+   that stearic acid is saturated with hydrogen, while oleic acid is an
+   unsaturated fatty acid with two fewer hydrogens.
+
+Essential fatty acids
+
+   The human body can produce all but two of the fatty acids it needs.
+   These two, linoleic acid and alpha-linolenic acid, are widely
+   distributed in plant and fish oils. Since they cannot be made in the
+   body from other substrates and must be supplied in food, they are
+   called essential fatty acids. In the body, essential fatty acids are
+   primarily used to produce hormone-like substances that regulate a wide
+   range of functions, including blood pressure, blood clotting, blood
+   lipid levels, the immune response, and the inflammation response to
+   injury infection.
+
+   Essential fatty acids are polyunsaturated fatty acids and are the
+   parent compounds of the omega-6 and omega-3 fatty acid series,
+   respectively. They are essential in the human diet because there is no
+   synthetic mechanism for them. Humans can easily make saturated fatty
+   acids or monounsaturated fatty acids with a double bond at the omega-9
+   position, but do not have the enzymes necessary to introduce a double
+   bond at the omega-3 or omega-6 position.
+
+   The essential fatty acids are important in several human body systems,
+   including the immune system and in blood pressure regulation, since
+   they are used to make compounds such as prostaglandins. The brain has
+   increased amounts of linolenic and alpha-linoleic acid derivatives.
+   Changes in the levels and balance of these fatty acids due to a typical
+   Western diet rich in omega-6 and poor in omega-3 fatty acids is alleged
+   to be associated with depression and behavioral change, including
+   violence. The actual connection, if any, is still under investigation.
+   Further, changing to a more natural diet, or consumption of supplements
+   to compensate for a dietary imbalance, has been associated with reduced
+   violent behaviour and increased attention span, but the mechanisms for
+   the effect are still unclear. So far, at least three human studies have
+   shown results that support this: two school studies as well as a double
+   blind study in a prison.
+
+Trans fatty acids
+
+   A trans fatty acid (commonly shortened to trans fat) is an unsaturated
+   fatty acid molecule that contains a trans double bond between carbon
+   atoms, which makes the molecule less 'kinked' in comparison to fatty
+   acids with cis double bonds. These bonds are characteristically
+   produced during industrial hydrogenation of plant oils. Research
+   suggests that increasing amounts of trans fats are, for causal reasons
+   not well understood, correlate with circulatory diseases such as
+   atherosclerosis and coronary heart disease, than the same amount of
+   non-trans fats.
+
+Free fatty acids
+
+   Fatty acids can be bound or attached to other molecules, such as in
+   triglycerides or phospholipids. When they are not attached to other
+   molecules, they are known as "free" fatty acids.
+
+   The uncombined fatty acids or free fatty acids may come from the
+   breakdown of a triglyceride into its components (fatty acids and
+   glycerol).
+
+   Free fatty acids are an important source of fuel for many tissues since
+   they can yield relatively large quantities of ATP. Many cell types can
+   use either glucose or fatty acids for this purpose. However, heart and
+   skeletal muscle prefer fatty acids. On the other hand, the brain cannot
+   use fatty acids as a source of fuel, relying instead on glucose, or on
+   ketone bodies produced by the liver from fatty acid metabolism during
+   starvation, or periods of low carbohydrate intake.
+
+Fatty acids in dietary fats
+
+   The following table gives the fatty acid and cholesterol composition of
+   some common dietary fats.
+                 Saturated Monounsaturated Polyunsaturated Cholesterol Vitamin E
+                  g/100g       g/100g          g/100g        mg/100g    mg/100g
+  Animal fats
+  Lard                40.8            43.8             9.6          93      0.00
+  Butter              54.0            19.8             2.6         230      2.00
+  Vegetable fats
+  Coconut oil         85.2             6.6             1.7           0       .66
+  Palm oil            45.3            41.6             8.3           0     33.12
+  Cottonseed oil      25.5            21.3            48.1           0     42.77
+  Wheat germ oil      18.8            15.9            60.7           0    136.65
+  Soya oil            14.5            23.2            56.5           0     16.29
+  Olive oil           14.0            69.7            11.2           0      5.10
+  Corn oil            12.7            24.7            57.8           0     17.24
+  Sunflower oil       11.9            20.2            63.0           0     49.0
+  Safflower oil       10.2            12.6            72.1           0     40.68
+  Rapeseed oil         5.3            64.3            24.8           0     22.21
+
+Acidity
+
+   Short chain carboxylic acids such as formic acid and acetic acid are
+   miscible with water and dissociate to form reasonably strong acids (
+   pK[a] 3.77 and 4.76, respectively). Longer chain fatty acids do not
+   show a great change in pK[a]. Nonanoic acid, for example, has a pK[a]
+   of 4.96. However, as the chain length increases the solubility of the
+   fatty acids in water decreases very rapidly, so that the longer chain
+   fatty acids have very little effect on the pH of a solution. The
+   significance of their pK[a] values therefore only has relevance to the
+   types of reactions in which they can take part.
+
+   Even those fatty acids that are insoluble in water will dissolve in
+   warm ethanol, and can be titrated with sodium hydroxide solution using
+   phenolphthalein as an indicator to a pale pink endpoint. This analysis
+   is used to determine the free fatty acid content of fats, i.e. the
+   proportion of the triglycerides that have been hydrolyzed.
+
+Reaction of fatty acids
+
+   Fatty acids react just like any other carboxylic acid, which means they
+   can undergo esterification and acid-base reactions. Reduction of fatty
+   acids yields fatty alcohols. Unsaturated fatty acids can additionally
+   undergo addition reactions, most commonly hydrogenation, which is used
+   to convert vegetable oils into margarine. With partial hydrogenation,
+   unsaturated fatty acids can be isomerized from cis to trans
+   configuration.
+
+Auto-oxidation and rancidity
+
+   Fatty acids at room temperature undergo a chemical change known as
+   auto-oxidation. The fatty acid breaks down into hydrocarbons, ketones,
+   aldehydes, and smaller amounts of epoxides and alcohols. Heavy metals
+   present at low levels in fats and oils promote auto-oxidation. Fats and
+   oils often are treated with chelating agents such as citric acid.
+   Retrieved from " http://en.wikipedia.org/wiki/Fatty_acid"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

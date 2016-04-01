@@ -1,0 +1,641 @@
+   #copyright
+
+Noam Chomsky
+
+2007 Schools Wikipedia Selection. Related subjects: Linguistics
+
+                   Avram Noam Chomsky
+                      Noam Chomsky
+         Born December 7, 1928
+              East Oak Lane, Philadelphia, Pennsylvania
+   Occupation Linguist
+
+   Avram Noam Chomsky, Ph.D (born December 7, 1928) is the Institute
+   Professor Emeritus of linguistics at the Massachusetts Institute of
+   Technology. Chomsky is credited with the creation of the theory of
+   generative grammar, considered to be one of the most significant
+   contributions to the field of theoretical linguistics made in the 20th
+   century. He also helped spark the cognitive revolution in psychology
+   through his review of B.F. Skinner's Verbal Behaviour, in which he
+   challenged the behaviorist approach to the study of mind and language
+   dominant in the 1950s. His naturalistic approach to the study of
+   language has also affected the philosophy of language and mind (see
+   Harman, Fodor). He is also credited with the establishment of the
+   Chomsky–Schützenberger hierarchy, a classification of formal languages
+   in terms of their generative power.
+
+   Beginning with his critique of the Vietnam War in the 1960s, Chomsky
+   has become more widely known — especially internationally — for his
+   media criticism and radical politics than for his linguistic theories.
+   He is generally considered to be a key intellectual figure within the
+   left wing of United States politics. According to the Arts and
+   Humanities Citation Index, between 1980 and 1992 Chomsky was cited as a
+   source more often than any other living scholar, and the eighth most
+   cited scholar overall. Chomsky is widely known for his political
+   activism, and for his criticism of the foreign policy of the United
+   States and other governments. Chomsky describes himself as a
+   libertarian socialist and a sympathizer of anarcho-syndicalism (he is a
+   member of the IWW).
+
+Biography
+
+   Chomsky was born in the East Oak Lane neighbourhood of Philadelphia,
+   Pennsylvania, the son of Hebrew scholar and IWW member William Chomsky,
+   who was from a town in Ukraine. His mother, Elsie Chomsky (born
+   Simonofsky), came from what is now Belarus, but unlike her husband she
+   grew up in the United States and spoke "ordinary New York English".
+   Their first language was Yiddish, but Chomsky says it was "taboo" in
+   his family to speak it. He describes his family as living in a sort of
+   "Jewish ghetto", split into a "Yiddish side" and "Hebrew side", with
+   his family aligning with the latter and bringing him up "immersed in
+   Hebrew culture and literature". Chomsky also describes tensions he
+   personally experienced with Irish Catholics and anti-Semitism in the
+   mid-1930s, stating, "I don't like to say it but I grew up with a kind
+   of visceral fear of Catholics. I knew it was irrational and got over it
+   but it was just the street experience."
+
+   Chomsky remembers the first article he wrote was at the age of ten
+   about the threat of the spread of fascism, following the fall of
+   Barcelona in the Spanish Civil War. From the age of twelve or thirteen,
+   he identified more fully with anarchist politics.
+
+   A graduate of Central High School of Philadelphia (184th Class), in
+   1945 Chomsky began studying philosophy and linguistics at the
+   University of Pennsylvania, learning from philosophers C. West
+   Churchman and Nelson Goodman and linguist Zellig Harris. Harris's
+   teaching included his discovery of transformations as a mathematical
+   analysis of language structure (mappings from one subset to another in
+   the set of sentences). Chomsky subsequently reinterpreted these as
+   operations on the productions of a context-free grammar (derived from
+   Post production systems). Harris's political views were instrumental in
+   shaping those of Chomsky.
+
+   In 1949, Chomsky married linguist Carol Schatz. They have two
+   daughters, Aviva (b. 1957) and Diane (b. 1960), and a son, Harry (b.
+   1967).
+
+   Chomsky received his Ph.D. in linguistics from the University of
+   Pennsylvania in 1955. He conducted much of his doctoral research during
+   four years at Harvard University as a Harvard Junior Fellow. In his
+   doctoral thesis, he began to develop some of his linguistic ideas,
+   elaborating on them in his 1957 book Syntactic Structures, perhaps his
+   best-known work in linguistics.
+
+   Chomsky joined the staff of the Massachusetts Institute of Technology
+   in 1955 and in 1961 was appointed full professor in the Department of
+   Modern Languages and Linguistics (now the Department of Linguistics and
+   Philosophy). From 1966 to 1976 he held the Ferrari P. Ward
+   Professorship of Modern Languages and Linguistics. In 1976 he was
+   appointed Institute Professor. Chomsky has been teaching at MIT
+   continuously for the last 50 years.
+
+   It was during this time that Chomsky became more publicly engaged in
+   politics: he became one of the leading opponents of the Vietnam War
+   with the publication of his essay "The Responsibility of Intellectuals"
+   in The New York Review of Books in 1967. Since that time, Chomsky has
+   become well known for his political views, speaking on politics all
+   over the world and writing numerous books. His far-reaching criticism
+   of US foreign policy and the legitimacy of US power has made him a
+   controversial figure.
+
+   Chomsky has in the past received various death threats because of his
+   criticisms of U.S foreign policy. He was on a list created by Theodore
+   Kaczynski, better known as the Unabomber, of planned targets; during
+   the period that Kaczynski was at large, Chomsky had all of his mail
+   checked for explosives. Chomsky also states that he frequently receives
+   undercover police protection, in particular while on the MIT campus,
+   though Chomsky himself states that he does not agree with the police
+   protection.
+
+   Despite his criticisms, Chomsky has stated that he continues to reside
+   in the United States because he believes it remains the "greatest
+   country in the world," a comment that he later clarified by saying,
+   "Evaluating countries is senseless and I would never put things in
+   those terms, but that some of America's advances, particularly in the
+   area of free speech, that have been achieved by centuries of popular
+   struggle, are to be admired." Chomsky travels frequently, giving
+   lectures on politics. His lectures have been described as compelling
+   and sincere, though largely devoid of personality or emotion. Chomsky
+   has acknowledged this criticism, seeing it more as a virtue: "I'm a
+   boring speaker and I like it that way…I doubt that people are attracted
+   to whatever the persona is…People are interested in the issues, and
+   they're interested in the issues because they are important.
+
+   In 2003 he was elected as a member of Serbian Academy of Sciences and
+   Arts.
+
+Contributions to linguistics
+
+   Syntactic Structures was a distillation of his book Logical Structure
+   of Linguistic Theory (1955, 75) in which he introduces transformational
+   grammars. The theory takes utterances (sequences of words) to have a
+   syntax which can be (largely) characterized by a formal grammar; in
+   particular, a Context-free grammar extended with transformational
+   rules. Children are hypothesized to have an innate knowledge of the
+   basic grammatical structure common to all human languages (i.e. they
+   assume that any language which they encounter is of a certain
+   restricted kind). This innate knowledge is often referred to as
+   universal grammar. It is argued that modeling knowledge of language
+   using a formal grammar accounts for the "productivity" of language:
+   with a limited set of grammar rules and a finite set of terms, humans
+   are able to produce an infinite number of sentences, including
+   sentences no one has previously said.
+
+   The Principles and Parameters approach (P&P) — developed in his Pisa
+   1979 Lectures, later published as Lectures on Government and Binding
+   (LGB) — make strong claims regarding universal grammar: that the
+   grammatical principles underlying languages are innate and fixed, and
+   the differences among the world's languages can be characterized in
+   terms of parameter settings in the brain (such as the pro-drop
+   parameter, which indicates whether an explicit subject is always
+   required, as in English, or can be optionally dropped, as in Spanish),
+   which are often likened to switches. (Hence the term principles and
+   parameters, often given to this approach.) In this view, a child
+   learning a language need only acquire the necessary lexical items
+   (words, grammatical morphemes, and idioms), and determine the
+   appropriate parameter settings, which can be done based on a few key
+   examples.
+
+   Proponents of this view argue that the pace at which children learn
+   languages is inexplicably rapid, unless children have an innate ability
+   to learn languages. The similar steps followed by children all across
+   the world when learning languages, and the fact that children make
+   certain characteristic errors as they learn their first language,
+   whereas other seemingly logical kinds of errors never occur (and,
+   according to Chomsky, should be attested if a purely general, rather
+   than language-specific, learning mechanism were being employed), are
+   also pointed to as motivation for innateness.
+
+   More recently, in his Minimalist Program (1995), while retaining the
+   core concept of "principles and parameters", Chomsky attempts a major
+   overhaul of the linguistic machinery involved in the LGB model,
+   stripping from it all but the barest necessary elements, while
+   advocating a general approach to the architecture of the human language
+   faculty that emphasizes principles of economy and optimal design,
+   reverting to a derivational approach to generation, in contrast with
+   the largely representational approach of classic P&P.
+
+   Chomsky's ideas have had a strong influence on researchers
+   investigating the acquisition of language in children, though some
+   researchers who work in this area today do not support Chomsky's
+   theories, often advocating emergentist or connectionist theories
+   reducing language to an instance of general processing mechanisms in
+   the brain.
+
+Generative grammar
+
+   The Chomskyan approach towards syntax, often termed generative grammar,
+   though quite popular, has been challenged by many, especially those
+   working outside the United States of America. Chomskyan syntactic
+   analyses are often highly abstract, and are based heavily on careful
+   investigation of the border between grammatical and ungrammatical
+   constructs in a language. (Compare this to the so-called pathological
+   cases that play a similarly important role in mathematics.) Such
+   grammatical judgments can only be made accurately by a native speaker,
+   however, and thus for pragmatic reasons such linguists often focus on
+   their own native languages or languages in which they are fluent,
+   usually Spanish, English, French, German, Dutch, Italian, Japanese or
+   one of the Chinese languages. However, as Chomsky has said:
+
+     The first application of the approach was to Modern Hebrew, a fairly
+     detailed effort in 1949–50. The second was to the native American
+     language Hidatsa (the first full-scale generative grammar), mid-50s.
+     The third was to Turkish, our first Ph.D. dissertation, early 60s.
+     After that research on a wide variety of languages took off. MIT in
+     fact became the international centre of work on Australian
+     Aboriginal languages within a generative framework [...] thanks to
+     the work of Ken Hale, who also initiated some of the most
+     far-reaching work on Native American languages, also within our
+     program; in fact the first program that brought native speakers to
+     the university to become trained professional linguists, so that
+     they could do work on their own languages, in far greater depth than
+     had ever been done before. That has continued. Since that time,
+     particularly since the 1980s, it constitutes the vast bulk of work
+     on the widest typological variety of languages.
+
+   Sometimes generative grammar analyses break down when applied to
+   languages which have not previously been studied, and many changes in
+   generative grammar have occurred due to an increase in the number of
+   languages analyzed. It is claimed that linguistic universals in
+   semantics have become stronger rather than weaker over time. The
+   existence of linguistic universals in syntax, which is the core of
+   Chomsky's claim, is still highly disputed. Still, Richard Kayne
+   suggested in the 1990s that all languages have an underlying
+   Subject-Verb-Object word order. One of the prime motivations behind an
+   alternative approach, the functional-typological approach or linguistic
+   typology (often associated with Joseph Greenberg), is to base
+   hypotheses of linguistic universals on the study of as wide a variety
+   of the world's languages as possible, to classify the variation seen,
+   and to form theories based on the results of this classification. The
+   Chomskyan approach is too in-depth and reliant on native speaker
+   knowledge to follow this method, though it has over time been applied
+   to a broad range of languages.
+
+Chomsky hierarchy
+
+   Chomsky is famous for investigating various kinds of formal languages
+   and whether or not they might be capable of capturing key properties of
+   human language. His Chomsky hierarchy partitions formal grammars into
+   classes, or groups, with increasing expressive power, i.e., each
+   successive class can generate a broader set of formal languages than
+   the one before. Interestingly, Chomsky argues that modeling some
+   aspects of human language requires a more complex formal grammar (as
+   measured by the Chomsky hierarchy) than modeling others. For example,
+   while a regular language is powerful enough to model English
+   morphology, it is not powerful enough to model English syntax. In
+   addition to being relevant in linguistics, the Chomsky hierarchy has
+   also become important in computer science (especially in compiler
+   construction and automata theory).
+
+   His best-known work in phonology is The Sound Pattern of English,
+   written with Morris Halle (and often known as simply SPE). Though
+   extremely influential in its day, this work is considered outdated
+   (though it has recently been reprinted), and Chomsky does not publish
+   on phonology anymore.
+
+            Automata theory: formal languages and formal grammars
+   Chomsky
+   hierarchy Grammars Languages Minimal
+   automaton
+   Type-0 Unrestricted Recursively enumerable Turing machine
+   n/a (no common name) Recursive Decider
+   Type-1 Context-sensitive Context-sensitive Linear-bounded
+   Type-2 Context-free Context-free Pushdown
+   Type-3 Regular Regular Finite
+      Each category of languages or grammars is a proper subset of the
+                         category directly above it.
+
+Contributions to psychology
+
+   Chomsky's work in linguistics has had major implications for modern
+   psychology. For Chomsky linguistics is a branch of cognitive
+   psychology; genuine insights in linguistics imply concomitant
+   understandings of aspects of mental processing and human nature. His
+   theory of a universal grammar was seen by many as a direct challenge to
+   the established behaviorist theories of the time and had major
+   consequences for understanding how language is learned by children and
+   what, exactly, the ability to use language is. Many of the more basic
+   principles of this theory (though not necessarily the stronger claims
+   made by the principles and parameters approach described above) are now
+   generally accepted in some circles.
+
+   In 1959, Chomsky published an influential critique of B.F. Skinner's
+   Verbal Behaviour, a book in which Skinner offered a speculative
+   explanation of language in behavioral terms. "Verbal behavior" he
+   defined as learned behavior which has its characteristic consequences
+   being delivered through the learned behaviour of others; this makes for
+   a view of communicative behaviors much larger than that usually
+   addressed by linguists. Skinner's approach focused on the circumstances
+   in which language was used; for example, asking for water was
+   functionally a different response than labeling something as water,
+   responding to someone asking for water, etc. These functionally
+   different kinds of responses, which required in turn separate
+   explanations, sharply contrasted both with traditional notions of
+   language and Chomsky's psycholinguistic approach. Chomsky thought that
+   a functionalist explanation restricting itself to questions of
+   communicative performance ignored important questions.
+   (Chomsky-Language and Mind, 1968). He focused on questions concerning
+   the operation and development of innate structures for syntax capable
+   of creatively organizing, cohering, adapting and combining words and
+   phrases into intelligible utterances.
+
+   In the review Chomsky emphasized that the scientific application of
+   behavioral principles from animal research is severely lacking in
+   explanatory adequacy and is furthermore particularly superficial as an
+   account of human verbal behavior because a theory restricting itself to
+   external conditions, to "what is learned", cannot adequately account
+   for generative grammar. Chomsky raised the examples of rapid language
+   acquisition of children, including their quickly developing ability to
+   form grammatical sentences, and the universally creative language use
+   of competent native speakers to highlight the ways in which Skinner's
+   view exemplified under-determination of theory by evidence. He argued
+   that to understand human verbal behaviour such as the creative aspects
+   of language use and language development, one must first postulate a
+   genetic linguistic endowment. The assumption that important aspects of
+   language are the product of universal innate ability runs counter to
+   Skinner's radical behaviorism.
+
+   Chomsky's 1959 review has drawn fire from a number of critics, the most
+   famous criticism being that of Kenneth MacCorquodale's 1970 paper On
+   Chomsky’s Review of Skinner’s Verbal Behaviour (Journal of the
+   Experimental Analysis of Behaviour, volume 13, pages 83-99). This and
+   similar critiques have raised certain points not generally acknowledged
+   outside of behavioral psychology, such as the claim that Chomsky did
+   not possess an adequate understanding of either behavioral psychology
+   in general, or the differences between Skinner's behaviorism and other
+   varieties; consequently, it is argued that he made several serious
+   errors. On account of these perceived problems, the critics maintain
+   that the review failed to demonstrate what it has often been cited as
+   doing. As such, it is averred that those most influenced by Chomsky's
+   paper probably either already substantially agreed with Chomsky or
+   never actually read it. Chomsky has maintained that the review was
+   directed at the way Skinner's variant of behavioural psychology "was
+   being used in Quinean empiricism and`naturalization of philosophy"
+   (quoted in Barsky- Noam Chomsky: A Life of Dissent .
+
+   It has been claimed that Chomsky's critique of Skinner's methodology
+   and basic assumptions paved the way for the " cognitive revolution",
+   the shift in American psychology between the 1950s through the 1970s
+   from being primarily behavioural to being primarily cognitive. In his
+   1966 Cartesian Linguistics and subsequent works, Chomsky laid out an
+   explanation of human language faculties that has become the model for
+   investigation in some areas of psychology. Much of the present
+   conception of how the mind works draws directly from ideas that found
+   their first persuasive author of modern times in Chomsky.
+
+   There are three key ideas. First is that the mind is "cognitive", or
+   that the mind actually contains mental states, beliefs, doubts, and so
+   on. Second, he argued that most of the important properties of language
+   and mind are innate. The acquisition and development of a language is a
+   result of the unfolding of innate propensities triggered by the
+   experiential input of the external environment. Subsequent
+   psychologists have extended this general "nativist" thesis beyond
+   language. Lastly, Chomsky made the concept of " modularity" a critical
+   feature of the mind's cognitive architecture. The mind is composed of
+   an array of interacting, specialized subsystems with limited flows of
+   inter-communication. This model contrasts sharply with the old idea
+   that any piece of information in the mind could be accessed by any
+   other cognitive process (optical illusions, for example, cannot be
+   "turned off" even when they are known to be illusions).
+
+Opinion on criticism of science culture
+
+   Chomsky strongly disagrees with post-structuralist and postmodern
+   criticisms of science:
+
+     I have spent a lot of my life working on questions such as these,
+     using the only methods I know of; those condemned here as "science",
+     "rationality", "logic" and so on. I therefore read the papers with
+     some hope that they would help me "transcend" these limitations, or
+     perhaps suggest an entirely different course. I'm afraid I was
+     disappointed. Admittedly, that may be my own limitation. Quite
+     regularly, "my eyes glaze over" when I read polysyllabic discourse
+     on the themes of poststructuralism and postmodernism; what I
+     understand is largely truism or error, but that is only a fraction
+     of the total word count. True, there are lots of other things I
+     don't understand: the articles in the current issues of math and
+     physics journals, for example. But there is a difference. In the
+     latter case, I know how to get to understand them, and have done so,
+     in cases of particular interest to me; and I also know that people
+     in these fields can explain the contents to me at my level, so that
+     I can gain what (partial) understanding I may want. In contrast, no
+     one seems to be able to explain to me why the latest
+     post-this-and-that is (for the most part) other than truism, error,
+     or gibberish, and I do not know how to proceed.
+
+   Chomsky has also commented on critiques of "white male science",
+   stating that they are much like the anti-Semitic and politically
+   motivated attacks against "Jewish physics" used by the Nazis to
+   denigrate research done by Jewish scientists during the Deutsche Physik
+   movement:
+
+     In fact, the entire idea of "white male science" reminds me, I'm
+     afraid, of "Jewish physics". Perhaps it is another inadequacy of
+     mine, but when I read a scientific paper, I can't tell whether the
+     author is white or is male. The same is true of discussion of work
+     in class, the office, or somewhere else. I rather doubt that the
+     non-white, non-male students, friends, and colleagues with whom I
+     work would be much impressed with the doctrine that their thinking
+     and understanding differ from "white male science" because of their
+     "culture or gender and race." I suspect that "surprise" would not be
+     quite the proper word for their reaction.
+
+Chomsky's influence in other fields
+
+   Chomskyan models have been used as a theoretical basis in several other
+   fields. The Chomsky hierarchy is often taught in fundamental computer
+   science courses as it confers insight into the various types of formal
+   languages. This hierarchy can also be discussed in mathematical terms
+   and has generated interest among mathematicians, particularly
+   combinatorialists. A number of arguments in evolutionary psychology are
+   derived from his research results.
+
+   The 1984 Nobel Prize laureate in Medicine and Physiology, Niels K.
+   Jerne, used Chomsky's generative model to explain the human immune
+   system, equating "components of a generative grammar ... with various
+   features of protein structures". The title of Jerne's Stockholm Nobel
+   lecture was "The Generative Grammar of the Immune System".
+
+   Nim Chimpsky, a chimpanzee who was the subject of a study in animal
+   language acquisition at Columbia University, was named in honour of
+   Chomsky.
+
+Political views
+
+   Noam Chomsky has been engaged in political activism all of his adult
+   life and expressed a wide range of opinions on politics and world
+   events which are widely cited, publicized and discussed. Within the
+   United States, many consider his views to be on the far end of the
+   political spectrum, and thus outside the mainstream. Chomsky has in
+   turn argued that his views are those which the powerful "don't want to
+   be heard" and for this reason he is often termed and considered an
+   American political dissident. Some highlights of his political views:
+     * Much of his political writings offer very strong criticisms of the
+       foreign policy of the United States. Specifically, he denounces
+       what he considers to be the "double standards" of the US
+       government, which he claims results in massive human rights
+       violations. Chomsky argues that while the U.S. may preach democracy
+       and freedom for all, the U.S. has a history of doing exactly the
+       opposite by promoting, supporting and allying itself with
+       non-democratic and repressive organizations and states.
+     * He has argued that the mass media in the United States largely
+       serves as a propaganda arm of the U.S. government and U.S.
+       corporations, with the three parties all largely intertwined
+       through common interests. He has famously said that the American
+       media " manufactures consent" among the public.
+     * He has opposed the U.S. global war on drugs, claiming its language
+       to be misleading, and referring to it as "The war on certain
+       drugs". He favors education and prevention in the issue, as opposed
+       to military and police action.
+
+   "US domestic drug policy does not carry out its stated goals, and
+   policymakers are well aware of that. If it isn't about reducing
+   substance abuse, what is it about? It is reasonably clear, both from
+   current actions and the historical record, that substances tend to be
+   criminalized when they are associated with the so-called dangerous
+   classes, that the criminalization of certain substances is a technique
+   of social control"
+     * Critical of the American capitalist system and big business, he
+       describes himself as a libertarian socialist who sympathizes with
+       anarcho-syndicalism and is highly critical of Leninist branches of
+       socialism. He also believes that libertarian socialist values
+       exemplify the rational and morally consistent extension of original
+       unreconstructed classical liberal and radical humanist ideas to an
+       industrial context. He believes that the radical humanist ideas of
+       his two major influences, Bertrand Russell and John Dewey, were
+       "rooted in the Enlightenment and classical liberalism, and retain
+       their revolutionary character.".
+     * He holds views that can be summarized as anti-war but not strictly
+       pacifist. He prominently opposed the Vietnam War and most other
+       wars in his lifetime. However, he maintains that U.S. involvement
+       in World War II was probably justified, with the caveat that a
+       preferable outcome would have been to end or prevent the war
+       through earlier diplomacy. In particular, he believes that the
+       dropping of nuclear bombs on Hiroshima and Nagasaki was "among the
+       most unspeakable crimes in history".
+     * He has a view of broad free-speech rights, especially in the mass
+       media; he opposes censorship and refuses to take legal action
+       against those who may have libeled him.
+
+   Chomsky has made connections between his linguistics research and more
+   political topics. An example is a 1971 debate with French philosopher
+   Michel Foucault on the question of human nature, where Chomsky used the
+   idea of innate linguistic capacity to criticize the idea that all human
+   values and knowledge are entirely conditioned by societal conditions.
+   However, Chomsky makes such connections only rarely, and is generally
+   critical of the idea that competent discussion of political topics
+   requires expert knowledge in academic fields. In a 1969 interview, he
+   said regarding the connection between his politics and his work in
+   linguistics:
+
+          I still feel myself that there is a kind of tenuous connection.
+          I would not want to overstate it but I think it means something
+          to me at least. I think that anyone's political ideas or their
+          ideas of social organization must be rooted ultimately in some
+          concept of human nature and human needs. (New Left Review, 57,
+          Sep-Oct 1969, pg. 21)
+
+   On September 20, 2006, Venezuelan President Hugo Chávez gave Chomsky's
+   book entitled Hegemony or Survival: America's Quest for Global
+   Dominance a sales boost, raising it to first place on the Amazon.com
+   bestsellers list after he recommended it during his speech at the U.N.
+   General Assembly. Chávez stated that it was a good book to read because
+   it demonstrates why the greatest danger to world peace currently is the
+   United States, causing a prolonged round of applause from the majority
+   of the General Assembly. The New York Times erroneously reported that
+   Chavez said he regretted not being able to meet Chomsky before his
+   death, not knowing he was still alive. Subsequently, the Times
+   published an acknowledgement of the error.
+
+Criticism of Chomsky's politics
+
+   Chomsky has acquired many critics from both the right and left ends of
+   the political spectrum. Despite his Jewish heritage he has been accused
+   of "anti-semitism" for his views on Israel's foreign policy and his
+   involvement in the Faurisson affair, among other issues. Chomsky has
+   argued that his actions in the Faurisson affair were limited to a
+   defense of the rights of free expression of someone he disagrees with,
+   and that critics subsequently subjected this limited defence to various
+   interpretations. His critics contend that Chomsky went further than a
+   defence of free speech, effectively protecting the character of a
+   holocaust denier as well as supporting the legitimacy of his research.
+
+   In the late 1970s he was accused of apologism for the Khmer Rouge,
+   after he and Edward S. Herman charged that publicized accounts of the
+   Cambodian genocide, also known as the Killing Fields, in the Western
+   media were anti-communist propaganda.
+
+   Chomsky has also received criticism from many revolutionary anarchists
+   who claim he is too much of a reformist, in that he encourages some
+   level of participation in the electoral system.
+
+Academic achievements, awards and honours
+
+   In the spring of 1969 he delivered the John Locke Lectures at Oxford
+   University; in January 1970 he delivered the Bertrand Russell Memorial
+   Lecture at Cambridge University; in 1972, the Nehru Memorial Lecture in
+   New Delhi; in 1977, the Huizinga Lecture in Leiden; in 1988 the Massey
+   Lectures at the University of Toronto titled "Necessary Illusions:
+   Thought Control in Democratic Societies"; and in 1997, The Davie
+   Memorial Lecture on Academic Freedom in Cape Town, among many others.
+
+   Noam Chomsky has received many honorary degrees from the most
+   prestigious universities around the world, including the following:
+   University of London, University of Chicago, Loyola University of
+   Chicago, Swarthmore College, Delhi University, Bard College, University
+   of Massachusetts, University of Pennsylvania, Georgetown University,
+   Amherst College, Cambridge University, University of Buenos Aires,
+   McGill University, Universitat Rovira I Virgili, Tarragona, Columbia
+   University, University of Connecticut, , University of Maine, Scuola
+   Normale Superiore, Pisa, University of Western Ontario, University of
+   Toronto, Harvard University, Universidad de Chile, University of
+   Calcutta, Universidad Nacional De Colombia, and Vrije Universiteit
+   Brussel. He is a member of the American Academy of Arts and Sciences,
+   the National Academy of Sciences, and the American Philosophical
+   Society. In addition, he is a member of other professional and learned
+   societies in the United States and abroad, and is a recipient of the
+   Distinguished Scientific Contribution Award of the American
+   Psychological Association, the Kyoto Prize in Basic Sciences, the
+   Helmholtz Medal, the Dorothy Eldridge Peacemaker Award, the Ben
+   Franklin Medal in Computer and Cognitive Science, and others. He is
+   twice winner of The Orwell Award, granted by The National Council of
+   Teachers of English for "Distinguished Contributions to Honesty and
+   Clarity in Public Language" . Early in his career Chomsky was granted
+   the prestigious MacArthur Award.
+
+   Chomsky was voted the leading living public intellectual in The 2005
+   Global Intellectuals Poll conducted by the British magazine Prospect.
+   He reacted, saying "I don't pay a lot of attention to polls" . In a
+   list compiled by the magazine New Statesman in 2006, he was voted
+   seventh in the list of "Heroes of our time".
+
+Authors on Chomsky
+
+     * Rai, Milan (1995). [Broken Chomsky's Politics]. Verso. ISBN
+       1859840116. Retrieved on 2006- 09-05.
+     * Barsky, Robert (1997). Noam Chomsky: A Life of Dissent. Cambridge:
+       MIT Press. ISBN 0262522551.
+     * Goldsmith, John (1998). " Review of Noam Chomsky: A Life of
+       Dissent, by Robert Barsky". Journal of the History of the
+       Behaviorial Sciences 34 (2): 173-180. Retrieved on 2006- 09-04.
+     * Dershowitz, Alan (May 10, 2002). " Chomsky’s Immoral Divestiture
+       Petition". The Tech 122 (25). Retrieved on 2006- 09-04.
+     * Roy, Arundhati (2003-08-24). " The Loneliness of Noam Chomsky". The
+       Hindu. Retrieved on 2006- 09-05.
+     * (2004) Collier, Peter; Horowitz, David: The Anti-Chomsky Reader.
+       Encounter Books. ISBN 189355497X.
+     * Pateman, Trevor (2004). Wittgensteinians and Chomskyans: In Defence
+       of Mentalism, Language in Mind and Language in Society.
+     * Blackburn, Robin, Kamm, Oliver (November 2005). " For and Against
+       Chomsky" (PDF). Prospect (116). Retrieved on 2006- 09-04.
+     * (2005) McGilvray, James: The Cambridge Companion to Chomsky.
+       Cambridge, UK; New York: Cambridge University Press. DOI:
+       10.2277/0521780136. ISBN 0521780136.
+     * Paradis, Michel (2005). Review of Government in the Future, by Noam
+       Chomsky. Oxonian Review of Books 2005 4.3: 4-5
+     * Schoneberger, T. (2000). A Departure from cognitivism: Implications
+       of Chomsky's second revolution in linguistics. The Analysis of
+       Verbal Behaviour, 17, 57-73.
+     * Sperlich, Wolfgang B. (2006). Noam Chomsky. London: Reaktion Books.
+       ISBN 1861892691. Retrieved on 2006- 09-05.
+
+Filmography
+
+     * Manufacturing Consent: Noam Chomsky and the Media, Director: Mark
+       Achbar and Peter Wintonick (1992)
+     * Last Party 2000, Director: Rebecca Chaiklin and Donovan Leitch
+       (2001)
+     * Power and Terror: Noam Chomsky in Our Times, Director: John
+       Junkerman (2002)
+     * Distorted Morality — America's War On Terror?, Director: John
+       Junkerman (2003)
+     * Noam Chomsky: Rebel Without a Pause (TV), Director: Will Pascoe
+       (2003)
+     * The Corporation, Director: Jennifer Abbott and Mark Achbar (2003)
+     * Peace, Propaganda & the Promised Land, Directors: Sut Jhally and
+       Bathsheba Ratzkoff (2004)
+
+Interviews
+
+By Maria Hinojosa
+
+     * Noam Chomsky on America's Foreign Policy
+
+By David Barsamian
+
+     * Keeping the Rabble in Line (1994)
+     * Class Warfare (1996)
+     * The Common Good (1998)
+     * Propaganda and the Public Mind (2001)
+     * Imperial Ambitions - Conversations With Noam Chomsky On The
+       Post-9/11 World (2005)
+
+By others
+
+     * See complete list of interviews here: chomsky.info
+
+   Retrieved from " http://en.wikipedia.org/wiki/Noam_Chomsky"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

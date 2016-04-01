@@ -1,0 +1,549 @@
+   #copyright
+
+Binary star
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+
+   This is a featured article. Click here for more information.
+   Artist's impression of a binary system consisting of a black hole, with
+   an accretion disc around it, and a main sequence star.
+   Enlarge
+   Artist's impression of a binary system consisting of a black hole, with
+   an accretion disc around it, and a main sequence star.
+
+   A binary star is a stellar system consisting of two stars orbiting
+   around their centre of mass. For each star, the other is its companion
+   star. Recent research suggests that a large percentage of stars are
+   part of systems with at least two stars. Binary star systems are very
+   important in astrophysics, because observing their mutual orbits allows
+   their mass to be determined. The masses of many single stars can then
+   be determined by extrapolations made from the observation of binaries.
+
+   Binary stars are not the same as optical double stars, which appear to
+   be close together as seen from Earth, but may not be bound by gravity.
+   Binary stars can either be distinguished optically (visual binaries) or
+   by indirect techniques, such as spectroscopy. If binaries happen to
+   orbit in a plane containing our line of sight, they will eclipse each
+   other; these are called eclipsing binaries.
+
+   The components of binary star systems can exchange mass, bringing their
+   evolution to stages that single stars cannot attain. Examples of
+   binaries are Algol (an eclipsing binary), Sirius, and Cygnus X-1 (of
+   which one member is probably a black hole).
+
+Terminology
+
+   Hubble image of the Sirius binary system, in which Sirius B can be
+   clearly distinguished (lower left).
+   Enlarge
+   Hubble image of the Sirius binary system, in which Sirius B can be
+   clearly distinguished (lower left).
+
+   The term binary star was coined by Sir William Herschel in 1802 to
+   designate, in his definition, "a real double star - the union of two
+   stars that are formed together in one system by the laws of
+   attraction". Any two closely-spaced stars might appear to be a double
+   star, the most famous case being Mizar and Alcor in the Big Dipper. It
+   is however possible that a double star is merely a star pair that only
+   looks like a binary system: the two stars can in reality be widely
+   separated in space, but just happen to lie in roughly the same
+   direction as seen from our vantage point. Such false binaries are
+   termed optical binaries. With the invention of the telescope, many such
+   pairs were found. Herschel, in 1780, measured the separation and
+   orientations of over 700 pairs that appeared to be binary systems, and
+   found that about 50 pairs changed orientation over two decades of
+   observation.
+
+   A true binary is a pair of stars bound together by gravity. When they
+   can be resolved (distinguished) with a powerful enough telescope (if
+   necessary with the aid of interferometric methods) they are known as
+   visual binaries. In other cases, the only indication of binarity is the
+   Doppler shift of the emitted light. Systems in which this is the case,
+   known as spectroscopic binaries, consist of relatively close pairs of
+   stars where the spectral lines in the light from each one shifts first
+   toward the blue, then toward the red, as it moves first toward us, and
+   then away from us, during its motion about their common centre of mass,
+   with the period of their common orbit. If the orbital plane is very
+   nearly along our line of sight, the two stars partially or fully occult
+   each other regularly, and the system is called an eclipsing binary, of
+   which Algol is the best-known example.
+
+   Binary stars that are both visual and spectroscopic binaries are rare,
+   and are a precious source of valuable information when found. Visual
+   binary stars have a large true separation, and consequently usually
+   have orbital speeds too small to be measured spectroscopically from far
+   away. Conversely, spectroscopic binary stars move fast in their orbits
+   because they are close together; usually too close to be detected as
+   visual binaries. Binaries that are both visual and spectroscopic thus
+   must be relatively close to Earth.
+
+   Astronomers have discovered some stars that seem to orbit around an
+   empty space. Astrometric binaries are relatively nearby stars which can
+   be seen to wobble around a middle point, with no visible companion.
+   With some spectroscopic binaries, there is only one set of lines
+   shifting back and forth. The same mathematics used for ordinary
+   binaries can be applied to infer the mass of the missing companion. The
+   companion could be very dim, so that it is currently undetectable or
+   masked by the glare of its primary, or it could be an object that emits
+   little or no electromagnetic radiation, for example a neutron star. In
+   some instances, there is strong evidence that the missing companion is
+   in fact a black hole: a body with such strong gravity that no light is
+   able to escape. Such binaries are known as high-mass X-ray binaries.
+   Probably the best known example at present is Cygnus X-1, where the
+   mass of the unseen companion is believed to be about nine times that of
+   our sun; far exceeding the Tolman-Oppenheimer-Volkoff limit (the
+   maximum theoretical mass of a neutron star, the only other likely
+   candidate for the companion). In this way, Cygnus X-1 became the first
+   object that was widely accepted as being a black hole.
+
+Classifications
+
+By methods of observation
+
+   Binary stars are classified into four types according to their
+   observable properties. Any binary star can belong to several of these
+   classes; for example, several spectroscopic binaries are also eclipsing
+   binaries.
+
+Visual binaries
+
+   A visual binary star is a binary star for which the angular separation
+   between the two components is great enough to permit them to be
+   observed as a double star in a telescope. The resolving power of the
+   telescope is an important factor in the detection of visual binaries,
+   and as telescopes become larger and more powerful an increasing number
+   of visual binaries will be detected. The brightness of the two stars is
+   also an important factor, as brighter stars are harder to separate due
+   to their glare than dimmer ones are.
+
+   The brighter star of a visual binary is the primary star, and the
+   dimmer is considered the secondary. The position angle of the secondary
+   with respect to the primary is measured, together with the angular
+   distance between the two stars. The time of observation is also
+   recorded. After a sufficient number of observations are recorded over a
+   period of time, they are plotted in polar coordinates with the primary
+   star at the origin, and the most probable ellipse is drawn through
+   these points such that the Keplerian law of areas is satisfied. This
+   ellipse is known as the apparent ellipse, and is the projection of the
+   actual elliptical orbit of the secondary with respect to the primary on
+   the plane of the sky. From this projected ellipse the complete elements
+   of the orbit may be computed, with the semi-major axis being expressed
+   in angular units unless the stellar parallax, and hence the distance,
+   of the system is known.
+
+Spectroscopic binaries
+
+   A spectroscopic binary star is a binary star in which the separation
+   between the stars is usually very small, and the orbital velocity very
+   high. Unless the plane of the orbit happens to be perpendicular to the
+   line of sight, the orbital velocities will have components in the line
+   of sight and the observed radial velocity of the system will vary
+   periodically. Since radial velocity can be measured with a spectrometer
+   by observing the Doppler shift of the stars' spectral lines, the
+   binaries detected in this manner are known as spectroscopic binaries.
+   Most of these cannot be resolved as a visual binary, even with
+   telescopes of the highest existing resolving power.
+
+   In some spectroscopic binaries the spectra of both stars are visible
+   and the lines are alternately double and single. Such stars are known
+   as double-line binaries. In others, the spectrum of only one of the
+   stars is seen and the lines in the spectrum shift periodically towards
+   the blue, then towards red and back again. Such stars are known as
+   single-line spectroscopic binaries.
+
+   The orbit of a spectroscopic binary is determined by making a long
+   series of observations of the radial velocity of one or more component
+   of the binary. The observations are plotted against time, and from the
+   resulting curve a period is determined. If the orbit is circular, then
+   the curve will be a sine curve. If the orbit is elliptical, the shape
+   of the curve will depend on the eccentricity of the ellipse and the
+   orientation of the major axis with reference to the line of sight.
+
+   It is impossible to determine individually the semi-major axis a and
+   the inclination of the orbit plane i. However, the product of the
+   semi-major axis and the sine of the inclination (i.e. a sin i) may be
+   determined directly in linear units (e.g. kilometres). If either a or i
+   can be determined by other means, as in the case of eclipsing binaries,
+   a complete solution for the orbit can be found.
+
+Eclipsing binaries
+
+   An eclipsing binary, with an indication of the variation in intensity.
+   An eclipsing binary, with an indication of the variation in intensity.
+
+   An eclipsing binary star is a binary star in which the orbit plane of
+   the two stars lies so nearly in the line of sight of the observer that
+   the components undergo mutual eclipses. In the case where the binary is
+   also a spectroscopic binary and the parallax of the system is known,
+   the binary is quite valuable for stellar analysis.
+
+   In the last decade, measurement of eclipsing binaries' fundamental
+   parameters has become possible with 8 meter class telescopes. This
+   makes it feasible to use them as standard candles. Recently, they have
+   been used to give direct distance estimates to the LMC, SMC, Andromeda
+   Galaxy and Triangulum Galaxy. Eclipsing binaries offer a direct method
+   to gauge the distance to galaxies to a new improved 5% level of
+   accuracy.
+
+   Eclipsing binaries are variable stars, not because the light of the
+   individual components vary but because of the eclipses. The light curve
+   of an eclipsing binary is characterized by periods of practically
+   constant light, with periodic drops in intensity. If one of the stars
+   is larger than the other, one will be obscured by a total eclipse while
+   the other will be obscured by an annular eclipse.
+
+   The period of the orbit of an eclipsing binary may be determined from a
+   study of the light curve, and the relative sizes of the individual
+   stars can be determined in terms of the radius of the orbit by
+   observing how quickly the brightness changes as the disc of the near
+   star slides over the disc of the distant star. If it is also a
+   spectroscopic binary the orbital elements can also be determined, and
+   the mass of the stars can be determined relatively easily, which means
+   that the relative densities of the stars can be determined in this
+   case.
+
+Astrometric binaries
+
+   An astrometric binary star is a binary star for which only one of the
+   component stars can be visually observed. The visible star's position
+   is carefully measured and detected to have a wobble, due to the
+   gravitational influence from its counterpart. The position of the star
+   is repeatedly measured relative to more distant stars, and then checked
+   for periodic shifts in position. Typically this type of measurement can
+   only be performed on nearby stars, such as those within 10 parsecs.
+   Nearby stars often have a relatively high proper motion, so astrometric
+   binaries will appear to follow a sinusoidal path across the sky.
+
+   If the companion is sufficiently massive to cause an observable shift
+   in position of the star, then its presence can be deduced. From precise
+   astrometric measurements of the movement of the visible star over a
+   sufficiently long period of time, information about the mass of the
+   companion and its orbital period can be determined. Even though the
+   companion is not visible, the characteristics of the system can be
+   determined from the observations using Kepler's laws.
+
+   This method of detecting binaries is also used to locate extrasolar
+   planets orbiting a star. However the requirements to perform this
+   measurement are very exacting, due to the great difference in the mass
+   ratio, and the typically long period of the planet's orbit. Detection
+   of position shifts of a star is a very exacting science, and it is
+   difficult to achieve the necessary precision. Space telescopes can
+   avoid the blurring effect of the Earth's atmosphere, resulting in more
+   precise resolution.
+
+By configuration of the system
+
+   Artist's conception of a cataclysmic variable system.
+   Enlarge
+   Artist's conception of a cataclysmic variable system.
+
+   Another classification is based on the distance of the stars, relative
+   to their sizes:
+
+   Detached binaries are a kind of binary stars where each component is
+   within its Roche lobe, i.e. the area where the gravitational pull of
+   the star itself is larger than that of the other component. The stars
+   have no major effect on each other, and essentially evolve separately.
+   Most binaries belong to this class.
+
+   Semidetached binary stars are binary stars where one of the components
+   fills the binary star's Roche lobe and the other does not. Gas from the
+   surface of the Roche lobe filling component (donor) is transferred to
+   the other star (accretor). The mass transfer dominates the evolution of
+   the system. In many cases, the inflowing gas forms an accretion disc
+   around the accretor. Examples of this type are X-ray binaries and
+   Cataclysmic variable stars.
+
+   A contact binary is a type of binary star in which both components of
+   the binary fill their Roche lobes. The uppermost part of the stellar
+   atmospheres forms a common envelope that surrounds both stars. As the
+   friction of the envelope brakes the orbital motion, the stars may
+   eventually coalesce.
+
+Binary star evolution
+
+Formation
+
+   While it is not impossible that some binaries might be created through
+   gravitational capture between two single stars, given the very low
+   likelihood of such an event (three objects are actually required, as
+   conservation of energy rules out a single gravitating body capturing
+   another) and the high number of binaries, this cannot be the primary
+   formation process. Also, the observation of binaries consisting of pre
+   main sequence stars, supports the theory that binaries are already
+   formed during star formation. Fragmentation of the molecular cloud
+   during the formation of protostars is an acceptable explanation for the
+   formation of a binary or multiple star system.
+
+   The outcome of the three body problem, where the three stars are of
+   comparable mass, is that eventually one of the three stars will be
+   ejected from the system and, assuming no significant further
+   perturbations, the remaining two will form a stable binary system.
+
+Mass transfer and accretion
+
+   As a main sequence star increases in size during its evolution, it may
+   at some point exceed its Roche lobe, meaning that some of its matter
+   ventures into a region where the gravitational pull of its companion
+   star is larger than its own. The result is that matter will transfer
+   from one star to another through a process known as Roche Lobe overflow
+   (RLOF), either being absorbed by direct impact or through an accretion
+   disc. The mathematical point through which this transfer happens is
+   called the first Lagrangian point. It is not uncommon that the
+   accretion disc is the brightest (and thus sometimes the only visible)
+   element of a binary star.
+   An animation of the Beta Lyrae system, an eclipsing binary including an
+   accretion disc.
+   An animation of the Beta Lyrae system, an eclipsing binary including an
+   accretion disc.
+
+   If a star grows outside of its Roche lobe too fast for all abundant
+   matter to be transferred to the other component, it is also possible
+   that matter will leave the system through other Lagrange points or as
+   stellar wind, thus being effectively lost to both components. Since the
+   evolution of a star is determined by its mass, the process influences
+   the evolution of both companions, and creates stages that can not be
+   attained by single stars.
+
+   Studies of the eclipsing ternary Algol led to the Algol paradox in the
+   theory of stellar evolution: although components of a binary star form
+   at the same time, and massive stars evolve much faster than the less
+   massive ones, it was observed that the more massive component Algol A
+   is still in the main sequence, while the less massive Algol B is a
+   subgiant star at a later evolutionary stage. The paradox can be solved
+   by mass transfer: when the more massive star became a subgiant, it
+   filled its Roche lobe, and most of the mass was transferred to the
+   other star, which is still in the main sequence. In some binaries
+   similar to Algol, a gas flow can actually be seen.
+
+Runaways and novae
+
+   A Chandra X-ray Observatory image of the remnants of the SN 1572
+   supernova.
+   Enlarge
+   A Chandra X-ray Observatory image of the remnants of the SN 1572
+   supernova.
+
+   It is also possible for widely separated binaries to lose gravitational
+   contact with each other during their lifetime, as a result of external
+   perturbations. The components will then move on to evolve as single
+   stars. A close encounter between two binary systems can also result in
+   the gravitational disruption of both systems, with some of the stars
+   being ejected at high velocities, leading to runaway stars.
+
+   If a white dwarf has a close companion star that overflows its Roche
+   lobe, the white dwarf will steadily accrete gases from the star's outer
+   atmosphere. These are compacted on the white dwarf's surface by its
+   intense gravity, compressed and heated to very high temperatures as
+   additional material is drawn in. The white dwarf consists of degenerate
+   matter, and so is largely unresponsive to heat, while the accreted
+   hydrogen is not. Hydrogen fusion can occur in a stable manner on the
+   surface through the CNO cycle, causing the enormous amount of energy
+   liberated by this process to blow the remaining gases away from the
+   white dwarf's surface. The result is an extremely bright outburst of
+   light, known as a nova.
+
+   In extreme cases this event can cause the white dwarf to exceed the
+   Chandrasekhar limit and trigger a supernova that destroys the entire
+   star, and is another possible cause for runaways. A famous example of
+   such an event is the supernova SN 1572, which was observed by Tycho
+   Brahe. The Hubble Space Telescope recently took a picture of the
+   remnants of this event.
+
+Use in astrophysics
+
+   A simulated example of a binary star, where two bodies with similar
+   mass orbit around a common barycenter in elliptic orbits.
+   Enlarge
+   A simulated example of a binary star, where two bodies with similar
+   mass orbit around a common barycenter in elliptic orbits.
+
+   Binaries provide the best method for astronomers to determine the mass
+   of a distant star. The gravitational pull between them causes them to
+   orbit around their common centre of mass. From the orbital pattern of a
+   visual binary, or the time variation of the spectrum of a spectroscopic
+   binary, the mass of its stars can be determined. In this way, the
+   relation between a star's appearance ( temperature and radius) and its
+   mass can be found, which allows for the determination of the mass of
+   non-binaries.
+
+   Because a large proportion of stars exist in binary systems, binaries
+   are particularly important to our understanding of the processes by
+   which stars form. In particular, the period and masses of the binary
+   tell us about the amount of angular momentum in the system. Because
+   this is a conserved quantity in physics, binaries give us important
+   clues about the conditions under which the stars were formed.
+
+   In a binary system, the more massive star is usually designated 'A',
+   and its companion 'B'. Thus the bright main sequence star of the Sirius
+   system is Sirius A, while the smaller white dwarf member is Sirius B.
+   However, if the pair is very widely separated, they may be designated
+   with superscripts as with Zeta Reticuli (ζ^1 Ret and ζ^2 Ret).
+
+Research findings
+
+   It is believed that a quarter to half of all stars are in binary
+   systems, with as many as 10% of these systems containing more than two
+   stars (triples, quadruples, etc.).
+
+   There is a direct correlation between the period of revolution of a
+   binary star and the eccentricity of its orbit, with systems of short
+   period having smaller eccentricity. Binary stars may be found with any
+   conceivable separation, from pairs orbiting so closely that they are
+   practically in contact with each other, to pairs so distantly separated
+   that their connection is indicated only by their common proper motion
+   through space. Among gravitationally bound binary star systems, there
+   exists a so called log normal distribution of periods, with the
+   majority of these systems orbiting with a period of about 100 years.
+   This is supporting evidence for the theory that binary systems are
+   formed during star formation.
+
+   In pairs where the two stars are of equal brightness, they are also of
+   the same spectral type. In systems where the brightnesses are
+   different, the fainter star is bluer if the brighter star is a giant
+   star, and redder if the brighter star belongs to the main sequence.
+   Artist's impression of the sight from a (hypothetical) moon of planet
+   HD 188753 Ab (upper left), which orbits a triple star system. The
+   brightest companion is just below the horizon.
+   Enlarge
+   Artist's impression of the sight from a (hypothetical) moon of planet
+   HD 188753 Ab (upper left), which orbits a triple star system. The
+   brightest companion is just below the horizon.
+
+   Since mass can be determined only from gravitational attraction, and
+   the only stars (with the exception of the Sun, and
+   gravitationally-lensed stars), for which this can be determined are
+   binary stars, these are a uniquely important class of stars. In the
+   case of a visual binary star, after the orbit has been determined and
+   the stellar parallax of the system determined, the combined mass of the
+   two stars may be obtained by a direct application of the Keplerian
+   harmonic law.
+
+   Unfortunately, it is impossible to obtain the complete orbit of a
+   spectroscopic binary unless it is also a visual or an eclipsing binary,
+   so from these objects only a determination of the joint product of mass
+   and the sine of the angle of inclination relative to the line of sight
+   is possible. In the case of eclipsing binaries which are also
+   spectroscopic binaries, it is possible to find a complete solution for
+   the specifications (mass, density, size, luminosity, and approximate
+   shape) of both members of the system.
+
+   Science fiction has often featured planets of binary or ternary stars
+   as a setting. In reality, some orbital ranges are impossible for
+   dynamical reasons (the planet would be expelled from its orbit
+   relatively quickly, being either ejected from the system altogether or
+   transferred to a more inner or outer orbital range), whilst other
+   orbits present serious challenges for eventual biospheres because of
+   likely extreme variations in surface temperature during different parts
+   of the orbit. Detecting planets around multiple star systems introduces
+   additional technical difficulties, which may be why they are only
+   rarely found. Examples include PSR B1620-26c and HD 188753 Ab, the
+   latter being the only known planet in a ternary system as of 2006.
+
+Multiple star examples
+
+   The two visibly distinguishable components of Albireo.
+   The two visibly distinguishable components of Albireo.
+
+   The large distance between the components, as well as their difference
+   in colour, make Albireo one of the easiest observable visual binaries.
+   The brightest member, which is the third brightest star in the
+   constellation Cygnus, is actually a close binary itself. Also in the
+   Cygnus constellation is Cygnus X-1, an X-ray source considered to be a
+   black hole. It is a high-mass X-ray binary, with the optical
+   counterpart being a variable star. Another famous binary is Sirius, the
+   brightest star in the night time sky, with a visual apparent magnitude
+   of −1.46. It is located in the constellation Canis Major. In 1844
+   Friedrich Bessel deduced that Sirius was a binary. In 1862 Alvan Graham
+   Clark discovered the companion (Sirius B; the visible star is Sirius
+   A). In 1915 astronomers at the Mount Wilson Observatory determined that
+   Sirius B was a white dwarf, the first to be discovered. In 2005, using
+   the Hubble Space Telescope, astronomers determined Sirius B to be
+   12,000 km in diameter, with a mass that is 98% of the Sun.
+
+   An example of an eclipsing binary is Epsilon Aurigae in the
+   constellation Auriga. The visible component belongs to the spectral
+   class F0, the other (eclipsing) component is not visible. The next such
+   eclipse occurs from 2009- 2011, and it is hoped that the extensive
+   observations that will likely be carried out may yield further insights
+   into the nature of this system. Another eclipsing binary is Beta Lyrae,
+   which is a contact binary star system in the constellation of Lyra. Its
+   two component stars are close enough that material from the photosphere
+   of each is pulled towards the other, drawing the stars into an
+   ellipsoid shape. Beta Lyrae is the prototype for this class of
+   eclipsing binaries, whose components are so close together that they
+   deform by their mutual gravitation.
+
+   Other interesting binaries include 61 Cygni (a binary in the
+   constellation Cygnus, composed of two K class (orange) main sequence
+   stars, 61 Cygni A and 61 Cygni B, which is known for its large proper
+   motion), Procyon (the brightest star in the constellation Canis Minor
+   and the eighth brightest star in the night time sky, which is a binary
+   consisting of the main star with a faint white dwarf companion), SS
+   Lacertae (an eclipsing binary which stopped eclipsing), V907 Sco (an
+   eclipsing binary which stopped, restarted, then stopped again) and BG
+   Geminorum (an eclipsing binary which is thought to contain a black hole
+   with a K0 star in orbit around it).
+
+   Algol is the most famous ternary (long thought to be a binary), located
+   in the constellation Perseus. Two components of the system eclipse each
+   other, the variation in the intensity of Algol first being recorded in
+   1670 by Geminiano Montanari. The name Algol means "demon star" (from
+   Arabic الغول al-ghūl), which was probably given due to its peculiar
+   behaviour. Another visible ternary is Alpha Centauri, in the southern
+   constellation of Centaurus, which contains the fourth brightest star in
+   the night sky, with an apparent visual magnitude of −0.01. This system
+   also underscores the fact that binaries need not be discounted in the
+   search for habitable planets. Centauri A and B have an 11 AU distance
+   at closest approach, and both should have stable habitable zones.
+
+   There are also examples of systems beyond ternaries: Castor is a
+   sextuple star system, which is the second brightest star in the
+   constellation Gemini and one of the brightest stars in the nighttime
+   sky. Astronomically, Castor was discovered to be a visual binary in
+   1719. Each of the components of Castor is itself a spectroscopic
+   binary. Castor also has a faint and widely separated companion, which
+   is also a spectroscopic binary.
+
+Fictional usage
+
+   Many writers in the science fiction genre have explored the
+   possibilities of binary star systems. One of the more famous examples
+   is the planet Tatooine in the Star Wars movies, which orbits the two
+   stars Tatoo 1 and Tatoo 2. Other instances include the anime series
+   Simoun and the 1994 computer game Little Big Adventure, the latter set
+   on a planet stabilised between two stars. In David Weber's Honorverse,
+   the Manticore system is a binary star with three habitable planets, two
+   of them ( Sphinx and the capital world Manticore) orbiting Manticore A
+   and one ( Gryphon) orbiting Manticore B. In the Stargate fictional
+   universe, the planet Chulak is located in a binary star system. At the
+   start of the film " Starship Troopers", a FedNet news graphic describes
+   the Arachnid home world as orbiting "a twin star system whose brutal
+   gravitational forces produce an unlimited supply of Bug meteorites."
+   The Battlestar Galactica episode " The Captain's Hand" is set in a
+   binary star system.
+
+   There are also fiction uses of even more exotic stellar configurations.
+   In the Star Trek: The Next Generation episode " Night Terrors" the
+   Enterprise-D becomes trapped within an unusual binary star system, and
+   in Star Trek: Enterprise episode " Singularity," the Enterprise visits
+   a ternary star system, as do the heroes of Futurama in the episode " My
+   Three Suns". The home star system of the planet Vulcan in Star Trek is
+   likely to be 40 Eridani, a triple star system, 16 light-years from
+   Earth. The movie Pitch Black takes place on a planet in a ternary
+   system, whilst Isaac Asimov's renowned short story " Nightfall" is set
+   in a six-sun system. Another example comes from the re-imagined
+   Battlestar Galactica, in which the Battlestar Pegasus fights off three
+   Cylon base ships in a binary star system. Less well known but notable
+   for its complexity is the Marune system, Number 993 in Jack Vance's
+   "Alastor Cluster", in which the planet is lit by a combination of four
+   suns whose combination of lighting patterns controls local culture:
+   Marune orbits one star of a central binary pair and the second binary
+   pair orbits the first, further out; nor are any of the orbits
+   co-planar.
+   Retrieved from " http://en.wikipedia.org/wiki/Binary_star"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,227 @@
+   #copyright
+
+Computer programming
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   The output from the process of computer programming (often shortened to
+   programming or coding) is source code written in a programming
+   language. This code may be a modification of existing source or
+   something completely new. The process of writing source code requires
+   expertise in many different subjects, including knowledge of the
+   application domain and algorithms to implement the desired behaviour.
+
+   Within software engineering, programming (the implementation) is
+   regarded as one phase in a software development process.
+
+   There is an on going debate on the extent to which the writing of
+   programs is an art or an engineering discipline.
+
+   Another on going debate is the extent to which the programming language
+   used in writing programs effects the form that the final program takes.
+   This debate is analogous to that surrounding the Sapir Whorf hypothesis
+   in linguistics.
+
+Programming languages
+
+   Different programming languages support different styles of programming
+   (called programming paradigms). The choice of language used may be an
+   individual's choice or may be dictated by company policy. Ideally the
+   programming language best suited for the task at hand will be selected.
+   Trade-offs from this ideal involve finding enough programmers, who know
+   the language, to build a team, the availability of compilers for that
+   language, and the efficiency with which programs written in a given
+   language execute.
+
+History of programming
+
+   Wired plug board for an IBM 402 Accounting Machine.
+   Enlarge
+   Wired plug board for an IBM 402 Accounting Machine.
+
+   The earliest programmable machine (that is, a machine that can adjust
+   its capabilities based upon changing its "program") can be said to be
+   the Jacquard Loom, which was developed in 1801. The machine used a
+   series of pasteboard cards with holes punched in them. The hole pattern
+   represented the pattern that the loom had to follow in weaving cloth.
+   The loom could produce entirely different weaves using different sets
+   of cards. This innovation was later refined by Herman Hollerith of IBM
+   in the development of the famous IBM punch card. These were used with a
+   variety of machines called unit record equipment to perform data
+   processing tasks. The unit record equipment were programmed by changing
+   the wiring of plug-boards. Early computers used similar programming
+   methods.
+   A box of punch cards with several program decks.
+   Enlarge
+   A box of punch cards with several program decks.
+
+   The invention of the Von Neumann architecture allowed programs to be
+   stored in computer memory. Early programs had to be painstakingly
+   crafted using the instructions of the particular machine, often in
+   binary notation. Every model of computer would be likely to need
+   different instructions to do the same task. Later assembly languages
+   were developed that let the programmer specify each instruction in a
+   text format, entering abbreviations for each operation code instead of
+   a number and specifying addresses in symbolic form (e.g. ADD X, TOTAL).
+   In 1954 Fortran, the first higher level programming language, was
+   invented. This allowed programmers to specify calculations by entering
+   a formula directly (e.g. Y = X*2 + 5*X + 9). The program text, or
+   source, was converted into machine instructions using a special program
+   called a compiler. Many other languages were developed, including ones
+   for commercial programming, such as COBOL. Programs were mostly still
+   entered using punch cards or paper tape. See computer programming in
+   the punch card era. In the mid-1970s, mass storage devices and computer
+   terminals became inexpensive enough so programs could be created by
+   typing directly into the computers. Text editors were developed that
+   allowed changes and corrections to be made much more easily than with
+   punch cards.
+
+   As time has progressed computers have made giant leaps in the area of
+   processing power. This has brought about newer programing languages
+   that are more abstracted from the underlying hardware. Although these
+   more abstracted languages require additional overhead, in most cases
+   the huge increase in speed of modern computers has brought about little
+   performance decrease compared to earlier counterparts. The benefits of
+   these more abstracted languages is that they allow both an easier
+   learning curve for people less familiar with the older lower-level
+   programming languages, and they also allow a more experienced
+   programmer to develop simple applications quickly. Despite these
+   benefits, large complicated programs, and programs that are more
+   dependent on speed still require the faster and relatively lower-level
+   languages with todays hardware. (The same concerns were raised about
+   the original Fortran language.)
+
+   Throughout the second half of the twentieth century, programming was an
+   attractive career in most developed countries. Some forms of
+   programming have been increasingly subject to offshore outsourcing
+   (importing software and services from other countries, usually at a
+   lower wage), making programming career decisions in developed countries
+   more complicated, while increasing economic opportunities in less
+   developed areas. It is unclear how far this trend will continue and how
+   deeply it will impact programmer wages and opportunities.
+
+Examples of computer programming languages
+
+   In an almost evolutionary order:
+     * FORTRAN is a general-purpose, procedural, imperative programming
+       language that is especially suited to numeric computation and
+       scientific computing. Originally developed by John Backus of
+       International Business Machines Corporation (IBM) in the 1950s for
+       scientific and engineering applications.
+     * C is a compiled procedural, imperative programming language made
+       popular as the basis of Unix.
+     * Shell scripting, in particular using either a variant of the Bourne
+       shell or the C shell, is popular among UNIX hackers. Although the
+       exact implementation varies among different shells, the core
+       principles remain intact: only providing facilities for program
+       flow (also seen in C) while placing emphasis on using external
+       programs, although most shells feature some other functions
+       internally, known as builtins. Shell scripting is used primarily in
+       systems administration, especially where tasks need to be automated
+       and run at specific times (backups, monitoring, file system
+       maintenance, among others). It is also used as a tool for rapid
+       prototyping when the exact design of a program is not yet clear
+       enough for a full implementation, often in a compiled language like
+       C. Whilst most shell scripts are relatively simple it is possible
+       to create complex and powerful programs in many implementations.
+     * SMALLTALK invented 1971 was the most important fundament for object
+       oriented programming. It started a new programming paradigm, which
+       significantly influenced the whole art of programming. Smalltalk is
+       a pure object oriented (OO) language with a minimalistic syntax.
+       This is possible as nearly everything is done inside the class
+       library. Even standard control structures are implemented in the
+       class library. Nothing exists besides objects. Few OO-languages
+       have this clarity and simplicity.
+     * Pascal is a general-purpose structured language named after the
+       famous mathematician and philosopher Blaise Pascal. It was very
+       popular during the '80s and '90s. Whilst popularity of Pascal
+       itself has waned (its principal use is in teaching of programming)
+       languages derived from it (such as Object Pascal) are still in use.
+     * BASIC (Beginner's All purpose Symbolic Instruction Code) was
+       invented by John Kemeny and Thomas Kurtz of Dartmouth College. It
+       became the most widely used language when microcomputers first hit
+       the market, in the '70s and '80s. Many dialects of BASIC have been
+       produced. Because early dialects lacked important features such as
+       strong data typing, procedures and functions, BASIC was typically
+       seen as a language for learning programming and prototyping rather
+       than for enterprise development. This is not true today since many
+       BASIC compilers offer all of the structured programming advantages
+       as other languages.
+     * Visual Basic is Microsoft's implementation of BASIC as an
+       integrated development environment.
+     * Objective-C is a reflective, object oriented programming language
+       which adds Smalltalk-style messaging to C. Today it is used
+       primarily on Mac OS X and GNUstep, two environments based on the
+       OpenStep standard, and is the primary language used for the
+       NeXTSTEP, OPENSTEP, and Cocoa application frameworks. Generic
+       Objective-C programs that do not make use of these libraries can
+       also be compiled for any system supported by gcc, which includes an
+       Objective-C compiler.
+     * C++ is a compiled programming language based on C, with support for
+       object-oriented programming. It is one of the most widely used
+       programming languages currently available. It is often considered
+       to be the industry-standard language of game development, but is
+       also very often used to write other types of computer software
+       applications. C++ was developed by Bjarne Stroustrup and was based
+       on the programming language C. C++ retains the syntax and many
+       familiar functions of C, but also adds various concepts associated
+       with other programming paradigms, such as classes.
+     * C# is an object-oriented programming language developed by
+       Microsoft as part of their .NET initiative. C# has a procedural,
+       object oriented syntax based on C++ that includes aspects of
+       several other programming languages (most notably Delphi, Visual
+       Basic, and Java) with a particular emphasis on simplification (less
+       symbolic requirements than C++, less decorative requirements than
+       Java). Though developed by Microsoft, C# is standardized by the
+       ECMA and International Standards Organization.
+     * Java is an object oriented interpreted programming language. It has
+       gained popularity in the past few years for its ability to be run
+       on many platforms, including Solaris, Linux, Microsoft Windows, Mac
+       OS and other systems. It was developed by Sun Microsystems.
+     * Lisp is a family of functional, sometimes scripted, programming
+       languages often used in AI.
+     * Object Pascal is an object oriented derivative of Pascal. Developed
+       by Apple Computer in the 1980s, today it is primarily known as the
+       language of Borland Delphi. It is also used with Kylix, Chrome and
+       various open source object pascal implementations, such as
+       FreePascal.
+     * The Delphi Language is the name of the Object Pascal derivative
+       that is the primary language of later versions of Borland's Delphi
+       Studio integrated development environment.
+     * Perl one of the first widely used, cross-platform, interpreted
+       languages, Perl owes much of its syntax and semantics to C and the
+       Unix shell.
+     * Python is an interpreted, dynamically typed, object-oriented
+       language that has some unique syntax features (like the
+       significance of indentation). Though strictly speaking an
+       interpreted language, its usage domain follows that of Java and C#.
+     * Ruby is very much like Python, though it features some constructs
+       more closely related to those found in Perl and Lisp. It is also
+       the basis of a very popular web application framework named Ruby on
+       Rails.
+     * PHP is a newer programming language with focus on web design. It
+       has a C-like syntax.
+
+Software development
+
+   Software is a mass noun for computer programs and data. The
+   accompanying documentation and software license are also considered an
+   essential part of the software, even though they don't involve any
+   actual coding.
+
+   Creating software involves:
+     * Requirements analysis
+     * Specification
+     * Software architecture
+     * Coding
+     * Compilation
+     * Software testing
+     * Documentation
+     * Integration
+     * Maintenance
+
+   Retrieved from " http://en.wikipedia.org/wiki/Computer_programming"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

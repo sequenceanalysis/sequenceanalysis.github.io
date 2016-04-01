@@ -1,0 +1,76 @@
+   #copyright
+
+Spherical aberration
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Spherical aberration. A perfect lens (top) focuses all incoming rays to
+   a point on the optic axis. A real lens with spherical surfaces (bottom)
+   suffers from spherical aberration: it focuses rays more tightly if they
+   enter it far from the optic axis than if they enter closer to the axis.
+   It therefore does not produce a perfect focal point. (Drawing is
+   exaggerated.)
+   Enlarge
+   Spherical aberration. A perfect lens (top) focuses all incoming rays to
+   a point on the optic axis. A real lens with spherical surfaces (bottom)
+   suffers from spherical aberration: it focuses rays more tightly if they
+   enter it far from the optic axis than if they enter closer to the axis.
+   It therefore does not produce a perfect focal point. (Drawing is
+   exaggerated.)
+   A point source as imaged by a system with (top) negative, (center)
+   zero, and (bottom) positive spherical aberration. Images to the left
+   are defocused toward the inside, images on the right toward the
+   outside.
+   Enlarge
+   A point source as imaged by a system with (top) negative, (centre)
+   zero, and (bottom) positive spherical aberration. Images to the left
+   are defocused toward the inside, images on the right toward the
+   outside.
+   Longitudinal sections through a focused beam with (top) negative,
+   (center) zero, and (bottom) positive spherical aberration. The lens is
+   to the left.
+   Enlarge
+   Longitudinal sections through a focused beam with (top) negative,
+   (centre) zero, and (bottom) positive spherical aberration. The lens is
+   to the left.
+
+   In optics, spherical aberration is an image imperfection that occurs
+   due to the increased refraction of light rays that occurs when rays
+   strike a lens or a reflection of light rays that occurs when rays
+   strike a mirror near its edge, in comparison with those that strike
+   nearer the centre. It is often considered to be an imperfection of
+   telescopes and other instruments which makes their focusing less than
+   ideal due to the spherical shape of lenses and mirrors. This is an
+   important effect, as spherical shapes are much easier to produce than
+   aspherical and so most lenses have spherical shapes.
+
+   The effect is proportional to the fourth power of the diameter and
+   inversely proportional to the third power of the focal length, so it is
+   much more pronounced at short focal ratios, i.e., "fast" lenses.
+
+   For small telescopes using spherical mirrors with focal ratios shorter
+   than f/10, light from a distant point source (such as a star) is not
+   all focused at the same point. Particularly, light striking the inner
+   part of the mirror focuses farther from the mirror than light striking
+   the outer part. As a result the image cannot be focused as sharply as
+   if the aberration were not present. Because of spherical aberration,
+   telescopes shorter than f/10 are usually made with non-spherical
+   mirrors or with correcting lenses.
+
+   In lens systems, the effect can be minimized using special combinations
+   of convex and concave lenses, as well as using aspheric lenses.
+
+   For simple designs one can sometimes calculate parameters that minimize
+   spherical aberration. For example, in a design consisting of a single
+   lens with spherical surfaces and a given object distance o, image
+   distance i, and refractive index n, one can minimize spherical
+   aberration by adjusting the radii of curvature R[1] and R[2] of the
+   front and back surfaces of the lens such that
+   \frac{R_1+R_2}{R_1-R_2}=\frac{2 \left( n^2-1 \right)}{n+2}\left(
+   \frac{i+o}{i-o}\right) .
+
+   Retrieved from " http://en.wikipedia.org/wiki/Spherical_aberration"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

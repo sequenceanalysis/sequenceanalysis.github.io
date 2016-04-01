@@ -1,0 +1,399 @@
+   #copyright
+
+RSS (file format)
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   CAPTION: RSS
+
+   The Firefox and Internet Explorer 7 Feed icon.
+   Screenshot of a RSS feed as seen in Mozilla Thunderbird
+   File extension: .rss, .xml
+     MIME type:    application/rss+xml (unregistered)
+   Extended from:  XML
+
+   RSS is a family of web feed formats used to publish frequently updated
+   pages, such as blogs or news feeds. Consumers of RSS content use
+   special browsers called aggregators to watch for new content in dozens
+   or even hundreds of web feeds. The initials "RSS" are variously used to
+   refer to the following standards:
+     * Really Simple Syndication (RSS 2.0)
+     * Rich Site Summary (RSS 0.91, RSS 1.0)
+     * RDF Site Summary (RSS 0.9 and 1.0)
+
+   RSS formats are specified in XML (a generic specification for data
+   formats). RSS delivers its information as an XML file called an "RSS
+   feed", "webfeed", "RSS stream", or "RSS channel".
+
+Usage
+
+   Programs known as feed readers or aggregators can check a list of feeds
+   on behalf of a user and display any updated articles that they find. It
+   is common to find web feeds on major websites and many smaller ones.
+   Some websites let people choose between RSS or Atom formatted web
+   feeds; others offer only RSS or only Atom.
+
+   RSS-aware programs are available for various operating systems.
+   Client-side readers and aggregators are typically constructed as
+   standalone programs or extensions to existing programs such as web
+   browsers and Email readers. Many browsers have integrated support for
+   RSS feeds. There also are other applications that can convert an RSS
+   feed into several usenet articles, viewable through the major
+   newsreader software such as Mozilla Thunderbird or Forté Agent: an
+   example of such applications are nntp//rss, a Java coded program, or
+   RSS Feed Converter a script for the popular mail-newsserver Hamster.
+
+   Web-based feed readers and news aggregators such as YourLiveWire or
+   NewsGator Online require no software installation and make the user's
+   "feeds" available on any computer with Web access. Some aggregators
+   combine existing web feeds into new feeds, e.g., taking all football
+   related items from several sports feeds and providing a new football
+   feed. There are also search engines for content published via web feeds
+   like Feedster or Blogdigger.
+
+   On Web pages, web feeds (RSS or Atom) are typically linked with the
+   word "Subscribe", an orange rectangle, a feed icon , or with the
+   letters XML or RSS . Many news aggregators such as My Yahoo! publish
+   subscription buttons for use on Web pages to simplify the process of
+   adding news feeds.
+
+History
+
+   Before RSS, several similar formats already existed for syndication,
+   but none achieved widespread popularity or are still in common use
+   today, as most were envisioned to work only with a single service.
+   These originated from push and pull technologies. Two of the earliest
+   examples are Backweb and Pointcast.
+
+   Between 1995 and 1997, Ramanathan V. Guha at Apple Computer's Advanced
+   Technology Group developed the Meta Content Framework (MCF). MCF was a
+   specification for structuring metadata information about web sites and
+   other data, and the basis of Project X (aka Hot Sauce), a 3D flythough
+   visualizer for the web. When the research project was discontinued,
+   Guha left Apple for Netscape, where he adapted MCF to use XML and
+   created the first version of the Resource Description Framework (RDF).
+
+   In 1997 Microsoft created Channel Definition Format for the Active
+   Channel feature of Internet Explorer 4.0, which never became popular.
+   This was probably due to CDF being focused on commercial application of
+   the concept and the extensive resources it required at a time when
+   people were mostly on dial-up. Backweb and Pointcast were geared
+   towards news, much like a personal API feed. Backweb later morphed into
+   providing software updates, a precursor to the push update features by
+   various companies now.
+
+   Dave Winer also designed his own XML syndication format for use on his
+   Scripting News weblog, which was also introduced in 1997 .
+
+   RDF Site Summary, the first version of RSS, was created by Dan Libby of
+   Netscape in March 1999 for use on the My Netscape portal. This version
+   became known as RSS 0.9 . In July 1999, responding to comments and
+   suggestions, Libby produced a prototype tentatively named RSS 0.91 (RSS
+   standing for Rich Site Summary), that simplified the format and
+   incorporated parts of Winer's scripting news format. This they
+   considered an interim measure, with Libby suggesting an RSS 1.0-like
+   format through the so-called Futures Document .
+
+   Soon afterwards, Netscape lost interest in RSS/XML, leaving the format
+   without an owner, just as it was becoming widely used. A working group
+   and mailing list, RSS-DEV, was set up by various users and XML notables
+   to continue its development. At the same time, Winer unilaterally
+   posted a modified version of the RSS 0.91 specification to the Userland
+   website, since it was already in use in their products. He claimed the
+   RSS 0.91 specification was the property of his company, UserLand
+   Software . Since neither side had any official claim on the name or the
+   format, arguments raged whenever either side claimed RSS as its own,
+   creating what became known as the RSS fork.
+
+   The RSS-DEV group went on to produce RSS 1.0 in December 2000. Like RSS
+   0.9 (but not 0.91) this was based on the RDF specifications, but was
+   more modular, with many of the terms coming from standard metadata
+   vocabularies such as Dublin Core.
+
+   Nineteen days later, Winer released by himself RSS 0.92 , a minor and
+   supposedly compatible set of changes to RSS 0.91 based on the same
+   proposal. In April 2001, he published a draft of RSS 0.93 which was
+   almost identical to 0.92. A draft RSS 0.94 surfaced in August,
+   reverting the changes made in 0.93, and adding a type attribute to the
+   description element.
+
+   In September 2002, Winer released a final successor to RSS 0.92, known
+   as RSS 2.0 and emphasizing "Really Simple Syndication" as the meaning
+   of the three-letter abbreviation. The RSS 2.0 spec removed the type
+   attribute added in RSS 0.94 and allowed people to add extension
+   elements using XML namespaces. Several versions of RSS 2.0 were
+   released, but the version number of the document model was not changed.
+
+   In November, 2002, The New York Times began offering its readers the
+   ability to subscribe to RSS news feeds related to various topics. In
+   January, 2003, Winer called the New York Times' adoption of RSS the "
+   tipping point" in driving the RSS format's becoming a de facto
+   standard.
+
+   In July, 2003, Winer and Userland Software assigned ownership of the
+   RSS 2.0 specification to his then workplace, Harvard's Berkman Centre
+   for the Internet & Society .
+
+   In January 2005, Sean B. Palmer, Christopher Schmidt, and Cody Woodard
+   produced a preliminary draft of RSS 1.1. It was intended as a bugfix
+   for 1.0, removing little-used features, simplifying the syntax and
+   improving the specification based on the more recent RDF
+   specifications. As of July 2005, RSS 1.1 had amounted to little more
+   than an academic exercise.
+
+   In April 2005, Apple Computer released Safari 2.0 with RSS Feed
+   capabilities built in. Safari delivered the ability to read RSS feeds,
+   and bookmark them, with built-in search features. Safari's RSS button
+   is a blue rounded rectangle with RSS written inside in white, Safari's
+   RSS icon/button . The favicon displayed defaults to a newspaper icon
+   Safari's feed favicon. .
+
+   In November 2005, Microsoft proposed its Simple Sharing Extensions to
+   RSS .
+
+   In December 2005, the Microsoft IE team and Outlook team announced in
+   their blogs that they will be adopting the feed icon first used in the
+   Mozilla Firefox browser , effectively making the orange square with
+   white radio waves the industry standard for both RSS and related
+   formats such as Atom. Also in February 2006, Opera Software announced
+   they too will add the orange square in their next release of Opera 9.
+
+   In January 2006, Rogers Cadenhead relaunched the RSS Advisory Board in
+   order to move the RSS format forward
+
+Incompatibilities
+
+   As noted above, there are several different versions of RSS, falling
+   into two major branches (RDF and 2.*). The RDF, or RSS 1.* branch
+   includes the following versions:
+     * RSS 0.90 was the original Netscape RSS version. This RSS was called
+       RDF Site Summary, but was based on an early working draft of the
+       RDF standard, and was not compatible with the final RDF
+       Recommendation.
+     * RSS 1.0 is an open format by the RSS-DEV Working Group, again
+       standing for RDF Site Summary. RSS 1.0 is an RDF format like RSS
+       0.90, but not fully compatible with it, since 1.0 is based on the
+       final RDF 1.0 Recommendation.
+     * RSS 1.1 is also an open format and is intended to update and
+       replace RSS 1.0. The specification is an independent draft not
+       supported or endorsed in any way by the RSS-Dev Working Group or
+       any other organization.
+
+   The RSS 2.* branch (initially UserLand, now Harvard) includes the
+   following versions:
+     * RSS 0.91 is the simplified RSS version released by Netscape, and
+       also the version number of the simplified version championed by
+       Dave Winer from Userland Software. The Netscape version was now
+       called Rich Site Summary, this was no longer an RDF format, but was
+       relatively easy to use. It remains the most common RSS variant.
+     * RSS 0.92 through 0.94 are expansions of the RSS 0.91 format, which
+       are mostly compatible with each other and with Winer's version of
+       RSS 0.91, but are not compatible with RSS 0.90. In all Userland RSS
+       0.9x specifications, RSS was no longer an acronym.
+     * RSS 2.0.1 has the internal version number 2.0. RSS 2.0.1 was
+       proclaimed to be "frozen", but still updated shortly after release
+       without changing the version number. RSS now stood for Really
+       Simple Syndication. The major change in this version is an explicit
+       extension mechanism using XML Namespaces.
+
+   For the most part, later versions in each branch are
+   backward-compatible with earlier versions (aside from non-conformant
+   RDF syntax in 0.90), and both versions include properly documented
+   extension mechanisms using XML Namespaces, either directly (in the 2.*
+   branch) or through RDF (in the 1.* branch). Most syndication software
+   supports both branches. Mark Pilgrim's article "The Myth of RSS
+   Compatibility" discusses RSS version compatibility in more detail.
+
+   The extension mechanisms make it possible for each branch to track
+   innovations in the other. For example, the RSS 2.* branch was the first
+   to support enclosures, making it the current leading choice for
+   podcasting, and as of mid-2005 is the format supported for that use by
+   iTunes and other podcasting software; however, an enclosure extension
+   is now available for the RSS 1.* branch, mod_enclosure . Likewise, the
+   RSS 2.* core specification does not support providing full-text in
+   addition to a synopsis, but the RSS 1.* markup can be (and often is)
+   used as an extension. There are also several common outside extension
+   packages available, including a new proposal from Microsoft for use in
+   Internet Explorer 7.
+
+   The most serious compatibility problem is with HTML markup. Userland's
+   RSS reader—generally considered as the reference implementation—did not
+   originally filter out HTML markup from feeds. As a result, publishers
+   began placing HTML markup into the titles and descriptions of items in
+   their RSS feeds. This behaviour has become widely expected of readers,
+   to the point of becoming a de facto standard, though there is still
+   some inconsistency in how software handles this markup, particularly in
+   titles. The RSS 2.0 specification was later updated to include examples
+   of entity-encoded HTML, however all prior plain text usages remain
+   valid.
+
+Atom
+
+   In reaction to recognized issues with RSS (and because RSS 2.0 is
+   frozen), a third group began a new syndication specification, Atom, in
+   June 2003. Their work was later adopted by the Internet Engineering
+   Task Force (IETF) leading to the publication of a specification ( RFC
+   4287) for the Atom Format in 2005. Work on the Atom Publishing
+   Protocol, a standards-based protocol for posting to publishing tools is
+   ongoing.
+
+   The relative benefits of Atom in comparison to the two RSS branches are
+   a matter of debate within the Web-syndication community. Supporters of
+   Atom claim that it improves on RSS by relying on standard XML features,
+   by specifying a payload container that can handle many different kinds
+   of content unambiguously, and by having a specification maintained by a
+   recognized standards organization. Critics claim that Atom
+   unnecessarily introduces a third branch of syndication specifications,
+   further confusing the marketplace.
+
+   For a comparison of Atom 1.0 to RSS 2.0 see Atom Compared to RSS 2.0.
+
+Modules
+
+   The primary objective of all RSS modules is to extend the basic XML
+   schema established for more robust syndication of content. This
+   inherently allows for more diverse, yet standardized, transactions
+   without modifying the core RSS specification.
+
+   To accomplish this extension, a tightly controlled vocabulary (in the
+   RSS world; "module", in the XML world; "schema") is declared through an
+   XML namespace to give names to concepts and relationships between those
+   concepts.
+
+   Some RSS 2.0 modules with established namespaces:
+     * Ecommerce RSS 2.0 Module
+     * Media RSS 2.0 Module
+     * OpenSearch RSS 2.0 Module
+
+BitTorrent and RSS
+
+   The peer-to-peer application BitTorrent has also announced support for
+   RSS. Such feeds (also known as Torrent/RSS-es) will allow client
+   applications to download files automatically (also known as
+   Broadcatching). Most common BitTorrent clients already offer RSS
+   support.
+
+Example
+
+   The following is an example of an RSS 1.0 file.
+<?xml version="1.0"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/">
+
+ <channel rdf:about="http://www.xml.com/xml/news.rss">
+   <title>XML.com</title>
+   <link>http://xml.com/pub</link>
+   <description>
+     XML.com features a rich mix of information and services
+     for the XML community.
+   </description>
+   <image rdf:resource="http://xml.com/universal/images/xml_tiny.gif" />
+   <items>
+     <rdf:Seq>
+       <rdf:li resource="http://xml.com/pub/2000/08/09/xslt/xslt.html" />
+       <rdf:li resource="http://xml.com/pub/2000/08/09/rdfdb/index.html" />
+     </rdf:Seq>
+   </items>
+   <textinput rdf:resource="http://search.xml.com" />
+ </channel>
+
+ <image rdf:about="http://xml.com/universal/images/xml_tiny.gif">
+   <title>XML.com</title>
+   <link>http://www.xml.com</link>
+   <url>http://xml.com/universal/images/xml_tiny.gif</url>
+ </image>
+
+ <item rdf:about="http://xml.com/pub/2000/08/09/xslt/xslt.html">
+   <title>Processing Inclusions with XSLT</title>
+   <link>http://xml.com/pub/2000/08/09/xslt/xslt.html</link>
+   <description>
+    Processing document inclusions with general XML tools can be
+    problematic. This article proposes a way of preserving inclusion
+    information through SAX-based processing.
+   </description>
+ </item>
+
+ <item rdf:about="http://xml.com/pub/2000/08/09/rdfdb/index.html">
+   <title>Putting RDF to Work</title>
+   <link>http://xml.com/pub/2000/08/09/rdfdb/index.html</link>
+   <description>
+    Tool and API support for the Resource Description Framework
+    is slowly coming of age. Edd Dumbill takes a look at RDFDB,
+    one of the most exciting new RDF toolkits.
+   </description>
+ </item>
+
+ <textinput rdf:about="http://search.xml.com">
+   <title>Search XML.com</title>
+   <description>Search XML.com's XML collection</description>
+   <name>s</name>
+   <link>http://search.xml.com</link>
+ </textinput>
+</rdf:RDF>
+
+   The following is an example of an RSS 2.0 file.
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Liftoff News</title>
+    <link>http://liftoff.msfc.nasa.gov/</link>
+    <description>Liftoff to Space Exploration.</description>
+    <language>en-us</language>
+    <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2003 09:41:01 GMT</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Weblog Editor 2.0</generator>
+    <managingEditor>editor@example.com</managingEditor>
+    <webMaster>webmaster@example.com</webMaster>
+
+    <item>
+      <title>Star City</title>
+      <link>http://liftoff.msfc.nasa.gov/news/2003/news-starcity.asp</link>
+      <description>How do Americans get ready to work with Russians aboard the
+        International Space Station? They take a crash course in culture, langua
+ge
+        and protocol at Russia's Star City.</description>
+      <pubDate>Tue, 03 Jun 2003 09:39:21 GMT</pubDate>
+      <guid>http://liftoff.msfc.nasa.gov/2003/06/03.html#item573</guid>
+    </item>
+
+    <item>
+      <title>Space Exploration</title>
+      <link>http://liftoff.msfc.nasa.gov/</link>
+      <description>Sky watchers in Europe, Asia, and parts of Alaska and Canada
+        will experience a partial eclipse of the Sun on Saturday, May 31st.</des
+cription>
+      <pubDate>Fri, 30 May 2003 11:06:42 GMT</pubDate>
+      <guid>http://liftoff.msfc.nasa.gov/2003/05/30.html#item572</guid>
+    </item>
+
+    <item>
+      <title>The Engine That Does More</title>
+      <link>http://liftoff.msfc.nasa.gov/news/2003/news-VASIMR.asp</link>
+      <description>Before man travels to Mars, NASA hopes to design new engines
+        that will let us fly through the Solar System more quickly.  The propose
+d
+        VASIMR engine would do that.</description>
+      <pubDate>Tue, 27 May 2003 08:37:32 GMT</pubDate>
+      <guid>http://liftoff.msfc.nasa.gov/2003/05/27.html#item571</guid>
+    </item>
+
+    <item>
+      <title>Astronauts' Dirty Laundry</title>
+      <link>http://liftoff.msfc.nasa.gov/news/2003/news-laundry.asp</link>
+      <description>Compared to earlier spacecraft, the International Space
+        Station has many luxuries, but laundry facilities are not one of them.
+        Instead, astronauts have other options.</description>
+      <pubDate>Tue, 20 May 2003 08:56:02 GMT</pubDate>
+      <guid>http://liftoff.msfc.nasa.gov/2003/05/20.html#item570</guid>
+    </item>
+  </channel>
+</rss>
+
+   Retrieved from " http://en.wikipedia.org/wiki/RSS_%28file_format%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

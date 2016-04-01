@@ -1,0 +1,609 @@
+   #copyright
+
+X Window System
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: X Window System
+
+   Maintainer:      X.Org Foundation
+   Stable release:  7.1  ( 22 May 2006) [[ +/-]]
+   Preview release: 7.2RC1  (October 13th, 2006)
+
+                    git (development)  (various) [[ +/-]]
+   OS:              multiple
+   Use:             Windowing system
+   License:         MIT License
+   Website:         www.x.org
+   KDE 3.5
+   Enlarge
+   KDE 3.5
+   GNOME 2.14.0
+   Enlarge
+   GNOME 2.14.0
+
+   In computing, the X Window System (commonly X11 or X) is a protocol and
+   associated software to provide windowing on bitmap displays. It
+   provides the standard toolkit and protocol to build graphical user
+   interfaces (GUIs) on Unix, Unix-like operating systems, and OpenVMS,
+   and is supported by almost all other modern operating systems.
+
+   X provides the basic framework for a GUI environment: drawing and
+   moving windows on the screen and interacting with a mouse and/or
+   keyboard. X does not mandate the user interface – individual client
+   programs handle this. As such, the visual styling of X-based
+   environments varies greatly; different programs may present radically
+   different interfaces.
+
+   X features network transparency: the machine where application programs
+   (the client applications) run can differ from the user's local machine
+   (the display server). X's usage of the terms "client" and "server"
+   reverses what people often expect, in that "server" refers to the
+   user's local display ("display server") rather than to a remote
+   machine.
+
+   X originated at MIT in 1984. The current protocol version, X11,
+   appeared in September 1987. The X.Org Foundation leads the X project,
+   with the current reference implementation, version 11 release 7.1,
+   available as free software under the MIT License and similar permissive
+   licenses .
+
+The X client-server model and network transparency
+
+   X uses a client-server model: an X server communicates with various
+   client programs. The server accepts requests for graphical output
+   (windows) and sends back user input (from keyboard, mouse, or
+   touchscreen). The server may function as any one of:
+     * an application displaying to a window of another display system
+     * a system program controlling the video output of a PC
+     * a dedicated piece of hardware.
+
+   This client-server terminology — the user's terminal as the "server",
+   the remote applications as the "clients" — often confuses new X users,
+   because the terms appear reversed. But X takes the perspective of the
+   program, rather than that of the end-user or of the hardware: the local
+   X display provides display services to programs, so it acts as a
+   server; any remote program uses these services, thus it acts as a
+   client.
+   In this example, the X server takes input from a keyboard and mouse and
+   displays to a screen. A web browser and a terminal emulator run on the
+   user's workstation, and a system updater runs on a remote server but is
+   controlled from the user's machine. Note that the remote application
+   runs just as it would locally.
+   In this example, the X server takes input from a keyboard and mouse and
+   displays to a screen. A web browser and a terminal emulator run on the
+   user's workstation, and a system updater runs on a remote server but is
+   controlled from the user's machine. Note that the remote application
+   runs just as it would locally.
+
+   The communication protocol between server and client operates
+   network-transparently: the client and server may run on the same
+   machine or on different ones, possibly with different architectures and
+   operating systems, but they run the same in either case. A client and
+   server can even communicate securely over the Internet by tunneling the
+   connection over an encrypted network session.
+
+   To start a remote client program displaying to a local server, the user
+   will typically open a terminal window and telnet or ssh to the remote
+   machine, tell it to display to the user's machine (e.g. export
+   DISPLAY=[user's machine]:0 on a remote machine running bash), then
+   start the client. The client will then connect to the local server and
+   the remote application will display to the local screen and accept
+   input from the local input devices. Alternatively, the local machine
+   may run a small helper program to connect to a remote machine and start
+   the desired client application there.
+
+   Practical examples of remote clients include:
+     * administering a remote machine graphically
+     * running a computationally intensive simulation on a remote Unix
+       machine and displaying the results on a local Windows desktop
+       machine
+     * running graphical software on several machines at once, controlled
+       by a single display, keyboard and mouse.
+
+Design principles of X
+
+   In 1984, Bob Scheifler and Jim Gettys set out the early principles of
+   X:
+     * Do not add new functionality unless an implementor cannot complete
+       a real application without it.
+     * It is as important to decide what a system is not as to decide what
+       it is. Do not serve all the world's needs; rather, make the system
+       extensible so that additional needs can be met in an upwardly
+       compatible fashion.
+     * The only thing worse than generalizing from one example is
+       generalizing from no examples at all.
+     * If a problem is not completely understood, it is probably best to
+       provide no solution at all.
+     * If you can get 90 percent of the desired effect for 10 percent of
+       the work, use the simpler solution. (See also Worse is better.)
+     * Isolate complexity as much as possible.
+     * Provide mechanism rather than policy. In particular, place user
+       interface policy in the clients' hands.
+
+   The first principle was modified during the design of X11 to: "Do not
+   add new functionality unless you know of some real application that
+   will require it."
+
+   X has largely kept to these principles since. The reference
+   implementation is developed with a view to extension and improvement of
+   the implementation, whilst remaining almost entirely compatible with
+   the original 1987 protocol.
+
+User interfaces
+
+   X deliberately contains no specification as to application user
+   interface, such as buttons, menus, window title bars and so on.
+   Instead, user software – such as window managers, GUI widget toolkits
+   and desktop environments, or application-specific GUIs, such as point
+   of sale – provide/define all such details. As such, the "typical" X
+   interface has varied tremendously over the years.
+
+   A window manager controls the placement and appearance of application
+   windows. This may have an interface akin to that of Microsoft Windows
+   or of the Macintosh (examples include KWin in KDE or Metacity in GNOME)
+   or have radically different controls (such as a tiling window manager).
+   The window manager may be bare-bones (e.g. twm, the basic window
+   manager supplied with X) or offer functionality verging on that of a
+   full desktop environment (e.g. Enlightenment).
+
+   Many users use X with a full desktop environment, which includes a
+   window manager, various applications and a consistent interface. GNOME
+   and KDE are the most popular desktop environments. The Unix standard
+   environment is the Common Desktop Environment (CDE). The
+   freedesktop.org initiative addresses interoperability between desktops
+   and the components needed for a competitive X desktop.
+
+   As X is responsible for keyboard and mouse interaction with graphical
+   desktops, certain keyboard shortcuts have become associated with X.
+   Control-Alt-Backspace terminates the currently running X session, while
+   Control-Alt in conjunction with a function key switches to the
+   associate virtual console.
+
+Implementations
+
+   The X.Org reference implementation serves as the canonical
+   implementation of X. Due to the liberal licensing, a number of
+   variations, both free and proprietary, have appeared. Commercial UNIX
+   vendors have tended to take the reference implementation and adapt it
+   for their hardware, usually customising it heavily and adding
+   proprietary extensions.
+
+   Up to 2004, XFree86 provided the most common X variant on free
+   Unix-like systems. XFree86 started as a port of X for 386-compatible
+   PCs and, by the end of the 1990s, had become the greatest source of
+   technical innovation in X and the de facto steward of X development .
+   Since 2004, however, the X.Org reference implementation, a fork of
+   XFree86, has become predominant.
+
+   While computer aficionados most often associate X with Unix, X servers
+   also exist natively within other graphical environments.
+   Hewlett-Packard's OpenVMS operating system includes a version of X with
+   CDE, known as DECwindows, as its standard desktop environment. Apple's
+   Mac OS X v10.3 (Panther) and up includes X11.app, based on XFree86 4.3
+   and X11R6.6, with better Mac OS X integration. Third-party servers
+   under Macintosh System 7, 8 and 9 included MacX.
+
+   Microsoft Windows does not come with support for X, but many
+   third-party implementations exist, both free software such as Cygwin/X,
+   Xming, WeirdMind and WeirdX; and proprietary products such as Xmanager,
+   X-Deep/32, WiredX, Exceed and X-Win32. They normally serve to control
+   remote X clients.
+
+   When another windowing system (such as those of Microsoft Windows or
+   Mac OS) hosts X, the X system generally runs "rootless", meaning the
+   host windowing environment looks after the root window (the background
+   and associated menus) and manages the geometry of the hosted X windows
+   — although some servers (Exceed, for example) can also create the root
+   window for the remote clients to display to as a separate window in the
+   host system.
+
+X terminals
+
+   A Network Computing Devices NCD-88k X terminal.
+   Enlarge
+   A Network Computing Devices NCD-88k X terminal.
+
+   An X terminal is a smart terminal that runs an X server as a thin
+   client. This architecture became popular for building inexpensive
+   terminal parks for many users to simultaneously use the same large
+   server. This use very much aligns with the original intention of the
+   MIT project.
+
+   X terminals explore the network (the local broadcast domain) using the
+   X Display Manager Control Protocol to generate a list of available
+   hosts that they can run clients from. The initial host needs to run an
+   X display manager.
+
+   Dedicated (hardware) X terminals have become less common; a PC with an
+   X server typically provides the same functionality at a lower cost.
+
+Limitations and criticisms of X
+
+   The UNIX-HATERS Handbook devoted an entire chapter, "The X-Windows
+   Disaster", to the problems of X in the late 1980s and early 1990s. Why
+   X Is Not Our Ideal Window System (1990) by Gajewska, Manasse and
+   McCormack detailed problems in the protocol with recommendations for
+   improvement.
+
+Video hardware
+
+   The performance edge for graphical computing is now in the most
+   advanced graphics functions. Manufacturers typically implement these in
+   proprietary drivers, generally writing for Windows (the largest
+   consumer-market) first. XFree86 and the X.Org Server have
+   reverse-engineered drivers for many older cards. However, as the high
+   performance video market offers " state-of-the-art" products, some
+   vendors regard programming details as trade secrets or as patentable
+   inventions that they do not wish to reveal.
+
+User interface features
+
+   X deliberately contains no specification as to user interface or most
+   inter-application communication. This has resulted in several vastly
+   different interfaces, and in applications that have not always quite
+   worked together. The ICCCM, a specification for client
+   interoperability, has a reputation as difficult to implement correctly.
+   Further standards efforts such as Motif and CDE did not remedy matters.
+   This has frustrated users and programmers for a long time. Graphics
+   programmers now generally address consistency of application look and
+   feel and communication by coding to a specific desktop environment or
+   to a specific widget toolkit, which also avoids having to deal directly
+   with the ICCCM.
+
+   The X protocol provides no facilities for handling sound, leaving it to
+   the operating system to provide support for audio hardware and sound
+   playback. As users increasingly expect sound, this has led to various
+   incompatible sound subsystems. Most programmers simply use local,
+   OS-specific sound APIs. The first generation of client-server sound
+   systems included rplay and Network Audio System. More recent efforts
+   have produced EsounD (GNOME) and ARts (KDE). In 2001, the X.org
+   foundation announced the development of the Media Application Server
+   (MAS) to remedy this problem. However, none of these is generally used
+   as a solution to the problem.
+
+Network
+
+   Example of tunnelling an X11 application over SSH.
+   Enlarge
+   Example of tunnelling an X11 application over SSH.
+
+   One cannot currently detach an X client or session from one server and
+   reattach it to another, as with Virtual Network Computing (VNC). Work
+   has started to add this facility to X. Workarounds (VNC :0 viewers)
+   exist to make the current X-server screen available via VNC.
+
+   Network traffic between an X server and remote X clients has no default
+   encryption. An attacker with a packet sniffer can intercept and read
+   it. Most users address this issue by tunneling X over SSH; most SSH
+   implementations support the tunneling of X applications although it is
+   sometimes disabled by default.
+
+Client-server separation
+
+   X's design requires the clients and server to operate separately, and
+   device independence and the separation of client and server incur
+   overhead compared to an operating system where the graphics are
+   integrated into the OS, such as early versions of Microsoft Windows or
+   Mac OS. X advocates recommended 4 to 8 MB of RAM for reasonable
+   performance; until the mid-1990s, this seemed bloated compared to
+   Windows or Mac OS.
+
+   Current versions of Windows and Mac OS X Quartz have internal subsystem
+   separation similar to the client/server divide in X and comparable
+   performance and resource usage to X with KDE or GNOME. Most of the
+   overhead comes from network round-trip delay time between client and
+   server ( latency rather than from the protocol itself): the best
+   solutions to performance issues involve paying attention to application
+   design . A common misconception is that X's network features result in
+   excessive complexity if only used locally, and that X's network
+   capabilities cause an undesirable performance hit; modern X
+   implementations use local sockets and shared memory, requiring very
+   little overhead.
+
+Competitors to X
+
+   For graphics Unix-like systems use X almost universally. Nevertheless,
+   some people have attempted writing alternatives to and replacements
+   for X. Historical alternatives include Sun's NeWS, which failed in the
+   market, and NeXT's Display PostScript, which eventually became Apple's
+   Quartz for Mac OS X.
+
+   Modern attempts to address criticisms of X by replacing it completely
+   include Berlin/ Fresco and the Y Window System. These alternatives have
+   seen negligible take-up, however, and commentators widely doubt the
+   viability of any replacement that does not preserve
+   backwards-compatibility with X.
+
+   Other competitors attempt to avoid the overhead of X by working
+   directly with the hardware. Such projects include DirectFB and the very
+   small FBUI. The Direct Rendering Infrastructure, which aims to provide
+   a reliable kernel-level interface to the framebuffer, may make these
+   efforts redundant.
+
+   Other ways to achieve network transparency for graphical services
+   include:
+     * the SVG Terminal, a protocol to update Scalable Vector Graphics
+       (SVG) content in a browser in near-real-time
+     * Virtual Network Computing (VNC), a very low-level system which
+       sends compressed bitmaps across the network; the Unix
+       implementation includes an X server
+     * Citrix MetaFrame, an X-like product for Microsoft Windows
+     * Tarantella, which provides a Java client for use in web browsers
+
+History
+
+Predecessors
+
+   Several bitmap display systems preceded X. From Xerox came the Alto
+   (1973) and the Star (1981). From Apple came the Lisa (1983) and the
+   Macintosh (1984). The Unix world had the Andrew Project (1982) and Rob
+   Pike's Blit terminal (1984).
+
+   X derives its name as a successor to a pre-1983 window system called W
+   (the letter X directly following W in the Latin alphabet). W Window
+   System ran under the V operating system. W used a network protocol
+   supporting terminal and graphics windows, the server maintaining
+   display lists.
+
+Origin and early development
+
+   The original idea of X emerged at MIT in 1984 as a collaboration
+   between Jim Gettys (of Project Athena) and Bob Scheifler (of the MIT
+   Laboratory for Computer Science). Scheifler needed a usable display
+   environment for debugging the Argus system. Project Athena (a joint
+   project between Digital Equipment Corporation (DEC), MIT and IBM to
+   provide easy access to computing resources for all students) needed a
+   platform-independent graphics system to link together its heterogeneous
+   multiple-vendor systems; the window system then under development in
+   Carnegie Mellon University's Andrew Project did not make licences
+   available, and no alternatives existed.
+
+   The project solved this by creating a protocol that could both run
+   local applications and call on remote resources. In mid-1983 an initial
+   port of W to Unix ran at one-fifth of its speed under V; in May 1984,
+   Scheifler replaced the synchronous protocol of W with an asynchronous
+   protocol and the display lists with immediate mode graphics to make X
+   version 1. X became the first windowing system environment to offer
+   true hardware-independence and vendor-independence.
+
+   Scheifler, Gettys and Ron Newman set to work and X progressed rapidly.
+   They released Version 6 in January 1985. DEC, then preparing to release
+   its first Ultrix workstation, judged X the only windowing system likely
+   to become available in time. DEC engineers ported X6 to DEC's QVSS
+   display on MicroVAX.
+
+   In the second quarter of 1985 X acquired colour support to function in
+   the DEC VAXstation-II/GPX, forming what became version 9. Although MIT
+   had licensed X6 to some outside groups for a fee, it decided at this
+   time to license X9 and future versions under what became known as the
+   MIT License. X9 appeared in September 1985.
+
+   A group at Brown University ported version 9 to the IBM RT/PC, but
+   problems with reading unaligned data on the RT forced an incompatible
+   protocol change, leading to version 10 in late 1985. By 1986, outside
+   organizations had started asking for X. The release of X10R2 took place
+   in January 1986; that of X10R3 in February 1986. X10R3 became the first
+   version to achieve wide deployment, with both DEC and Hewlett-Packard
+   releasing products based on it. Other groups ported X10 to Apollo and
+   to Sun workstations and even to the IBM PC/AT. Demonstrations of the
+   first commercial application for X (a mechanical computer-aided
+   engineering system that ran on VAXes and displayed on PCs running an X
+   server) took place at the Autofact trade show at that time. The last
+   version of X10, X10R4, appeared in December 1986.
+
+   Although X10 offered interesting and powerful functionality, it had
+   become obvious that the X protocol could use a more hardware-neutral
+   redesign before it became too widely deployed; but MIT alone would not
+   have the resources available for such a complete redesign. As it
+   happened, DEC's Western Software Laboratory found itself between
+   projects. Smokey Wallace of DEC WSL and Jim Gettys proposed that DEC
+   WSL build X11 and make it freely available under the same terms as X9
+   and X10. This process started in May 1986, with the protocol finalised
+   in August. Alpha-testing of the software started in February 1987,
+   beta-testing in May; the release of X11 finally occurred on September
+   15, 1987.
+
+   The X11 protocol design, led by Scheifler, got extensively discussed on
+   open mailing lists on the nascent Internet. X therefore represents one
+   of the first very large-scale free software projects.
+
+The MIT X Consortium and the X Consortium, Inc.
+
+   In 1987, with the success of X11 becoming apparent, MIT wished to
+   relinquish the stewardship of X, but at a June 1987 meeting with nine
+   vendors, the vendors told MIT that they believed in the need for a
+   neutral party to keep X from fragmenting in the marketplace. In January
+   1988, the MIT X Consortium formed as a non-profit vendor group, with
+   Scheifler as director, to direct the future development of X in a
+   neutral atmosphere inclusive of commercial and educational interests.
+   Jim Fulton joined in January 1988 and Keith Packard in March 1988 as
+   senior developers, with Jim focusing on Xlib, fonts, window managers,
+   and utilities; and Keith re-implementing the server. Donna Converse and
+   Chris Peterson joined later that year, focusing on toolkits and widget
+   sets, working closely with Ralph Swick of MIT Project Athena. The MIT X
+   Consortium produced several significant revisions to X11, the first
+   (Release 2 - X11R2) in February 1988.
+
+   In 1993, the X Consortium, Inc. (a non-profit corporation) formed as
+   the successor to the MIT X Consortium. It released X11R6 on May 16,
+   1994. In 1995 it took over stewardship of the Motif toolkit and of the
+   Common Desktop Environment for Unix systems. The X Consortium dissolved
+   at the end of 1996, producing a final revision, X11R6.3, and a legacy
+   of increasing commercial influence in the development.
+
+The Open Group
+
+   In mid-1997 the X Consortium passed stewardship of X to The Open Group,
+   a vendor group formed in early 1996 by the merger of the Open Software
+   Foundation and X/Open.
+
+   The Open Group released X11R6.4 in early 1998. Controversially, X11R6.4
+   departed from the traditional liberal licensing terms, as the Open
+   Group sought to assure funding for X's development . The new terms
+   would have prevented its adoption by many projects (such as XFree86)
+   and even by some commercial vendors. After XFree86 threatened a fork ,
+   the Open Group relicensed X11R6.4 under the traditional license in
+   September 1998. The Open Group's last release came as X11R6.4 patch 3.
+
+X.Org and XFree86
+
+   XFree86 originated in 1992 from the X386 server for IBM PC compatibles
+   included with X11R5 in 1991, written by Thomas Roell and Mark W.
+   Snitily and donated to the MIT X Consortium by Snitily Graphics
+   Consulting Services (SGCS). XFree86 evolved over time from just one
+   port of X to the leading and most popular implementation and the de
+   facto steward of X's development .
+
+   In May 1999, the Open Group formed X.Org. X.Org supervised the release
+   of versions X11R6.5.1 onward. X development at this time had become
+   moribund ; most technical innovation since the X Consortium had
+   dissolved had taken place in the XFree86 project . In 1999, the XFree86
+   team joined X.Org as an honorary (non-paying) member , encouraged by
+   various hardware companies interested in using XFree86 with Linux and
+   in its status as the most popular version of X.
+
+   By 2003, while the popularity of Linux (and hence the installed base of
+   X) surged, X.Org remained all but inactive , and active development
+   took place largely within XFree86. However, considerable dissent
+   developed within XFree86. The XFree86 project suffered from a
+   perception of a far too cathedral-like development model; developers
+   could not get CVS commit access and vendors had to maintain extensive
+   patch sets . In March 2003 the XFree86 organization expelled Keith
+   Packard, who had joined XFree86 after the end of the original MIT X
+   Consortium, with considerable ill-feeling .
+
+   X.Org and XFree86 began discussing a reorganisation suited to properly
+   nurturing the development of X . Jim Gettys had been pushing strongly
+   for an open development model since at least 2000 . Gettys, Packard and
+   several others began discussing in detail the requirements for the
+   effective governance of X with open development.
+
+   Finally, in an echo of the X11R6.4 licensing dispute, XFree86 released
+   version 4.4 in February 2004 under a more restricted license which many
+   projects relying on X found unacceptable . The added clause to the
+   license was based upon the original BSD license's advertising clause,
+   which was viewed by the Free Software Foundation and Debian as
+   incompatible with the GNU General Public License . Other groups saw
+   further restrictions as being against the spirit of the original X
+   (OpenBSD threatening a fork, for example). The license issue, combined
+   with the difficulties in getting changes in, left many feeling the time
+   was ripe for a fork .
+
+The X.Org Foundation
+
+   In early 2004 various people from X.Org and freedesktop.org formed the
+   X.Org Foundation, and the Open Group gave it control of the x.org
+   domain name. This marked a radical change in the governance of X.
+   Whereas the stewards of X since 1988 (including the previous X.Org) had
+   been vendor organizations, the Foundation was led by software
+   developers and used community development based on the bazaar model,
+   which relies on outside involvement. Membership was opened to
+   individuals, with corporate membership being in the form of
+   sponsorship. Several major corporations such as Hewlett-Packard and Sun
+   Microsystems currently support the X.Org Foundation.
+
+   The Foundation takes an oversight role over X development: technical
+   decisions are made on their merits by achieving rough consensus among
+   community members. Technical decisions are not made by the board of
+   directors; in this sense, it is strongly modelled on the technically
+   non-interventionist GNOME Foundation. The Foundation does not employ
+   any developers.
+
+   The Foundation released X11R6.7, the X.Org Server, in April 2004, based
+   on XFree86 4.4RC2 with X11R6.6 changes merged. Gettys and Packard had
+   taken the last version of XFree86 under the old license and, by making
+   a point of an open development model and retaining GPL compatibility,
+   brought many of the old XFree86 developers on board .
+
+   X11R6.8 came out in September 2004. It added significant new features,
+   including preliminary support for translucent windows and other
+   sophisticated visual effects, screen magnifiers and thumbnailers, and
+   facilities to integrate with 3D immersive display systems such as Sun's
+   Project Looking Glass and the Croquet project. External applications
+   called compositing managers provide policy for the visual appearance.
+
+Future directions
+
+   With the X.Org Foundation and freedesktop.org, the main line of X
+   development has started to progress rapidly once more. The developers
+   intend to release present and future versions as usable finished
+   products, not merely as bases for vendors to build a product upon.
+
+   On December 21, 2005 , X.Org released X11R6.9, the monolithic source
+   tree for legacy users, and X11R7.0, the same source code separated into
+   independent modules, each maintainable in separate projects . The
+   Foundation released X11R7.1 on May 22, 2006, about four months after
+   7.0, with considerable feature improvements .
+
+   For sufficiently capable combinations of hardware and operating
+   systems, X.Org plans to access the video hardware only via OpenGL and
+   the Direct Rendering Infrastructure (DRI). The DRI first appeared in
+   XFree86 version 4.0 and became standard in X11R6.7 and later . Many
+   operating systems have started to add kernel support for hardware
+   manipulation. This work proceeds incrementally.
+
+Nomenclature
+
+   People in the computer trade commonly shorten the phrase "X Window
+   System" to "X11" or simply to "X". The term "X Windows" (in the manner
+   of "Microsoft Windows") is not officially endorsed, though it has been
+   in common use since early in the history of X and has been used
+   deliberately for literary effect, for example in the UNIX-HATERS
+   Handbook.
+
+Release history
+
+   Version Release date Most important changes
+   X1 June 1984 First use of the name "X"; fundamental changes
+   distinguishing the product from W.
+   X6 January 1985 First version licensed to a handful of outside
+   companies.
+   X9 September 1985 Colour. First release under MIT License.
+   X10 late 1985 IBM RT/PC, AT (running DOS), and others
+   X10R2 January 1986
+   X10R3 February 1986 First release outside MIT. uwm made standard window
+   manager.
+   X10R4 December 1986 Last version of X10.
+   X11 September 15, 1987 First release of the current protocol.
+   X11R2 February 1988 First X Consortium release.
+   X11R3 October 25, 1988 XDM
+   X11R4 December 22, 1989 XDMCP, twm brought in as standard window
+   manager, application improvements, Shape extension, new fonts.
+   X11R5 September 5, 1991 PEX, Xcms ( colour management), font server,
+   X386, X video extension
+   X11R6 May 16, 1994 ICCCM v2.0; Inter-Client Exchange; X Session
+   Management; X Synchronization extension; X Image extension; XTEST
+   extension; X Input; X Big Requests; XC-MISC; XFree86 changes.
+   X11R6.1 March 14, 1996 X Double Buffer extension; X keyboard extension;
+   X Record extension.
+   X11R6.2
+   X11R6.3 (Broadway) December 23, 1996 Web functionality, LBX. Last X
+   Consortium release. X11R6.2 is the tag for a subset of X11R6.3 with the
+   only new features over R6.1 being XPrint and the Xlib implementation of
+   vertical writing and user-defined character support.
+   X11R6.4 March 31, 1998 Xinerama.
+   X11R6.5 Internal X.org release; not made publicly available.
+   X11R6.5.1 August 20, 2000
+   X11R6.6 April 4, 2001 Bug fixes, XFree86 changes.
+   X11R6.7.0 April 6, 2004 First X.Org Foundation release, incorporating
+   XFree86 4.4rc2. Full end-user distribution. Removal of XIE, PEX and
+   libxml2.
+   X11R6.8.0 September 8, 2004 Window translucency, XDamage, Distributed
+   Multihead X, XFixes, Composite, XEvIE.
+   X11R6.8.1 September 17, 2004 Security fix in libxpm.
+   X11R6.8.2 February 10, 2005 Bug fixes, driver updates.
+   X11R6.9
+   X11R7.0 December 21, 2005 EXA, major source code refactoring . From the
+   same source-code base, the modular autotooled version became 7.0 and
+   the monolithic imake version was frozen at 6.9.
+   X11R7.1 May 22, 2006 EXA enhancements, KDrive integrated, AIGLX, OS and
+   platform support enhancements .
+   X11R7.2 2006 Removal of LBX and the built-in keyboard driver, X-ACE,
+   XCB, autoconfig improvements, cleanups.
+
+   Retrieved from " http://en.wikipedia.org/wiki/X_Window_System"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

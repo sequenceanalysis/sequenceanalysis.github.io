@@ -1,0 +1,184 @@
+   #copyright
+
+Photovoltaic array
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   A photovoltaic module that is composed of individual PV cells. A PV
+   array is a linked assembly of modules.
+   Enlarge
+   A photovoltaic module that is composed of individual PV cells. A PV
+   array is a linked assembly of modules.
+
+   A photovoltaic array is a linked collection of photovoltaic modules,
+   one of which is shown in the picture to the right. Each photovoltaic
+   (PV) module is made of multiple interconnected PV cells. The cells
+   convert solar energy into direct-current electricity. PV modules are
+   sometimes called solar panels, although that term better applies to
+   solar-thermal water or air heating panels. Photovoltaic modules
+   distinguish themselves from solar cells in that they are conveniently
+   sized and packaged in weather-resistant housings for easy installation
+   and deployment in residential, commercial, and industrial applications.
+   The application and study of photovoltaic devices is known as
+   photovoltaics.
+
+   PV cells operate via the photovoltaic effect which describes how
+   certain materials can convert sunlight into electricity; they absorb
+   some of the energy of the Sun and cause current to flow between two
+   oppositely charged layers. Individual solar cells provide a relatively
+   small amount of power, but electrical output can be significant when
+   connected together. The cells, modules, and arrays can be connected in
+   series or parallel, or typically a combination, to create a desired
+   peak voltage output.
+
+History
+
+   In 1839, during the Industrial Revolution, Alexandre Edmond Becquerel,
+   father of the Nobel Laureate Henri Becquerel, discovered the
+   photovoltaic effect which explains how electricity can be generated
+   from sunlight. He claimed that "shining light on an electrode submerged
+   in a conductive solution would create an electric current."^ . However,
+   despite extensive research and developments after this discovery,
+   photovoltaic power continued to be very inefficient. As such,
+   photovoltaic cells were used mainly for the purposes of measuring
+   light. Over 100 years later, in 1941, Russell Ohl invented the solar
+   cell, following the invention of the transistor.
+
+Applications
+
+   The solar panels on this small yacht at sea can charge the 12 volt
+   batteries at up to 9 amperes in full, direct sunlight.
+   Enlarge
+   The solar panels on this small yacht at sea can charge the 12 volt
+   batteries at up to 9 amperes in full, direct sunlight.
+
+   Solar photovoltaic panels are frequently applied in satellite power.
+   However, costs of production have been reduced in recent years for more
+   widespread use through production and technological advances. For
+   example, single crystal silicon solar cells have largely been replaced
+   by less expensive multicrystalline silicon solar cells, and thin film
+   silicon solar cells have also been developed recently at lower costs of
+   production yet (see Solar cell). Although they are reduced in energy
+   conversion efficiency from single crystalline Si wafers, they are also
+   much easier to produce at comparably lower costs.
+
+   Together with a storage battery, photovoltaics have become commonplace
+   for certain low-power applications, such as signal buoys or devices in
+   remote areas or simply where connection to the electricity mains would
+   be impractical. In experimental form they have even been used to power
+   automobiles in races such as the World solar challenge across
+   Australia. Many yachts and land vehicles use them to charge on-board
+   batteries.
+
+PV performance
+
+   Larger solar arrays can provide electricity to habitations in isolated,
+   sunny areas.
+   Enlarge
+   Larger solar arrays can provide electricity to habitations in isolated,
+   sunny areas.
+
+   At high noon on a cloudless day at the equator, the sun delivers about
+   1 kW/m², on the Earth's surface, to a plane that is perpendicular to
+   the sun's rays. As such, PV arrays should track the sun through each
+   day to greatly enhance energy collection. However, tracking devices add
+   cost, and require maintenance, so it is more common for PV arrays to
+   have fixed mounts that tilt the array and face due South in the
+   Northern Hemisphere. In the Southern Hemisphere, they should point due
+   North. The tilt angle, from horizontal, can be varied for season, but
+   if fixed, should be set to give optimal array output during the peak
+   electrical demand portion of a typical year.
+
+   Other factors affect PV performance. Accounting for clouds, and the
+   fact that most of the world is not on the equator, and that the sun
+   sets in the evening, the correct measure of solar power is insolation:
+   the average number of kilowatt-hours per square meter per day. For the
+   weather and latitudes of the United States and Europe, typical
+   insolation ranges from 4 KWh/m²/day in northern climes to 6.5
+   KWh/m²/day in the sunniest regions. Typical solar panels have an
+   average efficiency of 12%, with the best commercially available panels
+   at 20%. Thus, a photovoltaic installation in the southern latitudes of
+   Europe or the United States may expect to produce 1KWh/m²/day. A
+   typical "150 Watt" solar panel is about a square meter in size: such a
+   panel may be expected to produce 1 KWh every day, on average, after
+   taking account the weather and the latitude.
+
+   In the Sahara desert, with less cloud cover and a better solar angle,
+   one can obtain closer to 83 W/m². The unpopulated area of the Sahara
+   desert is over 9 million km², which if covered with solar panels would
+   provide 750 terawatts total. The Earth's current energy comsumption is
+   around 13.5 TW at any given moment (including oil, gas, coal, nuclear,
+   and hydroelectric power).
+
+   Photovoltaic cells' electrical output is extremely sensitive to
+   shading. When even a small portion of a cell, module, or array is
+   shaded, while the remainder is in sunlight, the output falls
+   drammatically due to internal 'short-circuiting' -- the electrons
+   reversing course through the shaded portion of the P-N junction. As
+   such it is extremely important that PV arrays not be shaded, at all, by
+   trees, architectural features, flag poles, or other obstructions.
+
+   Module output and life are also degraded by increased temperature.
+   Allowing ambient air to flow over, and if possible behind, PV modules
+   reduces this problem. However, effective module lives are typically 20
+   years or so, so replacement costs should be considered as well.
+
+Solar photovoltaic panels on spacecraft
+
+   Solar panels on the Stardust spacecraft (NASA image)
+   Enlarge
+   Solar panels on the Stardust spacecraft (NASA image)
+
+   Solar panels can be used on spacecraft, particularly when they are in
+   the inner part of the solar system. They have been designed to pivot on
+   spacecraft, so that they will always be in the direct path of solar
+   rays. In order to optimise the amount of energy generated, solar panels
+   on spacecraft can be equipped with a Fresnel lens, which concentrates
+   sunlight. Because of these efforts to maximize electric production, and
+   the fact that the Sun is mostly the only source of energy, the
+   construction of solar cells on spacecraft could be one of the highest
+   costs. When journeying to outer parts of the solar system (or beyond),
+   nuclear reactors or radioisotope thermal generators are preferred, as
+   the Sun's rays are too weak at such massive distances to power a
+   spacecraft.
+
+   The ESA is researching the possibility of solar power satellites that
+   would generate electricity in space and then beam it to Earth via laser
+   or microwaves. In addition, solar power is being considered to be used
+   as a propulsion mechanism in lieu of chemical propulsion.
+
+Theory and construction
+
+   A solar panel on top of a parking meter. Note that this particular
+   installation is shaded, and may not perform as desired.
+   Enlarge
+   A solar panel on top of a parking meter. Note that this particular
+   installation is shaded, and may not perform as desired.
+
+   Crystalline silicon and gallium arsenide are typical choices of
+   materials for solar cells. Gallium arsenide crystals are grown
+   especially for photovoltaic use, while silicon crystals are available
+   in less-expensive standard ingots. These ingots are produced mainly for
+   consumption in the microelectronics industry. Polycrystalline silicon
+   has lower conversion efficiency but also lower cost.
+
+   During the manufacturing process, crystalline silicon ingots are sliced
+   into wafer-thin disks, polished to remove slicing damage, dopants are
+   introduced into the soup, and metallic conductors are deposited onto
+   each surface: a thin grid on the sun-facing side and usually a flat
+   sheet on the other.^ Solar panels are constructed of these cells cut
+   into appropriate shapes, protected from radiation and handling damage
+   on the front surface by bonding on a cover glass, and cemented onto a
+   substrate (either a rigid panel or a flexible blanket). Electrical
+   connections are made in series or in parallel to determine total output
+   voltage. The cement and the substrate must be thermally conductive,
+   because the cells heat up from absorbing infrared energy that is not
+   converted to electricity. Since cell heating reduces the operating
+   efficiency it is desirable to minimize the heating. The resulting
+   assemblies are called solar panels or solar arrays.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Photovoltaic_array"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

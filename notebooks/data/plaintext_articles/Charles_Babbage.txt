@@ -1,0 +1,296 @@
+   #copyright
+
+Charles Babbage
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+                           Charles Babbage
+   Sketch based on photograph NPG Ax18347 by Henri Claudet, 1860s.
+         Born 26 December 1791
+              England
+      Died    18 October 1871
+              England
+   Occupation Mathematician
+              analytical philosopher
+              mechanical engineer and
+              (proto-) computer scientist
+     Spouse   Georgiana Whitmore
+
+   Charles Babbage ( 26 December 1791 – 18 October 1871) was an English
+   mathematician, analytical philosopher, mechanical engineer and (proto-)
+   computer scientist who originated the idea of a programmable computer.
+   Parts of his uncompleted mechanisms are on display in the London
+   Science Museum. In 1991, working from Babbage's original plans, a
+   difference engine was completed, and functioned perfectly. It was built
+   to tolerances achievable in the 19th century, indicating that Babbage's
+   machine would have worked. Nine years later, the Science Museum
+   completed the printer Babbage had designed for the difference engine;
+   it featured astonishing complexity for a 19th century device.
+
+Birth
+
+   Charles Babbage was born in England, most likely at 44 Crosby Row,
+   Walworth Road, London. A blue plaque on the junction of Larcom Street
+   and Walworth Road commemorates the event. There was a discrepancy
+   regarding the date of Babbage's birth, which was published in The Times
+   obituary as 26 December 1792. However, days later a nephew of Babbage
+   wrote to say that Babbage was born precisely one year earlier, in 1791.
+   The parish register of St. Mary's Newington, London, shows that Babbage
+   was baptised on 6 January 1792 .
+
+   Charles's father, Benjamin Babbage, was a banking partner of the Praeds
+   who owned the Bitton Estate in Teignmouth. His mother was Betsy
+   Plumleigh Babbage née Teape. In 1808, the Babbage family moved into the
+   old Rowdens house in East Teignmouth, and Benjamin Babbage became a
+   warden of the nearby St. Michael’s Church.
+
+Education
+
+   His father's money allowed Charles to receive instruction from several
+   schools and tutors during the course of his elementary education.
+   Around age eight he was sent to a country school in Alphington near
+   Exeter to recover from a life-threatening fever. His parents ordered
+   that his "brain was not to be taxed too much" and Babbage felt that
+   "this great idleness may have led to some of my childish reasonings."
+   For a short time he attended King Edward VI Grammar School in Totnes,
+   South Devon, but his health forced him back to private tutors for a
+   time. He then joined a 30-student Holmwood academy, in Baker Street,
+   Enfield, Middlesex under Reverend Stephen Freeman. The academy had a
+   well-stocked library that prompted Babbage's love of mathematics. He
+   studied with two more private tutors after leaving the academy. Of the
+   first, a clergyman near Cambridge, Babbage said, "I fear I did not
+   derive from it all the advantages that I might have done." The second
+   was an Oxford tutor from whom Babbage learned enough of the Classics to
+   be accepted to Cambridge.
+
+   Babbage arrived at Trinity College, Cambridge in October 1810. He had
+   read extensively in Leibniz, Lagrange, Simpson, and Lacroix and was
+   seriously disappointed in the mathematical instruction available at
+   Cambridge. In response, he, John Herschel, George Peacock, and several
+   other friends formed the Analytical Society.
+
+   In 1812 Babbage transferred to Peterhouse, Cambridge. He was the top
+   mathematician at Peterhouse, but failed to graduate with honours. He
+   instead received an honorary degree without examination in 1814.
+
+Marriage
+
+   On 25 July 1814 , Babbage married Georgiana Whitmore at St. Michael's
+   Church in Teignmouth, Devon. His father did not approve of the marriage
+   . The couple lived at 5 Devonshire Street, Portland Place, London.
+
+Children
+
+   Charles and Georgiana had eight children , but only three lived to
+   adulthood. Georgiana died in Worcester, 1 September 1827 - moreover,
+   Charles' father, wife, and at least two sons all died in 1827.
+    1. Benjamin Herschel Babbage (born 6 August 1815; died Australia, 20
+       October 1878)
+    2. Charles Whitmore Babbage (born 22 January 1817 died 1827)
+    3. Georgiana Whitmore Babbage (born 17 July 1818 died young)
+    4. Edward Stewart Babbage (born 15 December 1819 died 26 November
+       1821)
+    5. Francis Moore Babbage (born 1 May 1821 died young)
+    6. Dugald Bromheald Babbage (born 13 March 1823 died Southampton 23
+       August 1901)
+    7. Henry Prevost Babbage (born 16 September 1824 died Cheltenham 29
+       January 1918)
+    8. Alexander Forbes Babbage (born 1827 died 1827)
+
+Design of computers
+
+   In recognition of the high error rate in the calculation of
+   mathematical tables, Babbage wanted to find a method by which they
+   could be calculated mechanically, removing human sources of error.
+   Three different factors seem to have influenced him: a dislike of
+   untidiness; his experience working on logarithmic tables; and existing
+   work on calculating machines carried out by Wilhelm Schickard, Blaise
+   Pascal, and Gottfried Leibniz. He first discussed the principles of a
+   calculating engine in a letter to Sir Humphry Davy in 1822.
+   Part of Babbage's difference engine, assembled after his death by
+   Babbage's son, using parts found in his laboratory.
+   Enlarge
+   Part of Babbage's difference engine, assembled after his death by
+   Babbage's son, using parts found in his laboratory.
+
+   Babbage's engines were among the first mechanical computers. His
+   engines were not actually completed, largely because of funding
+   problems and personality issues. Babbage realized that a machine could
+   do the work better and more reliably than a human being. Babbage
+   controlled building of some steam-powered machines that more or less
+   did their job; calculations could be mechanized to an extent. Although
+   Babbage's machines were mechanical monsters their basic architecture
+   was astonishingly similar to a modern computer. The data and program
+   memory were separated, operation was instruction based, control unit
+   could make conditional jumps and the machine had a separate I/O unit.
+   Other inventions by Babbage not discussed at length here but worth
+   mentioning are: The cowcatcher, dynamometer car, standard railroad
+   gauge, uniform postal rates, occulting lights for lighthouses, the
+   heliograph, and the ophthalmoscope.
+
+Difference engine
+
+   In Babbage’s time numerical tables were calculated by humans called
+   ‘computers’. At Cambridge he saw the high error rate of the people
+   computing the tables and thus started his life’s work in trying to
+   calculate the tables mechanically, removing all human error. He began
+   in 1822 with what he called the difference engine, made to compute
+   values of polynomial functions.
+
+   Unlike similar efforts of the time, Babbage's difference engine was
+   created to calculate a series of values automatically. By using the
+   method of finite differences, it was possible to avoid the need for
+   multiplication and division.
+   The London Science Museum's replica Difference Engine, built from
+   Babbage's design.
+   Enlarge
+   The London Science Museum's replica Difference Engine, built from
+   Babbage's design.
+
+   The first difference engine needed around 25,000 parts of a combined
+   weight of fifteen tons standing eight feet high. Although he received
+   much funding for the project, he did not complete it. He later designed
+   an improved version, "Difference Engine No. 2". This was not
+   constructed at the time, but was built using his plans in 1989-1991, to
+   19th century tolerances, and performed its first calculation at the
+   London Science Museum bringing back results to 31 digits, far more than
+   the average modern pocket calculator.
+
+Printer
+
+   Babbage designed a printer for the second difference engine which had
+   some remarkable features; it supported line-wrapping, variable column
+   and row width, and programmable output formatting.
+
+Analytical engine
+
+   Soon after the attempt at making the difference engine crumbled,
+   Babbage started designing a different, more complex machine called the
+   Analytical Engine. The engine is not a single physical machine but a
+   succession of designs that he tinkered with until his death in 1871.
+   The main difference between the two engines is that the Analytical
+   Engine could be programmed using punch cards, an idea unheard of in his
+   time. He realized that programs could be put on similar cards so the
+   person had to only create the program initially, and then put the cards
+   in the machine and let it run. The analytical engine was also proposed
+   to use loops of Jacquard's punched cards to control a mechanical
+   calculator, which could formulate results based on the results of
+   preceding computations. This machine was also intended to employ
+   several features subsequently used in modern computers, including
+   sequential control, branching, and looping, and would have been the
+   first mechanical device to be Turing-complete.
+
+   Ada Lovelace, an impressive mathematician and one of the few people who
+   totally understood Babbage's vision, created a program for the
+   Analytical Engine. Had the Analytical Engine ever actually been built,
+   her program would have been able to calculate a numerical sequence
+   known as the Bernoulli numbers. Based on this work, Ada is now credited
+   as being the first computer programmer and, in 1979, a contemporary
+   programming language was named Ada in her honour. Shortly afterward, in
+   1981, a satirical article by Tony Karp in Datamation magazine described
+   the Babbage programming language, the "language of the future".
+
+Other accomplishments
+
+   In 1824, Babbage won the Gold Medal of the Royal Astronomical Society
+   "for his invention of an engine for calculating mathematical and
+   astronomical tables".
+
+   From 1828 to 1839 Babbage was Lucasian professor of mathematics at
+   Cambridge. He contributed largely to several scientific periodicals,
+   and was instrumental in founding the Astronomical Society in 1820 and
+   the Statistical Society in 1834. However, he dreamt of designing
+   mechanical calculating machines.
+
+     “... I was sitting in the rooms of the Analytical Society, at
+     Cambridge, my head leaning forward on the table in a kind of dreamy
+     mood, with a table of logarithms lying open before me. Another
+     member, coming into the room, and seeing me half asleep, called out,
+     "Well, Babbage, what are you dreaming about?" to which I replied "I
+     am thinking that all these tables" (pointing to the logarithms)
+     "might be calculated by machinery. "
+
+   In 1837, responding to the official eight Bridgewater Treatises "On the
+   Power, Wisdom and Goodness of God, as manifested in the Creation", he
+   published his Ninth Bridgewater Treatise putting forward the thesis
+   that God had the omnipotence and foresight to create as a divine
+   legislator, making laws (or programs) which then produced species at
+   the appropriate times, rather than continually interfering with ad hoc
+   miracles each time a new species was required. The book is a work of
+   natural theology. The book incorporated extracts from correspondence he
+   had been having with John Herschel on the subject.
+
+   Charles Babbage also achieved notable results in cryptography. He broke
+   Vigenère's autokey cipher as well as the much weaker cipher that is
+   called Vigenère cipher today. The autokey cipher was generally called
+   "the undecipherable cipher", though owing to popular confusion, many
+   thought that the weaker polyalphabetic cipher was the "undecipherable"
+   one. Babbage's discovery was used to aid English military campaigns,
+   and was not published until several years later; as a result credit for
+   the development was instead given to Friedrich Kasiski, a Prussian
+   infantry officer, who made the same discovery some years after Babbage.
+
+   Babbage also invented the pilot (also called a cow-catcher), the metal
+   frame attached to the front of locomotives that clears the tracks of
+   obstacles in 1838. He also constructed a dynamometer car and performed
+   several studies on Isambard Kingdom Brunel's Great Western Railway in
+   about 1838. Charles' eldest son, Benjamin Herschel Babbage, worked as
+   an engineer for Brunel on the railways before emigrating to Australia
+   in the 1850s. Coincidentally, Charles Babbage and Brunel are both
+   buried in London's Kensal Green Cemetery.
+
+   Babbage only once endeavoured to enter public life, when, in 1832, he
+   stood unsuccessfully for the borough of Finsbury. He came in last in
+   the polls.
+
+Eccentricities
+
+   Babbage once counted all the broken panes of glass of a factory,
+   publishing in 1857 a "Table of the Relative Frequency of the Causes of
+   Breakage of Plate Glass Windows": 14 of 464 were caused by "drunken
+   men, women or boys". His distaste for commoners ("the Mob") included
+   writing "Observations of Street Nuisances" in 1864, as well as tallying
+   up 165 "nuisances" over a period of 80 days; he especially hated street
+   music. He was also obsessed with fire, once baking himself in an oven
+   at 265°F (130°C) for four minutes "without any great discomfort" to
+   "see what would happen." Later, he arranged to be lowered into Mount
+   Vesuvius in order to view molten lava for himself.
+
+Quotes
+
+   On two occasions I have been asked,--"Pray, Mr. Babbage, if you put
+   into the machine wrong figures, will the right answers come out?" In
+   one case a member of the Upper, and in the other a member of the Lower,
+   House put this question. I am not able rightly to apprehend the kind of
+   confusion of ideas that could provoke such a question.
+
+          Chapter 5, Passages from the Life of a Philosopher, Charles
+          Babbage, 1864. ISBN 1-85196-040-6, illustrating that even
+          Babbage had to deal with people who displayed illogical levels
+          of what would now be called "computer illiteracy".
+
+Named after Babbage
+
+     * Babbage crater, on the Moon, is named in his honour.
+     * Charles Babbage Institute, University of Minnesota, United States.
+     * The former chain retail computer and video-games store "Babbage's"
+       was named after him.
+     * Mr Babbage, the computer in game show Family Fortunes
+     * Babbage Building, University of Plymouth, Devon, UK.
+     * Babbage Lecture Theatre, University of Cambridge, UK.
+     * Babbage Computer Suite, Exmouth Community College, UK.
+     * Babbage is a giant mechanical monster in the online computer game,
+       City of Heroes.
+     * Babbage is a character in the video game Suikoden V who is known
+       for his amazing mechanical inventions.
+     * The science fiction novel The Difference Engine refers to Babbage
+       extensively.
+     * In the movie "Hackers" the main bad guy attempts to flee being
+       captured, after he has been exposed, by airplane flying under the
+       name of a Mr. Babbage.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Charles_Babbage"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

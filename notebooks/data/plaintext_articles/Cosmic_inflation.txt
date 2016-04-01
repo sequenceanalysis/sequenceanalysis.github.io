@@ -1,0 +1,587 @@
+   #copyright
+
+Cosmic inflation
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+          Physical cosmology
+
+     * Age of the universe
+     * Big Bang
+     * Comoving distance
+     * Cosmic microwave background
+     * Dark energy
+     * Dark matter
+     * FLRW metric
+     * Friedmann equations
+     * Galaxy formation
+     * Hubble's law
+     * Inflation
+     * Large-scale structure
+     * Lambda-CDM model
+     * Metric expansion of space
+     * Nucleosynthesis
+     * Observable universe
+     * Redshift
+     * Shape of the universe
+     * Structure formation
+     * Timeline of the Big Bang
+     * Timeline of cosmology
+     * Ultimate fate of the universe
+     * Universe
+
+            Related topics
+     * Astrophysics
+     * General relativity
+     * Particle physics
+     * Quantum gravity
+
+
+   In physical cosmology, cosmic inflation is the idea that the nascent
+   universe passes through a phase of exponential expansion that was
+   driven by a negative-pressure vacuum energy density. As a direct
+   consequence of this expansion, all of the observable universe
+   originated in a small causally-connected region. Inflation answers the
+   classic conundrums of the big bang cosmology: why does the universe
+   appear flat, homogeneous and isotropic in accordance with the
+   cosmological principle when one would expect, on the basis of the
+   physics of the big bang, a highly curved, inhomogeneous universe.
+   Inflation also explains the origin of the large-scale structure of the
+   cosmos. Quantum fluctuations in the microscopic inflationary region,
+   magnified to cosmic size, become the seeds for the growth of structure
+   in the universe (see galaxy formation and evolution and structure
+   formation).
+
+   Inflation was first proposed by Alan Guth in 1981 and was given its
+   modern form independently by Andrei Linde, and by Andreas Albrecht and
+   Paul Steinhardt.
+
+   While the detailed particle physics mechanism responsible for inflation
+   is not known, the basic picture makes a number of predictions that have
+   been confirmed by observational tests. Inflation is thus now considered
+   part of the standard hot big bang cosmology. The hypothetical particle
+   or field thought to be responsible for inflation is called the
+   inflaton.
+
+Overview
+
+   Inflation posits that there was a period of exponential expansion in
+   the very early universe. The expansion is exponential because the
+   distance between any two fixed observers is increasing exponentially,
+   due to the metric expansion of space (a spacetime with this property is
+   called a de Sitter space). This form of expansion is special because
+   the physical conditions from one moment to the next are stable: the
+   rate of expansion, called the Hubble parameter, is nearly constant, and
+   the universe is consequently in a highly symmetric state. Inflation is
+   often called an epoch of accelerated expansion because the distance
+   between two fixed observers is increasing at an accelerating rate as
+   they move apart. (However, this does not mean that the Hubble parameter
+   is increasing, see deceleration parameter.)
+
+   Cosmic inflation has the important effect of smoothing out
+   inhomogeneities, anisotropies and the curvature of space. This pushes
+   the universe into a very simple state, in which it is completely
+   dominated by the inflaton field and the only significant
+   inhomogeneities are the tiny quantum fluctuations in the inflaton.
+   Another major problem solved by inflation is that it dilutes exotic
+   heavy particles: most extensions to the Standard Model of particle
+   physics predict very heavy particles, such as magnetic monopoles, which
+   are not found in nature. However, if the universe was only hot enough
+   to form such particles before a period of inflation, they would not be
+   observed in nature, as they would be so rare that it is quite likely
+   that there are none in the observable universe. Together, these effects
+   are called the inflationary "no-hair theorem" by analogy with the no
+   hair theorem for black holes.
+
+   In an expanding universe, energy densities are falling because the
+   volume of the universe is increasing. For example, in a universe filled
+   with ordinary matter, such as dust, the density of matter goes as the
+   inverse of the volume: when linear dimensions double, the density goes
+   down by a factor of eight, and the Hubble parameter falls by roughly a
+   factor of three. Similarly, in universe which is filled with radiation,
+   the density and Hubble parameter diminish even more quickly: when the
+   universe expands so linear dimensions are doubled, the average energy
+   density of the universe is reduced by a factor of sixteen and the
+   Hubble parameter falls by a factor of four. According to the standard
+   big bang theory, the universe is largely filled with matter now, and
+   the early universe was filled with radiation in the form of a
+   primordial plasma. The densities of matter and radiation actually fall
+   faster than the densities of inhomogeneities, curvature and exotic
+   particles, so that the overall contribution of these is actually
+   growing in the present universe. To explain why they are presently so
+   small, in cosmic inflation the energy density of the inflaton and the
+   Hubble parameter change only very slowly relative to the rate of
+   expansion of the universe, while the other contributions disappear
+   quickly, leaving an empty, symmetric universe.
+
+   Inflation must continue long enough that the observable universe came
+   from a single, small inflationary Hubble volume. This is necessary to
+   ensure that the universe appears flat, homogeneous and isotropic at the
+   largest observable scales. To ensure this, it is generally thought that
+   the universe has expanded by a factor of at least 10^26 during
+   inflation. At the end of inflation, a process called reheating occurs,
+   in which the inflaton particles decay into the radiation that starts
+   the hot big bang. It is not known how long inflation lasted but it is
+   usually thought to be extremely short compared to the age of the
+   universe. Assuming that the energy scale of inflation is between 10^15
+   and 10 ^16 GeV, as is suggested by the simplest models, the period of
+   inflation responsible for the observable universe probably lasted
+   roughly 10^-33 seconds.
+
+Motivation
+
+   Inflation resolves several problems in the Big Bang cosmology that were
+   pointed out in the 1970s. These problems all suggest that the universe
+   has wildly absurd initial conditions, but are resolved very nicely in
+   the context of cosmic inflation.
+
+Horizon problem
+
+   The horizon problem is the problem of determining why the universe
+   appears statistically homogeneous and isotropic in accordance with the
+   cosmological principle. The gas molecules in a canister of gas are
+   distributed homogeneously and isotropically because they are in thermal
+   equilibrium: gas throughout the canister has had enough time to
+   interact to dissipate inhomogeneities and anisotropies. The situation
+   is quite different in the big bang model without inflation, because
+   gravitational expansion does not give the early universe enough time to
+   equilibrate. In a big bang with only the matter and radiation known in
+   the Standard Model, two widely separated regions of the observable
+   universe cannot have equilibrated because they have never come in to
+   causal contact: in the history of the universe, back to the earliest
+   times, it has not been possible to send a light signal between the two
+   regions. Because they have no interaction, it is impossible that they
+   have equilibrated. This is because the Hubble radius in a radiation- or
+   matter-dominated universe expands much more quickly than physical
+   lengths and so points that are out of communication are coming into
+   communication. Historically, two proposed solutions were the Phoenix
+   universe of Georges Lemaître and the related oscillatory universe of
+   Richard Chase Tolman, and the Mixmaster universe of Charles Misner.
+   Lemaître and Tolman proposed that a universe undergoing a number of
+   cycles of contraction and expansion could come into thermal
+   equilibrium. Their models failed, however, because of the buildup of
+   entropy over several cycles. Misner made the (ultimately incorrect)
+   conjecture that the Mixmaster mechanism, which made the universe more
+   chaotic, could lead to statistical homogeneity and isotropy.
+
+Flatness problem
+
+   Another problem is the flatness problem (which is sometimes called one
+   of the Dicke coincidences, with the other being the cosmological
+   constant problem). It had been known in the 1960s that the density of
+   matter in the universe was comparable to the critical density necessary
+   for a flat universe (that is, a universe whose large scale geometry is
+   the usual Euclidean geometry, rather than a non-Euclidean hyperbolic or
+   spherical geometry). Therefore, regardless of the shape of the universe
+   the contribution of spatial curvature to the expansion of the universe
+   could not be much greater than the contribution of matter. But as the
+   universe expands, the curvature redshifts away more slowly than matter
+   and radiation. Extrapolated into the past, this presents a fine-tuning
+   problem because the contribution of curvature to the universe must be
+   exponentially small (sixteen orders of magnitude less than the density
+   of radiation at big bang nucleosynthesis, for example). This problem is
+   exacerbated by recent observations of the cosmic microwave background
+   that have demonstrated that the universe is flat to the accuracy of a
+   few percent.
+
+Magnetic monopole problem
+
+   The magnetic monopole problem (sometimes called the exotic relics
+   problem) is a problem that suggests that if the early universe were
+   very hot, a large number of very heavy, stable magnetic monopoles would
+   be produced. This was a problem with Grand Unified Theories, which were
+   popular in the 1970s and 1980s, proposed that at high temperatures
+   (such as in the early universe) the electromagnetic force, strong and
+   weak nuclear forces are not actually fundamental forces but arise due
+   to spontaneous symmetry breaking from a much simpler gauge theory.
+   These theories predict a number of heavy, stable particles which have
+   not yet been observed in nature. The most notorious is the magnetic
+   monopole, a kind of stable, heavy "knot" in the magnetic field.
+   Monopoles are expected to be copiously produced in Grand Unified
+   Theories at high temperature, and they should have persisted to the
+   present day. To very high precision, magnetic monopoles have been shown
+   not to exist in nature whereas according to the big bang theory
+   (without cosmic inflation) they should have been copiously produced in
+   the hot, dense early universe and since become the primary constituent
+   of the universe.
+
+History
+
+   Inflation was proposed in 1981 by Alan Guth as a mechanism for
+   resolving these problems. There were several precursors, most
+   importantly the work of Willem de Sitter which demonstrated the
+   existence of a highly symmetric inflating universe, called de Sitter
+   space. De Sitter, however, didn't apply it to any of the cosmological
+   problems that interested Guth. Contemporary with Guth, Alexei
+   Starobinsky argued that quantum corrections to gravity would replace
+   the initial singularity of the universe with an exponentially expanding
+   state. Demosthenes Kazanas anticipated part of Guth's work by
+   suggesting that exponential expansion could eliminate the particle
+   horizon and perhaps solve the horizon problem, and Sato suggesting that
+   an exponential expansion could eliminate domain walls (another kind of
+   exotic relic). However, Guth was the first to assemble a complete
+   picture of how all these initial conditions problems could be solved by
+   an exponentially expanding state.
+   The physical size of the Hubble radius (solid line) as a function of
+   the linear expansion (scale factor) of the universe. During cosmic
+   inflation, the Hubble radius is constant. The physical wavelength of a
+   perturbation mode (dashed line) is also shown. The plot illustrates how
+   the perturbation mode grows larger than the horizon during cosmic
+   inflation before coming back inside the horizon, which grows rapidly
+   during radiation domination. If cosmic inflation never happened, and
+   radiation domination continued back until a gravitational singularity,
+   then the mode would never been inside the horizon in the very early
+   universe, at no causal mechanism could have ensured that the universe
+   was homogeneous on the scale of the perturbation mode.
+   Enlarge
+   The physical size of the Hubble radius (solid line) as a function of
+   the linear expansion (scale factor) of the universe. During cosmic
+   inflation, the Hubble radius is constant. The physical wavelength of a
+   perturbation mode (dashed line) is also shown. The plot illustrates how
+   the perturbation mode grows larger than the horizon during cosmic
+   inflation before coming back inside the horizon, which grows rapidly
+   during radiation domination. If cosmic inflation never happened, and
+   radiation domination continued back until a gravitational singularity,
+   then the mode would never been inside the horizon in the very early
+   universe, at no causal mechanism could have ensured that the universe
+   was homogeneous on the scale of the perturbation mode.
+
+   Guth proposed that as the early universe cooled, it was trapped in a
+   false vacuum with a high energy density, which is much like a
+   cosmological constant. As the very early universe cooled it was trapped
+   in a metastable state (it was supercooled) which it could only decay
+   out of through the process of bubble nucleation via quantum tunneling.
+   Bubbles of true vacuum spontaneously form in the sea of false vacuum
+   and rapidly begin expanding at the speed of light. Guth recognized that
+   this model was problematic because the model did not reheat properly:
+   when the bubbles nucleated, they did not generate any radiation.
+   Radiation could only be generated in collisions between bubble walls.
+   But if inflation lasted long enough to solve the initial conditions
+   problems, collisions between bubbles became exceedingly rare. (Even
+   though the bubbles are expanding at the speed of light, the bubbles are
+   far enough apart that the expansion of space is causing the distance
+   between them to expand much faster.)
+
+   This problem was solved by Andrei Linde and independently by Andreas
+   Albrecht and Paul Steinhardt in a model named new inflation or
+   slow-roll inflation (Guth's model then became known as old inflation).
+   In this model, instead of tunneling out of a false vacuum state,
+   inflation occurred by a scalar field rolling down a potential energy
+   hill. When the field rolls very slowly compared to the expansion of the
+   universe, inflation occurs. However, when the hill becomes steeper,
+   inflation ends and reheating can occur.
+
+   Eventually, it was shown that new inflation does not produce a
+   perfectly symmetric universe, but that tiny quantum fluctuations in the
+   inflaton are created. These tiny fluctuations form the primordial seeds
+   for all structure created in the later universe. These fluctuations
+   were first calculated by Viatcheslav Mukhanov and G. V. Chibisov in the
+   Soviet Union in analyzing Starobinsky's similar model. In the context
+   of inflation, they were worked out independently of the work of
+   Mukhanov and Chibisov at the three-week 1982 Nuffield Workshop on the
+   Very Early Universe at Cambridge University. The fluctuations were
+   calculated by four groups working separately over the course of the
+   workshop: Stephen Hawking; Starobinsky; Guth and So-Young Pi; and James
+   M. Bardeen, Steinhardt and Michael Turner.
+
+Observational status
+
+   Inflation is a concrete mechanism for realizing the cosmological
+   principle which is the basis of our model of physical cosmology: it
+   accounts for the homogeneity, isotropy of the observable universe. In
+   addition, it accounts for the observed flatness and absence of magnetic
+   monopoles. Since Guth's early work, each of these observations has
+   received further confirmation, most impressively by the detailed
+   observations of the cosmic microwave background made by the Wilkinson
+   Microwave Anisotropy Probe (WMAP) satellite. This analysis shows that
+   the universe is flat to an accuracy of at least a few percent, and that
+   it is homogeneous and isotropic to a part in 10,000.
+
+   In addition, inflation predicts that the structures visible in the
+   universe today formed through the gravitational collapse of
+   perturbations which were formed as quantum mechanical fluctuations in
+   the inflationary epoch. The detailed form of the spectrum of
+   perturbations called a nearly-scale-invariant Gaussian random field (or
+   Harrison-Zel'dovich spectrum) is very specific and has only two free
+   parameters, the amplitude of the spectrum and the spectral index which
+   measures the slight deviation from scale invariance predicted by
+   inflation (perfect scale invariance corresponds to the idealized de
+   Sitter universe). Inflation predicts that the observed perturbations
+   should be in thermal equilibrium with each other (these are called
+   adiabatic or isentropic perturbations). This structure for the
+   perturbations has been confirmed by the WMAP satellite and other cosmic
+   microwave background experiments, and galaxy surveys, especially the
+   ongoing Sloan Digital Sky Survey. These experiments have shown that the
+   one part in 10,000 inhomogeneities observed have exactly the form
+   predicted by theory. Moreover, the slight deviation from scale
+   invariance has been measured. The spectral index, n[s] is equal to one
+   for a scale-invariant spectrum. The simplest models of inflation
+   predict that this quantity is between 0.92 and 0.98. The WMAP satellite
+   has measured n[s] = 0.95 and shown that it is different from one at the
+   level of two standard deviations (2σ). This is considered an important
+   confirmation of the theory of inflation.
+
+   A number of theories of inflation have been proposed that make
+   radically different predictions, but they generally have much more fine
+   tuning than is necessary. As a physical model, however, inflation is
+   most valuable in that it robustly predicts the initial conditions of
+   the universe based on only two adjustable parameters: the spectral
+   index (that can only change in a small range) and the amplitude of the
+   perturbations. Except in contrived models, this is true regardless of
+   how inflation is realized in particle physics.
+
+   Occasionally, effects are observed that appear to contradict the
+   simplest models of inflation. The first-year WMAP data suggested that
+   the spectrum might not be nearly scale-invariant, but might instead
+   have a slight curvature. However, the third-year data revealed that the
+   effect was a statistical anomaly. Another effect has been remarked upon
+   since the first cosmic microwave background satellite, the Cosmic
+   Background Explorer: the amplitude of the quadrupole moment of the
+   cosmic microwave background is unexpectedly low and the other low
+   multipoles appear to be preferentially aligned with the ecliptic plane.
+   Some have claimed that this is a signature of non-Gaussianity and thus
+   contradicts the simplest models of inflation. Others have suggested
+   that the effect may be due to other new physics, foreground
+   contamination, or even publication bias.
+
+   An experimental program is underway to further test inflation with more
+   precise measurements of the cosmic microwave background. In particular,
+   high precision measurements of the so-called "B-modes" of the
+   polarization of the background radiation will be evidence of the
+   gravitational radiation produced by inflation, and they will also show
+   whether the energy scale of inflation predicted by the simplest models
+   (10^15–10^16 GeV) is correct. These measurements are expected to be
+   performed by the Planck satellite, although it is unclear if the signal
+   will be visible, or if contamination from foreground sources will
+   interfere with these measurements. Other forthcoming measurements, such
+   as those of 21 centimeter radiation (radiation emitted and absorbed
+   from neutral hydrogen before the first stars turned on), may measure
+   the power spectrum with even greater resolution than the cosmic
+   microwave background and galaxy surveys, although it is not known if
+   these measurements will be possible or if interference with radio
+   sources on earth and in the galaxy will be too great.
+
+   As of 2006, it is unclear what relationship if any the period of cosmic
+   inflation has to do with dark energy. Dark energy is broadly similar to
+   inflation, and is thought to be causing the expansion of the
+   present-day universe to accelerate. However, the energy scale of dark
+   energy is much lower, 10^-12 GeV, roughly 27 orders of magnitude less
+   than the scale of inflation.
+
+Theoretical status
+
+   Unsolved problems in physics: Is the theory of cosmic inflation
+   correct, and if so, what are the details of this epoch? What is the
+   hypothetical inflaton field giving rise to inflation?
+
+   In the early proposal of Guth, it was thought that the inflaton was the
+   Higgs field, the field which explains the mass of the elementary
+   particles. It is now known that the inflaton cannot be the Higgs field.
+   Other models of inflation relied on the properties of grand unified
+   theories. Since the simplest models of grand unification have failed,
+   it is now thought by many physicists that inflation will be included in
+   a supersymmetric theory like string theory or a supersymmetric grand
+   unified theory. A promising suggestion is brane inflation. At present,
+   however, inflation is understood principally by its detailed
+   predictions of the initial conditions for the hot early universe, and
+   the particle physics is largely ad hoc modelling. As such, despite the
+   stringent observational tests inflation has passed, there are many open
+   questions about the theory.
+
+Fine-tuning problem
+
+   One of the most severe challenges for inflation arises from the need
+   for fine tuning in inflationary theories. In new inflation, the
+   slow-roll conditions must be satisfied for inflation to occur. The
+   slow-roll conditions say that the inflaton potential must be flat
+   (compared to the large vacuum energy) and that the inflaton particles
+   must have a small mass. In order for the new inflation theory of Linde,
+   Albrecht and Steinhardt to be successful, therefore, it seemed that the
+   universe must have a scalar field with an especially flat potential and
+   special initial conditions.
+
+   Andrei Linde proposed a theory known as chaotic inflation in which he
+   suggested that the conditions for inflation are actually satisfied
+   quite generically and inflation will occur in virtually any universe
+   that begins in a chaotic, high energy state and has a scalar field with
+   unbounded potential energy. However, in his model the inflaton field
+   necessarily takes values larger than one Planck unit: for this reason,
+   these are often called large field models and the competing new
+   inflation models are called small field models. In this situation, the
+   predictions of effective field theory are thought to be invalid, and
+   renormalization should cause large corrections that could prevent
+   inflation. This problem has not yet been resolved and some cosmologists
+   argue that the small field models, in which inflation can occur at a
+   much lower energy scale, are better models of inflation. While
+   inflation depends on quantum field theory (and the semiclassical
+   approximation to quantum gravity) in an important way, it has not been
+   completely reconciled with these theories.
+
+   Robert Brandenberger has commented on fine-tuning in another situation.
+   The amplitude of the primordial inhomogeneities produced in inflation
+   is directly tied to the energy scale of inflation. There are strong
+   suggestions that this scale is around 10^16 GeV or 10^−3 times the
+   Planck energy. The natural scale is naïvely the Planck scale so this
+   small value could be seen as another form of fine-tuning (called a
+   hierarchy problem): the energy density given by the scalar potential is
+   down by 10^−12 compared to the Planck density. This is not usually
+   considered to be a critical problem, however, because the scale of
+   inflation corresponds naturally to the scale of gauge unification.
+
+Eternal inflation
+
+   Cosmic inflation is generally eternal: that is, the process continues
+   forever. Although the scalar field in new inflation is classically
+   rolling down the potential, quantum fluctuations occasionally bring it
+   back up. These regions in which the inflaton fluctuates upwards expand
+   much faster than regions in which the inflaton has a lower potential
+   energy. Thus, while inflation ends in some regions, the regions in
+   which it continues are growing exponentially, and thus continue to
+   dominate in terms of physical volume. This steady state, which was
+   first described by Alexander Vilenkin, in which inflation ends in some
+   regions while quantum mechanical fluctuations keep it going in the
+   majority of the universe, is called "eternal inflation". It was shown
+   by Linde that inflation in any theory with an unbounded potential is
+   eternal. This is usually called "chaotic eternal inflation." It is
+   widely thought that this steady state cannot continue indefinitely to
+   the past. Roughly speaking, the inflationary spacetime, which is
+   similar to de Sitter space, is incomplete without a contracting region.
+   However, unlike de Sitter space, fluctuations in a contracting
+   inflationary space will inevitably collapse to form a gravitational
+   singularity instead of matching onto an expanding spacetime. Therefore,
+   it is thought that the inflationary steady state must be supplemented
+   by a theory of the initial conditions of the universe. This
+   interpretation is disputed by Linde, however.
+
+Initial conditions
+
+   Some authors have tried to resolve this, and circumvent the failure of
+   past eternal inflation, by proposing models for an eternally inflating
+   universe with no beginning. These models solve the problems of eternal
+   inflation by postulating a special "initial" hypersurface when the
+   universe has some minimum size and from which the arrow of time
+   originates.
+
+   Other proposals attempt to describe the creation of the universe from
+   nothing in quantum cosmology and the subsequent onset of inflation.
+   Vilenkin proposed a scenario in which the inflationary universe is
+   created from nothing. Most famously, Hartle and Hawking proposed a
+   concrete theory (the no-boundary proposal) for the initial creation of
+   the universe in which Hawking expects inflation to arise naturally.
+
+   Alan Guth has described the inflationary universe as the "ultimate free
+   lunch": new universes, similar to our own, are continually produced in
+   a vast inflating background. Gravitational interactions, in this case,
+   circumvent (but do not violate) both the first law of thermodynamics or
+   energy conservation and the second law of thermodynamics or the arrow
+   of time problem. However, while it is generally agreed upon that
+   inflation, once begun, solves the initial condition problem for the big
+   bang, some authors have argued that inflation actually exacerbates the
+   initial conditions problem: it is much less likely for inflation to
+   begin in the early universe than it is for the universe to wind up in
+   its present state through a quantum fluctuation. Donald N. Page
+   criticised inflation on these grounds. Page emphasized that the
+   thermodynamic arrow of time in a Big Bang type of theory necessarily
+   requires low entropy initial conditions, which Page argued would be
+   extremely improbable. According to them, rather than solving this
+   problem, the inflation theory further aggravates it – the reheating or
+   thermalization at the end of the inflation era increases entropy making
+   it necessary for the initial state of the Universe to be even more
+   orderly than in other Big Bang theories with no inflation phase.
+
+   Hawking and Page later found ambiguous results when they attempted to
+   compute the probability of inflation in the Hartle-Hawking initial
+   state. Other authors have argued that, since inflation is eternal, the
+   probability doesn't matter as long as it is not precisely zero: once it
+   starts, inflation perpetuates itself and quickly dominates the
+   universe. Recently, Lisa Dyson, Matthew Kleban and Leonard Susskind
+   argued using the holographic principle that spontaneous inflation is
+   exceedingly improbable. Albrecht and Lorenzo Sorbo have argued that the
+   probability of an inflationary cosmos, consistent with today's
+   observations, emerging by a random fluctuation from some pre-existent
+   state, compared with a non-inflationary cosmos overwhelmingly favours
+   the inflationary scenario, simply because the "seed" amount of
+   non-gravitational energy required for the inflationary cosmos is so
+   much less than any required for a non-inflationary alternative, which
+   outweighs any entropic considerations.
+
+   Another problem that has occasionally been mentioned is the
+   trans-Planckian problem or trans-Planckian effects. Since the energy
+   scale of inflation and the Planck scale are relatively close, some of
+   the quantum fluctuations which have made up the structure in our
+   universe were smaller than the Planck length before inflation.
+   Therefore, there ought to be corrections from Planck-scale physics, in
+   particular the unknown quantum theory of gravity. There has been some
+   disagreement about the magnitude of this effect: about whether it is
+   just on the threshold of detectability or completely undetectable.
+
+Reheating
+
+   The end of inflation is called reheating or thermalization because the
+   large potential energy decays into particles and fills the universe
+   with radiation. Because the nature of the inflaton is not known, this
+   process is still poorly understood, although it is believed to take
+   place through a parametric resonance.
+
+Other models of inflation
+
+   Another kind of inflation, called hybrid inflation, is an extension of
+   new inflation. It introduces additional scalar fields, so that while
+   one of the scalar fields is responsible for normal slow roll inflation,
+   another triggers the end of inflation: when inflation has continued for
+   sufficiently long, it becomes favorable to the second field to decay
+   into a much lower energy state. Unlike most other models of inflation,
+   many versions of hybrid inflation are not eternal.
+
+Inflation and string theory
+
+   The discovery of flux compactifications have opened the way to
+   reconciling inflation and string theory. A new theory, called brane
+   inflation suggests that inflation arises from a D-brane falling into a
+   deep Klebanov-Strassler throat. This is a very different theory than
+   ordinary inflation (it is governed by the Dirac-Born-Infeld action
+   which is very different that the other one) and the dynamics are still
+   being understood. It appears that very special conditions are necessary
+   for inflation occurs in tunneling between two vacua in the string
+   landscape (the process of tunneling between two vacua is a kind of old
+   inflation, but new inflation must then occur by some other mechanism.
+
+Alternatives to inflation
+
+   String theory requires that, in addition to the three spatial
+   dimensions we observe, there exist additional dimensions that are
+   curled up or compactified (see also Kaluza-Klein theory). Extra
+   dimensions appear as a frequent component of supergravity models and
+   other approaches to quantum gravity. This begs the question: why did
+   four space-time dimensions become large, and the rest become
+   unobservably small? An attempt to address this question, called string
+   gas cosmology, was proposed by Robert Brandenberger and Cumrun Vafa.
+   This model focuses on the dynamics of the early universe considered as
+   a hot gas of strings. Brandenberger and Vafa show that a dimension of
+   spacetime can only expand if the strings that wind around it can
+   efficiently annihilate each other. Each string is a one-dimensional
+   object, and the largest number of dimensions in which two strings will
+   generically intersect (and, presumably, annihilate) is three.
+   Therefore, one argues that the most likely number of non-compact
+   (large) spatial dimensions is three. Current work on this model centers
+   on whether it can succeed in stabilizing the size of the compactified
+   dimensions and produce the correct spectrum of primordial density
+   perturbations. For a recent review, see .
+
+   The ekpyrotic and cyclic models are also considered competitors to
+   inflation. These models solve the horizon problem through an expanding
+   epoch well before the Big Bang, and then generate the required spectrum
+   of primordial density perturbations during a contracting phase leading
+   to a Big Crunch. The universe passes through the Big Crunch and emerges
+   in a hot Big Bang phase. In this sense they are reminiscent of the
+   oscillatory universe proposed by Richard Chase Tolman: however in
+   Tolman's model the total age of the universe is necessarily finite,
+   while in these models this is not necessarily so. Whether the correct
+   spectrum of density fluctuations can be produced, and whether the
+   universe can successfully navigate the Big Bang/Big Crunch transition,
+   remains a topic of controversy and current research.
+   Retrieved from " http://en.wikipedia.org/wiki/Cosmic_inflation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

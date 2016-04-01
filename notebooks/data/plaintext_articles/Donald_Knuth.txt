@@ -1,0 +1,269 @@
+   #copyright
+
+Donald Knuth
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+   CAPTION: Donald Ervin Knuth
+
+   Photographed by Jacob Appelbaum, 25 October 2005
+   Photographed by Jacob Appelbaum, 25 October 2005
+         Born        10 January 1938
+                     Milwaukee, Wisconsin, USA
+       Residence     USA
+      Nationality    US
+         Field       Computer Scientist
+      Institution    Stanford University
+      Alma Mater     Case Institute of Technology
+                     California Institute of Technology
+   Doctoral Advisor  Marshall Hall, Jr.
+   Doctoral Students Vaughan Pratt
+                     Robert Sedgewick
+                     Jeffrey Vitter
+       Known for     TeX
+                     The Art of Computer Programming
+    Notable Prizes   John von Neumann Medal (1995)
+       Religion      Lutheran
+
+   Donald Ervin Knuth ([knuːθ], born January 10, 1938) is a renowned
+   computer scientist and professor emeritus at Stanford University.
+
+   Knuth is best known as the author of the multi-volume The Art of
+   Computer Programming , one of the most highly respected references in
+   the computer science field. He practically created the field of
+   rigorous analysis of algorithms, and made many seminal contributions to
+   several branches of theoretical computer science. He is also the
+   creator of the TeX typesetting system and of the METAFONT font design
+   system, and pioneered the concept of literate programming.
+
+Education and academic work
+
+   Born in Milwaukee, Wisconsin, he received his bachelor's degree and
+   master's degree in mathematics (simultaneously, his B.S. work being
+   regarded as deserving a masters degree) in 1960 at the Case Institute
+   of Technology (now part of Case Western Reserve University). In 1963,
+   he earned a Ph.D. in mathematics from the California Institute of
+   Technology, where he became a professor and began work on The Art of
+   Computer Programming, originally planned as a seven-volume series. In
+   1968, he published the first volume. That same year, he joined the
+   faculty of Stanford University.
+
+   In 1971, Knuth was the recipient of the first ACM Grace Murray Hopper
+   Award. He has received various other awards including the Turing Award,
+   the National Medal of Science, the John von Neumann Medal and the Kyoto
+   Prize. After producing the third volume of his series in 1976, he
+   expressed such frustration with the nascent state of the then newly
+   developed electronic publishing tools (esp. those which provided input
+   to phototypesetters) that he took time out to work on typesetting and
+   created the TeX and METAFONT tools.
+
+   In recognition of Knuth's contributions to the field of computer
+   science, in 1990 he was awarded the singular academic title of
+   Professor of the Art of Computer Programming, which has since been
+   revised to Professor Emeritus of the Art of Computer Programming.
+
+   In 1992 he became an associate of the French Academy of Sciences. Also
+   that year, he retired from regular research and teaching at Stanford
+   University in order to finish The Art of Computer Programming. In 2003
+   he was elected as a Fellow of the Royal Society. As of 2004, the first
+   three volumes of his series have been re-issued, and Knuth is currently
+   working on volume four, excerpts of which are released periodically on
+   his website. Meanwhile, Knuth gives informal lectures a few times a
+   year at Stanford University, which he calls Computer Musings. He is
+   also a visiting professor at the Oxford University Computing Laboratory
+   in the United Kingdom.
+
+   In addition to his writings on computer science, Knuth is also the
+   author of 3:16 Bible Texts Illuminated (1991), ISBN 0-89579-252-4, in
+   which he attempts to examine the Bible by a process of stratified
+   random sampling, namely an analysis of chapter 3, verse 16 of each
+   book. Each verse is accompanied by a rendering in calligraphic art,
+   contributed by a group of calligraphers under the leadership of Hermann
+   Zapf.
+
+Knuth's humor
+
+   Knuth is a famous programmer known for his geek professional humor.
+     * He pays a finder's fee of $2.56 for any typos/mistakes discovered
+       in his books, because "256 pennies is one hexadecimal dollar". (His
+       bounty for errata in 3:16 Bible Texts Illuminated, is, however,
+       $3.16). According to an article in MIT's Technology Review, these
+       reward checks are "among computerdom's most prized trophies".
+     * Version numbers of his TeX software approach the transcendental
+       number π, that is versions increment in the style 3, 3.1, 3.14 and
+       so on. Version numbers of Metafont approach the number e similarly.
+     * He once warned users of his software, "Beware of bugs in the above
+       code; I have only proved it correct, not tried it."
+     * All appendices in the Computers and Typesetting series have titles
+       that begin with the letter identifying the appendix.
+     * TAOCP v3 (1973) has the index entry "Royalties, use of, 405". Page
+       405 has no explicit mention of royalties, but does contain a
+       diagram of an "organ-pipe arrangement" in Figure 2. Apparently the
+       purchase of the pipe organ in his home (see Personal below) was
+       financed by royalties from TAOCP.
+     * From the Preface of Concrete Mathematics: When DEK taught Concrete
+       Mathematics at Stanford for the first time, he explained the
+       somewhat strange title by saying that it was his attempt to teach a
+       math course that was hard instead of soft. He announced that,
+       contrary to the expectations of some of his colleagues, he was not
+       going to teach the Theory of Aggregates, nor Stone's Embedding
+       Theorem, nor even the Stone-Čech compactification. (Several
+       students from the civil engineering department got up and quietly
+       left the room.)
+     * Knuth published his first "scientific" article in a school magazine
+       in 1957 under the title " Potrzebie System of Weights and
+       Measures." In it, he defined the fundamental unit of length as the
+       thickness of MAD magazine #26, and named the fundamental unit of
+       force "whatmeworry". MAD magazine bought the article and published
+       it in the June 1957 issue.
+     * Knuth's first "mathematical" article was a short paper submitted to
+       a "science talent search" contest for high-school seniors in 1955,
+       and published in 1960, in which he discussed number systems where
+       the radix was negative. He further generalized this to number
+       systems where the radix was a complex number. In particular, he
+       defined the quater-imaginary number system, which uses the
+       imaginary number 2i as the base, having the unusual feature that
+       every complex number can be represented with the digits 0, 1, 2,
+       and 3, without a sign.
+     * Knuth's article about computational complexity of songs was
+       reprinted twice in computer science journals.
+
+Personal
+
+   Knuth's hobbies include music, specifically playing the organ. He has a
+   pipe organ installed in his home. Knuth disclaims any particular talent
+   in the instrument.
+
+   He does not use e-mail, saying that he used it from about 1975 until
+   January 1, 1990, and that was enough for one lifetime. He finds it more
+   efficient to respond to correspondence in "batch mode", such as one day
+   every three months, to be sent by postal mail.
+
+   He is married to Jill Knuth, who published a book on liturgy titled
+   Banner without Words, published by Resource Publications in 1986. They
+   have two children.
+
+   He is a member of Theta Chi fraternity.
+
+   Knuth uses the Emacs text editor.
+
+Awards
+
+     * First ACM Grace Murray Hopper Award - 1971
+     * Turing Award - 1974
+     * National Medal of Science - 1979
+     * John von Neumann Medal - 1995
+     * Kyoto Prize - 1996
+
+   He also has a Chinese name 高德納 ( pinyin: Gāo Dénà), given in 1977 by
+   Frances Yao just before his first visit to China.
+
+Works
+
+   A short list of his works:
+     * Donald E. Knuth, The Art of Computer Programming, Volumes 1–4,
+       Addison-Wesley Professional
+
+    1. Volume 1: Fundamental Algorithms (3rd edition), 1997.
+       Addison-Wesley Professional, ISBN 0-201-89683-4
+    2. Volume 2: Seminumerical Algorithms (3rd Edition), 1997.
+       Addison-Wesley Professional, ISBN 0-201-89684-2
+    3. Volume 3: Sorting and Searching (2nd Edition), 1998. Addison-Wesley
+       Professional, ISBN 0-201-89685-0
+    4. Volume 4: Combinatorial Algorithms, in preparation
+    5. Volume 5: Syntactic Algorithms, in preparation, estimated to be
+       ready in 2015
+
+     * Donald E. Knuth, The Art of Computer Programming, fascicles:
+
+    1. Volume 1, Fascicle 1: MMIX — A RISC Computer for the New
+       Millennium, 2005. ISBN 0-201-85392-2
+    2. Volume 4, Fascicle 2: Generating All Tuples and Permutations, 2005.
+       ISBN 0-201-85393-0
+    3. Volume 4, Fascicle 3: Generating All Combinations and Partitions,
+       2005. ISBN 0-201-85394-9
+    4. Volume 4, Fascicle 4: Generating All Trees -- History of
+       Combinatorial Generation, 2006. ISBN 0-321-33570-8
+
+     * Donald E. Knuth, The TeXbook (Reading, Massachusetts:
+       Addison-Wesley), 1984. ISBN 0-201-13448-9
+     * Donald E. Knuth, The METAFONTbook (Reading, Massachusetts:
+       Addison-Wesley), 1986. ISBN 0-201-13444-6
+     * Ronald L. Graham, Donald E. Knuth, Oren Patashnik, Concrete
+       Mathematics: A Foundation for Computer Science, 2nd edition
+       (Reading, Massachusetts: Addison-Wesley), 1994. ISBN 0-201-55802-5
+     * Selected papers series:
+
+    1. Donald E. Knuth, Literate Programming (Centre for the Study of
+       Language and Information - Lecture Notes), 1992. ISBN 0-937073-80-6
+    2. Donald E. Knuth, Selected Papers on Computer Science (Stanford,
+       California: Centre for the Study of Language and Information - CSLI
+       Lecture Notes, no. 59), 1996. ISBN 1-881526-91-7
+    3. Donald E. Knuth, Digital Typography (Stanford, California: Centre
+       for the Study of Language and Information - CSLI Lecture Notes, no.
+       78), 1999. ISBN 1-57586-010-4
+    4. Donald E. Knuth, Selected Papers on Analysis of Algorithms
+       (Stanford, California: Centre for the Study of Language and
+       Information - CSLI Lecture Notes, no. 102), 2000. ISBN
+       1-57586-212-3
+    5. Donald E. Knuth, Selected Papers on Computer Languages (Stanford,
+       California: Centre for the Study of Language and Information - CSLI
+       Lecture Notes, no. 139), 2003. ISBN 1-57586-381-2 (cloth), ISBN
+       1-57586-382-0 (paperback)
+    6. Donald E. Knuth, Selected Papers on Discrete Mathematics (Stanford,
+       California: Centre for the Study of Language and Information - CSLI
+       Lecture Notes, no. 106), 2003. ISBN 1-57586-249-2 (cloth), ISBN
+       1-57586-248-4 (paperback)
+    7. Donald E. Knuth, Selected Papers on Design of Algorithms (scheduled
+       for publication in 2007)
+    8. Donald E. Knuth, Selected Papers on Fun and Games (scheduled for
+       publication in 2007)
+
+     * Donald E. Knuth, 3:16 Bible Texts Illuminated (Madison, Wisconsin:
+       A-R Editions), 1990. ISBN 0-89579-252-4
+     * Donald E. Knuth, Things a Computer Scientist Rarely Talks About
+       (Centre for the Study of Language and Information - CSLI Lecture
+       Notes no 136), 2001. ISBN 1-57586-326-X
+
+Interviews, lectures, Q&A
+
+     * Doernberg, D. Computer Literacy Interview With Donald Knuth. 7
+       December 1993.
+     * TUG'95 (St Petersburg, FL, USA) Questions and answers with Prof.
+       Donald E. Knuth. TUGboat 17 (1), 1996
+     * Woehr, J. An interview with Donald Knuth Dr. Dobb's Journal, April
+       1996, p. 16-22.
+     * Donald Knuth on The Art of Computer Programming Addison-Wesley
+       Innovations, 1996
+     * Questions and Answers with Prof. Donald E. Knuth. Czech TUG,
+       Charles University, Prague, 1996
+     * Knuth meets NTG members, Amsterdam, 13 March 1996.
+     * Knuth Comments on Code, Byte magazine, September 1996.
+     * Donald Knuth: A life's work in the art of programming Amazon.com,
+       1997.
+     * U.K. TUG, Oxford, 12 September 1999: Question & Answer Session with
+       Donald Knuth. TUGboat, 22 (1/2), 2001.
+     * Dr. Dobb's Audio & Video Archive of Knuth's MMIX and God &
+       Computers Lectures @ MIT, Fall 1999
+     * Donald Knuth: MMIX, A RISC Computer for the New Millennium. Audio
+       recording of a presetation at the monthly meeting of the Boston ACM
+       30 December 1999
+     * Wallace, Mark. The art of Don E. Knuth Interview on salon.com,
+       1999.
+     * Advogato, 2000, also available as HTML Version
+     * AMS, 2001
+     * Geek Celebs, 2001
+     * Oslo, 2002
+     * c't, 2002 (in German)
+     * NZZ Folio, 2002 (in German)
+     * Donald Knuth, Founding Artist of Computer Science. Audio interview
+       by David Kestenbaum on National Public Radio; or Transcript, 14
+       March 2005.
+     * Free Software Magazine interview by Gianluca Pignalberi, August
+       2005.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Donald_Knuth"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

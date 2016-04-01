@@ -1,0 +1,287 @@
+   #copyright
+
+GNU
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   CAPTION: GNU
+
+   Screenshot of a GNU-based OS
+   Screenshot from a GNU-based OS
+   Website:       www.gnu.org
+   Company/
+   developer:     GNU Project
+   OS family:     Unix-like
+   Source model:  Free software
+   Kernel type:   Microkernel
+   License:       Mostly GPL, some LGPL
+   Working state: Functional, but unfinished
+
+   GNU ( pronounced /gnu/ ) is a free operating system consisting of a
+   kernel, libraries, system utilities, compilers, and end-user
+   applications. Its name is a recursive acronym for "GNU's Not Unix",
+   which was chosen because its design is Unix-like, but differs from Unix
+   by being free software and by not containing any UNIX code. The plan
+   for the GNU operating system was announced in September 1983 by Richard
+   Stallman and software development work began in January 1984. As of
+   2006, GNU is being actively developed. The project to develop GNU is
+   known as the GNU Project, and programs released under the auspices of
+   the GNU Project are called GNU packages or GNU programs.
+
+   As of 2006, a complete GNU system has not been released. The official
+   kernel is the GNU Hurd. However, Hurd is not yet finished so most GNU
+   users use the third-party Linux kernel. While Linux has not been
+   officially adopted as the kernel of GNU, GNU does officially include
+   other third party software such as the Xorg windowing system and the
+   TeX typesetting system.
+
+   The system's basic components include the GNU Compiler Collection
+   (GCC), the GNU Binary Utilities (binutils), the bash shell, the GNU C
+   library (glibc), and coreutils. GNU uses the third-party packages X.Org
+   and TeX for the foundation of its graphical user interface and its
+   typesetting system, respectively. Not all GNU software works yet with
+   the GNU Hurd kernel.
+
+   Versions of GNU using the Linux kernel are often called Linux, after
+   the kernel. The GNU project asks people to call these systems
+   "GNU/Linux." See GNU/Linux naming controversy.
+
+   Many GNU programs have also been ported to numerous other operating
+   systems such as Windows, BSD, Solaris and Mac OS.
+
+   The GNU General Public License (GPL), the GNU Lesser General Public
+   License (LGPL), and the GNU Free Documentation License (GFDL) were
+   written for GNU, but are also used by many unrelated projects.
+
+History
+
+   The GNU Project was announced publicly on September 27, 1983, on the
+   net.unix-wizards and net.usoft newsgroups. Software development began
+   on January 5, 1984, when Stallman quit his job at Massachusetts
+   Institute of Technology so that they could not claim ownership or
+   interfere with distributing GNU as free software. According to
+   Stallman, the name was inspired by various plays on words, including
+   the song The Gnu.
+
+   The goal was to bring a wholly free software operating system into
+   existence. Stallman wanted computer users to be free, as most were in
+   the 1960s and 1970s; free to study the source code of the software they
+   use, free to modify the behaviour of the software, and free to publish
+   their modified versions of the software. This philosophy was published
+   in March 1985 as the GNU Manifesto.
+
+   Much of the needed software had to be written from scratch, but
+   existing compatible free software components were used. Two examples
+   were the TeX typesetting system, and the X Window System. Most of GNU
+   has been written by volunteers; some in their spare time, some paid by
+   companies, educational institutions, and other non-profit
+   organizations. In October 1985, Stallman set up the Free Software
+   Foundation (FSF). In the late 1980s and 1990s, FSF hired software
+   developers to write the software needed for GNU. At its peak it had 15
+   people on its staff. FSF also holds the copyrights for some GNU
+   software packages. Most GNU packages are licensed under the GNU General
+   Public License (GNU GPL), while a few use the GNU Lesser General Public
+   License (GNU LGPL), and a still smaller amount use other free software
+   licenses.
+
+   So that it would be convenient for people to switch to GNU, it was
+   decided that GNU would be mostly compatible with Unix. At the time,
+   Unix was a popular proprietary operating system. The design of Unix had
+   proven to be solid, and it was modular, so it could be reimplemented
+   piece by piece.
+
+   As GNU gained prominence, interested businesses began contributing to
+   development or selling GNU software and technical support. The most
+   prominent and successful of these was Cygnus Solutions, now part of Red
+   Hat.
+
+Licensing
+
+   In order to ensure that GNU software remains free, the project released
+   the first version of the GNU General Public License (GNU GPL) in 1989.
+   This license is now used by most GNU programs, as well as a large
+   number of free software programs that are not part of the GNU project;
+   it is the most commonly used free software license. It gives all
+   recipients of a program the right to run, copy, modify and distribute
+   it, while forbidding them from imposing further restrictions on any
+   copies they distribute. This idea is referred to as copyleft.
+
+   In 1991, the GNU Lesser General Public License was written for certain
+   libraries.
+
+   In 2000, the GNU Free Documentation License was written for technical
+   manuals.
+
+Design and implementation
+
+   The initial plan for GNU was to be mostly Unix-compatible, while adding
+   enhancements where they were useful. The design of the kernel was GNU's
+   largest departure from "traditional" Unix. GNU's kernel was to be a
+   multi-server micro-kernel.
+
+   The GNU Hurd runs on a microkernel (currently Mach) and consists of a
+   set of programs called servers that offers the same functionality as
+   the traditional Unix kernel (or Linux).
+
+   GNU (using Hurd) can be tried using a live CD. (See Distributions of
+   GNU).
+
+   By 1990, the GNU system had an extensible text editor (Emacs), a very
+   successful optimizing compiler ( GCC), and most of the core libraries
+   and utilities of a standard Unix distribution. The main component still
+   missing was the kernel. In the GNU Manifesto, Stallman had mentioned
+   that "an initial kernel exists but many more features are needed to
+   emulate Unix." He was referring to TRIX, a remote procedure call kernel
+   developed at Massachusetts Institute of Technology, whose authors had
+   decided to distribute for free, and was compatible with Version 7 Unix.
+   In December 1986, work had started on modifying this kernel. However,
+   the developers eventually decided it was unusable as a starting point,
+   primarily because it only ran on "an obscure, expensive 68000 box" and
+   would therefore have to be ported to other architectures before it
+   could be used. By 1988, the Mach message-passing kernel being developed
+   at Carnegie Mellon University was being considered instead, although
+   its release as free software was delayed until 1990 while its
+   developers worked to remove code owned by AT&T.
+
+   Since the Mach microkernel, by design, provided just the low-level
+   kernel functionality, the GNU Project had to develop the higher-level
+   parts of the kernel, as a collection of user programs. Initially, this
+   collection was to be called Alix, but developer Michael (now Thomas)
+   Bushnell later preferred the name Hurd, so the Alix name was moved to a
+   subsystem and eventually dropped completely. Eventually, development of
+   the Hurd stalled due to technical reasons and personality conflicts.
+
+   In 1991, Linus Torvalds wrote the Unix-compatible Linux kernel.
+   Although the original license for Linux had restrictions on commercial
+   distribution and hence was not software that was free as in speech,
+   Torvalds quickly changed the license to the GNU GPL in 1992 in what he
+   later termed the best decision he ever made. Linux was further
+   developed by various programmers over the Internet. In 1992, it was
+   combined with the GNU system, resulting in a functional free operating
+   system. The GNU system is most commonly encountered in this form,
+   usually referred to as a " Linux distribution" (but see naming
+   controversy section below). As of 2005, Hurd is in slow development,
+   and is now the official kernel of the GNU system. There is also a
+   project working on porting the GNU system to the kernels of FreeBSD and
+   NetBSD.
+
+Naming
+
+GNU, GNU Hurd and GNU/Hurd
+
+   GNU/Hurd refers to a GNU OS distribution that uses GNU Hurd as its
+   core. GNU Hurd is a set of programs or servers running on top of a
+   microkernel, that provides the same services as a traditional
+   monolithic Unix kernel. (GNU currently uses the GNU Mach microkernel,
+   but efforts to port Hurd to the L4 microkernel are currently ongoing.)
+   The "GNU" in GNU Hurd indicates that it is a part of the GNU Project,
+   while "GNU/Hurd" distinguishes it as one of the two currently available
+   GNU systems -- Hurd-based GNU systems ( "GNU/Hurd"), or Linux-based GNU
+   systems ( "GNU/Linux"). Just "GNU" refers to GNU/Hurd.
+
+GNU/Linux naming controversy
+
+   A system with a Linux kernel and a mostly GNU userland is usually
+   referred to as a "Linux system". However the FSF insists that the GNU
+   project made the biggest contribution and "ought to get at least equal
+   mention".
+
+   "GNU/Linux" is pronounced "GNU-slash-Linux", or more often, just "GNU
+   Linux". However, the FSF contests that "GNU Linux", by the rules of the
+   English language, refers to a distribution of the kernel Linux by the
+   GNU project or GNU project's version of it ; "GNU/Linux", they say,
+   makes it clear that a person is referring to the combination of the
+   Linux kernel and the GNU userland binaries, forming a complete GNU OS.
+   Linus Torvalds, original author of Linux, does not approve of the term
+   "GNU/Linux"; he prefers "GNU Linux" if the GNU project "wants its own
+   distribution."
+
+GNU software
+
+   Prominent components of the GNU system include the GNU Compiler
+   Collection (GCC), the GNU C Library (glibc), the GNU Emacs text editor,
+   and the GNOME desktop environment.
+
+   Many GNU programs have been ported to other operating systems and are
+   often installed on proprietary UNIX systems to replace the proprietary
+   utilities. These GNU programs have in contested cases been tested to
+   show as more reliable than their proprietary Unix counterparts . The
+   reputation of GNU software is especially good among Linux users, for
+   its software development tools - which are sometimes collectively
+   called the GNU toolset. Making up but a small fraction of the GNU
+   system as a whole, these GNU versions are not POSIX compliant. With the
+   popularity of GNU/Linux systems, many developers install the GNU
+   toolset on other systems for compatibility or to capture uniform
+   behaviour across platforms. Many GNU programs have also been ported to
+   Microsoft Windows, Mac OS X, and various other proprietary platforms,
+   however, this is often a hot topic among enthusiasts, as the motive for
+   developing these programs was to replace those systems with free
+   software, not to enhance them.
+
+   A list of packages that are well known in the free software community
+   includes:
+     * System software
+          + Bison – parser generator intended to replace yacc
+          + Bash – Unix shell
+          + BFD – object file library
+          + Classpath – libraries for Java
+          + Coreutils – basic Unix utilities such as cat, ls, and rm
+          + Emacs – extensible, self-documenting text editor
+          + GNU C Library – Standard POSIX C library, plus additional
+            functionality
+          + gzip – a library and program for data compression
+          + The GNU toolchain for software development:
+               o GNU Binary Utilities – assembler, linker, and related
+                 tools
+               o GNU build system – Autoconf, Automake, Libtool
+               o GCC – optimizing compiler for many programming languages,
+                 including C, C++, Fortran, Ada, and Java
+               o GDB – debugger
+          + Screen – a terminal multiplexer
+          + Texinfo – documentation system for producing online and
+            printed manuals
+          + Wget – advanced file retrieval from networks and the Internet
+          + GNUnet – decentralized, peer-to-peer communication network
+            designed to be resistant to censorship
+          + GNU Hurd – a microkernel-based set of servers that perform the
+            same function as a Unix kernel
+     * Application software
+          + GIMP – GNU Image Manipulation Program
+          + Gnash – player for movies in Adobe Flash format.
+          + GMP – arbitrary precision numerical calculation programming
+            library
+          + GNOME – graphical desktop environment
+          + GNU LilyPond – sheet music engraving program
+          + GNU Octave – program for numerical computations similar to
+            MATLAB
+          + GNU Privacy Guard (GnuPG) – free encryption tool which can
+            replace PGP
+          + GNU Robots – small but addictive game for computer programmers
+          + GNU Scientific Library
+          + GNUstep – implementation of the OpenStep standard for a set of
+            libraries and development tools for graphical applications
+          + GNU Guile – embeddable Scheme interpreter
+
+   As of January 2005, there are a total of 288 GNU packages hosted on the
+   GNU hosting site . Others are hosted elsewhere.
+
+Distributions of GNU
+
+     * Bee GNU/Hurd
+     * Debian GNU/Hurd
+     * GNUAB
+     * Superunprivileged.org's Hurd LiveCD
+     * Unofficial Gentoo/Hurd Project
+
+Operating systems based on GNU but not using Hurd
+
+     * GNU/kFreeBSD
+     * GNU/Linux, by far the most popular variant of GNU.
+     * GNU/NetBSD
+     * GNU/Solaris
+
+   Retrieved from " http://en.wikipedia.org/wiki/GNU"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

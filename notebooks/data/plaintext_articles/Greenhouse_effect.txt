@@ -1,0 +1,276 @@
+   #copyright
+
+Greenhouse effect
+
+2007 Schools Wikipedia Selection. Related subjects: Climate and the Weather
+
+   A schematic representation of the exchanges of energy between outer
+   space, the Earth's atmosphere, and the Earth surface. The ability of
+   the atmosphere to capture and recycle energy emitted by the Earth
+   surface is the defining characteristic of the greenhouse effect.
+   A schematic representation of the exchanges of energy between outer
+   space, the Earth's atmosphere, and the Earth surface. The ability of
+   the atmosphere to capture and recycle energy emitted by the Earth
+   surface is the defining characteristic of the greenhouse effect.
+
+   The greenhouse effect, discovered by Joseph Fourier in 1824 and first
+   investigated quantitatively by Svante Arrhenius in 1896, is the process
+   in which the emission of infrared radiation by an atmosphere warms a
+   planet's surface. The name comes from an incorrect analogy with the
+   warming of air inside a greenhouse compared to the air outside the
+   greenhouse. The Earth's average surface temperature is about 20-30°C
+   warmer than it would be without the greenhouse effect . In addition to
+   the Earth, Mars and especially Venus have greenhouse effects.
+
+   In common usage, "greenhouse effect" may refer either to the natural
+   greenhouse effect due to naturally occurring greenhouse gases, or to
+   the enhanced ( anthropogenic) greenhouse effect which results from
+   gases emitted as a result of human activities (see also global warming,
+   scientific opinion on climate change and attribution of recent climate
+   change).
+
+The basic mechanism
+
+   The Earth receives energy from the Sun in the form of radiation. The
+   Earth reflects about 30% of the incident solar flux; the remaining 70%
+   is absorbed, warming the land, atmosphere and oceans.
+
+   To the extent that the Earth is in a steady state, the energy stored in
+   the atmosphere and ocean does not change in time, so energy equal to
+   the absorbed solar radiation must be radiated back to space. Earth
+   radiates energy into space as black-body radiation, which maintains a
+   thermal equilibrium. This thermal, infrared radiation increases with
+   increasing temperature. One can think of the Earth's temperature as
+   being determined by the infrared flux needed to balance the absorbed
+   solar flux.
+   Solar radiation at top of atmosphere and at Earth's surface.
+   Solar radiation at top of atmosphere and at Earth's surface.
+
+   The visible solar radiation heats the surface, not the atmosphere,
+   whereas most of the infrared radiation escaping to space is emitted
+   from the upper atmosphere, not the surface. The infrared photons
+   emitted by the surface are mostly absorbed by the atmosphere and do not
+   escape directly to space.
+   Atmospheric transmittance of various wavelengths of electromagnetic
+   radiation (measured along sea level).
+   Atmospheric transmittance of various wavelengths of electromagnetic
+   radiation (measured along sea level).
+
+   The reason this warms the surface is most easily understood by starting
+   with a simplified model of a purely radiative greenhouse effect that
+   ignores energy transfer in the atmosphere by convection (sensible heat
+   transport) and by the evaporation and condensation of water vapor (
+   latent heat transport). In this purely radiative case, one can think of
+   the atmosphere as emitting infrared radiation both upwards and
+   downwards. The upward infrared flux emitted by the surface must balance
+   not only the absorbed solar flux but also this downward infrared flux
+   emitted by the atmosphere. The surface temperature will rise until it
+   generates thermal radiation equivalent to the sum of these two incident
+   radiation streams.
+
+   A more realistic picture taking into account the convective and latent
+   heat fluxes is somewhat more complex. But the following simple model
+   captures the essence. The starting point is to note that the opacity of
+   the atmosphere to infrared radiation determines the height in the
+   atmosphere from which most of the photons emitted to space are emitted.
+   If the atmosphere is more opaque, the typical photon escaping to space
+   will be emitted from higher in the atmosphere, because one then has to
+   go to higher altitudes to see out to space in the infrared. Since the
+   emission of infrared radiation is a function of temperature, it is the
+   temperature of the atmosphere at this emission level that is
+   effectively determined by the requirement that the emitted flux balance
+   the absorbed solar flux.
+
+   But the temperature of the atmosphere generally decreases with height
+   above the surface, at a rate of roughly 6.5 °C per kilometer on
+   average, until one reaches the stratosphere 10-15 km above the surface.
+   (Most infrared photons escaping to space are emitted by the
+   troposphere, the region bounded by the surface and the stratosphere, so
+   we can ignore the stratosphere in this simple picture.) A very simple
+   model, but one that proves to be remarkably useful, involves the
+   assumption that this temperature profile is simply fixed, by the
+   non-radiative energy fluxes. Given the temperature at the emission
+   level of the infrared flux escaping to space, one then computes the
+   surface temperature by increasing temperature at the rate of 6.5 °C per
+   kilometer, the environmental lapse rate, until one reaches the surface.
+   The more opaque the atmosphere, and the higher the emission level of
+   the escaping infrared radiation, the warmer the surface, since one then
+   needs to follow this lapse rate over a larger distance in the vertical.
+   While less intuitive than the purely radiative greenhouse effect, this
+   less familiar radiative-convective picture is the starting point for
+   most discussions of the greenhouse effect in the climate modeling
+   literature.
+
+   The term "greenhouse effect" is a source of confusion in that actual
+   greenhouses do not warm by this same mechanism (e.g. ).
+
+The greenhouse gases
+
+   Quantum mechanics provides the basis for computing the interactions
+   between molecules and radiation. Most of this interaction occurs when
+   the frequency of the radiation closely matches that of the spectral
+   lines of the molecule, determined by the quantization of the modes of
+   vibration and rotation of the molecule. (The electronic excitations are
+   generally not relevant for infrared radiation, as they require energy
+   larger than that in an infrared photon.)
+
+   The width of a spectral line is an important element in understanding
+   its importance for the absorption of radiation. In the Earth’s
+   atmosphere these spectral widths are primarily determined by “pressure
+   broadening”, which is the distortion of the spectrum due to the
+   collision with another molecule. Most of the infrared absorption in the
+   atmosphere can be thought of as occurring while two molecules are
+   colliding. The absorption due to a photon interacting with a lone
+   molecule is relatively small. This three-body aspect of the problem,
+   one photon and two molecules, makes direct quantum mechanical
+   computation for molecules of interest more challenging. Careful
+   laboratory spectroscopic measurements, rather than ab initio quantum
+   mechanical computations, provide the basis for most of the radiative
+   transfer calculations used in studies of the atmosphere.
+
+   The molecules/atoms that constitute the bulk of the atmosphere; oxygen
+   (O[2]), nitrogen (N[2]) and argon; do not interact with infrared
+   radiation significantly. While the oxygen and nitrogen molecules can
+   vibrate, because of their symmetry these vibrations do not create any
+   transient charge separation that enhances the interaction with
+   radiation. In the Earth’s atmosphere, the dominant infrared absorbing
+   gases are water vapor, carbon dioxide, and ozone (O[3]), these
+   molecules being “floppier” so that their rotation/vibration modes are
+   more easily excited. For example, carbon dioxide is a linear molecule,
+   but it has an important vibrational mode in which the molecule bends
+   with the carbon in the middle moving one way and the oxygens on the
+   ends moving the other way, creating some charge separation, a dipole
+   moment. A substantial part of the greenhouse effect due to carbon
+   dioxide exists because this vibration is easily excited by infrared
+   radiation. Clouds are also very important infrared absorbers.
+   Therefore, water has multiple effects on infrared radiation, through
+   its vapor phase and through its condensed phases. Other absorbers of
+   significance include methane, nitrous oxide and the
+   chlorofluorocarbons.
+
+   Discussion of the relative importance of different infrared absorbers
+   is confused by the overlap between the spectral lines due to different
+   gases, widened by pressure broadening. As a result, the absorption due
+   to one gas cannot be thought of as independent of the presence of other
+   gases. One convenient approach is to remove the chosen constituent,
+   leaving all other absorbers, and the temperatures, untouched, and
+   monitoring the infrared radiation escaping to space. The reduction in
+   infrared absorbtion is then a measure of the importance of that
+   constituent. More precisely, define the greenhouse effect (GE) to be
+   the difference between the infrared radiation that the surface would
+   radiate to space if there were no atmosphere and the actual infrared
+   radiation escaping to space. Then compute the percentage reduction in
+   GE when a constituent is removed. The table below is computed by this
+   method, using a particular 1-dimensional model of the atmosphere. More
+   recent 3D computations lead to similar results.
+
+                     Gas removed
+                                percent reduction in GE
+                     H[2]O      36%
+                     CO[2]      12%
+                     O[3]       3%
+
+    (Source: Ramanathan and Coakley, Rev. Geophys and Space Phys., 16 465
+                             (1978)); see also .
+
+   By this particular measure, water vapor can be thought of as providing
+   36% of the greenhouse effect, and carbon dioxide 12%, but the effect of
+   removal of both of these constituents will be greater than 48%. An
+   additional proviso is that these numbers are computed holding the cloud
+   distribution fixed. But removing water vapor from the atmosphere while
+   holding clouds fixed is not likely to be physically relevant. In
+   addition, the effects of a given gas are typically nonlinear in the
+   amount of that gas, since the absorption by the gas at one level in the
+   atmosphere can remove photons that would otherwise interact with the
+   gas at another altitude. The kinds of estimates presented in the table,
+   while often encountered in the controversies surrounding global
+   warming, must be treated with caution. Different estimates found in
+   different sources typically result from different definitions and do
+   not reflect uncertainties in the underlying radiative transfer.
+
+Positive feedback and runaway greenhouse effect
+
+   When the concentration of a greenhouse gas (A) is itself a function of
+   temperature, there is a positive feedback from the increase in another
+   greenhouse gas (B), whereby increase in B increases the temperature
+   which, in turn, increases the concentration of A, which increases
+   temperatures further, and so on. This feedback is bound to stop, since
+   the overall supply of the gas A must be finite. If this feedback ends
+   after producing a major temperature increase, it is called a runaway
+   greenhouse effect.
+
+   According to some climate models ( Clathrate gun hypothesis), such a
+   runaway greenhouse effect, involving liberation of methane gas from
+   hydrates by global warming, caused the Permian-Triassic extinction
+   event. It is also thought that large quantities of methane could be
+   released from the Siberian tundra as it begins to thaw, methane being
+   21-times more potent a greenhouse gas than carbon dioxide .
+
+   A runaway greenhouse effect involving CO[2] and water vapor may have
+   occurred on Venus. On Venus today there is little water vapor in the
+   atmosphere. If water vapor did contribute to the warmth of Venus at one
+   time, this water is thought to have escaped to space. Venus is
+   sufficiently strongly heated by the Sun that water vapor can rise much
+   higher in the atmosphere and is split into hydrogen and oxygen by
+   ultraviolet light. The hydrogen can then escape from the atmosphere and
+   the oxygen recombines. Carbon dioxide, the dominant greenhouse gas in
+   the current Venusian atmosphere, likely owes its larger concentration
+   to the weakness of carbon recycling as compared to Earth, where the
+   carbon dioxide emitted from volcanoes is efficiently subducted into the
+   Earth by plate tectonics on geologic time scales , .
+
+Anthropogenic greenhouse effect
+
+   CO[2] production from increased industrial activity (fossil fuel
+   burning) and other human activities such as cement production and
+   tropical deforestation has increased the CO[2] concentrations in the
+   atmosphere. Measurements of carbon dioxide amounts from Mauna Loa
+   observatory show that CO[2] has increased from about 313 ppm (parts per
+   million) in 1960 to about 375 ppm in 2005. The current observed amount
+   of CO[2] exceeds the geological record of CO[2] maxima (~300 ppm) from
+   ice core data (Hansen, J., Climatic Change, 68, 269, 2005 ISSN
+   0165-0009).
+
+   Because it is a greenhouse gas, elevated CO[2] levels will increase
+   global mean temperature; based on an extensive review of the scientific
+   literature, the Intergovernmental Panel on Climate Change concludes
+   that "most of the observed increase in globally averaged temperatures
+   since the mid-20th century is very likely due to the observed increase
+   in anthropogenic greenhouse gas concentrations" .
+
+   Over the past 800,000 years , ice core data shows unambiguously that
+   carbon dixoide has varied from values as low as 180 parts per million
+   (ppm) to the pre-industrial level of 270ppm . Certain
+   paleoclimatologists consider variations in carbon dioxide to be a
+   fundamental factor in controlling climate variations over this time
+   scale.
+
+Real greenhouses
+
+   The term 'greenhouse effect' originally came from the greenhouses used
+   for gardening, but it is a misnomer since greenhouses operate
+   differently . A greenhouse is built of glass; it heats up primarily
+   because the Sun warms the ground inside it, which warms the air near
+   the ground, and this air is prevented from rising and flowing away. The
+   warming inside a greenhouse thus occurs by suppressing convection and
+   turbulent mixing. This can be demonstrated by opening a small window
+   near the roof of a greenhouse: the temperature will drop considerably.
+   It has also been demonstrated experimentally (Wood, 1909): a
+   "greenhouse" built of rock salt (which is transparent to IR) heats up
+   just as one built of glass does. Greenhouses thus work primarily by
+   preventing convection; the atmospheric greenhouse effect however
+   reduces radiation loss, not convection. It is quite common, however, to
+   find sources (e.g., ) that make the "greenhouse" analogy. Although the
+   primary mechanism for warming greenhouses is the prevention of mixing
+   with the free atmosphere, the radiative properties of the glazing can
+   still be important to commercial growers. With the modern development
+   of new plastic surfaces and glazings for greenhouses, this has
+   permitted construction of greenhouses which selectively control
+   radiation transmittance in order to better control the growing
+   environment PDF (271  KiB).
+
+   Retrieved from " http://en.wikipedia.org/wiki/Greenhouse_effect"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,503 @@
+   #copyright
+
+Luminiferous aether
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+   The luminiferous aether: it was hypothesised that the Earth moves
+   through a "medium" of aether that carries light
+   Enlarge
+   The luminiferous aether: it was hypothesised that the Earth moves
+   through a "medium" of aether that carries light
+
+   In the late 19th century luminiferous aether ("light-bearing aether")
+   was the term used to describe a medium for the propagation of light.
+   Later theories including special relativity were formulated without the
+   aether concept, and today the aether is considered to be a superseded
+   scientific theory.
+
+   The word "aether" stems via Latin from the Greek αἰθήρ, from a root
+   meaning "to kindle/burn/shine", which signified the substance thought
+   in ancient times to fill the upper regions of space, beyond the clouds.
+
+The history of light and aether
+
+   Isaac Newton had assumed that light was made up of numerous small
+   particles, in order to explain features such as its ability to travel
+   in straight lines and reflect off surfaces. This theory was known to
+   have its problems; although it explained reflection well, its
+   explanation of refraction and diffraction was less pleasing. In order
+   to explain refraction, in fact, Newton's Opticks (1704) postulated an
+   "Aethereal Medium" transmitting vibrations faster than light, by which
+   light (when overtaken) is put into "Fits of easy Reflexion and easy
+   Transmission" (causing refraction and diffraction). Newton believed
+   that these vibrations were related to things like heat radiation,
+   saying:
+
+          Is not the Heat of the warm Room convey'd through the Vacuum by
+          the Vibrations of a much subtiler Medium than Air, which after
+          the Air was drawn out remained in the Vacuum? And is not this
+          Medium the same with that Medium by which Light is refracted and
+          reflected, and by whose Vibrations Light communicates Heat to
+          Bodies, and is put into Fits of easy Reflexion and easy
+          Transmission?
+
+   The modern understanding, of course, is that heat radiation is light,
+   but Newton considered them two different phenomena (believing heat
+   vibrations to be excited "when a Ray of Light falls upon the Surface of
+   any pellucid Body"). He wrote that "I do not know what this Aether is",
+   but that if it consists of particles then they must be "exceedingly
+   smaller than those of Air, or even than those of Light: The exceeding
+   smallness of its Particles may contribute to the greatness of the force
+   by which those Particles may recede from one another, and thereby make
+   that Medium exceedingly more rare and elastick than Air, and by
+   consequence exceedingly less able to resist the motions of Projectiles,
+   and exceedingly more able to press upon gross Bodies, by endeavoring to
+   expand itself."
+
+   Christiaan Huygens, prior to Newton, had hypothesized that light itself
+   was a wave propagating through an Aether, but Newton rejected this
+   idea. The main reason for his rejection stemmed from the fact that both
+   men could apparently only envision light to be a longitudinal wave,
+   like sound and other mechanical waves in gases and fluids. However,
+   longitudinal waves by necessity have only one form for a given
+   propagation direction, rather than two polarizations as in a transverse
+   wave, and thus they were unable to explain the phenomenon of
+   birefringence (where two polarizations of light are refracted
+   differently by a crystal). Instead, Newton preferred to imagine
+   non-spherical particles (or "corpuscles") of light with different
+   "sides" that give rise to birefringence. A further reason why Newton
+   rejected light as waves in a medium, however, was because such a medium
+   would have to extend everywhere in space, and would thereby "disturb
+   and retard the Motions of those great Bodies" (the planets and comets)
+   and thus "as it [light's medium] is of no use, and hinders the
+   Operation of Nature, and makes her languish, so there is no evidence
+   for its Existence, and therefore it ought to be rejected."
+
+   In 1720 James Bradley carried out a series of experiments attempting to
+   measure stellar parallax. Although he failed to detect any parallax
+   (thereby placing a lower limit on the distance to stars), he discovered
+   another effect, stellar aberration, an effect which depends not on
+   position (as in parallax), but on speed. He noticed that the apparent
+   position of the star changed as the Earth moved around its orbit.
+   Bradley explained this effect in the context of Newton's corpuscular
+   theory of light, by showing that the aberration angle was given by
+   simple vector addition of the Earth's orbital velocity and the velocity
+   of the corpuscles of light (just as vertically falling raindrops strike
+   a moving object at an angle). Knowing the Earth's velocity and the
+   aberration angle, this enabled him to estimate the speed of light. To
+   explain stellar aberration in the context of an ether-based theory of
+   light was regarded as more problematic, because it requires that the
+   ether be stationary even as the Earth moves through it – precisely the
+   problem that led Newton to reject a wave model in the first place.
+
+   However, a century later, Young and Fresnel revived the wave theory of
+   light when they pointed out that light could be a transverse wave
+   rather than a longitudinal wave—the polarization of a transverse wave
+   (like Newton's "sides" of light) could explain birefringence, and in
+   the wake of a series of experiments on diffraction the particle model
+   of Newton was finally abandoned. Physicists still assumed, however,
+   that like mechanical waves, light waves required a medium for
+   propagation, and thus required Huygens' idea of an aether "gas"
+   permeating all space.
+
+   However a transverse wave apparently required the propagating medium to
+   behave as a solid, as opposed to a gas or fluid. The idea of a solid
+   that did not interact with other matter seemed a bit odd, and
+   Augustin-Louis Cauchy suggested that perhaps there was some sort of
+   "dragging", or "entrainment", but this made the aberration measurements
+   difficult to understand. He also suggested that the absence of
+   longitudinal waves suggested that the aether had negative
+   compressibility; but George Green pointed out that such a fluid would
+   be unstable. George Gabriel Stokes became a champion of the entrainment
+   interpretation, developing a model in which the aether might be (by
+   analogy with pine pitch) rigid at very high frequencies and fluid at
+   lower speeds. Thus the Earth could move through it fairly freely, but
+   it would be rigid enough to support light.
+
+   Later, Maxwell's equations showed that light is an electromagnetic
+   wave. Maxwell's equations required that all electromagnetic waves in
+   vacuum propagate at a fixed speed, c. As this can only occur in one
+   reference frame in Newtonian physics (see Galilean-Newtonian
+   relativity), the aether was hypothesized as the absolute and unique
+   frame of reference in which Maxwell's equations hold. That is, the
+   aether must be "still" universally, otherwise c would vary from place
+   to place. Maxwell himself proposed several mechanical models of aether
+   based on wheels and gears and George FitzGerald even constructed a
+   working model of one of them. These models were non-trivial especially
+   because they had to agree with the fact that the electromagnetic waves
+   are transverse but never longitudinal.
+
+   Nevertheless, by this point the mechanical qualities of the aether had
+   become more and more magical: it had to be a fluid in order to fill
+   space, but one that was millions of times more rigid than steel in
+   order to support the high frequencies of light waves. It also had to be
+   massless and without viscosity, otherwise it would visibly affect the
+   orbits of planets. Additionally it appeared it had to be completely
+   transparent, non-dispersive, incompressible, and continuous at a very
+   small scale.
+
+   Contemporary scientists were aware of the problems, but aether theory
+   was so entrenched in physical law by this point that it was simply
+   assumed to exist. In 1908 Oliver Lodge gave a speech in behalf of Lord
+   Rayleigh to the Royal Institution on this topic, in which he outlined
+   its physical properties, and then attempted to offer reasons why they
+   were not impossible. Nevertheless he was also aware of the criticisms,
+   and quoted Lord Salisbury as saying that "aether is little more than a
+   nominative case of the verb to undulate". Others criticized it as an
+   "English invention", although Rayleigh jokingly corrected them to state
+   it was actually an invention of the Royal Institution.
+
+   By the early 20th Century, aether theory was in trouble: A series of
+   increasingly complex experiments had been carried out in the late 1800s
+   to try to detect the motion of earth through the aether, and had failed
+   to do so. A range of proposed aether-dragging theories could explain
+   the null result but these were more complex, and tended to use
+   arbitrary-looking coefficients and physical assumptions. Lorentz and
+   Fitzgerald offered a more elegant solution to how the motion of an
+   absolute aether could be undetectable (length contraction), but if
+   their equations were correct, the new special theory of relativity
+   (1905) could generate the same mathematics without referring to an
+   aether at all. Aether fell to Occam's Razor.
+
+Aether and classical mechanics
+
+   The key difficulty with the aether hypothesis arose from the
+   juxtaposition of the two well-established theories of Newtonian
+   dynamics and Maxwell's electromagnetism. Under a Galilean
+   transformation the equations of Newtonian dynamics are invariant,
+   whereas those of electromagnetism are not. Basically this means that
+   while physics should remain the same in non-accelerated experiments,
+   light would not follow the same rules because it is travelling in the
+   universal "aether frame". Some effect caused by this difference should
+   be detectable.
+
+   A simple example concerns the model on which aether was originally
+   built: sound. The speed of propagation for mechanical waves, the speed
+   of sound, is defined by the mechanical properties of the medium. For
+   instance, if one is in an airliner, you can still carry on a
+   conversation with the person beside you because the sound of your words
+   are travelling along with the air inside the aircraft. This effect is
+   basic to all Newtonian dynamics, which says that everything from sound
+   to the trajectory of a thrown baseball should all remain the same in
+   the aircraft as sitting "still" on the Earth. This is the basis of the
+   Galilean transformation, and the concept of "frame of reference".
+
+   But the same was not true for light. Since Maxwell's mathematics
+   demanded a single, universal, speed for the propagation of light, based
+   not on local conditions, but two measured properties that were assumed
+   to be the same throughout the universe. If these numbers did change,
+   there should be noticeable effects in the sky; stars in different
+   directions would have different colors, for instance. Certainly they
+   would remain constant within a small volume, inside the aircraft in our
+   example for instance, which implies that light would not "follow along"
+   with the aircraft (or the Earth) in a fashion similar to sound. Nor
+   could light "change media", for instance, using the atmosphere while
+   near the Earth. It had already been demonstrated that if this were so,
+   the sky would be colored in different directions as the light moved
+   from the still medium of the aether to the moving medium of the Earth's
+   atmosphere, causing diffraction.
+
+   Thus at any point there should be one special coordinate system, "at
+   rest relative to the aether". Maxwell noted in the late 1870s that
+   detecting motion relative to this aether should be easy enough – light
+   travelling "along" with the motion of the Earth would have a different
+   speed than light travelling "backward", as they would both be moving
+   against the unmoving aether. Even if the aether had an overall
+   universal flow, changes in position during the day/night cycle, or over
+   the span of seasons, should allow the "drift" to be detected.
+
+Experiments
+
+   Numerous experiments were carried out in the late 1800s to test for
+   this "aether wind" effect, but most were open to dispute due to low
+   accuracy. Measurements on the speed of propagation were so inaccurate
+   that comparing two speeds to look for a difference was essentially
+   impossible.
+
+   The famous Michelson-Morley experiment instead compared the source
+   light with itself after being sent in different directions, looking for
+   changes in phase in a manner that could be measured with extremely high
+   accuracy. The publication of their result in 1887, the null result, was
+   the first clear demonstration that something was seriously wrong with
+   the "absolute aether" concept. A series of experiments using similar
+   but increasingly sophisticated apparatus all returned the null result
+   as well. A conceptually different experiment that also attempted to
+   detect the motion of the aether was the 1903 Trouton-Noble experiment,
+   which like Michelson-Morley obtained a null result.
+
+   It is important to understand what "null result" means in this context.
+   It does not mean there was no motion detected; rather it means that the
+   results produced by the experiment were not compatible with the
+   assumptions used to devise it. In this case the MM experiment showed a
+   small positive velocity causing a movement of the fringing pattern of
+   about 0.01 of a fringe; however it was too small to demonstrate the
+   expected aether wind effect due to the earth's (seasonally varying)
+   velocity which would have required a shift of 0.4 of a fringe, and the
+   error was small enough that the value may have indeed been zero. More
+   modern experiments have since reduced the possible value to a number
+   very close to zero, about 10^-15.
+
+   These "aether-wind" experiments led to its abandonment by some
+   scientists, and to a flurry of efforts to "save" aether by assigning it
+   ever more complex properties by others. Of particular interest was the
+   possibility of "aether entrainment" or "aether drag", which would lower
+   the magnitude of the measurement, perhaps enough to explain MMX
+   results. However, as noted earlier, aether dragging already had
+   problems of its own, notably aberration. A more direct measurement was
+   made in the Hamar experiment, which ran a complete MM experiment with
+   one of the "legs" placed between two massive lead blocks. If the aether
+   was dragged by mass then this experiment would have been able to detect
+   the drag caused by the lead, but again the null result was found.
+   Similar experiments by Hoek placed one leg in a heavy vat of water. The
+   theory was again modified, this time to suggest that the entrainment
+   only worked for very large masses or those masses with large magnetic
+   fields. This too was shown to be incorrect when Oliver Joseph Lodge
+   noted no such effect around other planets.
+
+   Another, completely different, attempt to save "absolute" aether was
+   made in the Lorentz-Fitzgerald contraction hypothesis, which posited
+   that everything was affected by travel through the aether. In this
+   theory the reason the Michelson-Morley experiment "failed" was that it
+   contracted in length in the direction of travel. That is, the light was
+   being affected in the "natural" manner by its travel though the aether
+   as predicted, but so was the experiment itself, cancelling out any
+   difference when measured. Even Lorentz was not very happy with this
+   suggestion, although it did neatly solve the problem and it was a first
+   step towards relativity theory. Without referral to an ether, this
+   physical interpretation of relativistic effects was shared by Kennedy
+   and Thorndike in 1932 as they concluded that the interferometer's arm
+   contracts and also the frequency of its light source "very nearly"
+   varies in the way required by relativity.
+
+   Another experiment purporting to show effects of an aether was Fizeau's
+   1851 experimental confirmation of Fresnel's 1818 prediction that a
+   medium with refractive index n moving with a velocity v would increase
+   the speed of light traveling through the medium in the same direction
+   as v from c/n to:
+
+          \frac{c}{n} + \left( 1 - \frac{1}{n^2} \right) v
+
+   That is, movement adds only a fraction of the medium's velocity to the
+   light (predicted by Fresnel in order to make Snell's law work in all
+   frames of reference, consistent with stellar aberration). This was
+   initially interpreted to mean that the medium drags the aether along,
+   with a portion of the medium's velocity, but that understanding was
+   rejected after Wilhelm Veltmann demonstrated that the index n in
+   Fresnel's formula depended upon the wavelength of light (so that the
+   aether could not be moving at a wavelength-independent speed). With the
+   advent of special relativity, Fresnel's equation was shown by Laue in
+   1907 to be an approximation, valid for v much smaller than c, for the
+   correct relativistic formula to add the velocities v (medium) and c/n
+   (rest frame):
+
+          \frac{c/n + v}{1 + \frac{v c/n} {c^2}} \approx \frac{c}{n} +
+          \left( 1 - \frac{1}{n^2} \right) v +
+          O\left(\frac{v^2}{c^2}\right).
+
+   Variations on these themes continued for the next 30 years. Positive
+   results were reported by several of the key researchers, including
+   additional experiments by Michelson, Morley and Dayton Miller. Miller
+   reported positive results on several occasions, but of a magnitude that
+   required further modifications to the drag or contraction theories.
+   During the 1920s a slew of increasingly accurate experiments returned
+   the null result, and the positives were generally attributed to
+   experimental errors.
+
+   Other positive results included Sagnac in 1913, and the
+   Michelson-Gale-Pearson experiment in 1925. This effect that is known as
+   Sagnac effect is nowadays used in optical gyroscopes and shows that
+   rotation is similarly "absolute" for light as it is for pendulums.
+   Sagnac regarded this as evidence for the aether
+
+End of aether?
+
+   Aether theory was dealt another blow when the Galilean transformation
+   and Newtonian dynamics were both modified by Albert Einstein's special
+   theory of relativity, giving the mathematics of Lorentzian
+   electrodynamics a new, "non-aether" context. Like most major shifts in
+   scientific thought, the move away from aether theory did not happen
+   immediately but, as experimental evidence built up, and as older
+   scientists left the field and their places were taken by the young, the
+   concept lost adherents.
+
+   Einstein based his special theory on Lorentz's earlier work, but
+   instead of suggesting that the mechanical properties of objects changed
+   with their constant-velocity motion through an aether, he took the
+   somewhat more radical step of suggesting that the math was a general
+   transformation, and that the Galilean transformation was a "special
+   case" that worked only at the low speeds we had studied up to that
+   time. By applying the transformation to all inertial frames of
+   reference, he demonstrated that physics remained invariant as it had
+   with the Galilean transformation, but that light was now invariant as
+   well.
+
+   With the development of special relativity, the need to account for a
+   single universal frame had disappeared -- and aether went along with
+   it, or so it seemed.
+
+   For Einstein the Lorentz transformation implied a radical conceptual
+   change: that the concept of position in space or time was not absolute,
+   but could differ depending on the observer's location and speed. This
+   "oddness" of Einstein's interpretation led to special relativity being
+   considered highly questionable for some time.
+
+   All of this left the problem of light propagation through a vacuum.
+   However, in another paper published the same month, Einstein also made
+   several observations on a then-thorny problem, the photoelectric
+   effect. In this work he demonstrated that light can be considered as
+   particles that have a "wave like nature". Particles obviously do not
+   need a medium to travel, and thus, neither did light. This was the
+   first step that would lead to the full development of quantum
+   mechanics, in which the wave-like nature and the particle-like nature
+   of light are both considered to be simplifications of what is "really
+   happening". A summary of Einstein's thinking about the aether
+   hypothesis, relativity and light quanta may be found in his 1909
+   (originally German) lecture " The Development of Our Views on the
+   Composition and Essence of Radiation"
+
+   Lorentz on his side continued to use the aether concept. In his
+   lectures of around 1911 he pointed out that what "the theory of
+   relativity has to say", "can be carried out independently of what one
+   thinks of the aether and the time". He reminded his audience of the
+   fact that "whether there is an aether or not, electromagnetic fields
+   certainly exist, and so also does the energy of the electrical
+   oscillations" so that, "if we do not like the name of "aether", we must
+   use another word as a peg to hang all these things upon." He concluded
+   that "one cannot deny the bearer of these concepts a certain
+   substantiality".
+
+   Paul Langevin was a strong supporter of special relativity but argued
+   in 1911 that absolute effects from velocity change or acceleration
+   (such as radiation) demonstrate the existence of an aether. As
+   additional illustration he discussed the absolute effect of velocity
+   change on time dilation on two space travelers. This example would
+   later lead to the twin paradox.
+
+   In the meantime Einstein changed his opinion about the aether concept.
+   In a lecture meant for his inauguration at the University of Leiden in
+   1920, Einstein stressed that space is "endowed with physical
+   quantities" He held that general relativity attributed tangible
+   physical properties to space including some kind of medium for light,
+   although not a material one. Shortly before his lecture in Leyden in
+   1920 he admitted in the paper: "Grundgedanken und Methoden der
+   Relativitätstheorie in ihrer Entwicklung dargestellt":
+
+   "Therefore I thought in 1905 that in physics one should not speak of
+   the ether at all. This judgement was too radical though as we shall see
+   with the next considerations about the general theory of relativity. It
+   moreover remains, as before, allowed to assume a space-filling medium
+   if one can refer to electromagnetic fields (and thus also for sure
+   matter) as the condition thereof ".
+
+   Also Michelson, who received the Nobel Prize in physics in 1907 for his
+   optical studies, stated in 1923 that even if relativity is here to stay
+   we don't have to reject the aether. Some other physicists who published
+   their support for modern aether concepts were Herbert Ives, Paul Dirac
+   and Geoffrey Builder.
+
+   Ives was the first to positively measure the effect of speed on clock
+   rates. He wrote in 1940 in a paper in Science:
+
+   "I have considered the popular claim that the ether has been
+   "abolished" [...]. Reverting to experimental findings I have reviewed
+   the experiment of Sagnac, having in mind the claim that the ether can
+   not be detected experimentally. I have asserted that, in the light of
+   the experimentally found variation of clock rate with motion, this
+   experiment does detect the ether."
+
+   G. Builder asserted in a paper of 1958 that "there is therefore no
+   alternative to the ether hypothesis" Professor Sherwin supported in
+   1960 the "philosophical point of view" of Ives and Builder about the
+   aether because of his own conclusion that clocks are "literally slowed
+   down by the speed itself"
+
+   Also Dirac stated in 1951 in an article in Nature, titled "Is there an
+   ether?" that "we are rather forced to have an ether"
+
+   The large majority of scientists disagreed with such views.
+
+Continuing adherents
+
+   Today, the majority of physicists hold that there is no need to imagine
+   that a medium for light propagation exists. They believe that neither
+   Einstein's general theory of relativity nor quantum mechanics have need
+   for it and that there is no evidence for it. As such, a classical
+   aether is an unnecessary addition to physics that violates the
+   principle of Occam's razor.
+
+   Moreover, it is hard to develop an aether theory that is consistent
+   with all experiments of modern physics. Any new theory of aether must
+   be consistent with all of the experiments testing phenomena of special
+   relativity, general relativity, relativistic quantum mechanics, and so
+   on. As outlined earlier, these conditions are often contradictory,
+   making such a task inherently difficult.
+
+   Nevertheless the intuitive appeal of a causal background for
+   "relativistic" effects cannot be denied. Some physicists hold that
+   there remain a number of problems in modern physics that are simplified
+   by an aether concept, so that Occam's razor doesn't apply.
+
+   A very small number of physicists (like Dayton Miller and Edward
+   Morley) continued research on the aether for some time, and
+   occasionally researchers such as Harold Aspden still promote the
+   concept.
+
+   A number of new aether concepts have been proposed in recent years.
+   However, these aethers differ considerably from the classical
+   luminiferous aether.
+
+   In a controversial quantum approach to gravity called loop quantum
+   gravity, spacetime is filled with a structure called the spin foam.
+   Much like aether, it picks a privileged reference frame and is
+   incompatible with Lorentz invariance, a symmetry of special theory of
+   relativity. Its existence therefore potentially disagrees with the
+   Michelson-Morley-like experiments.
+
+   Maurizio Consoli of the Italian National Institute of Nuclear Physics
+   in Catania, Sicily, argues in Physics Letters A (vol 333, p 355) that
+   any Michelson-Morley type of experiment carried out in a vacuum will
+   show no difference in the speed of light even if there is an aether.
+   According to him, electroweak theory and quantum field theory suggest
+   that light could appear to move at different speeds in different
+   directions in a medium such as a dense gas in contradiction with
+   special relativity; the speed of light would be sensitive to motion
+   relative to an ether and the refractive index of the medium. Consoli
+   and Evelina Costanzo propose an experiment with laser light passing
+   through cavities filled with a relatively dense gas. With the Earth
+   passing through an aether wind, light would travel faster in one
+   direction than in the perpendicular direction. Consoli and Constanzo
+   have not run the proposed experiment. The mathematical treatment of
+   their paper does not use the relativistic dragging coefficient to
+   account for the speed of light in a moving medium, and most physicists
+   regard this as an elementary error that leads to their incorrect
+   conclusions. Their paper is very similar to another similarly flawed
+   paper by Reg Cahill ("R.T. Cahill A New Light-Speed Anisotropy
+   Experiment: Absolute Motion and Gravitational Waves Detected, in
+   Progress in Physics, vol 4 , 2006" ), another proponent of an
+   experiment that would detect the elusive "preferential frame". Cahill
+   claims to have detected absolute motion with respect to a preferential
+   frame but his paper suffers from the same mathematical shortcomings as
+   the Consoli-Constanzo paper as well as from lack of experimental error
+   bars in his experimental data processing. Consequently, their research
+   had no impact on the physics community.
+
+Outside the scientific community
+
+   Some adherents of modern geocentrism claim that the Michelson-Morley
+   experiment proves that the Earth is stationary which in turn causes
+   them to explain the universe in terms of an aether or "firmament". Many
+   of these ideas are related to fundamentalist interpretations of
+   Christianity.
+
+Aether concepts
+
+     * Aether theories
+     * Aether (classical element)
+     * Aether drag hypothesis
+
+   Retrieved from " http://en.wikipedia.org/wiki/Luminiferous_aether"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

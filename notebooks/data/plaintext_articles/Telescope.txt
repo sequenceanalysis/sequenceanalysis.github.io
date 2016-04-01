@@ -1,0 +1,312 @@
+   #copyright
+
+Telescope
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   50 cm refracting telescope at Nice Observatory.
+   Enlarge
+   50 cm refracting telescope at Nice Observatory.
+
+   A telescope (from the Greek tele = 'far' and skopein = 'to look or
+   see'; teleskopos = 'far-seeing') is an instrument designed for the
+   observation of remote objects. The term usually refers to optical
+   telescopes, but there are telescopes for most of the spectrum of
+   electromagnetic radiation and for other signal types.
+
+   An optical telescope gathers and focuses visible light and other
+   electromagnetic radiation. Telescopes increase the apparent angular
+   size of distant objects, as well as their apparent brightness.
+   Telescopes work by employing one or more curved optical elements -
+   lenses or mirrors - to gather light or other electromagnetic radiation
+   and bring that light or radiation to a focus, where the image can be
+   observed, photographed or studied. Optical telescopes are used for
+   astronomy and in many non-astronomical instruments including
+   theodolites, transits, spotting scopes, monoculars, binoculars, camera
+   lenses and spyglasses.
+
+   Single-dish Radio telescopes are focusing radio antennae often having a
+   parabolic shape. The dishes are sometimes constructed of a conductive
+   wire mesh whose openings are smaller than a wavelength. Multi-element
+   Radio telescopes are constructed from pairs or larger groups of these
+   dishes to synthesize large "virtual" apertures that are similar in size
+   to the separation between the telescopes: see aperture synthesis. As of
+   2005, the current record array size is many times the width of the
+   Earth, utilizing space-based Very Long Baseline Interferometry (VLBI)
+   telescopes such as the Japanese HALCA (Highly Advanced Laboratory for
+   Communications and Astronomy) VSOP (VLBI Space Observatory Program)
+   satellite. Aperture synthesis is now also being applied to optical
+   telescopes using optical interferometers (arrays of optical telescopes)
+   and Aperture Masking Interferometry at single telescopes.
+
+   X-ray and gamma-ray telescopes have a problem because these rays go
+   through most metals and glasses. They use ring-shaped "glancing"
+   mirrors, made of heavy metals, that reflect the rays just a few
+   degrees. The mirrors are usually a section of a rotated parabola. High
+   energy particle telescopes detect a flux of particles, usually
+   originating at an astronomical source.
+
+History
+
+   A group of Newtonian Telescopes at Perkins Observatory, Delaware, Ohio
+   Enlarge
+   A group of Newtonian Telescopes at Perkins Observatory, Delaware, Ohio
+   A replica of the first telescope built and used by Galileo, on display
+   at the Griffith Observatory
+   Enlarge
+   A replica of the first telescope built and used by Galileo, on display
+   at the Griffith Observatory
+
+   The first telescopes may have been Assyrian crystal lenses , but the
+   Visby lenses tentatively suggest that the technology was known to the
+   Arabs and Persians. Leonard Digges is sometimes credited with the
+   invention in England in the 1570s, but usually credit for assembling
+   the first telescope is given to an unknown Dutch spectacle maker in
+   about 1608. Some name that person as Hans Lippershey (c. 1570 – c.
+   1619), but Jacob Metius and Zacharias Jansen also claimed to have
+   invented a telescope during the same period. Even if Lippershey did not
+   make the first one, he publicized it. Galileo Galilei made his own
+   telescope in 1609, calling it at first a "perspicillum," and then using
+   the terms "telescopium" in Latin and "telescopio" in Italian (from
+   which the English word derives). Galileo is generally credited with
+   being the first to use a telescope for astronomical purposes. Galileo's
+   telescope consisted of a convex object lens and a concave eye lens,
+   which is universally called a Galilean telescope (used as a viewfinder
+   in many simple cameras). Later, Johannes Kepler described the optics of
+   lenses (see his books Astronomiae Pars Optica and Dioptrice), including
+   a new kind of astronomical telescope with two convex lenses (a
+   principle often called the Kepler telescope). Optical interferometer
+   arrays and arrays of radio telescopes were developed much more
+   recently.
+
+Types of telescope
+
+   Telescopes are frequently characterised by their design details, and
+   usually named after the principal designer or designers of that type of
+   telescope. For optical telescopes, especially optical astronomical
+   telescopes, there are three main types:
+     * The refracting telescope which uses solely an arrangement of
+       lenses.
+     * The reflecting telescope which uses solely an arrangement of
+       mirrors.
+     * The catadioptric telescope which uses a combination of mirrors and
+       lenses.
+
+   Where the telescope is used for direct viewing by the human eye, then
+   very few telescopes are pure reflectors, as it is usual to use an
+   eyepiece to view the image, and most, if not all eyepiece design use an
+   arrangement of lenses. Much astronomy is performed using photographic
+   film or digital sensors which are usually used without an eyepiece, so
+   for mechanised operation more telescopes are used as pure reflectors.
+
+   For more details see List of telescope types
+
+Research telescopes
+
+   Harlan J. Smith Telescope at McDonald Observatory, TX
+   Enlarge
+   Harlan J. Smith Telescope at McDonald Observatory, TX
+
+   Most large research telescopes can operate as either a Cassegrain
+   telescope (longer focal length, and a narrower field with higher
+   magnification) or a Newtonian telescope (brighter field). They have a
+   pierced primary mirror, a Newtonian focus, and a spider to mount a
+   variety of replaceable secondary mirrors.
+
+   A new era of telescope making was inaugurated by the Multiple Mirror
+   Telescope (MMT), with a mirror composed of six segments synthesizing a
+   mirror of 4.5 meters diameter. This has now been replaced by a single
+   6.5m mirror. Its example was followed by the Keck telescopes with 10 m
+   segmented mirrors.
+
+   The largest current ground-based telescopes have a primary mirror of
+   between 6 and 11 meters in diameter. In this generation of telescopes,
+   the mirror is usually very thin, and is kept in an optimal shape by an
+   array of actuators (see active optics). This technology has driven new
+   designs for future telescopes with diameters of 30, 50 and even 100
+   meters.
+
+   Relatively cheap, mass-produced ~2 meter telescopes have recently been
+   developed and have made a significant impact on astronomy research.
+   These allow many astronomical targets to be monitored continuously, and
+   for large areas of sky to be surveyed. Many are robotic telescopes,
+   computer controlled over the internet (see e.g. the Liverpool Telescope
+   and the Faulkes Telescope North and South), allowing automated
+   follow-up of astronomical events.
+
+   Initially the detector used in telescopes was the human eye. Later, the
+   sensitized photographic plate took its place, and the spectrograph was
+   introduced, allowing the gathering of spectral information. After the
+   photographic plate, successive generations of electronic detectors,
+   such as the charge-coupled device (CCDs), have been perfected, each
+   with more sensitivity and resolution, and often with a wider wavelength
+   coverage.
+
+   Current research telescopes have several instruments to choose from
+   such as:
+     * imagers, of different spectral responses
+     * spectrographs, useful in different regions of the spectrum
+     * polarimeters, that detect light polarization.
+
+   In recent years, some technologies to overcome the distortions caused
+   by atmosphere on ground-based telescopes were developed, with good
+   results. See adaptive optics, speckle imaging and optical
+   interferometry.
+
+   The phenomenon of optical diffraction sets a limit to the resolution
+   and image quality that a telescope can achieve, which is the effective
+   area of the Airy disc, which limits how close two such discs can be
+   placed. This absolute limit is called the diffraction limit (or
+   sometimes the Rayleigh criterion, Dawes limit or Sparrow's resolution
+   limit). This limit depends on the wavelength of the studied light (so
+   that the limit for red light comes much earlier than the limit for blue
+   light) and on the diameter of the telescope mirror. This means that a
+   telescope with a certain mirror diameter can resolve up to a certain
+   limit at a certain wavelength. If greater resolution is needed at that
+   wavelength, a wider mirror has to be built or aperture synthesis
+   performed using an array of nearby telescopes.
+
+Imperfect images
+
+   No telescope can form a perfect image. Even if a reflecting telescope
+   could have a perfect mirror, or a refracting telescope could have a
+   perfect lens, the effects of aperture diffraction could still not be
+   escaped. In reality, perfect mirrors and perfect lenses do not exist,
+   so image aberrations in addition to aperture diffraction must be taken
+   into account. Image aberrations can be broken down into two main
+   classes, monochromatic, and polychromatic. In 1857, Philipp Ludwig von
+   Seidel (1821-1896) decomposed the first order monochromatic aberrations
+   into five constituent aberrations. They are now commonly referred to as
+   the five Seidel Aberrations.
+
+The five Seidel aberrations
+
+   Spherical aberration
+          The difference in focal length between paraxial rays and
+          marginal rays, proportional to the square of the aperture.
+
+   Coma
+          A most objectionable defect by which points are imaged as
+          comet-like asymmetrical patches of light with tails, which makes
+          measurement very imprecise. Its magnitude is usually deduced
+          from the optical sine theorem.
+
+   Astigmatism
+          The image of a point forms focal lines at the sagittal and
+          tangiental foci and in between (in the absence of coma) an
+          elliptical shape.
+
+   Curvature of Field
+          The Petzval curvature means that the image instead of lying in a
+          plane actually lies on a curved surface which is described as
+          hollow or round. This causes problems when a flat imaging device
+          is used e.g. a photographic plate or CCD image sensor.
+
+   Distortion
+          Either barrel or pincushion, a radial distortion which must be
+          corrected for if multiple images are to be combined (similar to
+          stitching multiple photos into a panoramic photo).
+
+   They are always listed in the above order since this expresses their
+   interdependence as first order aberrations via moves of the
+   exit/entrance pupils. The first Seidel aberration, Spherical
+   Aberration, is independent of the position of the exit pupil (as it is
+   the same for axial and extra-axial pencils). The second, coma, changes
+   as a function of pupil distance and spherical aberration, hence the
+   well-known result that it is impossible to correct the coma in a lens
+   free of spherical aberration by simply moving the pupil. Similar
+   dependencies affect the remaining aberrations in the list.
+
+The chromatic aberrations
+
+   Longitudinal Chromatic Aberration
+          As with spherical aberration this is the same for axial and
+          oblique pencils.
+
+   Transverse Chromatic Aberration (Chromatic Aberration of Magnification)
+
+Famous optical telescopes
+
+   The Hubble Space Telescope orbits above Earth.
+   Enlarge
+   The Hubble Space Telescope orbits above Earth.
+     * The Hubble Space Telescope is in orbit beyond Earth's atmosphere to
+       allow for observations not distorted by astronomical seeing. In
+       this way the images can be diffraction limited, and used for
+       coverage in the ultraviolet (UV) and infrared.
+     * The Keck telescopes are currently ( as of 2005) the largest, but
+       will soon be superseded by the Gran Telescopio Canarias and
+       Southern African Large Telescope.
+     * The Very Large Telescope array (VLT) is currently ( as of 2002) the
+       record holder for total collecting area in an array of telescopes,
+       with four telescopes each 8 meters in diameter. The four
+       telescopes, belonging to the European Southern Observatory (ESO)
+       and located in the Atacama desert in Chile, are usually operated
+       independently for faint astronomical observations, but up to three
+       telescopes can be operated together for aperture synthesis
+       observations of bright objects.
+     * The Navy Prototype Optical Interferometer is the optical telescope
+       (array) that can currently ( as of 2005) produce the highest
+       resolution images at visible wavelengths.
+     * The CHARA (Centre for High Angular Resolution Astronomy) array is
+       the telescope array that can currently ( as of 2005) produce the
+       highest resolution images at near-infrared wavelengths.
+     * There are many plans for even larger telescopes. One of them is the
+       Overwhelmingly Large Telescope (OWL), which is intended to have a
+       single aperture of 100 meters in diameter.
+     * The 200-inch (5.08-meter) Hale telescope on Palomar Mountain was
+       the largest conventional research telescope for many years. It has
+       a single borosilicate ( Pyrex™) mirror that was famously difficult
+       to construct. The mounting is a special design of equatorial mount
+       called a yoke mount, which permits the telescope to be pointed at
+       and near the north celestial pole.
+     * The 100-inch (2.54-meter) Hooker Telescope at the Mount Wilson
+       Observatory was used by Edwin Hubble to discover galaxies and the
+       redshift. The mirror was made of green glass by Saint-Gobain. In
+       1919, the telescope was used for the first stellar diameter
+       measurements using interferometry. The telescope now has an
+       adaptive optics system, and is still useful for advanced research.
+     * The 72-inch Leviathan at Birr Castle (in Ireland) was the largest
+       telescope in the world from 1845 until it was dismanlted in 1908.
+       It was not exceeded in size until the construction of the Hooker
+       Telescope.
+     * The 1.02-meter Yerkes Telescope (in Wisconsin) is the largest
+       aimable refracting telescope in use.
+     * The 0.76-meter Nice refractor (in France) that became operational
+       in 1888 was at that time the world's largest refractor. This was
+       the last time the most powerful operational telescope in the world
+       was located in Europe. It was exceeded in size one year later by
+       the 0.91-meter refractor at the Lick Observatory.
+     * The largest refractor ever constructed was French. It was on
+       display at the 1900 Paris Exposition. Its lens was stationary,
+       prefigured so as to sag into the correct shape. The telescope was
+       aimed by the aid of a Foucault sidérostat, which is a movable plane
+       mirror with a 2-meter diameter, mounted in a large cast-iron frame.
+       The horizontal tube was 60 m long and the objective had 1.25 m in
+       diameter. It was a failure.
+     * The Gran Telescopio CANARIAS ( Grantecan, also GTC), is a high
+       performance segmented 10.4 meter telescope that is being installed
+       in one of the best sites of the Northern Hemisphere: the Roque de
+       los Muchachos Observatory (La Palma, Canary Islands, Spain).
+     * The 1-meter refracting Swedish Solar Telescope (SST) on La Palma
+       (Spain), is currently the highest-resolution solar telescope in the
+       world.
+
+Other famous telescopes
+
+     * Arecibo Observatory
+     * Atacama Large Millimeter Array
+     * Very Large Array
+     * Chandra X-ray Observatory
+     * XMM-Newton
+     * LIGO
+     * IceCube Neutrino Detector
+     * Isaac Newton Telescope
+     * William Herschel Telescope
+     * Hexapod-Telescope
+
+   Retrieved from " http://en.wikipedia.org/wiki/Telescope"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,515 @@
+   #copyright
+
+ASCII
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   There are 95 printable ASCII characters, numbered 32 to 126.
+   There are 95 printable ASCII characters, numbered 32 to 126.
+
+   ASCII (American Standard Code for Information Interchange), generally
+   pronounced [ˈæski], is a character encoding based on the English
+   alphabet. ASCII codes represent text in computers, communications
+   equipment, and other devices that work with text. Most modern character
+   encodings—which support many more characters—have a historical basis in
+   ASCII.
+
+   ASCII was first published as a standard in 1967 and was last updated in
+   1986. It currently defines codes for 128 characters. 33 are
+   non-printing, mostly obsolete control characters that affect how text
+   is processed, and the other 95 printable characters are as follows
+   (starting with the space character):
+ !"#$%&'()*+,-./0123456789:;<=>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+`abcdefghijklmnopqrstuvwxyz{|}~
+
+Overview
+
+   Like other character representation computer codes, ASCII specifies a
+   correspondence between digital bit patterns and the symbols/ glyphs of
+   a written language, thus allowing digital devices to communicate with
+   each other and to process, store, and communicate character-oriented
+   information. The ASCII character encoding — or a compatible extension
+   (see below) — is used on nearly all common computers, especially
+   personal computers and workstations. The preferred MIME name for this
+   encoding is "US-ASCII".
+
+   ASCII is, strictly, a seven- bit code, meaning that it uses the bit
+   patterns representable with seven binary digits (a range of 0 to 127
+   decimal) to represent character information. At the time ASCII was
+   introduced, many computers dealt with eight-bit groups ( bytes or, more
+   specifically, octets) as the smallest unit of information; the eighth
+   bit was commonly used as a parity bit for error checking on
+   communication lines or other device-specific functions. Machines which
+   did not use parity typically set the eighth bit to zero, though some
+   systems such as Prime machines running PRIMOS set the eighth bit of
+   ASCII characters to one.
+
+   ASCII only defines a relationship between specific characters and bit
+   sequences; aside from reserving a few control codes for line-oriented
+   formatting, it does not define any mechanism for describing the
+   structure or appearance of text within a document. Such concepts are
+   within the realm of other systems such as the markup languages.
+
+History
+
+   ASCII developed from telegraphic codes and first entered commercial use
+   as a seven-bit teleprinter code promoted by Bell data services in 1963.
+   The Bell System had previously planned to use a six-bit code, derived
+   from Fieldata, that added punctuation and lower-case letters to the
+   earlier five-bit Baudot teleprinter code, but was persuaded instead to
+   join the ASA subcommittee that had started to develop ASCII. Baudot
+   helped in the automation of sending and receiving telegraphic messages,
+   and took many features from Morse code; however, unlike Morse code,
+   Baudot used constant-length codes. Compared to earlier telegraph codes,
+   the proposed Bell code and ASCII both underwent re-ordering for more
+   convenient sorting (especially alphabetization) of lists, and added
+   features for devices other than teleprinters. Bob Bemer introduced
+   features such as the ' escape sequence'. His British colleague Hugh
+   McGregor Ross helped to popularize this work, as Bemer said, "so much
+   so that the code that was to become ASCII was first called the
+   Bemer-Ross Code in Europe".
+
+   The American Standards Association (ASA, later to become ANSI) first
+   published ASCII as a standard in 1963. ASCII-1963 lacked the lowercase
+   letters, and had an up-arrow (↑) instead of the caret (^) and a
+   left-arrow (←) instead of the underscore (_). The 1967 version added
+   the lowercase letters, changed the names of a few control characters
+   and moved the two controls ACK and ESC from the lowercase letters area
+   into the control codes area.
+
+   ASCII was subsequently updated and published as ANSI X3.4-1968, ANSI
+   X3.4-1977, and finally, ANSI X3.4-1986.
+
+   Other international standards bodies have ratified character encodings
+   that are identical or nearly identical to ASCII. These encodings are
+   sometimes referred to as ASCII, even though ASCII is strictly defined
+   only by the ASA/ANSI standards:
+     * The European Computer Manufacturers Association published editions
+       of its ASCII clone, ECMA-6, in 1965, 1967, 1970, 1973, 1983, and
+       1991. The 1991 edition is the same as ANSI X3.4-1986.
+     * The International Organization for Standardization published its
+       version, ISO 646 (later ISO/IEC 646) in 1967, 1972, 1983, and 1991.
+       ISO 646:1972, in particular, established a set of country-specific
+       versions with punctuation characters replaced with non-English
+       letters. ISO/IEC 646:1991 International Reference Version is the
+       same as ANSI X3.4-1986.
+     * The International Telecommunication Union published its version of
+       ANSI X3.4-1986, ITU-T Recommendation T.50, in 1992. In the early
+       1970s, under the name CCITT, the same organization published a
+       version as CCITT Recommendation V.3.
+     * DIN published a version of ASCII as DIN 66003 in 1974.
+     * The IETF published a version in 1969 as RFC 20, and established the
+       Internet's standard version, based on ANSI X3.4-1986, with the
+       publication of RFC 1345 in 1992.
+     * IBM's version of ANSI X3.4-1986 is published in IBM technical
+       literature as Code page 367.
+
+   ASCII has also become embedded in its probable replacement, Unicode, as
+   the 'lowest' 128 characters. In terms of mere adoption, ASCII is one of
+   the most successful software standards ever.
+
+ASCII control characters
+
+   ASCII reserves the first 32 codes (numbers 0–31 decimal) for control
+   characters: codes originally intended not to carry printable
+   information, but rather to control devices (such as printers) that make
+   use of ASCII, or to provide meta-information about data streams such as
+   those stored on magnetic tape. For example, character 10 represents the
+   "line feed" function (which causes a printer to advance its paper), and
+   character 8 represents "backspace".
+    Binary   Oct Dec Hex Abbr PR^ CS^ CEC^         Description
+   0000 0000 000 0   00  NUL  ␀   ^@  \0   Null character
+   0000 0001 001 1   01  SOH  ␁   ^A       Start of Header
+   0000 0010 002 2   02  STX  ␂   ^B       Start of Text
+   0000 0011 003 3   03  ETX  ␃   ^C       End of Text
+   0000 0100 004 4   04  EOT  ␄   ^D       End of Transmission
+   0000 0101 005 5   05  ENQ  ␅   ^E       Enquiry
+   0000 0110 006 6   06  ACK  ␆   ^F       Acknowledgment
+   0000 0111 007 7   07  BEL  ␇   ^G  \a   Bell
+   0000 1000 010 8   08  BS   ␈   ^H  \b   Backspace^^
+   0000 1001 011 9   09  HT   ␉   ^I  \t   Horizontal Tab
+   0000 1010 012 10  0A  LF   ␊   ^J  \n   Line feed
+   0000 1011 013 11  0B  VT   ␋   ^K  \v   Vertical Tab
+   0000 1100 014 12  0C  FF   ␌   ^L  \f   Form feed
+   0000 1101 015 13  0D  CR   ␍   ^M  \r   Carriage return^
+   0000 1110 016 14  0E  SO   ␎   ^N       Shift Out
+   0000 1111 017 15  0F  SI   ␏   ^O       Shift In
+   0001 0000 020 16  10  DLE  ␐   ^P       Data Link Escape
+   0001 0001 021 17  11  DC1  ␑   ^Q       Device Control 1 (oft. XON)
+   0001 0010 022 18  12  DC2  ␒   ^R       Device Control 2
+   0001 0011 023 19  13  DC3  ␓   ^S       Device Control 3 (oft. XOFF)
+   0001 0100 024 20  14  DC4  ␔   ^T       Device Control 4
+   0001 0101 025 21  15  NAK  ␕   ^U       Negative Acknowledgement
+   0001 0110 026 22  16  SYN  ␖   ^V       Synchronous Idle
+   0001 0111 027 23  17  ETB  ␗   ^W       End of Trans. Block
+   0001 1000 030 24  18  CAN  ␘   ^X       Cancel
+   0001 1001 031 25  19  EM   ␙   ^Y       End of Medium
+   0001 1010 032 26  1A  SUB  ␚   ^Z       Substitute
+   0001 1011 033 27  1B  ESC  ␛   ^[  \e   Escape^
+   0001 1100 034 28  1C  FS   ␜   ^\       File Separator
+   0001 1101 035 29  1D  GS   ␝   ^]       Group Separator
+   0001 1110 036 30  1E  RS   ␞   ^^       Record Separator
+   0001 1111 037 31  1F  US   ␟   ^_       Unit Separator
+   0111 1111 177 127 7F  DEL  ␡   ^?  \?   Delete^^
+    1. Printable Representation, the Unicode characters reserved for
+       representing control characters when it is necessary to print or
+       display them rather than have them perform their intended function.
+       Some browsers may not display these properly.
+    2. Control key Sequence, the traditional key sequences for inputting
+       control characters. The caret (^) represents the "Control" or
+       "Ctrl" key that must be held down while pressing the second key in
+       the sequence. The caret-key representation is also used by some
+       software to represent control characters.
+    3. Character Escape Codes in C programming language and many other
+       languages influenced by it, such as Java and Perl.
+    4. The Backspace character can also be entered by pressing the
+       "Backspace", "Bksp", or ← key on some systems.
+    5. The Delete character can also be entered by pressing the "Delete"
+       or "Del" key. It can also be entered by pressing the "Backspace",
+       "Bksp", or ← key on some systems.
+    6. The Escape character can also be entered by pressing the "Escape"
+       or "Esc" key on some systems.
+    7. The Carriage Return character can also be entered by pressing the
+       "Return", "Ret", "Enter", or ↵ key on most systems.
+    8. The ambiguity surrounding Backspace comes from mismatches between
+       the intent of the human or software transmitting the Backspace and
+       the interpretation by the software receiving it. If the transmitter
+       expects Backspace to erase the previous character and the receiver
+       expects Delete to be used to erase the previous character, many
+       receivers will echo the Backspace as "^H", just as they would echo
+       any other uninterpreted control character. (A similar mismatch in
+       the other direction may yield Delete displayed as "^?".) "^H"
+       persists in messages today as a deliberate humorous device — for
+       example, "there's a sucker^H^H^H^H^H^Hpotential customer born every
+       minute". A less common variant of this involves the use of "^W",
+       which in some user interfaces means "delete previous word". The
+       example sentence would therefore also work as "there's a sucker^W
+       potential customer born every minute".
+
+   The original ASCII standard used only short descriptive phrases for
+   each control character. The ambiguity this left was sometimes
+   intentional (where a character would be used slightly differently on a
+   terminal link than on a data stream) and sometimes more accidental
+   (such as what "delete" means).
+
+   Probably the most influential single device on the interpretation of
+   these characters was the Teletype corporation model 33 series, which
+   was a printing terminal with an available paper tape reader/punch
+   option. Paper tape was a very popular medium for long-term program
+   storage up through the 1980s, lower cost and in some ways less fragile
+   than magnetic tape. In particular, the Teletype 33 machine assignments
+   for codes 17 (Control-Q, DC1, also known as XON), 19 (Control-S, DC3,
+   also known as XOFF), and 127 (DELete) became de-facto standards. Its
+   noncompliant use of code 15 (Control-O, Shift In) as "left arrow",
+   usually interpreted as "delete previous character" was also adopted by
+   many early timesharing systems but eventually faded out.
+
+   The use of Control-S (XOFF, an abbreviation for "transmit off") as a
+   handshaking signal warning a sender to stop transmission because of
+   impending overflow, and Control-Q (XON, "transmit on") to resume
+   sending, persists to this day in many systems as a manual output
+   control technique. On some systems Control-S retains its meaning but
+   Control-Q is replaced by a second Control-S to resume output.
+
+   Code 127 is officially named "delete" but the Teletype label was
+   "rubout". Since the original standard gave no detailed interpretation
+   for most control codes, interpretations of this code varied. The
+   original Teletype meaning was to make it an ignored character, the same
+   as NUL (all zeroes). This was specifically useful for paper tape,
+   because punching the all-ones bit pattern on top of an existing mark
+   would obliterate it. Tapes designed to be "hand edited" could even be
+   produced with spaces of extra NULs (blank tape) so that a block of
+   characters could be "rubbed out" and then replacements put into the
+   empty space.
+
+   As video terminals began to replace printing ones, the value of the
+   "rubout" character was lost. Unix systems, for example, interpreted
+   "Delete" to mean "remove the character before the cursor". Most other
+   systems used "Backspace" for that meaning and used "Delete" to mean
+   "remove the character after the cursor". That latter interpretation is
+   the most common today.
+
+   Many more of the control codes have taken on meanings quite different
+   from their original ones. The "escape" character (code 27), for
+   example, was originally intended to allow sending other control
+   characters as literals instead of invoking their meaning. This is the
+   same meaning of "escape" encountered in URL encodings, C language
+   strings, and other systems where certain characters have a reserved
+   meaning. Over time this meaning has been coopted and has eventually
+   drifted. In modern use, an ESC sent to the terminal usually indicates
+   the start of a command sequence, usually in the form of an ANSI escape
+   code. An ESC sent from the terminal is most often used as an "out of
+   band" character used to terminate an operation, as in the TECO and vi
+   text editors.
+
+   The inherent ambiguity of many control characters, combined with their
+   historical usage, has also created problems when transferring "plain
+   text" files between systems. The clearest example of this is the
+   newline problem on various operating systems. On printing terminals
+   there is no question that you terminate a line of text with both
+   "Carriage Return" and "Linefeed". The first returns the printing
+   carriage to the beginning of the line and the second advances to the
+   next line without moving the carriage. However, requiring two
+   characters to mark the end of a line introduced unnecessary complexity
+   and questions as to how to interpret each character when encountered
+   alone. To simplify matters, plain text files on Unix systems use line
+   feeds alone to separate lines. Similarly, older Macintosh systems,
+   among others, use only carriage returns in plain text files. Various
+   DEC operating systems used both characters to mark the end of a line,
+   perhaps for compatibility with teletypes, and this de facto standard
+   was copied in the CP/M operating system and then in MS-DOS and
+   eventually Microsoft Windows. The DEC operating systems, along with
+   CP/M, tracked file length only in units of disk blocks and used
+   Control-Z (SUB) to mark the end of the actual text in the file (also
+   done for CP/M compatibility in some cases in MS-DOS, though MS-DOS has
+   always recorded exact file-lengths). Control-C (ETX, End of TeXt) might
+   have made more sense, but was already in wide use as a program abort
+   signal. UNIX's use of Control-D (EOT, End of Transmission) appears on
+   its face similar, but is used only from the terminal and never stored
+   in a file.
+
+   While the codes mentioned above have retained some semblance of their
+   original meanings, many of the codes originally intended for stream
+   delimiters or for link control on a terminal have lost all meaning
+   except their relation to a letter. Control-A is almost never used to
+   mean "start of header" except on an ANSI magnetic tape. When connecting
+   a terminal to a system, or asking the system to recognize that a
+   logged-out terminal wants to log in, modern systems are much more
+   likely to want a carriage return or an ESCape than Control-E (ENQuire,
+   meaning "is there anybody out there?").
+
+ASCII printable characters
+
+   Code 32, the "space" character, denotes the space between words, as
+   produced by the large space-bar of a keyboard. Codes 33 to 126, known
+   as the printable characters, represent letters, digits, punctuation
+   marks, and a few miscellaneous symbols.
+
+   Seven-bit ASCII provided seven "national" characters and, if the
+   combined hardware and software permit, can use overstrikes to simulate
+   some additional international characters: in such a scenario a
+   backspace can precede a grave accent (which the American and British
+   standards, but only those standards, also call "opening single
+   quotation mark"), a backtick, or a breath mark (inverted vel).
+
+    Binary   Dec Hex Glyph
+   0010 0000 32  20  SP
+   0010 0001 33  21  !
+   0010 0010 34  22  "
+   0010 0011 35  23  #
+   0010 0100 36  24  $
+   0010 0101 37  25  %
+   0010 0110 38  26  &
+   0010 0111 39  27  '
+   0010 1000 40  28  (
+   0010 1001 41  29  )
+   0010 1010 42  2A  *
+   0010 1011 43  2B  +
+   0010 1100 44  2C  ,
+   0010 1101 45  2D  -
+   0010 1110 46  2E  .
+   0010 1111 47  2F  /
+   0011 0000 48  30  0
+   0011 0001 49  31  1
+   0011 0010 50  32  2
+   0011 0011 51  33  3
+   0011 0100 52  34  4
+   0011 0101 53  35  5
+   0011 0110 54  36  6
+   0011 0111 55  37  7
+   0011 1000 56  38  8
+   0011 1001 57  39  9
+   0011 1010 58  3A  :
+   0011 1011 59  3B  ;
+   0011 1100 60  3C  <
+   0011 1101 61  3D  =
+   0011 1110 62  3E  >
+   0011 1111 63  3F  ?
+
+                           Binary   Dec Hex Glyph
+                          0100 0000 64  40  @
+                          0100 0001 65  41  A
+                          0100 0010 66  42  B
+                          0100 0011 67  43  C
+                          0100 0100 68  44  D
+                          0100 0101 69  45  E
+                          0100 0110 70  46  F
+                          0100 0111 71  47  G
+                          0100 1000 72  48  H
+                          0100 1001 73  49  I
+                          0100 1010 74  4A  J
+                          0100 1011 75  4B  K
+                          0100 1100 76  4C  L
+                          0100 1101 77  4D  M
+                          0100 1110 78  4E  N
+                          0100 1111 79  4F  O
+                          0101 0000 80  50  P
+                          0101 0001 81  51  Q
+                          0101 0010 82  52  R
+                          0101 0011 83  53  S
+                          0101 0100 84  54  T
+                          0101 0101 85  55  U
+                          0101 0110 86  56  V
+                          0101 0111 87  57  W
+                          0101 1000 88  58  X
+                          0101 1001 89  59  Y
+                          0101 1010 90  5A  Z
+                          0101 1011 91  5B  [
+                          0101 1100 92  5C  \
+                          0101 1101 93  5D  ]
+                          0101 1110 94  5E  ^
+                          0101 1111 95  5F  _
+
+                                                  Binary   Dec Hex Glyph
+                                                 0110 0000 96  60  `
+                                                 0110 0001 97  61  a
+                                                 0110 0010 98  62  b
+                                                 0110 0011 99  63  c
+                                                 0110 0100 100 64  d
+                                                 0110 0101 101 65  e
+                                                 0110 0110 102 66  f
+                                                 0110 0111 103 67  g
+                                                 0110 1000 104 68  h
+                                                 0110 1001 105 69  i
+                                                 0110 1010 106 6A  j
+                                                 0110 1011 107 6B  k
+                                                 0110 1100 108 6C  l
+                                                 0110 1101 109 6D  m
+                                                 0110 1110 110 6E  n
+                                                 0110 1111 111 6F  o
+                                                 0111 0000 112 70  p
+                                                 0111 0001 113 71  q
+                                                 0111 0010 114 72  r
+                                                 0111 0011 115 73  s
+                                                 0111 0100 116 74  t
+                                                 0111 0101 117 75  u
+                                                 0111 0110 118 76  v
+                                                 0111 0111 119 77  w
+                                                 0111 1000 120 78  x
+                                                 0111 1001 121 79  y
+                                                 0111 1010 122 7A  z
+                                                 0111 1011 123 7B  {
+                                                 0111 1100 124 7C  |
+                                                 0111 1101 125 7D  }
+                                                 0111 1110 126 7E  ~
+
+Structural features
+
+     * The digits 0-9 are represented with their values in binary prefixed
+       with 0011 (this means that converting BCD to ASCII is simply a
+       matter of taking each BCD nibble separately and prefixing 0011 to
+       it).
+     * Lowercase and uppercase letters only differ in bit pattern by a
+       single bit simplifying case conversion to a range test (to avoid
+       converting characters that are not letters) and a single bitwise
+       operation. Fast case conversion is important because it is often
+       used in case-ignoring search algorithms.
+
+Aliases for ASCII
+
+   RFC 1345 (published in June 1992) and the IANA registry of character
+   sets (ongoing), both recognize the following case-insensitive aliases
+   for ASCII as suitable for use on the Internet:
+     * ANSI_X3.4-1968 (canonical name)
+     * ANSI_X3.4-1986
+     * ASCII (with ASCII-7 and ASCII-8 variants)
+     * US-ASCII (preferred MIME name)
+     * us
+     * ISO646-US
+     * ISO_646.irv:1991
+     * iso-ir-6
+     * IBM367
+     * cp367
+     * csASCII
+
+   Of these, only the aliases "US-ASCII" and "ASCII" have achieved
+   widespread use. One often finds them in the optional "charset"
+   parameter in the Content-Type header of some MIME messages, in the
+   equivalent "meta" element of some HTML documents, and in the encoding
+   declaration part of the prolog of some XML documents.
+
+Variants of ASCII
+
+   As computer technology spread throughout the world, different standards
+   bodies and corporations developed many variations of ASCII in order to
+   facilitate the expression of non-English languages that used
+   Roman-based alphabets. One could class some of these variations as
+   "ASCII extensions", although some mis-apply that term to cover all
+   variants, including those that do not preserve ASCII's character-map in
+   the 7-bit range.
+
+   The PETSCII Code used by Commodore International for their 8-bit
+   systems is probably unique among post-1970 codes in being based on
+   ASCII-1963 instead of the far more common ASCII-1967.
+
+Incompatability vs Interoperability
+
+   ISO 646 (1972), the first attempt to remedy the pro-English-language
+   bias, created compatibility problems, since it remained a 7-bit
+   character-set. It made no additional codes available, so it reassigned
+   some in language-specific variants. It thus became impossible to know
+   what character a code represented without knowing which variant to work
+   with, and text-processing systems could generally cope with only one
+   variant anyway.
+
+   Eventually, improved technology brought out-of-band means to represent
+   the information formerly encoded in the eighth bit of each byte,
+   freeing this bit to add another 128 additional character-codes for new
+   assignments.
+
+   For example, IBM developed 8-bit code pages, such as code page 437,
+   which replaced the control-characters with graphic symbols such as
+   smiley faces, and mapped additional graphic characters to the upper 128
+   positions. Operating systems such as DOS supported these code-pages,
+   and manufacturers of IBM PCs supported them in hardware. Digital
+   Equipment Corporation developed the Multinational Character Set
+   (DEC-MCS) for use in the popular VT220 terminal.
+
+   Eight-bit standards such as ISO/IEC 8859 (derived from the DEC-MCS) and
+   Mac OS Roman developed as true extensions of ASCII, leaving the
+   original character-mapping intact and just adding additional values
+   above the 7-bit range.
+
+   This enabled the representation of a broader range of languages, but
+   these standards continued to suffer from incompatibilities and
+   limitations. Still, ISO-8859-1, its variant Windows-1252 (often
+   mislabeled as ISO-8859-1 even by Microsoft software) and original 7-bit
+   ASCII remain the most common character encodings in use today.
+
+The Unicode fix
+
+   Unicode and the ISO/IEC 10646 Universal Character Set (UCS) have a much
+   wider array of characters, and their various encoding forms have begun
+   to supplant ISO/IEC 8859 and ASCII rapidly in many environments. While
+   ASCII basically uses 7-bit codes, Unicode and the UCS use relatively
+   abstract "code points": non-negative integer numbers that map, using
+   different encoding forms and schemes, to sequences of one or more 8-bit
+   bytes. To permit backward compatibility, Unicode and the UCS assign the
+   first 128 code points to the same characters as ASCII. One can
+   therefore think of ASCII as a 7-bit encoding scheme for a very small
+   subset of Unicode and of the UCS.
+
+   The popular UTF-8 (and UTF-7) encoding-form prescribes the use of one
+   to four 8-bit code values for each code point character, and equates
+   exactly to ASCII for the code values below 128. Other encoding forms
+   such as UTF-16 resemble ASCII in how they represent the first 128
+   characters of Unicode, but tend to use 16 or 32 bits per character, so
+   they require conversion for compatibility.
+
+   The blend word ASCIIbetical has evolved to describe the collation of
+   data in ASCII-code order rather than "standard" alphabetical order.
+
+   The abbreviation ASCIIZ or ASCIZ refers to a null-terminated ASCII
+   string.
+
+Trivia
+
+   Asteroid 3568 ASCII is named after the character encoding.
+
+   Retrieved from " http://en.wikipedia.org/wiki/ASCII"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

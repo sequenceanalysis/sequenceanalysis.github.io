@@ -1,0 +1,685 @@
+   #copyright
+
+Entropy
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Ice melting - classic example of entropy increasing described in 1862
+   by Rudolf Clausius as an increase in the disgregation of the molecules
+   of the body of ice.
+   Enlarge
+   Ice melting - classic example of entropy increasing described in 1862
+   by Rudolf Clausius as an increase in the disgregation of the molecules
+   of the body of ice.
+
+   The concept of entropy in thermodynamics is central to the second law
+   of thermodynamics, which deals with physical processes and whether they
+   occur spontaneously. Spontaneous changes occur with an increase in
+   entropy. In contrast the first law of thermodynamics deals with the
+   concept of energy, which is conserved. Entropy change has often been
+   defined as a change to a more disordered state at a microscopic level.
+   In recent years, entropy has been interpreted in terms of the "
+   dispersal" of energy. Entropy is an extensive state function that
+   accounts for the effects of irreversibility in thermodynamic systems.
+
+   Quantitatively, entropy, symbolized by S, is defined by the
+   differential quantity dS = δQ / T, where δQ is the amount of heat
+   absorbed in a reversible process in which the system goes from one
+   state to another, and T is the absolute temperature. Entropy is one of
+   the factors that determines the free energy of the system.
+
+   When a system's energy is defined as the sum of its "useful" energy,
+   (e.g. that used to push a piston), and its "useless energy", i.e. that
+   energy which cannot be used for external work, then entropy may be
+   (most concretely) visualized as the "scrap" or "useless" energy whose
+   energetic prevalence over the total energy of a system is directly
+   proportional to the absolute temperature of the considered system, as
+   is the case with the Gibbs free energy or Helmholtz free energy
+   relations.
+
+   In terms of statistical mechanics, the entropy describes the number of
+   the possible microscopic configurations of the system. The statistical
+   definition of entropy is generally thought to be the more fundamental
+   definition, from which all other important properties of entropy
+   follow. Although the concept of entropy was originally a thermodynamic
+   construct, it has been adapted in other fields of study, including
+   information theory, psychodynamics, thermoeconomics, and evolution.
+
+History
+
+   Rudolf Clausius - originator of the concept of "entropy" S
+   Enlarge
+   Rudolf Clausius - originator of the concept of "entropy" S
+
+   The short history of entropy begins with the work of mathematician
+   Lazare Carnot who in his 1803 work Fundamental Principles of
+   Equilibrium and Movement postulated that in any machine the
+   accelerations and shocks of the moving parts all represent losses of
+   moment of activity. In other words, in any natural process there exists
+   an inherent tendency towards the dissipation of useful energy. Building
+   on this work, in 1824 Lazare's son Sadi Carnot published Reflections on
+   the Motive Power of Fire in which he set forth the view that in all
+   heat-engines whenever " caloric", or what is now known as heat, falls
+   through a temperature difference, that work or motive power can be
+   produced from the actions of the "fall of caloric" between a hot and
+   cold body. This was an early insight into the second law of
+   thermodynamics.
+
+   Carnot based his views of heat partially on the early 18th century
+   "Newtonian hypothesis" that both heat and light were types of
+   indestructible forms of matter, which are attracted and repelled by
+   other matter, and partially on recent 1789 views of Count Rumford who
+   showed that heat could be created by friction as when cannons bored.
+   Accordingly, Carnot reasoned that if the body of the working substance,
+   such as a body of steam, is brought back to its original state
+   (temperature and pressure) at the end of a complete engine cycle, that
+   "no change occurs in the condition of the working body." This latter
+   comment was amended in his foot notes, and it was this comment that led
+   to the development of entropy.
+
+   In the 1850s and 60s, German physicist Rudolf Clausius gravely objected
+   to this latter supposition, i.e. that no change occurs in the working
+   body, and gave this "change" a mathematical interpretation by
+   questioning the nature of the inherent loss of usable heat when work is
+   done, e.g., heat produced by friction. This was in contrast to earlier
+   views, based on the theories of Isaac Newton, that heat was an
+   indestructible particle that had mass. Later, scientists such as Ludwig
+   Boltzmann, Willard Gibbs, and James Clerk Maxwell gave entropy a
+   statistical basis. Carathéodory linked entropy with a mathematical
+   definition of irreversibility, in terms of trajectories and
+   integrability.
+
+Definitions and descriptions
+
+   In science, the term "entropy" is generally interpreted in three
+   distinct, but semi-related, ways, i.e. from macroscopic viewpoint (
+   classical thermodynamics), a microscopic viewpoint ( statistical
+   thermodynamics), and an information viewpoint ( information theory).
+   Entropy in information theory is a fundamentally different concept from
+   thermodynamic entropy. However, at a philosophical level, some argue
+   that thermodynamic entropy can be interpreted as an application of the
+   information entropy concept to a very particular set of physical
+   questions.
+
+Macroscopic viewpoint (classical thermodynamics)
+
+                                                  Conjugate variables
+                                                        of thermodynamics
+                                                     Pressure       Volume
+                                                    ( Stress)    ( Strain)
+                                                  Temperature      Entropy
+                                              Chem. potential Particle no.
+
+   In a thermodynamic system, a "universe" consisting of "surroundings"
+   and "systems" and made up of quantities of matter, its pressure
+   differences, density differences, and temperature differences all tend
+   to equalize over time. In the ice melting example, the difference in
+   temperature between a warm room (the surroundings) and cold glass of
+   ice and water (the system and not part of the room), begins to be
+   equalized as portions of the heat energy from the warm surroundings
+   become spread out to the cooler system of ice and water.
+   Thermodynamic System
+   Enlarge
+   Thermodynamic System
+
+   Over time the temperature of the glass and its contents and the
+   temperature of the room become equal. The entropy of the room has
+   decreased and some of its energy has been dispersed to the ice and
+   water. However, as calculated in the example, the entropy of the system
+   of ice and water has increased more than the entropy of the surrounding
+   room has decreased. In an isolated system such as the room and ice
+   water taken together, the dispersal of energy from warmer to cooler
+   always results in a net increase in entropy. Thus, when the 'universe'
+   of the room and ice water system has reached a temperature equilibrium,
+   the entropy change from the initial state is at a maximum. The entropy
+   of the thermodynamic system is a measure of how far the equalization
+   has progressed.
+
+   A special case of entropy increase, the entropy of mixing, occurs when
+   two or more different substances are mixed. If the substances are at
+   the same temperature and pressure, there will be no net exchange of
+   heat or work - the entropy increase will be entirely due to the mixing
+   of the different substances.
+
+   From a macroscopic perspective, in classical thermodynamics the entropy
+   is interpreted simply as a state function of a thermodynamic system:
+   that is, a property depending only on the current state of the system,
+   independent of how that state came to be achieved. The state function
+   has the important property that, when multiplied by a reference
+   temperature, it can be understood as a measure of the amount of energy
+   in a physical system that cannot be used to do thermodynamic work;
+   i.e., work mediated by thermal energy. More precisely, in any process
+   where the system gives up energy ΔE, and its entropy falls by ΔS, a
+   quantity at least T[R] ΔS of that energy must be given up to the
+   system's surroundings as unusable heat (T[R] is the temperature of the
+   system's external surroundings). Otherwise the process will not go
+   forward.
+
+   In 1862, Clausius stated what he calls the “theorem respecting the
+   equivalence-values of the transformations” or what is now known as the
+   second law of thermodynamics, as such:
+
+          The algebraic sum of all the transformations occurring in a
+          cyclical process can only be positive, or, as an extreme case,
+          equal to nothing.
+
+   Quantitatively, Clausius states the mathematical expression for this
+   theorem is as follows. Let δQ be an element of the heat given up by the
+   body to any reservoir of heat during its own changes, heat which it may
+   absorb from a reservoir being here reckoned as negative, and T the
+   absolute temperature of the body at the moment of giving up this heat,
+   then the equation:
+
+          \int \frac{\delta Q}{T} = 0
+
+   must be true for every reversible cyclical process, and the relation:
+
+          \int \frac{\delta Q}{T} \ge 0
+
+   must hold good for every cyclical process which is in any way possible.
+   This is the essential formulation of the second law and one of the
+   original forms of the concept of entropy. It can be seen that the
+   dimensions of entropy are energy divided by temperature, which is the
+   same as the dimensions of Boltzmann's constant (k_B) and heat capacity.
+   The SI unit of entropy is " joule per kelvin" (J•K^−1). In this manner,
+   the quantity "ΔS" is utilized as a type of internal ordering energy,
+   which accounts for the effects of irreversibility, in the energy
+   balance equation for any given system. In the Gibbs free energy
+   equation, i.e. ΔG = ΔH - TΔS, for example, which is a formula commonly
+   utilized to determine if chemical reactions will occur, the energy
+   related to entropy changes TΔS is subtracted from the "total" system
+   energy ΔH to give the "free" energy ΔG of the system, as during a
+   chemical process or as when a system changes state.
+
+Microscopic viewpoint (statistical mechanics)
+
+   From a microscopic perspective, in statistical thermodynamics the
+   entropy is a measure of the number of microscopic configurations that
+   are capable of yielding the observed macroscopic description of the
+   thermodynamic system:
+
+          S = k_B \ln \Omega \!
+
+   where Ω is the number of microscopic configurations, and k[B] is
+   Boltzmann's constant. In Boltzmann's 1896 Lectures on Gas Theory, he
+   showed that this expression gives a measure of entropy for systems of
+   atoms and molecules in the gas phase, thus providing a measure for the
+   entropy of classical thermodynamics.
+
+   In 1877, thermodynamicist Ludwig Boltzmann visualized a probabilistic
+   way to measure the entropy of an ensemble of ideal gas particles, in
+   which he defined entropy to be proportional to the logarithm of the
+   number of microstates such a gas could occupy. Henceforth, the
+   essential problem in statistical thermodynamics, i.e. according to
+   Erwin Schrödinger, has been to determine the distribution of a given
+   amount of energy E over N identical systems.
+
+   Statistical mechanics explains entropy as the amount of uncertainty (or
+   "mixedupness" in the phrase of Gibbs) which remains about a system,
+   after its observable macroscopic properties have been taken into
+   account. For a given set of macroscopic quantities, like temperature
+   and volume, the entropy measures the degree to which the probability of
+   the system is spread out over different possible quantum states. The
+   more states available to the system with higher probability, and thus
+   the greater the entropy. In essence, the most general interpretation of
+   entropy is as a measure of our ignorance about a system. The
+   equilibrium state of a system maximizes the entropy because we have
+   lost all information about the initial conditions except for the
+   conserved quantities; maximizing the entropy maximizes our ignorance
+   about the details of the system.
+
+   On the molecular scale, the two definitions match up because adding
+   heat to a system, which increases its classical thermodynamic entropy,
+   also increases the system's thermal fluctuations, so giving an
+   increased lack of information about the exact microscopic state of the
+   system, i.e. an increased statistical mechanical entropy.
+
+Entropy in chemical thermodynamics
+
+   Thermodynamic entropy is central in chemical thermodynamics, enabling
+   changes to be quantified and the outcome of reactions predicted. The
+   second law of thermodynamics states that entropy in the combination of
+   a system and its surroundings (or in an isolated system by itself)
+   increases during all spontaneous chemical and physical processes.
+   Spontaneity in chemistry means “by itself, or without any outside
+   influence”, and has nothing to do with speed. The Clausius equation of
+   δq[rev]/T = ΔS introduces the the measurement of entropy change, ΔS.
+   Entropy change describes the direction and quantitates the magnitude of
+   simple changes such as heat transfer between systems – always from
+   hotter to cooler spontaneously. Thus, when a mole of substance at 0 K
+   is warmed by its surroundings to 298 K, the sum of the incremental
+   values of q[rev]/T constitute each element's or compound's standard
+   molar entropy, a fundamental physical property and an indicator of the
+   amount of energy stored by a substance at 298 K. Entropy change also
+   measures the mixing of substances as a summation of their relative
+   quantities in the final mixture.
+
+   Entropy is equally essential in predicting the extent of complex
+   chemical reactions, i.e. whether a process will go as written or
+   proceed in the opposite direction. For such applications, ΔS must be
+   incorporated in an expression that includes both the system and its
+   surroundings, Δ S[universe] = ΔS[surroundings] + Δ S [system]. This
+   expression becomes, via some steps, the Gibbs free energy equation for
+   reactants and products in the system: Δ G [the Gibbs free energy change
+   of the system] = Δ H [the enthalpy change] – T Δ S [the entropy
+   change].
+
+The second law
+
+   An important law of physics, the second law of thermodynamics, states
+   that the total entropy of any isolated thermodynamic system tends to
+   increase over time, approaching a maximum value; and so, by
+   implication, the entropy of the universe (i.e. the system and its
+   surroundings), assumed as an isolated system, tends to increase. Two
+   important consequences are that heat cannot of itself pass from a
+   colder to a hotter body: i.e., it is impossible to transfer heat from a
+   cold to a hot reservoir without at the same time converting a certain
+   amount of work to heat. It is also impossible for any device that can
+   operate on a cycle to receive heat from a single reservoir and produce
+   a net amount of work; it can only get useful work out of the heat if
+   heat is at the same time transferred from a hot to a cold reservoir.
+   This means that there is no possibility of a " perpetual motion" which
+   is isolated. Also, from this it follows that a reduction in the
+   increase of entropy in a specified process, such as a chemical
+   reaction, means that it is energetically more efficient.
+
+   In general, according to the second law, the entropy of a system that
+   is not isolated may decrease. An air conditioner, for example, cools
+   the air in a room, thus reducing the entropy of the air. The heat,
+   however, involved in operating the air conditioner always makes a
+   bigger contribution to the entropy of the environment than the decrease
+   of the entropy of the air. Thus the total entropy of the room and the
+   environment increases, in agreement with the second law.
+
+Entropy balance equation for open systems
+
+   In chemical engineering, the principles of thermodynamics are commonly
+   applied to " open systems", i.e. those in which heat, work, and mass
+   flow across the system boundary. In a system in which there are flows
+   of both heat ( \dot{S} ) and work, i.e. \dot{W}_S (shaft work) and
+   P(dV/dt) (pressure-volume work), across the system boundaries, the heat
+   flow, but not the work flow, causes a change in the entropy of the
+   system. This rate of entropy change is \dot{S}/T , where T is the
+   absolute thermodynamic temperature of the system at the point of the
+   heat flow. If, in addition, there are mass flows across the system
+   boundaries, the total entropy of the system will also change due to
+   this convected flow.
+   During steady-state continuous operation, an entropy balance applied to
+   an open system accounts for system entropy changes related to heat flow
+   and mass flow across the system boundary.
+   Enlarge
+   During steady-state continuous operation, an entropy balance applied to
+   an open system accounts for system entropy changes related to heat flow
+   and mass flow across the system boundary.
+
+   To derive a generalized entropy balanced equation, we start with the
+   general balance equation for the change in any extensive quantity Θ in
+   a thermodynamic system, a quantity that may be either conserved, such
+   as energy, or non-conserved, such as entropy. The basic generic balance
+   expression states that dΘ/dt, i.e. the rate of change of Θ in the
+   system, equals the rate at which Θ enters the system at the boundaries,
+   minus the rate at which Θ leaves the system across the system
+   boundaries, plus the rate at which Θ is generated within the system.
+   Using this generic balance equation, with respect to the rate of change
+   with time of the extensive quantity entropy S, the entropy balance
+   equation for an open thermodynamic system is:
+
+          \frac{dS}{dt} = \sum_{k=1}^K \dot{M}_k \hat{S}_k +
+          \frac{\dot{Q}}{T} + \dot{S}_{gen}
+
+   where
+
+          \sum_{k=1}^K \dot{M}_k \hat{S}_k = the net rate of entropy flow
+          due to the flows of mass into and out of the system (where
+          \hat{S} = entropy per unit mass).
+
+          \frac{\partial \dot{Q}}{\partial T} = the rate of entropy flow
+          due to the flow of heat across the system boundary.
+
+          \dot{S}_{gen} = the rate of internal generation of entropy
+          within the system.
+
+   Note, also, that if there are multiple heat flows, the term \dot{Q}/T
+   is to be replaced by \sum \dot{Q}_j/T_j , where \dot{Q}_j is the heat
+   flow and T[j] is the temperature at the jth heat flow port into the
+   system.
+
+Standard textbook definitions
+
+     * Entropy – energy broken down in irretrievable heat.
+     * – Boltzmann's constant times the logarithm of a multiplicity; where
+       the multiplicity of a macrostate is the number of microstates that
+       correspond to the macrostate.
+     * – the number of ways of arranging things in a system (times the
+       Boltzmann's constant).
+     * – a non-conserved thermodynamic state function, measured in terms
+       of the number of microstates a system can assume, which corresponds
+       to a degradation in usable energy.
+     * – a direct measure of the randomness of a system.
+     * – a measure of energy dispersal at a specific temperature.
+     * – a measure of the partial loss of the ability of a system to
+       perform work due to the effects of irreversibility.
+     * – an index of the tendency of a system towards spontaneous change.
+     * – a measure of the unavailability of a system’s energy to do work;
+       also a measure of disorder; the higher the entropy the greater the
+       disorder.
+     * – a parameter representing the state of disorder of a system at the
+       atomic, ionic, or molecular level.
+     * – a measure of disorder in the universe or of the availability of
+       the energy in a system to do work.
+
+Approaches to understanding entropy
+
+Order and disorder
+
+   Entropy, historically, has often been associated with the amount of
+   order, disorder, and or chaos in a thermodynamic system. The
+   traditional definition of entropy is that it refers to changes in the
+   status quo of the system and is a measure of "molecular disorder" and
+   the amount of wasted energy in a dynamical energy transformation from
+   one state or form to another. In this direction, a number of authors,
+   in recent years, have derived exact entropy formulas to account for and
+   measure disorder and order in atomic and molecular assemblies. One of
+   the simpler entropy order/disorder formulas is that derived in 1984 by
+   thermodynamic physicist Peter Landsberg, which is based on a
+   combination of thermodynamics and information theory arguments.
+   Landsberg argues that when constraints operate on a system, such that
+   it is prevented from entering one or more of its possible or permitted
+   states, as contrasted with its forbidden states, the measure of the
+   total amount of “disorder” in the system is given by the following
+   expression:
+
+          Disorder=C_D/C_I\,
+
+   Similarly, the total amount of "order" in the system is given by:
+
+          Order=1-C_O/C_I\,
+
+   In which C[D] is the "disorder" capacity of the system, which is the
+   entropy of the parts contained in the permitted ensemble, C[I] is the
+   "information" capacity of the system, an expression similar to
+   Shannon's channel capacity, and C[O] is the "order" capacity of the
+   system.
+
+Energy dispersal
+
+   The concept of entropy can be described qualitatively as a measure of
+   energy dispersal at a specific temperature. Similar terms have been in
+   use from early in the history of classical thermodynamics, and with the
+   development of statistical thermodynamics and quantum theory, entropy
+   changes have been described in terms of the mixing or "spreading" of
+   the total energy of each constituent of a system over its particular
+   quantized energy levels.
+
+   Ambiguities in the terms disorder and chaos, which usually have
+   meanings directly opposed to equilibrium, contribute to widespread
+   confusion and hamper comprehension of entropy for most students. As the
+   second law of thermodynamics shows, in an isolated system internal
+   portions at different temperatures will tend to adjust to a single
+   uniform temperature and thus produce equilibrium. A recently developed
+   educational approach avoids ambiguous terms and describes such
+   spreading out of energy as dispersal, which leads to loss of the
+   differentials required for work even though the total energy remains
+   constant in accordance with the first law of thermodynamics. Physical
+   chemist Peter Atkins, for example, who previously wrote of dispersal
+   leading to a disordered state, now writes that "spontaneous changes are
+   always accompanied by a dispersal of energy", and has discarded
+   'disorder' as a description.
+
+Entropy and Information theory
+
+   In information theory, entropy is the measure of the amount of
+   information that is missing before reception and is sometimes referred
+   to as Shannon entropy.. Shannon entropy is a very general concept which
+   finds applications in information theory as well as thermodynamics. It
+   was originally devised by Claude Shannon in 1948 to study the amount of
+   information in a transmitted message. The definition of the information
+   entropy is, however, very general, and is expressed in terms of a
+   discrete set of probabilities p[i]. In the case of transmitted
+   messages, these probabilities were the probabilities that a particular
+   message was actually transmitted, and the entropy of the message system
+   was a measure of how much information was in the message. For the case
+   of equal probabilities (i.e. each message is equally probable), the
+   Shannon entropy (in bits) is just the number of yes/no questions needed
+   to determine the content of the message.
+
+   The question of the link between information entropy and thermodynamic
+   entropy is a hotly debated topic. Many authors argue that there is a
+   link between the two, while others will argue that they have absolutely
+   nothing to do with each other.
+
+   The expressions for the two entropies are very similar. The information
+   entropy H for equal probabilities p[i] is:
+
+          H=K\ln(1/p_i)\,
+
+   where K is a constant which determines the units of entropy. For
+   example, if the units are bits, then K=1/\ln(2). The thermodynamic
+   entropy S , from a statistical mechanical point of view was first
+   expressed by Boltzmann:
+
+          S=k\ln(1/p)\,
+
+   where p  is the probability of a system being in a particular
+   microstate, given that it is in a particular macrostate, and k  is
+   Boltzmann's constant. It can be seen that one may think of the
+   thermodynamic entropy as Boltzmann's constant, divided by ln(2), times
+   the number of yes/no questions that must be asked in order to determine
+   the microstate of the system, given that we know the macrostate. The
+   link between thermodynamic and information entropy was developed in a
+   series of papers by Edwin Jaynes beginning in 1957.
+
+   The problem with linking thermodynamic entropy to information entropy
+   is that the entire body of thermodynamics which deals with the physical
+   nature of entropy is missing. The second law of thermodynamics which
+   governs the behaviour of thermodynamic systems in equilibrium, and the
+   first law which expresses heat energy as the product of temperature and
+   entropy are physical concepts rather than informational concepts. If
+   thermodynamic entropy is seen as including all of the physical dynamics
+   of entropy as well as the equilibrium statistical aspects, then
+   information entropy gives only part of the description of thermodynamic
+   entropy. Some authors, like Tom Schneider, argue for dropping the word
+   entropy for the H function of information theory and using Shannon's
+   other term "uncertainty" instead.
+
+Ice melting example
+
+   The illustration for this article is a classic example in which entropy
+   increases in a small 'universe', a thermodynamic system consisting of
+   the 'surroundings' (the warm room) and 'system' (glass, ice, cold
+   water). In this universe, some heat energy δQ from the warmer room
+   surroundings (at 298 K or 25 C) will spread out to the cooler system of
+   ice and water at its constant temperature T of 273 K (0 C), the melting
+   temperature of ice. The entropy of the system will change by the amount
+   dS = δQ/T, in this example δQ/273 K. (The heat δQ for this process is
+   the energy required to change water from the solid state to the liquid
+   state, and is called the enthalpy of fusion, i.e. the ΔH for ice
+   fusion.) The entropy of the surroundings will change by an amount dS =
+   -δQ/298 K. So in this example, the entropy of the system increases,
+   whereas the entropy of the surroundings decreases.
+
+   It is important to realize that the decrease in the entropy of the
+   surrounding room is less than the increase in the entropy of the ice
+   and water: the room temperature of 298 K is larger than 273 K and
+   therefore the ratio, (entropy change), of δQ/298 K for the surroundings
+   is smaller than the ratio (entropy change), of δQ/273 K for the
+   ice+water system. To find the entropy change of our 'universe', we add
+   up the entropy changes for its constituents: the surrounding room, and
+   the ice+water. The total entropy change is positive; this is always
+   true in spontaneous events in a thermodynamic system and it shows the
+   predictive importance of entropy: the final net entropy after such an
+   event is always greater than was the initial entropy.
+
+   As the temperature of the cool water rises to that of the room and the
+   room further cools imperceptibly, the sum of the δQ/T over the
+   continuous range, at many increments, in the initially cool to finally
+   warm water can be found by calculus. The entire miniature "universe",
+   i.e. this thermodynamic system, has increased in entropy. Energy has
+   spontaneously become more dispersed and spread out in that "universe"
+   than when the glass of ice water was introduced and became a "system"
+   within it.
+
+Topics in entropy
+
+Entropy and life
+
+   For over a century and a half, beginning with Clausius' 1863 memoir "On
+   the Concentration of Rays of Heat and Light, and on the Limits of its
+   Action", much writing and research has been devoted to the relationship
+   between thermodynamic entropy and the evolution of life. The argument
+   that that life feeds on negative entropy or negentropy as put forth in
+   the 1944 book What is Life? by physicist Erwin Schrödinger served as a
+   further stimulus to this research. Recent writings have utilized the
+   concept of Gibbs free energy to elaborate on this issue. In other
+   cases, some creationists have argued that entropy rules out evolution.
+
+   In the popular textbook 1982 textbook Principles of Biochemistry by
+   noted American biochemist Albert Lehninger, for example, it is argued
+   that the order produced within cells as they grow and divide is more
+   than compensated for by the disorder they create in their surroundings
+   in the course of growth and division. In short, according to Lehninger,
+   "living organisms preserve their internal order by taking from their
+   surroundings free energy, in the form of nutrients or sunlight, and
+   returning to their surroundings an equal amount of energy as heat and
+   entropy."
+
+   Evolution related definitions:
+     * Negentropy - a shorthand colloquial phrase for negative entropy.
+     * Ectropy - a measure of the tendency of a dynamical system to do
+       useful work and grow more organized.
+     * Syntropy - a tendency towards order and symmetrical combinations
+       and designs of ever more advantageous and orderly patterns.
+     * Extropy – a metaphorical term defining the extent of a living or
+       organizational system's intelligence, functional order, vitality,
+       energy, life, experience, and capacity and drive for improvement
+       and growth.
+     * Ecological entropy - a measure of biodiversity in the study of
+       biological ecology.
+
+The arrow of time
+
+   Entropy is the only quantity in the physical sciences that "picks" a
+   particular direction for time, sometimes called an arrow of time. As we
+   go "forward" in time, the Second Law of Thermodynamics tells us that
+   the entropy of an isolated system can only increase or remain the same;
+   it cannot decrease. Hence, from one perspective, entropy measurement is
+   thought of as a kind of clock.
+
+Entropy and cosmology
+
+   We have previously mentioned that a finite universe may be considered
+   an isolated system. As such, it may be subject to the Second Law of
+   Thermodynamics, so that its total entropy is constantly increasing. It
+   has been speculated that the universe is fated to a heat death in which
+   all the energy ends up as a homogeneous distribution of thermal energy,
+   so that no more work can be extracted from any source.
+
+   If the universe can be considered to have generally increasing entropy,
+   then - as Roger Penrose has pointed out - gravity plays an important
+   role in the increase because gravity causes dispersed matter to
+   accumulate into stars, which collapse eventually into black holes.
+   Jacob Bekenstein and Stephen Hawking have shown that black holes have
+   the maximum possible entropy of any object of equal size. This makes
+   them likely end points of all entropy-increasing processes, if they are
+   totally effective matter and energy traps. Hawking has, however,
+   recently changed his stance on this aspect.
+
+   The role of entropy in cosmology remains a controversial subject.
+   Recent work has cast extensive doubt on the heat death hypothesis and
+   the applicability of any simple thermodynamic model to the universe in
+   general. Although entropy does increase in the model of an expanding
+   universe, the maximum possible entropy rises much more rapidly and
+   leads to an "entropy gap", thus pushing the system further away from
+   equilibrium with each time increment. Other complicating factors, such
+   as the energy density of the vacuum and macroscopic quantum effects,
+   are difficult to reconcile with thermodynamical models, making any
+   predictions of large-scale thermodynamics extremely difficult.
+
+Other relations
+
+Generalized entropy
+
+   Many generalizations of entropy have been studied, two of which,
+   Tsallis and Rényi entropies, are widely used and the focus of active
+   research.
+
+   The Rényi entropy is an information measure for fractal systems.
+
+          H_\alpha(X) = \frac{1}{1-\alpha}\log\Bigg(\sum_{i=1}^n
+          p_i^\alpha\Bigg) .
+
+   where α > 0 is the 'order' of the entropy, p[i] are the probabilities
+   of {x[1], x[2] ... x[n]}. For α = 1 we recover the standard entropy
+   form.
+
+   The Tsallis entropy is employed in Tsallis statistics to study
+   nonextensive thermodynamics.
+
+          S_q(p) = {1 \over q - 1} \left( 1 - \sum_x p^q(x) \right).
+
+   where p denotes the probability distribution of interest, and q is a
+   real parameter that measures the non- extensitivity of the system of
+   interest. In the limit as q → 1, we again recover the standard entropy.
+
+Other mathematical definitions
+
+     * Kolmogorov-Sinai entropy - a mathematical type of entropy in
+       dynamical systems related to measures of partitions.
+     * Topological entropy - a way of defining entropy in an iterated
+       function map in ergodic theory.
+     * Relative entropy - is a natural distance measure from a "true"
+       probability distribution P to an arbitrary probability distribution
+       Q.
+
+Sociological definitions
+
+   The concept of entropy has also entered the domain of sociology,
+   generally as a metaphor for chaos, disorder or dissipation of energy,
+   rather than as a direct measure of thermodynamic or information
+   entropy:
+     * Entropology – the study or discussion of entropy or the name
+       sometimes given to thermodynamics without differential equations.
+     * Psychological entropy - the distribution of energy in the psyche,
+       which tends to seek equilibrium or balance among all the structures
+       of the psyche.
+     * Economic entropy – a quantitative measure of the irrevocable
+       dissipation and degradation of natural materials and available
+       energy with respect to economic activity.
+     * Social entropy – a measure of social system structure, having both
+       theoretical and statistical interpretations, i.e. society
+       (macrosocietal variables) measured in terms of how the individual
+       functions in society (microsocietal variables); also related to
+       social equilibrium.
+     * Corporate entropy - energy waste as red tape and business team
+       inefficiency, i.e. energy lost to waste.
+
+Quotes & humor
+
+     * As stated by John von Neumann in conversation with Claude Shannon
+       in 1949:
+
+
+   Entropy
+
+     Nobody knows what entropy really is, so in a debate you will always
+                             have the advantage.
+
+
+   Entropy
+
+     * As stated by Frederic Keffer:
+
+
+Entropy
+
+       The future belongs to those who can manipulate entropy; those who
+                understand but energy will be only accountants.
+
+
+                                                                        Entropy
+
+   Retrieved from " http://en.wikipedia.org/wiki/Entropy"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

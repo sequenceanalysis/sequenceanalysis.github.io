@@ -1,0 +1,729 @@
+   #copyright
+
+Automated teller machine
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   An NCR interior, multi-function ATM in the USA
+   Enlarge
+   An NCR interior, multi-function ATM in the USA
+   Smaller indoor ATMs dispense money inside convenience stores and other
+   busy areas, such as this off-premise Wincor Nixdorf mono-function ATM
+   in Sweden.
+   Enlarge
+   Smaller indoor ATMs dispense money inside convenience stores and other
+   busy areas, such as this off-premise Wincor Nixdorf mono-function ATM
+   in Sweden.
+   An on-premise NCR interior, multi-function through-the-wall ATM at a
+   CIBC branch in Canada
+   Enlarge
+   An on-premise NCR interior, multi-function through-the-wall ATM at a
+   CIBC branch in Canada
+
+   An automated teller machine or automatic teller machine (ATM) is a
+   computerized telecommunications device that provides a financial
+   institution's customers a secure method of performing financial
+   transactions in a public space without the need for a human clerk or
+   bank teller.
+
+   Using an ATM, customers can access their bank accounts in order to make
+   cash withdrawals (or credit card cash advances) and check their account
+   balances. Many ATMs also allow people to deposit cash or cheques,
+   transfer money between their bank accounts, pay bills, or purchase
+   goods and services.
+
+   An ATM is also known, in English, as Automated Banking Machine, Money
+   machine, Bank Machine (Canada), Cash Machine ( UK), Hole-In-The-Wall
+   (New Zealand, UK) or Cashpoint (New Zealand, UK). Despite the wide
+   usage of the term "ATM Machine", the word "machine" is redundant.
+
+History
+
+   An old Nixdorf ATM
+   Enlarge
+   An old Nixdorf ATM
+
+   A mechanical cash dispenser, arguably an ATM, was developed and built
+   by Luther George Simjian and installed 1939 in New York by the City
+   Bank of New York, but removed after 6 months due to the lack of
+   customer acceptance.
+
+   Thereafter, the history of ATMs paused for over 25 years, until De La
+   Rue developed the first electronic ATM, which was installed first in
+   Enfield Town in North London on June 27, 1967 by Barclays Bank. The
+   first person to use the machine was Reg Varney of " On the Buses" fame,
+   a British Television programme from the 1960s.This instance of the
+   invention is credited to John Shepherd-Barron, although Luther George
+   Simjian registered patents in New York, USA in the 1930s and Donald
+   Wetzel and two other engineers from Docutel registered a patent on June
+   4, 1973. Shepherd-Barron was awarded an OBE in the 2005 New Year's
+   Honours List
+
+   The first ATMs accepted only a single-use token or voucher, which was
+   retained by the machine. These worked on various principles including
+   radiation and low-coercivity magnetism that was wiped by the card
+   reader to make fraud more difficult.
+
+   The idea of a personal identification number (PIN) stored on a physical
+   card being compared with the PIN entered when retrieving the money was
+   developed by the British engineer James Goodfellow in 1965, who also
+   holds international patents regarding this technology.
+
+   ATMs first came into wide use during the early- to mid- 1980s. Notable
+   historical models of ATMs include the IBM 3624 and 473x series, Diebold
+   TABS 9000 and 10xx series, and NCR 5xxx series.
+
+Usage
+
+   An ATM Encrypting PIN Pad (EPP) with German markings
+   Enlarge
+   An ATM Encrypting PIN Pad (EPP) with German markings
+
+   On most modern ATMs, the customer identifies him or herself by
+   inserting a plastic card with a magnetic stripe or a plastic smartcard
+   with a chip, that contains his or her card number and some security
+   information, such as an expiration date or CVC (CVV). The customer then
+   verifies their identity by entering a passcode, often referred to as a
+   PIN (Personal Identification Number) of four or more digits. Upon
+   successful entry of the PIN, the customer may perform a transaction.
+   After the transaction is complete, a transaction record is printed,
+   usually consisting of the action taken, date and time, location, any
+   applicable fees, and available balance.
+
+   If the number is entered incorrectly several times in a row (usually
+   three attempts per card insertion), some ATMs will attempt to retain
+   the card as a security precaution to prevent an unauthorised user from
+   discovering the PIN by guesswork. Captured cards are often destroyed if
+   the ATM owner is not the card issuing bank, as non-customer's
+   identities cannot be reliably confirmed.
+
+   In some cases, a transaction may be performed at the ATM that allows
+   the customer's PIN to be changed securely.
+
+Types
+
+   The top three worldwide manufacturers of ATM machinery and their ATM
+   brands includes the Diebold Opteva series, NCR Personas series, and
+   Wincor Nixdorf ProCash series. There are many other ATM suppliers and
+   distributors.
+
+Types by physical characteristics
+
+   A mono-function, exterior Siemens Nixdorf ATM in Germany
+   Enlarge
+   A mono-function, exterior Siemens Nixdorf ATM in Germany
+
+   There are two main types of ATMs that have developed over time:
+     * Mono-function devices, which only one type of mechanism for
+       financial transactions is present (such as cash dispensing or
+       statement printing)
+     * Multi-function devices, which incorporate multiple mechanisms to
+       perform multiple services (such as accepting deposits, dispensing
+       cash, printing statements, etc.) all within a single footprint.
+
+   Mono-function and multi-function devices are manufactured both regular
+   "interior grade" and weather-resistant "exterior, through-the-wall
+   grade" variants. Some ATMs are also built as fully self-contained
+   exterior units designed to sit alone without the protection of a
+   building and be completely exposed on all sides to the elements.
+
+   Reasons for selecting either mono-function or multi-function and
+   "interior" versus "exterior" ATMs include device cost, installation
+   location, customer wait times, desired reliability, and historical
+   preference.
+
+Types by installation locations
+
+   ATMs are placed not only near or inside the premises of banks, but also
+   in locations such as shopping centres/malls, grocery stores, gas
+   stations and restaurants. These represent two types of ATM
+   installations, on and off premise. On premise ATMs are typically more
+   advanced, mutli-function machines that complement an actual bank
+   branch's capabilities and thus more expensive. Off premise machines are
+   deployed by financial institutions and also ISO's (or Independent Sales
+   Organizations) where there is usually just a straight need for cash, so
+   they typically are the cheaper mono-function devices.
+
+   In Canada, when an ATM is not operated by a financial institution it is
+   known as a "White Label ATM".
+
+Financial networks and ATMs
+
+   An ATM in the Netherlands. The logos of a number of interbank networks
+   this ATM is connected to are shown.
+   Enlarge
+   An ATM in the Netherlands. The logos of a number of interbank networks
+   this ATM is connected to are shown.
+
+Logical connections
+
+   Most ATMs are connected to interbank networks, enabling people to
+   withdraw and deposit money from machines not belonging to the bank
+   where they have their account or in the country where their accounts
+   are held. This is a convenience, especially for people who are
+   travelling: it is possible to make withdrawals in places where one's
+   bank has no branches, and even to withdraw local currency in a foreign
+   country. Some examples of interbank networks include PLUS, Cirrus,
+   South Africa's SASWITCH, Hong Kong's JETCO, Canada's Interac, the
+   Philippines' Expressnet and Nigeria's Interswitch network.
+
+   ATMs rely on authorization of a transaction by the card issuer or other
+   authorizing institution via the communications network. This is often
+   performed through an ISO 8583 messaging system.
+
+   Many banks charge fees for the use of their ATMs. In some cases, these
+   fees are assessed solely for non-members of the bank; in other cases,
+   they apply to all users. Many people oppose these fees because ATMs are
+   actually less costly for banks than withdrawals from human tellers.
+
+   In order to allow a more diverse range of devices to attach to their
+   networks, some interbank networks have passed rules expanding the
+   definition of an ATM to be a terminal that either has the vault within
+   its footprint or utilizes the vault or cash drawer within the merchant
+   establishment, which allows for the use of a scrip cash dispenser.
+   A Diebold 1063ix with a dial-up modem visible at the base
+   Enlarge
+   A Diebold 1063ix with a dial-up modem visible at the base
+
+Physical connections
+
+   ATMs typically connect directly to their ATM Transaction Processor via
+   either a dial-up modem over a telephone line or directly via a leased
+   line. Leased lines are preferable to POTS lines because they require
+   less time to establish a connection. Leased lines may be comparatively
+   expensive to operate versus a POTS line, meaning less-trafficked
+   machines will usually rely on a dial-up modem. That dilemma may be
+   solved as high-speed Internet VPN connections become more ubiquitous.
+   Common lower-level layer communication protocols used by ATMs to
+   communicate back to the Bank include SNA over SDLC, TC500 over Async,
+   X.25, and TCP/IP over Ethernet.
+
+   In addition to methods employed for transaction security and secrecy,
+   all communications traffic between the ATM and the Transaction
+   Processor could also be encrypted via methods such as SSL.
+
+Global use
+
+   An ATM in the Tokyo subway
+   Enlarge
+   An ATM in the Tokyo subway
+
+   There are no hard international or governmental-compiled numbers
+   totaling the complete number of ATMs in use worldwide. Estimates
+   developed by ATMIA place the number of ATMs in use at over 1.5 million
+   as of August 2006
+
+   Industry views of ATM usage around the world generally divide the world
+   into seven regions, due to the penetration rates, usage statistics, and
+   features deployed. Four regions (USA, Canada, Europe, and Japan) have
+   high numbers of ATMs per million people and generally slowing growth
+   rates. Despite the large number of ATMs, there is additional demand for
+   machines in the Asia/Pacific area as well as in Latin America. ATMs
+   have yet to reach high numbers in the Near East/Africa.
+
+   The world's most northernly installed ATM in the world is located at
+   Longyearbyen, Svalbard, Norway.
+
+   The world's most southernly installed ATM in the world is located at
+   McMurdo Station, Antarctica.
+
+   While ATMs are ubiquitous on modern cruise ships, ATMs can also be
+   found on certain US Navy ships.
+
+Hardware
+
+   A block diagram of an ATM.
+   Enlarge
+   A block diagram of an ATM.
+
+   An ATM typically is made up of the following devices:
+     * CPU (to control the user interface and transaction devices)
+     * Magnetic and/or Chip card reader (to identify the customer)
+     * PIN Pad (similar in layout to a Touch tone or Calculator keypad),
+       often manufactured as part of a secure enclosure.
+     * Secure cryptoprocessor, generally within a secure enclosure.
+     * Display (used by the customer for performing the transaction)
+     * Function key buttons (usually close to the display) or a
+       Touchscreen (used to select the various aspects of the transaction)
+     * Record Printer (to provide the customer with a record of their
+       transaction)
+     * Vault (to store the parts of the machinery requiring restricted
+       access)
+     * Housing (for aesthetics and to attach signage to)
+
+   Recently, due to heavier computing demands and the falling price of
+   computer-like architectures, ATMs have moved away from custom hardware
+   architectures using microcontrollers and/or application-specific
+   integrated circuits to adopting a hardware architecture that is very
+   similar to a personal computer. Many ATMs are now able to use operating
+   systems such as Microsoft Windows and Linux. Although it is undoubtedly
+   cheaper to use commercial off-the-shelf hardware, it does make ATM's
+   vulnerable to the same sort of problems exhibited by conventional
+   computers.
+
+Vaults
+
+   Interior of a freestanding ATM, during servicing
+   Enlarge
+   Interior of a freestanding ATM, during servicing
+
+   The vault of an ATM is within the footprint of the device itself and is
+   where items of value are kept. Scrip cash dispensers do not incorporate
+   a vault.
+
+   Mechanisms found inside the vault may include:
+     * Dispensing mechanism (to provide cash or other items of value)
+     * Deposit mechanism (to take items of value from the customer)
+     * Security sensors (Magnetic, Thermal, Seismic)
+     * Locks (to ensure controlled access to the contents of the vault)
+
+   ATM vaults are supplied by manufacturers in several grades. Factors
+   influencing vault grade selection include cost, weight, regulatory
+   requirements, ATM type, operator risk avoidance practices, and internal
+   volume requirements.
+
+   Industry standard vault configurations include Underwriters
+   Laboratories UL-291 "Business Hours" and Level 1 Safes, RAL 626/3,
+   TL-30 derivatives, and CEN EN 1143-1:2005 - CEN III/VdS and CEN
+   IV/LGAI/VdS.
+
+   ATM manufacturers recommend that vaults be attached to the floor to
+   prevent theft.
+
+Software
+
+   A Wincor Nixdorf ATM running Windows 2000
+   Enlarge
+   A Wincor Nixdorf ATM running Windows 2000
+
+   With the migration to commodity PC hardware, standard commercial
+   "off-the-shelf" operating systems and programming environments can be
+   used inside of ATMs. Typical platforms used in ATM development include
+   RMX, OS/2, and Microsoft operating systems (such as Windows 98, Windows
+   NT, Windows 2000, Windows XP, or Windows XP Embedded). Sun
+   Microsystem's Java may also be used in these environments.
+
+   Linux is also finding some reception in the ATM marketplace. An example
+   of this is Banrisul, the largest bank in the south of Brazil, which has
+   replaced the MS-DOS operating systems in its ATMs with Linux.
+
+   Common application layer transaction protocols, such as Diebold 911 or
+   912, IBM PBM, and NCR NDC or NDC+ provide emulation of older
+   generations of hardware on newer platforms with incremental extensions
+   made over time to address new capabilities. Most major ATM
+   manufacturers provide software packages that implement these protocols.
+   Newer protocols such as IFX have yet to find wide acceptance by
+   transaction processors.
+
+[WOSA/CEN]/XFS and J/XFS
+
+   With the move to a more standardized software base, financial
+   institutions have been increasingly interested in the ability to pick
+   and choose the application programs that drive their equipment.
+   WOSA/XFS, now known as CEN XFS (or simply XFS), provides a common API
+   for accessing and manipulating the various devices of an ATM.
+
+   J/XFS is a Java implementation of the CEN XFS API.
+
+XFS middleware
+
+   While the perceived benefit of XFS is similar to the Java's "Write
+   once, run anywhere" mantra, often different ATM hardware vendors have
+   different interpretations of the XFS standard. The result of these
+   differences in interpretation means that ATM applications typically use
+   a middleware to even out the differences between various platforms.
+
+   Notable XFS middleware platforms include Diebold Agilis, KAL Kalignite,
+   NCR Corporation Aptra Edge, Phoenix Interactive VISTAatm, and Wincor
+   Nixdorf Protopas.
+
+Software integrity
+
+   With the move of ATMs to industry-standard computing environments,
+   concern has risen about the integrity of the ATM's software stack.
+   Various solutions have been adopted by the industry to address this
+   concern.
+
+Security
+
+   Security, as it relates to ATMs, has several dimensions. ATMs also
+   provide a practical demonstration of a number of security systems and
+   concepts operating together and how various security concerns are dealt
+   with.
+
+Physical
+
+   A vandalized ATM in Spain
+   Enlarge
+   A vandalized ATM in Spain
+
+   Early ATM security focused on making the ATMs invulnerable to physical
+   attack; they were effectively safes with dispenser mechanisms. A number
+   of attacks on ATMs resulted, with thieves attempting to steal entire
+   ATMs by ram-raiding. Since late 1990s, criminal groups operating in
+   Japan improved ram-raiding by stealing and using a truck loaded with a
+   heavy construction machinery to effectively demolish or uproot an
+   entire ATM and any housing to steal its cash.
+
+   Another attack method is to seal all openings of the ATM with silicone
+   and fill the vault with a combustible gas or to place an explosive
+   inside, attached, or near the ATM. This gas or explosive is ignited and
+   the vault is opened or distorted by the force of the resulting
+   explosion and the criminals can break in.
+
+   Modern ATM physical security, per other modern money-handling security,
+   concentrates on denying the use of the money inside the machine to a
+   thief, by means of techniques such as dye markers and smoke canisters.
+
+Transactional secrecy and integrity
+
+   The security of ATM transactions relies mostly on the integrity of the
+   secure cryptoprocessor: the ATM often uses commodity components that
+   are not considered to be " trusted systems".
+
+   Encryption of personal information, required by law in many
+   jurisdictions, is used to prevent fraud. Sensitive data in ATM
+   transactions are usually encrypted with DES, but transaction processors
+   now usually require the use of Triple DES. Remote Key Loading
+   techniques may be used to ensure the secrecy of the initialization of
+   the encryption keys in the ATM. Message Authentication Code (MAC) or
+   Partial MAC may also be used to ensure messages have not been tampered
+   with while in transit between the ATM and the financial network.
+
+Customer identity integrity
+
+   An ATM with a palm scanner (to the right of the screen)
+   Enlarge
+   An ATM with a palm scanner (to the right of the screen)
+
+   There have also been a number of incidents of fraud where criminals
+   have attached fake keypads or card readers to existing machines. These
+   have then been used to record customers' PINs and bank card information
+   in order to gain unauthorised access to their accounts. Various ATM
+   manufacturers have put in place countermeasures to protect the
+   equipment they manufacture from these threats.
+
+   Alternate methods to verify cardholder identities have been tested and
+   deployed in some countries, such as finger and palm vein patterns,
+   iris, and facial recognition technologies. Cost of integrating and
+   implementing these technologies along with concerns about consumer
+   acceptance have limited their deployment so far.
+
+Device operation integrity
+
+   ATMs that are exposed to the outside must be vandal and weather
+   resistant.
+   Enlarge
+   ATMs that are exposed to the outside must be vandal and weather
+   resistant.
+
+   Openings on the customer-side of ATMs are often covered by mechanical
+   shutters to prevent tampering with the mechanisms when they are not in
+   use. Alarm sensors are placed inside the ATM and in ATM servicing areas
+   to alert their operators when doors have been opened by unauthorized
+   personnel.
+
+   Rules are usually set by the government or ATM operating body that
+   dictate what happens when integrity systems fail. Depending on the
+   jurisdiction, a bank may or may not be liable when an attempt is made
+   to dispense a customer's money from an ATM and the money either gets
+   outside of the ATM's vault, or was exposed in a non-secure fashion, or
+   they are unable to determine the state of the money after a failed
+   transaction. Bank customers often complain that banks have made it
+   difficult to recover money lost in this way, but this is often
+   complicated by the Bank's own internal policies regarding suspicious
+   activities typical of the criminal element.
+
+Customer security while using ATMs
+
+   Security guards watching over ATMs that have been installed in a van.
+   Enlarge
+   Security guards watching over ATMs that have been installed in a van.
+
+   In some areas, multiple security cameras and security guards are an
+   ubiquitous ATM feature.
+
+   Critics of ATM operators assert that the issue of customer security
+   appears to have been abandoned by the banking industry; it has been
+   suggested that efforts are now more concentrated on deterring
+   legislation than on solving the problem of forced withdrawals.
+
+   At least as far back as July 30, 1986, critics of the industry have
+   called for the adoption of an emergency PIN system for ATMs, where the
+   user is able to send a silent alarm in response to a threat.
+   Legislative efforts to require an emergency PIN system have appeared in
+   Illinois, Kansas and Georgia, but none have succeeded as of yet.
+
+Alternative uses
+
+   Automatic teller machines at a bank in Jersey dispensing dual
+   currencies: Bank of England sterling and Jersey pounds
+   Enlarge
+   Automatic teller machines at a bank in Jersey dispensing dual
+   currencies: Bank of England sterling and Jersey pounds
+
+   Although ATMs were originally developed as just cash dispensers, they
+   have evolved to include many other bank-related functions. In some
+   countries, especially those which benefit from a fully integrated
+   cross-bank ATM network (e.g.: Multibanco in Portugal), ATMs include
+   many functions which are not directly related to the management of
+   one's own bank account, such as:
+     * Deposit currency recognition, acceptance, and recycling
+     * Paying routine bills, fees, and taxes (utilities, phone bills,
+       social security, legal fees, taxes, etc.)
+     * Printing bank statements
+     * Updating passbooks
+     * Loading monetary value into pre-paid cards (cell phones, tolls,
+       multi purpose stored value cards, etc.)
+     * Ticket purchases (train, concert, etc.).
+     * Purchasing postal stamps.
+     * Lottery ticket purchases
+     * Games and promotional features
+     * Donations to charities
+     * Purchase shopping mall gift certificates.
+
+   In Canada, the Interac shared cash network does not allow for the
+   selling of goods from ATMs due to specific security requirements for
+   PIN entry when buying goods.
+
+   ATMs can also act as an advertising channel for companies to advertise
+   their own products or third-party products and services.
+
+Future technologies
+
+   A South Korean ATM with biometrics
+   Enlarge
+   A South Korean ATM with biometrics
+
+   Manufactures have demonstrated and have deployed several different
+   technologies on ATMs that have not yet reached worldwide acceptance,
+   such as:
+     * Biometrics, where authorization of transactions is based on the
+       scanning of a customer's fingerprint, iris, face, etc.
+          + Biometrics on ATMs can be found in Asia
+     * Cheque/Cash Acceptance, where the ATM accepts and recoginse cheques
+       and/or currency without using envelopes
+          + Expected to grow in importance in the US through Check 21
+            legislation.
+     * Bar code scanning
+     * On-demand printing of "items of value" (such as movie tickets,
+       Travellers Cheques, etc.)
+     * Dispensing additional media (such as phone cards)
+     * Co-ordination of ATMs with mobile phones
+     * Customer-specific advertising
+     * Integration with non-banking equipment
+
+Reliability
+
+   A De La Rue ATM running Microsoft Windows that has crashed.
+   Enlarge
+   A De La Rue ATM running Microsoft Windows that has crashed.
+
+   Before an ATM is placed in a public place, it typically has undergone
+   extensive testing with both test money and the backend computer systems
+   that allow it to perform transactions. Banking customers also have come
+   to expect high reliability in their ATMs, which provides incentives to
+   ATM providers to minimize machine and network failures. Financial
+   consequences of incorrect machine operation also provide high degrees
+   of incentive to minimize malfunctions.
+
+   ATMs and the supporting electronic financial networks are generally
+   very reliable, with industry benchmarks typically producing 98.25%
+   customer availability for ATMs and up to 99.999% availability for host
+   systems. If ATMs do go out of service, customers could be left without
+   the ability to make transactions until the beginning of their bank's
+   next time of opening hours.
+
+   Of course, not all errors are to the detriment of customers; there have
+   been cases of machines giving out money without debiting the account,
+   or giving out higher value notes as a result of incorrect denomination
+   of banknote being loaded in the money cassettes. Errors that can occur
+   may be mechanical (such as card transport mechanisms; keypads; hard
+   disk failures); software (such as operating system; device driver;
+   application); communications; or purely down to operator error.
+   An ATM running OS/2 that has crashed.
+   Enlarge
+   An ATM running OS/2 that has crashed.
+
+   To aid in reliability, some ATMs print each transaction to a roll paper
+   journal that is stored inside the ATM, which allows both the users of
+   the ATMs and the related financial institutions to settle things based
+   on the records in the journal in case there is a dispute. In some
+   cases, transactions are posted to an electronic journal to remove the
+   cost of supplying journal paper to the ATM and for more convenient
+   searching of data.
+
+   Improper money checking can cause the possibility of a customer
+   receiving counterfeit banknotes from an ATM. While Bank presonnel are
+   generally trained better at spotting and removing counterfit cash, the
+   resulting ATM money supplies used by banks provide no absolute
+   guarantee for proper banknotes, as the Federal Criminal Police Office
+   of Germany has confirmed that there are regularly incidents of false
+   banknotes having been provided through bank ATMs. Some ATMs may be
+   stocked and wholly owned by outside companies, which can further
+   complicate this problem when it happens. Bill validation technology can
+   be used by ATM providers to help ensure the authenticity of the cash
+   before it is stocked in an ATM; ATMs that have cash recycling
+   capabilities include this capability.
+
+Fraud
+
+   As with any device containing objects of value, ATMs and the systems
+   they depend on to function are the targets of fraud. Fraud against ATMs
+   and people's attempts to use them takes several forms.
+
+Fake ATMs
+
+   The first known instance of a fake ATM was installed at a shopping mall
+   in Manchester, Connecticut in 1993. By modifying the inner workings of
+   a Fujitsu model 7020 ATM, a criminal gang known as The Bucklands Boys
+   were able to steal information from cards inserted into the machine by
+   customers.
+
+Operational fraud
+
+   In some cases, bank fraud could occur at ATMs whereby the bank
+   accidentally stocks the ATM with bills in the wrong denomination,
+   therefore giving the customer more money than should be dispensed. The
+   result of receiving too much money may be influenced on the Card Holder
+   Agreement in place between the customer and the Bank.
+
+   In a variation of this, WAVY-TV reported an incident in Virginia Beach
+   of September 2006 where a hacker who had an admin password for a gas
+   station's white label ATM caused the unit to assume it was loaded with
+   $5 USD bills instead of $20s, enabling himself--and many subsequent
+   customers--to walk away with four times the money they said they wanted
+   to withdraw.
+
+   ATM behaviour can change during what is called "stand-in" time, where
+   the Bank's cash dispensing network is unable to access databases that
+   contain account information (possibly for database maintenance). In
+   order to give customers access to cash, customers may be allowed to
+   withdraw cash up to a certain amount that may be less than their usual
+   daily withdrawal limit, but may still exceed the amount of available
+   money in their account, which could result in fraud.
+
+ATM card fraud
+
+Theft
+
+   In an attempt to prevent criminals from shoulder surfing the customer's
+   PINs, some banks draw privacy areas on the floor.
+   Enlarge
+   In an attempt to prevent criminals from shoulder surfing the customer's
+   PINs, some banks draw privacy areas on the floor.
+
+   For a low-tech form of fraud, the simplest is to simply steal a
+   customer's card. In this scenario, the user's PIN is observed by
+   someone watching as they use the machine; they are then mugged for
+   their card by a second person, who has taken care to stay out of range
+   of the ATM's surveillance cameras. However, this offers little
+   advantage compared to simply mugging the victim for their money, and
+   carries the same risks to the offender as other violent crimes.
+
+   A later variant of this approach is to trap the card inside of the
+   ATM's card reader with a device often referred to as a Lebanese loop.
+   When the customer gets frustrated by not getting the card back and
+   walks away from the machine, the criminal is able to remove the card
+   and withdraw cash from the customer's account.
+
+   The Lebanese Loop could also be combined with the Droplet method of
+   stealing the PIN, where small drops of oil are placed on the PIN pad
+   keys. After a customer used the ATM, one can see which keys were
+   pressed, which makes it easier to guess the entered pin. A simple
+   counter measure to this attack is to wipe the PIN pad before or after
+   each use.
+
+   Another simple form of fraud involves attempting to get the customer's
+   bank to issue a new card and stealing it from their mail.
+
+Cloning
+
+   Some ATMs may put up warning messages to customers to not use them when
+   it detects possible tampering.
+   Enlarge
+   Some ATMs may put up warning messages to customers to not use them when
+   it detects possible tampering.
+
+   The concept and various methods of copying the contents of an ATM
+   card's magnetic stripe on to a duplicate card to access other people's
+   financial information was well known in the hacking communities by late
+   1990.
+
+   In 1996 Andrew Stone, a computer security consultant from Hampshire in
+   the UK was convicted of stealing in excess of 1 million UK pounds (at
+   the time that was US$1.6 million) by pointing high definition video
+   cameras at ATMs from a considerable distance, and by recording the card
+   numbers, expiry dates, etc. from the embossed detail on the ATM cards
+   along with video footage of the PINs being entered. After getting all
+   the information from the videotapes, he was able to produce clone cards
+   which not only allowed him to withdraw the full daily limit for each
+   account, but also allowed him to sidestep withdrawal limits by using
+   multiple copied cards. In court, it was shown that he could withdraw as
+   much as £10,000 per hour by using this method. Stone was sentenced to
+   five years and six months in prison.
+
+   By contrast, a newer high-tech modus operandi involves the installation
+   of a magnetic card reader over the real ATM's card slot and the use of
+   a wireless surveillance camera or a modified digital camera to observe
+   the user's PIN. Card data is then cloned onto a second card and the
+   criminal attempts a standard cash withdrawal. The availability of
+   low-cost commodity wireless cameras and card readers has made it a
+   relatively simple form of fraud, with comparatively low risk to the
+   fraudsters.
+
+Combatting stolen cards and information
+
+   In an attempt to stop these practices, countermeasures against card
+   cloning have been developed by the banking industry, in particular by
+   the use of smart cards which cannot easily be copied or spoofed by
+   un-authenticated devices, and by attempting to make the outside of
+   their ATMs tamper evident. Older chip-card security systems include the
+   French Carte Bleue, Visa Cash, Mondex, Blue from American Express and
+   EMV '96 or EMV 3.11. The most actively developed form of smart card
+   security in the industry today is known as EMV 2000 or EMV 4.x.
+
+   EMV is widely used in the UK ( Chip and PIN) and parts of Europe, but
+   when it is not available in a specific area, ATMs must fallback to
+   using the easy to copy magnetic stripe to perform transactions. This
+   fallback behaviour can be exploited.
+
+Related devices
+
+"Talking ATM"
+
+   A Talking ATM is a type of ATM that provides audible instructions so
+   that persons who cannot read an ATM screen can independently use the
+   machine. All audible information is delivered privately through a
+   standard headphone jack on the face of the machine. Information is
+   delivered to the customer either through pre-recorded sound files or
+   via text-to-speech speech synthesis.
+
+Postal kiosk
+
+   A postal kiosk may also share many of the same components as an ATM
+   (including a vault), but only dispenses items relating to postage.
+
+Scrip cash dispenser
+
+   A scrip cash dispenser may share many of the same components as an ATM,
+   but lacks the ability to dispense physical cash and consequently
+   requires no vault. Instead, the customer requests a withdrawal
+   transaction from the machine, which prints a receipt. The customer then
+   takes this receipt to a nearby sales clerk, who then exchanges it for
+   cash from the till.
+
+Teller assist unit
+
+   A Teller Assist Unit may also share many of the same components as an
+   ATM (including a vault), but they are distinct in that they are
+   designed to be operated solely by trained personnel and not the general
+   public, they do not integrate directly into interbank networks, and are
+   usually controlled by a computer that is not directly integrated into
+   the overall construction of the unit.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Automated_teller_machine"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

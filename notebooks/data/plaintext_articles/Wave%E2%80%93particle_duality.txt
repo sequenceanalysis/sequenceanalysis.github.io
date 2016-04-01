@@ -1,0 +1,293 @@
+   #copyright
+
+Wave–particle duality
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics and chemistry, wave-particle duality holds that light and
+   matter exhibit properties of both waves and of particles. A central
+   concept of quantum mechanics, duality represents a way to address the
+   inadequacy of conventional concepts like "particle" and "wave" to
+   meaningfully describe the behaviour of quantum objects. The idea of
+   duality is rooted in a debate over the nature of light and matter
+   dating back to the 1600s, when competing theories of light were
+   proposed by Christiaan Huygens and Isaac Newton. Through the work of
+   Albert Einstein, Louis de Broglie and many others, it is now
+   established that all objects have both wave and particle nature (though
+   this phenomenon is only detectable on small scales, such as with
+   atoms), and that a suitable interpretation of quantum mechanics
+   provides the over-arching theory resolving this ostensible paradox.
+
+History
+
+   Thomas Young's sketch of two-slit diffraction of light, 1803.
+   Enlarge
+   Thomas Young's sketch of two-slit diffraction of light, 1803.
+
+   At the close of the 19th century, the case for atomic theory, that
+   matter was made of particulate objects or atoms, was well established.
+   Electricity, first thought to be a fluid, was understood to consist of
+   particles called electrons, as demonstrated by J.J. Thomson by his
+   research into the work of Rutherford, who had investigated using
+   cathode rays that an electrical charge would actually travel across a
+   vacuum from cathode to anode. In brief, it was understood that much of
+   nature was made of particles. At the same time, waves were well
+   understood, together with wave phenomena such as diffraction and
+   interference. Light was believed to be a wave, as Thomas Young's
+   double-slit experiment and effects such as Fraunhofer diffraction had
+   clearly demonstrated the wave-like nature of light.
+
+   But as the 20th century turned, problems had emerged with this
+   viewpoint. The photoelectric effect, as analyzed in 1905 by Albert
+   Einstein, demonstrated that light also possessed particle-like
+   properties, further confirmed with the discovery of the Compton effect
+   in 1923. Later on, the diffraction of electrons would be predicted and
+   experimentally confirmed, thus showing that electrons must have
+   wave-like properties in addition to particle properties.
+
+   This confusion over particle versus wave properties was eventually
+   resolved with the advent and establishment of quantum mechanics in the
+   first half of the 20th century, which ultimately explained
+   wave-particle duality. It provided a single unified theoretical
+   framework for understanding that all matter may have characteristics
+   associated with particles and waves. Quantum mechanics holds that every
+   particle in nature, be it a photon, electron or atom, is described by a
+   solution to a differential equation, most typically, the Schroedinger
+   equation. The solutions to this equation are known as wave functions,
+   as they are inherently wave-like in their form. They can diffract and
+   interfere, leading to the wave-like phenomena that are observed. Yet
+   also, the wave functions are interpreted as describing the probability
+   of finding a particle at a given point in space. Thus, if one is
+   looking for a particle, one will find one, with a probability density
+   given by the square of the magnitude of the wave function.
+
+   One does not observe the wave-like quality of everyday objects because
+   the associated wavelengths of people-sized objects are exceedingly
+   small.
+
+Huygens and Newton; earliest theories of light
+
+   The earliest comprehensive theory of light was advanced by Christiaan
+   Huygens, who proposed a wave theory of light, and in particular
+   demonstrated how waves might interfere to form a wave-front,
+   propagating in a straight line. However, the theory had difficulties in
+   other matters, and was soon overshadowed by Isaac Newton's corpuscular
+   theory of light. That is, Newton proposed that light consisted of small
+   particles, with which he could easily explain the phenomenon of
+   reflection. With considerably more difficulty, he could also explain
+   refraction through a lens, and the splitting of sunlight into a rainbow
+   by a prism.
+
+   Because of Newton's immense intellectual stature, his theory went
+   essentially unchallenged for over a century, with Huygens' theories all
+   but forgotten. With the discovery of diffraction in the early 19th
+   century, the wave theory was revived, and so by the advent of the 20th
+   century, a scientific debate over waves vs. particles had already been
+   thriving for a very long time.
+
+Fresnel, Maxwell, and Young
+
+   In the early 1800s, the double-slit experiments by Young and Fresnel
+   provided evidence for Huygens' theories: these experiments showed that
+   when light is sent through a grid, a characteristic interference
+   pattern is observed, very similar to the pattern resulting from the
+   interference of water waves; the wavelength of light can be computed
+   from such patterns. Maxwell, during the late- 1800s, explained light as
+   the propagation of electromagnetic waves with the Maxwell equations.
+   These equations were verified by experiment, and Huygens' view became
+   widely accepted.
+
+Einstein and photons
+
+   The photoelectric effect. Incoming photons on the left strike a metal
+   plate (bottom), and eject electrons, depicted as flying off to the
+   right.
+   Enlarge
+   The photoelectric effect. Incoming photons on the left strike a metal
+   plate (bottom), and eject electrons, depicted as flying off to the
+   right.
+
+   In 1905, Albert Einstein provided an explanation of the photoelectric
+   effect, a hitherto troubling experiment which the wave theory of light
+   seemed incapable of explaining. He did so by postulating the existence
+   of photons, quanta of light energy with particulate qualities.
+
+   In the photoelectric effect, it was observed that shining a light on
+   certain metals would lead to an electric current in a circuit.
+   Presumably, the light was knocking electrons out of the metal, causing
+   them to flow. However, it was also observed that while a dim blue light
+   was enough to cause a current, even the strongest, brightest red light
+   caused no current at all. According to wave theory, the strength or
+   amplitude of a light wave was in proportion to its brightness: a bright
+   light should have been easily strong enough to create a large current.
+   Yet, oddly, this was not so.
+
+   Einstein explained this conundrum by postulating that the electrons
+   were knocked free of the metal by incident photons, with each photon
+   carrying an amount of energy E that was related to the frequency, ν of
+   the light by
+
+          E = h \nu\,
+
+   where h is Planck's constant (6.626 x 10^-34 J seconds). Only photons
+   of a high-enough frequency, (above a certain threshold value) could
+   knock an electron free. For example, photons of blue light had
+   sufficient energy to free an electron from the metal, but photons of
+   red light did not. More intense light above the threshold frequency
+   could release more electrons, but no amount of light below the
+   threshold frequency could release an electron.
+
+   Einstein was awarded the Nobel Prize in Physics in 1921 for his theory
+   of the photoelectric effect.
+
+de Broglie
+
+   In 1924, Louis-Victor de Broglie formulated the de Broglie hypothesis,
+   claiming that all matter, not just light, has a wave-like nature; he
+   related wavelength, λ (lambda), and momentum, p:
+
+          \lambda = \frac{h}{p}
+
+   This is a generalization of Einstein's equation above since the
+   momentum of a photon is given by p = E / c where c is the speed of
+   light in vacuum, and λ = c / ν.
+
+   de Broglie's formula was confirmed three years later for electrons
+   (which have a rest-mass) with the observation of electron diffraction
+   in two independent experiments. At the University of Aberdeen, George
+   Paget Thomson passed a beam of electrons through a thin metal film and
+   observed the predicted interference patterns. At Bell Labs Clinton
+   Joseph Davisson and Lester Halbert Germer guided their beam through a
+   crystalline grid.
+
+   de Broglie was awarded the Nobel Prize for Physics in 1929 for his
+   hypothesis. Thomson and Davisson shared the Nobel Prize for Physics in
+   1937 for their experimental work.
+
+Heisenberg
+
+   Wave-particle duality is often expressed via the Heisenberg uncertainty
+   principle, which states, in its most common form, that:
+
+          \Delta x \Delta p \ge \frac{\hbar}{2}
+
+   where
+
+          Δ is a measure of uncertainty or imprecision in the measurement.
+          x and p are a particle's position and linear momentum
+          respectively.
+          \hbar is the reduced Planck's constant (Planck's constant
+          divided by 2π).
+
+   However the relationship holds more generally for any two conjugate
+   variables, such as time and energy, or angle of rotation and angular
+   momentum and follows from the de Broglie hypothesis being applied to
+   classical fields. The uncertainty relation implies that the measurement
+   of one variable results in the disturbance of its conjugate partner, so
+   that the product of their uncertainty is always greater than a certain
+   amount.
+
+Wave behaviour of large objects
+
+   Similar experiments have since been conducted with neutrons and
+   protons. Among the most famous experiments are those of Estermann and
+   Otto Stern in 1929. Authors of similar recent experiments with atoms
+   and molecules claim that these larger particles also act like waves.
+
+   A dramatic series of experiments emphasizing the action of gravity in
+   relation to wave-particle duality were conducted in the 1970's using
+   the neutron interferometer. Neutrons, one of the components of the
+   atomic nucleus, provide much of the mass of a nucleus and thus of
+   ordinary matter. Neutrons are fermions, and thus possess an important
+   quality we associate with matter, namely its "rigidness" (due to the
+   fact that they obey the Pauli Exclusion Principle). In the neutron
+   interferometer, they act as quantum-mechanical waves directly subject
+   to the force of gravity. While the results were not surprising since
+   gravity was known to act on everything - even deflecting light and
+   acting on photons (the Pound-Rebka falling photon experiment), the
+   self-interference of the quantum mechanical wave of a massive fermion
+   in a gravitational field had never been experimentally confirmed
+   before.
+
+   In 1999, the diffraction of C[60] fullerenes by researchers from the
+   University of Vienna was reported. Fullerenes are rather large and
+   massive objects, having an atomic mass of about 720. The de Broglie
+   wavelength is 2.5 picometers, whereas the diameter of the molecule is
+   about 1 nanometer, i.e. about 400 times larger. As of 2005, this is the
+   largest object for which quantum-mechanical wave-like properties have
+   been directly observed in far-field diffraction. The experimenters have
+   assumed the arguments of wave-particle duality and have assumed the
+   validity of de Broglie's equation in their argument. In 2003 the Vienna
+   group has meanwhile also demonstrated the wave-nature of
+   tetraphenylporphyrin - a flat biodye with an extension of about 2 nm
+   and a mass of 614 amu. For this demonstration they employed a
+   near-field Talbot Lau interferometer . In the same interferometer they
+   also found interference fringes for C60F48, a fluorinated buckyball
+   with a mass of about 1600 amu, composed of 108 atoms . Large molecules
+   are already so complex that they give experimental access to some
+   aspects of the quantum-classical interface, i.e. to certain decoherence
+   mechanisms .
+
+   Whether objects heavier than the Planck mass (about the weight of a
+   large bacterium) have a de Broglie wavelength is theoretically unclear
+   and experimentally unreachable; above the Planck mass a particle's
+   Compton wavelength would be smaller than the Planck length and its own
+   Schwarzchild radius, a scale at which current theories of physics may
+   break down or need to be replaced by more general ones.
+
+Theoretical sketch and remarks on philosophical inquiry
+
+   Examples ( diffraction, interference, double-slit experiment, phase
+   noise in lasers, proton, teleportation, quantum computing, quantum
+   cryptography , Bell's theorem, combination with special relativity:
+   Klein-Gordon Equation and Dirac equations) for the application of this
+   framework have been given above, now the common mathematics behind it
+   is discussed.
+
+   The wave and the particle description is made equivalent three steps:
+    1. For particles the state of a system is described mathematically by
+       the number of particles and their positions; quantum mechanics
+       assigns every number and every combination of positions a complex
+       number.
+    2. For waves the state of a system is described mathematically by the
+       field distribution; quantum field theory assigns every field
+       distribution (zero everywhere, homogeneous , circular ...) a
+       complex number.
+    3. It is mathematically proven (see fock space in quantum field
+       theory), that both quantum descriptions are equivalent, while the
+       classical descriptions are not
+
+   see also: Hilbert space, path integral formulation, Mathematical
+   formulation of quantum mechanics
+
+   All complex numbers together make up the ket, which is also called wave
+   function. But the name "wave function" is problematic, as it sounds
+   that they have more to do with waves than with particles. The time
+   evolution of a ket is governed by a partial differential equation
+   generically called the Schrödinger equation. The mathematical tools
+   learned for classical physics to solve such an equation can still be
+   applied: Superposition, eigenfunctions, eigenvalues, FDTD, perturbation
+   theory. In other words: "it is a particle and a wave at the same time"
+   in reality and in calculations. It has to be admitted that the
+   coefficients for the differential equations were derived in a rather
+   unsymmetrical way with respect to particles and waves, but it is
+   unclear if this is an historical artifact.
+
+   The ket is still interpreted as the probability of finding a system in
+   a specific state. Most of the examples allow or even need partial
+   measurements followed by a second time evolution of the ket followed by
+   more measurements and so on, this is where the philosophical inquiry
+   takes place.
+
+Applications
+
+   Wave-particle duality is exploited in electron microscopy, where the
+   small wavelengths associated with the electron can be used to view
+   objects much smaller than what is visible using visible light.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

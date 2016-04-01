@@ -1,0 +1,314 @@
+   #copyright
+
+Boolean logic
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Boolean logic is a complete system for logical operations. It was named
+   after George Boole, an English mathematician at University College Cork
+   who first defined an algebraic system of logic in the mid 19th century.
+   Boolean logic has many applications in electronics, computer hardware
+   and software, and is the base of digital electronics. In 1938, Claude
+   Shannon showed how electric circuits with relays were a model for
+   Boolean logic. This fact soon proved enormously consequential with the
+   emergence of the electronic computer.
+
+   Using the algebra of sets, this article contains a basic introduction
+   to sets, Boolean operations, Venn diagrams, truth tables, and Boolean
+   applications. The Boolean algebra article discusses a type of algebraic
+   structure that satisfies the axioms of Boolean logic. The binary
+   arithmetic article discusses the use of binary numbers in computer
+   systems.
+
+Terms
+
+   Venn diagram showing the intersection of sets A AND B (in violet), the
+   union of sets A OR B (all the colored regions), and set A XOR B (all
+   the colored regions except the violet). The "universe" is represented
+   by the rectangular frame.
+   Venn diagram showing the intersection of sets A AND B (in violet), the
+   union of sets A OR B (all the colored regions), and set A XOR B (all
+   the colored regions except the violet). The "universe" is represented
+   by the rectangular frame.
+
+   Let X be a set:
+     * An element is one member of a set. This is denoted by \in . If it's
+       not an element of the set, this is denoted by \notin .
+
+     * The universe is the set X, sometimes denoted by 1. Note that this
+       use of the word universe means "all elements being considered",
+       which are not necessarily the same as "all elements there are".
+
+     * The empty set or null set is the set of no elements, denoted by
+       \varnothing and sometimes 0.
+
+     * A unary operator applies to a single set. There is one unary
+       operator, called logical NOT. It works by taking the complement.
+
+     * A binary operator applies to two sets. The basic binary operators
+       are logical OR and logical AND. They perform the union and
+       intersection of sets. There are also other derived binary
+       operators, such as XOR (exclusive OR). See the geometry of logic.
+
+     * A subset is denoted by A \subseteq B and means every element in set
+       A is also in set B.
+
+     * A proper subset is denoted by A \subset B and means every element
+       in set A is also in set B and the two sets are not equal.
+
+     * A superset is denoted by A \supseteq B and means every element in
+       set B is also in set A.
+
+     * A proper superset is denoted by A \supset B and means every element
+       in set B is also in set A and the two sets are not equal.
+
+Example
+
+   Let's imagine that set A contains all even numbers (multiples of two)
+   in "the universe" and set B contains all multiples of three in "the
+   universe". Then the intersection of the two sets (all elements in sets
+   A AND B) would be all multiples of six in "the universe".
+
+   The complement of set A (all elements NOT in set A) would be all odd
+   numbers in "the universe".
+
+Chaining operations together
+
+   While at most two sets are joined in any Boolean operation, the new set
+   formed by that operation can then be joined with other sets utilizing
+   additional Boolean operations. Using the previous example, we can
+   define a new set C as the set of all multiples of five in "the
+   universe". Thus "sets A AND B AND C" would be all multiples of 30 in
+   "the universe". If more convenient, we may consider set AB to be the
+   intersection of sets A and B, or the set of all multiples of six in
+   "the universe". Then we can say "sets AB AND C" are the set of all
+   multiples of 30 in "the universe". We could then take it a step
+   further, and call this result set ABC.
+
+Use of parentheses
+
+   While any number of logical ANDs (or any number of logical ORs) may be
+   chained together without ambiguity, the combination of ANDs and ORs and
+   NOTs can lead to ambiguous cases. In such cases, parentheses may be
+   used to clarify the order of operations. As always, the operations
+   within the innermost pair is performed first, followed by the next pair
+   out, etc., until all operations within parentheses have been completed.
+   Then any operations outside the parentheses are performed.
+
+Properties
+
+   Let's define symbols for the two primary binary operations as \land /
+   \cap (logical AND/intersection) and \lor / \cup (logical OR/union), and
+   for the single unary operation \lnot / ~ (logical NOT/complement). We
+   will also use the values 0 (logical FALSE/the empty set) and 1 (logical
+   TRUE/the universe). The following properties apply to both Boolean
+   algebra and Boolean logic:
+
+   a \lor (b \lor c) = (a \lor b) \lor c a \land (b \land c) = (a \land b)
+   \land c associativity
+   a \lor b = b \lor a a \land b = b \land a commutativity
+   a \lor (a \land b) = a a \land (a \lor b) = a absorption
+   a \lor (b \land c) = (a \lor b) \land (a \lor c) a \land (b \lor c) =
+   (a \land b) \lor (a \land c) distributivity
+   a \lor \lnot a = 1 a \land \lnot a = 0 complements
+   a \lor a = a a \land a = a idempotency
+   a \lor 0 = a a \land 1 = a boundedness
+   a \lor 1 = 1 a \land 0 = 0
+   \lnot 0 = 1 \lnot 1 = 0 0 and 1 are complements
+   \lnot (a \lor b) = \lnot a \land \lnot b \lnot (a \land b) = \lnot a
+   \lor \lnot b de Morgan's laws
+   \lnot \lnot a = a involution
+
+   The first three properties define a lattice; the first five define a
+   Boolean algebra.
+
+Truth tables
+
+   For Boolean logic using only two values, 0 and 1, the INTERSECTION and
+   UNION of those values may be defined using truth tables such as these:
+
+   \cap 0 1
+     0  0 0
+     1  0 1
+
+           \cup 0 1
+             0  0 1
+             1  1 1
+     * More complex truth tables involving multiple inputs, and other
+       Boolean operations, may also be created.
+
+     * Truth tables have applications in logic, interpreting 0 as FALSE, 1
+       as TRUE, \cap as AND, \cup as OR, and ¬ as NOT.
+
+Other notations
+
+   Mathematicians and engineers often use plus (+) for OR and a product
+   sign ( \cdot ) for AND. OR and AND are somewhat analogous to addition
+   and multiplication in other algebraic structures, and this notation
+   makes it very easy to get sum of products form for normal algebra. NOT
+   may be represented by a line drawn above the expression being negated (
+   \overline{x} ).
+
+   Programmers will often use a pipe symbol (|) for OR, an ampersand (&)
+   for AND, and a tilde (~) for NOT. In many programming languages, these
+   symbols stand for bitwise operations. "||", "&&", and "!" are used for
+   variants of these operations.
+
+   Another notation uses "meet" for AND and "join" for OR. However, this
+   can lead to confusion, as the term "join" is also commonly used for any
+   Boolean operation which combines sets together, which includes both AND
+   and OR.
+
+Basic mathematics use of Boolean terms
+
+     * In the case of simultaneous equations, they are connected with an
+       implied logical AND:
+
+                x + y = 2
+
+                AND
+
+                x - y = 2
+
+     * The same applies to simultaneous inequalities:
+
+                x + y < 2
+
+                AND
+
+                x - y < 2
+
+     * The greater than or equals sign ( \ge ) and less than or equals
+       sign ( \le ) may be assumed to contain a logical OR:
+
+                X < 2
+
+                OR
+
+                X = 2
+
+     * The plus/minus sign ( \pm ), as in the case of the solution to a
+       square root problem, may be taken as logical OR:
+
+                WIDTH = 3
+
+                OR
+
+                WIDTH = -3
+
+English language use of Boolean terms
+
+   Care should be taken when converting an English sentence into a formal
+   Boolean statement. Many English sentences have imprecise meanings, e.g.
+   "All that glitters is not gold," which could mean that "nothing that
+   glitters is gold" or "some things which glitter are not gold".
+
+   AND and OR can also be used interchangeably in English, in certain
+   cases:
+     * "I always carry an umbrella for when it rains and snows."
+
+     * "I always carry an umbrella for when it rains or snows."
+
+   Sometimes the English words AND and OR have the opposite meaning in
+   Boolean logic:
+     * "Give me all the red and blue berries" usually means "Give me all
+       berries that are red or blue". An alternative phrasing for standard
+       written English: "Give me all berries that are red as well as all
+       berries that are blue".
+
+   Also note that the word OR in English may correspond with either
+   logical OR or logical XOR, depending on the context:
+     * "I start to sweat when the humidity or temperature is high."
+       (logical OR)
+
+     * "You want ice cream and candy? You may have ice cream or candy."
+       (logical XOR)
+
+   The combination AND/OR is sometimes used in English to specify a
+   logical OR, when just using the word OR alone might have been mistaken
+   as meaning logical XOR:
+     * "I'm having chicken and/or beef for dinner." (logical OR). An
+       alternative phrasing for standard written English: "I'm having
+       either chicken or beef or both for dinner."
+
+   The use of the "and/or" virgule is generally disfavored in formal
+   written English. Such usage may introduce critical imprecision in legal
+   instruments, research findings, and specifications for computer
+   programs or electronic circuits. For example, the statement: "the
+   program should verify that the applicant has checked the male or female
+   box", should be taken as an XOR, and a check added to ensure that one,
+   and only one, box is selected. In other cases, the interpretation of
+   English may be less certain, and the author of the specification may
+   need to be consulted to determine their true intent.
+
+Applications
+
+Digital electronic circuit design
+
+   Boolean logic is also used for circuit design in electrical
+   engineering; here 0 and 1 may represent the two different states of one
+   bit in a digital circuit, typically high and low voltage. Circuits are
+   described by expressions containing variables, and two such expressions
+   are equal for all values of the variables if, and only if, the
+   corresponding circuits have the same input-output behavior.
+   Furthermore, every possible input-output behaviour can be modeled by a
+   suitable Boolean expression.
+
+   Basic logic gates such as AND, OR, and NOT gates may be used alone, or
+   in conjunction with NAND, NOR, and XOR gates, to control digital
+   electronics and circuitry. Whether these gates are wired in series or
+   parallel controls the precedence of the operations.
+
+Database applications
+
+   Relational databases use SQL, or other database-specific languages, to
+   perform queries, which may contain Boolean logic. For this application,
+   each record in a table may be considered to be an "element" of a "set".
+   For example, in SQL, these SELECT statements are used to retrieve data
+   from tables in the database:
+   SELECT * FROM EMPLOYEES WHERE LAST_NAME = 'Smith' AND FIRST_NAME = 'John' ;
+
+   SELECT * FROM EMPLOYEES WHERE LAST_NAME = 'Smith' OR  FIRST_NAME = 'John' ;
+
+   SELECT * FROM EMPLOYEES WHERE NOT LAST_NAME = 'Smith' ;
+
+   Parentheses may be used to explicitly specify the order in which
+   Boolean operations occur, when multiple operations are present:
+   SELECT * FROM EMPLOYEES WHERE (NOT LAST_NAME = 'Smith') AND (FIRST_NAME = 'Jo
+hn' OR FIRST_NAME = 'Mary') ;
+
+   Multiple sets of nested parentheses may also be used, where needed.
+
+   Any Boolean operation (or operations) which combines two (or more)
+   tables together is referred to as a join, in relational database
+   terminology.
+
+   In the field of Electronic Medical Records, some software applications
+   use Boolean logic to query their patient databases, in what has been
+   named Concept Processing technology.
+
+Search engine queries
+
+   Search engine queries also employ Boolean logic. For this application,
+   each web page on the Internet may be considered to be an "element" of a
+   "set". The following examples use a syntax supported by Google.
+     * Doublequotes are used to combine whitespace-separated words into a
+       single search term.
+     * Whitespace is used to specify logical AND, as it is the default
+       operator for joining search terms:
+
+   "Search term 1" "Search term 2"
+
+     * The OR keyword is used for logical OR:
+
+   "Search term 1" OR "Search term 2"
+
+     * The minus sign is used for logical NOT (AND NOT):
+
+   "Search term 1" -"Search term 2"
+
+   Retrieved from " http://en.wikipedia.org/wiki/Boolean_logic"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

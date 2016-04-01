@@ -1,0 +1,199 @@
+   #copyright
+
+Evolutionarily stable strategy
+
+2007 Schools Wikipedia Selection. Related subjects: Environment; Politics and
+government
+
+                                           Evolutionarily stable strategy
+                                        A solution concept in game theory
+                                                            Relationships
+            Subset of:                                    Nash equilibrium
+      Intersects with: Subgame perfect equilibrium, Trembling hand perfect
+                                 equilibrium, Perfect Bayesian equilibrium
+                                                             Significance
+          Proposed by:              John Maynard Smith and George R. Price
+             Used for:    Biological modeling and Evolutionary game theory
+              Example:                     Hawk-dove (aka Game of chicken)
+
+   In game theory, an evolutionarily stable strategy (or ESS; also
+   evolutionary stable strategy) is a strategy which if adopted by a
+   population cannot be invaded by any competing alternative strategy. The
+   concept is an equilibrium refinement to a Nash equilibrium. The
+   difference between a Nash equilibrium and an ESS is that a Nash
+   equilibrium may sometimes exist due to the assumption that rational
+   foresight prevents players from playing an alternative strategy with no
+   short term cost, but which will eventually be beaten by a third
+   strategy. An ESS is defined to exclude such equilibria, and assumes
+   that natural selection is the only force which selects against using
+   strategies with lower payoffs.
+
+   The term was introduced and defined by John Maynard Smith and George R.
+   Price in a 1973 Nature paper and is central to Maynard Smith's (1982)
+   book Evolution and the Theory of Games. The concept was derived from
+   R.H. MacArthur and W.D. Hamilton's work on sex ratios, especially
+   Hamilton's (1967) concept of an unbeatable strategy. The idea can be
+   traced back to Ronald Fisher (1930) and Charles Darwin (1859), (see
+   Edwards, 1998).
+
+Nash equilibria and ESS
+
+   A Nash equilibrium is a strategy in a game such that if all players
+   adopt it, no player will benefit by switching to play any alternative
+   strategy. If a player choosing strategy J in a population where all
+   other players play strategy I receives a payoff of E(J,I), then
+   strategy I is a Nash equilibrium if,
+
+          E(I,I) ≥ E(J,I) for any J
+
+   This equilibrium definition allows for the possibility that strategy J
+   is a neutral alternative to I (it scores equally, but not better). A
+   Nash equilibrium is presumed to be stable even if J scores equally, on
+   the assumption that players do not play J
+
+   Maynard Smith and Price (1973) specify two conditions for a strategy I
+   to be an ESS. Either
+    1. E(I,I) > E(J,I), or
+    2. E(I,I) = E(J,I) and E(I,J) > E(J,J)
+
+   must be true for all I ≠ J, where E(I,J) is the expected payoff to
+   strategy I when playing against strategy J.
+
+   The first condition is sometimes called a 'strict Nash' equilibrium
+   (Harsanyi, 1973), the second is sometimes referred to as 'Maynard
+   Smith's second condition'.
+
+   There is also an alternative definition of ESS which, though it
+   maintains functional equivalence, places a different emphasis on the
+   role of the Nash equilibrium concept in the ESS concept. Following the
+   terminology given in the first definition above, we have (adapted from
+   Thomas, 1985):
+    1. E(I,I) ≥ E(J,I), and
+    2. E(I,J) > E(J,J)
+
+   In this formulation, the first condition specifies that the strategy be
+   a Nash equilibrium, and the second specifies that Maynard Smith's
+   second condition be met. Note that despite the difference in
+   formulation, the two definitions are actually equivalent.
+
+   One advantage to this change is that the role of the Nash equilibrium
+   in the ESS is more clearly highlighted. It also allows for a natural
+   definition of other concepts like a weak ESS or an evolutionarily
+   stable set (Thomas, 1985).
+
+An example
+
+   Consider the following payoff matrix, describing a coordination game:
+
+                                 A      B
+                              A 1,1    0,0
+                              B 0,0    1,1
+                              Coordination game
+
+   Both strategies A and B are ESS, since a B player cannot invade a
+   population of A players nor can an A player invade a population of B
+   players. Here the two pure strategy Nash equilibria correspond to the
+   two ESS. In this second game, which also has two pure strategy Nash
+   equilibria, only one corresponds to an ESS:
+
+                                    C   D
+                                 C 1,1 0,0
+                                 D 0,0 0,0
+                                 Simple game
+
+   Here (D, D) is a Nash equilibrium (since neither player will do better
+   by unilaterally deviating), but it is not an ESS. Consider a C player
+   introduced into a population of D players. The C player does equally
+   well against the population (she scores 0), however the C player does
+   better against herself (she scores 1) than the population does against
+   the C player. Thus, the C player can invade the population of D
+   players.
+
+   Even if a game has pure strategy Nash equilibria, it might be the case
+   that none of the strategies are ESS. Consider the following example
+   (known as Chicken):
+
+                                   E      F
+                               E  0,0   -1,+1
+                               F +1,-1 -20,-20
+                                  Chicken
+
+   There are two pure strategy Nash equilibria in this game (E, F) and (F,
+   E). However, in the absence of an uncorrelated asymmetry, neither F nor
+   E are ESSes. A third Nash equilibrium exists, a mixed strategy, which
+   is an ESS for this game (see Hawk-dove game and Best response for
+   explanation).
+
+Bishop-Cannings theorem
+
+   Just as Nash equilibria can be either a pure strategy, or probabalistic
+   mixtures of pure strategies (a mixed strategy), evolutionarily stable
+   strategies can be either pure of mixed.
+
+   The Bishop-Cannings theorem (Bishop & Cannings, 1978) proves that all
+   members of a mixed evolutionarily stable strategy have the same payoff,
+   and that none of these can also be a pure evolutionarily stable
+   strategy. The same logic also applies to Nash equilibria and so the
+   same will hold true for members of a mixed Nash as for members of a
+   mixed ESS.
+
+ESS vs. Evolutionarily Stable State
+
+          An ESS or evolutionarily stable strategy is a strategy such
+          that, if all the members of a population adopt it, no mutant
+          strategy can invade. -- Maynard Smith (1982).
+
+          A population is said to be in an evolutionarily stable state if
+          its genetic composition is restored by selection after a
+          disturbance, provided the disturbance is not too large. Such a
+          population can be genetically monomorphic or polymorphic. --
+          Maynard Smith (1982).
+
+   An ESS is a strategy with the property that, once virtually all members
+   of the population use it, then no 'rational' alternative exists. An
+   evolutionarily stable state is a dynamical property of a population to
+   return to using a strategy, or mix of strategies, if it is perturbed
+   from that strategy, or mix of strategies. The former concept fits
+   within classical game theory, whereas the latter is a population
+   genetics, dynamical system, or evolutionary game theory concept.
+
+   Thomas (1984) applies the term ESS to an individual strategy which may
+   be mixed, and evolutionarily stable population state to a population
+   mixture of pure strategies which may be formally equivalent to the
+   mixed ESS.
+
+Prisoner's dilemma and ESS
+
+   Consider a large population of people who, in the iterated prisoner's
+   dilemma, always play Tit for Tat in transactions with each other.
+   (Since almost any transaction requires trust, most transactions can be
+   modelled with the prisoner's dilemma.) If the entire population plays
+   the Tit-for-Tat strategy, and a group of newcomers enter the population
+   who prefer the Always Defect strategy (i.e. they try to cheat everyone
+   they meet), the Tit-for-Tat strategy will prove more successful, and
+   the defectors will be converted or lose out. Tit for Tat is therefore
+   an ESS, with respect to these two strategies. On the other hand, an
+   island of Always Defect players will be stable against the invasion of
+   a few Tit-for-Tat players, but not against a large number of them. (see
+   Robert Axelrod's The Evolution of Cooperation).
+
+ESS and human behaviour
+
+   The recent, controversial sciences of sociobiology and now evolutionary
+   psychology attempt to explain animal and human behaviour and social
+   structures, largely in terms of evolutionarily stable strategies.
+   Sociopathy (chronic antisocial/criminal behaviour) has been suggested
+   to be best explained as a combination of two such strategies.
+
+   Although ESS were originally considered as stable states for biological
+   evolution, it need not be limited to such contexts. In fact, ESS are
+   stable states for a large class of adaptive dynamics. As a result ESS
+   are used to explain human behavior without presuming that the behaviour
+   is necessarily determined by genes.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Evolutionarily_stable_strategy"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

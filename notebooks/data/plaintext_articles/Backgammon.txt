@@ -1,0 +1,437 @@
+   #copyright
+
+Backgammon
+
+2007 Schools Wikipedia Selection. Related subjects: Games
+
+                               Backgammon
+   A modern backgammon set, consisting of a board, two sets of 15
+   checkers, two pairs of dice, and a doubling cube
+       Players      2
+      Age range     5+
+      Setup time    10–30 seconds
+     Playing time   5–30 minutes
+   Rules complexity Medium
+    Strategy depth  High
+    Random chance   Medium (Dice)
+   Skills required  Strategy, Probability
+
+   Backgammon is a board game for two players in which pieces are moved
+   according to the roll of dice and the winner is the first to remove all
+   his pieces from the board. Many variants have developed throughout the
+   world, but most share the same common elements. It is a member of the
+   tables family of games.
+
+   The game is essentially a race, and luck plays a measurable role, but
+   backgammon offers a significant scope for strategy. With each roll of
+   the dice, a player must choose between numerous options for moving the
+   checkers, and plan for possible counter-moves by his opponent.
+   Opportunities for raising the stakes of the game introduce more
+   strategic intricacies. Players have developed a vocabulary for common
+   tactics and occurrences.
+
+   Like chess, backgammon has been studied considerably by computer
+   scientists. Research has resulted in backgammon software that is
+   capable of beating world-class human players.
+
+History
+
+   Game recovered from the Vasa, sunk in 1628
+   Enlarge
+   Game recovered from the Vasa, sunk in 1628
+
+   The ancient Egyptians played a game called senet, which resembled
+   backgammon, with moves controlled by the roll of dice. The Royal Game
+   of Ur, played in ancient Mesopotamia, is a more likely ancestor of
+   modern tables games. Recent excavations at the " Burnt City" in Iran
+   showed that a similar game existed there around 3000 BC. The artifacts
+   include two dice and 60 pieces, and the set is believed to be 100 to
+   200 years older than the sets found in Ur.
+
+   The ancient Romans played a number of games with remarkable
+   similarities to backgammon. Ludus duodecim scriptorum ("game of twelve
+   lines") used a board with three rows of 12 points each, and the pieces
+   were moved across all three rows according to the roll of dice. Not
+   much specific text about the gameplay has survived. Tabula, meaning
+   "table" or "board", was a game mentioned in an epigram of Byzantine
+   Emperor Zeno (AD 476–481). It was similar to modern backgammon in that
+   a board with 24 points was used, and the object of the game was to be
+   the first to bear off all of one's checkers. Three dice were used
+   instead of two, and opposing checkers moved in opposite directions.
+
+   In the 11th century Shahnameh, the Persian poet Ferdowsi credits Burzoe
+   with the invention of the tables game nard in the 6th century. He
+   describes an encounter between Burzoe and a Raja visiting from India.
+   The Raja introduces the game of chess, and Burzoe demonstrates nard,
+   played with dice made from ivory and teak.
+
+   The jeux de tables, predecessors of modern backgammon, first appeared
+   in France during the 11th century and became a frequent pastime for
+   gamblers. In 1254, Louis IX issued a decree prohibiting his court
+   officials and subjects from playing the games. Tables games were played
+   in Germany in the 12th century, and had reached Iceland by the 13th
+   century. While it is mostly known for its extensive discussion of
+   chess, the Alfonso X manuscript Libro de los juegos, completed in 1283,
+   describes rules for a number of dice and tables games. By the 17th
+   century, tables games had spread to Sweden. A wooden board and checkers
+   were recovered from the wreck of the Vasa among the belongings of the
+   ship's officers.
+
+   In the 16th century, Elizabethan laws and church regulations had
+   prohibited playing tables, but by the 18th century backgammon was
+   popular among the English clergy. Edmund Hoyle published A Short
+   Treatise on the Game of Backgammon in 1743; this book described the
+   rules of the game and was bound together with a similar text on whist.
+   The game described by Hoyle is, in most respects, the same as the game
+   played today.
+
+Name
+
+     * In English, the word "backgammon" is most likely derived from
+       "back" and Middle English "gamen", meaning "game" or "play". The
+       earliest use documented by the Oxford English Dictionary was in
+       1650.
+     * In Arabic, the game is called tawilat el-nard (طاولة النرد) or
+       tawilat el-zahr (طاولة الزهر), meaning "board of dice".
+     * In Chinese, the game is called shuang lu (双陆), meaning "double
+       sixes".
+     * In Greek, it is referred to as portes and is played as one of the
+       three games in a tavli match.
+     * In Hebrew, it is called shesh besh (שש בש), derived from the
+       Persian and Turkish for "six" and "five"
+     * In Japanese, sugoroku (双六) refers to backgammon as well as other
+       racing games.
+     * In Persian, backgammon is called takhte nard, meaning "battle on a
+       wooden board".
+     * In Portuguese, backgammon is called gamão.
+     * In Romanian, backgammon is called table.
+     * In Turkish, the game is called tavla.
+
+Rules
+
+   The objective of backgammon is to move all of one's own checkers past
+   those of one's opponent and then remove them from the board. The pieces
+   are scattered at first and may be blocked or hit by the opponent.
+   Because the playing time for each individual game is short, it is often
+   played in matches, where victory is awarded to the first player to
+   reach a certain number of points.
+
+Setup
+
+   Each side of the board has a track of twelve long triangles, called
+   points. The points are considered to be connected across one edge of
+   the board, forming a continuous track analogous to a horseshoe,
+   numbered from 1 to 24. Each player begins with two checkers on his
+   24-point, three checkers on his 8-point, and five checkers each on his
+   13-point and his 6-point. The two players move their checkers in
+   opposite directions, each from his own 24-point toward his 1-point.
+   Path of movement for blue and green; checkers are in starting position
+   Enlarge
+   Path of movement for blue and green; checkers are in starting position
+
+   Points 1 to 6 are called the home board or inner board, and points 7 to
+   12 are called the outer board. The 7-point is referred to as the bar
+   point and the 13-point as the mid point.
+
+Movement
+
+   At the start of the game, each player rolls one die, and the player
+   with the higher number moves first. The players then alternate turns,
+   rolling two dice at the beginning of each turn.
+
+   After rolling the dice a player must, if possible, move checkers
+   according to the number of pips showing on each die. For example, if he
+   rolls a 6 and a 3 (noted as "6-3") he must move one checker six points
+   forward, and another checker three points forward. The same checker may
+   be moved twice as long as the two moves are distinct: six and then
+   three, or three and then six, but not all nine at once. If a player
+   rolls two of the same number (doubles) he must play each die twice. For
+   example, upon rolling a 5-5 he must move four checkers forward five
+   spaces each.
+
+   A checker may land on any point that is either unoccupied or is
+   occupied only by a player's own checkers. It may also land on a point
+   occupied by exactly one opposing checker; such a lone piece is called a
+   blot. In the latter case, the blot has been hit, and is placed in the
+   middle of the board on the bar, the divider between the home boards and
+   the outer boards. A checker may never land on a point occupied by two
+   or more opposing checkers, thus, no point is ever occupied by checkers
+   from both players at the same time.
+   Medieval players, from the 14th century Codex Manesse
+   Enlarge
+   Medieval players, from the 14th century Codex Manesse
+
+   Checkers placed on the bar re-enter the game through the opponent's
+   home field. A roll of 2 allows the checker to enter on the 23-point, a
+   roll of 3 on the 22-point, etc. A player may not move any other
+   checkers until all of his checkers on the bar have first re-entered the
+   opponent's home field.
+
+   When all of a player's checkers are in his home board, he must bear
+   off, removing the checkers from the board. A roll of 1 may be used to
+   bear off a checker from the 1-point, a 2 from the 2-point, etc. A die
+   may not be used to bear off checkers from a lower-numbered point unless
+   there are no checkers on any higher points.
+
+   If one player has not borne off any checkers by the time his opponent
+   has borne off all fifteen, he has lost a gammon, which counts for
+   double a normal loss. If the losing player still has checkers on the
+   bar or in his opponent's home board, he has lost a backgammon, which
+   counts for triple a normal loss.
+
+Doubling cube
+
+   Backgammon set, 19th century
+   Enlarge
+   Backgammon set, 19th century
+
+   To speed up match play and to provide an added dimension for strategy,
+   a doubling cube is normally used. The doubling cube is a 6-sided die
+   marked with the numbers 2, 4, 8, 16, 32 and 64. If a player believes
+   his position to be superior he may, before rolling the dice on his
+   turn, double, demanding that the game be played for twice the current
+   stakes. The doubling cube is then placed with the 2 side face up to
+   show that the game's value has been doubled. His opponent must either
+   accept the new stakes or resign the game immediately. Thereafter the
+   right to redouble belongs exclusively to the player who last accepted a
+   double. When this occurs, the cube is placed with the face of the next
+   power of two showing.
+
+   The game is rarely redoubled beyond four times the original stake, but
+   there is no theoretical limit on the number of doubles. Although 64 is
+   the highest number depicted on the doubling cube, the stakes may rise
+   to 128, 256, 512 and so on.
+
+   In money games, a player is often permitted to beaver when offered a
+   double, doubling the value of the game again, while retaining
+   possession of the cube.
+
+   The Jacoby rule allows gammons and backgammons to count for their
+   respective double and triple values only if there has been at least one
+   use of the doubling cube in the game. This encourages a player with a
+   large lead in a game to double, possibly ending the game, rather than
+   to play the game to its conclusion in hopes of a gammon or backgammon.
+   The Jacoby Rule is widely used in money play but is not used in match
+   play.
+
+   The Crawford rule is designed to make match play more equitable for the
+   player in the lead. If a player is one point away from winning a match,
+   his opponent has no incentive not to double; whether the game is worth
+   one point or two, the outcome of the match is unaffected. To balance
+   the situation, the Crawford rule requires that when a player first
+   reaches a score one point short of winning the match, neither player
+   may use the doubling cube for the following game, called the Crawford
+   game. After the Crawford game, normal use of the doubling cube resumes.
+   The Crawford rule is used in most match play.
+
+   Sometimes automatic doubles are used, meaning that any ties in the very
+   first roll of the game automatically double the stakes. Thus, after a
+   3-3 roll, followed by a re-roll of 5-5, followed by a re-roll of 1-4 to
+   begin the game itself, the game would be played for quadruple stakes.
+   The doubling remains in the middle, with both players having access to
+   it, and the Jacoby Rule is still in effect. Again, automatic doubles
+   are common in money games. but they are rarely, if ever, used in match
+   play.
+
+Variants
+
+   There are many variants to standard backgammon rules. Some are played
+   primarily throughout one geographic region, and others add new tactical
+   elements to the game, such as by altering the starting position,
+   restricting certain moves, or assigning special value to certain dice
+   rolls.
+
+Acey-deucey
+
+   Acey-deucey is a variant of backgammon in which players start with no
+   checkers on the board, and must bear them on at the beginning of the
+   game. The roll of 1-2 is given special consideration, allowing the
+   player to select doubles of her choice. A player also receives an extra
+   turn after the roll of 1-2 or of doubles.
+
+Hypergammon
+
+   Hypergammon is a variant of backgammon in which players have only three
+   checkers on the board, starting with one each on the 24-, 23- and
+   22-points. The game has been strongly solved, meaning that exact
+   equities are available for all 32 million positions possible in the
+   game.
+
+Nackgammon
+
+   Nackgammon is a variant devised by Nack Ballard. It differs only in its
+   initial setup: each player starts with two checkers on the 24-point,
+   two checkers on the 23-point, three checkers on the 8-point, and four
+   checkers each on the 13-point and 6-point. Each side still has fifteen
+   checkers total, but with two checkers on each side starting further
+   back, there is more initial contact between the two sides, and less
+   chance the game will quickly develop into a race.
+
+Old English
+
+   Old English backgammon restricts the number of checkers to a maximum of
+   five on each point, thus forbidding some moves that might otherwise be
+   made. A player may also opt to play one part of a roll in such a way
+   that the rest may not be played.
+
+Strategy
+
+   Backgammon has an established opening theory, although it is less
+   detailed than that of games like chess. The tree of checker positions
+   expands quickly because of the number of possible dice rolls and the
+   moves available on each turn. Recent computer analysis has offered more
+   insight on opening moves, but the midgame is reached quickly. After the
+   opening moves, backgammon players frequently rely on some established
+   general strategies, and will combine and switch among them to adapt to
+   changing conditions as a game unfolds.
+
+   The most direct and sometimes the most successful strategy is simply to
+   avoid being hit, trapped, or getting into mutually blocked stand-offs.
+   The running game describes a strategy of moving as quickly as possible
+   around the board, and is most successful when a player is already ahead
+   in the race.
+
+   A holding game is a strategy wherein a player keeps a point high in his
+   opponent's board or on his opponent's bar point, as the game
+   progresses. The player may gain an advantage by hitting an opponent's
+   blot from the held point, or by rolling large doubles that allow the
+   player to advance both checkers and begin a running game.
+
+   The priming game involves building a wall of checkers, called a prime,
+   ideally covering six consecutive points. This obstructs opposing
+   checkers that are behind the blockade. The prime is usually built
+   somewhere between the 11-point and the 2-point, and then shuffled into
+   the home board as the game progresses.
+
+   A blitz describes a strategy of closing the home board as quickly as
+   possible while keeping one's opponent on the bar. Because the opponent
+   has difficulty re-entering from the bar or escaping, a player can
+   quickly gain a running advantage and win the game..
+
+   A backgame is a strategy of placing two or more anchors (points with
+   two or more checkers) in one's opponent's home board, while building a
+   prime in one's own home board. The anchors obstruct the opponent's
+   checkers, and create opportunities to hit them as they move toward the
+   home board. The backgame is generally used only to salvage a game
+   wherein a player is already significantly behind; using a backgame as
+   an initial strategy is usually unsuccessful.
+
+   Duplication refers to the placement of checkers in such a way that
+   advantageous dice rolls for one's opponent are the same for a number of
+   desirable moves. For example, a player may position all of her blots in
+   such a way that her opponent must roll a 2 in order to hit one,
+   reducing the probability that any blot will be hit. Diversification
+   refers to a complementary tactic of placing one's own checkers in such
+   a way that more numbers are useful.
+
+Social and competitive play
+
+   Medieval players, from the 13th century Carmina Burana
+   Enlarge
+   Medieval players, from the 13th century Carmina Burana
+
+Club and tournament play
+
+   Enthusiasts have formed clubs for social play of backgammon. Local
+   clubs may hold informal gatherings, with members meeting at cafés and
+   bars in the evening to play and converse. A few clubs offer additional
+   services, maintaining their own facilities or offering computer
+   analysis of troublesome plays. Some club leaders have noticed a recent
+   growth of interest in backgammon, and attribute it to the game's
+   popularity on the internet.
+
+   A backgammon chouette permits three or more players to participate in a
+   single game, often for money. One player competes against a team of all
+   the other participants, and positions rotate after each game. Chouette
+   play often permits the use of multiple doubling cubes.
+
+   Backgammon clubs may also organize tournaments. Large club tournaments
+   sometimes draw competitors from other regions, with final matches
+   viewed by hundreds of spectators. The top players at regional
+   tournaments often compete in major national and international
+   championships. Winners at top tournaments may receive prizes of tens of
+   thousands of dollars. One sponsor announced a purse of US$1,000,000 for
+   a tournament held in the Bahamas in 2006.
+
+World Backgammon Championship
+
+   Prior to 1979, there was no single world championship competition in
+   backgammon. A number of tournaments were held in Las Vegas and the
+   Bahamas. Since 1979, the World Backgammon Championship in Monte Carlo
+   has been widely acknowledged as the top international tournament. The
+   tournament in Monte Carlo draws thousands of players and spectators,
+   and is played over the course of a week.
+
+Gambling
+
+   When backgammon is played for money, the most common arrangement is to
+   assign a monetary value to each game, and to play to a certain score,
+   or until either player chooses to stop. The stakes are raised by
+   gammons, backgammons, and use of the doubling cube. Backgammon is
+   sometimes available in casinos. As with most gambling games, successful
+   play requires a combination of both luck and skill, as a single dice
+   roll can, in some circumstances, significantly change the outcome of
+   the game.
+
+Software
+
+Play and analysis
+
+   A screen shot of GNU Backgammon, showing an evaluation and rollout of
+   possible moves.
+   Enlarge
+   A screen shot of GNU Backgammon, showing an evaluation and rollout of
+   possible moves.
+
+   Backgammon has been studied considerably by computer scientists. Neural
+   networks and other approaches have offered significant advances to
+   software both for gameplay and analysis.
+
+   The first strong computer opponent was BKG 9.8. It was written by Hans
+   Berliner in the late 1970s on a DEC PDP-10 as an experiment in
+   evaluating board positions. Early versions of BKG played badly even
+   against poor players, but Berliner noticed that its critical mistakes
+   were always at phase changes. He applied principles of fuzzy logic to
+   smooth out the transition between phases, and by July 1979, BKG 9.8 was
+   strong enough to play against the ruling world champion Luigi Villa. It
+   won the match, 7-1, becoming the first computer program to defeat a
+   world champion in any game. Berliner states that the victory was
+   largely a matter of luck, as the computer received more favorable dice
+   rolls.
+
+   In the late 1980s, creators of backgammon software began to have more
+   success with an approach based on neural networks. TD-Gammon, developed
+   by Gerald Tesauro of IBM, was the first of these programs to play near
+   the expert level. Its neural network was trained using temporal
+   difference learning applied to data generated from self-play. According
+   to assessments by Bill Robertie and Kit Woolsey, TD-Gammon plays at or
+   above the level of the top human players in the world.
+
+   This line of research has resulted in two modern commercial programs,
+   Jellyfish and Snowie, as well as the shareware BGBlitz implemented in
+   Java, and the free software GNU Backgammon. They also offer tools for
+   analyzing games and offering detailed comparisons of individual moves.
+   It is worth noting that without their associated "weights" tables,
+   which represent hours or even months of tedious neural net training,
+   these programs play no better than a human novice.
+
+Internet play
+
+   Backgammon software has been developed not only to play and analyze
+   games, but also to facilitate play between humans from different parts
+   of the world over the internet. Dice rolls are provided by random or
+   pseudorandom number generators. Real-time on-line play began with the
+   First Internet Backgammon Server on July 19, 1992. The server is the
+   longest running non-commercial backgammon server and enjoys a strong
+   international community of backgammon players. Several commercial
+   websites also offer on-line real-time backgammon play. Yahoo! Games has
+   offered a Java-based online backgammon game since 1997. MSN Games
+   currently offers a backgammon game based on ActiveX. The online
+   gambling industry began to expand its offerings to include backgammon
+   in 2006.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Backgammon"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

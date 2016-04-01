@@ -1,0 +1,474 @@
+   #copyright
+
+Optical fibre
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   An optical fibre is a glass or plastic fibre designed to guide light
+   along its length by total internal reflection. Fibre optics is the
+   branch of applied science and engineering concerned with such optical
+   fibers. Optical fibers are widely used in fibre-optic communication,
+   which permits digital data transmission over longer distances and at
+   higher data rates than electronic communication. They are also used to
+   form sensors, and in a variety of other applications.
+
+   The operating principle of optical fibers applies to a number of
+   variants including multi-mode optical fibers, single-mode optical
+   fibers, graded-index optical fibers, and step-index optical fibers.
+   Because of the physics of the optical fibre, special methods of
+   splicing fibers and of connecting them to other equipment are needed. A
+   variety of methods are used to manufacture optical fibers, and the
+   fibers are also built into different kinds of cables depending on how
+   they will be used.
+
+   The light-guiding principle behind optical fibers was first
+   demonstrated in Victorian times, but modern optical fibers were only
+   developed beginning in the 1950's. Optical fibers became practical for
+   use in communications in the late 1970's, and since then several
+   technical advances have been made to extend the reach and speed
+   capability of optical fibers, and lower the cost of fibre
+   communications systems.
+
+Applications
+
+Optical fibre communication
+
+   The optical fibre can be used as a medium for telecommunication and
+   networking because it is flexible and can be bundled as cables.
+   Although fibers can be made out of transparent plastic, glass, or a
+   combination of the two, the fibers used in long-distance
+   telecommunications applications are always glass, because of the lower
+   optical attenuation. Both multi-mode and single-mode fibers are used in
+   communications, with multi-mode fiber used mostly for short distances
+   (up to 500 m), and single-mode fibre used for longer distance links.
+   Because of the tighter tolerances required to couple light into and
+   between single-mode fibers, single-mode transmitters, receivers,
+   amplifiers and other components are generally more expensive than
+   multi-mode components.
+
+Fibre optic sensors
+
+   Optical fibers can be used as sensors to measure strain, temperature,
+   pressure and other parameters. The small size and the fact that no
+   electrical power is needed at the remote location gives the fibre optic
+   sensor advantages to conventional electrical sensor in certain
+   applications.
+
+   Optical fibers are used as hydrophones for seismic or SONAR
+   applications. Hydrophone systems with more than 100 sensors per fibre
+   cable have been developed. Hydrophone sensor systems are used by the
+   oil industry as well as a few countries' navies. Both bottom mounted
+   hydrophone arrays and towed streamer systems are in use. The German
+   company Sennheiser developed a microphone working with a laser and
+   optical fibers.
+
+   Optical fiber sensors for temperature and pressure have been developed
+   for downhole measurement in oil wells. The fibre optic sensor is well
+   suited for this environment as it is functioning at temperatures too
+   high for semiconductor sensors ( Distributed Temperature Sensing).
+
+   Another use of the optical fibre as a sensor is the optical gyroscope
+   which is in use in the Boeing 767 and in some car models (for
+   navigation purposes) and the use in Hydrogen microsensors.
+
+Other uses of optical fibers
+
+   A flying disc illuminated by fiber optics
+   Enlarge
+   A flying disc illuminated by fibre optics
+
+   Fibers are widely used in illumination applications. They are used as
+   light guides in medical and other applications where bright light needs
+   to be brought to bear on a target without a clear line-of-sight path.
+   In some buildings, optical fibers are used to route sunlight from the
+   roof to other parts of the building (see non-imaging optics). Optical
+   fibre illumination is also used for decorative applications, including
+   signs, art, and artificial Christmas trees. Swarovski boutiques use
+   optical fibers to illuminate their crystal showcases from many
+   different angles while only employing one light source. Optical fibre
+   is an intrinsic part of the light-transmitting concrete building
+   product, LiTraCon.
+
+   Optical fibre is also used in imaging optics. A coherent bundle of
+   fibers is used, sometimes along with lenses, for a long, thin imaging
+   device called an endoscope, which is used to view objects through a
+   small hole. Medical endoscopes are used for minimally invasive
+   exploratory or surgical procedures ( endoscopy). Industrial endoscopes
+   (see fiberscope or borescope) are used for inspecting anything hard to
+   reach, such as jet engine interiors.
+
+   An optical fibre doped with certain rare-earth elements such as erbium
+   can be used as the gain medium of a laser or optical amplifier.
+   Rare-earth doped optical fibers can be used to provide signal
+   amplification by splicing a short section of doped fibre into a regular
+   (undoped) optical fiber line. The doped fibre is optically pumped with
+   a second laser wavelength that is coupled into the line in addition to
+   the signal wave. Both wavelengths of light are transmitted through the
+   doped fibre, which transfers energy from the second pump wavelength to
+   the signal wave. The process that causes the amplification is
+   stimulated emission.
+
+   Optical fibers doped with a wavelength shifter are used to collect
+   scintillation light in physics experiments.
+
+   Optical fibre can be used to supply a low level of power (around one
+   watt) to electronics situated in a difficult electrical environment.
+   Examples of this are electronics in high-powered antenna elements and
+   measurement devices used in high voltage transmission equipment.
+
+Principle of operation
+
+   An optical fibre is a cylindrical dielectric waveguide that transmits
+   light along its axis, by the process of total internal reflection. The
+   fibre consists of a core surrounded by a cladding layer. To confine the
+   optical signal in the core, the refractive index of the core must be
+   greater than that of the cladding. The boundary between the core and
+   cladding may either be abrupt, in step-index fibre, or gradual, in
+   graded-index fibre.
+
+Multimode fibre
+
+   The propagation of light through a multi-mode optical fiber.
+   Enlarge
+   The propagation of light through a multi-mode optical fibre.
+
+   Fibre with large (greater than 10  μm) core diameter may be analyzed by
+   geometric optics. Such fibre is called multimode fibre, from the
+   electromagnetic analysis (see below). In a step-index multimode fibre,
+   rays of light are guided along the fibre core by total internal
+   reflection. Rays that meet the core-cladding boundary at a high angle
+   (measured relative to a line normal to the boundary), greater than the
+   critical angle for this boundary, are completely reflected. The
+   critical angle (minimum angle for total internal reflection) is
+   determined by the difference in index of refraction between the core
+   and cladding materials. Rays that meet the boundary at a low angle are
+   refracted from the core into the cladding, and do not convey light and
+   hence information along the fibre. The critical angle determines the
+   acceptance angle of the fibre, often reported as a numerical aperture.
+   A high numerical aperture allows light to propagate down the fiber in
+   rays both close to the axis and at various angles, allowing efficient
+   coupling of light into the fibre. However, this high numerical aperture
+   increases the amount of dispersion as rays at different angles have
+   different path lengths and therefore take different times to traverse
+   the fibre. A low numerical aperture may therefore be desirable.
+
+   In graded-index fiber, the index of refraction in the core decreases
+   continuously between the axis and the cladding. This causes light rays
+   to bend smoothly as they approach the cladding, rather than reflecting
+   abruptly from the core-cladding boundary. The resulting curved paths
+   reduce multi-path dispersion because high angle rays pass more through
+   the lower-index periphery of the core, rather than the high-index
+   center. The index profile is chosen to minimize the difference in axial
+   propagation speeds of the various rays in the fibre. This ideal index
+   profile is very close to a parabolic relationship between the index and
+   the distance from the axis.
+
+Singlemode fibre
+
+   A typical single-mode optical fiber, showing diameters of the component
+   layers.
+   Enlarge
+   A typical single-mode optical fibre, showing diameters of the component
+   layers.
+
+   Fibre with a core diameter less than about ten times the wavelength of
+   the propagating light cannot be modeled using geometric optics.
+   Instead, it must be analyzed as an electromagnetic structure, by
+   solution of Maxwell's equations as reduced to the electromagnetic wave
+   equation. The electromagnetic analysis may also be required to
+   understand behaviors such as speckle that occur when coherent light
+   propagates in multi-mode fiber. As an optical waveguide, the fibre
+   supports one or more confined transverse modes by which light can
+   propagate along the fiber. Fibre supporting only one mode is called
+   single-mode or mono-mode fiber. The behavior of larger-core multimode
+   fiber can also be modeled using the wave equation, which shows that
+   such fiber supports more than one mode of propagation (hence the name).
+   The results of such modeling of multi-mode fiber approximately agree
+   with the predictions of geometric optics, if the fibre core is large
+   enough to support more than a few modes.
+
+   The waveguide analysis shows that the light energy in the fibre is not
+   completely confined in the core. Instead, especially in single-mode
+   fibers, a significant fraction of the energy in the bound mode travels
+   in the cladding as an evanescent wave.
+
+   The most common type of single-mode fibre has a core diameter of 8 to
+   10 μm and is designed for use in the near infrared. It is notable that
+   the mode structure depends on the wavelength of the light used, so that
+   this fiber actually supports a small number of additional modes at
+   visible wavelengths. Multi-mode fibre, by comparison, is manufactured
+   with core diameters as small as 50 microns and as large as hundreds of
+   microns.
+
+Special-purpose fibre
+
+   Some special-purpose optical fibre is constructed with a
+   non-cylindrical core and/or cladding layer, usually with an elliptical
+   or rectangular cross-section. These include polarization-maintaining
+   fibre and fibre designed to suppress whispering gallery mode
+   propagation.
+
+Materials
+
+   Glass optical fibers are almost always made from silica, but some other
+   materials, such as fluorozirconate, fluoroaluminate, and chalcogenide
+   glasses are used for longer-wavelength infrared applications. Like
+   other glasses, these glasses have a refractive index of about 1.5.
+   Typically the difference between core and cladding is less than one
+   percent.
+
+   Plastic optical fibre (POF) is commonly step-index multimode fiber,
+   with core diameter of 1 mm or larger. POF typically has much higher
+   attenuation than glass fibre (that is, the amplitude of the signal in
+   it decreases faster), 1 dB/m or higher, and this high attenuation
+   limits the range of POF-based systems.
+
+Fibre fuse
+
+   At high optical intensities, above 2 megawatts per square centimetre,
+   when a fibre is subjected to a shock or is otherwise suddenly damaged,
+   a fibre fuse can occur. The reflection from the damage vaporizes the
+   fibre immediately before the break, and this new defect remains
+   reflective so that the damage propagates back toward the transmitter at
+   1–3 meters per second ^,^,. The open fibre control system, which
+   ensures laser eye safety in the event of a broken fiber, can also
+   effectively halt propagation of the fibre fuse . In situations, such as
+   undersea cables, where high power levels might be used without the need
+   for open fiber control, a "fibre fuse" protection device at the
+   transmitter can break the circuit to prevent any damage.
+
+Manufacturing
+
+   Optical fibre is made by first constructing a large-diameter preform,
+   with a carefully controlled refractive index profile, and then pulling
+   the preform to form the long, thin optical fibre. The preform is
+   commonly made by three chemical vapor deposition methods: inside vapor
+   deposition, outside vapor deposition, and vapor axial deposition.
+
+   With inside vapor deposition, a hollow glass tube approximately 40 cm
+   in length known as a "preform" is placed horizontally and rotated
+   slowly on a lathe, and gases such as silicon tetrachloride (SiCl[4]) or
+   germanium tetrachloride (GeCl[4]) are injected with oxygen in the end
+   of the tube. The gases are then heated by means of an external hydrogen
+   burner, bringing the temperature of the gas up to 1900 kelvins, where
+   the tetrachlorides react with oxygen to produce silica or germania
+   (germanium oxide) particles. When the reaction conditions are chosen to
+   allow this reaction to occur in the gas phase throughout the tube
+   volume, in contrast to earlier techniques where the reaction occurred
+   only on the glass surface, this technique is called modified chemical
+   vapor deposition.
+
+   The oxide particles then agglomerate to form large particle chains,
+   which subsequently deposit on the walls of the tube as soot. The
+   deposition is due to the large difference in temperature between the
+   gas core and the wall causing the gas to push the particles outwards
+   (this is known as thermophoresis). The torch is then traversed up and
+   down the length of the tube to deposit the material evenly. After the
+   torch has reached the end of the tube, it is then brought back to the
+   beginning of the tube and the deposited particles are then melted to
+   form a solid layer. This process is repeated until a sufficient amount
+   of material has been deposited. For each layer the composition can be
+   varied by varying the gas composition, resulting in precise control of
+   the finished fibre's optical properties.
+
+   In outside vapor deposition or vapor axial deposition, the glass is
+   formed by flame hydrolysis, a reaction in which silicon tetrachloride
+   and germanium tetrachloride are oxidized by reaction with water (H[2]O)
+   in an oxyhydrogen flame. In outside vapor deposition the glass is
+   deposited onto a solid rod, which is removed before further processing.
+   In vapor axial deposition, a short seed rod is used, and a porous
+   preform, whose length is not limited by the size of the source rod, is
+   built up on its end. The porous preform is consolidated into a
+   transparent, solid perform by heating to about 1800 kelvins.
+
+   The preform, however constructed, is then placed in a device known as a
+   drawing tower, where the preform tip is heated and the optic fiber is
+   pulled out as a string. By measuring the resultant fiber width, the
+   tension on the fiber can be controlled to maintain the fibre thickness.
+
+   This manufacturing process is accomplished by several fibre optic
+   companies, including 3M, Corning Inc., and Molex. In addition, various
+   fiber optic component manufacturers, assembly houses, and custom fibre
+   optic providers exist.
+
+Optical fibre cables
+
+   In practical fibers, the cladding is usually coated with a tough resin
+   buffer layer, which may be further surrounded by a jacket layer,
+   usually plastic. These layers add strength to the fibre but do not
+   contribute to its optical wave guide properties.
+
+   For indoor applications, the jacketed fibre is generally enclosed, with
+   a bundle of flexible fibrous polymer (e.g. Kevlar) strength members, in
+   a lightweight plastic cover to form a simple cable. Each end of the
+   cable may be terminated with a specialized optical fibre connector to
+   allow it to be easily connected and disconnected from transmitting and
+   receiving equipment.
+
+   For use in more strenuous environments, a much more robust cable
+   construction is required. In loose-tube construction the fiber is laid
+   helically into semi-rigid tubes, allowing the cable to stretch without
+   stretching the fiber itself. This protects the fiber from tension
+   during laying and due to temperature changes. Alternatively the fibre
+   may be embedded in a heavy polymer jacket, commonly called "tight
+   buffer" construction. These fibre units are commonly bundled with
+   additional steel strength members, again with a helical twist to allow
+   for stretching.
+
+   Another critical concern in cabling is to protect the fibre from
+   contamination by water, because its component hydrogen ( hydronium) and
+   hydroxyl ions can diffuse into the fiber, reducing the fiber's strength
+   and increasing the optical attenuation. Water is kept out of the cable
+   by use of solid barriers such as copper tubes, water-repellant jelly,
+   or more recently water absorbing powder, surrounding the fibre.
+
+   Finally, the cable may be armored to protect it from environmental
+   hazards, such as construction work or gnawing animals. Undersea cables
+   are more heavily armored in their near-shore portions to protect them
+   from boat anchors, fishing gear, and even sharks, which may be
+   attracted to the electrical power signals that are carried to power
+   amplifiers or repeaters in the cable.
+
+   Modern fiber cables can contain up to a thousand fibers in a single
+   cable, so the performance of optical networks easily accommodates even
+   today's demands for bandwidth on a point-to-point basis. However,
+   unused point-to-point potential bandwidth does not translate to
+   operating profits, and it is estimated that no more than 1% of the
+   optical fibre buried in recent years is actually 'lit'.
+
+   Modern cables come in a wide variety of sheathings and armor, designed
+   for applications such as direct burial in trenches, dual use as power
+   lines , installation in conduit, lashing to aerial telephone poles,
+   submarine installation, or insertion in paved streets. In recent years
+   the cost of small fibre-count pole mounted cables has greatly decreased
+   due to the high Japanese and South Korean demand for Fibre to the Home
+   (FTTH) installations.
+
+Termination and splicing
+
+   ST Fiber connector
+   Enlarge
+   ST Fibre connector
+
+   Optical fibers are connected to terminal equipment by optical fibre
+   connectors. These connectors are usually of a standard type such as FC,
+   SC, ST, or LC.
+
+   Optical fibers may be connected to each other by connectors or by
+   splicing, that is, joining two fibers together to form a continuous
+   optical waveguide. The generally accepted splicing method is arc fusion
+   splicing, which melts the fibre ends together with an electric arc. For
+   quicker fastening jobs, a "mechanical splice" is used.
+
+   Fusion splicing is done with a specialized instrument that typically
+   operates as follows: The two cable ends are fastened inside a splice
+   enclosure that will protect the splices, and the fibre ends are
+   stripped of their protective polymer coating (as well as the more
+   sturdy outer jacket, if present). The ends are cleaved (cut) with a
+   precision cleaver to make them perpendicular, and are placed into
+   special holders in the splicer. The splice is usually inspected via a
+   magnified viewing screen to check the cleaves before and after the
+   splice. The splicer uses small motors to align the end faces together,
+   and emits a small spark between electrodes at the gap to burn off dust
+   and moisture. Then the splicer generates a larger spark that raises the
+   temperature above the melting point of the glass, fusing the ends
+   together permanently. The location and energy of the spark is carefully
+   controlled so that the molten core and cladding don't mix, and this
+   minimizes optical loss. A splice loss estimate is measured by the
+   splicer, by directing light through the cladding on one side and
+   measuring the light leaking from the cladding on the other side. A
+   splice loss under 0.1 dB is typical. The complexity of this process is
+   the major thing that makes fibre splicing more difficult than splicing
+   copper wire.
+
+   Mechanical fiber splices are designed to be quicker and easier to
+   install, but there is still the need for stripping, careful cleaning
+   and precision cleaving. The fibre ends are aligned and held together by
+   a precision-made sleeve, often using a clear gel ( index matching gel)
+   that enhances the transmission of light across the joint. Such joints
+   typically have higher optical loss, and are less robust than fusion
+   splices, especially if the gel is used. All splicing techniques involve
+   the use of an enclosure into which the splice is placed for protection
+   afterward.
+
+   Fibers are terminated in connectors so that the fiber end is held at
+   the end face precisely and securely. A fiber optic connector is
+   basically a rigid cylindrical barrel surrounded by a sleeve that holds
+   the barrel in its mating socket. It can be push and click, turn and
+   latch, or threaded. A typical connector is installed by preparing the
+   fiber end and inserting it into the rear of the connector body. Quick
+   set glue is usually used so the fiber is held securely, and a strain
+   relief is secured to the rear. Once the glue has set, the end is
+   polished to a mirror finish. Various types of polish profile are used,
+   depending on the type of fiber and the application. For singlemode
+   fiber, the fiber ends are typically polished with a slight curvature,
+   such that when the connectors are mated the fibers touch only at their
+   cores. This is known as a "physical contact" (PC) polish. The curved
+   surface may be polished at an angle, to make an angled physical contact
+   (APC) connection. Such connections have higher loss than PC
+   connections, but greatly reduced backreflection, because light that
+   reflects from the angled surface leaks out of the fibre core.
+
+   Various methods to align two fiber ends to each other or one fibre to
+   an optical device ( VCSEL, LED, waveguide etc.) have been reported.
+   They all follow either an active fiber alignment approach or a passive
+   fibre alignment approach.
+
+History
+
+   The history of dielectric optical lightguides goes back to Victorian
+   times, when the total internal reflection principle was used to
+   illuminate streams of water in elaborate public fountains. Later
+   development, in the early-to-mid twentieth century, focused on the
+   development of fibre bundles for image transmission, with the primary
+   application being the medical gastroscope. The first fibre optic
+   semi-flexible gastroscope was patented by Basil Hirschowitz, C. Wilbur
+   Peters, and Lawrence E. Curtiss, researchers at the University of
+   Michigan, in 1956. In the process of developing the gastroscope,
+   Curtiss produced the first glass-clad fibers; previous optical fibers
+   had relied on air or impractical oils and waxes as the low-index
+   cladding material. A variety of other image transmission applications
+   soon followed.
+
+   In 1965, Charles K. Kao and George A. Hockham of the British company
+   Standard Telephones and Cables were the first to recognize that
+   attenuation of contemporary fibers was caused by impurities, which
+   could be removed, rather than fundamental physical effects such as
+   scattering. They demonstrated that optical fibre could be a practical
+   medium for communication, if the attenuation could be reduced below 20
+   dB per kilometer (Hecht, 1999, p. 114). By this measure, the first
+   practical optical fibre for communications was invented in 1970 by
+   researchers Robert D. Maurer, Donald Keck, Peter Schultz, and Frank
+   Zimar working for American glass maker Corning Glass Works. They
+   manufactured a fibre with 17 dB optic attenuation per kilometer by
+   doping silica glass with titanium.
+
+   On 22 April, 1977, General Telephone and Electronics sent the first
+   live telephone traffic through fibre optics, at 6 Mbit/s, in Long
+   Beach, California.
+
+   The erbium-doped fibre amplifier, which reduced the cost of
+   long-distance fibre systems by eliminating the need for
+   optical-electrical-optical repeaters, was invented by David Payne of
+   the University of Southampton, and Emmanuel Desurvire at Bell
+   Laboratories in 1986. The two pioneers were awarded the Benjamin
+   Franklin Medal in Engineering in 1998.
+
+   The first transatlantic telephone cable to use optical fibre was TAT-8,
+   based on Desurvire optimized laser amplification technology. It went
+   into operation in 1988.
+
+   In 1991, the emerging field of photonic crystals led to the development
+   of photonic crystal fibre (Science (2003), vol 299, page 358), which
+   guides light by means of diffraction from a periodic structure, rather
+   than total internal reflection. The first photonic crystal fibers
+   became commercially available in 1996 . Photonic crystal fibers can be
+   designed to carry higher power than conventional fibre, and their
+   wavelength dependent properties can be manipulated to improve their
+   performance in certain applications.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Optical_fiber"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

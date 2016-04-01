@@ -1,0 +1,690 @@
+   #copyright
+
+Pac-Man
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+   Pac-man
+   Image:Pac-man.png
+   A screenshot from the original arcade version of the game, showing the
+   ghosts in their starting positions at the centre of the screen and
+   Pac-Man below. Four Energizers are visible near the corners of the
+   screen.
+   Developer(s) Namco
+   Publisher(s) Midway ( Namco in Japan)
+   Designer(s) Toru Iwatani - Game Designer
+   Hideyuki Mokajima San- Programmer
+   Toshio Kai - Sound & Music
+   Release date(s) ^JPN October 10, 1979
+   ^NA October 1980, 1991, 1999, 2005, 2006
+   Genre(s) Maze
+   Mode(s) Up to 2 players, alternating turns
+   Platform(s) Arcade game, Atari 2600, Atari 5200, Commodore 64, Game
+   Boy, GBA, Intellivision, Mobile phone, MSX, NEC PC-8801, NGPC, NES,
+   Sega Game Gear, SNES, ZX Spectrum, iPod, Xbox Live Arcade, Wii Virtual
+   Console
+   Input 4-way joystick
+   Arcade cabinet Standard upright, mini-upright, and cocktail
+   Arcade system(s) Namco Pac-Man
+   Arcade CPU(s) 1x ZiLOG Z80 @ 3.072 MHz
+   Arcade sound system(s) 1x Namco WSG (3-channel mono) @ 3.072 MHz
+   Arcade display Vertically oriented, 224 × 288, 16 palette colors
+
+   Pac-Man is an arcade game developed by Namco and licensed for
+   distribution in the USA by Midway, first released in Japan in 1979.
+   Immensely popular from its original release to the present day, Pac-Man
+   is universally considered as one of the classics of the medium,
+   virtually synonymous with video games, and an icon of 1980s popular
+   culture. Upon its release, the game became a social phenomenon that
+   sold a bevy of merchandise and also inspired an animated television
+   series and a Top 40 pop single.
+
+   When Pac-Man was released, most arcade video games in North America
+   were primarily space shooters such as Space Invaders and Defender or
+   Asteroids; the most visible minority were sports games (mostly
+   derivative of PONG). Pac-Man succeeded by creating a new genre and
+   appealing to both males and females. Pac-Man is often credited with
+   being a landmark in video game history, and is among the most famous
+   arcade games of all time. The character also appears in over 30
+   officially licensed games and sequels, as well as in numerous
+   unauthorized clones and bootlegs.
+
+Gameplay
+
+   The player controls Pac-Man as he moves through a maze, eating
+   pac-dots. When all dots are eaten, Pac-Man is taken to the next stage.
+   4 ghosts roam the maze, trying to catch Pac-Man. If a ghost touches
+   Pac-Man, a life is lost. When all lives have been lost, the game ends.
+   During Pac-Man gameplay, lives are usually lost by "digging your own
+   grave"; it is easy to situate Pac-Man within the maze so that escape
+   from the ghosts is impossible
+
+   Near the corners of the maze are four large round power-up objects
+   known as "energizers" or "power pellets", which provide Pac-Man with
+   the temporary ability to eat the ghosts. The ghosts turn a deep blue
+   and reverse direction immediately when Pac-Man eats an energizer, and
+   they move more slowly while they are vulnerable. The ghosts are worth
+   200, 400, 800, and 1600 points, in sequence. The values reset back to
+   200 each time another Power Pellet is eaten, so it is advantageous for
+   the player to eat all four ghosts on each pellet. If a ghost is eaten,
+   its eyes return to the "ghost pen" where it is regenerated in its
+   normal colour. (This may happen while the other ghosts are still blue,
+   if the ghost is near the pen when eaten.) The ghosts flash white up to
+   five times before they become dangerous again. The amount of time the
+   ghosts remain vulnerable varies from one board to the next, but the
+   time period generally becomes shorter as the game progresses. Starting
+   with the 17th board (the 5th key), then continuing from board 19 to the
+   end, the ghosts no longer turn blue at all, though eating an energizer
+   still causes them to reverse direction. The 240 regular dots on each
+   level are worth ten points each, and energizers are worth fifty points
+   each. Additionally, prizes commonly referred to as “fruit” (even though
+   several of them are not fruits) appear twice during each board just
+   below the ghost pen — eating a fruit scores extra bonus points. The
+   prizes change throughout the game, and their point values increase (see
+   the table at right).
+
+   Pac-Man is awarded a bonus life one time only, at 10 000 points (the
+   default setting; DIP switches inside the machine can change the
+   required points to 15 000 or 20 000 or disable the bonus life
+   altogether).
+
+   Fruits appear in the middle of the maze sometimes; Pac-Man can eat
+   these for bonus points. As the levels get higher, the fruit score more
+   points.
+
+History
+
+   The game was developed primarily by Namco employee Toru Iwatani over
+   eighteen months. The original title was pronounced pakku-man (パックマン,
+   pakku-man^ ?) and was inspired by the Japanese onomatopoeic phrase
+   paku-paku taberu (パクパク食べる, paku-paku taberu^ ?), where paku-paku
+   describes (the sound of) the mouth movement when widely opened and then
+   closed in succession. Although it is often cited that the character’s
+   shape was inspired by a pizza missing a slice, he admitted in a 1986
+   interview that it was a half-truth and the character design also came
+   from simplifying and rounding out the Japanese character for mouth,
+   kuchi (口) as well as the basic concept of eating. Iwatani's efforts to
+   appeal to a wider audience — beyond the typical demographics of young
+   boys and teenagers — would eventually lead him to adding elements of a
+   maze. The result was a game he entitled PUCK MAN. When first launched
+   in Japan in 1979 by Namco, the game received a lukewarm response, as
+   Space Invaders and other games of similar type were far more popular at
+   the time.
+
+   The following year, however, the game was picked up for manufacture in
+   the U.S. by Bally division Midway, under the altered title Pac-Man (see
+   below). American audiences welcomed a breakaway from conventions set by
+   Space Invaders, which resulted in unprecedented popularity and revenue
+   that rivaled its successful predecessor, as even Iwatani was impressed
+   with U.S. sales. The game soon became a worldwide phenomenon within the
+   video game industry, resulting in numerous sequels and merchandising
+   tie-ins. Pac-Man’s success bred imitation, and an entire genre of
+   maze-chase video games soon emerged, but none equalled the original in
+   profit or popularity.
+
+   Competitors and distributors were taken completely by surprise by
+   Pac-Man’s success in North America in 1980. Marketing executives who
+   saw Pac-Man at a trade show prior to release completely overlooked the
+   game (along with the now classic Defender), while they looked to a
+   racing car game called Rally-X as the game to outdo that year. The
+   appeal of Pac-Man was such that the game caught on immediately with the
+   public; it quickly became far more popular than anything seen in the
+   game industry before. Pac-Man outstripped Asteroids as the greatest
+   selling arcade game of the time, and would go on to sell over 350,000
+   units.
+
+Localization
+
+   For the North American market, the name was changed from PUCK MAN to
+   Pac-Man (actually closer to the original Japanese pronunciation)
+   because puck was similar in spelling and pronunciation to a common
+   English expletive, and vandals could easily change it. Both PUCK MAN
+   and Pac-Man machines can be found throughout Europe.
+   A side by side comparison of the very different artwork styles between
+   the Midway and Namco version.
+   A side by side comparison of the very different artwork styles between
+   the Midway and Namco version.
+
+   When Midway released Pac-Man in the United States, the company also
+   redesigned the cabinet's artwork, as the Namco-style artwork was more
+   costly to mass produce, as well as being considered too stylish for the
+   American market. PUCK MAN was painted overall white featuring
+   multicolored artwork on both sides with cheerful Puck-Man characters in
+   different poses while Pac-Man was painted yellow, with very simple and
+   easy-to-stencil artwork on both sides and front.
+
+   The unique and original game design inspired game publishers to be
+   innovative rather than conservative, and encouraged them to speculate
+   on game designs that broke from existing genres. Pac-Man introduced an
+   element of humor into video games that designers sought to imitate, and
+   appealed to a wider demographic than the teenage boys who flocked to
+   the action-oriented games. Many popular video games of the 1980s,
+   including Q*bert, Donkey Kong, and Frogger partially owe their
+   publication to the success of Pac-Man.
+
+   The Killer List of Videogames lists Pac-Man as the #1 video game of all
+   time on its "Top 10 Most Popular Video games" list. Pac-Man, and other
+   video games of the same general type, are often cited as an identifying
+   cultural experience of Generation X, particularly its older members,
+   sometimes called Baby Busters.
+
+                                        Fruit/Object Point value  Board(s)
+                                       Cherries          100         1
+                                      Strawberry         300         2
+                                         Peach           500        3-4
+                                         Apple           700        5-6
+                                         Melon          1000        7-8
+                                   Galaxian flagship    2000       9-10
+                                         Bell           3000       11-12
+                                          Key           5000     13 and up
+
+Intermissions
+
+   During the opening boards of the game, the linearity of the game's
+   progression is interrupted by "intermissions" - humorous animated
+   scenes featuring Pac-Man and the ghosts. There are three different
+   intermissions:
+    1. Blinky chases Pac-Man off the screen. Blinky reappears as a
+       vulnerable blue monster coming the opposite direction, being chased
+       by a giant Pac-Man. This intermission plays after Board 2.
+    2. Blinky chases Pac-Man across the screen, but his pelt gets caught
+       on a tack in the floor, and part of it is ripped off revealing his
+       pinkness. This intermission plays after Board 5.
+    3. Blinky, with the corner of his pelt sewn back on, chases Pac-Man
+       across the screen. Blinky reappears coming back the opposite
+       direction, pinked, dragging his pelt behind him. This intermission
+       plays after Boards 9, 13 and 17.
+
+Perfect play
+
+   A perfect Pac-Man game is defined as one where the player completes all
+   256 levels with a maximum point score and without losing a life. The
+   first such game was verified by the Twin Galaxies Intergalactic
+   Scoreboard on July 3, 1999. Billy Mitchell, of Hollywood, FL, achieved
+   the feat in six hours. To attain the maximum possible score of
+   3,333,360 points, it was necessary for Mitchell to eat every fruit,
+   every Power Pellet, every blue ghost and every dot for 256 boards
+   without losing a single life.
+
+Split-screen level
+
+   This game technically has no end; the player will be given new boards
+   to clear as long as Pac-Man does not lose all of his lives. However,
+   due to a glitch in the game, the right side of the 256th board is a
+   garbled mess of text and symbols rendering the level unplayable. This
+   occurs because of a bug in the subroutine that draws the fruit at the
+   bottom of the screen that indicate the current level. Normally, at most
+   7 fruits are displayed, regardless of the current screen, but since the
+   level number is stored in a single byte, level 255 ("FF" in
+   hexadecimal) rolls over to 0 in the subroutine, and 256 fruit are
+   drawn, corrupting the bottom of the screen and the entire right half of
+   the maze. Enthusiasts refer to this as the "Final Level," the
+   "Split-Screen Level," or simply as the ending. Although there are
+   claims that someone with enough knowledge of the maze pattern can play
+   through it, it is generally considered impossible to be cleared via
+   legitimate means.
+
+   However, in December 1982, an eight-year-old boy named Jeffrey R. Yee
+   received a letter from U.S. President Ronald Reagan congratulating him
+   on a worldwide record of 6,131,940 points, a score only possible if the
+   player has passed the Split-Screen Level. Whether or not this event
+   happened as described has remained in heated debate amongst video game
+   circles since its supposed occurrence. In September, 1983, Walter Day,
+   Chief Scorekeeper at the Twin Galaxies Intergalactic Scoreboard, took
+   the U.S. National Video Game Team on a tour of the East Coast to visit
+   video game players who claimed they could get through the
+   "Split-Screen." No video game player could demonstrate this ability.
+   Later, in 1999, Billy Mitchell offered $100,000 to anyone who could
+   provably pass through the Split-Screen Level before January 1, 2000;
+   there is no evidence that anyone could.
+
+   Through tinkering, the details of the Split-Screen Level can be
+   revealed. As playable through arcade game emulator MAME some ROMs of
+   the game are equipped with a "rack test" within the DIP switches that
+   will automatically clear a level of all dots as soon as it begins. This
+   method not only makes reaching the long-mythical 256th board easier
+   (thus making detailed analysis possible) but also allows a
+   demonstration of what happens after the board has been cleared:
+
+   Because the right side of the map does not exist, Pac-Man and the
+   ghosts can move freely throughout the right side of the screen, barring
+   some of the garbled symbols which are fractured pieces of the maze.
+   Other symbols also entail power pills, which must be eaten for the
+   player to continue (unlike the unglitched boards, if Pac-Man loses a
+   life, the pills on the right side of the screen will reset after being
+   eaten). Because the maze fracture blockades are "placed" in many
+   locations, it is difficult - if not impossible - to locate them all.
+
+   If the board is cleared, the game restarts from the first board without
+   error, once again repeating through 256. However, while the power-ups
+   and intermissions repeat from the opening of the game, the monsters
+   will retain their speed and invulnerability to power pellets from the
+   later boards.
+
+Related games
+
+Ports
+
+   Pac-Man is one of the few games to have been consistently re-released
+   for over two decades. In the 1980s, it was released for the Atari 2600,
+   Atari 5200, Atari 8-Bit Computers (400/800/etc.), Intellivision and
+   Commodore 64, and the Nintendo Entertainment System (1987 and 1990). In
+   the handheld world, it was released on the Game Boy (1991), Sega Game
+   Gear (1991), Neo-Geo Pocket Colour (1999), Pac-Man: Special Colour
+   Edition for the Game Boy Colour (1999), Apple iPods (fifth generation),
+   Pac-Man Collection for the Game Boy Advance (2001), and it is
+   unlockable in Pac 'n Roll for the Nintendo DS. However, it has been
+   most widely distributed in Namco's long-running Namco Museum series,
+   starting on the PlayStation in 1996 and continuing to this day on every
+   major console (as well as the PSP and Game Boy Advance) with the 50th
+   Anniversary Collection (2005). An Xbox 360 port was released via Xbox
+   Live Arcade on August 9, 2006. Pac-Man is also available in its
+   original form as part of the GameTap service. On September 12, 2006 a
+   port was released for play on the popular iPod music player along with
+   other arcade/puzzle games. Pac-Man was never ported to the Atari 7800
+   home video game system. However, there have been efforts to hack the
+   pre-existing Ms. Pac-Man cartridge to create the original Pac-Man (as
+   well as other Pac-Variants) for it .
+   Atari 2600 cartridge
+   Atari 2600 cartridge
+
+   Namco has repeatedly re-released this game in arcades. In 2001, Namco
+   released a 20-Year Reunion game that combined Ms. Pac-Man and Galaga in
+   one cabinet. To play the original Pac-Man on this machine, move the
+   joystick in this order on the "Press Start Button" that appears after
+   one inserts one's coins: up, up, up, down, down, down, left, right,
+   left, right, left. If done correctly, one should hear a sound, and Ms.
+   Pac-Man will change colour. Press the Ms. Pac-Man start button, and one
+   will be able to play Pac-Man. It should be noted that Ms. Pac-Man
+   machines are far easier to locate in today's arcades than a dedicated
+   Pac-Man. In 2005, Namco released a board openly featuring all three of
+   the games on the 20-Year Reunion board in honour of Pac-Man's 25th
+   Anniversary.
+
+   Namco's wireless division released a line of PAC-MAN games for the cell
+   phone in 2002, starting with the original arcade version and following
+   up with Pac-Man game extensions like Pac-Man Bowling and Pac-Man
+   Pinball. This division (Namco Networks America Inc.) also launched a
+   networked game, Ms. Pac-Man For Prizes, in 2004. Pac-Man mobile games
+   are available on both BREW and Java platforms across major cellular
+   carriers, as well as on Palm PDAs and Windows PC phones.
+
+Atari 2600
+
+   The Atari 2600 version of Pac-Man was developed and published by Atari
+   in 1982. It was the first port of the arcade game, Atari being the
+   licensee for the video game console rights. Although Atari sold seven
+   million units, out of a ten-million 2600-user base, this port may have
+   been rushed to market and its quality was widely criticized. Atari,
+   having manufactured twelve million cartridges under the expectation
+   that the game would increase the number of sales of the console, was
+   left with a large unsold inventory that had to be written-off,
+   incurring in large financial losses for the company. This was one of
+   the catalysts that led to the video game crash of 1983.
+
+Gallery
+
+                              Port screenshots
+    Atari 2600 (1982) Atari 5200 (1983) Commodore 64 (1983) Intellivision
+                                   (1983)
+           MSX (1984) NES (1984) SAM Coupé (1991) Xbox 360 (2006)
+
+Sequels
+
+   Pac-Man spawned numerous sequels, though none of them were as popular
+   as the original. Of these, the most significant title was Ms. Pac-Man.
+   Originally created as an unauthorized hack of the original game called
+   Crazy Otto by a small group known as General Computer Corporation, it
+   was eventually sold to Bally Midway without Namco's permission. Crazy
+   Otto was actually seen in a photograph in Time magazine, mislabeled as
+   the original Pac-Man. The game featured several improvements and
+   changes from the original Pac-Man, including faster gameplay, more
+   mazes, new intermissions, and moving bonus items. Some consider Ms.
+   Pac-Man to be a superior game to the original, and even the best in the
+   entire series. Eventually Bally Midway struck a deal with Namco to make
+   Ms. Pac-Man an officially licensed sequel, although the American
+   company continued to release several unauthorized spin-off games later
+   on, such as Pac-Man Plus, Baby Pac-Man and Professor Pac-Man. These
+   other titles were generally considered inferior and unimportant,
+   serving to oversaturate the market for Pac-Man games.
+
+Clones and bootlegs
+
+   Unauthorized "pirate" versions of the game were also created, most
+   notably Hangly-Man (a mangling of "Hungry-Man"), one variant of which
+   replaced the Pac-Man character with the head of Popeye. There was
+   another hack of Hangly-Man called Caterpillar Pac-Man made in 1981 by
+   Phi. In this game, one plays as a caterpillar, and the ghosts are
+   replaced by four spiders.
+
+   Another popular clone game was Piranha, which replaced Pac-Man with a
+   munching fish. The maze was replaced with a coral reef, and the ghosts
+   were replaced with squid. (In an earlier variant, they were little more
+   than ghosts with extended sprites for the tentacles). A brief reference
+   to the game was even included in the Pac-Man TV series, when in an
+   underwater scene, a fish is shown eating a ghost-squid.
+
+   Acorn's software division, Acornsoft, released an exceptionally
+   accurate clone of Pac-Man called Snapper for their BBC Micro and Acorn
+   Electron home computers. After allegedly receiving a sternly worded
+   cease and desist letter from Atari, Acornsoft modified the game,
+   changing the maze layout and character graphics.
+
+   A game called Pacdude has also been released as freeware. It is almost
+   a Pacman clone, but with a few differences. It is available to download
+   via the official site at http://pacdudegame.wik.is/.
+
+   In addition, soon after the release of the original Pac-Man, many other
+   maze-themed video games entered the arcade market ( Make Trax, Thief,
+   Lady Bug and Mouse Trap being the most prominent). In the home video
+   game market, K.C. Munchkin was actually withdrawn after Atari
+   successfully sued its creator, citing its imitation of the Pac-Man
+   characters as blatant and undisguised.
+
+   Several handheld versions were released in 1981, most using VFD
+   technology. The playability of most handheld games of this age was
+   limited by today's standards, since each ghost and Pac-Man position was
+   represented by an immovable fixed-cell character that lit up
+   accordingly. Game titles included the following:
+     * PacMan by Tomy
+     * PacMan2 by Entex
+     * Pac-Man by Coleco. As the official adaptation of the game, Coleco
+       Pac-Man was shaped like a miniature Midway arcade cabinet.
+     * Epoch Man by Epoch— LCD-based, this game can be seen in National
+       Lampoon's Vacation (1983) in Russ's hand.
+
+   Texas Instruments released a clone called Munch Man for the TI-99 home
+   computer line in 1982, in which the player lays down a "track" (or
+   "links", in Munch Man parlance), as he progresses through the maze
+   instead of eating pills – a change made by TI to avoid possible
+   lawsuits from Midway.
+
+   In 1981, Leisure and Allied released Ghostmuncher/ Galaxian. This game
+   was a dual bootleg of Pac-Man and Galaxian. One could change the game
+   with the Dip Switch. In this bootleg, the colors, sounds and names of
+   the ghosts have been changed. The "Galaxian" bootleg is also sped up
+   significantly.
+
+   Data East released Lock'n'Chase in 1981. Here Pac-Man was replaced with
+   a thief stealing coins from a bank vault. The Ghosts were replaced with
+   police, and the thief could temporarily block passages with doors. A
+   popular port of this game was released for the Mattel Intellivision in
+   1982.
+
+   In the 1990s, Microhard/Magic Games released Funny Strip. This was a
+   maze game and a clone of Pac-Man and Ms. Pac-Man featuring nudity.
+
+   Also in the 1990s, Best Before Yesterday released a game called Maniac,
+   which merged Pac-Man with the game of hangman against a time limit. One
+   notable feature was the turbo boost, temporarily making Pac-Man go
+   faster. Upon acquiring this turbo boost, the phrase "Thunderbirds are
+   go!" would be heard. Another feature was added background music.
+
+   In 1992, Creative Dimensions released a Pac-Man clone called CD-Man.
+   CD-Man ate dots and ran from enemies such as spiders and sharks.
+
+   In 1993, Christophe de Dinechin wrote a Pac-Man clone for the HP-48
+   series of calculator.
+
+   In 1995, SemiCom released Hyper Pac-Man , a clone similar to Pac-Mania
+   with some Bomberman-style elements. This was followed up by a sequel
+   called Twinkle ; in this version Pac-Man is orange and wears
+   sunglasses.
+
+   In 1999, ESD released Multi Champ Deluxe. Multi Champ Deluxe is an
+   adult-oriented multi-game system in which the player chooses a girl and
+   then one of six games, with the object being to win the game to save
+   the girl. The games include a clone of Pac-Man.
+
+   In 2000, Genie released Puckman Pokemon which teamed up Pac-man and
+   Pokémon. Player 1 controls Puckman and Player 2 controls Pikachu's
+   head.
+
+   eGames has released several 3D clones of Pac-Man, including 3D Maze
+   Man, 3D Chomper, and 3D Ms. Maze. These were made without license, and
+   prompted a lawsuit including Hasbro, Atari America and Elorg. The games
+   have not been discontinued as a term of the settlement.
+
+   Grandpa Pac-Man was an unofficial sequel created by Lafe Travis Games
+   for the PC, and is available as freeware. Grandpa Pac-Man has 13 mazes
+   to master, 12 intermissions, and 30 different prizes to gobble up.
+
+   In 2003, an open source Pac-Man clone called Njam was released. The
+   source code is freely available under GPL license, and besides regular
+   gameplay it features two multiplayer modes where players can play
+   either together or against each other. It also has networking support,
+   so up to four players can play simultaneously. The game is available on
+   Windows, Linux, Mac OS X and many other operating systems.
+
+   DirecTV's new interactive channel, Game Lounge, features a game called
+   Hot Wheels Monster Truck Smashdown. A red monster truck takes the place
+   of Pac-Man, and other monster trucks replace the ghosts, but otherwise,
+   the game plays very much like regular Pac-Man.
+
+   Topfield Digital Set Top boxes also feature a Pac-Man clone game, along
+   with a clone of Tetris and a clone of Brick as part of their extras
+   included in their menus.
+
+Non-video games
+
+   In 1982, Milton Bradley released a board game based on Pac-Man and
+   another based on Ms. Pac-Man. Several other pocket games and a card
+   game were also produced.
+
+   A group of students from the Computer Science department of Simon
+   Fraser University had developed a "life-sized" Pac-Man system, using
+   laptops and cell phone tracking to track the location of the dots,
+   ghost, and the Pac-Man. It has become a regular activity of Computer
+   Science Frosh Week, and is usually played in Downtown Vancouver.
+
+   Pac-Man is also available to download and play on 5th-generation iPods.
+
+Pac-Man in popular culture
+
+   A great deal of Pac-Man merchandise was marketed in the 1980s, from
+   t-shirts to toys to hand-held video game imitations to pasta. There was
+   also the aforementioned Saturday morning TV cartoon called Pac-Man.
+   This show, based on the game, was produced by Hanna-Barbera and lasted
+   two years, from 1982 to 1984. It was also the basis for a Pac-Man
+   Christmas special titled Christmas Comes to Pac-Land. In the series and
+   the special, the "nicknames" given to Pac-Man's enemies in the game —
+   Blinky, Pinky, Inky and Clyde — became their official names, and Sue
+   was a new ghost, colored purple. They were led by the evil Mezmaron,
+   who employed them in his plots to raid the Power Pellet Forest.
+
+   The makers of the 1982 Disney feature-film Tron sneaked a tiny Pac-Man
+   into one quick shot when Sark is ordering the tanks to be sent out,
+   giving the character a movie cameo appearance in effect.
+
+   A Pac-Man-inspired set of crop circles is located near Grazely,
+   Reading, England, viewable by satellite imaging. Map at Google
+   Sightseeing
+
+   In the video game-oriented webcomic Penny Arcade, Gabe is almost always
+   seen wearing a yellow shirt with a black outline of Pac-Man. Other
+   strips reveal that his room is decorated with Pac-Man sheets and
+   matching curtains, and his car's license plate reads "PCMNFN" (Pac-Man
+   Fan). Mike Krahulik, the Penny Arcade artist who uses Gabe as an
+   alter-ego, actually has a tattoo of Pac-Man eating pellets around his
+   arm.
+
+   VG Cats, another video game webcomic, also uses Pac-Man in one of its
+   logos. The logo is identical to Pac-Man; however, it is colored blue
+   instead of yellow, and has a cat-like tail added to it, along with tiny
+   cat-like ears atop it.
+
+   The 2004 movie Club Dread featured a live version of Pac-Man played on
+   "Coconut Pete's" tropical island, in which four bikini-clad girls would
+   chase one man through a hedge maze; drinking from a cup of alcohol was
+   the equivalent of a Power Pellet. Other characters dressed in costumes
+   resembling the various fruit pieces of the game.
+
+   Pac-Man appears as a character in the Drawn Together episode " Gay
+   Bash". In a comic twist, Ms. Pac-Man is revealed to actually be Pac-Man
+   himself, but in drag.
+
+   In "Weird Al" Yankovic's music video for " White & Nerdy", flares
+   arranged in the shape of Pac-Man are shown in the background of some
+   scenes.
+
+   In the animated series Class of 3000, on the episode The Hunt for Red
+   Blobtober, there is a Pac-Man like screen with the kid's heads. After
+   the scene, Philly Phil pulls grapes out of the hole. Also, Eddie makes
+   the classic "Wakka wakka wakka" noise.
+
+   Pac-Man is shown for almost thirty seconds at high speed in the 1982
+   cult movie Koyaanisqatsi.
+
+Other video games
+
+   Namco often puts the characters of Pac-Man into their other games, as
+   actual opponents or subtle references. Some of the most prominent uses
+   include the Ridge Racer series of games and Wangan Midnight Maximum
+   Tune. In addition, similar to Namco x Capcom, Pac-Man appears as a
+   statue in Tales of Symphonia, and also as a part of alternative costume
+   of Presea that is based on the Namco character Klonoa. In another Tales
+   game, Tales of the Abyss, playable character Jade Curtiss's main outfit
+   has a belt with a buckle shaped like Pac-Man. Because of this, the
+   Pac-Man appears to be eating the belt holes, much like an in-game
+   Pac-Man eating dots. Talim's 1P costume in Soul Calibur II and III both
+   feature a Pac-Man emblem on her necklace.
+
+   Pac-Man is a playable character in the Mario Kart Arcade GP and Mario
+   Kart Arcade GP 2 games; in fact, Pac-Man is one of the first
+   non-Nintendo characters to appear in a Nintendo game. Ms. Pac-Man and
+   the red ghost Blinky are also playable. Klonoa, a Namco character,
+   always wears a blue cap with a little Pac-Man on it. Curiously, this
+   mark was erased in Namco x Capcom, in which Pac-Man's only appearance
+   is as a statue in a single stage.
+
+   Pac-Man made a guest appearance in Kick Man (1981), also once known as
+   Kick. The object of Kickman was to catch falling balloons on the head
+   of a unicycle rider. In some levels of the game, a Pac-Man might
+   descend and, with his familiar sound effects, eat the already-caught
+   balloons for bonus points. Ghosts appeared as well in higher levels.
+
+   Anna Kournikova's Smash Court Tennis featured Pac-Man as a secret
+   unlockable character. He looked exactly like his 3D render. To unlock
+   him, the player had to complete the Times Square court under "Street
+   Tournament" six times.
+
+   In Wolfenstein 3D (1992), there was a secret level that was a remake of
+   one of the mazes in Pac-Man, complete with Pac-Man ghosts that would
+   chase the player. They could not be killed. The dots were replaced with
+   treasure items and the power pills were replaced with extra lives.
+
+   In Baten Kaitos, Pac-Man appeared as a card/weapon that was unlocked by
+   performing a combo involving fruit.
+
+   A carving of Pac-Man eating a pill, along with a ghost from Pac-Man,
+   could be seen in the fighting game Mortal Kombat.
+
+   In Jak III, when Daxter needed the codes to get into the KG Sky
+   Factory, he went through a Pac-Man-like game to get the codes.
+
+   In Top Secret!, a map showing the protagonist's travel through Berlin
+   changed into a Pac-Man game.
+
+   In The Simpsons, Mr. Burns plays a generic version of Ms. Pac-Man.
+
+   In the section "Raiders of the Lost Arcade" of the Futurama episode "
+   Anthology of Interest II", the Planet Express Crew and 'General'
+   Pac-Man went through a Pac-Man maze. During this Dr. Zoidberg ate
+   various in-game items, including the key, the dots (which he said
+   tasted like stale marshmallows), the fruit and Phillip J. Fry (who was
+   okay because he "had another guy"). Pac-Man was inadvertently killed by
+   laser fire from Space Invaders. Fry asked Amy Wong to tend to the Widow
+   Pac-Man.
+
+   In an episode of Family Guy they showed a flashback of when Ms. Pac-Man
+   broke up with Pac-Man and the ghosts try to cheer him up by letting him
+   eat them, but he was too depressed to acknowledge them, instead sitting
+   silently, staring ahead and smoking a cigarette.
+
+   In Stewie Griffin: The Untold Story, a Family Guy movie, Brian is
+   telling Stewie to get the fruit in a Pac-Man game. Stewie then replies
+   with, "I can't get the fruit, there's a ghost right there!"
+
+Games featuring Pac-Man
+
+   Screenshot of the level Pac-Box for Descent 3.
+   Screenshot of the level Pac-Box for Descent 3.
+
+     * Sky Kid (1985): Along with Inky, the Special Flag from Rally-X and
+       Pooka from Dig Dug, Pac-Man appears as one of the hidden Namco
+       characters who appear sometimes after blowing up an enemy unit. He
+       is worth 1000 points if picked up.
+
+     * Sky Kid Deluxe (1986): Pac-Man's role is exactly the same as in the
+       original Sky Kid.
+
+     * Ordyne (1988): After buying a stock bomber from Miyuki Chan's shop
+       or winning one from Dream Co., Ltd., Pac-Man will sit on the front
+       of Yûichirô Tomari's or Sunday Chin's ship, held in place by a
+       green claw. He sucks in all the enemies' shots and spits them back
+       out at them. The more shots he sucks in, the bigger he becomes and
+       the more powerful the shots he spits out will be. Only one player
+       may have this special weapon at a time.
+
+     * Tinkle Pit (1993): After getting the powerup which looks like
+       Pac-Man's face, the nameless protagonist will turn into Pac-Man and
+       all the enemies will turn into ghosts for a short time. He can eat
+       them for bonus points.
+
+     * Tekken (1994) and Tekken 2 (1995): If the Number of Wins indicated
+       by option is set to Fruit and one wins 40+ fights in Arcade Mode
+       under two players, Pac-Man will appear as an icon.
+
+     * Soul Edge (1995): Pac-Man stands on top of the Namco logo after the
+       announcer says the company's name as the camera zooms in on the
+       logo and him over a white background.
+
+     * A mod for Doom II was created that could change all of the enemy
+       creatures to Pac-Man characters. All other features of the game
+       remained the same.
+
+     * Baten Kaitos: Eternal Wings and the Lost Ocean: Pac-Man is a magnus
+       that can be obtained by combo-ing a large amount of fruit magnus.
+       The version of Pac-Man from Pac-Land can be obtained in a similar
+       way.
+
+     * Ridge Racer Type 4 features a racing team called the "Pac Racing
+       Club" with cars decorated with the Pac-Man name and character.
+       Also, upon unlocking every single car in the game, the player
+       unlocks a Pac-Man car which is essentially a giant Pac-Man as he
+       appears in Pac-Man World on wheels with an engine in the rear.
+
+     * Ridge Racer V features a Pac-Man race (unlocked when the player
+       drives 3000km total) in which the player races as Pac-Man in a
+       little red roadster against the 4 ghosts on mopeds. If the player
+       wins, they also unlock the ghosts to race as in Time Trial, Free
+       Run and Vs. modes.
+
+     * Ridge Racer (2004): Features a grueling Pac Man boss race on a
+       normal Ridge Racer track, after beating Pac-Man one unlocks the
+       Pac-Man car.
+
+     * Baten Kaitos Origins (2006): Pac-Man is a magnus given to one to
+       take care of by Quzman. He will eat any magnus that is around him,
+       forcing one to 'trap' him between inedible magnus. After eating a
+       certain number of magnus, he will transform into Pac-Land and
+       eventually Pac-Mania.
+
+     * A level for Descent 3 multiplayer was created as a tribute to
+       Pac-Man, Pac-Box.
+
+     * A Guild Wars boss named Glamron uses a skill called "Pac-Man." This
+       skill enables Glamron to rush directly into players it encounters.
+
+     * Blast Corps (by Rareware) had a pac-man tribute secret level
+       featuring pac-man styled game play in a maze where one used the
+       games bulldozer to light beacons in the same way pac-man eats dots.
+
+     * Ridge Racer 6 has a car in the Special class which is Pac-Man in a
+       spaceship with a speed display shaped like Pac-Man.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Pac-Man"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

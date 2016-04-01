@@ -1,0 +1,496 @@
+   #copyright
+
+Ordinal number
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Commonly, ordinal numbers, or ordinals for short, are numbers used to
+   denote the position in an ordered sequence: first, second, third,
+   fourth, etc., whereas a cardinal number says "how many there are": one,
+   two, three, four, etc. (See How to name numbers.)
+
+   Here, we describe the mathematical meaning of transfinite ordinal
+   numbers. They were introduced by Georg Cantor in 1897, to accommodate
+   infinite sequences and to classify sets with certain kinds of order
+   structures on them. Ordinals are an extension of the natural numbers
+   different from integers and from cardinals.
+
+   Well-ordering is total ordering with transfinite induction, where
+   transfinite induction extends mathematical induction beyond the finite.
+   Ordinals represent equivalence classes of well orderings with
+   order-isomorphism being the equivalence relationship. Each ordinal is
+   taken to be the set of smaller ordinals. Ordinals may be categorized
+   as: zero, successor ordinals, and limit ordinals (of various
+   cofinalities). Given a class of ordinals, one can identify the α-th
+   member of that class, i.e. one can index (count) them. A class is
+   closed and unbounded if its indexing function is continuous and never
+   stops. One can define addition, multiplication, and exponentiation on
+   ordinals, but not subtraction or division. The Cantor normal form is a
+   standardized way of writing down ordinals. There is a many to one
+   association from ordinals to cardinals. Larger and larger ordinals can
+   be defined, but they become more and more difficult to describe.
+   Ordinals have a natural topology.
+
+Ordinals extend the natural numbers
+
+   A natural number can be used for two purposes: to describe the size of
+   a set, or to describe the position of an element in a sequence. While
+   in the finite world these two concepts coincide, when dealing with
+   infinite sets one has to distinguish between the two. The notion of
+   size leads to cardinal numbers, which were also discovered by Cantor,
+   while the position is generalized by the ordinal numbers described
+   here.
+
+   Whereas the notion of cardinal number is associated to a set with no
+   particular structure on it, the ordinals are intimately linked with the
+   special kind of sets which are called well-ordered (so intimately
+   linked, in fact, that some mathematicians make no distinction between
+   the two concepts). To define things briefly, a well-ordered set is a
+   totally ordered set (given any two elements one defines a smaller and a
+   larger one in a coherent way) in which there is no infinite decreasing
+   sequence (however, there may be infinite increasing sequences).
+   Ordinals may be used to label the elements of any given well-ordered
+   set (the smallest element being labeled 0, the one after that 1, the
+   next one 2, "and so on") and to measure the "length" of the whole set
+   by the least ordinal which is not a label for an element of the set.
+   This "length" is called the order type of the set.
+
+   Any ordinal is defined by the set of ordinals that precede it: in fact,
+   the most common definition of ordinals identifies each ordinal as the
+   set of ordinals that precede it. For example, the ordinal 42 is the
+   order type of the ordinals less than it, i.e., the ordinals from 0 (the
+   smallest of all ordinals) to 41 (the immediate predecessor of 42), and
+   it is generally identified as the set {0,1,2,…,41}. Conversely, any set
+   of ordinals which is downward-closed—meaning that any ordinal less than
+   an ordinal in the set is also in the set—is (or can be identified with)
+   an ordinal.
+
+   So far we have mentioned only finite ordinals, which are the natural
+   numbers. But there are infinite ones as well: the smallest infinite
+   ordinal is ω, which is the order type of the natural numbers (finite
+   ordinals) and which can even be identified with the set of natural
+   numbers (indeed, the set of natural numbers is well-ordered—as is any
+   set of ordinals—and since it is downward closed it can be identified
+   with the ordinal associated to it, which is exactly how we define ω).
+   A graphical “matchstick” representation of the ordinal ω². Each stick
+   correspond to an ordinal of the form ω·m+n where m and n are natural
+   numbers.
+   Enlarge
+   A graphical “matchstick” representation of the ordinal ω². Each stick
+   correspond to an ordinal of the form ω·m+n where m and n are natural
+   numbers.
+
+   Perhaps a clearer intuition of ordinals can be formed by examining a
+   first few of them: as mentioned above, they start with the natural
+   numbers, 0, 1, 2, 3, 4, 5, … After all natural numbers comes the first
+   infinite ordinal, ω, and after that come ω+1, ω+2, ω+3, and so on.
+   (Exactly what addition means will be defined later on: just consider
+   them as names.) After all of these come ω·2 (which is ω+ω), ω·2+1,
+   ω·2+2, and so on, then ω·3, and then later on ω·4. Now the set of
+   ordinals which we form in this way (the ω·m+n, where m and n are
+   natural numbers) must itself have an ordinal associated to it: and that
+   is ω^2. Further on, there will be ω^3, then ω^4, and so on, and ω^ω,
+   then ω^ω², and much later on ε[0] (just to give a few examples of the
+   very smallest—countable—ordinals). We can go on in this way
+   indefinitely far ("indefinitely far" is exactly what ordinals are good
+   at: basically every time one says "and so on" when enumerating
+   ordinals, it defines a larger ordinal).
+
+Definitions
+
+Define well-ordered set
+
+   A well-ordered set is an ordered set in which every non-empty subset
+   has a least element: this is equivalent (at least in the presence of
+   the axiom of dependent choices) to just saying that the set is totally
+   ordered and there is no infinite decreasing sequence, something which
+   is perhaps easier to visualize. In practice, the importance of
+   well-ordering is justified by the possibility of applying transfinite
+   induction, which says, essentially, that any property that passes on
+   from the predecessors of an element to that element itself must be true
+   of all elements (of the given well-ordered set). If the states of a
+   computation (computer program or game) can be well-ordered in such a
+   way that each step is followed by a "lower" step, then you can be sure
+   that the computation will terminate.
+
+   Now we don't want to distinguish between two well-ordered sets if they
+   only differ in the "labeling of their elements", or more formally: if
+   we can pair off the elements of the first set with the elements of the
+   second set such that if one element is smaller than another in the
+   first set, then the partner of the first element is smaller than the
+   partner of the second element in the second set, and vice versa. Such a
+   one-to-one correspondence is called an order isomorphism and the two
+   well-ordered sets are said to be order-isomorphic, or similar
+   (obviously this is an equivalence relation). Provided there exists an
+   order isomorphism between two well-ordered sets, the order isomorphism
+   is unique: this makes it quite justifiable to consider the sets as
+   essentially identical, and to seek a "canonical" representative of the
+   isomorphism type (class). This is exactly what the ordinals provide,
+   and it also provides a canonical labeling of the elements of any
+   well-ordered set.
+
+   So we essentially wish to define an ordinal as an isomorphism class of
+   well-ordered sets: that is, as an equivalence class for the equivalence
+   relation of "being order-isomorphic". There is a technical difficulty
+   involved, however, in the fact that the equivalence class is too large
+   to be a set in the usual Zermelo–Fraenkel (ZF) formalization of set
+   theory. But this is not a serious difficulty. We will say that the
+   ordinal is the order type of any set in the class.
+
+Definition of an ordinal as an equivalence class
+
+   The original definition of ordinal number, found for example in
+   Principia Mathematica, defines the order type of a well-ordering as the
+   set of all well-orderings similar (order-isomorphic) to that
+   well-ordering: in other words, an ordinal number is genuinely an
+   equivalence class of well-ordered sets. This definition must be
+   abandoned in ZF and related systems of axiomatic set theory because
+   these equivalence classes are too large to form a set. However, this
+   definition still can be used in type theory and in Quine's set theory
+   New Foundations and related systems (where it affords a rather
+   surprising alternative solution to the Burali-Forti paradox of the
+   largest ordinal).
+
+Von Neumann definition of ordinals
+
+   Rather than defining an ordinal as an equivalence class of well-ordered
+   sets, we can try to define it as some particular well-ordered set which
+   (canonically) represents the class. Thus, we want to construct ordinal
+   numbers as special well-ordered sets in such a way that every
+   well-ordered set is order-isomorphic to one and only one ordinal
+   number.
+
+   The ingenious definition suggested by John von Neumann, and which is
+   now taken as standard, is this: define each ordinal as a special
+   well-ordered set, namely that of all ordinals before it. Formally:
+
+          A set S is an ordinal if and only if S is totally ordered with
+          respect to set containment and every element of S is also a
+          subset of S.
+
+   (Here, "set containment" is another name for the subset relationship.)
+   Such a set S is automatically well-ordered with respect to set
+   containment. This relies on the axiom of well foundation: every
+   nonempty set B has an element b which is disjoint from B.
+
+   Note that the natural numbers are ordinals by this definition. For
+   instance, 2 is an element of 4 = {0, 1, 2, 3}, and 2 is equal to {0, 1}
+   and so it is a subset of {0, 1, 2, 3}.
+
+   It can be shown by transfinite induction that every well-ordered set is
+   order-isomorphic to exactly one of these ordinals.
+
+   Furthermore, the elements of every ordinal are ordinals themselves.
+   Whenever you have two ordinals S and T, S is an element of T if and
+   only if S is a proper subset of T, and moreover, either S is an element
+   of T, or T is an element of S, or they are equal. So every set of
+   ordinals is totally ordered. And in fact, much more is true: Every set
+   of ordinals is well-ordered. This important result generalizes the fact
+   that every set of natural numbers is well-ordered and it allows us to
+   use transfinite induction liberally with ordinals.
+
+   Another consequence is that every ordinal S is a set having as elements
+   precisely the ordinals smaller than S. This statement completely
+   determines the set-theoretic structure of every ordinal in terms of
+   other ordinals. It is used to prove many other useful results about
+   ordinals. One example of these is an important characterization of the
+   order relation between ordinals: every set of ordinals has a supremum,
+   the ordinal obtained by taking the union of all the ordinals in the
+   set. Another example is the fact that the collection of all ordinals is
+   not a set. Indeed, since every ordinal contains only other ordinals, it
+   follows that every member of the collection of all ordinals is also its
+   subset. Thus, if that collection were a set, it would have to be an
+   ordinal itself by definition; then it would be its own member, which
+   contradicts the axiom of regularity. (See also the Burali-Forti
+   paradox). The class of all ordinals is variously called "Ord", "ON", or
+   "∞".
+
+   An ordinal is finite if and only if the opposite order is also
+   well-ordered, which is the case if and only if each of its subsets has
+   a greatest element.
+
+Other definitions
+
+   There are other modern formulations of the definition of ordinal. Each
+   of these is essentially equivalent to the definition given above. One
+   of these definitions is the following. A class S is called transitive
+   if each element x of S is a subset of S, i.e. y \in x \in S
+   \Longrightarrow y \in S . An ordinal is then defined to be a transitive
+   set whose members are also transitive. It follows from this that the
+   members are themselves ordinals. Note that the axiom of regularity
+   (foundation) is used in showing that these ordinals are well ordered by
+   containment (subset).
+
+Transfinite induction
+
+What is transfinite induction?
+
+   Transfinite induction holds in any well-ordered set, but it is so
+   important in relation to ordinals that it is worth restating here.
+
+          Any property which passes from the set of ordinals smaller than
+          a given ordinal α to α itself, is true of all ordinals.
+
+   That is, if P(α) is true whenever P(β) is true for all β<α, then P(α)
+   is true for all α. Or, more practically: in order to prove a property P
+   for all ordinals α, one can assume that it is already known for all
+   smaller β<α.
+
+Transfinite recursion
+
+   Transfinite induction can be used not only to prove things, but also to
+   define them (such a definition is normally said to follow by
+   transfinite recursion - we use transfinite induction to prove that the
+   result is well-defined): the formal statement is tedious to write, but
+   the bottom line is, in order to define a (class) function on the
+   ordinals α, one can assume that it is already defined for all smaller
+   β<α. One proves by transfinite induction that there is one and only one
+   function satisfying the recursion formula up to and including α.
+
+   Here is an example of definition by transfinite induction on the
+   ordinals (more will be given later): define a function F by letting
+   F(α) be the smallest ordinal not in the set of F(β) for all β<α. Note
+   how we assume the F(β) known in the very process of defining F: this
+   apparent paradox is exactly what definition by transfinite induction
+   permits. Now in fact F(0) makes sense since there is no β<0, so the set
+   of all F(β) for β<0 is empty, so F(0) must be 0 (the smallest ordinal
+   of all), and now that we know F(0), then F(1) makes sense (and it is
+   the smallest ordinal not equal to F(0)=0), and so on (the and so on is
+   exactly transfinite induction). Well, it turns out that this example is
+   not very interesting since F(α)=α for all ordinals α: but this can be
+   shown, precisely, by transfinite induction.
+
+Successor and limit ordinals
+
+   Any nonzero ordinal has a smallest element, to wit zero. It may or may
+   not have a largest element. For example, 42 has a largest element 41
+   and ω+6 has a largest element ω+5. On the other hand, ω does not have a
+   largest element since there is no largest natural number. If an ordinal
+   has a largest element α, then it is the next ordinal after α, and it is
+   called a successor ordinal, namely the successor of α, written α+1. In
+   the von Neumann definition of ordinals, the successor of α is
+   \alpha\cup\{\alpha\} since its elements are those of α and α itself.
+
+   A nonzero ordinal which is not a successor is called a limit ordinal.
+   One justification for this term is that a limit ordinal is indeed the
+   limit in a topological sense of all smaller ordinals (for the order
+   topology).
+
+   When \langle \alpha_{\iota} | \iota < \gamma \rangle is a sequence of
+   ordinals indexed by a limit γ and the sequence is increasing, i.e.
+   \alpha_{\iota} < \alpha_{\rho}\! whenever \iota < \rho,\! we define its
+   limit to be the least upper bound of the set \{ \alpha_{\iota} | \iota
+   < \gamma \},\! that is, the smallest ordinal (it always exists) greater
+   than any term of the sequence. In this sense, a limit ordinal is the
+   limit of all smaller ordinals (indexed by itself).
+
+   Another way of defining a limit ordinal is to say that α is a limit
+   ordinal if and only if:
+
+   There is an ordinal less than α and whenever ζ is an ordinal less than
+   α, then there exists an ordinal ξ such that ζ<ξ<α.
+
+   So in the following sequence
+
+   0, 1, 2, ... , ω, ω+1
+
+   ω is a limit ordinal because for any ordinal (in this example, a
+   natural number) we can find another ordinal (natural number) larger
+   than it, but still less than ω.
+
+   Thus, every ordinal is either zero, or a successor (of a well-defined
+   predecessor), or a limit. This distinction is important, because many
+   definitions by transfinite induction rely upon it. Very often, when
+   defining a function F by transfinite induction on all ordinals, one
+   defines F(0), and F(α+1) assuming F(α) is defined, and then, for limit
+   ordinals δ one defines F(δ) as the limit of the F(β) for all β<δ
+   (either in the sense of ordinal limits, as we have just explained, or
+   for some other notion of limit if F does not take ordinal values).
+   Thus, the interesting step in the definition is the successor step, not
+   the limit ordinals. Such functions (especially for F nondecreasing and
+   taking ordinal values) are called continuous. We will see that ordinal
+   addition, multiplication and exponentiation are continuous as functions
+   of their second argument.
+
+Indexing classes of ordinals
+
+   We have mentioned that any well-ordered set is similar
+   (order-isomorphic) to a unique ordinal number α, or, in other words,
+   that its elements can be indexed in increasing fashion by the ordinals
+   less than α. This applies, in particular, to any set of ordinals: any
+   set of ordinals is naturally indexed by the ordinals less than some α.
+   The same holds, with a slight modification, for classes of ordinals (a
+   collection of ordinals, possibly too large to form a set, defined by
+   some property): any class of ordinals can be indexed by ordinals (and,
+   when the class is unbounded, this puts it in class-bijection with the
+   class of all ordinals). So we can freely speak of the γ-th element in
+   the class (with the convention that the “0-th” is the smallest, the
+   “1-th” is the next smallest, and so on). Formally, the definition is by
+   transfinite induction: the γ-th element of the class is defined
+   (provided it has already been defined for all β < γ), as the smallest
+   element greater than the β-th element for all β < γ.
+
+   We can apply this, for example, to the class of limit ordinals: the
+   γ-th ordinal which is either a limit or zero is \omega\cdot\gamma (see
+   ordinal arithmetic for the definition of multiplication of ordinals).
+   Similarly, we can consider ordinals which are additively indecomposable
+   (meaning that it is a nonzero ordinal which is not the sum of two
+   strictly smaller ordinals): the γ-th additively indecomposable ordinal
+   is indexed as ω^γ. The technique of indexing classes of ordinals is
+   often useful in the context of fixed points: for example, the γ-th
+   ordinal α such that ω^α = α is written \varepsilon_\gamma . These are
+   called the "epsilon numbers".
+
+Closed unbounded sets and classes
+
+   A class of ordinals is said to be unbounded, or cofinal, when given any
+   ordinal, there is always some element of the class greater than it
+   (then the class must be a proper class, i.e., it cannot be a set). It
+   is said to be closed when the limit of a sequence of ordinals in the
+   class is again in the class: or, equivalently, when the indexing
+   (class-)function F is continuous in the sense that, for δ a limit
+   ordinal, F(δ) (the δ-th ordinal in the class) is the limit of all F(γ)
+   for γ < δ; this is also the same as being closed, in the topological
+   sense, for the order topology (to avoid talking of topology on proper
+   classes, one can demand that the intersection of the class with any
+   given ordinal is closed for the order topology on that ordinal, this is
+   again equivalent).
+
+   Of particular importance are those classes of ordinals which are closed
+   and unbounded, sometimes called clubs. For example, the class of all
+   limit ordinals is closed and unbounded: this translates the fact that
+   there is always a limit ordinal greater than a given ordinal, and that
+   a limit of limit ordinals is a limit ordinal (a fortunate fact if the
+   terminology is to make any sense at all!). The class of additively
+   indecomposable ordinals, or the class of \varepsilon_\cdot ordinals, or
+   the class of cardinals, are all closed unbounded; the set of regular
+   cardinals, however, is unbounded but not closed, and any finite set of
+   ordinals is closed but not unbounded.
+
+   A class is stationary if it has a nonempty intersection with every
+   closed unbounded class. All superclasses of closed unbounded classes
+   are stationary and stationary classes are unbounded, but there are
+   stationary classes which are not closed and there are stationary
+   classes which have no closed unbounded subclass (such as the class of
+   all limit ordinals with countable cofinality). Since the intersection
+   of two closed unbounded classes is closed and unbounded, the
+   intersection of a stationary class and a closed unbounded class is
+   stationary. But the intersection of two stationary classes may be
+   empty, e.g. the class of ordinals with cofinality ω with the class of
+   ordinals with uncountable cofinality.
+
+   Rather than formulating these definitions for (proper) classes of
+   ordinals, we can formulate them for sets of ordinals below a given
+   ordinal α: A subset of a limit ordinal α is said to be unbounded (or
+   cofinal) under α provided any ordinal less than α is less than some
+   ordinal in the set. More generally, we can call a subset of any ordinal
+   α cofinal in α provided every ordinal less than α is less than or equal
+   to some ordinal in the set. The subset is said to be closed under α
+   provided it is closed for the order topology in α, i.e. a limit of
+   ordinals in the set is either in the set or equal to α itself.
+
+Arithmetic of ordinals
+
+   There are three usual operations on ordinals: addition, multiplication,
+   and (ordinal) exponentiation. Each can be defined in essentially two
+   different ways: either by constructing an explicit well-ordered set
+   which represents the operation or by using transfinite recursion. The
+   Cantor normal form provides a standardized way of writing ordinals. The
+   so-called "natural" arithmetical operations retain commutativity at the
+   expense of continuity.
+
+Ordinals and cardinals
+
+Initial ordinal of a cardinal
+
+   Each ordinal has an associated cardinal, its cardinality, obtained by
+   simply forgetting the order. Any well-ordered set having that ordinal
+   as its order-type has the same cardinality. The smallest ordinal having
+   a given cardinal as its cardinality is called the initial ordinal of
+   that cardinal. Every finite ordinal (natural number) is initial, but
+   most infinite ordinals are not initial. The axiom of choice is
+   equivalent to the statement that every set can be well-ordered, i.e.
+   that every cardinal has an initial ordinal. In this case, it is
+   traditional to identify the cardinal number with its initial ordinal,
+   and we say that the initial ordinal is a cardinal.
+
+   The α-th infinite initial ordinal is written ω[α]. Its cardinality is
+   written \aleph_\alpha . For example, the cardinality of ω[0] = ω is
+   \aleph_0 , which is also the cardinality of ω² or ε[0] (all are
+   countable ordinals). So (assuming the axiom of choice) we identify ω
+   with \aleph_0 , except that the notation \aleph_0 is used when writing
+   cardinals, and ω when writing ordinals (this is important since
+   \aleph_0^2=\aleph_0 whereas ω^2 > ω). Also, ω[1] is the smallest
+   uncountable ordinal (to see that it exists, consider the set of
+   equivalence classes of well-orderings of the natural numbers: each such
+   well-ordering defines a countable ordinal, and ω[1] is the order type
+   of that set), ω[2] is the smallest ordinal whose cardinality is greater
+   than \aleph_1 , and so on, and ω[ω] is the limit of the ω[n] for
+   natural numbers n (any limit of cardinals is a cardinal, so this limit
+   is indeed the first cardinal after all the ω[n]).
+
+Cofinality
+
+   The cofinality of an ordinal α is the smallest ordinal δ which is the
+   order type of a cofinal subset of α. Notice that a number of authors
+   define confinality or use it only for limit ordinals. The cofinality of
+   a set of ordinals or any other well ordered set is the cofinality of
+   the order type of that set.
+
+   Thus for a limit ordinal, there exists a δ-indexed strictly increasing
+   sequence with limit α. For example, the cofinality of ω² is ω, because
+   the sequence ω·m (where m ranges over the natural numbers) tends to ω²;
+   but, more generally, any countable limit ordinal has cofinality ω. An
+   uncountable limit ordinal may have either cofinality ω as does ω[ω] or
+   an uncountable cofinality.
+
+   The cofinality of 0 is 0. And the cofinality of any successor ordinal
+   is 1. The cofinality of any limit ordinal is at least ω.
+
+   An ordinal which is equal to its cofinality is called regular and it is
+   always an initial ordinal. Any limit of regular ordinals is a limit of
+   initial ordinals and thus is also initial even if it is not regular
+   which it usually is not. If the Axiom of Choice, then ω[α + 1] is
+   regular for each α. In this case, the ordinals 0, 1, ω, ω[1], and ω[2]
+   are regular, whereas 2, 3, ω[ω], and ω[ω·2] are initial ordinals which
+   are not regular.
+
+   The cofinality of any ordinal α is a regular ordinal, i.e. the
+   cofinality of the cofinality of α is the same as the cofinality of α.
+   So the cofinality operation is idempotent.
+
+Some “large” countable ordinals
+
+   We have already mentioned (see Cantor normal form) the ordinal ε[0],
+   which is the smallest satisfying the equation ω^α = α, so it is the
+   limit of the sequence 0, 1, ω, ω^ω, \omega^{\omega^\omega} , etc. Many
+   ordinals can be defined in such a manner as fixed points of certain
+   ordinal functions (the ι-th ordinal such that ω^α = α is called
+   \varepsilon_\iota , then we could go on trying to find the ι-th ordinal
+   such that \varepsilon_\alpha = \alpha , “and so on”, but all the
+   subtlety lies in the “and so on”). We can try to do this
+   systematically, but no matter what system is used to define and
+   construct ordinals, there is always an ordinal that lies just above all
+   the ordinals constructed by the system. Perhaps the most important
+   ordinal which limits in this manner a system of construction is the
+   Church- Kleene ordinal, \omega_1^{\mathrm{CK}} (despite the ω[1] in the
+   name, this ordinal is countable), which is the smallest ordinal which
+   cannot in any way be represented by a computable function (this can be
+   made rigorous, of course). Considerably large ordinals can be defined
+   below \omega_1^{\mathrm{CK}} , however, which measure the
+   “proof-theoretic strength” of certain formal systems (for example,
+   \varepsilon_0 measures the strength of Peano arithmetic). Large
+   ordinals can also be defined above the Church-Kleene ordinal, which are
+   of interest in various parts of logic.
+
+Topology and ordinals
+
+   Any ordinal can be made into a topological space in a natural way by
+   endowing it with the order topology. See Order topology#Topology and
+   ordinals.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Ordinal_number"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

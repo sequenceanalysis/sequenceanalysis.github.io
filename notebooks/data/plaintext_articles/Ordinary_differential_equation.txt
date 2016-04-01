@@ -1,0 +1,612 @@
+   #copyright
+
+Ordinary differential equation
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, an ordinary differential equation (or ODE) is a
+   relation that contains functions of only one independent variable, and
+   one or more of its derivatives with respect to that variable.
+
+   A simple example is Newton's second law of motion, which leads to the
+   differential equation
+
+          m \frac{d^2 x}{dt^2} = f(x)\, ,
+
+   for the motion of a particle of mass m. In general, the force f depends
+   upon the position of the particle x, and thus the unknown variable x
+   appears on both sides of the differential equation, as is indicated in
+   the notation f(x).
+
+   Ordinary differential equations are to be distinguished from partial
+   differential equations where there are several independent variables
+   involving partial derivatives.
+
+   Ordinary differential equations arise in many different contexts
+   including geometry, mechanics, astronomy and population modelling. Many
+   famous mathematicians have studied differential equations and
+   contributed to the field, including Newton, Leibniz, the Bernoullis,
+   Riccati, Clairaut, d'Alembert and Euler.
+
+   Much study has been devoted to the solution of ordinary differential
+   equations. In the case where the equation is linear, it can be solved
+   by analytical methods. Unfortunately, most of the interesting
+   differential equations are non-linear and, with a few exceptions,
+   cannot be solved exactly. Approximate solutions are arrived at using
+   computer approximations (see numerical ordinary differential
+   equations).
+
+Definitions
+
+   Let y be an unknown function
+
+          y: \mathbb{R} \to \mathbb{R}
+
+   in x with y^(i) the i-th derivative of y, then a function
+
+          F(x,y,y^{(1)},\ \dots,\ y^{(n-1)})=y^{(n)}
+
+   is called an ordinary differential equation (ODE) of order (or degree)
+   n. For vector valued functions
+
+          y: \mathbb{R} \to \mathbb{R}^m
+
+   we call F a system of ordinary differential equations of dimension m.
+
+   A function y is called a solution of F. A general solution of an
+   nth-order equation is a solution containing n arbitrary variables,
+   corresponding to n constants of integration. A particular solution is
+   derived from the general solution by setting the constants to
+   particular values. A singular solution is a solution that can't be
+   derived from the general solution.
+
+   When a differential equation of order n has the form
+
+          F\left(x, y, y', y'',\ \dots,\ y^{(n)}\right) = 0
+
+   it is called an implicit differential equation whereas the form
+
+          F\left(x, y, y', y'',\ \dots,\ y^{(n-1)}\right) = y^{(n)}
+
+   is called an explicit differential equation.
+
+   A differential equation not depending on x is called autonomous.
+
+   A differential equation is said to be linear if F can be written as a
+   linear combination of the derivatives of y
+
+          y^{(n)} = \sum_{i=1}^{n-1} a_i(x) y^{(i)} + r(x)
+
+   with a[i](x) and r(x) continuous functions in x. If r(x)=0 the we call
+   the linear differential equation homogeneous otherwise we call it
+   inhomogeneous.
+
+Examples
+
+Reduction of dimension
+
+   Given an explicit ordinary differential equation of order n and
+   dimension 1,
+
+          F\left(x, y, y', y'',\ \dots,\ y^{(n-1)}\right) = y^{(n)}
+
+   we define a new family of unknown functions
+
+          y[n]: = y^(n − 1).
+
+   We can then rewrite the original differential equation as a system of
+   differential equations with order 1 and dimension n.
+
+          y_1^' = y_2
+          \vdots
+          y_n^' = F(y_n, \dots, y_1, x).
+
+   which can be written concisely in vector notation as
+
+          \mathbf{y}^'=\mathbf{F}(\mathbf{y}, x)
+
+   with
+
+          \mathbf{y}:=(y,\ldots,y_n).
+
+Types of ordinary differential equations
+
+   Ordinary differential equations which can be categorised by three
+   factors:
+     * Linear vs. Non-linear
+     * Homogeneous vs. Inhomogenous
+     * Constant coefficents versus variable coefficients
+
+   Information below provides methods for the solution of these differing
+   ODEs:
+
+Homogeneous linear ODEs with constant coefficients
+
+   The first method of solving linear ordinary differential equations with
+   constant coefficients is due to Euler, who realized that solutions have
+   the form e^zx, for possibly-complex values of z. Thus to solve
+
+          \frac {d^{n}y} {dx^{n}} + A_{1}\frac {d^{n-1}y} {dx^{n-1}} +
+          \cdots + A_{n}y = 0
+
+   we set y = e^zx, leading to
+
+          z^n e^{zx} + A_1 z^{n-1} e^{zx} + \cdots + A_n e^{zx} = 0
+
+   so dividing by e^zx gives the nth-order polynomial
+
+          F(z) = z^{n} + A_{1}z^{n-1} + \cdots + A_n = 0
+
+   In short the terms
+
+          \frac {d^{k}y} {dx^{k}}\quad\quad(k = 1, 2, \cdots, n).
+
+   of the original differential equation are replaced by z^k. Solving the
+   polynomial gives n values of z, z_1, \dots,z_n . Plugging those values
+   into e^{z_i x} gives a basis for the solution; any linear combination
+   of these basis functions will satisfy the differential equation.
+
+   This equation F(z) = 0, is the "characteristic" equation considered
+   later by Monge and Cauchy.
+
+   Example
+   y''''-2y'''+2y''-2y'+y=0 \,
+
+   has the characteristic equation
+
+   z^4-2z^3+2z^2-2z+1=0 \, .
+
+   This has zeroes, i, −i, and 1 (multiplicity 2). The solution basis is
+   then
+
+   e^{ix} ,\, e^{-ix} ,\, e^x ,\, xe^x \,.
+
+   This corresponds to the real-valued solution basis
+
+   \cos x ,\, \sin x ,\, e^x ,\, xe^x \,.
+
+   If z is a (possibly not real) zero of F(z) of multiplicity m and
+   k\in\{0,1,\dots,m-1\} \, then y=x^ke^{zx} \, is a solution of the ODE.
+   These functions make up a basis of the ODE's solutions.
+
+   If the A[i] are real then real-valued solutions are preferable. Since
+   the non-real z values will come in conjugate pairs, so will their
+   corresponding ys; replace each pair with their linear combinations
+   Re(y) and Im(y).
+
+   A case that involves complex roots can be solved with the aid of
+   Euler's formula.
+     * Example: Given y''-4y'+5y=0 \, . The characteristic equation is
+       z^2-4z+5=0 \, which has zeroes 2+i and 2−i. Thus the solution basis
+       {y[1],y[2]} is \{e^{(2+i)x},e^{(2-i)x}\} \, . Now y is a solution
+       iff y=c_1y_1+c_2y_2 \, for c_1,c_2\in\mathbb C .
+
+   Because the coefficients are real,
+     * we are likely not interested in the complex solutions
+     * our basis elements are mutual conjugates
+
+   The linear combinations
+
+          u_1=\mbox{Re}(y_1)=\frac{y_1+y_2}{2}=e^{2x}\cos(x) \, and
+          u_2=\mbox{Im}(y_1)=\frac{y_1-y_2}{2i}=e^{2x}\sin(x) \,
+
+   will give us a real basis in {u[1],u[2]}.
+
+Inhomogeneous linear ODEs with constant coefficients
+
+   Suppose instead we face
+
+          \frac {d^{n}y} {dx^{n}} + A_{1}\frac {d^{n-1}y} {dx^{n-1}} +
+          \cdots + A_{n}y = f(x).
+
+   For later convenience, define the characteristic polynomial
+
+          P(v)=v^n+A_1v^{n-1}+\cdots+A_n.
+
+   We find the solution basis \{y_1,y_2,\ldots,y_n\} as in the homogeneous
+   (f=0) case. We now seek a particular solution y[p] by the variation of
+   parameters method. Let the coefficients of the linear combination be
+   functions of x:
+
+          y_p=u_1y_1+u_2y_2+\cdots+u_ny_n.
+
+   Using the "operator" notation D = d / dx and a broad-minded use of
+   notation, the ODE in question is P(D)y = f; so
+
+          f=P(D)y_p=P(D)(u_1y_1)+P(D)(u_2y_2)+\cdots+P(D)(u_ny_n).
+
+   With the constraints
+
+          0=u'_1y_1+u'_2y_2+\cdots+u'_ny_n
+          0=u'_1y'_1+u'_2y'_2+\cdots+u'_ny'_n
+          …
+          0=u'_1y^{(n-2)}_1+u'_2y^{(n-2)}_2+\cdots+u'_ny^{(n-2)}_n
+
+   the parameters commute out, with a little "dirt":
+
+          f=u_1P(D)y_1+u_2P(D)y_2+\cdots+u_nP(D)y_n+u'_1y^{(n-1)}_1+u'_2y^
+          {(n-1)}_2+\cdots+u'_ny^{(n-1)}_n.
+
+   But P(D)y[j] = 0, therefore
+
+          f=u'_1y^{(n-1)}_1+u'_2y^{(n-1)}_2+\cdots+u'_ny^{(n-1)}_n.
+
+   This, with the constraints, gives a linear system in the u'[j]. This
+   much can always be solved; in fact, combining Cramer's rule with the
+   Wronskian,
+
+          u'_j=(-1)^{n+j}\frac{W(y_1,\ldots,y_{j-1},y_{j+1}\ldots,y_n)_{0
+          \choose f}}{W(y_1,y_2,\ldots,y_n)}.
+
+   The rest is a matter of integrating u'[j].
+
+   The particular solution is not unique; y_p+c_1y_1+\cdots+c_ny_n also
+   satisfies the ODE for any set of constants c[j].
+
+   See also variation of parameters.
+
+   Example: Suppose y'' − 4y' + 5y = sin(kx). We take the solution basis
+   found above {e^(2 + i)x,e^(2 − i)x}.
+
+          W\, = \begin{vmatrix}e^{(2+i)x}&e^{(2-i)x} \\
+              (2+i)e^{(2+i)x}&(2-i)e^{(2-i)x} \end{vmatrix}
+              =e^{4x}\begin{vmatrix}1&1\\ 2+i&2-i\end{vmatrix}
+              =-2ie^{4x}\,
+
+          u'_1\, =\frac{1}{W}\begin{vmatrix}0&e^{(2-i)x}\\
+                 \sin(kx)&(2-i)e^{(2-i)x}\end{vmatrix}
+                 =-\frac{i}2\sin(kx)e^{(-2-i)x}
+
+          u'_2\, =\frac{1}{W}\begin{vmatrix}e^{(2+i)x}&0\\
+                 (2+i)e^{(2+i)x}&\sin(kx)\end{vmatrix}
+                 =\frac{i}{2}\sin(kx)e^{(-2+i)x}.
+
+   Using the list of integrals of exponential functions
+
+     u_1\, =-\frac{i}{2}\int\sin(kx)e^{(-2-i)x}\,dx
+           =\frac{ie^{(-2-i)x}}{2(3+4i+k^2)}\left((2+i)\sin(kx)+k\cos(kx)\right)
+
+     u_2\, =\frac i2\int\sin(kx)e^{(-2+i)x}\,dx
+           =\frac{ie^{(i-2)x}}{2(3-4i+k^2)}\left((i-2)\sin(kx)-k\cos(kx)\right).
+
+   And so
+
+          y_p\, =\frac{i}{2(3+4i+k^2)}\left((2+i)\sin(kx)+k\cos(kx)\right)
+                +\frac{i}{2(3-4i+k^2)}\left((i-2)\sin(kx)-k\cos(kx)\right)
+                =\frac{(5-k^2)\sin(kx)+4k\cos(kx)}{(3+k^2)^2+16}.
+
+   (Notice that u[1] and u[2] had factors that canceled y[1] and y[2];
+   that is typical.)
+
+   For interest's sake, this ODE has a physical interpretation as a driven
+   damped harmonic oscillator; y[p] represents the steady state, and
+   c[1]y[1] + c[2]y[2] is the transient.
+
+First-order linear ODEs
+
+   Example
+   y'+3y=2 \,
+
+   with the initial condition
+
+   f\left(0\right)=2 \, .
+
+   Using the general solution method:
+
+   f=e^{-3x}\left(\int 2 e^{3x} dx + \kappa\right) \, .
+
+   The integration is done from 0 to x, giving:
+
+   f=e^{-3x}\left(2/3\left( e^{3x}-e^0 \right) + \kappa\right) \, .
+
+   Then we can reduce to:
+
+   f=2/3\left(1-e^{-3x}\right) + e^{-3x}\kappa \, .
+
+   Assume that kappa is 2 from the initial condition.
+
+   For a first-order linear ODE, with coefficients that may or may not
+   vary with x:
+
+   y'(x) + p(x)y(x) = r(x)
+
+   Then,
+
+          y=e^{-a(x)}\left(\int r(x) e^{a(x)} dx + \kappa\right)
+
+   where κ is the constant of integration, and
+
+   a(x)=\int{p(x)dx}.
+
+   This proof comes from Jean Bernoulli. Let
+
+          y^\prime + py = r
+
+   Suppose for some unknown functions u(x) and v(x) that y = uv.
+
+   Then
+
+          y^\prime = u^\prime v + u v^\prime
+
+   Substituting into the differential equation,
+
+          u^\prime v + u v^\prime + puv = r
+
+   Now, the most important step: Since the differential equation is linear
+   we can split this into two independent equations and write
+
+          u^\prime v + puv = 0
+          u v^\prime = r
+
+   Since v is not zero, the top equation becomes
+
+          u^\prime + pu = 0
+
+   The solution of this is
+
+          u = e^{ - \int p dx }
+
+   Substituting into the second equation
+
+          v = \int r e^{ \int p dx} + C
+
+   Since y = uv, for arbitrary constant C
+
+          y =e^{ - \int p dx } \left( \int r e^{ \int p dx } + C \right)
+
+   As an illustrative example, consider a first order differential
+   equation with constant coefficients:
+
+          \frac{dy}{dx} + b y = 1.
+
+   This equation is particularly relevant to first order systems such as
+   RC circuits and mass-damper systems.
+
+   In this case, p(x) = b, r(x) = 1.
+
+   Hence its solution is
+
+          y(x) = e^{-bx} \left( e^{bx}/b+ C \right) = 1/b + C e^{-bx} .
+
+Method of undetermined coefficients
+
+   The method of undetermined coefficients (MoUC), is useful in finding
+   solution for y[p]. Given the ODE P(D)y = f(x), find another
+   differential operator A(D) such that A(D)f(x) = 0. This operator is
+   called the annihilator, and thus the method of undetermined
+   coefficients is also known as the annihilator method. Applying A(D) to
+   both sides of the ODE gives a homogeneous ODE \big(A(D)P(D)\big)y = 0
+   for which we find a solution basis \{y_1,\ldots,y_n\} as before. Then
+   the original nonhomogeneous ODE is used to construct a system of
+   equations restricting the coefficients of the linear combinations to
+   satisfy the ODE.
+
+   Undetermined coefficients is not as general as variation of parameters
+   in the sense that an annihilator does not always exist.
+
+   Example: Given y'' − 4y' + 5y = sin(kx), P(D) = D^2 − 4D + 5. The
+   simplest annihilator of sin(kx) is A(D) = D^2 + k^2. The zeros of
+   A(z)P(z) are {2 + i,2 − i,ik, − ik}, so the solution basis of A(D)P(D)
+   is {y[1],y[2],y[3],y[4]} = {e^(2 + i)x,e^(2 − i)x,e^ikx,e ^− ikx}.
+
+   Setting y = c[1]y[1] + c[2]y[2] + c[3]y[3] + c[4]y[4] we find
+
+      sin(kx) = P(D)y
+              = P(D)(c[1]y[1] + c[2]y + c[3]y[3] + c[4]y[4])
+              = c[1]P(D)y[1] + c[2]P(D)y[2] + c[3]P(D)y[3] + c[4]P(D)y[4]
+              = 0 + 0 + c[3]( − k^2 − 4ik + 5)y[3] + c[4]( − k^2 + 4ik + 5)y[4]
+              = c[3]( − k^2 − 4ik + 5)(cos(kx) + isin(kx)) + c[4]( − k^2 + 4ik +
+              5)(cos(kx) − isin(kx))
+
+   giving the system
+
+          i = (k^2 + 4ik − 5)c[3] + ( − k^2 + 4ik + 5)c[4]
+          0 = (k^2 + 4ik − 5)c[3] + (k^2 − 4ik − 5)c[4]
+
+   which has solutions
+
+          c_3=\frac i{2(k^2+4ik-5)} , c_4=\frac i{2(-k^2+4ik+5)}
+
+   giving the solution set
+
+          y\, =c_1y_1+c_2y_2+\frac i{2(k^2+4ik-5)}y_3+\frac i{2(-k^2+4ik+5)}y_4
+              =c_1y_1+c_2y_2+\frac{4k\cos(kx)-(k^2-5)\sin(kx)}
+              {(k^2+4ik-5)(k^2-4ik-5)}
+              =c_1y_1+c_2y_2 +\frac{4k\cos(kx)+(5-k^2)\sin(kx)}{k^4+6k^2+25}.
+
+Method of variation of parameters
+
+   As explained above, the general solution to a non-homogeneous, linear
+   differential equation y''(x) + p(x)y'(x) + q(x)y(x) = g(x) can be
+   expressed as the sum of the general solution y[h](x) to the
+   corresponding homogenous, linear differential equation y''(x) +
+   p(x)y'(x) + q(x)y(x) = 0 and any one solution y[p](x) to y''(x) +
+   p(x)y'(x) + q(x)y(x) = g(x).
+
+   Like the method of undetermined coefficients, described above, the
+   method of variation of parameters is a method for finding one solution
+   to y''(x) + p(x)y'(x) + q(x)y(x) = g(x), having already found the
+   general solution to y''(x) + p(x)y'(x) + q(x)y(x) = 0. Unlike the
+   method of undetermined coefficients, which fails except with certain
+   specific forms of g(x), the method of variation of parameters will
+   always work; however, it is significantly more difficult to use.
+
+   For a second-order equation, the method of variation of parameters
+   makes use of the following fact:
+
+Fact
+
+   Let p(x), q(x), and g(x) be functions, and let y[1](x) and y[2](x) be
+   solutions to the homogeneous, linear differential equation y''(x) +
+   p(x)y'(x) + q(x)y(x) = 0. Further, let u(x) and v(x) be functions such
+   that u'(x)y[1](x) + v'(x)y[2](x) = 0 and u'(x)y[1]'(x) + v'(x)y[2]'(x)
+   = g(x) for all x, and define y[p](x) = u(x)y[1](x) + v(x)y[2](x). Then
+   y[p](x) is a solution to the non-homogeneous, linear differential
+   equation y''(x) + p(x)y'(x) + q(x)y(x) = g(x).
+
+Proof
+
+   y[p](x) = u(x)y[1](x) + v(x)y[2](x)
+   y[p]'(x) = u'(x)y[1](x) + u(x)y[1]'(x) + v'(x)y[2](x) + v(x)y[2]'(x)
+            = 0 + u(x)y[1]'(x) + v(x)y[2]'(x)
+   y[p]''(x) = u'(x)y[1]'(x) + u(x)y[1]''(x) + v'(x)y[2]'(x) +
+             v(x)y[2]''(x)
+             = g(x) + u(x)y[1]''(x) + v(x)y[2]''(x)
+
+   y[p]''(x) + p(x)y'[p](x) + q(x)y[p](x) = g(x) + u(x)y[1]''(x) +
+   v(x)y[2]''(x) + p(x)u(x)y[1]'(x) + p(x)v(x)y[2]'(x) + q(x)u(x)y[1](x) +
+   q(x)v(x)y[2](x)
+
+   = g(x) + u(x)(y[1]''(x) + p(x)y[1]'(x) + q(x)y[1](x)) + v(x)(y[2]''(x)
+   + p(x)y[2]'(x) + q(x)y[2](x)) = g(x) + 0 + 0 = g(x)
+
+Usage
+
+   To solve the second-order, non-homogeneous, linear differential
+   equation y''(x) + p(x)y'(x) + q(x)y(x) = g(x) using the method of
+   variation of parameters, use the following steps:
+    1. Find the general solution to the corresponding homogeneous equation
+       y''(x) + p(x)y'(x) + q(x)y(x) = 0. Specifically, find two linearly
+       independent solutions y[1](x) and y[2](x).
+    2. Since y[1](x) and y[2](x) are linearly independent solutions, their
+       Wronskian y[1](x)y[2]'(x) − y[1]'(x)y[2](x) is nonzero, so we can
+       compute − (g(x)y[2](x)) / (y[1](x)y[2]'(x) − y[1]'(x)y[2](x)) and
+       (g(x)y[1](x)) / (y[1](x)y[2]'(x) − y[1]'(x)y[2](x)). If the former
+       is equal to u'(x) and the latter to v'(x), then u and v satisfy the
+       two constraints given above: that u'(x)y[1](x) + v'(x)y[2](x) = 0
+       and that u'(x)y[1]'(x) + v'(x)y[2]'(x) = g(x). We can tell this
+       after multiplying by the denominator and comparing coefficients.
+    3. Integrate − (g(x)y[2](x)) / (y[1](x)y[2]'(x) − y[1]'(x)y[2](x)) and
+       (g(x)y[1](x)) / (y[1](x)y[2]'(x) − y[1]'(x)y[2](x)) to obtain u(x)
+       and v(x), respectively. (Note that we only need one choice of u and
+       v, so there is no need for constants of integration.)
+    4. Compute y[p](x) = u(x)y[1](x) + v(x)y[2](x). The function y[p] is
+       one solution of y''(x) + p(x)y'(x) + q(x)y(x) = g(x).
+    5. The general solution is c[1]y[1](x) + c[2]y[2](x) + y[p](x), where
+       c[1] and c[2] are arbitrary constants.
+
+Higher-order equations
+
+   The method of variation of parameters can also be used with
+   higher-order equations. For example, if y[1](x), y[2](x), and y[3](x)
+   are linearly independent solutions to y'''(x) + p(x)y''(x) + q(x)y'(x)
+   + r(x)y(x) = 0, then there exist functions u(x), v(x), and w(x) such
+   that u'(x)y[1](x) + v'(x)y[2](x) + w'(x)y[3](x) = 0, u'(x)y[1]'(x) +
+   v'(x)y[2]'(x) + w'(x)y[3]'(x) = 0, and u'(x)y[1]''(x) + v'(x)y[2]''(x)
+   + w'(x)y[3]''(x) = g(x). Having found such functions (by solving
+   algebraically for u'(x), v'(x), and w'(x), then integrating each), we
+   have y[p](x) = u(x)y[1](x) + v(x)y[2](x) + w(x)y[3](x), one solution to
+   the equation y'''(x) + p(x)y''(x) + q(x)y'(x) + r(x)y(x) = g(x).
+
+Example
+
+   Solve the previous example, y'' + y = secx Recall \sec x =
+   \frac{1}{{\cos x}} = f . From technique learned from 3.1, LHS has root
+   of r = \pm i that yield y[c] = C[1]cosx + C[2]sinx, (so y[1] = cosx,
+   y[2] = sinx ) and its derivatives
+
+          \left\{ {\begin{matrix} {\dot u = \frac{{ - y_2 f}}{W} = \frac{{
+          - \sin x}}{{\cos x}} = \tan x} \\ {\dot v = \frac{{y_1 f}}{W} =
+          \frac{{\cos x}}{{\cos x}} = 1} \\ \end{matrix}} \right.
+
+   where the Wronskian
+
+          W\left( {y_1,y_2 :x} \right) = \left| {\begin{matrix} {\cos x} &
+          {\sin x} \\ { - \sin x} & {\cos x} \\ \end{matrix}} \right| = 1
+
+   were computed in order to seek solution to its derivatives.
+
+   Upon integration,
+
+          \left\{ \begin{matrix} u = - \int {\tan x\,dx = - \ln \left|
+          {\sec x} \right| + C} \\ v = \int {1\,dx = x + C} \\
+          \end{matrix} \right.
+
+   Computing y[p] and y[G]:
+
+          \begin{matrix} y_p = f = uy_1 + vy_2 = \cos x\ln \left| {\cos x}
+          \right| + x\sin x \\ y_G = y_c + y_p = C_1 \cos x + C_2 \sin x +
+          x\sin x + \cos x\ln \left( {\cos x} \right) \\ \end{matrix}
+
+Linear ODEs with variable coefficients
+
+   A linear ODE of order n with variable coefficients has the general form
+
+          p_{n}(x)y^{(n)}(x) + p_{n-1}(x) y^{(n-1)}(x) + \ldots + p_0(x)
+          y(x) = r(x).
+
+Examples
+
+   A particular simple example is the Cauchy-Euler equation often used in
+   engineering
+
+          x^n y^{(n)}(x) + a_{n-1} x^{n-1} y^{(n-1)}(x) + \ldots + a_0
+          y(x) = 0.
+
+Theories of ODEs
+
+Singular solutions
+
+   The theory of singular solutions of ordinary and partial differential
+   equations was a subject of research from the time of Leibniz, but only
+   since the middle of the nineteenth century did it receive special
+   attention. A valuable but little-known work on the subject is that of
+   Houtain (1854). Darboux (starting in 1873) was a leader in the theory,
+   and in the geometric interpretation of these solutions he opened a
+   field which was worked by various writers, notably Casorati and Cayley.
+   To the latter is due (1872) the theory of singular solutions of
+   differential equations of the first order as accepted circa 1900.
+
+Reduction to quadratures
+
+   The primitive attempt in dealing with differential equations had in
+   view a reduction to quadratures. As it had been the hope of
+   eighteenth-century algebraists to find a method for solving the general
+   equation of the nth degree, so it was the hope of analysts to find a
+   general method for integrating any differential equation. Gauss (1799)
+   showed, however, that the differential equation meets its limitations
+   very soon unless complex numbers are introduced. Hence analysts began
+   to substitute the study of functions, thus opening a new and fertile
+   field. Cauchy was the first to appreciate the importance of this view.
+   Thereafter the real question was to be, not whether a solution is
+   possible by means of known functions or their integrals, but whether a
+   given differential equation suffices for the definition of a function
+   of the independent variable or variables, and if so, what are the
+   characteristic properties of this function.
+
+Fuchsian theory
+
+   Two memoirs by Fuchs (Crelle, 1866, 1868), inspired a novel approach,
+   subsequently elaborated by Thomé and Frobenius. Collet was a prominent
+   contributor beginning in 1869, although his method for integrating a
+   non-linear system was communicated to Bertrand in 1868. Clebsch (1873)
+   attacked the theory along lines parallel to those followed in his
+   theory of Abelian integrals. As the latter can be classified according
+   to the properties of the fundamental curve which remains unchanged
+   under a rational transformation, so Clebsch proposed to classify the
+   transcendent functions defined by the differential equations according
+   to the invariant properties of the corresponding surfaces f = 0 under
+   rational one-to-one transformations.
+
+Lie's theory
+
+   From 1870 Lie's work put the theory of differential equations on a more
+   satisfactory foundation. He showed that the integration theories of the
+   older mathematicians can, by the introduction of what are now called
+   Lie groups, be referred to a common source; and that ordinary
+   differential equations which admit the same infinitesimal
+   transformations present comparable difficulties of integration. He also
+   emphasized the subject of transformations of contact
+   (Berührungstransformationen).
+
+Sturm-Liouville theory
+
+   Sturm-Liouville theory is a general method for resolution of second
+   order linear equations with variable coefficients.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Ordinary_differential_equation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,442 @@
+   #copyright
+
+Algebra
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Algebra is a branch of mathematics concerning the study of structure,
+   relation and quantity. The name is derived from the treatise written by
+   the Persian mathematician Muḥammad ibn Mūsā al-Ḵwārizmī titled Al-Kitab
+   al-Jabr wa-l-Muqabala (meaning " The Compendious Book on Calculation by
+   Completion and Balancing"), which provided symbolic operations for the
+   systematic solution of linear and quadratic equations.
+
+   Together with geometry, analysis, and number theory, algebra is one of
+   the several main branches of mathematics. Elementary algebra is often
+   part of the curriculum in secondary education and provides an
+   introduction to the basic ideas of algebra, including effects of adding
+   and multiplying numbers, the concept of variables, definition of
+   polynomials, along with factorization and determining their roots.
+
+   Algebra is much broader than elementary algebra and can be generalized.
+   In addition to working directly with numbers, algebra covers working
+   with symbols, variables, and set elements. Addition and multiplication
+   are viewed as general operations, and their precise definitions lead to
+   structures such as groups, rings and fields.
+
+Classification
+
+   Linear algebra lecture about determinants and inverse matrices.
+   Enlarge
+   Linear algebra lecture about determinants and inverse matrices.
+
+   Algebra may be divided roughly into the following categories:
+     * Elementary algebra, in which the properties of operations on the
+       real number system are recorded using symbols as "place holders" to
+       denote constants and variables, and the rules governing
+       mathematical expressions and equations involving these symbols are
+       studied (note that this usually includes the subject matter of
+       courses called intermediate algebra and college algebra);
+     * Abstract algebra, sometimes also called modern algebra, in which
+       algebraic structures such as groups, rings and fields are
+       axiomatically defined and investigated;
+     * Linear algebra, in which the specific properties of vector spaces
+       are studied (including matrices);
+     * Universal algebra, in which properties common to all algebraic
+       structures are studied.
+
+   In advanced studies, axiomatic algebraic systems such as groups, rings,
+   fields, and algebras over a field are investigated in the presence of a
+   natural geometric structure (a topology) which is compatible with the
+   algebraic structure. The list includes a number of areas of functional
+   analysis:
+     * Normed linear spaces
+     * Banach spaces
+     * Hilbert spaces
+     * Banach algebras
+     * Normed algebras
+     * Topological algebras
+     * Topological groups
+
+Elementary algebra
+
+   Elementary algebra is the most basic form of algebra. It is taught to
+   students who are presumed to have no knowledge of mathematics beyond
+   the basic principles of arithmetic. Although in arithmetic, only
+   numbers and their arithmetical operations (such as +, −, ×, ÷) occur,
+   in algebra, numbers are often denoted by symbols (such as a, x, y).
+   This is useful because:
+     * It allows the general formulation of arithmetical laws (such as a +
+       b = b + a for all a and b), and thus is the first step to a
+       systematic exploration of the properties of the real number system.
+     * It allows the reference to "unknown" numbers, the formulation of
+       equations and the study of how to solve these (for instance, "Find
+       a number x such that 3x + 1 = 10").
+     * It allows the formulation of functional relationships (such as "If
+       you sell x tickets, then your profit will be 3x - 10 dollars, or
+       f(x) = 3x - 10, where f is the function, and x is the number the
+       function is performed on.").
+
+Abstract algebra
+
+   Abstract algebra extends the familiar concepts found in elementary
+   algebra and arithmetic of numbers to more general concepts.
+
+   Sets: Rather than just considering the different types of numbers,
+   abstract algebra deals with the more general concept of sets: a
+   collection of objects called elements. All the familiar types of
+   numbers are sets. Other examples of sets include the set of all
+   two-by-two matrices, the set of all second-degree polynomials (ax^2 +
+   bx + c), the set of all two dimensional vectors in the plane, and the
+   various finite groups such as the cyclic groups which are the group of
+   integers modulo n. Set theory is a branch of logic and not technically
+   a branch of algebra.
+
+   Binary operations: The notion of addition (+) is abstracted to give a
+   binary operation, * say. For two elements a and b in a set S a*b gives
+   another element in the set, (technically this condition is called
+   closure). Addition (+), subtraction (-), multiplication (×), and
+   division (÷) are all binary operations as is addition and
+   multiplication of matrices, vectors, and polynomials.
+
+   Identity elements: The numbers zero and one are abstracted to give the
+   notion of an identity element. Zero is the identity element for
+   addition and one is the identity element for multiplication. For a
+   general binary operator * the identity element e must satisfy a * e = a
+   and e * a = a. This holds for addition as a + 0 = a and 0 + a = a and
+   multiplication a × 1 = a and 1 × a = a. However, if we take the
+   positive natural numbers and addition, there is no identity element.
+
+   Inverse elements: The negative numbers give rise to the concept of
+   inverse elements. For addition, the inverse of a is -a, and for
+   multiplication the inverse is 1/a. A general inverse element a^-1 must
+   satisfy the property that a * a^-1 = e and a^-1 * a = e.
+
+   Associativity: Addition of integers has a property called
+   associativity. That is, the grouping of the numbers to be added does
+   not affect the sum. For example: (2+3)+4=2+(3+4). In general, this
+   becomes (a * b) * c = a * (b * c). This property is shared by most
+   binary operations, but not subtraction or division.
+
+   Commutativity: Addition of integers also has a property called
+   commutativity. That is, the order of the numbers to be added does not
+   affect the sum. For example: 2+3=3+2. In general, this becomes a * b =
+   b * a. Only some binary operations have this property. It holds for the
+   integers with addition and multiplication, but it does not hold for
+   matrix multiplication.
+
+Groups
+
+   Combining the above concepts gives one of the most important structures
+   in mathematics: a group. A group is a combination of a set S and a
+   binary operation '*' with the following properties:
+     * The operation is closed: if a and b are members of S, then so is a
+       * b.
+
+                In fact, it is redundant to mention this property, for
+                every binary operation must be closed. So, the statement
+                "a group is a combination of a set S and a binary
+                operation '*'" is already saying that the operation is
+                closed. However, closure is frequently emphasized
+                repeating it as a group property.
+
+     * An identity element e exists, such that for every member a of S, e
+       * a and a * e are both identical to a.
+     * Every element has an inverse: for every member a of S, there exists
+       a member a^-1 such that a * a^-1 and a^-1 * a are both identical to
+       the identity element).
+     * The operation is associative: if a, b and c are members of S, then
+       (a * b) * c is identical to a * (b * c).
+
+   If a group is also commutative - that is, for any two members a and b
+   of S, a * b is identical to b * a – then the group is said to be
+   Abelian.
+
+   For example, the set of integers under the operation of addition is a
+   group. In this group, the identity element is 0 and the inverse of any
+   element a is its negation, -a. The associativity requirement is met,
+   because for any integers a, b and c, (a + b) + c = a + (b + c).
+
+   The nonzero rational numbers form a group under multiplication. Here,
+   the identity element is 1, since 1 × a = a × 1 = a for any rational
+   number a. The inverse of a is 1/a, since a × 1/a = 1.
+
+   The integers under the multiplication operation, however, do not form a
+   group. This is because, in general, the multiplicative inverse of an
+   integer is not an integer. For example, 4 is an integer, but its
+   multiplicative inverse is 1/4, which is not an integer.
+
+   The theory of groups is studied in group theory. A major result in this
+   theory is the classification of finite simple groups, mostly published
+   between about 1955 and 1983, which is thought to classify all of the
+   finite simple groups into roughly 30 basic types.
+   Examples
+   Set: Natural numbers \mathbb{N} Integers \mathbb{Z} Rational numbers
+   \mathbb{Q} (also real \mathbb{R} and complex \mathbb{C} numbers)
+   Integers mod 3: {0,1,2}
+   operation + × (w/o zero) + × (w/o zero) + − × (w/o zero) ÷ (w/o zero) +
+   × (w/o zero)
+   Closed Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+   identity 0 1 0 1 0 NA 1 NA 0 1
+   inverse NA NA -a NA -a a \begin{matrix} \frac{1}{a} \end{matrix} a
+   0,2,1, respectively NA, 1, 2, respectively
+   Associative Yes Yes Yes Yes Yes No Yes No Yes Yes
+   Commutative Yes Yes Yes Yes Yes No Yes No Yes Yes
+   Structure monoid monoid Abelian group monoid Abelian group quasigroup
+   Abelian group quasigroup Abelian group Abelian group ( \mathbb{Z}_2 )
+
+   Semigroups, quasigroups, and monoids are structures similar to groups,
+   but more general. They comprise a set and a closed binary operation,
+   but do not necessarily satisfy the other conditions. A semigroup has an
+   associative binary operation, but might not have an identity element. A
+   monoid is a semigroup which does have an identity but might not have an
+   inverse for every element. A quasigroup satisfies a requirement that
+   any element can be turned into any other by a unique pre- or
+   post-operation; however the binary operation might not be associative.
+
+   All groups are monoids, and all monoids are semigroups.
+
+Rings and fields—structures with two binary operations
+
+   Groups just have one binary operation. To fully explain the behaviour
+   of the different types of numbers, structures with two operators need
+   to be studied. The most important of these are rings, and fields.
+
+   Distributivity generalised the distributive law for numbers, and
+   specifies the order in which the operators should be applied, (called
+   the precedence). For the integers (a + b) × c = a×c+ b×c and c × (a +
+   b) = c×a + c×b, and × is said to be distributive over +.
+
+   A ring has two binary operations (+) and (×), with × distributive over
+   +. Under the first operator (+) it forms an Abelian group. Under the
+   second operator (×) it is associative, but it does not need to have
+   identity, or inverse, so division is not allowed. The additive (+)
+   identity element is written as 0 and the additive inverse of a is
+   written as -a.
+
+   The integers are an example of a ring. The integers have additional
+   properties which make it an integral domain.
+
+   A field is a ring with the additional property that all the elements
+   excluding 0 form an Abelian group under ×. The multiplicative (×)
+   identity is written as 1 and the multiplicative inverse of a is written
+   as a^-1.
+
+   The rational numbers, real number and complex numbers are all examples
+   of fields.
+
+Algebras
+
+   The word algebra is also used for various algebraic structures:
+     * Algebra over a field
+     * Algebra over a set
+     * Boolean algebra
+     * F-algebra and F-coalgebra in category theory
+     * Sigma-algebra
+
+History
+
+   Hellenistic mathematician Euclid details geometrical algebra in
+   Elements.
+   Enlarge
+   Hellenistic mathematician Euclid details geometrical algebra in
+   Elements.
+
+   The origins of algebra can be traced to the ancient Babylonians, who
+   developed an advanced arithmetical system with which they were able to
+   do calculations in an algebraic fashion. With the use of this system
+   they were able to apply formulas and calculate solutions for unknown
+   values for a class of problems typically solved today by using linear
+   equations, quadratic equations, and indeterminate linear equations. By
+   contrast, most Egyptians of this era, and most Indian, Greek and
+   Chinese mathematicians in the first millennium BC, usually solved such
+   equations by geometric methods, such as those described in the Rhind
+   Mathematical Papyrus, Sulba Sutras, Euclid's Elements, and The Nine
+   Chapters on the Mathematical Art. The geometric work of the Greeks,
+   typified in the Elements, provided the framework for generalizing
+   formulae beyond the solution of particular problems into more general
+   systems of stating and solving equations.
+
+   The word "algebra" is named after the Arabic word "al-jabr" from the
+   title of the book al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala,
+   meaning The book of Summary Concerning Calculating by Transposition and
+   Reduction, a book written by the Persian Muslim mathematician Muhammad
+   ibn Mūsā al-khwārizmī in 820. The word Al-Jabr means "reunion". The
+   Hellenistic mathematician Diophantus has traditionally been known as
+   "the father of algebra" but debate now exists as to whether or not
+   Al-Khwarizmi should take that title from Diophantus. Those who support
+   Al-Khwarizmi point to the fact that much of his work on reduction is
+   still in use today and that he gave an exhaustive explanation of
+   solving quadratic equations. While those who support Diophantus point
+   to the fact that the algebra found in Al-Jabr is more elementary than
+   the algebra found in Arithmetica and that Arithmetica is syncopated
+   while Al-Jabr is fully rhetorical. Another Persian mathematician Omar
+   Khayyam developed algebraic geometry and found the general geometric
+   solution of the cubic equation. The Indian mathematicians Mahavira and
+   Bhaskara, and the Chinese mathematician Zhu Shijie, solved various
+   cubic, quartic, quintic and higher-order polynomial equations.
+
+   Another key event in the further development of algebra was the general
+   algebraic solution of the cubic and quartic equations, developed in the
+   mid-16th century. The idea of a determinant was developed by Japanese
+   mathematician Kowa Seki in the 17th century, followed by Gottfried
+   Leibniz ten years later, for the purpose of solving systems of
+   simultaneous linear equations using matrices. Gabriel Cramer also did
+   some work on matrices and determinants in the 18th century. Abstract
+   algebra was developed in the 19th century, initially focusing on what
+   is now called Galois theory, and on constructibility issues.
+
+   The stages of the development of symbolic algebra are roughly as
+   follows:
+     * Rhetorical algebra, which was developed by the Babylonians and
+       remained dominant up to the 16th century;
+     * Geometric constructive algebra, which was emphasised by the Vedic
+       Indian and classical Greek mathematicians;
+     * Syncopated algebra, as developed by Diophantus and in the Bakhshali
+       Manuscript; and
+     * Symbolic algebra, which sees its culmination in the work of
+       Leibniz.
+
+   Cover of the 1621 edition of Diophantus' Arithmetica, translated into
+   Latin by Claude Gaspard Bachet de Méziriac.
+   Enlarge
+   Cover of the 1621 edition of Diophantus' Arithmetica, translated into
+   Latin by Claude Gaspard Bachet de Méziriac.
+
+   A timeline of key algebraic developments are as follows:
+     * Circa 1800 BC: The Old Babylonian Strassburg tablet seeks the
+       solution of a quadratic elliptic equation.
+     * Circa 1600 BC: The Plimpton 322 tablet gives a table of Pythagorean
+       triples in Babylonian Cuneiform script.
+     * Circa 800 BC: Indian mathematician Baudhayana, in his Baudhayana
+       Sulba Sutra, discovers Pythagorean triples algebraically, finds
+       geometric solutions of linear equations and quadratic equations of
+       the forms ax^2 = c and ax^2 + bx = c, and finds two sets of
+       positive integral solutions to a set of simultaneous Diophantine
+       equations.
+     * Circa 600 BC: Indian mathematician Apastamba, in his Apastamba
+       Sulba Sutra, solves the general linear equation and uses
+       simultaneous Diophantine equations with up to five unknowns.
+     * Circa 300 BC: In Book II of his Elements, Euclid gives a geometric
+       construction with Euclidean tools for the solution of the quadratic
+       equation for positive real roots. The construction is due to the
+       Pythagorean School of geometry.
+     * Circa 300 BC: A geometric construction for the solution of the
+       cubic is sought (doubling the cube problem). It is now well known
+       that the general cubic has no such solution using Euclidean tools.
+     * Circa 100 BC: Algebraic equations are treated in the Chinese
+       mathematics book Jiuzhang suanshu (The Nine Chapters on the
+       Mathematical Art), which contains solutions of linear equations
+       solved using the rule of double false position, geometric solutions
+       of quadratic equations, and the solutions of matrices equivalent to
+       the modern method, to solve systems of simultaneous linear
+       equations.
+     * Circa 100 BC: The Bakhshali Manuscript written in ancient India
+       uses a form of algebraic notation using letters of the alphabet and
+       other signs, and contains cubic and quartic equations, algebraic
+       solutions of linear equations with up to five unknowns, the general
+       algebraic formula for the quadratic equation, and solutions of
+       indeterminate quadratic equations and simultaneous equations.
+     * Circa 150 AD: Hellenized Egyptian mathematician Hero of Alexandria,
+       treats algebraic equations in three volumes of mathematics.
+     * Circa 200: Hellenized Babylonian mathematician Diophantus, who
+       lived in Egypt and is often considered the "father of algebra",
+       writes his famous Arithmetica, a work featuring solutions of
+       algebraic equations and on the theory of numbers.
+     * 499: Indian mathematician Aryabhata, in his treatise Aryabhatiya,
+       obtains whole-number solutions to linear equations by a method
+       equivalent to the modern one, describes the general integral
+       solution of the indeterminate linear equation, gives integral
+       solutions of simultaneous indeterminate linear equations, and
+       describes a differential equation.
+     * Circa 625: Chinese mathematician Wang Xiaotong finds numerical
+       solutions of cubic equations.
+     * 628: Indian mathematician Brahmagupta, in his treatise Brahma Sputa
+       Siddhanta, invents the chakravala method of solving indeterminate
+       quadratic equations, including Pell's equation, and gives rules for
+       solving linear and quadratic equations. He discovers that quadratic
+       equations have two roots, including both negative as well as
+       irrational roots.
+     * 820: The word algebra is derived from operations described in the
+       treatise written by the Persian mathematician Muḥammad ibn Mūsā
+       al-Ḵwārizmī titled Al-Kitab al-Jabr wa-l-Muqabala (meaning "The
+       Compendious Book on Calculation by Completion and Balancing") on
+       the systematic solution of linear and quadratic equations.
+       Al-Khwarizmi is often considered as the "father of algebra", much
+       of whose works on reduction was included in the book and added to
+       many methods we have in algebra now.
+     * Circa 850: Persian mathematician al-Mahani conceived the idea of
+       reducing geometrical problems such as duplicating the cube to
+       problems in algebra.
+     * Circa 850: Indian mathematician Mahavira solves various quadratic,
+       cubic, quartic, quintic and higher-order equations, as well as
+       indeterminate quadratic, cubic and higher-order equations.
+     * Circa 990: Persian Abu Bakr al-Karaji, in his treatise al-Fakhri,
+       further develops algebra by extending Al-Khwarizmi's methodology to
+       incorporate integral powers and integral roots of unknown
+       quantities. He replaces geometrical operations of algebra with
+       modern arithmetical operations, and defines the monomials x, x^2,
+       x^3, ... and 1/x, 1/x^2, 1/x^3, ... and gives rules for the
+       products of any two of these.
+     * Circa 1050: Chinese mathematician Jia Xian finds numerical
+       solutions of polynomial equations.
+     * 1072: Persian mathematician Omar Khayyam develops algebraic
+       geometry and, in the Treatise on Demonstration of Problems of
+       Algebra, gives a complete classification of cubic equations with
+       general geometric solutions found by means of intersecting conic
+       sections.
+     * 1114: Indian mathematician Bhaskara, in his Bijaganita (Algebra),
+       recognizes that a positive number has both a positive and negative
+       square root, and solves quadratic equations with more than one
+       unknown, various cubic, quartic and higher-order polynomial
+       equations, Pell's equation, the general indeterminate quadratic
+       equation, as well as indeterminate cubic, quartic and higher-order
+       equations.
+     * 1150: Bhaskara, in his Siddhanta Shiromani, solves differential
+       equations.
+     * 1202: Algebra is introduced to Europe largely through the work of
+       Leonardo Fibonacci of Pisa in his work Liber Abaci.
+     * Circa 1300: Chinese mathematician Zhu Shijie deals with polynomial
+       algebra, solves quadratic equations, simultaneous equations and
+       equations with up to four unknowns, and numerically solves some
+       quartic, quintic and higher-order polynomial equations.
+     * Circa 1400: Indian mathematician Madhava of Sangamagramma finds the
+       solution of transcendental equations by iteration, iterative
+       methods for the solution of non-linear equations, and solutions of
+       differential equations.
+     * 1515: Scipione del Ferro solves a cubic such that the quadratic
+       term is missing.
+     * 1535: Nicolo Fontana Tartaglia solves a cubic such that the linear
+       term is missing.
+     * 1545: Girolamo Cardano publishes Ars magna -The great art which
+       gives solutions for a variety of cubics as well as Ludovico
+       Ferrari's solution of a special quartic equation.
+     * 1572: Rafael Bombelli recognizes the complex roots of the cubic and
+       improves current notation.
+     * 1591: Francois Viete develops improved symbolic notation for
+       various powers of an unknown and uses vowels for unknowns and
+       consonants for constants in In artem analyticam isagoge.
+     * 1631: Thomas Harriot in a posthumus publication uses exponential
+       notation and is the first to use symbols to indicate "less than"
+       and "greater than".
+     * 1682: Gottfried Wilhelm Leibniz develops his notion of symbolic
+       manipulation with formal rules which he calls characteristica
+       generalis.
+     * 1683: Japanese mathematician Kowa Seki, in his Method of solving
+       the dissimulated problems, discovers the determinant, discriminant,
+       and Bernoulli numbers.
+     * 1685: Kowa Seki solves the general cubic equation, as well as some
+       quartic and quintic equations.
+     * 1693: Leibniz solves systems of simultaneous linear equations using
+       matrices and determinants.
+     * 1750: Gabriel Cramer, in his treatise Introduction to the analysis
+       of algebraic curves, states Cramer's rule and studies algebraic
+       curves, matrices and determinants.
+     * 1830: Galois theory is developed by Évariste Galois in his work on
+       abstract algebra.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Algebra"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

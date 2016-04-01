@@ -1,0 +1,430 @@
+   #copyright
+
+Magnetism
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+   Magnetic lines of force of a bar magnet shown by iron filings on paper
+   Magnetic lines of force of a bar magnet shown by iron filings on paper
+
+   In physics, magnetism is one of the phenomena by which materials exert
+   an attractive or repulsive force on other materials. Some well known
+   materials that exhibit easily detectable magnetic properties are
+   nickel, iron, some steels, and the mineral magnetite; however, all
+   materials are influenced to greater or lesser degree by the presence of
+   a magnetic field.
+
+History
+
+   In China, the earliest literary reference to magnetism lies in a 4th
+   century BC book called Book of the Devil Valley Master (鬼谷子): "The
+   lodestone makes iron come or it attracts it." The earliest mention of
+   the attraction of a needle appears in a work composed between 20 and
+   100 AD (Louen-heng): "A lodestone attracts a needle." By the 12th
+   century the Chinese were known to use the lodestone compass for
+   navigation. Far earlier Magnetotactic bacteria had evolved to build
+   miniature magnets inside themselves and use them to establish their
+   orientation relative to the Earth's magnetic field .
+
+Physics of magnetism
+
+   Magnetic forces are forces that arise from the movement of electrical
+   charge. Maxwell's equations and the Biot-Savart law describe the origin
+   and behaviour of the fields that govern these forces. Thus, magnetism
+   is seen whenever electrically charged particles are in motion. This can
+   arise either from movement of electrons in an electric current,
+   resulting in " electromagnetism", or from the quantum-mechanical spin
+   and orbital motion of electrons, resulting in what are known as "
+   permanent magnets". Electron spin is the dominant effect within atoms.
+   The so-called 'orbital motion' of electrons around the nucleus is a
+   secondary effect that slightly modifies the magnetic field created by
+   spin.
+
+   The magnetic force is actually due to the finite speed (the speed of
+   light) of a disturbance of the electric field which gives rise to
+   forces that appear to be acting along a line at right angles to the
+   charges. In effect, the magnetic force is the portion of the electric
+   force directed to where the charge used to be. For this reason
+   magnetism can be considered to be basically an electric force that is a
+   direct consequence of relativity.
+
+Charged particle in a magnetic field
+
+   When a charged particle moves through a magnetic field B, it feels a
+   force F given by the cross product:
+
+          \vec{F} = q \vec{v} \times \vec{B}
+
+   where q\, is the electric charge of the particle, \vec{v} \, is the
+   velocity vector of the particle, and \vec{B} \, is the magnetic field.
+
+   Because this is a cross product, the force is perpendicular to both the
+   motion of the particle and the magnetic field. It follows that the
+   magnetic force does no work on the particle; it may change the
+   direction of the particle's movement, but it cannot cause it to speed
+   up or slow down.
+
+   One tool for determining the direction of the velocity vector of a
+   moving charge, the magnetic field, and the force exerted is labeling
+   the index finger "V", the middle finger "B", and the thumb "F" with
+   your right hand. When making a gun-like configuration (with the middle
+   finger crossing under the index finger), the fingers represent the
+   velocity vector, magnetic field vector, and force vector, respectively.
+   See also right hand rule.
+
+Magnetic dipoles
+
+   Normally, magnetic fields are seen as dipoles, having a " South pole"
+   and a " North pole"; terms dating back to the use of magnets as
+   compasses, interacting with the Earth's magnetic field to indicate
+   North and South on the globe. Since opposite ends of magnets are
+   attracted, the 'north' magnetic pole of the earth must be magnetically
+   'south'.
+
+   A magnetic field contains energy, and physical systems stabilize into
+   the configuration with the lowest energy. Therefore, when placed in a
+   magnetic field, a magnetic dipole tends to align itself in opposed
+   polarity to that field, thereby canceling the net field strength as
+   much as possible and lowering the energy stored in that field to a
+   minimum. For instance, two identical bar magnets normally line up North
+   to South resulting in no net magnetic field, and resist any attempts to
+   reorient them to point in the same direction. The energy required to
+   reorient them in that configuration is then stored in the resulting
+   magnetic field, which is double the strength of the field of each
+   individual magnet. (This is, of course, why a magnet used as a compass
+   interacts with the Earth's magnetic field to indicate North and South).
+
+Magnetic monopoles
+
+   The modern understanding of magnetism posits that all magnetic effects
+   are actually due to relativistic effects caused by relative motion
+   between the observer and the charged particles. Since all magnetism is
+   caused by moving charges, all magnets are in fact electromagnets.
+
+   Even atoms have a tiny field. In the planetary model of an atom, the
+   electrons orbit the nucleus and thus have a change in motion giving
+   rise to a magnetic field. Permanent magnets have measurable magnetic
+   fields because the atoms (and molecules) are arranged in a way that
+   their individual tiny fields align and add up.
+
+   In this model, the lack of a single pole makes intuitive sense; cutting
+   a bar magnet in half does nothing to the arrangement of the molecules
+   within, and you end up with two bars with the same arrangement, and
+   thus the same field. This also explains how heating or simply hitting a
+   magnet made from a soft material will degauss it, as the molecules
+   within are moved about.
+
+   Since all known forms of magnetic phenomena involve the motion of
+   electrically charged particles, and since no theory suggests that
+   "pole" is, in that context, a thing rather than a convenient fiction,
+   it may well be that nothing that could be called a magnetic monopole
+   exists or ever did or could.
+
+   Contrary to normal experience, some theoretical physics models predict
+   the existence of magnetic monopoles. Paul Dirac observed in 1931 that,
+   because electricity and magnetism show a certain symmetry, just as
+   quantum theory predicts that individual positive or negative electric
+   charges can be observed without the opposing charge, isolated South or
+   North magnetic poles should be observable. In practice, however,
+   although charged particles like protons and electrons can be easily
+   isolated as individual electrical charges, magnetic south and north
+   poles have never been found in isolation. Using quantum theory Dirac
+   showed that if magnetic monopoles exist, then one could explain why the
+   observed elementary particles carry charges that are multiples of the
+   charge of the electron.
+
+   In modern elementary particle theory, the quantization of charge is
+   realized in a spontaneous breakdown of a non- abelian gauge symmetry.
+   Monopoles predicted in certain grand unified theories differ from the
+   one originally thought of by Dirac. These monopoles, unlike elementary
+   particles, are solitons, which are localized energy packets. If they
+   exist at all, they contradict cosmological observations. A solution to
+   this monopole problem in cosmology gave rise to the
+   currently-interesting idea of inflation.
+
+Atomic magnetic dipoles
+
+   The physical cause of the magnetism of objects, as distinct from
+   electrical currents, is the atomic magnetic dipole. Magnetic dipoles,
+   or magnetic moments, result on the atomic scale from the two kinds of
+   movement of electrons. The first is the orbital motion of the electron
+   around the nucleus; this motion can be considered as a current loop,
+   resulting in an orbital dipole magnetic moment along the axis of the
+   nucleus. The second, much stronger, source of electronic magnetic
+   moment is due to a quantum mechanical property called the spin dipole
+   magnetic moment (although current quantum mechanical theory states that
+   electrons neither physically spin, nor orbit the nucleus).
+   Dipole moment of a bar magnet.
+   Dipole moment of a bar magnet.
+
+   The overall magnetic moment of the atom is the net sum of all of the
+   magnetic moments of the individual electrons. Because of the tendency
+   of magnetic dipoles to oppose each other to reduce the net energy, in
+   an atom the opposing magnetic moments of some pairs of electrons cancel
+   each other, both in orbital motion and in spin magnetic moments. Thus,
+   in the case of an atom with a completely filled electron shell or
+   subshell, the magnetic moments normally completely cancel each other
+   out and only atoms with partially-filled electron shells have a
+   magnetic moment, whose strength depends on the number of unpaired
+   electrons.
+
+   The differences in configuration of the electrons in various elements
+   thus determine the nature and magnitude of the atomic magnetic moments,
+   which in turn determine the differing magnetic properties of various
+   materials. Several forms of magnetic behaviour have been observed in
+   different materials, including:
+     * Diamagnetism
+     * Paramagnetism
+          + Molecular magnet
+     * Ferromagnetism
+          + Antiferromagnetism
+          + Ferrimagnetism
+          + Metamagnetism
+     * Spin glass
+     * Superparamagnetism
+
+   Magnetars, stars with extremely powerful magnetic fields, are also
+   known to exist.
+
+Types of magnets
+
+Electromagnets
+
+   Electromagnets are useful in cases where a magnet must be switched on
+   or off; for instance, large cranes to lift junked automobiles.
+
+   For the case of electric current moving through a wire, the resulting
+   field is directed according to the "right hand rule." If the right hand
+   is used as a model, and the thumb of the right hand points along the
+   wire from positive towards the negative side ("conventional current",
+   the reverse of the direction of actual movement of electrons), then the
+   magnetic field will wrap around the wire in the direction indicated by
+   the fingers of the right hand. As can be seen geometrically, if a loop
+   or helix of wire is formed such that the current is traveling in a
+   circle, then all of the field lines in the centre of the loop are
+   directed in the same direction, resulting in a magnetic dipole whose
+   strength depends on the current around the loop, or the current in the
+   helix multiplied by the number of turns of wire. In the case of such a
+   loop, if the fingers of the right hand are directed in the direction of
+   conventional current flow (i.e., positive to negative, the opposite
+   direction to the actual flow of electrons), the thumb will point in the
+   direction corresponding to the North pole of the dipole.
+
+Permanent and temporary magnets
+
+   Permanent and temporary magnets are alike in that they do not require
+   another influence to create their magnetic field, they rely on magnetic
+   poles. There are always two poles, a north and a south. Even by cutting
+   a magnet in numerous pieces you will not get a magnetic monopole, you
+   will get many abated magnets. A helpful way to think of it is to think
+   of a line of pencils, all facing the same way. each has a sharp end and
+   an eraser end, or a north and south end. If you diverse that line into
+   two lines each line will still have a sharp side and eraser side. A
+   permanent magnet differs from a temporary magnet in that a temporary
+   magnet is simply temporary. Stroking a metal onto a magnetized material
+   such as magnetite (a naturally magnetized mineral) would turn the metal
+   into a ferromagnetic material. Permanent magnets that contain other
+   materials such as those in strong magnets are difficult to magnetize,
+   but tend to keep its magnetism for a greater period. Permanent magnets
+   may be metals such as steel, and iron, natural minerals such as
+   magnetite, or even plastic magnets. Although they are called permanent
+   they are not comprehensively permanent, if dropped, heated, or struck
+   against a hard object at a fast speed the magnetic domains within the
+   magnet may shift out of alignment causing the magnet to become
+   debilitated. There are two types of rare-earth magnets:
+     * Neodymium magnets - made from sintered neodymium, iron and small
+       amounts of boron; the most powerful and affordable.
+
+     * Samarium-cobalt magnets (SmCo5) are less common than neodymium
+       magnets, are not as strong, and are more expensive, but they have a
+       higher curie point, making them more applicable for situations when
+       they will be under intense heat.
+
+Magnetic metallic elements
+
+   Many materials have unpaired electron spins, but the majority of these
+   materials are paramagnetic. When the spins interact with each other in
+   such a way that the spins align spontaneously, the materials are called
+   ferromagnetic (what is often loosely termed as "magnetic"). Due to the
+   way their regular crystalline atomic structure causes their spins to
+   interact, some metals are (ferro)magnetic when found in their natural
+   states, as ores. These include iron ore ( magnetite or lodestone),
+   cobalt, zinc and nickel, as well the rare earth metals gadolinium and
+   dysprosium (when at a very low temperature). Such naturally occurring
+   (ferro)magnets were used in the first experiments with magnetism.
+   Technology has since expanded the availability of magnetic materials to
+   include various manmade products, all based, however, on naturally
+   magnetic elements.
+
+Composites
+
+Ceramic or ferrite
+
+   Ceramic, or ferrite, magnets are made of a sintered composite of
+   powdered iron oxide and barium/strontium carbonate ceramic. Due to the
+   low cost of the materials and manufacturing methods, inexpensive
+   magnets (or nonmagnetized ferromagnetic cores, for use in electronic
+   component such as radio antennas, for example) of various shapes can be
+   easily mass produced. The resulting magnets are noncorroding, but
+   brittle and must be treated like other ceramics.
+
+Alnico
+
+   Alnico magnets are made by casting or sintering a combination of
+   aluminium, nickel and cobalt with iron and small amounts of other
+   elements added to enhance the properties of the magnet. Sintering
+   offers superior mechanical characteristics, whereas casting delivers
+   higher magnetic fields and allows for the design of intricate shapes.
+   Alnico magnets resist corrosion and have physical properties more
+   forgiving than ferrite, but not quite as desirable as a metal.
+
+Injection molded
+
+   Injection molded magnets are a composite of various types of resin and
+   magnetic powders, allowing parts of complex shapes to be manufactured
+   by injection molding. The physical and magnetic properties of the
+   product depend on the raw materials, but are generally lower in
+   magnetic strength and resemble plastics in their physical properties.
+
+Flexible
+
+   Flexible magnets are similar to injection molded magnets, using a
+   flexible resin or binder such as vinyl, and produced in flat strips or
+   sheets. These magnets are lower in magnetic strength but can be very
+   flexible, depending on the binder used.
+
+Rare earth magnets
+
+   'Rare earth' ( lanthanoid) elements have a partially occupied f
+   electron shell (which can accommodate up to 14 electrons.) The spin of
+   these electrons can be aligned, resulting in very strong magnetic
+   fields, and therefore these elements are used in compact high-strength
+   magnets where their higher price is not a factor.
+
+Samarium-cobalt
+
+   Samarium-cobalt magnets are highly resistant to oxidation, with higher
+   magnetic strength and temperature resistance than alnico or ceramic
+   materials. Sintered samarium-cobalt magnets are brittle and prone to
+   chipping and cracking and may fracture when subjected to thermal shock.
+
+Neodymium-iron-boron (NIB)
+
+   Neodymium magnets, more formally referred to as neodymium-iron-boron
+   (NdFeB) magnets, have the highest magnetic field strength, but are
+   inferior to samarium cobalt in resistance to oxidation and temperature.
+   This type of magnet has traditionally been expensive, due to both the
+   cost of raw materials and licensing of the patents involved. This high
+   cost limited their use to applications where such high strengths from a
+   compact magnet are critical. Use of protective surface treatments such
+   as gold, nickel, zinc and tin plating and epoxy resin coating can
+   provide corrosion protection where required. Beginning in the 1980s,
+   NIB magnets have increasingly become less expensive and more popular in
+   other applications such as controversial children's magnetic building
+   toys. Even tiny neodymium magnets are very powerful and have important
+   safety considerations.
+
+Single-molecule magnets (SMMs) and single-chain magnets (SCMs)
+
+   In the 1990s it was discovered that certain molecules containing
+   paramagnetic metal ions are capable of storing a magnetic moment at
+   very low temperatures. These are very different from conventional
+   magnets that store information at a "domain" level and theoretically
+   could provide a far denser storage medium than conventional magnets. In
+   this direction research on monolayers of SMMs is currently under way.
+   Very briefly, the two main attributes of an SMM are:
+    1. a large ground state spin value (S), which is provided by
+       ferromagnetic or ferrimagnetic coupling between the paramagnetic
+       metal centres.
+    2. a negative value of the anisotropy of the zero field splitting (D)
+
+   Most SMM's contain manganese, but can also be found with vanadium,
+   iron, nickel and cobalt clusters. More recently it has been found that
+   some chain systems can also display a magnetization which persists for
+   long times at relatively higher temperatures. These systems have been
+   called single-chain magnets.
+
+Nano-structured magnets
+
+   Some nano-structured materials exhibit energy waves called magnons that
+   coalesce into a common ground state in the manner of a Bose-Einstein
+   condensate.
+
+   See results from NIST published April 2005, or
+
+Units of electromagnetism
+
+SI units related to magnetism
+
+   SI electromagnetism units
+   Symbol Name of Quantity Derived Units Unit Base Units
+   I Magnitude of current ampere ( SI base unit) A A = W/V = C/s
+   q Electric charge, Quantity of electricity coulomb C A·s
+   V Potential difference or Electromotive force volt V J/C =
+   kg·m^2·s^−3·A^−1
+   R, Z, X Resistance, Impedance, Reactance ohm Ω V/A = kg·m^2·s^−3·A^−2
+   ρ Resistivity ohm metre Ω·m kg·m^3·s^−3·A^−2
+   P Power, Electrical watt W V·A = kg·m^2·s^−3
+   C Capacitance farad F C/V = kg^−1·m^−2·A^2·s^4
+   Elastance reciprocal farad F^−1 V/C = kg·m^2·A^−2·s^−4
+   ε Permittivity farad per metre F/m kg^−1·m^−3·A^2·s^4
+   χ[e] Electric susceptibility (dimensionless) - -
+   G, Y, B Conductance, Admittance, Susceptance siemens S Ω^−1 =
+   kg^−1·m^−2·s^3·A^2
+   σ Conductivity siemens per metre S/m kg^−1·m^−3·s^3·A^2
+   H Magnetic field, magnetic field intensity ampere per metre A/m A·m^−1
+   Φ[m] Magnetic flux weber Wb V·s = kg·m^2·s^−2·A^−1
+   B Magnetic flux density, magnetic induction, magnetic field strength
+   tesla T Wb/m^2 = kg·s^−2·A^−1 = N·A^−1·m^−1
+   Reluctance ampere-turn per weber A/Wb kg^−1·m^−2·s^2·A^2
+   L Inductance henry H Wb/A = V·s/A = kg·m^2·s^−2·A^−2
+   μ Permeability henry per metre H/m kg·m·s^−2·A^−2
+   χ[m] Magnetic susceptibility (dimensionless)
+   Π and Π * Electric and Magnetic hertzian vector potentials n/a n/a
+
+Other units
+
+     * gauss-The gauss, abbreviated as G, is the cgs unit of magnetic flux
+       density or magnetic induction (B).
+     * oersted-The oersted is the CGS unit of magnetic field strength.
+     * maxwell-is the CGS unit for the magnetic flux.
+     * μ[o] -common symbol for the permeability of free space (4πx10^-7
+       N/(ampere-turn)^2).
+
+   Retrieved from " http://en.wikipedia.org/wiki/Magnetism"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

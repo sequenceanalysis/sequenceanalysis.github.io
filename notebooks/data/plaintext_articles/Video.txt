@@ -1,0 +1,334 @@
+   #copyright
+
+Video
+
+2007 Schools Wikipedia Selection. Related subjects: Media
+
+          For help with video on Wikipedia, see Wikipedia:Media help
+
+   Video is the technology of electronically capturing, recording,
+   processing, storing, transmitting, and reconstructing a sequence of
+   still images which represent scenes in motion. Video technology was
+   first developed for television systems, but has been further developed
+   in many formats to allow for consumer video recording. Video can also
+   be viewed on through the Internet as video clips or streaming media
+   clips on computer monitors.
+
+   Video is different than film, which captures a moving image as a
+   sequence of still pictures photographically.
+
+Description
+
+   Analog video standard: bright green - NTSC, yellow - PAL, or switching
+   to PAL, orange - SECAM, olive - no information
+   Enlarge
+   Analog video standard: bright green - NTSC, yellow - PAL, or switching
+   to PAL, orange - SECAM, olive - no information
+
+   The term video (from the Latin for "I see") commonly refers to several
+   storage formats for moving pictures: digital video formats, including
+   DVD, QuickTime, and MPEG-4; and analog videotapes, including VHS and
+   Betamax. Video can be recorded and transmitted in various physical
+   media: in magnetic tape when recorded as PAL or NTSC electric signals
+   by video cameras, or in MPEG-4 or DV digital media when recorded by
+   digital cameras.
+
+   Quality of video essentially depends on the capturing method and
+   storage used. Digital television (DTV) is a relatively recent format
+   with higher quality than earlier television formats and has become a
+   standard for television video. (See List of digital television
+   deployments by country.)
+
+   3D-video, digital video in three dimensions, premiered at the end of
+   20th century. Six or eight cameras with realtime depth measurement are
+   typically used to capture 3D-video streams. The format of 3D-video is
+   fixed in MPEG-4 Part 16 Animation Framework eXtension (AFX).
+
+   In the UK, Australia, and New Zealand, the term video is often used
+   informally to refer to both video recorders and video cassettes; the
+   meaning is normally clear from the context.
+
+Characteristics of video streams
+
+Number of frames per second
+
+   Frame rate, the number of still pictures per unit of time of video,
+   ranges from six or eight frames per second (fps) for old mechanical
+   cameras to 120 or more frames per second for new professional cameras.
+   PAL (Europe, Asia, Australia, etc.) and SECAM (France, Russia, parts of
+   Africa etc.) standards specify 25 fps, while NTSC (USA, Canada, Japan,
+   etc.) specifies 29.97 fps. Film is shot at the slower frame rate of
+   24fps, which complicates slightly the process of transferring a
+   cinematic motion picture to video. To achieve the illusion of a moving
+   image, the minimum frame rate is about ten frames per second.
+
+Interlacing
+
+   Video can be interlaced or progressive. Interlacing was invented as a
+   way to achieve good visual quality within the limitations of a narrow
+   bandwidth. The horizontal scan lines of each interlaced frame are
+   numbered consecutively and partitioned into two fields: the odd field
+   consisting of the odd-numbered lines and the even field consisting of
+   the even-numbered lines. NTSC, PAL and SECAM are interlaced formats.
+   Abbreviated video resolution specifications often include an i to
+   indicate interlacing. For example, PAL video format is often specified
+   as 576i50, where 576 indicates the vertical line resolution, i
+   indicates interlacing, and 50 indicates 50 fields (half-frames) per
+   second.
+
+   In progressive scan systems, each refresh period updates all of the
+   scan lines. The result is a higher perceived resolution and a lack of
+   various artifacts that can make parts of a stationary picture appear to
+   be moving or flashing.
+
+   A procedure known as deinterlacing can be used for converting an
+   interlaced stream, such as analog, DVD, or satellite, to be processed
+   by progressive scan devices, such as TFT TV-sets, projectors, and
+   plasma panels. Deinterlacing cannot, however, produce a video quality
+   that is equivalent to true progressive scan source material.
+
+Video resolution
+
+   Comparison of TV resolutions
+   Enlarge
+   Comparison of TV resolutions
+
+   The size of a video image is measured in pixels for digital video or
+   horizontal scan lines for analog video. Standard-definition television
+   ( SDTV) is specified as 720/704/640×480i60 for NTSC and 768/720×576i50
+   for PAL or SECAM resolution. New high-definition televisions ( HDTV)
+   are capable of resolutions up to 1920×1080p60, i.e. 1920 pixels per
+   scan line by 1080 scan lines, progressive, at 60 frames per second.
+
+   Video resolution for 3D-video is measured in voxels (volume picture
+   element, representing a value in three dimensional space). For example
+   512×512×512 voxels resolution, now used for simple 3D-video, can be
+   displayed even on some PDAs.
+
+Aspect ratio
+
+   Comparison of common cinematography and traditional television (green)
+   aspect ratios.
+   Enlarge
+   Comparison of common cinematography and traditional television (green)
+   aspect ratios.
+
+   Aspect ratio describes the dimensions of video screens and video
+   picture elements. The screen aspect ratio of a traditional television
+   screen is 4:3, or 1.33:1. High definition televisions use an aspect
+   ratio of 16:9, or about 1.78:1. The aspect ratio of a full 35 mm film
+   frame with soundtrack (also known as "Academy standard") is around
+   1.37:1.
+
+   Pixels on computer monitors are usually square, but pixels used in
+   digital video often have non-square aspect ratios, such as those used
+   in the PAL and NTSC variants of the CCIR 601 digital video standard,
+   and the corresponding anamorphic widescreen formats. Therefore, an NTSC
+   DV image which is 720 pixels by 480 pixels is displayed with the aspect
+   ratio of 4:3 (which is the traditional television standard) if the
+   pixels are thin and displayed with the aspect ratio and 16:9 (which is
+   the anamorphic widescreen format) if the pixels are fat.
+
+Colour space and bits per pixel
+
+   Example of U-V color plane, Y value=0.5
+   Enlarge
+   Example of U-V colour plane, Y value=0.5
+
+   Colour model name describes the video colour representation. YIQ is
+   used in NTSC television. It corresponds closely to the YUV scheme used
+   in PAL television and the YDbDr scheme used by SECAM television.
+
+   The number of distinct colours that can be represented by a pixel
+   depends on the number of bits per pixel (bpp). A common way to reduce
+   the number of bits per pixel in digital video is by chroma subsampling
+   (e.g. 4:4:4, 4:2:2, 4:2:0).
+
+Video quality
+
+   Video quality can be measured with formal metrics like PSNR or with
+   subjective video quality using expert observation.
+
+   The subjective video quality of a video processing system may be
+   evaluated as follows:
+     * Choose the video sequences (the SRC) to use for testing.
+     * Choose the settings of the system to evaluate (the HRC).
+     * Choose a test method for how to present video sequences to experts
+       and to collect their ratings.
+     * Invite a sufficient number of experts, preferably not fewer than
+       15.
+     * Carry out testing.
+     * Calculate the average marks for each HRC based on the experts'
+       ratings.
+
+   Many subjective video quality methods are described in the ITU-T
+   recommendation BT.500. One of the standardized method is the Double
+   Stimulus Impairment Scale (DSIS). In DSIS, each expert views an
+   unimpaired reference video followed by an impaired version of the same
+   video. The expert then rates the impaired video using a scale ranging
+   from "impairments are imperceptible" to "impairments are very
+   annoying".
+
+Video compression method (digital only)
+
+   A wide variety of methods are used to compress video streams. Video
+   data contains spatial and temporal redundancy, making uncompressed
+   video streams extremely inefficient. Broadly speaking, spatial
+   redundancy is reduced by registering differences between parts of a
+   single frame; this task is known as intraframe compression and is
+   closely related to image compression. Likewise, temporal redundancy can
+   be reduced by registering differences between frames; this task is
+   known as interframe compression, including motion compensation and
+   other techniques. The most common modern standards are MPEG-2, used for
+   DVD and satellite television, and MPEG-4, used for home video.
+
+Bit rate (digital only)
+
+   Bit rate is a measure of the rate of information content in a video
+   stream. It is quantified using the bit per second (bit/s) unit or
+   Megabits per second (Mbit/s). A higher bit rate allows better video
+   quality. For example VideoCD, with a bit rate of about 1 Mbit/s, is
+   lower quality than DVD, with a bit rate of about 5 Mbit/s. HDTV has a
+   still higher quality, with a bit rate of about 20 Mbit/s.
+
+   Variable bit rate (VBR) is a strategy to maximize the visual video
+   quality and minimize the bit rate. On fast motion scenes, a variable
+   bit rate uses more bits than it does on slow motion scenes of similar
+   duration yet achieves a consistent visual quality. For real-time and
+   non-buffered video streaming when the available bandwidth is fixed,
+   e.g. in videoconferencing delivered on channels of fixed bandwidth, a
+   constant bit rate (CBR) must be used.
+
+Stereoscopic
+
+   Stereoscopic video requires either two channels — a right channel for
+   the right eye and a left channel for the left eye or two overlayed
+   colour coded layers. This left and right layer technique is
+   occasionally used for network broadcast, or recent "anaglyph" releases
+   of 3D movies on DVD. Simple Red/Cyan plastic glasses provide the means
+   to view the images discretely to form a stereoscopic view of the
+   content. New HD DVD and HD Blu-ray disks will greatly improve the 3D
+   effect, in colour coded stereo programs. The first commercially
+   available HD players are expected to debut at the 2006 NAB Show in Las
+   Vegas in April. See articles Stereoscopy and 3-D film.
+
+Video formats
+
+   Video Display Standards Video Connection Standards
+     * New digital:
+          + ATSC (USA, Canada, etc., Advanced Television Systems
+            Committee)
+          + DVB (European, Digital Video Broadcasting)
+          + ISDB (Japanese, Integrated Services Digital Broadcasting)
+     * Old analog:
+          + MAC (Europe - Obsolete)
+          + MUSE (Japan-analog HDTV)
+          + NTSC (USA, Canada, Japan, etc.)
+          + PAL (Europe, Asia, Australia, etc.)
+               o PALplus (PAL extension. Europe only)
+               o PAL-M (PAL variation. Brazil)
+          + SECAM (France, ex-USSR, Central Africa)
+
+     * Composite video (1 RCA or BNC)
+     * Component video (3 RCA or BNC)
+          + D4 video connector (new for HDTV)
+     * S-Video (from Separated Video, 1 mini-DIN)
+     * SCART (used in Europe)
+     * DVI (uncompressed video only). HDCP optional
+     * HDMI (uncompressed video & audio). HDCP mandatory.
+     * RF connectors (from Radio Frequency coaxial connector)
+          + BNC (Bayonet Niell-Concelman)
+          + C connector (Concelman connector)
+          + GR connector (General Radio connector)
+          + F connector (used for U.S. domestic television installations)
+          + IEC 169-2 (IEC connector, used mostly in the UK)
+          + N connector (Niell connector)
+          + TNC connector (Threaded Niell-Concelman)
+          + UHF connector (e.g. PL-259/SO-239)
+          + SDI and HD-SDI
+     * VGA connector (DB-9/15 or mini sub D15)
+     * Mini-VGA (used for laptops)
+
+   Analog Tape Formats (See Analog television)
+
+   Digital Tape Formats (See Digital video)
+     * Ampex
+     * VERA (BBC experimental format ca. 1958)
+     * U-matic (Sony)
+     * Betamax (Sony)
+     * Betacam
+     * Betacam SP
+     * 2" Quadruplex videotape ( Ampex)
+     * 1" Type C videotape ( Ampex and Sony)
+     * VCR, VCR-LP, SVR
+     * VHS ( JVC)
+     * S-VHS ( JVC)
+     * VHS-C ( JVC)
+     * Video 2000 ( Philips)
+     * Video8
+     * Video Hi8
+
+     * D1 (Sony)
+     * D2 (Sony)
+     * D3
+     * D4
+     * D5 HD
+     * Digital Betacam (Sony)
+     * Betacam IMX (Sony)
+     * HDV
+     * ProHD ( JVC)
+     * D-VHS ( JVC)
+     * DV
+     * MiniDV
+     * MicroMV
+     * Digital8 (Sony)
+
+   Optical Disc Storage Formats
+
+   Digital Encoding Formats
+     * DVD (was Super Density Disc, DVD Forum)
+     * Laserdisc (old, MCA and Philips)
+     * Blu-ray Disc (Sony)
+     * Enhanced Versatile Disc (EVD, Chinese government-sponsored)
+     * HD DVD ( Hitachi and Toshiba)
+
+     * CCIR 601 ( ITU-T)
+     * M-JPEG ( ISO)
+     * MPEG-1 ( ISO)
+     * MPEG-2 ( ITU-T + ISO)
+     * MPEG-4 ( ISO)
+     * H.261 ( ITU-T)
+     * H.263 ( ITU-T)
+     * H.264/MPEG-4 AVC ( ITU-T + ISO)
+     * VC-1 ( SMPTE)
+     * Ogg- Theora
+
+
+
+                        Industrial & home video media
+                                Magnetic tape
+
+      VERA (1952) - 2 inch Quadruplex videotape (1956) - 1 inch type A
+    videotape (1965) - U-matic (1969) - Video Cassette Recording (1972) -
+     V-Cord (1974) - VX (aka "The Great Time Machine") (1974) - Betamax
+      (1975) - 1 inch type B videotape (1976) - 1 inch type C videotape
+     (1976) - VHS (1976) - Video 2000 (1979) - VHS-C (1982) - M (1982) -
+   Betacam (1982) - Video8 (1985) - MII (1986) - D1 (1986) - S-VHS (1987)
+      - D2 (1988) - D3 (1991) - D5 (1994) - Digital-S (D9) (199?) - Hi8
+     (1998) - S-VHS-C (1987) - W-VHS (1992) - DV (1995) - Betamax HDCAM
+            (1997) - D-VHS (1998) - Digital8 (1999) - HDV (2003)
+                                Optical discs
+
+      Laserdisc (1978) - Laserfilm (1984) - CD Video - VCD (1993) - DVD
+   (1996) - MiniDVD - CVD (1998) - SVCD (1998) - FMD (2000) - EVD (2003) -
+    UMD (2005) - HD DVD (2006) - Blu-ray Disc (BD) (2006) - DMD (2006?) -
+                          AVCHD (2006) - HVD (TBA)
+                             Grooved Videodiscs
+
+                      SelectaVision (1981) - VHD (1983)
+
+   Retrieved from " http://en.wikipedia.org/wiki/Video"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

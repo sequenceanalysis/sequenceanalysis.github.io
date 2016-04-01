@@ -1,0 +1,540 @@
+   #copyright
+
+Emacs
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: Emacs
+
+   Emacs logo
+   The GNU Emacs 22 interface, running in a graphical environment.
+   Maintainer: GNU Project
+   Stable release: 21.4 (Feb 6, 2005) [[ +/-]]
+   Preview release: 22 (December 4, 2005) [[ +/-]]
+   OS: Cross-platform
+   Available language(s): English only
+   Use: Text editor
+   License: GPL
+   Website: www.gnu.org/software/emacs/
+
+   Emacs is a class of text editors, possessing an extensive set of
+   features, that are popular with computer programmers and other
+   technically proficient computer users.
+
+   GNU Emacs, a part of the GNU project, is under active development and
+   is the most popular version. The GNU Emacs manual describes it as "the
+   extensible, customizable, self-documenting, real-time display editor."
+   It is also the most portable and ported of the implementations of
+   Emacs. As of 2006, the latest release of GNU Emacs is version 21.4.
+
+   The original EMACS, a set of Editor MACroS for the TECO editor, was
+   written in 1975 by Richard Stallman, initially put together with Guy
+   Steele. It was inspired by the ideas of TECMAC and TMACS, a pair of
+   TECO-macro editors written by Guy Steele, Dave Moon, Richard
+   Greenblatt, Charles Frankston, and others. Many versions of Emacs have
+   appeared over the years, but nowadays there are two that are commonly
+   used: GNU Emacs, started by Richard Stallman in 1984 and still
+   maintained by him, and XEmacs, a fork of GNU Emacs which was started in
+   1991 and has remained mostly compatible. Both use a powerful extension
+   language, Emacs Lisp, that allows them to handle tasks ranging from
+   writing and compiling computer programs to browsing the web.
+
+   Some people make a distinction between the capitalized word "Emacs",
+   used to refer to editors derived from versions created by Richard
+   Stallman (particularly GNU Emacs and XEmacs), and the lower-case word
+   "emacs", which is used to refer to the large number of independent
+   emacs reimplementations. The word "emacs" is often pluralized as
+   emacsen by analogy with "oxen". For example, Debian's compatible Emacs
+   package is named emacsen-common. The only plural given by the Collins
+   English Dictionary is emacsen.
+
+   In Unix culture, Emacs is one of the two main contenders in the
+   traditional editor wars, the other being vi.
+
+History
+
+   CAPTION: Emacs
+
+     * Emacs
+     * XEmacs
+     * Emacs Lisp
+     * Notable smaller Emacsen
+          + MicroEMACS
+          + mg
+          + Freemacs
+          + Zile
+
+   Emacs began life at the MIT AI Lab during the 1970s. Before its
+   introduction, the default editor on the Incompatible Timesharing System
+   (ITS), the operating system on the AI Lab's PDP-6 and PDP-10 computers,
+   was a line editor known as TECO. Unlike modern text editors, TECO
+   treated typing, editing, and document display as separate modes, like
+   the later vi would. Typing characters into TECO did not place those
+   characters directly into a document; one had to write a series of
+   instructions in the TECO command language telling it to enter the
+   required characters, during which time the edited text was not
+   displayed on the screen. This behaviour is similar to the program ed,
+   which is still in use.
+
+   Richard Stallman visited the Stanford AI Lab in 1974 or 1972 and saw
+   the lab's "E" editor. The editor had an intuitive WYSIWYG behaviour as
+   is used almost universally by modern text editors. Impressed by this
+   feature, Stallman returned to MIT where Carl Mikkelsen, one of the
+   hackers at the AI Lab, had added a display-editing mode called
+   "Control-R" to TECO, allowing the screen display to be updated each
+   time the user entered a keystroke. Stallman reimplemented this mode to
+   run efficiently, then added a macro feature to the TECO display-editing
+   mode, allowing the user to redefine any keystroke to run a TECO
+   program.
+
+   The new version of TECO was instantly popular at the AI Lab, and soon
+   there accumulated a large collection of custom macros, whose names
+   often ended in "MAC" or "MACS", which stood for "macros". Two years
+   later, Guy Steele took on the project of unifying the overly diverse
+   keyboard command sets into a single set. After one night of joint
+   hacking by Steele and Stallman, the latter finished the implementation,
+   which included facilities for extending and documenting the new macro
+   set. The resulting system was called EMACS, which stood for "Editing
+   MACroS". According to Stallman, he picked the name Emacs "because <E>
+   was not in use as an abbreviation on ITS at the time." It has also been
+   pointed out that " Emack & Bolio's" was the name of a popular ice cream
+   store in Boston, within walking distance of MIT. A text-formatting
+   program used on ITS was later named BOLIO by Dave Moon, who frequented
+   that store. However, Stallman did not like that ice cream, and did not
+   even know of it when choosing the name "Emacs"; this ignorance is the
+   basis of a Hacker koan, Emacs and Bolio).
+
+   Stallman realized the danger of too much customization and de-facto
+   forking and set certain conditions for usage. He later wrote:
+
+          "EMACS was distributed on a basis of communal sharing, which
+          means all improvements must be given back to me to be
+          incorporated and distributed."
+
+   The original Emacs, like TECO, ran only on the PDP line. Its behaviour
+   was different enough from TECO to be considered a text editor in its
+   own right. It quickly became the standard editing program on ITS. It
+   was also ported from ITS to the Tenex and TOPS-20 operating systems by
+   Michael McMahon, but not Unix, initially. Other contributors to early
+   versions of Emacs include Kent Pitman, Earl Killian, and Eugene
+   Ciccarelli.
+
+Other emacsen
+
+   Many Emacs-like editors were written in the following years for other
+   computer systems, including SINE (Sine is not EMACS), EINE ("EINE Is
+   Not EMACS") and ZWEI ("ZWEI Was EINE Initially", for the Lisp machine),
+   which were written by Michael McMahon and Daniel Weinreb. (Those names
+   mean "one" and "two" in German, respectively, although it should
+   correctly be spelled EINS) In 1978, Bernard Greenberg wrote Multics
+   Emacs at Honeywell's Cambridge Information Systems Lab.
+
+   The first Emacs-like editor to run on Unix was Gosling Emacs, written
+   in 1981 by James Gosling (who later invented the Java programming
+   language). It was written in C and, notably, used a language with
+   Lisp-like syntax known as Mocklisp as an extension language. In 1984 it
+   was proprietary software.
+
+GNU Emacs
+
+   In 1984, Stallman began working on GNU Emacs to produce a free software
+   alternative to Gosling Emacs; initially it was based on Gosling Emacs,
+   but Stallman replaced the Mocklisp interpreter at its heart with a true
+   Lisp interpreter, which entailed replacing nearly all of the code. It
+   became the first program released by the nascent GNU project. GNU Emacs
+   is written in C and provides Emacs Lisp (itself implemented in C) as an
+   extension language. The first widely distributed version of GNU Emacs
+   was 15.34, which appeared in 1985. (Versions 2 to 12 never existed.
+   Earlier versions of GNU Emacs had been numbered "1.x.x", but sometime
+   after version 1.12 the decision was made to drop the "1", as it was
+   thought the major number would never change. Version 13, the first
+   public release, was made on March 20, 1985.)
+
+   Like Gosling Emacs, GNU Emacs ran on Unix; however, GNU Emacs had more
+   features, in particular a full-featured Lisp as extension language. As
+   a result, it soon replaced Gosling Emacs as the de facto Emacs editor
+   on Unix.
+
+   Until 1999, GNU Emacs development was relatively closed, to the point
+   where it was used as an example of the "Cathedral" development style in
+   The Cathedral and the Bazaar. The project has since adopted a public
+   development mailing list and anonymous CVS access. Development takes
+   place in a single CVS trunk, which is at version 22.0.90. The current
+   maintainer is Richard Stallman.
+
+XEmacs
+
+   Enlarge
+
+   Beginning in 1991, Lucid Emacs was developed by Jamie Zawinski and
+   others at Lucid Inc., based on an early alpha version of GNU Emacs 19.
+   The codebases soon diverged, and the separate development teams gave up
+   trying to merge them back into a single program. This was one of the
+   most famous early forks of a free software program. Lucid Emacs has
+   since been renamed XEmacs; it and GNU Emacs remain the two most popular
+   varieties in use today.
+
+Other implementations
+
+   GNU Emacs was initially targeted at computers with a 32-bit flat
+   address space, and at least 1 MiB of RAM, at a time where such
+   computers were considered high end. This left an opening for smaller
+   reimplementations. Some noteworthy ones are listed here:
+     * MicroEMACS, a very portable implementation originally written by
+       Dave Conroy and further developed by Daniel Lawrence, which exists
+       in many variations. The editor used by Linus Torvalds.
+     * MG, originally called MicroGNUEmacs, an offshoot of MicroEMACS
+       intended to more closely resemble GNU Emacs. Now installed by
+       default on OpenBSD.
+     * JOVE (Jonathan's Own Version of Emacs), a non-programmable Emacs
+       implementation for UNIX-like systems by Jonathan Payne.
+     * Freemacs, a DOS version with an extension language based on text
+       macro expansion, all within the original 64 KiB flat memory limit.
+
+Licensing
+
+   For GNU Emacs (and GNU packages in general), it remains policy to
+   accept significant code contributions only if the copyright holder
+   executes a suitable disclaimer or assignment of their copyright
+   interest, although one exception was made to this policy for the MULE
+   (MULtilingual Extension, which handles Unicode and more advanced
+   methods of dealing with other languages' scripts) code since the
+   copyright holder is the Japanese government and copyright assignment
+   was not possible. This does not apply to extremely minor code
+   contributions or bug fixes. There is no strict definition of minor, but
+   as a guideline less than 10 lines of code is considered minor. This
+   policy is intended to facilitate copyleft enforcement, so that the FSF
+   can defend the software in a court case if one arises. This requirement
+   by the GNU Emacs maintainers is assumed to affect contributions. Some
+   people claim that it even affects performance, e.g. the inability of
+   GNU Emacs to handle large files in an efficient manner could be blamed
+   on the mentioned requirement repelling any serious developer. However,
+   according to Stallman, it is more important for the program to be
+   "free" than good in any other aspect. Enforcement provides legal
+   confidence in the GNU Emacs free software license — the GNU General
+   Public License — and in the free software itself — an intellectual work
+   with many copyrights and contributors.
+
+Features
+
+   The remainder of this article discusses modern Emacs, GNU Emacs and
+   XEmacs, the only incarnations of Emacs that are widely used today. The
+   term "Emacs" will be used to refer to both programs, as they have very
+   similar features; XEmacs started as a fork of GNU Emacs, and subsequent
+   versions have remained more or less compatible with GNU Emacs.
+
+   In spite of — or perhaps because of — its venerable background, Emacs
+   is one of the most powerful and versatile text editors in existence. It
+   should be noted that it is primarily a text editor, not a word
+   processor; its huge feature set is geared toward helping the user to
+   manipulate pieces of text, rather than manipulating the font of the
+   characters or printing documents (though Emacs can do these as well).
+   Emacs brings a host of features to bear on the deceptively
+   simple-seeming task of text editing, ranging from commands to
+   manipulate words and paragraphs (deleting them, moving them, moving
+   through them, and so forth), to syntax highlighting for making source
+   code easier to read, to executing "keyboard macros" for performing
+   arbitrary batches of editing commands defined by the user.
+
+   The rich variety of features found in Emacs is a result of its unusual
+   design. Almost all of the functionality in the editor, ranging from
+   basic editing operations such as the insertion of characters into a
+   document to the configuration of the user interface, is controlled by a
+   dialect of the Lisp programming language known as Emacs Lisp. In this
+   Lisp environment, variables and even entire functions can be modified
+   on the fly, without having to recompile or even restart the editor. As
+   a result, the behaviour of Emacs can be modified almost without limit,
+   either directly by the user, or (more commonly) by loading bodies of
+   Emacs Lisp code known variously as "libraries", "packages", or
+   "extensions".
+
+   Emacs contains a large number of Emacs Lisp libraries, and more
+   "third-party" libraries can be found on the Internet. Many libraries
+   implement computer programming aids, reflecting Emacs' popularity among
+   programmers. Emacs can be used as an Integrated Development Environment
+   (IDE), allowing programmers to edit, compile, and debug their code
+   within a single interface. Other libraries perform more unusual
+   functions. A few examples are listed below:
+     * Calc, a powerful numerical calculator
+     * Calendar-mode, for keeping appointment calendars and diaries
+     * Doctor, an implementation of ELIZA that performs basic Rogerian
+       psychotherapy
+     * Dunnet, a text adventure
+     * Ediff, for working with diff files interactively.
+     * Emerge, for comparing files and combining them
+     * Emacs/W3, a web browser
+     * ERC, an IRC client
+     * Gnus, a full-featured newsreader and email client
+     * MULE, MultiLingual extensions to Emacs, allowing editing text
+       written in multiple languages, somewhat analogous to Unicode
+     * Info, an online help-browser
+     * Emacs-wiki, LISP-based wiki software for Emacs
+     * Planner, a personal information manager for Emacs
+     * Tetris
+     * Pong
+
+   The downside to Emacs' Lisp-based design is a performance overhead
+   resulting from loading and interpreting the Lisp code. On the systems
+   in which Emacs was first implemented, Emacs was often noticeably slower
+   than rival text editors. Several joke acronyms allude to this: Eight
+   Megabytes And Constantly Swapping (from the days when eight megabytes
+   was a lot of memory), Emacs Makes A Computer Slow, Eventually Mallocs
+   All Computer Storage, and Eventually Makes All Computers Sick. However,
+   modern computers are fast enough that Emacs is seldom felt to be slow.
+   In fact, Emacs starts up more quickly than most modern word processors.
+   Other joke acronyms describe the user interface: Escape Meta Alt
+   Control Shift.
+
+Platforms
+
+   Emacs is one of the most ported non-trivial computer programs in the
+   world. It runs on a wide variety of operating systems, including most
+   Unix-like systems (GNU/Linux, the various BSDs, Solaris, AIX, IRIX, Mac
+   OS X, etc.), MS-DOS, Microsoft Windows and OpenVMS. Unix systems, both
+   free and proprietary, frequently provide Emacs bundled with the
+   operating system.
+
+   Emacs runs on both text terminals and graphical user interface (GUI)
+   environments. On Unix-like operating systems, Emacs uses the X Window
+   System to produce its GUI, either directly or using a "widget toolkit"
+   such as Motif, LessTif, or GTK+. Emacs can also use the native
+   graphical systems of Mac OS X (using the Carbon interface) and
+   Microsoft Windows. The graphical interface provides menubars, toolbars,
+   scrollbars, and context menus.
+
+Editing modes
+
+   Emacs adapts its behaviour to the type of text it is editing by
+   entering editing modes called "major modes". Major modes are defined
+   for ordinary text files, source code for many programming languages,
+   HTML documents, TeX and LaTeX documents, and many other types of text.
+   Each major mode tweaks certain Emacs Lisp variables to make Emacs
+   behave more conveniently for the particular type of text. In
+   particular, they usually implement syntax highlighting, using different
+   fonts or colors to display keywords, comments, and so forth. Major
+   modes also provide special editing commands; for example, major modes
+   for programming languages usually define commands to jump to the
+   beginning and the end of a function.
+
+   The behaviour of Emacs can be further customized using "minor modes".
+   While only one major mode can be associated with a buffer at a time,
+   multiple minor modes can be simultaneously active. For example, the
+   major mode for the C programming language defines a different minor
+   mode for each of the popular indent styles.
+
+Customization
+
+   Many users of Emacs customize the editor to suit their needs. There are
+   three primary ways to customize Emacs. The first is the customize
+   extension, which allows the user to set common customization variables,
+   such as the colour scheme, using a graphical interface. This is
+   intended for Emacs beginners who do not want to work with Emacs Lisp
+   code.
+
+   The second is to collect keystrokes into macros and replay them to
+   automate complex, repetitive tasks. This is often done on an ad-hoc
+   basis and each macro discarded after use, although macros can be saved
+   and invoked at need.
+
+   The third method for customizing Emacs is using Emacs Lisp. Usually,
+   user-supplied Emacs Lisp code is stored in a file called .emacs, which
+   is loaded when Emacs starts up. The .emacs file is often used to set
+   variables and key bindings different from the default setting, and to
+   define new commands that the user finds convenient. Many advanced users
+   have .emacs files hundreds of lines long, with idiosyncratic
+   customizations that cause Emacs to diverge wildly from the default
+   behaviour.
+
+   If a body of Emacs Lisp code is generally useful, it is often packaged
+   as a library and distributed to other users. Many such third-party
+   libraries can be found on the Internet; for example, there is a library
+   called wikipedia-mode for editing Wikipedia articles. There is even a
+   Usenet newsgroup, gnu.emacs.sources, which is used for posting new
+   libraries. Some third-party libraries eventually make their way into
+   Emacs, thus becoming a "standard" library.
+
+Documentation
+
+   The first Emacs included a powerful help library that can display the
+   documentation for every single command, variable, and internal
+   function. (It may have originated this technique.) Because of this,
+   Emacs was described as "self-documenting". (This term does not mean
+   that Emacs writes its own documentation, but rather that it presents
+   its own documentation to the user.) This feature makes Emacs'
+   documentation very accessible. For example, the user can find out about
+   the command bound to a particular keystroke simply by entering C-h k
+   (which runs the command describe-key), followed by the keystroke. Each
+   function included a documentation string, specifically to be used for
+   showing to the user on request. The practice of giving functions
+   documentation strings subsequently spread to various programming
+   languages such as Lisp and Java.
+
+   The Emacs help system is useful not only for beginners, but also for
+   advanced users writing Emacs Lisp code. If the documentation for a
+   function or variable is not enough, the help system can be used to
+   browse the Emacs Lisp source code for both built-in libraries and
+   installed third-party libraries. It is therefore very convenient to
+   program in Emacs Lisp using Emacs itself.
+
+   Apart from the built-in documentation, Emacs has an unusually long,
+   detailed and well-written manual. An electronic copy of the GNU Emacs
+   Manual, written by Richard Stallman, is included with GNU Emacs and can
+   be viewed with the built-in Info browser. XEmacs has a similar manual,
+   which forked from the GNU Emacs Manual at the same time as the XEmacs
+   software. Two other manuals, the Emacs Lisp Reference Manual by Bill
+   Lewis, Richard Stallman, and Dan Laliberte, and Programming in Emacs
+   Lisp by Robert Chassell, are also included. Apart from the electronic
+   versions, all three manuals are also available in book form, published
+   by the Free Software Foundation.
+
+   Emacs also has a built-in tutorial. When Emacs is started with no file
+   to edit, it displays instructions for performing simple editing
+   commands and invoking the tutorial.
+
+Internationalization
+
+   Emacs supports the editing of text written in many human languages.
+   There is support for many alphabets, scripts, writing systems, and
+   cultural conventions. Emacs provides spell checking for many languages
+   by calling external programs such as ispell. Many encoding systems,
+   including UTF-8, are supported. XEmacs version 21.5 has partial Unicode
+   support. Emacs 21.4 has similar support; Emacs 22 will be better. All
+   of these efforts use an Emacs-specific encoding internally,
+   necessitating conversion upon load and save. UTF-8 will become the
+   Emacs-internal encoding in some later version of XEmacs 21.5, and
+   likely in Emacs 23.
+
+   However, the Emacs user interface is in English, and has not been
+   translated into any other language, with the exception of the
+   beginners' tutorial.
+
+   For visually impaired and blind users, there is a subsystem called
+   Emacspeak which allows the editor to be used through audio feedback
+   only.
+
+License
+
+   The source code, including both the C and Emacs Lisp components, is
+   freely available for examination, modification, and redistribution,
+   under the terms of the GNU General Public License (GPL). Older versions
+   of the GNU Emacs documentation were released under an ad-hoc license
+   which required the inclusion of certain text in any modified copy. In
+   the GNU Emacs user's manual, for example, this included how to obtain
+   GNU Emacs and Richard Stallman's political essay " The GNU Manifesto".
+   The XEmacs manuals, which were inherited from older GNU Emacs manuals
+   when the fork occurred, have the same license. The newer versions of
+   the GNU Emacs documentation, meanwhile, uses the GNU Free Documentation
+   License and makes use of "invariant sections" to require the inclusion
+   of the same documents, additionally requiring that the manuals proclaim
+   themselves as GNU Manuals.
+
+Using Emacs
+
+Commands
+
+   From the Unix shell, a file can be opened for editing by typing "emacs
+   [filename]". If the filename you entered does not exist a file will be
+   created with that name. For example "emacs xorg.conf" will edit the
+   xorg.conf file in the current directory, if it exists. However, Emacs
+   documentation recommends starting Emacs without a file name, to avoid
+   the bad habit of starting a separate Emacs for each file you edit.
+   Visiting all files in a single Emacs process is the way to get the full
+   benefit of Emacs.
+
+   In the normal editing mode, Emacs behaves just like other text editors:
+   the character keys (a, b, c, 1, 2, 3, etc.) insert the corresponding
+   characters, the arrow keys move the editing point, backspace deletes
+   text, and so forth. Other commands are invoked with modified
+   keystrokes, pressing the control key and/or the meta key/ alt key in
+   conjunction with a regular key. Every editing command is actually a
+   call to a function in the Emacs Lisp environment. Even a command as
+   simple as typing a to insert the character a involves calling a
+   function--in this case, self-insert-command.
+
+   Some of the basic commands are shown below. More can be found at List
+   of Emacs commands. The control key [Ctrl] is denoted by a capital C,
+   and the meta or alt [Alt] key by a capital M.
+   Command Keystroke Description
+   forward-word M-f Move forward past one word.
+   search-word C-s Search a word in the buffer.
+   undo C-/ Undo last change, and prior changes if pressed repeatedly.
+   keyboard-quit C-g Abort the current command.
+   fill-paragraph M-q Wrap text in ("fill") a paragraph.
+   find-file C-x C-f Visit a file (you specify the name) in its own editor
+   buffer.
+   save-buffer C-x C-s Save the current editor buffer in its visited file.
+   save-with-newname C-x C-w Save the current editor buffer as a file with
+   the name you specify.
+   save-buffers-kill-emacs C-x C-c Offer to save changes, then exit Emacs.
+   set-marker C-[space]/C-@ Set a marker from where you want to cut or
+   copy.
+   cut C-w Cut all text between the marker and the cursor.
+   copy M-w Copy all text between the marker and the cursor.
+   paste C-y Paste text from the emacs clipboard
+   kill buffer C-x k Kill the current buffer
+
+   Note that the commands save-buffer and save-buffers-kill-emacs use
+   multiple modified keystrokes. For example, C-x C-c means: while holding
+   down the control key, press x; then, while holding down the control
+   key, press c. This technique, allowing more commands to be bound to the
+   keyboard than with the use of single keystrokes alone, was popularized
+   by Emacs, which got it from TECMAC, one of the TECO macro collections
+   that immediately preceded Emacs. It has since made its way into modern
+   code editors like Visual Studio.
+
+   When Emacs is running a graphical interface, many commands can be
+   invoked from the menubar or toolbar instead of using the keyboard.
+   However, many experienced Emacs users prefer to use the keyboard
+   because it is faster and more convenient once the necessary keystrokes
+   have been memorized.
+
+   Some Emacs commands work by invoking an external program (such as
+   ispell for spell-checking or gcc for program compilation), parsing the
+   program's output, and displaying the result in Emacs.
+
+Minibuffer
+
+   The minibuffer, normally the bottommost line, is where Emacs requests
+   information. Text to target in a search, the name of a file to read or
+   save, and similar information is entered in the minibuffer. When
+   applicable, tab completion is usually available.
+
+File management and display
+
+   Emacs keeps text in objects called buffers. The user can create new
+   buffers and dismiss unwanted ones, and several buffers can exist at the
+   same time. Most buffers contain text loaded from text files, which the
+   user can edit and save back to disk. Buffers are also used to store
+   temporary text, such as the documentation strings displayed by the help
+   library.
+
+   In both text terminal and graphical modes, Emacs is able to split the
+   editing area into separate sections (referred to since 1975 as
+   "windows", which can be confusing on systems that have another concept
+   of "windows" as well), so that more than one buffer can be displayed at
+   a time. This has many uses. For example, one section can be used to
+   display the source code of a program, while another displays the
+   results from compiling the program. In graphical environments, Emacs
+   can also launch multiple graphical-environment windows, known as
+   "frames" in the context of Emacs.
+
+Emacs Pinky
+
+   Because of Emacs' dependence on the modifier keys, in particular the
+   control key is pressed with the pinky finger, heavy Emacs users have
+   experienced pain in their pinky fingers (see repetitive strain injury
+   and fat-finger). This has been dubbed the "Emacs Pinky", and vi
+   advocates often cite it as a reason to switch to vi. To alleviate this
+   situation, many Emacs users transpose the left control key and the left
+   caps-lock key or define both as control keys. There are also Kinesis's
+   Contoured Keyboard available which reduce the strain by moving the
+   modifier keys altogether so that they are in a position to be easily
+   pushed by the thumb, and Microsoft Natural keyboard that has large
+   modifier keys placed symmetrically on both sides of the keyboard so
+   that they can be pressed with palm.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Emacs"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

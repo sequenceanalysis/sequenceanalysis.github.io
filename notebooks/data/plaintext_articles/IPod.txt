@@ -1,0 +1,644 @@
+   #copyright
+
+IPod
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure; Engineering
+
+          The correct title of this article is iPod. The initial letter is
+          shown capitalized due to technical restrictions.
+
+   A white fifth generation iPod with a sleeve and earphones.
+   Enlarge
+   A white fifth generation iPod with a sleeve and earphones.
+
+   iPod is a brand of portable media players designed and marketed by
+   Apple Computer and launched in 2001. Devices in the iPod range are
+   primarily music players, designed around a central scroll wheel
+   (although the iPod shuffle has buttons only). The full-sized model
+   stores media on an internal hard drive, while the smaller iPod nano and
+   iPod shuffle use flash memory. Like many digital audio players, iPods
+   can also serve as external data storage devices. Apple chose to focus
+   its development on the iPod's simple user interface and its ease of
+   use, rather than on technical capability. The only iPod that does not
+   have a screen built in is the iPod shuffle. The iPod shuffle is named
+   that because it has a switch allowing the songs to be shuffled so they
+   are not in order. Later, all iPods were given this functionality
+   through a software command.
+
+   As of October 2005, the lineup consists of the video-capable fifth
+   generation iPod; the smaller iPod nano; and the display-less iPod
+   shuffle. These models were updated in September 2006.
+
+   The bundled software used for transferring music is called iTunes. As a
+   jukebox application, iTunes stores a comprehensive library of music on
+   the user's computer and can play, burn, and rip music from a CD. It can
+   also sync photos and videos.
+
+   The iPod is currently the world's best-selling digital audio player and
+   its worldwide mainstream adoption makes it one of the most popular
+   consumer brands. Some of Apple's design choices and proprietary actions
+   have, however, led to criticism and legal battles.
+
+History and design
+
+   The iPod came from Apple's digital hub strategy, as the company began
+   creating software for the growing market of digital devices being
+   purchased by consumers. While digital cameras, camcorders and
+   organizers had well-established mainstream markets, the company found
+   digital music players lacking in user interface design and decided to
+   develop its own. "iPod" was a name that Apple registered for Internet
+   kiosks, but never put to use.
+
+   Apple's hardware engineering chief Jon Rubinstein assembled a team of
+   engineers to design it, along with engineers Anthony Fadell and Stan
+   Ng. They built the product in less than a year, and it was unveiled on
+   24 December 2001. CEO Steve Jobs announced it as a Mac-compatible
+   product with a 5 GB hard drive that put "1000 songs in your pocket."
+
+   Jonathan Ive (Senior Vice President of Industrial Design at Apple
+   Computer) led the team that designed the iPod, which has established
+   Apple as the dominant presence in the mp3 player market.
+
+   Uncharacteristically, Apple did not develop the iPod's software
+   in-house. Instead, Apple used a Design Chain and contracted with
+   PortalPlayer, who already had a reference design (based on 2 ARM cores)
+   with rudimentary software running on a commercial microkernel embedded
+   operating system. PortalPlayer had previously been working on an
+   IBM-branded MP3 player with Bluetooth headphones. Apple contracted
+   another company, Pixo, to create and refine the user interface, under
+   the direct supervision of Steve Jobs.
+
+   Once established, Apple continued to refine the software's look and
+   feel. Starting with the iPod mini, the Chicago font (once used on early
+   Macintosh computers) was replaced with Espy Sans, which was originally
+   used in eWorld and Copland. The most recent iPods switched fonts again
+   to Podium Sans — a font similar to Apple's corporate font Myriad. The
+   iPods with colour displays have adopted some Mac OS X themes like Aqua
+   progress bars and brushed metal in the FM tuner and lock interfaces.
+
+User interface
+
+   The recent iPods with displays use high quality anti-aliased graphics
+   and text, with sliding animations. These iPods have five buttons: and
+   newer generations have the buttons integrated into the scroll wheel, an
+   innovation which gives an uncluttered, minimalistic interface. The
+   buttons are:
+     * Menu — to traverse backwards through the menus, and toggle the
+       backlight on older iPods
+     * Centre — to select a menu item
+     * Play / Pause — this doubles as an off switch when held
+     * Fast Forward / Skip Forward
+     * Fast Reverse / Skip Backwards
+
+   The Click Wheel has become the standard form of input for all new
+   iPods, largely because of its space-efficient design.
+   Enlarge
+   The Click Wheel has become the standard form of input for all new
+   iPods, largely because of its space-efficient design.
+
+   The other operations such as scrolling through menu items and
+   controlling the volume are handled by the scroll wheel in a rotational
+   manner, with clockwise denoting downward movement and counterclockwise
+   signaling upward movement. The first generation used a "Scroll Wheel"
+   that physically turned, with the buttons clustered around it. The
+   second generation replaced it with a "Touch Wheel" that reacts to human
+   capacitance. The third generation rearranged the buttons, but the touch
+   wheel was left in place. On the fourth generation iPods forward, and
+   all minis and nanos, the buttons are integrated directly into the
+   wheel, now called a "Click Wheel". The wheel is still used for
+   scrolling, and buttons, which must be physically pressed, control
+   playback. This innovation gives an uncluttered, minimalistic interface.
+
+   The iPod shuffle 1st and 2nd generation are the only 2 iPods without a
+   screen and consequently its five buttons function differently than the
+   larger models. It has a Play / Pause button in the centre, surrounded
+   by four buttons; two control volume while the other two control track
+   skipping.
+
+   A Hold switch on the top of all iPods prevents accidental button
+   presses. Newer iPods automatically pause playback when the headphones
+   are unplugged from the headphone jack, but playback does not resume
+   when the headphones are re-inserted. An iPod that has crashed or frozen
+   can be reset by switching 'Hold' on then off, then holding Menu and
+   Centre (Menu and Play on the 3G iPod) for 6 seconds.
+
+Software
+
+   The iPod can play MP3, AAC/ M4A, Protected AAC, AIFF, WAV, Audible
+   audiobook, and Apple Lossless audio file formats. The fifth generation
+   iPod can also play MPEG-4 ( H.264/MPEG-4 AVC), .mp4 and QuickTime video
+   formats, with restrictions on video dimensions, encoding techniques and
+   bitrates. Apple does not support Microsoft's WMA audio format — unlike
+   most other media players — but a converter for non-DRM WMA files is
+   provided with the Windows version of iTunes. MIDI and Ogg Vorbis files
+   cannot be played on the iPod, but can be converted to audio files using
+   the "Advanced" menu on iTunes. Alternative open-source audio formats
+   such as FLAC are not supported.
+
+   Each time an iPod connects to its host computer, iTunes can synchronize
+   music playlists or entire music libraries and the user can choose for
+   automatic or manual synchronization. Song ratings can be set on the
+   iPod and synchronized later to the iTunes library.
+
+iTunes Store
+
+   The iTunes Store (formerly iTunes Music Store) is an online media store
+   run by Apple and accessed via iTunes. It was introduced on 29 April
+   2003 and it sells individual songs relatively easily and cheaply, with
+   typical prices being US$0.99, EU€0.99, or GB£0.79 per song. iPods are
+   the only portable music players that can play the purchased music. TV
+   episodes and sometimes TV movies are available for $1.99, though prices
+   vary. The store became the market leader soon after its launch and
+   Apple announced the sale of videos through the iTunes Store on 12
+   October 2005. Full-length movies became available on 12 September 2006,
+   ranging in prices from US$9.99-$14.99.
+
+   Purchased audio files use the AAC format with added encryption. The
+   encryption is based on the controversial FairPlay digital rights
+   management (DRM) system. Up to five authorized computers and an
+   unlimited number of iPods can play the files. Burning the files onto an
+   audio CD removes the DRM, at a cost of reduced quality when
+   re-compressed from one lossy format to another.
+
+   iPods cannot play music files from other competing music stores such as
+   Napster or MSN Music which use rival DRM technologies like Microsoft's
+   protected WMA or RealNetworks' Helix DRM. RealNetworks claims that
+   Apple is creating problems for itself, by using FairPlay to lock users
+   into using the iTunes Store. Steve Jobs stated that Apple makes little
+   profit from song sales, but Apple uses the store to promote iPod sales.
+
+File storage
+
+   All iPods can function as mass storage devices to store data files. If
+   the iPod is formatted on a Mac OS X computer it uses the HFS Plus file
+   system format. If it is formatted on Windows, the FAT32 format is used
+   because Windows cannot access HFS filesystems. The user must use iTunes
+   or a compatible third-party software to load audio, videos, and photos
+   in such a way that they are playable and viewable on the iPod. Unlike
+   PlaysForSure-compatible and other MP3 players, simply copying files to
+   the drive will not allow the iPod to properly access them. Some third
+   party iPod software allows this however.
+
+   An iPod formatted as HFS Plus is able to serve as a boot disk for a Mac
+   computer, allowing one to have a portable operating system installed.
+   The older iPods with FireWire ports could additionally function in
+   FireWire Disk Mode. With the advent of the Windows-compatible iPod, the
+   iPod's default file system was switched from HFS Plus to FAT32,
+   although they can be reformatted to either filesystem (excluding the
+   iPod shuffle which is strictly FAT32). By default, windows-installed
+   ipods are formatted in the FAT32 file system.
+
+   iTunes cannot transfer songs or videos from device to computer
+   (although iTunes 7 allows it for music purchased online). The media
+   files are stored on the iPod in a hidden folder, together with a
+   proprietary database file. The hidden content can be accessed on the
+   host operating system by enabling hidden files to be shown. The audio
+   can then be recovered manually by dragging the files or folders onto
+   the iTunes Library or by using third-party software.
+
+Additional features
+
+   The larger models also have limited PDA-like functionality and can
+   display text files. Contacts and schedules can be viewed and
+   synchronized with the host computer, and some built-in games are
+   available including Brick, Parachute, Solitaire and Music Quiz. Brick
+   (which is a clone of Breakout) was originally invented by Apple
+   co-founder Steve Wozniak in the 1970s.
+
+   A firmware update released in September 2006 brought several new
+   features to 5th generation iPods including downloadable games,
+   adjustable screen brightness, and gapless playback.
+
+Connectivity
+
+   Originally, a FireWire connection to the host computer was used to
+   update songs or recharge the battery. The battery could also be charged
+   with a power adapter that was included with the first 4 generations.
+
+   The third generation began including a dock connector, allowing for
+   FireWire or USB connectivity. This provided better compatibility with
+   PCs, as most of them did not have FireWire ports at the time. However,
+   the device could not be charged over USB, so the FireWire cables were
+   nonetheless needed to connect to the AC adapter. The dock connector
+   also brought opportunities to exchange data, sound and power with an
+   iPod, which ultimately created a large market of accessories,
+   manufactured by third parties such as Belkin and Griffin. The 2nd
+   generation iPod shuffle uses a single 3.5 mm jack which acts as both a
+   headphone jack and a data port for the dock.
+
+   The fourth generation iPod allowed recharging via USB and eventually
+   Apple began shipping iPods with a USB to Dock connector cable instead
+   of a FireWire cable. A FireWire cable was available separately from
+   Apple however. The fourth generation iPod could use either FireWire 400
+   or USB 2.0.
+
+   As of the 5th generation iPod, Apple has discontinued using FireWire
+   for information transfers preferring USB 2.0 due to the broader
+   popularity of the port over FireWire; this change was greatly eased by
+   the similar transfer rates between the two types of connection.
+   However, FireWire is still supported for charging the iPod, and Apple
+   offers FireWire cables for purchase.
+
+Chipsets and electronics
+
+   CAPTION: Some electronic components used in iPods
+
+   Model Storage medium Microcontroller Audio chip
+   iPod 1G, 2G, 3G 1.8 inch, 4200rpm (46 mm) ATA hard drives (with
+   proprietary connectors), made by Toshiba Two ARM 7TDMI-derived CPUs
+   running at 90 MHz. Various audio codecs manufactured by Wolfson
+   Microelectronics
+   iPod 4G, 5G Variable speed ARM 7TDMI CPUs, running at a peak of 80 MHz
+   to save battery life.
+   iPod mini 1G, 2G 1 inch Microdrives manufactured by Hitachi
+   iPod nano 1G Flash memory from Samsung, Toshiba and others 2 ARM 7TDMI
+   CPUs @ 80 MHz
+   iPod nano 2G Samsung System-On-Chip, based around an ARM processor
+   iPod shuffle Flash memory SigmaTel STMP3550 chip that handles both the
+   music decoding and the audio circuitry.
+
+   The iPod's operating system is stored on its dedicated storage medium.
+   An additional NOR flash ROM chip (either 1 MB or 512 kB) contains a
+   bootloader program that tells the device to load its OS from the
+   storage medium. Each iPod also has 32 MB of RAM, although the 60 and 80
+   GB fifth generation have 64 MB. A portion of the RAM is used to hold
+   the iPod OS loaded from firmware, but the majority of it serves to
+   cache songs from the storage medium. For example, an iPod could spin
+   its hard disk up once and copy about 30 MB of upcoming songs into RAM,
+   thus saving power by not requiring the drive to spin up for each song.
+
+   The current iPod models use internal lithium-ion batteries. The first
+   and second generations used lithium polymer batteries. The larger
+   models use touch wheels provided by Synaptics.
+
+   On 26 April 2006, EE Times reported that Samsung had won the contract
+   to provide the media processor for a future model iPod, replacing
+   Apple's previous design supplier PortalPlayer.
+
+iPod models
+
+   Model (and generation) Image Capacity Changes introduced Connection
+   Original release date Launch price (US$)
+   iPod 1G iPod 1G 5, 10 GB First release. The mechanical scroll wheel
+   physically turned. FireWire 23 October 2001 $399, $499
+   2G iPod 2G 10, 20 GB Touch sensitive wheel. The FireWire port had a
+   cover. FireWire 17 July 2002 $399, $499
+   3G iPod 3G 10, 15, 20, 30, 40 GB Dock Connector port introduced; this
+   became the standard for all future iPods. Central row of touch
+   sensitive buttons. FireWire (USB for syncing only) 28 April 2003 $299,
+   $399, $399, $499
+   4G / photo iPod 4G 20, 30, 40, 60 GB Buttons integrated to "Click
+   Wheel". Colour display with photo viewer introduced in October 2004 and
+   replaced the monochrome model in June 2005. FireWire or USB July 2004
+   $299, $349, $399, $599
+   5G iPod 5G 30, 60, 80 GB Slimmer design. Larger screen with video
+   player and lyrics support. Introduced in white and for first time,
+   black. No AC adapter, Universal Dock, or A/V cables included.
+
+   The September 2006 revision featured a brighter display, longer video
+   battery life, and a music search function. The 80GB model was
+   introduced to replace the 60GB model, which was discontinued.
+   USB (FireWire for charging only) 12 October 2005 $299, $399 (later
+   $249, $349)
+   iPod mini 1G iPod Mini 1G 4 GB First release. Available in 5 colors.
+   USB or FireWire 6 January 2004 $249
+   2G 4, 6 GB Brighter color variants with longer battery life. Click
+   Wheel lettering matched body color. No AC adapter. . Gold colour
+   discontinued. USB or FireWire 22 February 2005 $199, $249
+   iPod nano 1G 1G iPod nano 1, 2, 4 GB First release. Successor to the
+   iPod mini. Slimmer design with flash memory, colour screen and lyrics
+   support. USB (FireWire for charging only) 7 September 2005 $149, $199,
+   $249
+   2G 8GB black iPod nano. 2, 4, 8 GB Anodized aluminium case in 6 colors.
+   Brighter screen and longer battery life. USB 12 September 2006 $149,
+   $199 $249
+   iPod shuffle 1G 1G iPod shuffle 512 MB, 1 GB First release. The iPod
+   without a screen or wheel-like input. USB 11 January 2005 $99, $149
+   (later $69, $99)
+   2G 2G iPod Shuffle 1 GB Aluminium case with smaller form factor., plus
+   built-in clip. USB (via dock only) October 2006 $79
+   Timeline of iPod model releases
+
+   Each new generation usually has more features and refinements whilst
+   typically being smaller and lighter than its predecessor. Notable
+   changes include the touch sensitive wheel replacing the mechanical
+   scroll wheel, colour displays, and flash memory replacing hard disks.
+   Discontinued models include four generations of the full-sized iPod,
+   two generations of the iPod mini and the first generations of the nano
+   and shuffle. More information about all released iPods is available on
+   Apple's website.
+
+   The first generation iPods were Mac compatible only. Apple later added
+   limited Windows support and at this time, Windows users required
+   third-party software such as Musicmatch Jukebox, ephPod or XPlay to
+   manage their music. Musicmatch was included on the bundled CD. From
+   July 2004 and onwards, every iPod was made fully compatible with either
+   Mac or Windows, after Apple released the Windows version of iTunes on
+   16 October 2003.
+
+Special edition and colour variants
+
+   In December 2002, Apple unveiled its first limited edition iPods, with
+   either Madonna’s, Tony Hawk’s, or Beck’s signature or No Doubt's band
+   logo engraved on the back for an extra US$49.
+
+   On 26 October 2004, Apple introduced a special edition of its fourth
+   generation monochrome iPod, designed in the colour scheme of the latest
+   album ( How to Dismantle an Atomic Bomb) by Irish rock band U2. It had
+   a black case with a red scroll wheel and the back had the engraved
+   signatures of U2's band members. This iPod was updated alongside the
+   iPod photo and fifth generation iPod.
+
+   On 13 October 2006, Apple released a special edition red 4 GB iPod nano
+   as part of the (PRODUCT)^RED campaign. Three weeks later, an 8 GB
+   version was released and both of them sold for the same price as the
+   standard colour models. US$10 from each sale is donated to the Global
+   Fund to fight AIDS.
+
+   Apple has also released Special Edition Harry Potter iPods. These were
+   engraved with the Hogwarts Crest on the back and were available only to
+   purchasers of the Harry Potter audiobooks. They first appeared with the
+   iPod photo (late fourth generation), and then were updated with the
+   fifth generation iPod. They have since been discontinued.
+
+   The first generation iPod nano and fifth generation iPod were released
+   in black and white variants. The second generation iPod nano inherited
+   some of its case design from the mini.
+
+Criticisms
+
+Battery life advertising
+
+   Apple stated that the original fifth generation 60 GB and 30 GB iPods
+   had battery lives of "up to 20 hours" and "up to 14 hours" music
+   playback respectively, when used on controlled and limited tests. For
+   real-world use, many users report battery lives of less than 8 hours
+   with the 30 GB video iPod.
+
+   In 2003, class action lawsuits were brought against Apple complaining
+   that the battery charges lasted for shorter lengths of time than stated
+   and that the battery degraded over time. The lawsuits were settled by
+   offering individuals either $50 store credit or a free battery
+   replacement.
+
+   Apple later complained that its competitor, Sony, had misled consumers
+   in its advertising for Sony's music player. Apple complained that Sony
+   had not considered real-world usage.
+
+Non-replaceable battery
+
+   The battery in all iPods is not designed to be removed or replaced by
+   the user, although some users have been able to pry the case open to
+   replace the battery, as some online stores sell them. Compounding this
+   problem, Apple initially would not replace worn-out batteries. The
+   official policy was that the customer should buy a refurbished
+   replacement iPod, at a cost almost equivalent to a brand new one. All
+   lithium-ion batteries eventually lose capacity during their lifetime
+   (guidelines are available for prolonging life-span) and this situation
+   led to a small market for third-party battery replacement kits.
+
+   Apple announced a battery replacement program on 14 November 2003, a
+   week before a high publicity stunt and website by the Neistat Brothers.
+   The initial cost was US$99, but it was lowered to US$59 in 2005. One
+   week later Apple offered an extended iPod warranty for US$59.
+   Third-party companies offer cheaper battery replacement kits that often
+   use higher capacity batteries. For the iPod nano, soldering tools are
+   needed because the battery is soldered onto the main board. On the
+   fifth generation iPod, the battery is held onto the backplate with
+   adhesive.
+
+Bass response
+
+   The third generation iPod had a weak bass response, as shown in audio
+   tests. The combination of the undersized DC blocking capacitors and the
+   typical low impedance of most consumer headphones form a high-pass
+   filter which attenuates the low-frequency bass output by up to 10 dB.
+   Similar capacitors were used in the fourth generation iPods. The
+   problem is reduced when using high impedance headphones and completely
+   masked when driving high-impedance (line level) loads. The first
+   generation iPod shuffle uses a dual transistor output stage rather than
+   a single capacitor-coupled output, and thus does not exhibit reduced
+   bass response for any load.
+
+Equalizer
+
+   If the sound is enhanced with the iPod's software equalizer (EQ), some
+   EQ settings — like R&B, Rock, Acoustic, and Bass Booster — can cause
+   bass distortion too easily.
+
+   The equalizer amplifies the digital audio level beyond the software's
+   limit, causing distortion ( clipping) on songs that have a bass drum or
+   use a bassy instrument, even when the amplifier level is low. Notable
+   song examples include Bob Sinclar's Love Generation and Jem's Wish I.
+   One possible workaround is to reduce the volume level of the recorded
+   MP3 by modifying each audio file. However, this cannot be done with
+   DRM-encrypted music, and different tools are needed for each different
+   file format.
+
+Reliability, quality control
+
+   According to a 2005 survey conducted on the MacInTouch website, the
+   iPod's reliability has generally improved for each new generation,
+   although Apple reported that between September and October 2006, a
+   minority of 5th generation iPods carried a virus called RavMonE.exe.
+   The virus affects Windows operating systems and can be cleaned using
+   anti-virus programs and with instructions from Apple's website.
+
+   The surface of the 1st generation iPod nano and of the 5th generation
+   iPod can become scratched easily. Many users complained and a class
+   action lawsuit was filed. Apple initially considered the issue a minor
+   defect, but later began shipping these iPods with protective sleeves.
+   Several products are available to remove the scratches, such as
+   iCleaner, AppleSauce, and the metal polish Brasso.
+
+   iPods, like all portable music players, may be a potential cause of
+   hearing loss when used for prolonged periods with the included
+   earphones. In early 2006 a Louisiana man sued Apple claiming that the
+   company failed to inform the public that there was a risk, if iPods
+   were listened to for a long time at high volumes. To respond to this
+   Apple introduced a volume limit option for 5th generation iPods and
+   nanos, and shuffles (however shuffles must be configured in iTunes).
+
+Worker exploitation
+
+   On 11 June 2006, a British newspaper Mail on Sunday reported that iPods
+   are mainly manufactured by workers who earn no more than US$50 per
+   month and work 15-hour shifts. The report stated that the five-story
+   Longhua factory — owned by Foxconn — houses 200,000 workers, with most
+   of them living in dormitories that house 100 people. The report also
+   claimed that visitors were not allowed and that the plant is secured by
+   police officers. These allegations were denied by Foxconn. Apple
+   acknowledged that worker hours were "excessive" and said its supplier
+   would now be enforcing a "normal" 60-hour week.
+
+Patent disputes
+
+   In 2005, Apple Computer faced two lawsuits claiming patent infringement
+   by the iPod and its associated technologies: Advanced Audio Devices
+   claimed the iPod breached their patent on a "music jukebox", while a
+   Hong Kong-based IP portfolio company called Pat-rights filed a suit
+   claiming that Apple's FairPlay technology breached a patent issued to
+   inventor Ho Keung Tse. The latter case also includes the online music
+   stores of Sony, RealNetworks, Napster, and Musicmatch as defendants.
+
+   Apple's application to the United States Patent and Trademark Office
+   for a patent on "rotational user inputs", as used on the iPod's
+   interface, received a third "non-final rejection" (NFR) in August 2005.
+   Also in August 2005, Creative Technology, one of Apple's main rivals in
+   the MP3 player market, announced that it held a patent on part of the
+   music selection interface used by the iPod, which Creative dubbed the
+   "Zen Patent", granted on 9 August 2005. On 15 May 2006, Creative filed
+   another suit against Apple for patent infringement with the United
+   States District Court for the Northern District of California. Creative
+   also asked the United States International Trade Commission to
+   investigate whether Apple was breaching U.S. trade laws by importing
+   iPods into the United States.
+
+   On 24 August 2006, Apple and Creative announced a broad settlement to
+   end their legal disputes. Apple will pay Creative US$100 million for a
+   paid-up license to use Creative's recently awarded patent in all Apple
+   products. Creative announced their intention to produce iPod
+   accessories by joining the Made for iPod program. Apple also said they
+   can recoup part of its payment if Creative is successful in licensing
+   this patent.
+
+Sales
+
+   Since October 2004, the iPod has dominated digital music player sales
+   in the United States, with over 90% of the market for hard drive-based
+   players and over 70% of the market for all types of players. During the
+   year from January 2004 to January 2005, its high rate of sales caused
+   its U.S. market share to increase from 31% to 65% and in July 2005, the
+   market share was measured at 74%. The release of the iPod mini helped
+   to ensure this success at a time when competing flash-based music
+   players were once dominant.
+
+   In its first quarter results of 2006, Apple reported earnings of US$565
+   million — its highest quarterly revenue in the company's history,
+   although how much of this was attributed to iPod sales is unknown.
+   Apple and several industry analysts have suggested that iPod users are
+   likely to purchase other Apple products such as Mac computers.
+
+   On 8 January 2004, Hewlett-Packard (HP) announced that they would sell
+   HP-branded iPods under a license agreement from Apple. Several new
+   retail channels were used — including Wal-Mart — and HP-branded iPods
+   eventually made up 5% of all iPod sales. In July 2005, HP stopped
+   selling iPods due to unfavorable terms and conditions imposed by Apple.
+
+   iPod sales according to Apple's quarterly financial results from 2002
+   Q1 to the most recent data available, 2006 Q4. Sales figure below are
+   not forecast sales. The fourth Apple Fiscal Quarter ends in September,
+   not December; that quarter is the first of the next year. Although
+   Apple now includes the number of iPods sold in the regular press
+   release concerning quarterly earnings, they did not always do so in the
+   early days of the iPod.
+   iPod quarterly sales.
+   Enlarge
+   iPod quarterly sales.
+   Fiscal quarter iPods sold
+   2002 Q1        125,000
+   2002 Q2        57,000
+   2002 Q3        54,000
+   2002 Q4        140,000
+   2003 Q1        219,000
+   2003 Q2        78,000
+   2003 Q3        304,000
+   2003 Q4        336,000
+   2004 Q1        733,000
+   2004 Q2        807,000
+   2004 Q3        860,000
+   2004 Q4        2,016,000
+   2005 Q1        4,580,000
+   2005 Q2        5,311,000
+   2005 Q3        6,155,000
+   2005 Q4        6,451,000
+   2006 Q1        14,043,000
+   2006 Q2        8,526,000
+   2006 Q3        8,111,000
+   2006 Q4        8,729,000
+       Total      67,642,000
+
+Advertising
+
+   iPod Lightrail Wrap Advertising, Minneapolis, Minnesota.
+   Enlarge
+   iPod Lightrail Wrap Advertising, Minneapolis, Minnesota.
+   An iPod billboard in midtown Toronto, Ontario.
+   Enlarge
+   An iPod billboard in midtown Toronto, Ontario.
+
+   Apple has promoted the iPod and iTunes with several advertising
+   campaigns, particularly with their silhouette commercials used both in
+   print and on TV. These commercials feature people as dark silhouettes,
+   dancing to music against bright-colored backgrounds. The silhouettes
+   hold their iPods which are shown in distinctive white.
+
+   The TV adverts have used a variety of songs from both mainstream and
+   relatively unknown artists, whilst some commercials have featured
+   silhouettes of specific artists including Bob Dylan, U2, Eminem,
+   Caesars and Wynton Marsalis. Successive TV commercials have also used
+   increasingly complex animation. Newer techniques included using
+   textured backgrounds, 3D arenas, photo-realistic lighting on the
+   silhouette characters, and using luminescent light trails made by
+   moving iPods .
+
+Earphones
+
+   The iPod's white earphone cords have become symbolic of the brand, and
+   advertisements feature them prominently. In fact, the earphones have
+   such strong visual recognition characteristics that some have said they
+   can be a liability. After a 24% rise in robbery and a in grand larceny
+   in the New York City subway, a spokesperson for the NYC police
+   suggested that iPods might be behind the increases.
+
+Accessories
+
+   Several companies produce accessories that are designed for iPods. This
+   market is sometimes described as the iPod ecosystem.
+
+   Some accessories add extra features that other music players have, such
+   as sound recorders, FM radio tuners, wired remote controls, music
+   transfer devices and audio/visual cables for TV connections. Other
+   accessories offer more unique features like the Nike + iPod pedometer
+   and the iPod Camera Connector. Other popular accessories include
+   external speakers, wireless remote controls and protective cases/films
+   that help prevent surface scratches and even wireless earphones.
+   Notable manufacturers and resellers include Griffin, Belkin, JBL, Bose,
+   Monster Cable and Apple.
+
+Car integration
+
+   BMW released the first iPod automobile interface that allowed drivers
+   of newer BMW vehicles to control their iPod using the built-in steering
+   wheel controls or the radio head unit buttons. Apple announced in 2005
+   that similar systems would be available for additional vehicle brands,
+   including Mercedes-Benz, Volvo, Nissan, Alfa Romeo, Ferrari, Acura,
+   Audi, Honda (with speech recognition), Renault and Volkswagen.
+
+   Some independent stereo manufacturers including JVC, Pioneer, Kenwood,
+   Alpine and Harman Kardon also have iPod-specific integration solutions.
+   Alternative connection methods include using adaptor kits (via the
+   cassette deck or the CD changer port), RCA inputs, or FM transmitters
+   such as the iTrip, although personal FM transmitters are illegal in
+   some countries.
+
+Airliner integration
+
+   In mid-2007, six airlines ( Continental, Delta, Emirates, Air France-
+   KLM, and United) will begin offering their passengers iPod seat
+   connections which power and charge iPods during flight and allow the
+   video content on their iPods to be viewed on seat back displays,
+   integrating seamlessly with the airlines' In-flight Entertainment (IFE)
+   system. This will also enable the IFE system to play music, television
+   shows, or movies stored on the iPod, as well as function as a control
+   system. In October 2006, Apple also began selling a $59 MagSafe Airline
+   Power Adapter that plugs into an airline seat power port, allowing its
+   MacBook or MacBook Pro notebooks (portable computers) to maintain power
+   for the full duration of a flight.
+
+   Retrieved from " http://en.wikipedia.org/wiki/IPod"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

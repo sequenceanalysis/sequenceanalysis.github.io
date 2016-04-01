@@ -1,0 +1,800 @@
+   #copyright
+
+Manifold
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   On a sphere, the sum of the angles of a triangle is not equal to 180°.
+   A sphere is not a Euclidean space, but locally the laws of the
+   Euclidean geometry are good approximations. In a small triangle on the
+   face of the earth, the sum of the angles is very nearly 180°. A sphere
+   can be represented by a collection of two dimensional maps, therefore a
+   sphere is a manifold.
+   Enlarge
+   On a sphere, the sum of the angles of a triangle is not equal to 180°.
+   A sphere is not a Euclidean space, but locally the laws of the
+   Euclidean geometry are good approximations. In a small triangle on the
+   face of the earth, the sum of the angles is very nearly 180°. A sphere
+   can be represented by a collection of two dimensional maps, therefore a
+   sphere is a manifold.
+
+   A manifold is an abstract mathematical space in which every point has a
+   neighbourhood which resembles Euclidean space, but in which the global
+   structure may be more complicated. In discussing manifolds, the idea of
+   dimension is important. For example, lines are one-dimensional, and
+   planes two-dimensional.
+
+   In a one-dimensional manifold (or one-manifold), every point has a
+   neighbourhood that looks like a segment of a line. Examples of
+   one-manifolds include a line, a circle, and two separate circles. In a
+   two-manifold, every point has a neighbourhood that looks like a disk.
+   Examples include a plane, the surface of a sphere, and the surface of a
+   torus.
+
+   Manifolds are important objects in mathematics and physics because they
+   allow more complicated structures to be expressed and understood in
+   terms of the relatively well-understood properties of simpler spaces.
+
+   Additional structures are often defined on manifolds. Examples of
+   manifolds with additional structure include differentiable manifolds on
+   which one can do calculus, Riemannian manifolds on which distances and
+   angles can be defined, symplectic manifolds which serve as the phase
+   space in classical mechanics, and the four-dimensional
+   pseudo-Riemannian manifolds which model space-time in general
+   relativity.
+
+   A technical mathematical definition of a manifold is given below. To
+   fully understand the mathematics behind manifolds, it is necessary to
+   know elementary concepts regarding sets and functions, and helpful to
+   have a working knowledge of calculus and topology.
+
+Motivational examples
+
+Circle
+
+   Figure 1: The four charts each map part of the circle to an open
+   interval, and together cover the whole circle. The origin is understood
+   to be at the center of the circle.
+   Enlarge
+   Figure 1: The four charts each map part of the circle to an open
+   interval, and together cover the whole circle. The origin is understood
+   to be at the centre of the circle.
+
+   The circle is the simplest example of a topological manifold after a
+   line. Topology ignores bending, so a small piece of a circle is exactly
+   the same as a small piece of a line. Consider, for instance, the top
+   half of the unit circle, x^2 + y^2 = 1, where the y-coordinate is
+   positive (indicated by the yellow arc in Figure 1). Any point of this
+   semicircle can be uniquely described by its x-coordinate. So, by
+   projecting onto the first coordinate, one obtains a continuous mapping
+   between the semicircle and the open interval (−1, 1):
+
+          \chi_{\mathrm{top}}(x,y) = x. \,
+
+   Such a function is called a chart. Similarly, there are charts for the
+   bottom (red), left (blue), and right (green) parts of the circle.
+   Together, these parts cover the whole circle and the four charts form
+   an atlas for the circle.
+
+   The top and right charts overlap: their intersection lies in the
+   quarter of the circle where both the x- and the y-coordinates are
+   positive. The two charts χ[top] and χ[right] each map this part
+   bijectively to the interval (0, 1). Thus a function T from (0, 1) to
+   itself can be constructed, which first inverts the yellow chart to
+   reach the circle and then follows the green chart back to the interval.
+   Let a be any number in (0, 1), then:
+
+          T(a) =
+          \chi_{\mathrm{right}}\left(\chi_{\mathrm{top}}^{-1}(a)\right) =
+          \chi_{\mathrm{right}}\left(a, \sqrt{1-a^2}\right) =
+          \sqrt{1-a^2}.
+
+   Such a function is called a transition map.
+   Figure 2: A circle manifold chart based on slope, covering all but one
+   point of the circle.
+   Enlarge
+   Figure 2: A circle manifold chart based on slope, covering all but one
+   point of the circle.
+
+   The top, bottom, left, and right charts show that the circle is a
+   manifold, but they do not form the only possible atlas. Charts need not
+   be geometric projections, and the number of charts is a matter of some
+   choice. Consider the charts
+
+          \chi_{\mathrm{minus}}(x,y) = s = {y\over{1+x}}
+
+   and
+
+          \chi_{\mathrm{plus}}(x,y) = t = {y\over{1-x}}.
+
+   Here s is the slope of the line through the point at coordinates (x,y)
+   and the fixed pivot point (−1,0); t is the mirror image, with pivot
+   point (+1,0). The inverse mapping from s to (x,y) is given by
+
+          x = {{1-s^2}\over{1+s^2}},\qquad y = {{2s}\over{1+s^2}};
+
+   it can easily be confirmed that x^2+y^2 = 1 for all values of the slope
+   s. These two charts provide a second atlas for the circle, with
+
+          t = {1\over s}.
+
+   Each chart omits a single point, either (−1,0) for s or (+1,0) for t,
+   so neither chart alone is sufficient to cover the whole circle. It is
+   not possible to cover the full circle with a single chart, since the
+   circle is doubly connected and the line is only simply connected. Note
+   that it is possible to construct a circle by "gluing" together a single
+   piece of the line; this does not produce a chart, since a portion of
+   the circle will be mapped to both "glued" regions at once.
+
+Other curves
+
+   Four manifolds from algebraic curves: ■ circles, ■ parabola,
+   ■ hyperbola, ■ cubic.
+   Enlarge
+   Four manifolds from algebraic curves: ■ circles, ■ parabola,
+   ■ hyperbola, ■ cubic.
+
+   Manifolds need not be connected (all in "one piece"); thus a pair of
+   separate circles is also a manifold. They need not be closed; thus a
+   line segment without its ends is a manifold. And they need not be
+   finite; thus a parabola is a manifold. Putting these freedoms together,
+   two other example manifolds are a hyperbola (two open, infinite pieces)
+   and the locus of points on the cubic curve y^2 = x^3−x (a closed loop
+   piece and an open, infinite piece).
+
+   However, we exclude examples like two touching circles that share a
+   point to form a figure-8; at the shared point we cannot create a
+   satisfactory chart. Even with the bending allowed by topology, the
+   vicinity of the shared point looks like a "+", not a line.
+
+Enriched circle
+
+   Viewed using calculus, the circle transition function T is simply a
+   function between open intervals, which gives a meaning to the statement
+   that T is differentiable. The transition map T, and all the others, are
+   differentiable on (0, 1); therefore, with this atlas the circle is a
+   differentiable manifold. It is also smooth and analytic because the
+   transition functions have these properties as well.
+
+   Other circle properties allow it to meet the requirements of more
+   specialized types of manifold. For example, the circle has a notion of
+   distance between two points, the arc-length between the points; hence
+   it is a Riemannian manifold.
+
+History
+
+   The study of manifolds combines many important areas of mathematics: it
+   generalizes concepts such as curves and surfaces as well as ideas from
+   linear algebra and topology. Certain special classes of manifolds also
+   have additional algebraic structure; they may behave like groups, for
+   instance.
+
+Prehistory
+
+   Before the modern concept of a manifold there were several important
+   results.
+
+   Carl Friedrich Gauss may have been the first to consider abstract
+   spaces as mathematical objects in their own right. His theorema
+   egregium gives a method for computing the curvature of a surface
+   without considering the ambient space in which the surface lies. Such a
+   surface would, in modern terminology, be called a manifold; and in
+   modern terms, the theorem proved that the curvature of the surface is
+   an intrinsic property. Manifold theory has come to focus exclusively on
+   these intrinsic properties (or invariants), while largely ignoring the
+   extrinsic properties of the ambient space.
+
+   Another, more topological example of an intrinsic property of a
+   manifold is the Euler characteristic. For a non-intersecting graph in
+   Euclidean 2-dimensional space, with V vertices (or corners), E edges
+   and F faces (counting the exterior) Euler showed that V-E+F= 2. Thus 2
+   is called the Euler characteristic of Euclidean 2-dimensional space. By
+   contrast, the Euler characteristic of the torus is 0, since the
+   complete graph on seven points can be embedded into the torus. The
+   Euler characteristic of other 2-dimensional spaces is a useful
+   topological invariant, which can be extended to higher dimensions using
+   Betti numbers.
+
+   Non-Euclidean geometry considers spaces where Euclid's parallel
+   postulate fails. Saccheri first studied them in 1733. Lobachevsky,
+   Bolyai, and Riemann developed them 100 years later. Their research
+   uncovered two types of spaces whose geometric structures differ from
+   that of classical Euclidean space; these gave rise to hyperbolic
+   geometry and elliptic geometry. In the modern theory of manifolds,
+   these notions correspond to manifolds with constant negative and
+   positive curvature, respectively.
+
+Synthesis
+
+   Bernhard Riemann was the first to do extensive work generalizing the
+   idea of a surface to higher dimensions. The name manifold comes from
+   Riemann's original German term, Mannigfaltigkeit, which William Kingdon
+   Clifford translated as "manifoldness". In his Göttingen inaugural
+   lecture, Riemann described the set of all possible values of a variable
+   with certain constraints as a Mannigfaltigkeit, because the variable
+   can have many values. He distinguishes between stetige Mannigfaltigkeit
+   and diskrete Mannigfaltigkeit (continuous manifoldness and
+   discontinuous manifoldness), depending on whether the value changes
+   continuously or not. As continuous examples, Riemann refers to not only
+   colors and the locations of objects in space, but also the possible
+   shapes of a spatial figure. Using induction, Riemann constructs an
+   n-fach ausgedehnte Mannigfaltigkeit (n times extended manifoldness or
+   n-dimensional manifoldness) as a continuous stack of (n−1) dimensional
+   manifoldnesses. Riemann's intuitive notion of a Mannigfaltigkeit
+   evolved into what is today formalized as a manifold. Riemannian
+   manifolds and Riemann surfaces are named after Bernhard Riemann.
+
+   In the study of complex variables, the process of analytic continuation
+   leads to the construction of manifolds.
+
+   Abelian varieties were already implicitly known in Riemann's time as
+   complex manifolds. Lagrangian mechanics and Hamiltonian mechanics, when
+   considered geometrically, are also naturally manifold theories. All
+   these use the notion of several characteristic axes or dimensions
+   (known as generalized coordinates in the latter two cases), but these
+   dimensions do not lie along the physical dimensions of width, height,
+   and breadth.
+
+   Henri Poincaré studied three-dimensional manifolds and raised a
+   question, today known as the Poincaré conjecture. As of 2006, a
+   consensus among experts is that recent work by Grigori Perelman may
+   have answered this question, after nearly a century of effort by many
+   mathematicians.
+
+   Hermann Weyl gave an intrinsic definition for differentiable manifolds
+   in 1912. During the 1930s Hassler Whitney and others clarified the
+   foundational aspects of the subject, and thus intuitions dating back to
+   the latter half of the 19th century became precise, and developed
+   through differential geometry and Lie group theory.
+
+Mathematical definition
+
+   In topology, an n-manifold is a second countable Hausdorff space in
+   which every point has a neighbourhood homeomorphic to an open Euclidean
+   n-ball,
+
+          \mathbf{B}^n = \{ (x_1, x_2, ..., x_n) | x_1^2 + x_2^2 + ... +
+          x_n^2 < 1 \}.
+
+   Unless otherwise stated, a manifold is an n-manifold for some positive
+   integer n, perhaps with additional structure. However, some authors
+   admit manifolds which are not n-manifolds, in the sense that they allow
+   different connected components to have different topological dimension.
+
+   The second countable condition excludes spaces such as the long line.
+   The Hausdorff condition avoids spaces such as the one formed by
+   identifying two real lines at every point except the origin:
+
+          R × {a} and R × {b}
+
+   with the equivalence relation
+
+          (x,a) \sim (x,b)\; if \,x \neq 0\;
+
+   which has a single point for each nonzero real number r plus two points
+   0[a] and 0[b]. In this space all neighbourhoods of 0[a] intersect all
+   neighbourhoods of 0[b].
+
+   There are many different kinds of manifold. All manifolds are
+   topological manifolds, which locally have the topology of some
+   Euclidean space. If there is additional structure, the structure on
+   each map must be consistent with the overlapping maps. Differentiable
+   manifolds have homeomorphisms on overlapping neighborhoods
+   diffeomorphic with each other, so that the manifold has a well-defined
+   set of functions which are differentiable in each neighbourhood, and so
+   differentiable on the manifold as a whole.
+
+Charts, atlases, and transition maps
+
+   The spherical Earth is navigated using flat maps or charts, collected
+   in an atlas. Similarly, a differentiable manifold can be described
+   using mathematical maps, called coordinate charts, collected in a
+   mathematical atlas. It is not generally possible to describe a manifold
+   with just one chart, because the global structure of the manifold is
+   different from the simple structure of the charts. For example, no
+   single flat map can properly represent the entire Earth. When a
+   manifold is constructed from multiple overlapping charts, the regions
+   where they overlap carry information essential to understanding the
+   global structure.
+
+Charts
+
+   A coordinate map, a coordinate chart, or simply a chart, of a manifold
+   is an invertible map between a subset of the manifold and a simple
+   space such that both the map and its inverse preserve the desired
+   structure. For a topological manifold, the simple space is some
+   Euclidean space R^n and interest focuses on the topological structure.
+   This structure is preserved by homeomorphisms, invertible maps that are
+   continuous in both directions.
+
+   In the case of a differentiable manifold, a set of charts called an
+   atlas allows us to do calculus on manifolds. Polar coordinates, for
+   example, form a chart for the plane R² minus the positive x-axis and
+   the origin. Another example of a chart is the map χ[top] mentioned in
+   the section above, a chart for the circle.
+
+Atlases
+
+   The description of most manifolds requires more than one chart (a
+   single chart is adequate for only the simplest manifolds). A specific
+   collection of charts which covers a manifold is called an atlas. An
+   atlas is not unique as all manifolds can be covered multiple ways using
+   different combinations of charts.
+
+   The atlas containing all possible charts consistent with a given atlas
+   is called the maximal atlas. Unlike an ordinary atlas, the maximal
+   atlas of a given atlas is unique. Though it is useful for definitions,
+   it is a very abstract object and not used directly (e.g. in
+   calculations).
+
+Transition maps
+
+   Charts in an atlas may overlap and a single point of a manifold may be
+   represented in several charts. If two charts overlap, parts of them
+   represent the same region of the manifold, just as a map of Europe and
+   a map of Asia may both contain Moscow. Given two overlapping charts, a
+   transition function can be defined which goes from an open ball in R^n
+   to the manifold and then back to another (or perhaps the same) open
+   ball in R^n. The resultant map, like the map T in the circle example
+   above, is called a change of coordinates, a coordinate transformation,
+   a transition function, or a transition map.
+
+Additional structure
+
+   An atlas can also be used to define additional structure on the
+   manifold. The structure is first defined on each chart separately. If
+   all the transition maps are compatible with this structure, the
+   structure transfers to the manifold.
+
+   This is the standard way differentiable manifolds are defined. If the
+   transition functions of an atlas for a topological manifold preserve
+   the natural differential structure of R^n (that is, if they are
+   diffeomorphisms), the differential structure transfers to the manifold
+   and turns it into a differentiable manifold.
+
+   In general the structure on the manifold depends on the atlas, but
+   sometimes different atlases give rise to the same structure. Such
+   atlases are called compatible.
+
+Construction
+
+   A single manifold can be constructed in different ways, each stressing
+   a different aspect of the manifold, thereby leading to a slightly
+   different viewpoint.
+
+Charts
+
+   The chart maps the part of the sphere with positive z coordinate to a
+   disc.
+   Enlarge
+   The chart maps the part of the sphere with positive z coordinate to a
+   disc.
+
+   Perhaps the simplest way to construct a manifold is the one used in the
+   example above of the circle. First, a subset of R² is identified, and
+   then an atlas covering this subset is constructed. The concept of
+   manifold grew historically from constructions like this. Here is
+   another example, applying this method to the construction of a sphere:
+
+Sphere with charts
+
+   A sphere can be treated in almost the same way as the circle. In
+   mathematics a sphere is just the surface (not the solid interior),
+   which can be defined as a subset of R³:
+
+          S = \{ (x,y,z) \in \mathbf{R}^3 | x^2 + y^2 + z^2 = 1 \}.
+
+   The sphere is two-dimensional, so each chart will map part of the
+   sphere to an open subset of R^2. Consider the northern hemisphere,
+   which is the part with positive z coordinate (coloured red in the
+   picture on the right). The function χ defined by
+
+          χ(x,y,z) = (x,y),
+
+   maps the northern hemisphere to the open unit disc by projecting it on
+   the (x, y) plane. A similar chart exists for the southern hemisphere.
+   Together with two charts projecting on the (x, z) plane and two charts
+   projecting on the (y, z) plane, an atlas of six charts is obtained
+   which covers the entire sphere.
+
+   This can be easily generalized to higher-dimensional spheres.
+
+Patchwork
+
+   A manifold can be constructed by gluing together pieces in a consistent
+   manner, making them into overlapping charts. This construction is
+   possible for any manifold and hence it is often used as a
+   characterisation, especially for differentiable and Riemannian
+   manifolds. It focuses on an atlas, as the patches naturally provide
+   charts, and since there is no exterior space involved it leads to an
+   intrinsic view of the manifold.
+
+   The manifold is constructed by specifying an atlas, which is itself
+   defined by transition maps. A point of the manifold is therefore an
+   equivalence class of points which are mapped to each other by
+   transition maps. Charts map equivalence classes to points of a single
+   patch. There are usually strong demands on the consistency of the
+   transition maps. For topological manifolds they are required to be
+   homeomorphisms; if they are also diffeomorphisms, the resulting
+   manifold is a differentiable manifold.
+
+   This can be illustrated with the transition map t = ^1⁄[s] from the
+   second half of the circle example. Start with two copies of the line.
+   Use the coordinate s for the first copy, and t for the second copy.
+   Now, glue both copies together by identifying the point t on the second
+   copy with the point ^1⁄[s] on the first copy (the point t = 0 is not
+   identified with any point on the first copy). This gives a circle.
+
+Intrinsic and extrinsic view
+
+   The first construction and this construction are very similar, but they
+   represent rather different points of view. In the first construction,
+   the manifold is seen as embedded in some Euclidean space. This is the
+   extrinsic view. When a manifold is viewed in this way, it is easy to
+   use intuition from Euclidean spaces to define additional structure. For
+   example, in a Euclidean space it is always clear whether a vector at
+   some point is tangential or normal to some surface through that point.
+
+   The patchwork construction does not use any embedding, but simply views
+   the manifold as a topological space by itself. This abstract point of
+   view is called the intrinsic view. It can make it harder to imagine
+   what a tangent vector might be.
+
+n-Sphere as a patchwork
+
+   The n-sphere S^n is a generalisation of the idea of a circle (1-sphere)
+   and sphere (2-sphere) to higher dimensions. An n-sphere S^n can be
+   constructed by gluing together two copies of R^n. The transition map
+   between them is defined as
+
+          \mathbf{R}^n \setminus \{0\} \to \mathbf{R}^n \setminus \{0\}: x
+          \mapsto x/\|x\|^2.
+
+   This function is its own inverse and thus can be used in both
+   directions. As the transition map is a smooth function, this atlas
+   defines a smooth manifold. In the case n = 1, the example simplifies to
+   the circle example given earlier.
+
+Identifying points of a manifold
+
+   It is possible to define different points of a manifold to be same.
+   This can be visualized as gluing these points together in a single
+   point, forming a quotient space. There is, however, no reason to expect
+   such quotient spaces to be manifolds. Among the possible quotient
+   spaces that are not necessarily manifolds, orbifolds and CW complexes
+   are considered to be relatively well-behaved.
+
+   One method of identifying points (gluing them together) is through a
+   right (or left) action of a group, which acts on the manifold. Two
+   points are identified if one is moved onto the other by some group
+   element. If M is the manifold and G is the group, the resulting
+   quotient space is denoted by M / G (or G \ M).
+
+   Manifolds which can be constructed by identifying points include tori
+   and real projective spaces (starting with a plane and a sphere,
+   respectively).
+
+Cartesian products
+
+   The Cartesian product of manifolds is also a manifold. Not every
+   manifold can be written as a product.
+
+   The dimension of the product manifold is the sum of the dimensions of
+   its factors. Its topology is the product topology, and a Cartesian
+   product of charts is a chart for the product manifold. Thus, an atlas
+   for the product manifold can be constructed using atlases for its
+   factors. If these atlases define a differential structure on the
+   factors, the corresponding atlas defines a differential structure on
+   the product manifold. The same is true for any other structure defined
+   on the factors. If one of the factors has a boundary, the product
+   manifold also has a boundary. Cartesian products may be used to
+   construct tori and finite cylinders, for example, as S¹ × S¹ and
+   S¹ × [0, 1], respectively.
+   A finite cylinder is a manifold with boundary.
+   Enlarge
+   A finite cylinder is a manifold with boundary.
+
+Manifold with boundary
+
+   A manifold with boundary is a manifold with an edge. For example a
+   sheet of paper with rounded corners is a 2-manifold with a
+   1-dimensional boundary. The edge of an n-manifold is an (n-1)-manifold.
+   A disk (circle plus interior) is a 2-manifold with boundary. Its
+   boundary is a circle, a 1-manifold. A ball (sphere plus interior) is a
+   3-manifold with boundary. Its boundary is a sphere, a 2-manifold. (See
+   also Boundary (topology)).
+
+   In technical language, a manifold with boundary is a space containing
+   both interior points and boundary points. Every interior point has a
+   neighbourhood homeomorphic to the open n-ball {(x[1], x[2], …, x[n]) |
+   Σ x[i]^2 < 1}. Every boundary point has a neighbourhood homeomorphic to
+   the "half" n-ball {(x[1], x[2], …, x[n]) | Σ x[i]^2 < 1 and x[1] ≥ 0}.
+   The homeomorphism must send the boundary point to a point with x[1] =
+   0.
+
+Gluing along boundaries
+
+   Two manifolds with boundaries can be glued together along a boundary.
+   If this is done the right way, the result is also a manifold.
+   Similarly, two boundaries of a single manifold can be glued together.
+
+   Formally, the gluing is defined by a bijection between the two
+   boundaries. Two points are identified when they are mapped onto each
+   other. For a topological manifold this bijection should be a
+   homeomorphism, otherwise the result will not be a topological manifold.
+   Similarly for a differentiable manifold it has to be a diffeomorphism.
+   For other manifolds other structures should be preserved.
+
+   A finite cylinder may be constructed as a manifold by starting with a
+   strip R × [0, 1] and gluing a pair of opposite edges on the boundary by
+   a suitable diffeomorphism. A projective plane may be obtained by gluing
+   a sphere with a hole in it to a Möbius strip along their respective
+   circular boundaries.
+
+Classes of manifolds
+
+Topological manifolds
+
+   The simplest kind of manifold to define is the topological manifold,
+   which looks locally like some "ordinary" Euclidean space R^n. Formally,
+   a topological manifold is a topological space locally homeomorphic to a
+   Euclidean space. This means that every point has a neighbourhood for
+   which there exists a homeomorphism (a bijective continuous function
+   whose inverse is also continuous) mapping that neighbourhood to R^n.
+   These homeomorphisms are the charts of the manifold.
+
+   Usually additional technical assumptions on the topological space are
+   made to exclude pathological cases. It is customary to require that the
+   space be Hausdorff and second countable.
+
+   The dimension of the manifold at a certain point is the dimension of
+   the Euclidean space charts at that point map to (number n in the
+   definition). All points in a connected manifold have the same
+   dimension. Some authors require that all charts of a topological
+   manifold map to the same Euclidean space. In that case every
+   topological manifold has a topological invariant, its dimension. Other
+   authors allow disjoint unions of topological manifolds with differing
+   dimensions to be called manifolds.
+
+Differentiable manifolds
+
+   For most applications a special kind of topological manifold, a
+   differentiable manifold, is used. If the local charts on a manifold are
+   compatible in a certain sense, one can define directions, tangent
+   spaces, and differentiable functions on that manifold. In particular it
+   is possible to use calculus on a differentiable manifold. Each point of
+   an n-dimensional differentiable manifold has a tangent space. This is
+   an n-dimensional Euclidean space consisting of the tangent vectors of
+   the curves through the point.
+
+   Two important classes of differentiable manifolds are smooth and
+   analytic manifolds. For smooth manifolds the transition maps are
+   smooth, that is infinitely differentiable. Analytic manifolds are
+   smooth manifolds with the additional condition that the transition maps
+   are analytic (a technical definition which loosely means that Taylor's
+   theorem holds). The sphere can be given analytic structure, as can most
+   familiar curves and surfaces.
+
+   A rectifiable set generalizes the idea of a piecewise smooth or
+   rectifiable curve to higher dimensions; however, rectifiable sets are
+   not in general manifolds.
+
+Riemannian manifolds
+
+   To measure distances and angles on manifolds, the manifold must be
+   Riemannian. A Riemannian manifold is an analytic manifold in which each
+   tangent space is equipped with an inner product 〈 , 〉 in a manner which
+   varies smoothly from point to point. Given two tangent vectors u and v
+   the inner product 〈u,v〉 gives a real number. The dot (or scalar)
+   product is a typical example of an inner product. This allows one to
+   define various notions such as length, angles, areas (or volumes),
+   curvature, gradients of functions and divergence of vector fields.
+
+   Most familiar curves and surfaces, including n-spheres and Euclidean
+   space, can be given the structure of a Riemannian manifold.
+
+Finsler manifolds
+
+   A Finsler manifold allows the definition of distance, but not of angle;
+   it is an analytic manifold in which each tangent space is equipped with
+   a norm, ||·||, in a manner which varies smoothly from point to point.
+   This norm can be extended to a metric, defining the length of a curve;
+   but it cannot in general be used to define an inner product.
+
+   Any Riemannian manifold is a Finsler manifold.
+
+Lie groups
+
+   Lie groups are a particularly important class of manifolds. They were
+   named after Sophus Lie (last name pronounced Lee). As well as having an
+   inner product they also have the structure of a topological group,
+   allowing a notion of multiplication of points on the manifold. Any
+   compact Lie group can be given a Riemannian manifold structure. The
+   circle can be given the structure of a Lie group — the circle group.
+   The group structure is then the multiplicative group of all complex
+   numbers with modulus 1.
+
+   A Euclidean vector space with the group operation of vector addition is
+   an example of a non-compact Lie group. Other examples of Lie groups
+   include special groups of matrices, which are all subgroups of the
+   general linear group, the group of n by n matrices with non-zero
+   determinant. If the matrix entries are real numbers, this will be an
+   n^2-dimensional disconnected manifold. The orthogonal groups, the
+   symmetry groups of the sphere and hyperspheres, are n(n-1)/2
+   dimensional manifolds, where n-1 is the dimension of the sphere.
+   Further examples can be found in the table of Lie groups.
+
+Other types of manifolds
+
+     * A complex manifold is a manifold modeled on C^n with holomorphic
+       transition functions on chart overlaps. These manifolds are the
+       basic objects of study in complex geometry. A
+       one-complex-dimensional manifold is called a Riemann surface. (Note
+       that an n-dimensional complex manifold has dimension 2n as a
+       differentiable manifold.)
+     * Infinite dimensional manifolds: to allow for infinite dimensions,
+       one may consider Banach manifolds which are locally homeomorphic to
+       Banach spaces. Similarly, Fréchet manifolds are locally
+       homeomorphic to Fréchet spaces.
+     * A symplectic manifold is a kind of manifold which is used to
+       represent the phase spaces in classical mechanics. They are endowed
+       with a 2-form that defines the Poisson bracket. A closely related
+       type of manifold is a contact manifold.
+
+Invariant properties
+
+   Unlike curves and surfaces, higher dimensional manifolds cannot be
+   understood by means of visual intuition. Indeed, it is difficult or
+   even impossible to decide whether two different descriptions of a
+   higher-dimensional manifold refer to the same object. For this reason
+   it is useful to develop concepts and criteria that describe intrinsic
+   geometric and topological aspects of these mathematical objects. Such
+   criteria are commonly referred to as being invariant, because they are
+   the same relative to all possible descriptions of a particular
+   manifold. Thus, it is possible to distinguish two manifolds if they
+   disagree with respect to some invariant property. Naively, one could
+   hope to develop an arsenal of invariant criteria that would
+   definitively classify all manifolds up to isomorphism. Unfortunately,
+   it is known that for manifolds of dimension 4 and higher, no single
+   decision procedure can be used to decide whether two manifolds have the
+   same topological configuration.
+
+   Some invariant properties are local, and serve to characterize
+   manifolds at the smallest of scales. Other invariant properties are
+   global, and take account of a manifold's overall spatial structure.
+   Many invariant properties relevant to manifold theory come from point
+   set topology. Separability of points, or the Hausdorff property is one
+   such invariant, dimension (see below) is another. Compactness,
+   connectedness, and paracompactness are important global properties.
+   However, many mathematicians consider separability of points and
+   paracompactness to be so essential that they include them in the very
+   definition of manifold.
+
+   Algebraic topology is a source of a number of important global
+   invariant properties. Some key criteria include the simply connected
+   property and orientability (see below). Indeed several branches of
+   mathematics, such as homology and homotopy theory, and the theory of
+   characteristic classes were founded in order to study invariant
+   properties of manifolds.
+
+   It is often said that, aside from dimension, a differential manifold
+   has no local invariants. However, if a manifold is endowed with some
+   geometric information, such Riemannian structure, then invariant local
+   properties may arise. Examples include the notions of flatness and
+   constant curvature for Riemannian manifolds, and the absence of torsion
+   for manifolds equipped with an affine connection.
+
+Orientability
+
+   In dimensions two and higher, a simple but important invariant
+   criterion is the question of whether a manifold admits a meaningful
+   orientation. Consider a topological manifold with charts mapping to
+   R^n. Given an ordered basis for R^n, a chart causes its piece of the
+   manifold to itself acquire a sense of ordering, which in 3-dimensions
+   can be viewed as either right-handed or left-handed. Overlapping charts
+   are not required to agree in their sense of ordering, which gives
+   manifolds an important freedom. For some manifolds, like the sphere,
+   charts can be chosen so that overlapping regions agree on their
+   "handedness"; these are orientable manifolds. For others, this is
+   impossible. The latter possibility is easy to overlook, because any
+   closed surface embedded (without self-intersection) in
+   three-dimensional space is orientable.
+
+   Some illustrative examples of non-orientable manifolds include: (1) the
+   Möbius strip, which is a manifold with boundary, (2) the Klein bottle,
+   which must intersect itself in 3-space, and (3) the real projective
+   plane, which arises naturally in geometry.
+   Möbius strip
+   Enlarge
+   Möbius strip
+
+Möbius strip
+
+   Begin with an infinite circular cylinder standing vertically, a
+   manifold without boundary. Slice across it high and low to produce two
+   circular boundaries, and the cylindrical strip between them. This is an
+   orientable manifold with boundary, upon which "surgery" will be
+   performed. Slice the strip open, so that it could unroll to become a
+   rectangle, but keep a grasp on the cut ends. Twist one end 180°, making
+   the inner surface face out, and glue the ends back together seamlessly.
+   This results in a strip with a permanent half-twist: the Möbius strip.
+   Its boundary is no longer a pair of circles, but (topologically) a
+   single circle; and what was once its "inside" has merged with its
+   "outside", so that it now has only a single side.
+
+Klein bottle
+
+   The Klein bottle immersed in three-dimensional space.
+   Enlarge
+   The Klein bottle immersed in three-dimensional space.
+
+   Take two Möbius strips; each has a single loop as a boundary.
+   Straighten out those loops into circles, and let the strips distort
+   into cross-caps. Gluing the circles together will produce a new, closed
+   manifold without boundary, the Klein bottle. Closing the surface does
+   nothing to improve the lack of orientability, it merely removes the
+   boundary. Thus, the Klein bottle is a closed surface with no
+   distinction between inside and outside. Note that in three-dimensional
+   space, a Klein bottle's surface must pass through itself. Building a
+   Klein bottle which is not self-intersecting requires four or more
+   dimensions of space.
+
+Real projective plane
+
+   Begin with a sphere centered on the origin. Every line through the
+   origin pierces the sphere in two opposite points called antipodes.
+   Although there is no way to do so physically, it is possible to
+   mathematically merge each antipode pair into a single point. The closed
+   surface so produced is the real projective plane, yet another
+   non-orientable surface. It has a number of equivalent descriptions and
+   constructions, but this route explains its name: all the points on any
+   given line through the origin project to the same "point" on this
+   "plane".
+
+Genus and the Euler characteristic
+
+   For two dimensional manifolds a key invariant property is the genus, or
+   the "number of handles" present in a surface. A torus is a sphere with
+   one handle, a double torus is a sphere with two handles, and so on.
+   Indeed it is possible to fully characterize compact, two-dimensional
+   manifolds on the basis of genus and orientability. In
+   higher-dimensional manifolds genus is replaced by the notion of Euler
+   characteristic.
+
+Dimension
+
+   Dimensionality is built right into the definition of an n-manifold.
+   Dimension is a local invariant, but it does not change as one moves
+   inside the manifold. However in some settings it is convenient to allow
+   a single manifold to consist of several disconnected pieces, each of
+   its own dimension.
+
+Generalizations of manifolds
+
+     * Orbifolds: An orbifold is a generalization of manifold allowing for
+       certain kinds of " singularities" in the topology. Roughly
+       speaking, it is a space which locally looks like the quotients of
+       some simple space (e.g. Euclidean space) by the actions of various
+       finite groups. The singularities correspond to fixed points of the
+       group actions, and the actions must be compatible in a certain
+       sense.
+     * Algebraic varieties and schemes: An algebraic variety is glued
+       together from affine algebraic varieties, which are zero sets of
+       polynomials over algebraically closed fields. Schemes are likewise
+       glued together from affine schemes, which are a generalization of
+       algebraic varieties. Both are related to manifolds, but are
+       constructed using sheaves instead of atlases. Because of singular
+       points one cannot assume a variety is a manifold (even though
+       linguistically the French variété, German Mannigfaltigkeit and
+       English manifold are much the same thing).
+     * CW-complexes: A CW complex is a topological space formed by gluing
+       objects of different dimensionality together; for this reason they
+       generally are not manifolds. However, they are of central interest
+       in algebraic topology, especially in homotopy theory, where such
+       dimensional defects are acceptable.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Manifold"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

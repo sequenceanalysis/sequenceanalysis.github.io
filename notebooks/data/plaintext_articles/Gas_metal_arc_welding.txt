@@ -1,0 +1,451 @@
+   #copyright
+
+Gas metal arc welding
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+
+   This is a featured article. Click here for more information.
+   Gas metal arc welding
+   Enlarge
+   Gas metal arc welding
+
+   Gas metal arc welding (GMAW), sometimes referred to by its subtypes,
+   metal inert gas (MIG) welding or metal active gas (MAG) welding, is a
+   semi-automatic or automatic arc welding process in which a continuous
+   and consumable wire electrode and a shielding gas are fed through a
+   welding gun. A constant voltage, direct current power source is most
+   commonly used with GMAW, but constant current systems, as well as
+   alternating current, can be used. There are four primary methods of
+   metal transfer in GMAW, called globular, short-circuiting, spray, and
+   pulsed-spray, each of which has distinct properties and corresponding
+   advantages and limitations.
+
+   Originally developed for welding aluminium and other non-ferrous
+   materials in the 1940s, GMAW was soon applied to steels because it
+   allowed for lower welding time compared to other welding processes. The
+   cost of inert gas limited its use in steels until several years later,
+   when the use of semi-inert gases such as carbon dioxide became common.
+   Further developments during the 1950s and 1960s gave the process more
+   versatility and as a result, it became a highly used industrial
+   process. Today, GMAW is commonly used in industries such as the
+   automobile industry, where it is preferred for its versatility and
+   speed. Unlike welding processes that do not employ a shielding gas,
+   such as shielded metal arc welding, it is rarely used outdoors or in
+   other areas of air volatility. A related process, flux cored arc
+   welding, often does not utilize a shielding gas, instead employing a
+   hollow electrode wire that is filled with flux on the inside.
+
+Development
+
+   The principles of gas metal arc welding began to be developed around
+   the turn of the 19th century, with Humphry Davy's discovery of the
+   electric arc in 1800. At first, carbon electrodes were used, but by the
+   late 1800s, metal electrodes had been invented by N.G. Slavianoff and
+   C. L. Coffin. In 1920, an early predecessor of GMAW was invented by P.
+   O. Nobel of General Electric. It used a bare electrode wire and direct
+   current, and used arc voltage to regulate the feed rate. It did not use
+   a shielding gas to protect the weld, as developments in welding
+   atmospheres did not take place until later that decade. In 1926 another
+   forerunner of GMAW was released, but it was not suitable for practical
+   use.
+
+   It was not until 1948 that GMAW was finally developed by the Batelle
+   Memorial Institute. It used a smaller diameter electrode and a constant
+   voltage power source, which had been developed by H. E. Kennedy. It
+   offered a high deposition rate but the high cost of inert gases limited
+   its use to non-ferrous materials and cost savings were not obtained. In
+   1953, the use of carbon dioxide as a welding atmosphere was developed,
+   and it quickly gained popularity in GMAW, since it made welding steel
+   more economical. In 1958 and 1959, the short-arc variation of GMAW was
+   released, which increased welding versatility and made the welding of
+   thin materials possible while relying on smaller electrode wires and
+   more advanced power supplies. It quickly became the most popular GMAW
+   variation. The spray-arc transfer variation was developed in the early
+   1960s, when experimenters added small amounts of oxygen to inert gases.
+   More recently, pulsed current has been applied, giving rise to a new
+   method called the pulsed spray-arc variation.
+
+   Today, GMAW is one of the most popular welding methods, especially in
+   industrial environments. It is used extensively by the sheet metal
+   industry and, by extension, the automobile industry. There, the method
+   is often used to do arc spot welding, thereby replacing riveting or
+   resistance spot welding. It is also popular in robot welding, in which
+   robots handle the workpieces and the welding gun to quicken the
+   manufacturing process. Generally, it is unsuitable for welding
+   outdoors, because the movement of the surrounding atmosphere can cause
+   the dissipation of the shielding gas and thus make welding more
+   difficult, while also decreasing the quality of the weld. The problem
+   can be alleviated to some extent by increasing the shielding gas
+   output, but this can be expensive. In general, processes such as
+   shielded metal arc welding and flux cored arc welding are preferred for
+   welding outdoors, making the use of GMAW in the construction industry
+   rather limited. Furthermore, the use of a shielding gas makes GMAW an
+   unpopular underwater welding process, and for the same reason it is
+   rarely used in space applications.
+
+Equipment
+
+   To perform gas metal arc welding, the basic necessary equipment is a
+   welding gun, a wire feed unit, a welding power supply, an electrode
+   wire, and a shielding gas supply.
+
+Welding gun and wire feed unit
+
+   GMAW torch nozzle cutaway image. (1) Torch handle, (2) Molded phenolic
+   dielectric (shown in white) and threaded metal nut insert (yellow), (3)
+   Shielding gas nozzle, (4) Contact tip, (5) Nozzle output face
+   Enlarge
+   GMAW torch nozzle cutaway image. (1) Torch handle, (2) Molded phenolic
+   dielectric (shown in white) and threaded metal nut insert (yellow), (3)
+   Shielding gas nozzle, (4) Contact tip, (5) Nozzle output face
+   A GMAW wire feed unit
+   Enlarge
+   A GMAW wire feed unit
+
+   The typical GMAW welding gun has a number of key parts—a control
+   switch, a contact tip, a power cable, a gas nozzle, an electrode
+   conduit and liner, and a gas hose. The control switch, or trigger, when
+   pressed by the operator, initiates the wire feed, electric power, and
+   the shielding gas flow, causing an electric arc to be struck. The
+   contact tip, normally made of copper and sometimes chemically treated
+   to reduce spatter, is connected to the welding power source through the
+   power cable and transmits the electrical energy to the electrode while
+   directing it to the weld area. It must be firmly secured and properly
+   sized, since it must allow the passage of the electrode while
+   maintaining an electrical contact. Before arriving at the contact tip,
+   the wire is protected and guided by the electrode conduit and liner,
+   which help prevent buckling and maintain an uninterrupted wire feed.
+   The gas nozzle is used to evenly direct the shielding gas into the
+   welding zone—if the flow is inconsistent, it may not provide adequate
+   protection of the weld area. Larger nozzles provide greater shielding
+   gas flow, which is useful for high current welding operations, in which
+   the size of the molten weld pool is increased. The gas is supplied to
+   the nozzle through a gas hose, which is connected to the tanks of
+   shielding gas. Sometimes, a water hose is also built into the welding
+   gun, cooling the gun in high heat operations.
+
+   The wire feed unit supplies the electrode to the work, driving it
+   through the conduit and on to the contact tip. Most models provide the
+   wire at a constant feed rate, but more advanced machines can vary the
+   feed rate in response to the arc length and voltage. Some wire feeders
+   can reach feed rates as high as 30.5 m/min (1200 in/min), but feed
+   rates for semiautomatic GMAW typically range from 2 to 10 m/min
+   (75–400 in/min).
+
+Power supply
+
+   Most applications of gas metal arc welding use a constant voltage power
+   supply. As a result, any change in arc length (which is directly
+   related to voltage) results in a large change in heat input and
+   current. A shorter arc length will cause a much greater heat input,
+   which will make the wire electrode melt more quickly and thereby
+   restore the original arc length. This helps operators keep the arc
+   length consistent even when manually welding with hand-held welding
+   guns. To achieve a similar effect, sometimes a constant current power
+   source is used in combination with an arc voltage-controlled wire feed
+   unit. In this case, a change in arc length makes the wire feed rate
+   adjust in order to maintain a relatively constant arc length. In rare
+   circumstances, a constant current power source and a constant wire feed
+   rate unit might be coupled, especially for the welding of metals with
+   high thermal conductivities, such as aluminium. This grants the
+   operator additional control over the heat input into the weld, but
+   requires significant skill to perform successfully.
+
+   Alternating current is rarely used with GMAW; instead, direct current
+   is employed and the electrode is generally positively charged. Since
+   the anode tends to have a greater heat concentration, this results in
+   faster melting of the feed wire, which increases weld penetration and
+   welding speed. The polarity can be reversed only when special
+   emissive-coated electrode wires are used, but since these are not
+   popular, a negatively charged electrode is rarely employed.
+
+Electrode
+
+   The selection of an electrode to be used in GMAW is a complicated
+   decision, as it depends on the process variation being used, the
+   composition of the metal being welded, the joint design, and the
+   material surface conditions. The choice of an electrode strongly
+   influences the mechanical properties of the weld area, making it a key
+   factor in weld quality. In general, it is desirable that the welded
+   metal have mechanical properties similar to those of the base material,
+   and that there be no discontinuities, such as porosity, within the
+   weld. To achieve these goals in different materials using different
+   GMAW variations, a wide variety of electrodes exist. All contain
+   deoxidizing metals such as silicon, manganese, titanium, and aluminium
+   in small percentages to help prevent oxygen porosity, and some contain
+   denitriding metals such as titanium and zirconium to avoid nitrogen
+   porosity. Depending on the process variation and base material being
+   used, the diameters of the electrodes used in GMAW typically range from
+   0.7 to 2.4  mm (0.028–0.095 in), but can be as large as 4 mm (0.16 in).
+   The smallest electrodes are associated with short-circuiting metal
+   transfer, while the pulsed spray mode generally uses electrodes of at
+   least 1.6 mm (0.06 in).
+   GMAW Circuit diagram. (1) Welding torch, (2) Workpiece, (3) Power
+   source, (4) Wire feed unit, (5) Electrode source, (6) Shielding gas
+   supply.
+   Enlarge
+   GMAW Circuit diagram. (1) Welding torch, (2) Workpiece, (3) Power
+   source, (4) Wire feed unit, (5) Electrode source, (6) Shielding gas
+   supply.
+
+Shielding gas
+
+   Shielding gases are necessary for gas metal arc welding to protect the
+   welding area from atmospheric gases such as nitrogen and oxygen, which
+   can cause fusion defects, porosity, and weld metal embrittlement if
+   they come in contact with the electrode, the arc, or the welding metal.
+   This problem is common to all arc welding processes, but instead of a
+   shielding gas, many arc welding methods utilize a flux material which
+   disintegrates into a protective gas when heated to welding
+   temperatures. In GMAW, however, the electrode wire does not have a flux
+   coating, and a separate shielding gas is employed to protect the weld.
+   This eliminates slag, the hard residue from the flux that builds up
+   after welding and must be chipped off to reveal the completed weld.
+
+   The choice of a shielding gas depends on several factors, most
+   importantly the type of material being welded and the process variation
+   being used. Pure inert gases such as argon and helium are only used for
+   nonferrous welding; with steel they cause an erratic arc and encourage
+   spatter (with helium) or do not provide adequate weld penetration
+   (argon). Pure carbon dioxide, on the other hand, allows for deep
+   penetration welds but encourages oxide formation, which adversely
+   affect the mechanical properties of the weld. Its low cost makes it an
+   attractive choice, but because of the violence of the arc, spatter is
+   unavoidable and welding thin materials is difficult. As a result, argon
+   and carbon dioxide are frequently mixed in a 75%/25% or 80%/20%
+   mixture, which reduces spatter and makes it possible to weld thin steel
+   workpieces.
+
+   Argon is also commonly mixed with other gases, such as oxygen, helium,
+   hydrogen, and nitrogen. The addition of up to 5% oxygen encourages
+   spray transfer, which is critical for spray-arc and pulsed spray-arc
+   GMAW. However, more oxygen makes the shielding gas oxidize the
+   electrode, which can lead to porosity in the deposit if the electrode
+   does not contain sufficient deoxidizers. An argon-helium mixture is
+   completely inert, and is used on nonferrous materials. A helium
+   concentration of 50%–75% raises the voltage and increases the heat in
+   the arc, making it helpful for welding thicker workpieces. Higher
+   percentages of helium also improve the weld quality and speed of using
+   alternating current for the welding of aluminum. Hydrogen is added to
+   argon in small concentrations (up to about 5%) for welding nickel and
+   thick stainless steel workpieces. In higher concentrations (up to 25%
+   hydrogen), it is useful for welding conductive materials such as
+   copper. However, it should not be used on steel, aluminium or magnesium
+   because of the risk of hydrogen porosity. Additionally, nitrogen is
+   sometimes added to argon to a concentration of 25%–50% for welding
+   copper, but the use of nitrogen, especially in North America, is
+   limited. Mixtures of carbon dioxide and oxygen are similarly rarely
+   used in North America, but are more common in Europe and Japan.
+
+   Recent advances in shielding gas mixtures use three or more gases to
+   gain improved weld quality. A mixture of 70% argon, 28% carbon dioxide
+   and 2% oxygen is gaining in popularity for welding steels, while other
+   mixtures add a small amount of helium to the argon-oxygen combination,
+   resulting in higher arc voltage and welding speed. Helium is also
+   sometimes used as the base gas, to which smaller amounts of argon and
+   carbon dioxide are added. Additionally, other specialized and often
+   proprietary gas mixtures claim to offer even greater benefits for
+   specific applications.
+
+   The desirable rate of gas flow depends primarily on weld geometry,
+   speed, current, the type of gas, and the metal transfer mode being
+   utilized. Welding flat surfaces requires higher flow than welding
+   grooved materials, since the gas is dispersed more quickly. Faster
+   welding speeds mean that more gas must be supplied to provide adequate
+   coverage. Additionally, higher current requires greater flow, and
+   generally, more helium is required to provide adequate coverage than
+   argon. Perhaps most importantly, the four primary variations of GMAW
+   have differing shielding gas flow requirements—for the small weld pools
+   of the short circuiting and pulsed spray modes, about 10  L/min (20
+   ft³/ h) is generally suitable, while for globular transfer, around
+   15 L/min (30 ft³/h) is preferred. The spray transfer variation normally
+   requires more because of its higher heat input and thus larger weld
+   pool; along the lines of 20–25 L/min (40–50 ft³/h).
+
+Operation
+
+   GMAW weld area. (1) Direction of travel, (2) Contact tube, (3)
+   Electrode, (4) Shielding gas, (5) Molten weld metal, (6) Solidified
+   weld metal, (7) Workpiece.
+   Enlarge
+   GMAW weld area. (1) Direction of travel, (2) Contact tube, (3)
+   Electrode, (4) Shielding gas, (5) Molten weld metal, (6) Solidified
+   weld metal, (7) Workpiece.
+
+   In most of its applications, gas metal arc welding is a fairly simple
+   welding process to learn, requiring no more than several days to master
+   basic welding technique. Even when welding is performed by well-trained
+   operators, however, weld quality can fluctuate, since it depends on a
+   number of external factors. And all GMAW is dangerous, though perhaps
+   less so than some other welding methods, such as shielded metal arc
+   welding.
+
+Technique
+
+   The basic technique for GMAW is quite simple, since the electrode is
+   fed automatically through the torch. In gas tungsten arc welding, the
+   welder must handle a welding torch in one hand and a separate filler
+   wire in the other, and in shielded metal arc welding, the operator must
+   frequently chip off slag and change welding electrodes. GMAW, on the
+   other hand, requires only that the operator guide the welding gun with
+   proper position and orientation along the area being welded. Keeping a
+   consistent contact tip-to-work distance (the stickout distance) is
+   important, because a long stickout distance can cause the electrode to
+   overheat and will also waste shielding gas. The orientation of the gun
+   is also important—it should be held so as to bisect the angle between
+   the workpieces; that is, at 45 degrees for a fillet weld and 90 degrees
+   for welding a flat surface. The travel angle or lead angle is the angle
+   of the torch with respect to the direction of travel, and it should
+   generally remain approximately vertical. However, the desirable angle
+   changes somewhat depending on the type of shielding gas used—with pure
+   inert gases, the bottom of the torch is out often slightly in front of
+   the upper section, while the opposite is true when the welding
+   atmosphere is carbon dioxide.
+
+Quality
+
+   Two of the most prevalent quality problems in GMAW are dross and
+   porosity. If not controlled, they can lead to weaker, less ductile
+   welds. Dross is an especially common problem in aluminum GMAW welds,
+   normally coming from particles of aluminum oxide or aluminium nitride
+   present in the electrode or base materials. Electrodes and workpieces
+   must be brushed with a wire brush or chemically treated to remove
+   oxides on the surface. Any oxygen in contact with the weld pool,
+   whether from the atmosphere or the shielding gas, causes dross as well.
+   As a result, sufficient flow of inert shielding gases is necessary, and
+   welding in volatile air should be avoided.
+
+   In GMAW the primary cause of porosity is gas entrapment in the weld
+   pool, which occurs when the metal solidifies before the gas escapes.
+   The gas can come from impurities in the shielding gas or on the
+   workpiece, as well as from an excessively long or violent arc.
+   Generally, the amount of gas entrapped is directly related to the
+   cooling rate of the weld pool. Because of its higher thermal
+   conductivity, aluminium welds are especially susceptible to greater
+   cooling rates and thus additional porosity. To reduce it, the workpiece
+   and electrode should be clean, the welding speed diminished and the
+   current set high enough to provide sufficient heat input and stable
+   metal transfer but low enough that the arc remains steady. Preheating
+   can also help reduce the cooling rate in some cases by reducing the
+   temperature gradient between the weld area and the base material.
+
+Safety
+
+   Gas metal arc welding can be dangerous if proper precautions are not
+   taken. Since GMAW employs an electric arc, welders wear protective
+   clothing, including heavy leather gloves and protective long sleeve
+   jackets, to avoid exposure to extreme heat and flames. In addition, the
+   brightness of the electric arc can cause arc eye, in which ultraviolet
+   light causes the inflammation of the cornea and can burn the retinas of
+   the eyes. Helmets with dark face plates are worn to prevent this
+   exposure, and in recent years, new helmet models have been produced
+   that feature a liquid crystal-type face plate that self-darkens upon
+   exposure to high amounts of UV light. Transparent welding curtains,
+   made of a polyvinyl chloride plastic film, are often used to shield
+   nearby workers and bystanders from exposure to the UV light from the
+   electric arc.
+
+   Welders are also often exposed to dangerous gases and particulate
+   matter. GMAW produces smoke containing particles of various types of
+   oxides, and the size of the particles in question tends to influence
+   the toxicity of the fumes, with smaller particles presenting a greater
+   danger. Additionally, carbon dioxide and ozone gases can prove
+   dangerous if ventilation is inadequate. Furthermore, because the use of
+   compressed gases in GMAW pose an explosion and fire risk, some common
+   precautions include limiting the amount of oxygen in the air and
+   keeping combustible materials away from the workplace.
+
+Metal transfer modes
+
+Globular
+
+   GMAW with globular metal transfer is often considered the most
+   undesirable of the four major GMAW variations, because of its tendency
+   to produce high heat, a poor weld surface, and spatter. The method was
+   originally developed as a cost efficient way to weld steel using GMAW,
+   because this variation uses carbon dioxide, a less expensive shielding
+   gas than argon. Adding to its economic advantage was its high
+   deposition rate, allowing welding speeds of up to 110 mm/s
+   (250 in/min). As the weld is made, a ball of molten metal from the
+   electrode tends to build up on the end of the electrode, often in
+   irregular shapes with a larger diameter than the electrode itself. When
+   the droplet finally detaches either by gravity or short circuiting, it
+   falls to the workpiece, leaving an uneven surface and often causing
+   spatter. As a result of the large molten droplet, the process is
+   generally limited to flat and horizontal welding positions. The high
+   amount of heat generated also is a downside, because it forces the
+   welder to use a larger electrode wire, increases the size of the weld
+   pool, and causes greater residual stresses and distortion in the weld
+   area.
+
+Short-circuiting
+
+   Further developments in welding steel with GMAW led to a variation
+   known as short-circuiting or short-arc GMAW, in which carbon dioxide
+   shields the weld, the electrode wire is smaller, and the current is
+   lower than for the globular method. As a result of the lower current,
+   the heat input for the short-arc variation is reduced, making it
+   possible to weld thinner materials while decreasing the amount of
+   distortion and residual stress in the weld area. As in globular
+   welding, molten droplets form on the tip of the electrode, but instead
+   of dropping to the weld pool, they bridge the gap between the electrode
+   and the weld pool as a result of the greater wire feed rate. This
+   causes a short circuit and extinguishes the arc, but it is quickly
+   reignited after the surface tension of the weld pool pulls the molten
+   metal bead off the electrode tip. This process is repeated about 100
+   times per second, making the arc appear constant to the human eye. This
+   type of metal transfer provides better weld quality and less spatter
+   than the globular variation, and it allows for welding in all
+   positions, but generally the process is much slower than globular GMAW.
+   Another difficulty is maintaining a stable arc, because it depends on
+   achieving a consistent and high short-circuiting frequency, which can
+   only be accomplished with a good power source, suitable welding
+   conditions, and significant welder skill. Like the globular variation,
+   it can only be used on ferrous metals.
+
+Spray
+
+   Spray transfer GMAW was the first metal transfer method used in GMAW,
+   best suited for welding aluminium and stainless steel while employing
+   an inert shielding gas and a relatively thick electrode. In this
+   variation, molten metal droplets (with diameters smaller than the
+   electrode diameter) are rapidly passed along the stable electric arc
+   from the electrode to the workpiece, essentially eliminating spatter
+   and resulting in a high-quality weld finish. However, high amounts of
+   voltage and current are necessary, which means that the process
+   involves high heat input and a large weld area and heat-affected zone.
+   As a result, it is generally used only on workpieces of thicknesses
+   above about 6 mm (0.25 in). Because of the large weld pool, it is often
+   limited to flat and horizontal welding positions, but when a smaller
+   electrode is used in conjunction with lower heat input, its versatility
+   increases. The maximum deposition rate for spray arc GMAW is relatively
+   high; about 60 mm/s (150 in/min).
+
+Pulsed-spray
+
+   A more recently developed method, the pulse-spray metal transfer mode
+   is based on the principles of spray transfer but uses a pulsing current
+   to melt the filler wire and allow one small molten droplet to fall with
+   each pulse. The pulses allow the average current to be lower,
+   decreasing the overall heat input and thereby decreasing the size of
+   the weld pool and heat-affected zone while making it possible to weld
+   thin workpieces. The pulse provides a stable arc and no spatter, since
+   no short-circuiting takes place. This also makes the process suitable
+   for nearly all metals, and thicker electrode wire can be used as well.
+   The smaller weld pool gives the variation greater versatility, making
+   it possible to weld in all positions. In comparison with short arc
+   GMAW, this method has a somewhat slower maximum speed (85 mm/s or
+   200 in/min [These numbers appear to be wrong, as the numbers cited for
+   spray are lower and cited and these are uncited. Please Correct]), and
+   the process also requires that the shielding gas be primarily argon
+   with a low carbon dioxide concentration. Additionally, it requires a
+   special power source capable of providing current pulses with a
+   frequency between 30 and 400 pulses per second. However, the method has
+   gained popularity, since it requires lower heat input and can be used
+   to weld thin workpieces, as well as nonferrous materials.
+   Retrieved from " http://en.wikipedia.org/wiki/Gas_metal_arc_welding"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,379 @@
+   #copyright
+
+Corrosion
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+                                                  Mechanical failure modes
+                                                                  Buckling
+                                                                 Corrosion
+                                                                     Creep
+                                                                   Fatigue
+                                                                  Fracture
+                                                                   Melting
+                                                             Thermal shock
+                                                                      Wear
+
+   Corrosion is deterioration of essential properties in a material due to
+   reactions with its environment. It is the loss of an electron of metals
+   reacting with water or oxygen. Weakening of iron due to oxidation of
+   the iron atoms is a well-known example of electrochemistry (a branch of
+   chemistry that studies the reactions that take place when an ionic and
+   electronic conductor interfere) corrosion. This is commonly known as
+   rust. This type of damage usually affects metallic materials, and
+   typically produces oxide(s) and/or salt(s) of the original metal.
+   Corrosion also includes the dissolution of ceramic materials and can
+   refer to discoloration and weakening of polymers by the sun's
+   ultraviolet light.
+
+   Most structural alloys corrode merely from exposure to moisture in the
+   air, but the process can be strongly affected by exposure to certain
+   substances (see below). Corrosion can be concentrated locally to form a
+   pit or crack, or it can extend across a wide area to produce general
+   deterioration. While some efforts to reduce corrosion merely redirect
+   the damage into less visible, less predictable forms, controlled
+   corrosion treatments such as passivation and chromate-conversion will
+   increase a material's corrosion resistance.
+   Rust, the most familiar example of corrosion.
+   Enlarge
+   Rust, the most familiar example of corrosion.
+
+Corrosive substances
+
+   Corrosive warning symbol
+   Enlarge
+   Corrosive warning symbol
+
+   Corrosive chemicals include the following classes:
+     * Acids
+     * Bases ("caustics" or "alkalis")
+     * Dehydrating agents such as phosphorous pentoxide and calcium oxide
+     * Halogens and halogen salts such as bromine, iodine, zinc chloride,
+       and sodium hypochlorite
+     * Organic halides and organic acid halides such as acetyl chloride
+       and benzyl chloroformate
+     * Acid anhydrides
+     * Some organic materials such as phenol ("carbolic acid)
+
+Corrosion in nonmetals
+
+   Most ceramic materials are almost entirely immune to corrosion. The
+   strong ionic and/or covalent bonds that hold them together leave very
+   little free chemical energy in the structure; they can be thought of as
+   already corroded. When corrosion does occur, it is almost always a
+   simple dissolution of the material or chemical reaction, rather than an
+   electrochemical process. A common example of corrosion protection in
+   ceramics is the lime added to soda-lime glass to reduce its solubility
+   in water; though it is not nearly as soluble as pure sodium silicate,
+   normal glass does form sub-microscopic flaws when exposed to moisture.
+   Due to its brittleness, such flaws cause a dramatic reduction in the
+   strength of a glass object during its first few hours at room
+   temperature.
+
+   The degradation of polymeric materials is due to a wide array of
+   complex and often poorly-understood physiochemical processes. These are
+   strikingly different from the other processes discussed here, and so
+   the term "corrosion" is only applied to them in a loose sense of the
+   word. Because of their large molecular weight, very little entropy can
+   be gained by mixing a given mass of polymer with another substance,
+   making them generally quite difficult to dissolve. While dissolution is
+   a problem in some polymer applications, it is relatively simple to
+   design against. A more common and related problem is swelling, where
+   small molecules infiltrate the structure, reducing strength and
+   stiffness and causing a volume change. Conversely, many polymers
+   (notably flexible vinyl) are intentionally swelled with plasticizers,
+   which can be leached out of the structure, causing brittleness or other
+   undesirable changes. The most common form of degradation, however, is a
+   decrease in polymer chain length. Mechanisms which break polymer chains
+   are familiar to biologists because of their effect on DNA: ionizing
+   radiation (most commonly ultraviolet light), free radicals, and
+   oxidizers such as oxygen, ozone, and chlorine. Additives can slow these
+   process very effectively, and can be as simple as a UV-absorbing
+   pigment (i.e., titanium dioxide or carbon black). Plastic shopping bags
+   often do not include these additives so that they break down more
+   easily as litter.
+
+   The remainder of this article is about electrochemical corrosion.
+
+Electrochemical theory
+
+   One way to understand the structure of metals on the basis of particles
+   is to imagine an array of positively-charged ions sitting in a
+   negatively-charged " gas" of free electrons. Coulombic attraction holds
+   these oppositely-charged particles together, but there are other sorts
+   of negative charge which are also attracted to the metal ions, such as
+   the negative ions ( anions) in an electrolyte. For a given ion at the
+   surface of a metal, there is a certain amount of energy to be gained or
+   lost by dissolving into the electrolyte or becoming a part of the
+   metal, which reflects an atom-scale tug-of-war between the electron gas
+   and dissolved anions. The quantity of energy then strongly depends on a
+   host of variables, including the types of ions in a solution and their
+   concentrations, and the number of electrons present at the metal's
+   surface. In turn, corrosion processes cause electrochemical changes,
+   meaning that they strongly affect all of these variables. The overall
+   interaction between electrons and ions tends to produce a state of
+   local thermodynamic equilibrium that can often be described using basic
+   chemistry and a knowledge of initial conditions.
+
+Galvanic series
+
+   In a given environment (one standard medium is aerated,
+   room-temperature seawater), one metal will be either more noble or more
+   active than the next, based on how strongly its ions are bound to the
+   surface. Two metals in electrical contact share the same electron gas,
+   so that the tug-of-war at each surface is translated into a competition
+   for free electrons between the two materials. The noble metal will tend
+   to take electrons from the active one, while the electrolyte hosts a
+   flow of ions in the same direction. The resulting mass flow or
+   electrical current can be measured to establish a hierarchy of
+   materials in the medium of interest. This hierarchy is called a
+   Galvanic series, and can be a very useful
+
+Resistance to corrosion
+
+   Some metals are more intrinsically resistant to corrosion than others,
+   either due to the fundamental nature of the electrochemical processes
+   involved or due to the details of how reaction products form. For some
+   examples, see galvanic series. If a more susceptible material is used,
+   many techniques can be applied during an item's manufacture and use to
+   protect its materials from damage.
+
+Intrinsic chemistry
+
+   Gold nuggets do not corrode, even on a geological time scale.
+   Enlarge
+   Gold nuggets do not corrode, even on a geological time scale.
+
+   The materials most resistant to corrosion are those for which corrosion
+   is thermodynamically unfavorable. Any corrosion products of gold or
+   platinum tend to decompose spontaneously into pure metal, which is why
+   these elements can be found in metallic form on Earth, and is a large
+   part of their intrinsic value. More common "base" metals can only be
+   protected by more temporary means.
+
+   Some metals have naturally slow reaction kinetics, even though their
+   corrosion is thermodynamically favorable. These include such metals as
+   zinc, magnesium, and cadmium. While corrosion of these metals is
+   continuous and ongoing, it happens at an acceptably slow rate. An
+   extreme example is graphite, which releases large amounts of energy
+   upon oxidation, but has such slow kinetics that it is effectively
+   immune to electrochemical corrosion under normal conditions.
+
+Passivation
+
+   Given the right conditions, a thin film of corrosion products can form
+   on a metal's surface spontaneously, acting as a barrier to further
+   oxidation. When this layer stops growing at less than a micrometre
+   thick under the conditions that a material will be used in, the
+   phenomenon is known as passivation (rust, for example, usually grows to
+   be much thicker, and so is not considered passivation, because this
+   mixed oxidized layer is not protective). While this effect is in some
+   sense a property of the material, it serves as an indirect kinetic
+   barrier: the reaction is often quite rapid unless and until an
+   impermiable layer forms. Passivation in air and water at moderate pH is
+   seen in such materials as aluminium, stainless steel, titanium, and
+   silicon.
+
+   These conditions required for passivation are specific to the material.
+   The effect of pH is recorded using Pourbaix diagrams, but many other
+   factors are influential. Some conditions that inhibit passivation
+   include: high pH for aluminium, low pH or the presence of chloride ions
+   for stainless steel, high temperature for titanium (in which case the
+   oxide dissolves into the metal, rather than the electrolyte) and
+   fluoride ions for silicon. On the other hand, sometimes unusual
+   conditions can bring on passivation in materials that are normally
+   unprotected, as the alkaline environment of concrete does for steel
+   rebar. Exposure to a liquid metal such as mercury or hot solder can
+   often circumvent passivation mechanisms.
+
+Surface treatments
+
+   Galvanized surface
+   Enlarge
+   Galvanized surface
+
+Applied coatings
+
+   Plating, painting, and the application of enamel are the most common
+   anti-corrosion treatments. They work by providing a barrier of
+   corrosion-resistant material between the damaging environment and the
+   (often cheaper, tougher, and/or easier-to-process) structural material.
+   Aside from cosmetic and manufacturing issues, there are tradeoffs in
+   mechanical flexibility versus resistance to abrasion and high
+   temperature. Platings usually fail only in small sections, and if the
+   plating is more noble than the substrate (for example, chromium on
+   steel), a galvanic couple will cause any exposed area to corrode much
+   more rapidly than an unplated surface would. For this reason, it is
+   often wise to plate with a more active metal such as zinc or cadmium.
+
+Reactive coatings
+
+   If the environment is controlled (especially in recirculating systems),
+   corrosion inhibitors can often be added to it. These form an
+   electrically insulating and/or chemically impermeable coating on
+   exposed metal surfaces, to suppress electrochemical reactions. Such
+   methods obviously make the system less sensitive to scratches or
+   defects in the coating, since extra inhibitors can be made available
+   wherever metal becomes exposed. Chemicals that inhibit corrosion
+   include some of the salts in hard water (Roman water systems are famous
+   for their mineral deposits), chromates, phosphates, and a wide range of
+   specially-designed chemicals that resemble surfactants (i.e. long-chain
+   organic molecules with ionic end groups).
+   This figure-8 descender is annodized with a yellow finish. Climbing
+   equipment is available in a wide range of anodized colors.
+   Enlarge
+   This figure-8 descender is annodized with a yellow finish. Climbing
+   equipment is available in a wide range of anodized colors.
+
+Anodization
+
+   Aluminium alloys often undergo a surface treatment. Electrochemical
+   conditions in the bath are carefully adjusted so that uniform pores
+   several nanometers wide appear in the metal's oxide film. These pores
+   allow the oxide to grow much thicker than passivating conditions would
+   allow. At the end of the treatment, the pores are allowed to seal,
+   forming a harder-than-usual surface layer. If this coating is
+   scratched, normal passivation processes take over to protect the
+   damaged area.
+
+Cathodic protection
+
+   Cathodic protection (CP) is a technique to control the corrosion of a
+   metal surface by making that surface the cathode of an electrochemical
+   cell.
+
+   It is a method used to protect metal structures from corrosion.
+   Cathodic protection systems are most commonly used to protect steel,
+   water, and fuel pipelines and tanks; steel pier piles, ships, and
+   offshore oil platforms.
+
+   For effective CP, the potential of the steel surface is polarized
+   (pushed) more negative until the metal surface has a uniform potential.
+   With a uniform potential, the driving force for the corrosion reaction
+   is halted. For galvanic CP systems, the anode material corrodes under
+   the influence of the steel, and eventually it must be replaced. The
+   polarization is caused by the current flow from the anode to the
+   cathode, driven by the difference in electrochemical potential between
+   the anode and the cathode.
+
+   For larger structures, galvanic anodes cannot economically deliver
+   enough current to provide complete protection. Impressed Current
+   Cathodic Protection (ICCP) systems use anodes connected to a DC power
+   source (a cathodic protection rectifier). Anodes for ICCP systems are
+   tubular and solid rod shapes of various specialized materials. These
+   include high silicon cast iron, graphite, mixed metal oxide or platinum
+   coated titanium or niobium coated rod and wires.
+
+Corrosion in passivated materials
+
+   Passivation is extremely useful in alleviating corrosion damage, but
+   care must be taken not to trust it too thoroughly. Even a high-quality
+   alloy will corrode if its ability to form a passivating film is
+   compromised. Because the resulting modes of corrosion are more exotic
+   and their immediate results are less visible than rust and other bulk
+   corrosion, they often escape notice and cause problems among those who
+   are not familiar with them.
+
+Pitting corrosion
+
+   Certain conditions, such as low availability of oxygen or high
+   concentrations of species such as chloride which compete as anions, can
+   interfere with a given alloy's ability to re-form a passivating film.
+   In the worst case, almost all of the surface will remain protected, but
+   tiny local fluctuations will degrade the oxide film in a few critical
+   points. Corrosion at these points will be greatly amplified, and can
+   cause corrosion pits of several types, depending upon conditions. While
+   the corrosion pits only nucleate under fairly extreme circumstances,
+   they can continue to grow even when conditions return to normal, since
+   the interior of a pit is naturally deprived of oxygen. In extreme
+   cases, the sharp tips of extremely long and narrow pits can cause
+   stress concentration to the point that otherwise tough alloys can
+   shatter, or a thin film pierced by an invisibly small hole can hide a
+   thumb sized pit from view. These problems are especially dangerous
+   because they are difficult to detect before a part or structure fails.
+   Pitting remains among the most common and damaging forms of corrosion
+   in passivated alloys, but it can be prevented by control of the alloy's
+   environment, which often includes ensuring that the material is exposed
+   to oxygen uniformly (i.e., eliminating crevices).
+
+Fretting
+
+   Many useful passivating oxides are also effective abrasives,
+   particularly TiO[2] and Al[2]O[3]. Fretting corrosion occurs when
+   particles of corrosion product continuously abrade away the passivating
+   film as two metal surfaces are rubbed together. While this process does
+   often damage the frets of musical instruments, they were named
+   separately.
+
+Weld decay and knifeline attack
+
+   Stainless steel can pose special corrosion challenges, since its
+   passivating behaviour relies on the presence of a minor alloying
+   component (Chromium, typically only 18%). Due to the elevated
+   temperatures of welding or during improper heat treatment, chromium
+   carbides can form in the grain boundaries of stainless alloys. This
+   chemical reaction robs the material of chromium in the zone near the
+   grain boundary, making those areas much less resistant to corrosion.
+   This creates a galvanic couple with the well-protected alloy nearby,
+   which leads to weld decay (corrosion of the grain boundaries near
+   welds) in highly corrosive environments. Special alloys, either with
+   low carbon content or with added carbon " getters" such as titanium and
+   niobium (in types 321 and 347, respectively), can prevent this effect,
+   but the latter require special heat treatment after welding to prevent
+   the similar phenomenon of knifeline attack. As its name applies, this
+   is limited to a small zone, often only a few micrometres across, which
+   causes it to proceed more rapidly. This zone is very near the weld,
+   making it even less noticeable^1.
+
+Microbial corrosion
+
+   Microbial corrosion, or bacterial corrosion, is a corrosion caused or
+   promoted by microorganisms, usually chemoautotrophs. It can apply to
+   both metals and non-metallic materials, in both the presence and lack
+   of oxygen. Sulfate-reducing bacteria are common in lack of oxygen; they
+   produce hydrogen sulfide, causing sulfide stress cracking. In presence
+   of oxygen, some bacteria directly oxidize iron to iron oxides and
+   hydroxides, other bacteria oxidize sulfur and produce sulfuric acid.
+   Concentration cells can form in the deposits of corrosion products,
+   causing and enhancing galvanic corrosion.
+
+High temperature corrosion
+
+   High temperature corrosion is chemical deterioration of a material
+   (typically a metal) under very high temperature conditions. This
+   non-galvanic form of corrosion can occur when a metal is subject to a
+   high temperature atmosphere containing oxygen, sulphur or other
+   compounds capable of oxidising (or assisting the oxidation of) the
+   material concerned. For example, materials used in aerospace, power
+   generation and even in car engines have to resist sustained periods at
+   high temperature in which they may be exposed to an atmosphere
+   containing potentially highly corrosive products of combustion.
+
+   The products of high temperature corrosion can potentially be turned to
+   the advantage of the engineer. The formation of oxides on stainless
+   steels, for example, can provide a protective layer preventing further
+   atmospheric attack, allowing for a material to be used for sustained
+   periods at both room and high temperature in hostile conditions. Such
+   high temperature corrosion products in the form of compacted oxide
+   layer glazes have also been shown to prevent or reduce wear during high
+   temperature sliding contact of metallic (or metallic and ceramic)
+   surfaces.
+
+Economic impact
+
+   The US Federal Highway Administration released a study, entitled
+   Corrosion Costs and Preventive Strategies in the United States, in 2002
+   on the direct costs associated with metallic corrosion in nearly every
+   U.S. industry sector. The study showed that for 1998 the total annual
+   estimated direct cost of corrosion in the U.S. was approximately $276
+   billion (approximately 3.1% of the US gross domestic product). FHWA
+   Report Number:FHWA-RD-01-156. The NACE International website has a
+   summary slideshow of the report findings. Jones^1 writes that
+   electrochemical corrosion causes between $8 billion and $128 billion in
+   economic damage per year in the United States alone, degrading
+   structures, machines, and containers.
+   Retrieved from " http://en.wikipedia.org/wiki/Corrosion"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

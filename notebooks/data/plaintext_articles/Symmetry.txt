@@ -1,0 +1,779 @@
+   #copyright
+
+Symmetry
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Sphere symmetry group o.
+   Sphere symmetry group o.
+
+   Symmetry means "constancy", i.e. if something retains a certain feature
+   even after we change a way of looking at it, then it is symmetric.
+
+   Thus things can be symmetric
+     * over time (if they do not change over time)
+     * over space (if they look the same even from different points of
+       view)
+     * over size (if it looks the same even if we zoom in or out).
+
+   The symmetric object can be material, such as a person, crystal, quilt,
+   floor tiles, or molecule, or it can be an abstract structure such as a
+   mathematical equation or a series of tones (music). The nature of the
+   change can be similarly diverse, ranging from such simple and intuitive
+   operations as moving across a regularly patterned tile floor or
+   rotating an eight-sided vase, to complex transformations of equations
+   or in the way music is played.
+
+   This article describes symmetry from three perspectives. The first is
+   that of mathematics, in which symmetries are defined and categorized
+   precisely. The second perspective the application of symmetry concepts
+   to science and technology. For example, symmetries turn out to underlie
+   some of the most profound results of modern physics, including aspects
+   of space and time. Finally, a third perspective looks at the rich and
+   varied use of symmetry in history, architecture, art, and religion.
+
+   The opposite of symmetry is asymmetry.
+
+Symmetry in mathematics
+
+   In formal terms, we say that an object is symmetric with respect to a
+   given mathematical operation, if, when applied to the object, this
+   operation does not change the object or its appearance. Two objects are
+   symmetric to each other with respect to a given group of operations if
+   one is obtained from the other by some of the operations (and vice
+   versa).
+
+   Symmetries may also be found in living organisms including humans and
+   other animals (see symmetry in biology below). In 2D geometry the main
+   kinds of symmetry of interest are with respect to the basic Euclidean
+   plane isometries: translations, rotations, reflections, and glide
+   reflections.
+
+Mathematical model for symmetry
+
+Non-isometric symmetry
+
+   As mentioned above, G (the symmetry group of the space itself) may
+   differ from the Euclidean group, the group of isometries.
+
+   Examples:
+     * G is the group of similarity transformations, i.e. affine
+       transformations with a matrix A that is a scalar times an
+       orthogonal matrix. Thus dilations are added, self-similarity is
+       considered a symmetry
+
+     * G is the group of affine transformations with a matrix A with
+       determinant 1 or -1, i.e. the transformation which preserve area;
+       this adds e.g. oblique reflection symmetry.
+
+     * G is the group of all bijective affine transformations
+
+     * In inversive geometry, G includes circle reflections, etc.
+
+     * More generally, an involution defines a symmetry with respect to
+       that involution.
+
+Directional symmetry
+
+   See directional symmetry.
+
+Reflection symmetry
+
+   See reflection symmetry.
+
+   Reflection symmetry, mirror symmetry, mirror-image symmetry, or
+   bilateral symmetry is symmetry with respect to reflection.
+
+   It is the most common type of symmetry. In 2D there is an axis of
+   symmetry, in 3D a plane of symmetry. An object or figure which is
+   indistinguishable from its transformed image is called mirror symmetric
+   (see mirror image).
+
+   The axis of symmetry of a two-dimensional figure is a line such that,
+   if a perpendicular is constructed, any two points lying on the
+   perpendicular at equal distances from the axis of symmetry are
+   identical. Another way to think about it is that if the shape were to
+   be folded in half over the axis, the two halves would be identical: the
+   two halves are each other's mirror image. Thus a square has four axes
+   of symmetry, because there are four different ways to fold it and have
+   the edges all match. A circle has infinitely many axes of symmetry, for
+   the same reason.
+
+   If the letter T is reflected along a vertical axis, it appears the
+   same. Note that this is sometimes called horizontal symmetry, and
+   sometimes vertical symmetry! One can better use an unambiguous
+   formulation, e.g. "T has a vertical symmetry axis."
+
+   The triangles with this symmetry are isosceles, the quadrilaterals with
+   this symmetry are the kites and the isosceles trapezoids.
+
+   For each line or plane of reflection, the symmetry group is isomorphic
+   with Cs (see point groups in three dimensions), one of the three types
+   of order two (involutions), hence algebraically C2. The fundamental
+   domain is a half-plane or half-space.
+
+   Bilateria (bilateral animals, including humans) are more or less
+   symmetric with respect to the sagittal plane.
+
+   In certain contexts there is rotational symmetry anyway. Then
+   mirror-image symmetry is equivalent with inversion symmetry; in such
+   contexts in modern physics the term P-symmetry is used for both (P
+   stands for parity).
+
+   For more general types of reflection there are corresponding more
+   general types of reflection symmetry. Examples:
+     * with respect to a non- isometric affine involution (an oblique
+       reflection in a line, plane, etc).
+
+     * with respect to circle inversion
+
+Rotational symmetry
+
+   See rotational symmetry.
+
+   Rotational symmetry is symmetry with respect to some or all rotations
+   in m-dimensional Euclidean space. Rotations are direct isometries,
+   i.e., isometries preserving orientation. Therefore a symmetry group of
+   rotational symmetry is a subgroup of E+(m) (see Euclidean group).
+
+   Symmetry with respect to all rotations about all points implies
+   translational symmetry with respect to all translations, and the
+   symmetry group is the whole E+(m). This does not apply for objects
+   because it makes space homogeneous, but it may apply for physical laws.
+
+   For symmetry with respect to rotations about a point we can take that
+   point as origin. These rotations form the special orthogonal group
+   SO(m), the group of m×m orthogonal matrices with determinant 1. For m=3
+   this is the rotation group.
+
+   In another meaning of the word, the rotation group of an object is the
+   symmetry group within E+(n), the group of direct isometries; in other
+   words, the intersection of the full symmetry group and the group of
+   direct isometries. For chiral objects it is the same as the full
+   symmetry group.
+
+   Laws of physics are SO(3)-invariant if they do not distinguish
+   different directions in space. Because of Noether's theorem, rotational
+   symmetry of a physical system is equivalent to the angular momentum
+   conservation law. See also rotational invariance.
+
+Translational symmetry
+
+   See main article translational symmetry.
+
+   Translational symmetry leaves an object invariant under a discrete or
+   continuous group of translations T[a](p) = p + a
+
+Glide reflection symmetry
+
+   A glide reflection symmetry (in 3D: a glide plane symmetry) means that
+   a reflection in a line or plane combined with a translation along the
+   line / in the plane, results in the same object. It implies
+   translational symmetry with twice the translation vector.
+
+   The symmetry group is isomorphic with Z.
+
+Rotoreflection symmetry
+
+   In 3D, rotoreflection or improper rotation in the strict sense is
+   rotation about an axis, combined with reflection in a plane
+   perpendicular to that axis. As symmetry groups with regard to a
+   roto-reflection we can distinguish:
+     * the angle has no common divisor with 360°, the symmetry group is
+       not discrete
+     * 2n-fold rotoreflection (angle of 180°/n) with symmetry group S[2n]
+       of order 2n (not to be confused with symmetric groups, for which
+       the same notation is used; abstract group C[2n]); a special case is
+       n=1, inversion, because it does not depend on the axis and the
+       plane, it is characterized by just the point of inversion.
+     * C[nh] (angle of 360°/n); for odd n this is generated by a single
+       symmetry, and the abstract group is C[2n], for even n this is not a
+       basic symmetry but a combination.See also point groups in three
+       dimensions.
+
+Helical symmetry
+
+   A drill bit with helical symmetry.
+   A drill bit with helical symmetry.
+
+   Helical symmetry is the kind of symmetry seen in such everyday objects
+   as springs, Slinky toys, drill bits, and augers. It can be thought of
+   as rotational symmetry along with translation along the axis of
+   rotation. The concept of helical symmetry can be visualized as the
+   tracing in three-dimensional space that results from rotating an object
+   at an even speed while simultaneously moving at another even speed
+   along its axis of rotation (translation). At any one point in time,
+   these two motions combine to give a coiling angle that helps define the
+   properties of the tracing. When the tracing object rotates quickly and
+   translates slowly, the coiling angle will be close to 0°. Conversely,
+   if the rotation is slow and the translation speedy, the coiling angle
+   will approach 90°.
+
+   Three main classes of helical symmetry can be distinguished based on
+   the interplay of the angle of coiling and translation symmetries along
+   the axis:
+     * Infinite helical symmetry. If there are no distinguishing features
+       along the length of a helix or helix-like object, the object will
+       have infinite symmetry much like that of a circle, but with the
+       additional requirement of translation along the long axis of the
+       object to return it to its original appearance. A helix-like object
+       is one that has at every point the regular angle of coiling of a
+       helix, but which can also have a cross section of indefinitely high
+       complexity, provided only that precisely the same cross section
+       exists (usually after a rotation) at every point along the length
+       of the object. Simple examples include evenly coiled springs,
+       slinkies, drill bits, and augers. Stated more precisely, an object
+       has infinite helical symmetries if for any small rotation of the
+       object around its central axis there exists a point nearby (the
+       translation distance) on that axis at which the object will appear
+       exactly as it did before. It is this infinite helical symmetry that
+       gives rise to the curious illusion of movement along the length of
+       an auger or screw bit that is being rotated. It also provides the
+       mechanically useful ability of such devices to move materials along
+       their length, provided that they are combined with a force such as
+       gravity or friction that allows the materials to resist simply
+       rotating along with the drill or auger.
+
+     * n-fold helical symmetry. If the requirement that every cross
+       section of the helical object be identical is relaxed, additional
+       lesser helical symmetries become possible. For example, the cross
+       section of the helical object may change, but still repeats itself
+       in a regular fashion along the axis of the helical object.
+       Consequently, objects of this type will exhibit a symmetry after a
+       rotation by some fixed angle θ and a translation by some fixed
+       distance, but will not in general be invariant for any rotation
+       angle. If the angle (rotation) at which the symmetry occurs divides
+       evenly into a full circle (360°), the result is the helical
+       equivalent of a regular polygon. This case is called n-fold helical
+       symmetry, where n = 360°/θ. This concept can be further generalized
+       to include cases where mθ is a multiple of 360°—that is, the cycle
+       does eventually repeat, but only after more than one full rotation
+       of the helical object.
+
+     * Non-repeating helical symmetry. This is the case in which the angle
+       of rotation θ required to observe the symmetry is an irrational
+       number such as \sqrt 2 radians that never repeats exactly no matter
+       how many times the helix is rotated. Such symmetries are created by
+       using a non-repeating point group in two dimensions. DNA is an
+       example of this type of non-repeating helical symmetry.
+
+Scale symmetry and fractals
+
+   Scale symmetry refers to the idea that if an object is expanded or
+   reduced in size, the new object has the same properties as the
+   original. Scale symmetry is notable for the fact that it does not exist
+   for most physical systems, a point that was first discerned by Galileo.
+   Simple examples of the lack of scale symmetry in the physical world
+   include the difference in the strength and size of the legs of
+   elephants versus mice, and the observation that if a candle made of
+   soft wax was enlarged to the size of a tall tree, it would immediately
+   collapse under its own weight.
+
+   A more subtle form of scale symmetry is demonstrated by fractals. As
+   conceived by Mandelbrot, fractals are a mathematical concept in which
+   the structure of a complex form looks exactly the same no matter what
+   degree of magnification is used to examine it. A coast is an example of
+   a naturally occurring fractal, since it retains roughly comparable and
+   similar-appearing complexity at every level from the view of a
+   satellite to a microscopic examination of how the water laps up against
+   individual grains of sand. The branching of trees, which enables
+   children to use small twigs as stand-ins for full trees in dioramas, is
+   another example.
+
+   This similarity to naturally occurring phenomena provides fractals with
+   an everyday familiarity not typically seen with mathematically
+   generated functions. As a consequence, they can produce strikingly
+   beautiful results such as the Mandelbrot set. Intriguingly, fractals
+   have also found a place in CG, or computer-generated movie effects,
+   where their ability to create very complex curves with fractal
+   symmetries results in more realistic virtual worlds.
+
+Symmetry combinations
+
+   See symmetry combinations.
+
+Symmetry in science and technology
+
+Generalisation of the concept of symmetry
+
+     * Definitions of symmetry and its related notions
+
+Symmetry in physics
+
+   Symmetry in physics has been generalized to mean invariance—that is,
+   lack of any visible change—under any kind of transformation. This
+   concept has become one of the most powerful tools of theoretical
+   physics, as it has become evident that practically all laws of nature
+   originate in symmetries. See Noether's theorem (which, as a gross
+   oversimplification, states that for every mathematical symmetry, there
+   is a corresponding conserved quantity; a conserved current, in
+   Noether's original language); and also, Wigner's classification, which
+   says that the symmetries of the laws of physics determine the
+   properties of the particles found in nature.
+
+Symmetry in physical objects
+
+Classical objects
+
+   Although an everyday object may appear exactly the same after a
+   symmetry operation such as a rotation or an exchange of two identical
+   parts has been performed on it, it is readily apparent that such a
+   symmetry is true only as an approximation for any ordinary physical
+   object.
+
+   For example, if one rotates a precisely machined aluminium equilateral
+   triangle 120 degrees around its centre, a casual observer brought in
+   before and after the rotation will be unable to decide whether or not
+   such a rotation took place. However, the reality is that each corner of
+   a triangle will always appear unique when examined with sufficient
+   precision. An observer armed with sufficiently detailed measuring
+   equipment such as optical or electron microscopes will not be fooled;
+   she will immediately recognize that the object has been rotated by
+   looking for details such as crystals or minor deformities.
+
+   Such simple thought experiments show that assertions of symmetry in
+   everyday physical objects are always a matter of approximate similarity
+   rather than of precise mathematical sameness. The most important
+   consequence of this approximate nature of symmetries in everyday
+   physical objects is that such symmetries have minimal or no impacts on
+   the physics of such objects. Consequently, only the deeper symmetries
+   of space and time play a major role in classical physics—that is, the
+   physics of large, everyday objects.
+
+Quantum objects
+
+   Remarkably, there exists a realm of physics for which mathematical
+   assertions of simple symmetries in real objects cease to be
+   approximations. That is the domain of quantum physics, which for the
+   most part is the physics of very small, very simple objects such as
+   electrons, protons, light, and atoms.
+
+   Unlike everyday objects, objects such as electrons have very limited
+   numbers of configurations, called states, in which they can exist. This
+   means that when symmetry operations such as exchanging the positions of
+   components are applied to them, the resulting new configurations often
+   cannot be distinguished from the originals no matter how diligent an
+   observer is. Consequently, for sufficiently small and simple objects
+   the generic mathematical symmetry assertion F(x) = x ceases to be
+   approximate, and instead becomes an experimentally precise and accurate
+   description of the situation in the real world.
+
+Consequences of quantum symmetry
+
+   While it makes sense that symmetries could become exact when applied to
+   very simple objects, the immediate intuition is that such a detail
+   should not affect the physics of such objects in any significant way.
+   This is in part because it is very difficult to view the concept of
+   exact similarity as physically meaningful. Our mental picture of such
+   situations is invariably the same one we use for large objects: We
+   picture objects or configurations that are very, very similar, but for
+   which if we could "look closer" we would still be able to tell the
+   difference.
+
+   However, the assumption that exact symmetries in very small objects
+   should not make any difference in their physics was discovered in the
+   early 1900s to be spectacularly incorrect. The situation was succinctly
+   summarized by Richard Feynman in the direct transcripts of his Feynman
+   Lectures on Physics, Volume III, Section 3.4, Identical particles.
+   (Unfortunately, the quote was edited out of the printed version of the
+   same lecture.)
+
+          "... if there is a physical situation in which it is impossible
+          to tell which way it happened, it always interferes; it never
+          fails."
+
+   The word " interferes" in this context is a quick way of saying that
+   such objects fall under the rules of quantum mechanics, in which they
+   behave more like waves that interfere than like everyday large objects.
+
+   In short, when an object becomes so simple that a symmetry assertion of
+   the form F(x) = x becomes an exact statement of experimentally
+   verifiable sameness, x ceases to follow the rules of classical physics
+   and must instead be modeled using the more complex—and often far less
+   intuitive—rules of quantum physics.
+
+   This transition also provides an important insight into why the
+   mathematics of symmetry are so deeply intertwined with those of quantum
+   mechanics. When physical systems make the transition from symmetries
+   that are approximate to ones that are exact, the mathematical
+   expressions of those symmetries cease to be approximations and are
+   transformed into precise definitions of the underlying nature of the
+   objects. From that point on, the correlation of such objects to their
+   mathematical descriptions becomes so close that it is difficult to
+   separate the two.
+
+Symmetry as a unifying principle of geometry
+
+   The German geometer Felix Klein enunciated a very influential Erlangen
+   programme in 1872, suggesting symmetry as unifying and organising
+   principle in geometry (at a time when that was read 'geometries'). This
+   is a broad rather than deep principle. Initially it led to interest in
+   the groups attached to geometries, and the slogan transformation
+   geometry (an aspect of the New Math, but hardly controversial in modern
+   mathematical practice). By now it has been applied in numerous forms,
+   as kind of standard attack on problems.
+
+Symmetry in mathematics
+
+   An example of a mathematical expression exhibiting symmetry is a^2c +
+   3ab + b^2c. If a and b are exchanged, the expression remains unchanged
+   due to the commutativity of addition and multiplication.
+
+   Like in geometry, for the terms there are two possibilities:
+     * it is itself symmetric
+     * it has one or more other terms symmetric with it, in accordance
+       with the symmetry kind
+
+   See also symmetric function, duality (mathematics)
+
+Symmetry in logic
+
+   A dyadic relation R is symmetric if and only if, whenever it's true
+   that Rab, it's true that Rba. Thus, “is the same age as” is
+   symmetrical, for if Paul is the same age as Mary, then Mary is the same
+   age as Paul.
+
+   Symmetric binary logical connectives are " and" (∧, \land , or &), "
+   or" (∨), " biconditional" ( iff) (↔), NAND ("not-and"), XOR
+   ("not-biconditional"), and NOR ("not-or").
+
+Generalizations of symmetry
+
+   If we have a given set of objects with some structure, then it is
+   possible for a symmetry to merely convert only one object into another,
+   instead of acting upon all possible objects simultaneously. This
+   requires a generalization from the concept of symmetry group to that of
+   a groupoid.
+
+   Physicists have come up with other directions of generalization, such
+   as supersymmetry and quantum groups.
+
+Symmetry in biology
+
+   See symmetry (biology) and facial symmetry.
+
+Symmetry in chemistry
+
+   Symmetry is important to chemistry because it explains observations in
+   spectroscopy, quantum chemistry and crystallography. It draws heavily
+   on group theory.
+
+Symmetry in telecommunications
+
+   Some telecommunications services (specifically data products) may be
+   referred to as symmetrical or asymmetrical. This refers to the
+   bandwidth allocated for data sent and received. Most internet services
+   used by residential customers are asymmetrical: the data sent to the
+   server normally is far less than that returned by the server.
+
+Symmetry in history, religion, and culture
+
+   In any human endeavor for which an impressive visual result is part of
+   the desired objective, symmetries do not play a profound role at all.
+   The innate appeal of symmetry can be found in our reactions to
+   happening across highly symmetrical natural objects, such as precisely
+   formed crystals or beautifully spiraled seashells. Our first reaction
+   in finding such an object often is to wonder whether we have found an
+   object created by a fellow human, followed quickly by surprise that the
+   symmetries that caught out attention are derived from nature itself. In
+   both reactions we give away our inclination to view symmetries both as
+   beautiful and, in some fashion, informative of the world around us.
+
+Symmetry in religious symbols
+
+   Symmetry in religious symbols. Row 1. Christian, Jewish, Hindu 2.
+   Islamic, Buddhist, Shinto 3. Sikh, Baha'i, Jain
+   Symmetry in religious symbols. Row 1. Christian, Jewish, Hindu 2.
+   Islamic, Buddhist, Shinto 3. Sikh, Baha'i, Jain
+
+   The tendency of people to see purpose in symmetry suggests at least one
+   reason why symmetries are often an integral part of the symbols of
+   world religions. Just a few of many examples include the sixfold
+   rotational symmetry of Judaism's Star of David, the twofold point
+   symmetry of Taoism's Taijitu or Yin-Yang, the bilateral symmetry of
+   Christianity's cross and Sikhism's Khanda, or the fourfold point
+   symmetry of Jain's ancient (and peacefully intended) version of the
+   swastika. With its strong prohibitions against the use of
+   representational images, Islam, and in particular the Sunni branch of
+   Islam, has developed some of the most intricate and visually impressive
+   use of symmetries for decorative uses of any major religion.
+
+   The ancient Taijitu image of Taoism is a particularly fascinating use
+   of symmetry around a central point, combined with black-and-white
+   inversion of colour at opposite distances from that central point. The
+   image, which is often misunderstood in the Western world as
+   representing good (white) versus evil (black), is actually intended as
+   a graphical representative of the complementary need for two abstract
+   concepts of "maleness" (white) and "femaleness" (black). The symmetry
+   of the symbol in this case is used not just to create a symbol that
+   catches the attention of the eye, but to make a significant statement
+   about the philosophical beliefs of the people and groups that use
+   it.Also an important symmetrical religious symbol is the Shintoist
+   "Torii" "The gate of the birds", usually the gate of the Shintoist
+   temples called "Jinjas".
+
+Symmetry in architecture
+
+   Another human endeavor in which the visual result plays a vital part in
+   the overall result is architecture. Both in ancient times, the ability
+   of a large structure to impress or even intimidate its viewers has
+   often been a major part of its purpose, and the use of symmetry is an
+   inescapable aspect of how to accomplish such goals.
+
+   Just a few examples of ancient examples of architectures that made
+   powerful use of symmetry to impress those around them included the
+   Egyptian Pyramids, the Greek Parthenon, and the first and second Temple
+   of Jerusalem, China's Forbidden City, Kampuchea's (Cambodia's) Angkor
+   Wat complex, and the and the many temples and pyramids of ancient
+   Pre-Columbian civilizations. More recent historical examples of
+   architectures emphasizing symmetries include Gothic architecture
+   cathedrals, and American President Thomas Jefferson's Monticello home.
+   India's unparalleled Taj Mahal is in a category by itself, as it may
+   arguably be one of the most impressive and beautiful uses of symmetry
+   in architecture that the world has ever seen.
+   Leaning Tower of Pisa
+   Leaning Tower of Pisa
+
+   An interesting example of a broken symmetry in architecture is the
+   Leaning Tower of Pisa, whose notoriety stems in no small part not for
+   the intended symmetry of its design, but for the violation of that
+   symmetry from the lean that developed while it was still under
+   construction. Modern examples of architectures that make impressive or
+   complex use of various symmetries include Australia's astonishing
+   Sydney Opera House and Houston, Texas's simpler Astrodome.
+
+   Symmetry finds its ways into architecture at every scale, from the
+   overall external views, through the layout of the individual floor
+   plans, and down to the design of individual building elements such as
+   intricately caved doors, stained glass windows, tile mosaics, friezes,
+   stairwells, stair rails, and balustradess. For sheer complexity and
+   sophistication in the exploitation of symmetry as an architectural
+   element, Islamic buildings such as the Taj Mahal often eclipse those of
+   other cultures and ages, due in part to the general prohibition of
+   Islam against using images or people or animals.
+
+   Links related to symmetry in architecture include:
+     * Williams: Symmetry in Architecture
+     * Aslaksen: Mathematics in Art and Architecture
+
+Symmetry in pottery and metal vessels
+
+   Persian vessel (4th millennium B.C.)
+   Persian vessel (4th millennium B.C.)
+
+   Since the earliest uses of pottery wheels to help shape clay vessels,
+   pottery has had a strong relationship to symmetry. As a minimum,
+   pottery created using a wheel necessarily begins with full rotational
+   symmetry in its cross-section, while allowing substantial freedom of
+   shape in the vertical direction. Upon this inherently symmetrical
+   starting point cultures from ancient times have tended to add further
+   patterns that tend to exploit or in many cases reduce the original full
+   rotational symmetry to a point where some specific visual objective is
+   achieved. For example, Persian pottery dating from the fourth
+   millennium B.C. and earlier used symmetric zigzags, squares,
+   cross-hatchings, and repetitions of figures to produce more complex and
+   visually striking overall designs.
+
+   Cast metal vessels lacked the inherent rotational symmetry of
+   wheel-made pottery, but otherwise provided a similar opportunity to
+   decorate their surfaces with patterns pleasing to those who used them.
+   The ancient Chinese, for example, used symmetrical patterns in their
+   bronze castings as early as the 17th century B.C. Bronze vessels
+   exhibited both a bilateral main motif and a repetitive translated
+   border design.
+
+   Links:
+     * Chinavoc: The Art of Chinese Bronzes
+
+     * Grant: Iranian Pottery in the Oriental Institute
+
+     * The Metropolitan Museum of Art - Islamic Art
+
+Symmetry in quilts
+
+   Kitchen Kaleidoscope Block
+   Kitchen Kaleidoscope Block
+
+   As quilts are made from square blocks (usually 9, 16, or 25 pieces to a
+   block) with each smaller piece usually consisting of fabric triangles,
+   the craft lends itself readily to the application of symmetry.
+
+   Links:
+     * Quate: Exploring Geometry Through Quilts
+
+     * Quilt Geometry
+
+Symmetry in carpets and rugs
+
+   Navajo blanket
+   Navajo blanket
+   Persian rug.
+   Persian rug.
+
+   A long tradition of the use of symmetry in carpet and rug patterns
+   spans a variety of cultures. American Navajo Indians used bold
+   diagonals and rectangular motifs. Many Oriental rugs have intricate
+   reflected centers and borders that translate a pattern. Not
+   surprisingly, rectangular rugs typically use quadrilateral
+   symmetry—that is, motifs that are reflected across both the horizontal
+   and vertical axes.
+
+   Links:
+     * Mallet: Tribal Oriental Rugs
+
+     * Dilucchio: Navajo Rugs
+
+Symmetry in music
+
+   Symmetry is of course not restricted to the visual arts. Its role in
+   the history of music touches many aspect of the creation and perception
+   of music.
+
+Musical form
+
+   Symmetry has been used as a formal constraint by many composers, such
+   as the arch form (ABCBA) used by Steve Reich, Béla Bartók, and James
+   Tenney (or swell). In classical music, Bach used the symmetry concepts
+   of permutation and invariance; see (external link "Fugue No. 21," pdf
+   or Shockwave).
+
+Pitch structures
+
+   Symmetry is also an important consideration in the formation of scales
+   and chords, traditional or tonal music being made up of non-symmetrical
+   groups of pitches, such as the diatonic scale or the major chord.
+   Symmetrical scales or chords, such as the whole tone scale, augmented
+   chord, or diminished seventh chord (diminished-diminished seventh), are
+   said to lack direction or a sense of forward motion, are ambiguous as
+   to the key or tonal centre, and have a less specific diatonic
+   functionality. However, composers such as Alban Berg, Béla Bartók, and
+   George Perle have used axes of symmetry and/or interval cycles in an
+   analogous way to keys or non- tonal tonal centers.
+
+   Perle (1992) explains "C-E, D-F#, [and] Eb-G, are different instances
+   of the same interval...the other kind of identity...has to do with axes
+   of symmetry. C-E belongs to a family of symmetrically related dyads as
+   follows:"
+   D D# E F F# G G#
+   D C# C B A# A G#
+
+   Thus in addition to being part of the interval-4 family, C-E is also a
+   part of the sum-4 family (with C equal to 0).
+   + 2 3 4 5  6  7 8
+     2 1 0 11 10 9 8
+     4 4 4 4  4  4 4
+
+   Interval cycles are symmetrical and thus non-diatonic. However, a seven
+   pitch segment of C5 (the cycle of fifths, which are enharmonic with the
+   cycle of fourths) will produce the diatonic major scale. Cyclic tonal
+   progressions in the works of Romantic composers such as Gustav Mahler
+   and Richard Wagner form a link with the cyclic pitch successions in the
+   atonal music of Modernists such as Bartók, Alexander Scriabin, Edgard
+   Varèse, and the Vienna school. At the same time, these progressions
+   signal the end of tonality.
+
+   The first extended composition consistently based on symmetrical pitch
+   relations was probably Alban Berg's Quartet, Op. 3 (1910). (Perle,
+   1990)
+
+Equivalency
+
+   Tone rows or pitch class sets which are invariant under retrograde are
+   horizontally symmetrical, under inversion vertically. See also
+   Asymmetric rhythm.
+
+Symmetry in other arts and crafts
+
+   Celtic knotwork
+   Celtic knotwork
+
+   The concept of symmetry is applied to the design of objects of all
+   shapes and sizes. Other examples include beadwork, furniture, sand
+   paintings, knotwork, masks, musical instruments, and many other
+   endeavors.
+
+Symmetry in aesthetics
+
+   The relationship of symmetry to aesthetics is complex. Certain simple
+   symmetries, and in particular bilateral symmetry, seem to be deeply
+   ingrained in the inherent perception by humans of the likely health or
+   fitness of other living creatures, as can be seen by the simple
+   experiment of distorting one side of the image of an attractive face
+   and asking viewers to rate the attractiveness of the resulting image.
+   Consequently, such symmetries that mimic biology tend to have an innate
+   appeal that in turn drives a powerful tendency to create artifacts with
+   similar symmetry. One only needs to imagine the difficulty in trying to
+   market a highly asymmetrical car or truck to general automotive buyers
+   to understand the power of biologically inspired symmetries such as
+   bilateral symmetry.
+
+   Another more subtle appeal of symmetry is that of simplicity, which in
+   turn has an implication of safety, security, and familiarity. A highly
+   symmetrical room, for example, is unavoidably also a room in which
+   anything out of place or potentially threatening can be identified
+   easily and quickly. People who have, for example, grown up in houses
+   full of exact right angles and precisely identical artifacts can find
+   their first experience in staying in a room with no exact right angles
+   and no exactly identical artifacts to be highly disquieting. Symmetry
+   thus can be a source of comfort not only as an indicator of biological
+   health, but also of a safe an well-understood living environment.
+
+   Opposed to this is the tendency for excessive symmetry to be perceived
+   as boring or uninteresting. Humans in particular have a powerful desire
+   to exploit new opportunities or explore new possibilities, and an
+   excessive degree of symmetry can convey a lack of such opportunities.
+
+   Yet another possibility is that when symmetries become too complex or
+   too challenging, the human mind has a tendency to "tune them out" and
+   perceive them in yet another fashion: as noise that conveys no useful
+   information.
+
+   Finally, perceptions and appreciation of symmetries are also dependent
+   on cultural background. The far greater use of complex geometric
+   symmetries in many Islamic cultures, for example, makes it more likely
+   that people from such cultures will appreciate such art forms (or,
+   conversely, to rebel against them).
+
+   As in many human endeavors, the result of the confluence of many such
+   factors is that effective use of symmetry in art and architecture is
+   complex, intuitive, and highly dependent on the skills of the
+   individuals who must weave and combine such factors within their own
+   creative work. Along with texture, colour, proportion, and other
+   factors, symmetry is a powerful ingredient in any such synthesis; one
+   only need to examine the Taj Mahal to powerful role that symmetry plays
+   in determining the aesthetic appeal of an object.
+
+   A few examples of the more explicit use of symmetries in art can be
+   found in the remarkable art of M. C. Escher, the creative design of the
+   mathematical concept of a wallpaper group, and the many applications
+   (both mathematical and real world) of tiling.
+
+Symmetry in games and puzzles
+
+     * See also symmetric games.
+
+     * See sudoku.
+
+   Puzzles
+     * The Diamond 16 Puzzle
+
+   Board games
+     * The Symmetrical Chess Collection
+
+Symmetry in literature
+
+   See palindrome.
+
+Moral symmetry
+
+     * Tit for tat
+     * Reciprocity
+     * Golden Rule
+     * Empathy & Sympathy
+     * Reflective equilibrium
+
+   Retrieved from " http://en.wikipedia.org/wiki/Symmetry"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

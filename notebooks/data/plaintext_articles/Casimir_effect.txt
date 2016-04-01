@@ -1,0 +1,341 @@
+   #copyright
+
+Casimir effect
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics, the Casimir effect is a physical force exerted between
+   separate objects, which is due to neither charge, gravity, nor the
+   exchange of particles, but instead is due to resonance of all-pervasive
+   energy fields in the intervening space between the objects. This is
+   sometimes described in terms of virtual particles interacting with the
+   objects, due to the mathematical form of one possible way of
+   calculating the strength of the effect. Since the strength of the force
+   falls off rapidly with distance it is only measurable when the distance
+   between the objects is extremely small. On a submicron scale, this
+   force becomes so strong that it becomes the dominant force between
+   uncharged conductors.
+
+   Dutch physicist Hendrik B. G. Casimir first proposed the existence of
+   the force, and he formulated an experiment to detect it in 1948 while
+   participating in research at Philips Research Labs. The classic form of
+   his experiment used a pair of uncharged parallel metal plates in a
+   vacuum, and successfully demonstrated the force to within 15% of the
+   value he had predicted according to his theory.
+
+   The van der Waals force between a pair of neutral atoms is a similar
+   effect. In modern theoretical physics, the Casimir effect plays an
+   important role in the chiral bag model of the nucleon, and in applied
+   physics, it is becoming of increasing importance in development of the
+   ever-smaller, miniaturised components of emerging micro- and nano-
+   technologies.
+
+Overview
+
+   The Casimir effect can be understood by the idea that the presence of
+   conducting metals and dielectrics alter the vacuum expectation value of
+   the energy of the electromagnetic field. Since the value of this energy
+   depends on the shapes and positions of the conductors and dielectrics,
+   the Casimir effect manifests itself as a force between such objects.
+
+Vacuum energy
+
+   The Casimir effect is an outcome of quantum field theory, which states
+   that all of the various fundamental fields, such as the electromagnetic
+   field, must be quantized at each and every point in space. In a naïve
+   sense, a field in physics may be envisioned as if space were filled
+   with interconnected vibrating balls and springs, and the strength of
+   the field can be visualized as the displacement of a ball from its rest
+   position. Vibrations in this field propagate, and are governed by the
+   appropriate wave equation for the particular field in question. The
+   second quantization of quantum field theory requires that each such
+   ball-spring combination be quantized, that is, that the strength of the
+   field be quantized at each point in space. Canonically, the field at
+   each point in space is a simple harmonic oscillator, and its
+   quantization places a quantum harmonic oscillator at each point.
+   Excitations of the field correspond to the elementary particles of
+   particle physics. However, as this picture shows, even the vacuum has a
+   vastly complex structure. All calculations of quantum field theory must
+   be made in relation to this model of the vacuum.
+
+   The vacuum has, implicitly, all of the properties that a particle may
+   have: spin, or polarization in the case of light, energy, and so on. On
+   average, all of these properties cancel out: the vacuum is after all,
+   "empty" in this sense. One important exception is the vacuum energy or
+   the vacuum expectation value of the energy. The quantization of a
+   simple harmonic oscillator states that the lowest possible energy or
+   zero-point energy that such an oscillator may have is
+
+          {E} = \begin{matrix} \frac{1}{2} \end{matrix} \hbar \omega \ .
+
+   Summing over all possible oscillators at all points in space gives an
+   infinite quantity. To remove this infinity, one may argue that only
+   differences in energy are physically measurable; this argument is the
+   underpinning of the theory of renormalization. In all practical
+   calculations, this is how the infinity is always handled. In a deeper
+   sense, however, renormalization is unsatisfying, and the removal of
+   this infinity presents a challenge in the search for a Theory of
+   Everything. As of 2006, there is no compelling explanation for how this
+   infinity should be treated as essentially zero; a non-zero value is
+   essentially the cosmological constant and any large value causes
+   trouble in cosmology.
+
+The Casimir effect
+
+   Casimir forces on parallel plates.
+   Enlarge
+   Casimir forces on parallel plates.
+
+   Casimir's observation was that the second-quantized, quantum
+   electromagnetic field, in the presence of bulk bodies such as metals or
+   dielectrics, must obey the same boundary conditions that the classical
+   electromagnetic field must obey. In particular, this affects the
+   calculation of the vacuum energy in the presence of a conductor or
+   dielectric.
+
+   Consider, for example, the calculation of the vacuum expectation value
+   of the electromagnetic field inside a metal cavity, such as, for
+   example, a radar cavity or a microwave waveguide. In this case, the
+   correct way to find the zero point energy of the field is to sum the
+   energies of the standing waves of the cavity. To each and every
+   possible standing wave corresponds an energy; say the energy of the nth
+   standing wave is E[n]. The vacuum expectation value of the
+   electromagnetic field in the cavity is then
+
+          \langle E \rangle = \frac{1}{2} \sum_n E_n
+
+   with the sum running over all possible values of n enumerating the
+   standing waves. The factor of 1/2 corresponds to the fact that the
+   zero-point energies are being summed (it is the same 1/2 as appears in
+   the equation E=\hbar \omega/2 ). Written in this way, this sum is
+   clearly divergent; however, it can be used to create finite
+   expressions.
+
+   In particular, one may ask how the zero point energy depends on the
+   shape s of the cavity. Each energy level E[n] depends on the shape, and
+   so one should write E[n](s) for the energy level, and \langle E(s)
+   \rangle for the vacuum expectation value. At this point comes an
+   important observation: the force at point p on the wall of the cavity
+   is equal to the change in the vacuum energy if the shape s of the wall
+   is perturbed a little bit, say by δs, at point p. That is, one has
+
+          F(p) = - \left. \frac{\delta \langle E(s) \rangle} {\delta s}
+          \right\vert_p\,
+
+   This value is finite in many practical calculations.
+
+Casimir's calculation
+
+   In the original calculation done by Casimir, he considered the space
+   between a pair of conducting metal plates a distance a apart. In this
+   case, the standing waves are particularly easy to calculate, since the
+   transverse component of the electric field and the normal component of
+   the magnetic field must vanish on the surface of a conductor. Assuming
+   the parallel plates lie in the x-y plane, the standing waves are
+
+          \psi_n(x,y,z,t) = e^{-i\omega_nt} e^{ik_xx+ik_yy} \sin \left(
+          k_n z \right)
+
+   where ψ stands for the electric component of the electromagnetic field,
+   and, for brevity, the polarization and the magnetic components are
+   ignored here. Here, k[x] and k[y] are the wave vectors in directions
+   parallel to the plates, and
+
+          k_n = \frac{n\pi}{a}
+
+   is the wave-vector perpendicular to the plates. Here, n is an integer,
+   resulting from the requirement that ψ vanish on the metal plates. The
+   energy of this wave is
+
+          \omega_n = c \sqrt{{k_x}^2 + {k_y}^2 + \frac{n^2\pi^2}{a^2}}
+
+   where c is the speed of light. The vacuum energy is then the sum over
+   all possible excitation modes
+
+          \langle E \rangle = \frac{\hbar}{2} \cdot 2 \int \frac{dk_x
+          dk_y}{(2\pi)^2} \sum_{n=1}^\infty A\omega_n
+
+   where A is the area of the metal plates, and a factor of 2 is
+   introduced for the two possible polarizations of the wave. This
+   expression is clearly infinite, and to proceed with the calculation, it
+   is convenient to introduce a regulator (discussed in greater detail
+   below). The regulator will serve to make the expression finite, and in
+   the end will be removed. The zeta-regulated version of the energy per
+   unit-area of the plate is
+
+          \frac{\langle E(s) \rangle}{A} = \hbar \int \frac{dk_x
+          dk_y}{(2\pi)^2} \sum_{n=1}^\infty \omega_n \vert
+          \omega_n\vert^{-s}
+
+   In the end, the limit s\to 0 is to be taken. Here s is just a complex
+   number, not to be confused with the shape discussed previously. This
+   integral/sum is finite for s real and larger than 3. The sum has a pole
+   at s=3, but may be analytically continued to s=0, where the expression
+   is finite. Expanding this, one gets
+
+          \frac{\langle E(s) \rangle}{A} = \frac{\hbar c^{1-s}}{4\pi^2}
+          \sum_n \int_0^\infty 2\pi qdq \left \vert q^2 + \frac{\pi^2
+          n^2}{a^2} \right\vert^{(1-s)/2}
+
+   where polar coordinates q^2 = k_x^2+k_y^2 were introduced to turn the
+   double integral into a single integral. The q in front in the Jacobian,
+   and the 2π comes from the angular integration. The integral is easily
+   performed, resulting in
+
+          \frac{\langle E(s) \rangle}{A} = -\frac {\hbar c^{1-s}
+          \pi^{2-s}}{2a^{3-s}} \frac{1}{3-s} \sum_n \vert n\vert ^{3-s}
+
+   The sum may be understood to be the Riemann zeta function, and so one
+   has
+
+          \frac{\langle E \rangle}{A} = \lim_{s\to 0} \frac{\langle E(s)
+          \rangle}{A} = -\frac {\hbar c \pi^{2}}{6a^{3}} \zeta (-3)
+
+   But ζ( − 3) = 1 / 120 and so one obtains
+
+          \frac{\langle E \rangle}{A} = \frac {-\hbar c \pi^{2}}{3 \cdot
+          240 a^{3}}
+
+   The Casimir force per unit area F[c] / A for idealized, perfectly
+   conducting plates with vacuum between them is
+
+          {F_c \over A} = - \frac{d}{da} \frac{\langle E \rangle}{A} =
+          -\frac {\hbar c \pi^2} {240 a^4}
+
+   where
+
+          \hbar (hbar, ℏ) is the reduced Planck constant,
+          c is the speed of light,
+          a is the distance between the two plates.
+
+   The force is negative, indicating that the force is attractive: by
+   moving the two plates closer together, the energy is lowered. The
+   presence of \hbar shows that the Casimir force per unit area F[c] / A
+   is very small, and that furthermore, the force is inherently of
+   quantum-mechanical origin.
+
+Measurement
+
+   One of the first experimental tests was conducted by Marcus Spaarnay at
+   Philips in Eindhoven, in 1958, in a delicate and difficult experiment
+   with parallel plates, obtaining results not in contradiction with the
+   Casimir theory, but with large experimental errors.
+
+   The Casimir effect was measured more accurately in 1997 by Steve K.
+   Lamoreaux of Los Alamos National Laboratory and by Umar Mohideen of the
+   University of California at Riverside and his colleague Anushree Roy.
+   In practice, rather than using two parallel plates, which would require
+   phenomenally accurate alignment to ensure they were parallel, the
+   experiments use one plate that is flat and another plate that is a part
+   of a sphere with a large radius of curvature. In 2001, a group at the
+   University of Padua finally succeeded in measuring the Casimir force
+   between parallel plates using microresonators.
+
+   Further research has shown that, with materials of certain permittivity
+   and permeability, or with a certain configuration, the Casimir effect
+   could be made repulsive instead of attractive, although there are no
+   experimental demonstrations of these predictions.
+
+Regularization
+
+   In order to be able to perform calculations in the general case, it is
+   convenient to introduce a regulator in the summations. This is an
+   artificial device, used to make the sums finite so that they can be
+   more easily manipulated, followed by the taking of a limit so as to
+   remove the regulator.
+
+   The heat kernel or exponentially regulated sum is
+
+          \langle E(t) \rangle = \frac{1}{2} \sum_n \hbar |\omega_n| \exp
+          (-t|\omega_n|)
+
+   where the limit t\to 0^+ is taken in the end. The divergence of the sum
+   is typically manifested as
+
+          \langle E(t) \rangle = \frac{C}{t^3} + \textrm{finite}\,
+
+   for three-dimensional cavities. The infinite part of the sum is
+   associated with the bulk constant C which does not depend on the shape
+   of the cavity. The interesting part of the sum is the finite part,
+   which is shape-dependent. The Gaussian regulator
+
+          \langle E(t) \rangle = \frac{1}{2} \sum_n \hbar |\omega_n| \exp
+          (-t^2|\omega_n|^2)
+
+   is better suited to numerical calculations because of its superior
+   convergence properties, but is more difficult to use in theoretical
+   calculations. Other, suitably smooth, regulators may be used as well.
+   The zeta function regulator
+
+          \langle E(s) \rangle = \frac{1}{2} \sum_n \hbar |\omega_n|
+          |\omega_n|^{-s}
+
+   is completely unsuited for numerical calculations, but is quite useful
+   in theoretical calculations. In particular, divergences show up as
+   poles in the complex s plane, with the bulk divergence at s=4. This sum
+   may be analytically continued past this pole, to obtain a finite part
+   at s=0.
+
+   Not every cavity configuration necessarily leads to a finite part (the
+   lack of a pole at s=0) or shape-independent infinite parts. In this
+   case, it should be understood that additional physics has to be taken
+   into account. In particular, at extremely large frequencies (above the
+   plasma frequency), metals become transparent to photons (such as
+   x-rays), and dielectrics show a frequency-dependent cutoff as well.
+   This frequency dependence acts as a natural regulator. There are a
+   variety of bulk effects in solid state physics, mathematically very
+   similar to the Casimir effect, where the cutoff frequency comes into
+   explicit play to keep expressions finite. (These are discussed in
+   greater detail in Landau and Lifshitz, "Theory of Continuous Media".)
+
+Generalities
+
+   The Casimir effect can also be computed using the mathematical
+   mechanisms of functional integrals of quantum field theory, although
+   such calculations are considerably more abstract, and thus difficult to
+   comprehend. In addition, they can be carried out only for the simplest
+   of geometries. However, the formalism of quantum field theory makes it
+   clear that the vacuum expectation value summations are in a certain
+   sense summations over so-called " virtual particles".
+
+   More interesting is the understanding that the sums over the energies
+   of standing waves should be formally understood as sums over the
+   eigenvalues of a Hamiltonian. This allows atomic and molecular effects,
+   such as the van der Waals force, to be understood as a variation on the
+   theme of the Casimir effect. Thus one considers the Hamiltonian of a
+   system as a function of the arrangement of objects, such as atoms, in
+   configuration space. The change in the zero-point energy as a function
+   of changes of the configuration can be understood to result in forces
+   acting between the objects.
+
+   In the chiral bag model of the nucleon, the Casimir energy plays an
+   important role in showing the mass of the nucleon is independent of the
+   bag radius. In addition, the spectral asymmetry is interpreted as a
+   non-zero vacuum expectation value of the baryon number, cancelling the
+   topological winding number of the pion field surrounding the nucleon.
+
+Analogies
+
+   A similar analysis can be used to explain Hawking radiation that causes
+   the slow " evaporation" of black holes (although this is generally
+   explained as the escape of one particle from a virtual
+   particle-antiparticle pair, the other particle having been captured by
+   the black hole).
+
+   A more practical analogy is to look at two ships in the open ocean,
+   sailing alongside each other. As they come closer together, their hulls
+   shield the space in between from more and more wave energy, both from
+   the sides as well as from front and back, which increasingly cancel out
+   waves of longer wavelengths than the distance between the hulls. This
+   causes the hulls to be increasingly pushed by this difference in wave
+   activity toward each other, as they get closer to each other, such that
+   if both ships do not actively steer away from each other under power,
+   they will eventually collide. It is for this reason that naval vessels,
+   when resupplying or transferring personnel at sea, must use lines and
+   maintain a minimum distance from each other, based on vessel length and
+   wave height.
+   Retrieved from " http://en.wikipedia.org/wiki/Casimir_effect"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

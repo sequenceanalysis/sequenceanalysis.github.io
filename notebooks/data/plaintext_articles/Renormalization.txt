@@ -1,0 +1,482 @@
+   #copyright
+
+Renormalization
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Figure 1. Renormalization in QED: The simple electron-photon
+   interaction that determines the electron's charge at one
+   renormalization point is revealed to consist of more complicated
+   interactions at another.
+   Enlarge
+   Figure 1. Renormalization in QED: The simple electron-photon
+   interaction that determines the electron's charge at one
+   renormalization point is revealed to consist of more complicated
+   interactions at another.
+
+   In quantum field theory (QFT) and the statistical mechanics of fields,
+   renormalization refers to a collection of techniques used to construct
+   mathematical relationships or approximate relationships between
+   observable quantities, when the standard assumption that the parameters
+   of the theory are finite breaks down (giving the result that many
+   observables are infinite). Renormalization arose in quantum
+   electrodynamics as a means of making sense of the infinite results of
+   various calculations and extracting finite answers to properly posed
+   physical questions. Initially viewed as a suspect, provisional
+   procedure by most of its originators, renormalization eventually was
+   embraced as an important tool in several fields of physics, as a result
+   of work in effective field theory and the renormalization group.
+
+Prehistory: Self-interactions in classical mechanics
+
+   Some of the problems and phenomena eventually addressed by
+   renormalization actually appeared earlier in the classical
+   electrodynamics of point particles in the 19th and early 20th century.
+   When calculating the electromagnetic interactions of charged particles,
+   one often ignores the back-reaction of a particle's own field upon
+   itself. It was realized early on that such a treatment is incomplete,
+   and some theorists explored the intriguing idea that an electron's
+   inertial mass could be entirely due to the back-reaction. However, if
+   the electron is assumed to be a point, the calculated value of this
+   back-reaction diverges, essentially because of the singularity at the
+   origin in the inverse-square law. One potential solution was to assume
+   that the electron had a nonzero size, comparable to the number known as
+   the classical electron radius, about 2.8 x 10^-15m. Then, however,
+   according to Henri Poincaré, the theory became inconsistent unless the
+   electron possessed additional forces to hold it together internally
+   against the repulsion of like charges. Today, the hypothesis of a
+   classical electron radius might be seen as an early attempt at
+   regularization. Attempts to deal with the back-reaction, such as the
+   Abraham-Lorentz force, exhibited bizarre phenomena such as acausal
+   "pre-acceleration", in which an electron would start moving shortly
+   before a force was applied (Jackson 1998). This is because an extended
+   rigid body, when struck, cannot maintain causal subluminal transmission
+   of the impulse: the far end starts moving as soon as the near end is
+   struck. If rigidity goes, the particle ceases to be fundamental since
+   it has internal dynamics; but if subluminality or causality go, so does
+   most of physics.
+
+   In classical field theory, therefore, the contribution of field
+   interactions to a particle's physical properties was already
+   problematic. Indeed, in some ways, the trouble was worse than in QFT,
+   since the short-distance divergences involved were typically stronger
+   than the ones encountered in quantum theories.
+
+Divergences in quantum electrodynamics
+
+   Figure 2. A diagram contributing to electron-electron scattering in
+   QED. The loop has an ultraviolet divergence.
+   Enlarge
+   Figure 2. A diagram contributing to electron-electron scattering in
+   QED. The loop has an ultraviolet divergence.
+   Vacuum polarization aka charge screening. this has a quadratic
+   divergence
+   Vacuum polarization aka charge screening. this has a quadratic
+   divergence
+
+   When developing quantum electrodynamics in the 1940s, Shin'ichiro
+   Tomonaga, Julian Schwinger, Richard Feynman, and Freeman Dyson
+   discovered that, in perturbative calculations, problems with divergent
+   integrals abounded. One way of describing the divergences in QED is
+   that they appear as the consequence of calculations involving Feynman
+   diagrams with closed loops of virtual particles in them. These diagrams
+   appear in the perturbative approximation of quantum field theory. Each
+   looped diagram represents a perturbation, or small correction, to a
+   diagram without loops. Intuitively, diagrams with more and more loops
+   should give smaller and smaller corrections to the values of diagrams
+   which do not contain any loops. However, when the contributions of
+   these loop diagrams are naively calculated, they become infinitely
+   large. One type of loop would be a situation in which a virtual
+   electron- positron pair appear out of the vacuum, interact with various
+   photons, and then annihilate. Another would be an electron-photon
+   interaction as in Figure 1.
+
+   While virtual particles obey conservation of energy and momentum, they
+   can possess combinations of energies and momenta not allowed by the
+   classical laws of motion; physicists say that they are not on shell.
+   Furthermore, whenever a loop appears, the particles involved in the
+   loop are not individually constrained by the energies and momenta of
+   incoming and outgoing particles, since a variation in, say, the energy
+   of one particle in the loop can be balanced by an equal and opposite
+   variation in the energy of another particle in the loop. Therefore, in
+   order to calculate the contribution to a probability amplitude, one
+   must integrate over all possible combinations of energy and momentum in
+   the loop—and these integrals are often divergent, that is, they give
+   infinite answers. The most theoretically troublesome divergences are
+   the " ultraviolet" (UV) ones associated with large energies and momenta
+   of the virtual particles in the loop, or, equivalently, very short
+   wavelengths and high frequencies of the fields for which these
+   particles are the quanta. These divergences are, therefore,
+   fundamentally short-distance, short-time phenomena. (There are infrared
+   divergences as well, but they are not as hard to interpret and are
+   beyond the scope of this article.)
+
+A loop divergence
+
+   The diagram in Figure 2 shows one of the several one-loop contributions
+   to electron-electron scattering in QED. The electron on the left side
+   of the diagram, represented by the solid line, starts out with
+   four-momentum p^μ and ends up with four-momentum r^μ. It emits a
+   virtual photon carrying r^μ − p^μ to transfer energy and momentum to
+   the other electron. But in this diagram, before that happens, it emits
+   another virtual photon carrying four-momentum q^μ, and it reabsorbs
+   this one after emitting the other virtual photon. Energy and momentum
+   conservation do not determine the four-momentum q^μ uniquely, so all
+   possibilities contribute equally and we must integrate.
+
+   This diagram's amplitude ends up with, among other things, a factor
+   from the loop of
+
+          -ie^3 \int {d^4 q \over (2\pi)^4} \gamma^\mu {i (\gamma^\alpha
+          (r-q)_\alpha + m) \over (r-q)^2 - m^2 + i \epsilon} \gamma^\rho
+          {i (\gamma^\beta (p-q)_\beta + m) \over (p-q)^2 - m^2 + i
+          \epsilon} \gamma^\nu {-i g_{\mu\nu} \over q^2 + i\epsilon }
+
+   The various γ^μ factors in this expression are gamma matrices as in the
+   covariant formulation of the Dirac equation; they have to do with the
+   spin of the electron. The important part for our purposes is the
+   dependency on q^μ of the three big factors in the integrand, which are
+   from the propagators of the two electron lines and the photon line in
+   the loop.
+
+   This has a piece with two powers of q^μ on top that dominates at large
+   values of q^μ (Pokorski 1987, p. 122):
+
+          e^3 \gamma^\mu \gamma^\alpha \gamma^\rho \gamma^\beta \gamma_\mu
+          \int {d^4 q \over (2\pi)^4}{q_\alpha q_\beta \over (r-q)^2
+          (p-q)^2 q^2}
+
+   This integral is divergent, and infinite unless we cut it off at finite
+   energy and momentum in some way.
+
+   Similar loop divergences occur in other quantum field theories.
+
+Renormalized and bare quantities
+
+   The solution was to realize that the quantities initially appearing in
+   the theory's formulae (such as the formula for the Lagrangian),
+   representing such things as the electron's electric charge and mass, as
+   well as the normalizations of the quantum fields themselves, did not
+   actually correspond to the physical constants measured in the
+   laboratory. As written, they were bare quantities that did not take
+   into account the contribution of virtual-particle loop effects to the
+   physical constants themselves. Among other things, these effects would
+   include the quantum counterpart of the electromagnetic back-reaction
+   that so vexed classical theorists of electromagnetism. In general,
+   these effects would be just as divergent as the amplitudes under study
+   in the first place; so finite measured quantities would in general
+   imply divergent bare quantities.
+
+   In order to make contact with reality, then, the formulae would have to
+   be rewritten in terms of measurable, renormalized quantities. The
+   charge of the electron, say, would be defined in terms of a quantity
+   measured at a specific kinematic renormalization point or subtraction
+   point (which will generally have a characteristic energy, called the
+   renormalization scale or simply the energy scale). The parts of the
+   Lagrangian left over, involving the remaining portions of the bare
+   quantities, could then be reinterpreted as counterterms, involved in
+   divergent diagrams exactly canceling out the troublesome divergences
+   for other diagrams.
+
+Renormalization in QED
+
+   Figure 3. The vertex corresponding to the Z1 counterterm cancels the
+   divergence in Figure 2.
+   Enlarge
+   Figure 3. The vertex corresponding to the Z[1] counterterm cancels the
+   divergence in Figure 2.
+
+   For example, in the Lagrangian of QED
+
+          \mathcal{L}=\bar\psi_B\left[i\gamma_\mu (\partial^\mu +
+          ie_BA_B^\mu)-m_B\right]\psi_B
+          -\frac{1}{4}F_{B\mu\nu}F_B^{\mu\nu}
+
+   the fields and coupling constant are really bare quantities, hence the
+   subscript B above. Conventionally the bare quantities are written so
+   that the corresponding Lagrangian terms are multiples of the
+   renormalized ones:
+
+          \left(\bar\psi m \psi\right)_B = Z_0 \, \bar\psi m \psi
+          \left(\bar\psi (\partial^\mu + ieA^\mu)\psi\right)_B = Z_1 \,
+          \bar\psi(\partial^\mu + ieA^\mu)\psi
+          \left(F_{\mu\nu}F^{\mu\nu}\right)_B = Z_3\, F_{\mu\nu}F^{\mu\nu}
+          .
+
+   ( Gauge invariance, via a Ward-Takahashi identity, turns out to imply
+   that we can renormalize the two terms of the covariant derivative piece
+   \bar \psi (\partial + ieA) \psi together (Pokorski 1987, p. 115), which
+   is what happened to Z[2]; it is the same as Z[1].)
+
+   A term in this Lagrangian, for example, the electron-photon interaction
+   pictured in Figure 1, can then be written
+
+          \mathcal{L}_I = -e \bar\psi \gamma_\mu A^\mu \psi \, - \, (Z_1 -
+          1) e \bar\psi \gamma_\mu A^\mu \psi
+
+   The physical constant e, the electron's charge, can then be defined in
+   terms of some specific experiment; we set the renormalization scale
+   equal to the energy characteristic of this experiment, and the first
+   term gives the interaction we see in the laboratory (up to small,
+   finite corrections from loop diagrams, providing such exotica as the
+   high-order corrections to the magnetic moment). The rest is the
+   counterterm. If we are lucky, the divergent parts of loop diagrams can
+   all be decomposed into pieces with three or fewer legs, with an
+   algebraic form that can be canceled out by the second term (or by the
+   similar counterterms that come from Z[0] and Z[3]). In QED, we are
+   lucky: the theory is renormalizable (see below for more on this).
+
+   The diagram with the Z[1] counterterm's interaction vertex placed as in
+   Figure 3 cancels out the divergence from the loop in Figure 2.
+
+   The splitting of the "bare terms" into the original terms and
+   counterterms came before the renormalization group insights due to
+   Kenneth Wilson. According to the renormalization group insights, this
+   splitting is unnatural and unphysical.
+
+Running constants
+
+   To minimize the contribution of loop diagrams to a given calculation
+   (and therefore make it easier to extract results), one chooses a
+   renormalization point close to the energies and momenta actually
+   exchanged in the interaction. However, the renormalization point is not
+   itself a physical quantity: the physical predictions of the theory,
+   calculated to all orders, should in principle be independent of the
+   choice of renormalization point, as long as it is within the domain of
+   application of the theory. Changes in renormalization scale will simply
+   affect how much of a result comes from Feynman diagrams without loops,
+   and how much comes from the leftover finite parts of loop diagrams. One
+   can exploit this fact to calculate the effective variation of physical
+   constants with changes in scale. This variation is encoded by
+   beta-functions, and the general theory of this kind of scale-dependence
+   is known as the renormalization group.
+
+   Colloquially, particle physicists often speak of certain physical
+   constants as varying with the energy of an interaction, though in fact
+   it is the renormalization scale that is the independent quantity. This
+   running does, however, provide a convenient means of describing changes
+   in the behaviour of a field theory under changes in the energies
+   involved in an interaction. For example, since the coupling constant in
+   quantum chromodynamics becomes small at large energy scales, the theory
+   behaves more like a free theory as the energy exchanged in an
+   interaction becomes large, a phenomenon known as asymptotic freedom.
+   Choosing an increasing energy scale and using the renormalization group
+   makes this clear from simple Feynman diagrams; were this not done, the
+   prediction would be the same, but would arise from complicated
+   high-order cancellations.
+
+Regularization
+
+   Since the quantity \infty - \infty is ill-defined, in order to make
+   this notion of canceling divergences precise, the divergences first
+   have to be tamed mathematically using the theory of limits, in a
+   process known as regularization.
+
+   An essentially arbitrary modification to the loop integrands, or
+   regulator, can make them drop off faster at high energies and momenta,
+   in such a manner that the integrals converge. A regulator has a
+   characteristic energy scale known as the cutoff; taking this cutoff to
+   infinity (or, equivalently, the corresponding length/time scale to
+   zero) recovers the original integrals.
+
+   With the regulator in place, and a finite value for the cutoff,
+   divergent terms in the integrals then turn into finite but
+   cutoff-dependent terms. After canceling out these terms with the
+   contributions from cutoff-dependent counterterms, the cutoff is taken
+   to infinity and finite physical results recovered. If physics on scales
+   we can measure is independent of what happens at the very shortest
+   distance and time scales, then it should be possible to get
+   cutoff-independent results for calculations.
+
+   Many different types of regulator are used in quantum field theory
+   calculations, each with its advantages and disadvantages. One of the
+   most popular in modern use is dimensional regularization, invented by
+   Gerardus 't Hooft and Martinus J. G. Veltman, which tames the integrals
+   by carrying them into a space with a fictitious fractional number of
+   dimensions. Another is Pauli-Villars regularization, which adds
+   fictitious particles to the theory with very large masses, such that
+   loop integrands involving the massive particles cancel out the existing
+   loops at large momenta.
+
+   Yet another regularization scheme is the Lattice regularization,
+   introduced by Kenneth Wilson, which pretends that our space-time is
+   constructed by hyper-cubical lattice with fixed grid size. This size is
+   a natural cutoff for the maximal momentum that a particle could possess
+   when propagating on the lattice. And after doing calculation on several
+   lattices with different grid size, the physical result is extrapolated
+   to grid size 0, or our natural universe. This presupposes the existence
+   of a scaling limit.
+
+   A rigorous mathematical approach to renormalization theory is the
+   so-called causal perturbation theory, where ultraviolet divergences are
+   avoided from the start in calculations by performing well-defined
+   mathematical operations only within the framework of distribution
+   theory. The disadvantage of the method is the fact that the approach is
+   quite technical and requires a high level of mathematical knowledge.
+
+Zeta function regularization
+
+   Julian Schwinger discovered a relationship between zeta function
+   regularization and renormalization, using the asymptotic relation:
+
+          I(n, \Lambda )= \int_{0}^{\Lambda }dp\,p^{n} \sim 1+2^n+3^n+...+
+          \Lambda^n = \zeta(-n)
+
+   as the regulator \Lambda \rightarrow \infty . Based on this, he
+   considered using the values of ζ( − n) to get finite results. Although
+   he reached inconsistent results, an improved formula by Hartle, J.
+   Garcia, M:A Valle and E. Elizalde includes
+
+          I(n, \Lambda) = \frac{n}{2}I(n-1, \Lambda) + \zeta(-n) -
+          \sum_{r=1}^{\infty}\frac{B_{2r}}{(2n)!} a_{n,r}(n-2r+1) I(n-2r,
+          \Lambda) ,
+
+   where the B's are the Bernoulli numbers and
+
+          a_{n,r}= \frac{\Gamma(n+1)}{\Gamma(n-2r+2)} .
+
+   So every I(m,Λ) can be written as a linear combination of ζ( − 1),ζ( −
+   3),ζ( − 5),......ζ( − m)
+
+   Or simply using Able-Plana formula we have for every divergent
+   integral:
+
+   \zeta(-m, \beta )-\frac{\beta ^{m}}{2}-i\int_ 0 ^{\infty}dt \frac{
+   (it+\beta)^{m}-(-it+\beta)^{m}}{e^{2 \pi t}-1}=\int_0 ^{\infty} dp
+   (p+\beta)^{m} valid when m>0, Here the Zeta function is Hurwitz zeta
+   function and Beta is a positive real number.
+
+   The "Geommetric" analogy is given by, (if we use rectangle method) to
+   evaluate the integral so:
+
+   \int_{0}^{\infty}dx(\beta +x)^{m}\approx \sum_{n=0}^{\infty}h^{m+1}
+   \zeta( \beta h^{-1} , -m)
+
+   Using Hurwitz zeta regularization plus rectangle method with step h
+   (not to mess up with Planck's constant)
+
+Attitudes and interpretation
+
+   The early formulators of QED and other quantum field theories were, as
+   a rule, dissatisfied with this state of affairs. It seemed illegitimate
+   to do something tantamount to subtracting infinities from infinities to
+   get finite answers.
+
+   Dirac's criticism was the most persistent. As late as 1975, he was
+   saying:
+
+   "Most physicists are very satisfied with the situation. They say:
+   'Quantum electrodynamics is a good theory and we do not have to worry
+   about it any more.' I must say that I am very dissatisfied with the
+   situation, because this so-called 'good theory' does involve neglecting
+   infinities which appear in its equations, neglecting them in an
+   arbitrary way. This is just not sensible mathematics. Sensible
+   mathematics involves neglecting a quantity when it is small - not
+   neglecting it just because it is infinitely great and you do not want
+   it!"
+
+   Another important critic was Feynman. Despite his crucial role in the
+   development of quantum electrodynamics, he wrote:
+
+   "The shell game that we play ... is technically called
+   'renormalization'. But no matter how clever the word, it is still what
+   I would call a dippy process! Having to resort to such hocus-pocus has
+   prevented us from proving that the theory of quantum electrodynamics is
+   mathematically self-consistent. It's surprising that the theory still
+   hasn't been proved self-consistent one way or the other by now; I
+   suspect that renormalization is not mathematically legitimate."
+
+   The general unease was almost universal in texts up to the 1970s and
+   1980s.
+
+   Beginning in the 1970s, however, inspired by work on the
+   renormalization group and effective field theory, and despite the fact
+   that Dirac, Feynman and various others never withdrew their criticisms,
+   attitudes began to change, especially among younger theorists. Kenneth
+   G. Wilson and others demonstrated that the renormalization group is
+   useful in statistical field theory applied to condensed matter physics,
+   where it provides important insights into the behaviour of phase
+   transitions. In condensed matter physics, a real short-distance
+   regulator exists: matter ceases to be continuous on the scale of atoms.
+   Short-distance divergences in condensed matter physics do not present a
+   philosophical problem, since the field theory is only an effective,
+   smoothed-out representation of the behaviour of matter anyway; there
+   are no infinities since the cutoff is actually always finite, and it
+   makes perfect sense that the bare quantities are cutoff-dependent.
+
+   If QFT holds all the way down past the Planck length (where it might
+   yield to "string theory" or something different), then there may be no
+   real problem with short-distance divergences in particle physics
+   either; all field theories could simply be effective field theories. In
+   a sense, this approach echoes the older attitude that the divergences
+   in QFT speak of human ignorance about the workings of nature, but also
+   acknowledges that this ignorance can be quantified and that the
+   resulting effective theories remain useful.
+
+   In QFT, the value of a physical constant, in general, depends on the
+   scale that one chooses as the renormalization point, and it becomes
+   very interesting to examine the renormalization group running of
+   physical constants under changes in the energy scale. The coupling
+   constants in the Standard Model of particle physics vary in different
+   ways with increasing energy scale: the coupling of quantum
+   chromodynamics and the weak isospin coupling of the electroweak force
+   tend to decrease, and the weak hypercharge coupling of the electroweak
+   force tends to increase. At the colossal energy scale of 10^15 GeV (far
+   beyond the reach of our civilization's particle accelerators), they all
+   become approximately the same size (Grotz and Klapdor 1990, p. 254), a
+   major motivation for speculations about grand unified theory. Instead
+   of a worrisome problem, renormalization has become an important
+   theoretical tool for studying the behaviour of field theories in
+   different regimes.
+
+Renormalizability
+
+   From this philosophical reassessment a new concept follows naturally:
+   the notion of renormalizability. Not all theories lend themselves to
+   renormalization in the manner described above, with a finite supply of
+   counterterms and all quantities becoming cutoff-independent at the end
+   of the calculation. If the Lagrangian contains combinations of field
+   operators of excessively high dimension in energy units, the
+   counterterms required to cancel all divergences proliferate to infinite
+   number, and, at first glance, the theory would seem to gain an infinite
+   number of free parameters and therefore lose all predictive power,
+   becoming scientifically worthless. Such theories are called
+   nonrenormalizable.
+
+   The Standard Model of particle physics contains only renormalizable
+   operators, but the interactions of general relativity become
+   nonrenormalizable operators if one attempts to construct a field theory
+   of quantum gravity in the most straightforward manner, suggesting that
+   perturbation theory is useless in application to quantum gravity.
+
+   However, in an effective field theory, "renormalizability" is, strictly
+   speaking, a misnomer. In a nonrenormalizable effective field theory,
+   terms in the Lagrangian do multiply to infinity, but have coefficients
+   suppressed by ever-more-extreme inverse powers of the energy cutoff. If
+   the cutoff is a real, physical quantity—if, that is, the theory is only
+   an effective description of physics up to some maximum energy or
+   minimum distance scale—then these extra terms could represent real
+   physical interactions. Assuming that the dimensionless constants in the
+   theory do not get too large, one can group calculations by inverse
+   powers of the cutoff, and extract approximate predictions to finite
+   order in the cutoff that still have a finite number of free parameters.
+   It can even be useful to renormalize these "nonrenormalizable"
+   interactions.
+
+   Nonrenormalizable interactions in effective field theories rapidly
+   become weaker as the energy scale becomes much smaller than the cutoff.
+   The classic example is the Fermi theory of the weak nuclear force, a
+   nonrenormalizable effective theory whose cutoff is comparable to the
+   mass of the W particle. This fact may also provide a possible
+   explanation for why almost all of the particle interactions we see are
+   describable by renormalizable theories. It may be that any others that
+   may exist at the GUT or Planck scale simply become too weak to detect
+   in the realm we can observe, with one exception: gravity, whose
+   exceedingly weak interaction is magnified by the presence of the
+   enormous masses of stars and planets.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Renormalization"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,190 @@
+   #copyright
+
+Neutron
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+                                                      Neutron
+                                                   Classification
+
+
+                      Subatomic particle
+                           Fermion
+                            Hadron
+                            Baryon
+                           Nucleon
+                           Neutron
+
+                                                    Properties
+
+
+                               Mass:          1.674 927 29(28) × 10^−27 kg
+                                                 939.565 560(81) MeV/c²
+                              Radius:             about 0.8 × 10^−15 m
+                         Electric charge:                 0 C
+                               Spin:                       ½
+                      Magnetic dipole moment:     -1.91304273(45) μ[N]
+                        Quark composition:            2 Down, 1 Up
+
+   In physics, the neutron is a subatomic particle with no net electric
+   charge and a mass of 939.573 MeV/c² (1.6749 × 10^-27 kg, slightly more
+   than a proton). Its spin is ½. Its antiparticle is called the
+   antineutron. The neutron, along with the proton, is a nucleon.
+
+   The nucleus of most atoms (all except the most common isotope of
+   hydrogen, protium, which consists of a single proton only) consists of
+   protons and neutrons. The number of neutrons determines the isotope of
+   an element. (For example, the carbon-12 isotope has 6 protons and 6
+   neutrons, while the carbon-14 isotope has 6 protons and 8 neutrons.)
+   Isotopes are atoms of the same element that have the same atomic number
+   but different masses due to a different number of neutrons.
+
+   A neutron is classified as a baryon, and consists of two down quarks
+   and one up quark.
+
+Stability
+
+   Outside the nucleus, free neutrons are unstable and have a mean
+   lifetime of 885.7±0.8 seconds (about 15 minutes), decaying by emitting
+   an electron and antineutrino to become a proton:
+
+          \hbox{n}\to\hbox{p}+\hbox{e}^-+\overline{\nu}_{\mathrm{e}}
+
+   This decay mode, known as beta decay, can also occur within certain
+   unstable nuclei. Protons can also transform into neutrons through the
+   process of electron capture, sometimes called Inverse Beta Decay. Both
+   beta decay and electron capture are types of radioactive decay.
+
+   Particles inside the nucleus are typically resonances between neutrons
+   and protons, which transform into one another by the emission and
+   absorption of pions.
+
+Interactions
+
+   The neutron interacts through all four fundamental interactions: the
+   electromagnetism, weak nuclear, strong nuclear and gravitational
+   interactions.
+
+   Although the neutron has zero net charge, it may interact
+   electromagnetically in two ways: first, the neutron has a magnetic
+   moment of the same order as the proton; second, it is composed of
+   electrically charged quarks. Thus, the electromagnetic interaction is
+   primarily important to the neutron in deep inelastic scattering and in
+   magnetic interactions.
+
+   The neutron experiences the weak interaction through beta decay into a
+   proton, electron and electron antineutrino. It experiences the
+   gravitational force as does any energetic body; however, gravity is so
+   weak that it may be neglected in most particle physics experiments.
+
+   The most important force to neutrons is the strong interaction. This
+   interaction is responsible for the binding of the neutron's three
+   quarks (one up quark, two down quarks) into a single particle. The
+   residual strong force is also responsible for the binding of nuclei:
+   the nuclear force. The nuclear force plays the leading role when
+   neutrons pass through matter. Unlike charged particles or photons, the
+   neutron cannot lose energy by ionizing atoms. Rather, the neutron goes
+   on its way unchecked until it makes a head-on collision with an atomic
+   nucleus. For this reason, neutron radiation is extremely penetrating
+   and dangerous.
+
+Detection
+
+   The common means of detecting a charged particle by looking for a track
+   of ionization (such as in a cloud chamber) does not work for neutrons
+   directly. Neutrons that elastically scatter off atoms can create an
+   ionization track that is detectable, but the experiments are not as
+   simple to carry out; other means for detecting neutrons, consisting of
+   allowing them to interact with atomic nuclei, are more commonly used.
+
+   A common method for detecting neutrons involves converting the energy
+   released from such reactions into electrical signals. The nuclides
+   ^3He, ^6Li, ^10B, ^233U, ^235U, ^237Np and ^239Pu are useful for this
+   purpose. A good discussion on neutron detection is found in chapter 14
+   of the book Radiation Detection and Measurement by Glenn F. Knoll (John
+   Wiley & Sons, 1979).
+
+Uses
+
+   The neutron plays an important role in many nuclear reactions. For
+   example, neutron capture often results in neutron activation, inducing
+   radioactivity. In particular, knowledge of neutrons and their behaviour
+   has been important in the development of nuclear reactors and nuclear
+   weapons.
+
+   Cold, thermal and hot neutron radiation is commonly employed in neutron
+   scattering facilities, where the radiation is used in a similar way one
+   uses X-rays for the analysis of condensed matter. Neutrons are
+   complementary to the latter in terms of atomic contrasts by different
+   scattering cross sections; sensitivity to magnetism; energy range for
+   inelastic neutron spectroscopy; and deep penetration into matter.
+
+   The development of "neutron lenses" based on total internal reflection
+   within hollow glass capillary tubes or by reflection from dimpled
+   aluminium plates has driven ongoing research into neutron microscopy
+   and neutron/gamma ray tomography.
+
+   One use of neutron emitters is the detection of light nuclei,
+   particularly the hydrogen found in water molecules. When a fast neutron
+   collides with a light nucleus, it loses a large fraction of its energy.
+   By measuring the rate at which slow neutrons return to the probe after
+   reflecting off of hydrogen nuclei, a neutron probe may determine the
+   water content in soil.
+
+Discovery
+
+   In 1930 Walther Bothe and H. Becker in Germany found that if the very
+   energetic alpha particles emitted from polonium fell on certain of the
+   light elements, specifically beryllium, boron, or lithium, an unusually
+   penetrating radiation was produced. At first this radiation was thought
+   to be gamma radiation although it was more penetrating than any gamma
+   rays known, and the details of experimental results were very difficult
+   to interpret on this basis. The next important contribution was
+   reported in 1932 by Irène Joliot-Curie and Frédéric Joliot in Paris.
+   They showed that if this unknown radiation fell on paraffin or any
+   other hydrogen-containing compound it ejected protons of very high
+   energy. This was not in itself inconsistent with the assumed gamma ray
+   nature of the new radiation, but detailed quantitative analysis of the
+   data became increasingly difficult to reconcile with such a hypothesis.
+   Finally (later in 1932) the physicist James Chadwick in England
+   performed a series of experiments showing that the gamma ray hypothesis
+   was untenable. He suggested that in fact the new radiation consisted of
+   uncharged particles of approximately the mass of the proton, and he
+   performed a series of experiments verifying his suggestion. Such
+   uncharged particles were eventually called neutrons, apparently from
+   the Latin root for neutral and the Greek ending -on (by imitation of
+   electron and proton).
+
+Current developments
+
+   The existence of stable clusters of four neutrons, or tetraneutrons,
+   has been hypothesised by a team led by Francisco-Miguel Marqués at the
+   CNRS Laboratory for Nuclear Physics based on observations of the
+   disintegration of beryllium-14 nuclei. This is particularly
+   interesting, because current theory suggests that such clusters should
+   not be stable, and therefore should not exist.
+
+   An experiment at the Institut Laue-Langevin (ILL) has attempted to
+   measure an electric dipole, or separation of charges, within the
+   neutron, and is consistent with an electric dipole moment of zero.
+   These results are important in developing theories that go beyond the
+   Standard Model. See FRONTIERS article, and the experiment's web page.
+
+Anti-Neutron
+
+   The antineutron is the antiparticle of the neutron. It was discovered
+   by Bruce Cork in the year 1956, a year after the antiproton was
+   discovered.
+
+   CPT-symmetry puts strong constraints on the relative properties of
+   particles and antiparticles and, therefore, is open to stringent tests.
+   The fractional difference in the masses of the neutron and antineutron
+   is (9±5)×10^-5. Since the difference is only about 2 standard
+   deviations away from zero, this does not give any convincing evidence
+   of CPT-violation.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Neutron"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,282 @@
+   #copyright
+
+Phase (matter)
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In the physical sciences, a phase is a set of states of a macroscopic
+   physical system that have relatively uniform chemical composition and
+   physical properties (i.e. density, crystal structure, index of
+   refraction, and so forth). The most familiar examples of phases are
+   solids, liquids, and gases. Less familiar phases include: plasmas and
+   quark-gluon plasmas; Bose-Einstein condensates and fermionic
+   condensates; strange matter; liquid crystals; superfluids and
+   supersolids; and the paramagnetic and ferromagnetic phases of magnetic
+   materials.
+
+   Phases are sometimes called states of matter, but this term can lead to
+   confusion with thermodynamic states. For example, two gases maintained
+   at different pressures are in different thermodynamic states, but the
+   same "state of matter".
+
+General definition of phases
+
+   In general, we say that two different states of a system are in
+   different phases if there is an abrupt change in their physical
+   properties while transforming from one state to the other. Conversely,
+   two states are in the same phase if they can be transformed into one
+   another without any abrupt changes.
+
+   An important point is that different types of phases are associated
+   with different physical qualities. When discussing the solid, liquid,
+   and gaseous phases, we talked about rigidity and compressibility, and
+   the effects of varying the pressure and volume, because those are the
+   relevant properties that distinguish a solid, a liquid, and a gas. On
+   the other hand, when discussing paramagnetism and ferromagnetism, we
+   looked at the magnetization, because that is what distinguishes the
+   ferromagnetic phase from the paramagnetic phase. Several more examples
+   of phases will be given in the following section.
+
+   Not all physical quantities are relevant when we are looking at a
+   certain system. For example, it is generally not useful for us to
+   compare the magnetization of liquid water to the magnetization of ice.
+   In this sense, what constitutes a "phase" depends on what parameters
+   you are looking at, and vice versa. It is this idea that allows us to
+   generalize the concept of phases to encompass a wide variety of
+   phenomena.
+
+   In more technical language, a phase is a region in the parameter space
+   of thermodynamic variables in which the free energy is analytic. As
+   long as the free energy is analytic, all thermodynamic properties (such
+   as entropy, heat capacity, magnetization, and compressibility) will be
+   well-behaved, because they can be expressed in terms of the free energy
+   and its derivatives. For example, the entropy is the first derivative
+   of the free energy with temperature.
+
+   When a system goes from one phase to another, there will generally be a
+   stage where the free energy is non-analytic. This is a phase
+   transition. Due to this non-analyticity, the free energies on either
+   side of the transition are two different functions, so one or more
+   thermodynamic properties will behave very differently after the
+   transition. The property most commonly examined in this context is the
+   heat capacity. During a transition, the heat capacity may become
+   infinite, jump abruptly to a different value, or exhibit a "kink" or
+   discontinuity in its derivative. See also differential scanning
+   calorimetry.
+   Possible graphs of heat capacity (C) against temperature (T) at a phase
+   transition
+   Enlarge
+   Possible graphs of heat capacity (C) against temperature (T) at a phase
+   transition
+
+Other examples of phases
+
+   In this section, we will present several systems that exhibit phase
+   phenomena.
+
+   We have discussed the solid, liquid, and gaseous phases of ordinary
+   matter. It turns out that other configurations of molecules are
+   possible, corresponding to novel phases. Amorphous solids, or glasses,
+   are a solid phase in terms of mechanical behaviour, but lack the
+   structural order of an ordinary ("crystalline") solid, so that the
+   arrangement of atoms within them resembles a liquid. Liquid crystals
+   are another phase intermediate between solids and liquids; the
+   molecules of such a substance have an orderly orientation and in some
+   cases (that is, for smectic liquid crystals) even an orderly position
+   in one direction, but are free to flow past one another. Liquid
+   crystals are liquids in the mechanical sense, but have structural
+   features that are normally seen in solids.
+
+   In many materials, there are actually a variety of solid phases, each
+   corresponding to a unique crystal structure. These varying crystal
+   phases of the same substance are called " allotropes" if intramolecular
+   bonding changes or "polymorphs" if only intermolecular bonding changes.
+   For instance, there are at least nine different polymorphs of ice that
+   manifest under different temperature and pressure conditions. To take
+   another example, diamond and graphite are allotropes of carbon.
+   Graphite is composed of layers of hexagonally arranged carbon atoms, in
+   which each carbon atom is strongly bound to three neighboring atoms in
+   the same layer and is weakly bound to atoms in the neighboring layers.
+   By contrast, in diamond each carbon atom is strongly bound to four
+   neighboring carbon atoms in a diamond cubic array, with tetrahedral
+   bonding. The unique crystal structures of graphite and diamond are
+   responsible for the vastly different properties of these two materials.
+
+   In an ordinary gas phase, the electrons are tightly bound to the atomic
+   nuclei. In contrast, in the plasma phase the atoms are dissociated,
+   i.e. the electrons are separated from the atomic nuclei. This
+   dissociation, or ionization, occurs abruptly upon raising the
+   temperature and lowering the pressure, and thus displays the hallmarks
+   of a phase transition.
+
+   Bose-Einstein condensate is a phase of matter that occurs at extremely
+   low temperatures, near absolute zero. These temperatures are too low to
+   occur anywhere on Earth except in laboratory experiments. The very slow
+   motion of molecules at these temperatures allow some of the more
+   bizarre aspects of quantum mechanics to manifest themselves in the form
+   of novel macroscopic properties.
+
+   Phases can also exist in two dimensions. The boundaries between two
+   different three-dimensional phases, the surfaces of materials, and the
+   grain boundaries between different crystallographic orientations of a
+   single material can also show distinct phases. For example, surface
+   reconstructions on metal and semiconductor surfaces are two dimensional
+   phases.
+
+   Under extremely high pressure, ordinary matter undergoes a transition
+   to a series of exotic phases collectively known as degenerate matter.
+   These phases are of great interest to astrophysics, because these
+   high-pressure conditions are believed to exist inside stars that have
+   used up their nuclear fusion "fuel", such as white dwarves and neutron
+   stars.
+
+   Phase transitions also play an extremely important role in physical
+   cosmology. It is believed that the universe as a whole underwent a
+   series of important phase transitions during its early history, shortly
+   after the Big Bang. A major branch of theoretical cosmology, inflation
+   theory, seeks to explain various aspects of the modern universe, such
+   as why the universe is so flat, as the effect of one or more of these
+   transitions. These transitions are of great interest to particle
+   physics as well, as it has been hypothesized that the quantum field
+   that fills spacetime (a particle physics concept that incorporates
+   "material" particles like electrons as well as "field-like" particles
+   such as photons and gluons) underwent a series of transitions from a
+   highly "symmetric" phase in which all fundamental forces were unified
+   into a single entity, into the " broken symmetry" phase that we observe
+   today, in which there are four fundamental forces with very different
+   strengths.
+
+Phase diagrams
+
+   The different phases of a system may be represented using a phase
+   diagram. The axes of the diagrams are the relevant thermodynamic
+   variables. For simple mechanical systems, we generally use the pressure
+   and temperature.
+   A phase diagram for a typical material exhibiting solid, liquid and
+   gaseous phases
+   Enlarge
+   A phase diagram for a typical material exhibiting solid, liquid and
+   gaseous phases
+
+   The markings on the phase diagram show the points where the free energy
+   is non-analytic. The open spaces, where the free energy is analytic,
+   correspond to the phases. The phases are separated by lines of
+   non-analyticity, where phase transitions occur, which are called phase
+   boundaries.
+
+   In the diagram, the phase boundary between liquid and gas does not
+   continue indefinitely. Instead, it terminates at a point on the phase
+   diagram called the critical point. At temperatures and pressure above
+   the critical point, the physical property differences that
+   differentiate the liquid phase from the gas phase become less defined.
+   This reflects the fact that, at extremely high temperatures and
+   pressures, the liquid and gaseous phases become indistinguishable. In
+   water, the critical point occurs at around 647  K (374 °C or 705 °F)
+   and 22.064  MPa.
+
+   The existence of the liquid-gas critical point reveals a slight
+   ambiguity in our above definitions. When going from the liquid to the
+   gaseous phase, one usually crosses the phase boundary, but it is
+   possible to choose a path that never crosses the boundary by going to
+   the right of the critical point. Thus, phases can sometimes blend
+   continuously into each other. This new phase which has some properties
+   that are similar to a liquid and some properties that are similar to a
+   gas is called a supercritical fluid. We should note, however, that this
+   does not always happen. For example, it is impossible for the
+   solid-liquid phase boundary to end in a critical point in the same way
+   as the liquid-gas boundary, because the solid and liquid phases have
+   different symmetry.
+
+   An interesting thing to note is that the solid-liquid phase boundary in
+   the phase diagram of most substances, such as the one shown above, has
+   a positive slope. This is due to the solid phase having a higher
+   density than the liquid, so that increasing the pressure increases the
+   melting temperature. However, in the phase diagram for water the
+   solid-liquid phase boundary has a negative slope. This reflects the
+   fact that ice has a lower density than water, which is an unusual
+   property for a material.
+
+Metastable phases
+
+   Sometimes a substance or mixture can be heated, compressed, etc.,
+   beyond the point at which it would normally exhibit a phase change, but
+   without actually triggering the change. Examples include supercooling,
+   superheating, and supersaturation.
+
+   Usually each polymorph of a given substance is only stable over a
+   specific range of conditions. For example, diamond is the stable form
+   of carbon at extremely high pressures while graphite is the stable form
+   at normal atmospheric pressures. Regardless, diamonds appear stable at
+   normal temperatures and pressures, but, in fact, are very slowly
+   converting to graphite. Heat increases the rate of this transformation,
+   but at normal temperatures the diamond is practically stable.
+
+   Another important example of metastable polymorphs occurs in the
+   processing of steel. Steels are often subjected to a variety of thermal
+   treatments designed to produce various combinations of stable and
+   metastable iron phases. In this way the steel properties, such as
+   hardness and strength can be adjusted by controlling the relative
+   amounts and crystal sizes of the various phases that form.
+
+Phase equilibrium
+
+   The distribution of kinetic energy among molecules is not uniform, and
+   it changes randomly. This means that at, say, the surface of a liquid,
+   there may be an individual molecule with enough kinetic energy to jump
+   into the gas phase. Likewise, individual gas molecules may have low
+   enough kinetic energy to join other molecules in the liquid phase. This
+   phenomenon means that at any given temperature and pressure, multiple
+   phases may co-exist.
+
+   For example, under standard conditions for temperature and pressure, a
+   bowl of liquid water in dry air will evaporate until the partial
+   pressure of gaseous water equals the vapor pressure of water. At this
+   point, the rate of molecules leaving and entering the liquid phase
+   becomes the same (due to the increased number of gaseous water
+   molecules available to re-condense). The fact that liquid molecules
+   with above-average kinetic energy have been removed from the bowl
+   results in evaporative cooling. Similar processes may occur on other
+   types of phase boundaries.
+
+   Gibbs' phase rule relates the number of possible phases, variables such
+   as temperature and pressure, and whether or not an equilibrium will be
+   reached.
+
+Emergence and universality
+
+   Phases are emergent phenomena produced by the self-organization of a
+   macroscopic number of particles. Typical samples of matter, for
+   example, contain around 10^23 particles (of the order of Avogadro's
+   number). In systems that are too small -- even, say, a thousand atoms
+   -- the distinction between phases disappears, since the appearance of
+   non-analyticity in the free energy requires a huge, formally infinite,
+   number of particles to be present.
+
+   One might ask why real systems exhibit phases, since they are not
+   actually infinite. The reason is that real systems contain
+   thermodynamic fluctuations. When a system is far from a phase
+   transition, these fluctuations are unimportant, but as it approaches a
+   phase transition, the fluctuations begin to grow in size (i.e. spatial
+   extent). At the ideal transition point, their size would be infinite,
+   but before that can happen the fluctuations will have become as large
+   as the system itself. In this regime, "finite-size" effects come into
+   play, and we are unable to accurately predict the behaviour of the
+   system. Thus, phases in a real system are only well-defined away from
+   phase transitions, and how far away it needs to be is dependent on the
+   size of the system.
+
+   There is a corollary to the emergent nature of phase phenomena, known
+   as the principle of universality. The properties of phases are largely
+   independent of the underlying microscopic physics, so that the same
+   types of phases arise in a wide variety of systems. This is a familiar
+   fact of life. We know, for example, that the property that defines a
+   solid -- resistance to deformation -- is exhibited by materials as
+   diverse as iron, ice, and Silly Putty. The only differences are matters
+   of scale. Iron may resist deformation more strongly than Silly Putty,
+   but both maintain their shape if the applied forces are not too strong.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Phase_%28matter%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

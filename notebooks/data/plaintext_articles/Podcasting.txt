@@ -1,0 +1,140 @@
+   #copyright
+
+Podcast
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   An orange square with waves was introduced by Mozilla Firefox to
+   indicate that an RSS feed is present on a webpage. By mutual agreement,
+   the same icon has also been adopted by Microsoft Internet Explorer and
+   Opera.
+   Enlarge
+   An orange square with waves was introduced by Mozilla Firefox to
+   indicate that an RSS feed is present on a webpage. By mutual agreement,
+   the same icon has also been adopted by Microsoft Internet Explorer and
+   Opera.
+
+   A podcast is a multimedia file distributed over the Internet using
+   syndication feeds, for playback on mobile devices and personal
+   computers. Like 'radio', it can mean both the content and the method of
+   delivery; the latter may also be termed podcasting. The host or author
+   of a podcast is often called a podcaster.
+
+   Though podcasters' web sites may also offer direct download or
+   streaming of their content, a podcast is distinguished from other
+   digital audio formats by its ability to be downloaded automatically
+   using software capable of reading feed formats such as RSS or Atom.
+
+History
+
+   The concept of podcasting was suggested as early as 2000 and its
+   technical components were available by 2001, then implemented in the
+   program Radio Userland . In 2003 regular podcasts started showing up on
+   well-known Web sites and software support spread.
+
+Name
+
+   The editors of the New Oxford American Dictionary declared "podcasting"
+   the 2005 word of the year, defining the term as "a digital recording of
+   a radio broadcast or similar program, made available on the Internet
+   for downloading to a personal audio player".
+
+   The name has aroused some controversy for implying one needs an iPod to
+   listen to podcasts, when in fact all portable media players will play
+   them. Creative Technology, the makers of iPod competitor Zen, state on
+   the ZENcast website that podcast is short for "Personal On Demand
+   broadcast", a definition that didn't exist before its use by Creative.
+
+   Some alternate names have been proposed, most recently 'netcast',
+   suggested by podcaster and technology journalist Leo Laporte, partly in
+   response to cease-and-desist letters sent by Apple to companies and
+   individuals using the word 'pod' in their product's names. None of the
+   terms has yet received as wide a use as 'podcast.'
+
+Mechanics
+
+   The publish/subscribe model of podcasting is a version of push
+   technology, in that the information provider chooses which files to
+   offer in a feed and the subscriber chooses among available feed
+   channels. While the user is not "pulling" individual files from the
+   Web, there is a strong "pull" aspect in that the receiver is free to
+   subscribe to (or unsubscribe from) a vast array of channels. Earlier
+   Internet "push" services (e.g., PointCast) allowed a much more limited
+   selection of content.
+
+   Podcasting is an automatic mechanism whereby multimedia computer files
+   are transferred from a server to a client, which pulls down XML files
+   containing the Internet addresses of the media files. In general, these
+   files contain audio or video, but also could be images, text, PDF, or
+   any file type.
+
+   The content provider begins by making a file (for example, an MP3 audio
+   file) available on the Internet. This is usually done by posting the
+   file on a publicly available webserver; however, BitTorrent trackers
+   also have been used, and it is not technically necessary that the file
+   be publicly accessible. The only requirement is that the file be
+   accessible through some known URI (a general-purpose Internet address).
+   This file is often referred to as one episode of a podcast.
+
+   The content provider then acknowledges the existence of that file by
+   referencing it in another file known as the feed. The feed is a list of
+   the URLs by which episodes of the show may be accessed. This list is
+   usually published in RSS format (although Atom can also be used), which
+   provides other information, such as publish date, titles, and
+   accompanying text descriptions of the series and each of its episodes.
+   The feed may contain entries for all episodes in the series, but is
+   typically limited to a short list of the most recent episodes, as is
+   the case with many news feeds. Standard podcasts consist of a feed from
+   one author. More recently multiple authors have been able to contribute
+   episodes to a single podcast feed using concepts such as public
+   podcasting and social podcasting.
+
+   The content provider posts the feed on a webserver. The location at
+   which the feed is posted is expected to be permanent. This location is
+   known as the feed URI (or, perhaps more often, feed URL). The content
+   provider makes this feed URI known to the intended audience.
+
+   A consumer uses a type of software known as an aggregator, sometimes
+   called a podcatcher or podcast receiver, to subscribe to and manage
+   their feeds.
+
+   A podcast specific aggregator is usually an always-on program which
+   starts when the computer is started and runs in the background. They
+   work exactly like any newsreader someone would use to manage other web
+   subscriptions. It manages a set of feed URIs added by the user and
+   downloads each at a specified interval, such as every two hours. If the
+   feed data has substantively changed from when it was previously checked
+   (or if the feed was just added to the application's list), the program
+   determines the location of the most recent item and automatically
+   downloads it to the user's computer. Interestingly, it is estimated
+   that perhaps only 20% of podcasts are actually consumed on portable
+   media players; 80% are consumed on the PC onto which they are
+   downloaded, or deleted from the PC without being listened to. Some
+   applications, such as iTunes, also automatically make the newly
+   downloaded episodes available to a user's portable media player.
+
+   The downloaded episodes can then be played, replayed, or archived as
+   with any other computer file.
+
+   To conserve bandwidth, users may opt to search for content using an
+   online podcast directory. Some directories allow people to listen
+   online and initially become familiar with the content provided from an
+   RSS feed before deciding to subscribe. For most broadband users,
+   bandwidth is generally not a major consideration; it could fairly be
+   stated that podcasting itself is a technology that came with the
+   increases in global bandwidth and broadband popularity.
+
+Other uses
+
+   Podcasting's initial appeal was to allow individuals to distribute
+   their own "radio shows," but the system quickly became used in a wide
+   variety of other ways, including distribution of school lessons,
+   official and unofficial audio tours of museums, conference meeting
+   alerts and updates, and by police departments to distribute public
+   safety messages.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Podcast"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

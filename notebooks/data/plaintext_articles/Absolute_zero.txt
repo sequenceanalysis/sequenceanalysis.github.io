@@ -1,0 +1,215 @@
+   #copyright
+
+Absolute zero
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Absolute zero refers to the temperature of a system that is thermically
+   inert. Such a (theoretical) system neither emits nor absorbs heat
+   energy. The Absolute zero temperature is known to be 0 K (-273.15 C).
+   While it is possible to cool any substance to near Absolute Zero, it
+   can never actually be achieved.
+
+   Absolute zero is the point at which particles have a minimum energy,
+   determined by quantum mechanical effects, which is called the
+   zero-point energy.
+
+   By international agreement, absolute zero is defined as precisely 0 K
+   on the Kelvin scale, which is a thermodynamic (absolute) temperature
+   scale, and -273.15°C on the Celsius scale. Absolute zero is also
+   precisely equivalent to 0 °R on the Rankine scale (also a thermodynamic
+   temperature scale), and –459.67 °F on the Fahrenheit scale.
+
+   Whilst scientists cannot fully achieve a state of “zero” heat energy in
+   a substance, they have made great advancements in achieving
+   temperatures ever closer to absolute zero (where matter exhibits odd
+   quantum effects). In 1994, the NIST achieved a record cold temperature
+   of 700  nK (billionths of a kelvin). In 2003, researchers at MIT
+   eclipsed this with a new record of 450  pK (0.45 nK).
+
+History
+
+   To establish an instrument to measure a range of temperatures, in 1593
+   Galileo Galilei invented a rudimentary water thermometer. One of the
+   first to discuss the possibility of an “absolute cold” on such a scale
+   was Robert Boyle who in his 1665 New Experiments and Observations
+   touching Cold, stated the dispute which is the primum frigidum is very
+   well known among naturalists, some contending for the earth, others for
+   water, others for the air, and some of the moderns for nitre, but all
+   seeming to agree that:
+
+   “ There is some body or other that is of its own nature supremely cold
+      and by participation of which all other bodies obtain that quality.  ”
+
+Limit to the 'degree of cold'
+
+   The question whether there is a limit to the degree of cold possible,
+   and, if so, where the zero must be placed, was first attacked by the
+   French physicist Guillaume Amontons in 1702, in connection with his
+   improvements in the air thermometer. In his instrument temperatures
+   were indicated by the height at which a column of mercury was sustained
+   by a certain mass of air, the volume or "spring" which of course varied
+   with the heat to which it was exposed. Amontons therefore argued that
+   the zero of his thermometer would be that temperature at which the
+   spring of the air in it was reduced to nothing. On the scale he used
+   the boiling-point of water was marked at +73 and the melting-point of
+   ice at 511, so that the zero of his scale was equivalent to about -240
+   on the centigrade scale.
+
+   This remarkably close approximation to the modern value of -273°C for
+   the zero of the air-thermometer was further improved on by Johann
+   Heinrich Lambert (Pyrometrie, 1779), who gave the value -270°C and
+   observed that this temperature might be regarded as absolute cold.
+
+   Values of this order for the absolute zero were not, however,
+   universally accepted about this period. Laplace and Lavoisier, for
+   instance, in their treatise on heat (1780), arrived at values ranging
+   from 1500 to 3000 below the freezing-point of water, and thought that
+   in any case it must be at least 600 below, while John Dalton in his
+   Chemical Philosophy gave ten calculations of this value, and finally
+   adopted -3000°C as the natural zero of temperature.
+
+Lord Kelvin's work
+
+   After J. P. Joule had determined the mechanical equivalent of heat,
+   Lord Kelvin approached the question from an entirely different point of
+   view, and in 1848 devised a scale of absolute temperature which was
+   independent of the properties of any particular substance and was based
+   solely on the fundamental laws of thermodynamics. It followed from the
+   principles on which this scale was constructed that its zero was placed
+   at -273°, at almost precisely the same point as the zero of the
+   air-thermometer.
+
+Record temperatures near absolute zero
+
+   It can be shown from the laws of thermodynamics that absolute zero can
+   never be achieved artificially, though it is possible to reach
+   temperatures arbitrarily close to it through the use of cryocoolers.
+   This is the same principle that ensures no machine can be 100%
+   efficient.
+
+   At very low temperatures in the vicinity of absolute zero, matter
+   exhibits many unusual properties including superconductivity,
+   superfluidity, and Bose-Einstein condensation. In order to study such
+   phenomena, scientists have worked to obtain ever lower temperatures.
+     * In September 2003, MIT announced a record cold temperature of 450
+       pK, or 4.5 × 10^-10  K in a Bose-Einstein condensate of sodium
+       atoms. This was performed by Wolfgang Ketterle and colleagues at
+       MIT.
+
+     * As of February 2003, the Boomerang Nebula, with a temperature of
+       -272.15 Celsius; 1K, is the coldest place known outside a
+       laboratory. The nebula is 5000 light-years from Earth and is in the
+       constellation Centaurus.
+
+     * As of November 2000, nuclear spin temperatures below 100 pK were
+       reported for an experiment at the Helsinki University of
+       Technology's Low Temperature Lab. However, this was the temperature
+       of one particular degree of freedom — a quantum property called
+       nuclear spin — not the overall average thermodynamic temperature
+       for all possible degrees of freedom.
+
+Thermodynamics near absolute zero
+
+   At temperatures near 0 K, nearly all molecular motion ceases and ΔS = 0
+   for any adiabatic process. Pure substances can (ideally) form perfect
+   crystals as T  \rightarrow 0. Planck's strong form of the third law of
+   thermodynamics states that the entropy of a perfect crystal vanishes at
+   absolute zero. However, if the lowest energy state is degenerate (more
+   than one microstate), this cannot be true. The original Nernst heat
+   theorem makes the weaker and less controversial claim that the entropy
+   change for any isothermal process approaches zero as T → 0
+
+          \lim_{T \to 0} \Delta S = 0
+
+   which implies that the entropy of a perfect crystal simply approaches a
+   constant value.
+
+   The Nernst postulate identifies the isotherm T = 0 as coincident with
+   the adiabat S = 0, although other isotherms and adiabats are distinct.
+   As no two adiabats intersect, no other adiabat can intersect the T = 0
+   isotherm. Consequently no adiabatic process initiated at nonzero
+   temperature can lead to zero temperature. (≈ Callen, pp. 189-190)
+
+   An even stronger assertion is that It is impossible by any procedure to
+   reduce the temperature of a system to zero in a finite number of
+   operations. (≈ Guggenheim, p. 157)
+
+   A perfect crystal is one in which the internal lattice structure
+   extends uninterrupted in all directions. The perfect order can be
+   represented by translational symmetry along three (not usually
+   orthogonal) axes. Every lattice element of the structure is in its
+   proper place, whether it is a single atom or a molecular grouping. For
+   substances which have two (or more) stable crystalline forms, such as
+   diamond and graphite for carbon, there is a kind of "chemical
+   degeneracy". The question remains whether both can have zero entropy at
+   T = 0 even though each is perfectly ordered.
+
+   Perfect crystals never occur in practice; imperfections, and even
+   entire amorphous materials, simply get "frozen in" at low temperatures,
+   so transitions to more stable states do not occur.
+
+   Using the Debye model, the specific heat and entropy of a pure crystal
+   are proportional to T^ 3, while the enthalpy and chemical potential are
+   proportional to T^ 4. (Guggenheim, p. 111) These quantities drop toward
+   their T = 0 limiting values and approach with zero slopes. For the
+   specific heats at least, the limiting value itself is definitely zero,
+   as borne out by experiments to below 10 K. Even the less detailed
+   Einstein model shows this curious drop in specific heats. In fact, all
+   specific heats vanish at absolute zero, not just those of crystals.
+   Likewise for the coefficient of thermal expansion. Maxwell's relations
+   show that various other quantities also vanish. These phenomena were
+   unanticipated.
+
+   Since the relation between changes in the Gibbs free energy, the
+   enthalpy and the entropy is
+
+          \Delta G = \Delta H - T \Delta S \,
+
+   it follows that as T decreases, ΔG and ΔH approach each other (so long
+   as ΔS is bounded). Experimentally, it is found that most chemical
+   reactions are exothermic and release heat in the direction they are
+   found to be going, toward equilbrium. That is, even at room temperature
+   T is low enough so that the fact that (ΔG)[T,P] < 0 (usually) implies
+   that ΔH < 0. (In the opposite direction, each such reaction would of
+   course absorb heat.)
+
+   More than that, the slopes of the temperature derivatives of ΔG and ΔH
+   converge and are equal to zero at T = 0, which ensures that ΔG and ΔH
+   are nearly the same over a considerable range of temperatures,
+   justifying the approximate empirical Principle of Thomsen and
+   Berthelot, which says that the equilibrium state to which a system
+   proceeds is the one which evolves the greatest amount of heat, i.e., an
+   actual process is the most exothermic one. (Callen, pp. 186-187)
+
+Absolute temperature scales
+
+   As mentioned, absolute or thermodynamic temperature is conventionally
+   measured in kelvins ( Celsius-size degrees), and increasingly rarely in
+   the Rankine scale ( Fahrenheit-size degrees). Absolute temperature is
+   uniquely determined up to a multiplicative constant which specifies the
+   size of the "degree", so the ratios of two absolute temperatures,
+   T[2]/T[1], are the same in all scales. The most transparent definition
+   comes from the classical Maxwell-Boltzmann distribution over energies,
+   or from the quantum analogs: Fermi-Dirac statistics (particles of
+   half-integer spin) and Bose-Einstein statistics (particles of integer
+   spin), all of which give the relative numbers of particles as
+   (decreasing) exponential functions of energy over kT. On a macroscopic
+   level, a definition can be given in terms of the efficiencies of
+   "reversible" heat engines operating between hotter and colder thermal
+   reservoirs.
+
+Negative temperatures
+
+   Certain semi-isolated systems (for example a system of non-interacting
+   spins in a magnetic field) can achieve negative temperatures; however,
+   they are not actually colder than absolute zero. They can be however
+   thought of as "hotter than T=∞", as energy will flow from a negative
+   temperature system to any other system with positive temperature upon
+   contact.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Absolute_zero"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,346 @@
+   #copyright
+
+ECHELON
+
+2007 Schools Wikipedia Selection. Related subjects: Politics and government
+
+   A radome at RAF Menwith Hill, a site with satellite downlink
+   capabilities used by ECHELON.
+   Enlarge
+   A radome at RAF Menwith Hill, a site with satellite downlink
+   capabilities used by ECHELON.
+
+   ECHELON is a name used to describe a highly secretive world-wide
+   signals intelligence and analysis network run by the UKUSA Community
+   (otherwise described as the "Anglo-Saxon alliance") that has been
+   reported by a number of sources including, in 2001, a committee of the
+   European Parliament (EP report). According to some sources ECHELON can
+   capture radio and satellite communications, telephone calls, faxes,
+   e-mails and other data streams nearly anywhere in the world and
+   includes computer automated analysis and sorting of intercepts . The EP
+   committee, however, concluded that "the analysis carried out in the
+   report has revealed that the technical capabilities of the system are
+   probably not nearly as extensive as some sections of the media had
+   assumed" (EP report, p. 11).
+
+Name
+
+   The EP committee stated that "it seems likely, in view of the evidence
+   and the consistent pattern of statements from a very wide range of
+   individuals and organisations, including American sources, that its
+   name is in fact ECHELON, although this is a relatively minor detail."
+   (EP report, p. 11) The U.S. intelligence community uses many code
+   names. See, for example, CIA cryptonym.
+
+   Margaret Newsham claims that she worked on the configuration and
+   installation of some of the software that makes up the ECHELON system
+   while employed at Lockheed Martin, for whom she worked from 1974 to
+   1984 in Sunnyvale, California and in Menwith Hill, England.. At that
+   time, according to Newsham, the code name ECHELON was NSA's term for
+   the computer network itself. Lockheed called it P415 . The software
+   programs were called SILKWORTH and SIRE. A satellite named VORTEX would
+   intercept communications. An image available on the internet of a
+   fragment apparently torn from a job description shows Echelon listed
+   along with several other code names.
+
+History
+
+   Reportedly created to monitor the military and diplomatic
+   communications of the Soviet Union and its East Bloc allies during the
+   Cold War in the early sixties, today ECHELON is believed to search also
+   for hints of terrorist plots, drug-dealers' plans, and political and
+   diplomatic intelligence. But some critics, including the European
+   Union, claim the system is being used also for large-scale commercial
+   theft and invasion of privacy. This is in fact why the report was
+   commissioned (see EU report).
+
+   While details of methods and capabilities are highly sensitive and
+   protected by special laws (e.g. 18 USC 798), gathering signals
+   intelligence ( SIGINT) is an acknowledged mission of the U.S. National
+   Security Agency. As of August 2006, their web site had a FAQ page on
+   the topic, which states:
+
+          "NSA/CSS’s Signal Intelligence mission is to intercept and
+          analyze foreign adversaries' communications signals, many of
+          which are protected by codes and other complex countermeasures.
+          We collect, process, and disseminate intelligence reports on
+          foreign intelligence targets in response to intelligence
+          requirements set at the highest levels of government. ...
+          Foreign intelligence means information relating to the
+          capabilities, intentions, and activities of foreign powers,
+          organizations or persons."
+
+   In 2001, the EP report (p. 19) recommended that citizens of member
+   states routinely use cryptography in their communications to protect
+   their privacy. In the UK, the government introduced the Regulation of
+   Investigatory Powers Act which gives authorities the power to demand
+   that citizens hand over their encryption keys, without a judge-approved
+   warrant. In April 2004, the European Union decided to spend 11 million
+   euros developing secure communication based on quantum cryptography —
+   the SECOQC project — a system that would theoretically be unbreakable
+   by ECHELON or any other espionage system. European governments have
+   been leery of ECHELON since a December 3, 1995 story in the Baltimore
+   Sun claiming that aerospace company Airbus lost a $6Billion contract
+   with Saudi Arabia in 1994 after the NSA reported that Airbus officials
+   had been bribing Saudi officials to secure the contract .
+
+Capabilities
+
+   The ability to intercept communications depends on the medium used, be
+   it radio, satellite, microwave, cellular or fibre-optic (EP report p.
+   30 ff) During World War II and through the 1950s, high frequency
+   ("short wave") radio was widely used for military and diplomatic
+   communication (The Codebreakers, Ch. 10, 11), and could be intercepted
+   at great distances (EP report p. 33). The rise of geostationary
+   communications satellites in the 1960s presented new possibilities for
+   intercepting international communications. The EP report states (p. 34)
+   "If UKUSA states operate listening stations in the relevant regions of
+   the earth, in principle they can intercept all telephone, fax and data
+   traffic transmitted via such satellites." Many, if not most reports on
+   ECHELON focus on satellite interception. (e.g. )
+
+   The role of satellites in point-to-point voice and data communications
+   has largely been supplanted by fibre optics. As of 2006, 99 percent of
+   the world's long-distance voice and data traffic is carried over
+   optical-fibre cables. The 2001 EP report (p. 37) states that "the
+   proportion of international communications accounted for by satellite
+   links has decreased substantially over the past few years in Central
+   Europe; it lies between 0.4 and 5%." Even in less developed parts of
+   the world, such as Latin America, communications satellites are used
+   largely for point-to-multipoint applications, such as video . The EU
+   report concludes (p. 11) "this means that the majority of
+   communications cannot be intercepted by earth stations, but only by
+   tapping cables and intercepting radio signals, something which — as the
+   investigations carried out in connection with the report have shown —
+   is possible only to a limited extent.
+
+   One approach is to place intercept equipment at locations where fibre
+   optic communications are switched. For the Internet, much of the
+   switching occurs at a relatively small number of sites. There have been
+   reports of one such intercept site in the United States. In the past,
+   much Internet traffic was routed through the U.S. and the UK. However
+   this is less true at present. According the to the 2001 EP report (p.
+   33), "95% of intra-German Internet communications are routed via a
+   switch in Frankfurt." Thus for a worldwide surveillance network to be
+   comprehensive, either illegal intercept sites would be required on the
+   territory of friendly nations or cooperation of local authorities would
+   be needed. The EP report points out (p. 27) "interception of private
+   communications by foreign intelligence services is by no means confined
+   to the US or British foreign intelligence services." U.S. intelligence
+   maintains liaison relationships with countries all over the world .
+   Some reports of cooperation involving signals intelligence have come to
+   light since the September 11, 2001 attacks on the United States.
+   Monitoring of mobile phones in Pakistan was reportedly used to track
+   Khalid Shaikh Mohammed before he was arrested in Rawalpindi on March 1,
+   2003 (How Tiny Swiss Cellphone Chips Helped Track Global Terror Web,
+   New York Times, March 4, 2004).
+
+   According to many reports, the captured signals are then processed
+   through a series of computers, that are programmed to search for
+   targeted addresses, words, phrases or even individual voices.
+
+Controversy
+
+   US intelligence agencies are generally prohibited from spying on people
+   inside the US, and other Western countries' intelligence services
+   generally faced similar restrictions within their own countries. There
+   are allegations, however, that ECHELON and the UKUSA alliance were used
+   to circumvent these restrictions by, for example, having the UK
+   facilities spy on people inside the US and the US facilities spy on
+   people in the UK, with the agencies exchanging data. The NSA state on
+   its SIGINT FAQ web page "We have been prohibited by executive order
+   since 1978 from having any person or government agency, whether foreign
+   or U.S., conduct any activity on our behalf that we are prohibited from
+   conducting ourselves. Therefore, NSA/CSS does not ask its allies to
+   conduct such activities on its behalf nor does NSA/CSS do so on behalf
+   of its allies."
+
+   The proposed US-only " Total Information Awareness" program relied on
+   technology similar to ECHELON, and was to integrate the extensive
+   sources it is legally permitted to survey domestically with the "taps"
+   already compiled by ECHELON. It was cancelled by the U.S. Congress in
+   2004.
+
+   It has been alleged that in 2002 the Bush Administration extended the
+   ECHELON program to domestic surveillance. This controversy was the
+   subject of the New York Times eavesdropping exposé of December, 2005 .
+
+Organization
+
+   The UKUSA intelligence alliance has maintained ties in collecting and
+   sharing intelligence since World War II. Each member of the UKUSA
+   alliance is allegedly assigned responsibilities for monitoring
+   different parts of the globe. Canada's main task used to be monitoring
+   northern portions of the former Soviet Union and conducting sweeps of
+   all communications traffic that could be picked up from embassies
+   around the world. In the post-Cold War era, a greater emphasis has been
+   placed on monitoring satellite, radio and cellphone traffic originating
+   from Central and South America, primarily in an effort to track drugs
+   and non-aligned paramilitary groups in the region. The United States,
+   with its vast array of spy satellites and listening posts, monitors
+   most of Latin America, Asia, Asiatic Russia and northern mainland
+   China. Britain listens in on Europe and Russia west of the Urals as
+   well as Africa. Australia hunts for communications originating in
+   Indochina, Indonesia and southern mainland China. New Zealand sweeps
+   the western Pacific.
+
+   Supporters stress that ECHELON is simply a method of sorting captured
+   signals and is just one of the many arrows in the intelligence
+   community's quiver, along with increasingly sophisticated bugging and
+   communications interception techniques, satellite tracking,
+   through-clothing scanning, automated biometric recognition systems that
+   can recognize faces, fingerprints & retina patterns.
+
+   The U.S. communications-intelligence agency is the National Security
+   Agency (NSA), which is headquartered at Fort Meade, just outside
+   Washington, DC. Although the NSA budget is classified, as of 1996 the
+   agency was estimated to have a global staff of roughly 38,000 and a
+   budget of approximately US$3.6-billion. The UK equivalent organisation
+   is the Government Communications Headquarters GCHQ based at Cheltenham,
+   Gloucestershire. Further, smaller organisations exist to provide
+   communications technology and expertise (e.g. Her Majesty's Government
+   Communication Centre HMGCC).
+
+   By comparison, Canada's communications-intelligence operations are
+   conducted by the Communications Security Establishment (CSE), a branch
+   of the Canadian Department of National Defence. It has a staff of 1600
+   people and an annual budget of $110 million CAD. The CSE's headquarters
+   is the Sir Leonard Tilley Building on Heron Road in the nation's
+   capital of Ottawa, Ontario, and its main communications intercept site
+   is located on an old armed-forces radio base in Leitrim, just south of
+   Ottawa.
+
+   On July 6, 2000 the BBC published an article called Echelon: Big
+   brother without a cause? that said:
+
+          The Echelon spy system, whose existence has only recently been
+          acknowledged by US officials, is capable of hoovering up
+          millions of phone calls, faxes and emails a minute. [...]
+          Echelon evolved out of Cold War espionage arrangements set up by
+          the US and UK in 1948, and later bringing in Australia, Canada
+          and New Zealand, in their capacity as Britain's Commonwealth
+          partners. The biggest of Echelon's global network of listening
+          posts is at Menwith Hill, North Yorkshire, where about 30 "giant
+          golf balls" called radomes litter the landscape. The system also
+          boasts 120 American satellites in geostationary orbit. Bases in
+          the five countries are linked directly to the headquarters of
+          the secretive US National Security Agency (NSA) headquarters at
+          Fort Mead, Maryland. The system's superpowerful voice
+          recognition capability enables it to filter billions of
+          international communications for whatever key words or word
+          patterns are programmed in.
+
+Hardware
+
+   According to its web site NSA is "a high technology organization, ...
+   on the frontiers of communications and data processing." In 2006, the
+   Baltimore Sun reported that the NSA was at risk of electrical overload,
+   because of insufficient internal electrical infrastructure at Fort
+   Meade to support the amount of computer equipment being installed.
+
+   While there are occasional stories speculating on the types of
+   computers involved, Jonathan Meier, in his biography, has stated of his
+   time at the NSA that:
+
+          "Conjecture and speculation were rampant on the [ECHELON]
+          projects, even internally. Truthfully, very few individuals were
+          privy to the logistics involved."
+
+   At least one company, Narus, is publicly selling systems for mass
+   surveillance of Internet traffic and one of its systems was apparently
+   installed in 2003 in Room 641A, allegedly an intercept station run by
+   AT&T on behalf of NSA.
+
+   In 1999 the Australian Senate Joint Standing Committee on Treaties was
+   told by Professor Desmond Ball that the Pine Gap facility was used as a
+   ground station for a satellite based interception network. The
+   satellites are claimed to be large radio dishes between 20 and 100
+   metres across, parked in geostationary orbits. The original purpose of
+   the network was to monitor the telemetry from 1970s Soviet weapons, air
+   defence radar, communications satellites and ground based microwave
+   communications. The network is still operational and coordinated by US,
+   British and Australian intelligence communities.
+
+Ground stations
+
+   Some of the ground stations suspected of belonging to or participating
+   in the ECHELON network include:
+
+Likely satellite intercept stations
+
+   The following stations are listed in the EP report (p.54 ff) as likely
+   to have a role in intercepting transmissions from telecommunications
+   satellites:
+     * Hong Kong (since closed)
+     * Australian Defence Satellite Communications Station ( Geraldton,
+       Western Australia)
+     * Menwith Hill ( Yorkshire, UK)
+     * Misawa Air Base (Japan)
+     * Morwenstow ( Cornwall, UK)
+     * Pine Gap ( Northern Territory, Australia - close to Alice Springs)
+     * Sabana Seca (Puerto Rico - US)
+     * Sugar Grove (West Virginia, US)
+     * Yakima ( Washington, US) Map
+     * Waihopai (New Zealand)
+
+Possible satellite intercept stations
+
+   The following stations are listed in the EP report (p.57 ff) as ones
+   whose roles "cannot be clearly established":
+     * Agios Nikolaos (Cyprus - UK)
+     * Bad Aibling (Germany - US) - moved to Griesheim in 2004
+     * Buckley Air Force Base ( Colorado, US)
+     * Fort Gordon ( Georgia, US)
+     * Guam (Pacific Ocean, US)
+     * Kunia ( Hawaii, US)
+     * Leitrim (south of Ottawa, Canada)
+     * Medina Annex ( Texas, US)
+
+Various other ground stations
+
+   The following facilities have been claimed to host various intelligence
+   gathering stations of U.S. intelligence agencies and armed forces or
+   their allies.
+     * Alert ( Ellesmere Island, Nunavut, Canada)
+     * Bremerhaven (Germany - UK)
+     * RAF Chicksands ( Bedfordshire, UK)
+     * Diego Garcia (Indian Ocean - US-UK)
+     * RAF Digby ( Lincolnshire, UK)
+     * Elmendorf Air Force Base ( Alaska - US)
+     * Feltwell (Norfolk, UK)
+     * Fort Meade ( Maryland, US) (headquarters of NSA)
+     * Gander ( Newfoundland and Labrador, Canada)
+     * Gibraltar (UK)
+     * Griesheim (near Darmstadt, Germany - US)
+     * Mount Gabriel, Midleton, Co. Cork, Ireland (Eircom satellite
+       communications station)
+     * Karamursel (Turkey - US)
+     * Malta (Malta - UK)
+     * Masset ( British Columbia, Canada)
+     * Osan Air Base (South Korea, US)
+     * Rota, Spain (Spain, US)
+     * Shoal Bay Receiving Station ( Northern Territory, Australia)
+     * West Point, New York ( NY, US)
+     * Aflandshage, Denmark (Denmark)
+     * Tangimoana (New Zealand)
+     * Naval Communication Station Harold E. Holt ( Exmouth, Western
+       Australia)
+
+Former ground stations
+
+     * Augsburg (Germany - US) - closed in 1993
+     * Clark Air Base (Philippines - US) - closed in 1997
+     * Edzell (Scotland, UK) - closed in 1997
+     * Kabkan (Iran - US) - closed in 1979
+     * Little Sai Wan (Hong Kong - UK) - closed in 1984
+     * Nurrungar ( South Australia, Australia - south of Woomera, South
+       Australia) - closed in 1999
+     * San Vito dei Normanni (Italy - US) - closed in 1994
+     * Teufelsberg ( West Berlin, Germany - US) - closed in 1989
+     * Silvermine (near Cape Town, South Africa - US)
+
+   Retrieved from " http://en.wikipedia.org/wiki/ECHELON"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

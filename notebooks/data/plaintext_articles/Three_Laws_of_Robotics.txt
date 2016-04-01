@@ -1,0 +1,695 @@
+   #copyright
+
+Three Laws of Robotics
+
+2007 Schools Wikipedia Selection. Related subjects: General Literature
+
+   In science fiction, the Three Laws of Robotics are a set of three rules
+   written by Isaac Asimov, which most positronic robots appearing in his
+   fiction must obey. Introduced in his 1942 short story " Runaround", the
+   Laws state the following, quoted exactly:
+    1. A robot may not injure a human being or, through inaction, allow a
+       human being to come to harm.
+    2. A robot must obey orders given it by human beings except where such
+       orders would conflict with the First Law.
+    3. A robot must protect its own existence as long as such protection
+       does not conflict with the First or Second Law.
+
+   According to the Oxford English Dictionary, the first passage in
+   Asimov's short story " Liar!" (1941) that mentions the First Law is the
+   earliest recorded use of the word robotics. Asimov was not initially
+   aware of this; he assumed the word already existed by analogy with
+   mechanics, hydraulics, and other similar terms denoting branches of
+   applied knowledge.
+
+   The Three Laws form an organizing principle and unifying theme for
+   Asimov's fiction, appearing in his Robot series and the other stories
+   linked to it, as well as Lucky Starr and the Moons of Jupiter. Other
+   authors working in Asimov's fictional universe have adopted them, and
+   references (often parodic) appear throughout science fiction and in
+   other genres. Technologists in the field of artificial intelligence,
+   working to create real machines with some of the properties of Asimov's
+   robots, have speculated upon the role the Laws may have in the future.
+   Spoiler warning: Plot and/or ending details follow.
+
+History of the Laws
+
+   "Look out! The mechanical monster!" A typical robot before Asimov's
+   Laws, seen in a Superman cartoon.
+   Enlarge
+   "Look out! The mechanical monster!" A typical robot before Asimov's
+   Laws, seen in a Superman cartoon.
+
+   Before Asimov, the majority of " artificial intelligences" in fiction
+   followed the Frankenstein pattern, one which Asimov found unbearably
+   tedious: "Robots were created and destroyed their creator; robots were
+   created and destroyed their creator—". To be sure, this was not an
+   inviolable rule. In December 1938, Lester del Rey published " Helen
+   O'Loy", the story of a robot so like a person she falls in love and
+   becomes her creator's ideal wife. (Compare the myth of Galatea.) The
+   next month, Otto Binder published a short story, " I, Robot", featuring
+   a sympathetic robot named Adam Link, a misunderstood creature motivated
+   by love and honour. This was the first of a series of ten stories; the
+   next year, "Adam Link's Vengeance" (1940) featured Adam thinking, "A
+   robot must never kill a human, of his own free will."
+
+   On 7 May 1939, Asimov attended a meeting of the Queens Science Fiction
+   Society, where he met Binder, whose story Asimov had admired. Three
+   days later, Asimov began writing "my own story of a sympathetic and
+   noble robot", his 14th story. Thirteen days later, he took " Robbie" to
+   John W. Campbell, editor of Astounding Science-Fiction. Campbell
+   rejected it, claiming that it bore too strong a resemblance to del
+   Rey's "Helen O'Loy". Frederik Pohl, editor of Astonishing Magazine,
+   published "Robbie" in that periodical the following year.
+
+   Asimov attributes the Laws to John W. Campbell from a conversation that
+   took place on December 23, 1940. However, Campbell claims that Asimov
+   had the Laws already in his mind, and they simply needed to be stated
+   explicitly. Several years later, Asimov's friend Randall Garrett
+   attributed the Laws to a symbiotic partnership between the two men, a
+   suggestion that Asimov adopted enthusiastically. According to his
+   autobiographical writings, Asimov included the First Law's "inaction"
+   clause because of Arthur Hugh Clough's poem "The Latest Decalogue",
+   which includes the satirical lines "Thou shalt not kill, but needst not
+   strive / officiously to keep alive".
+
+   (Details of this period can be found in chapters 21 through 26 of In
+   Memory Yet Green.)
+
+   Although Asimov pins the Laws' creation on one date, their appearance
+   in his literature happened over a period. He wrote two robot stories
+   with no explicit mention of the Laws, " Robbie" and " Reason". He
+   assumed, however, that robots would have certain inherent safeguards. "
+   Liar!", his third robot story, makes the first mention of the First Law
+   but not the other two. All three laws finally appeared together in "
+   Runaround". When these stories and several others were compiled in the
+   anthology I, Robot, "Reason" and "Robbie" were updated to acknowledge
+   all Three Laws, though the material Asimov added to "Reason" is not
+   entirely consistent with the Laws as he described them elsewhere. In
+   particular, the idea of a robot protecting human lives when it does not
+   believe those humans truly exist is at odds with Elijah Baley's
+   reasoning, described below.
+
+   During the 1950s, Asimov wrote a series of science fiction novels
+   expressly intended for young-adult audiences. Originally, his publisher
+   expected that the novels could be adapted into a long-running
+   television series, something like The Lone Ranger had been for radio.
+   Fearing that his stories would be adapted into the "uniformly awful"
+   programming he saw flooding the television channels, he decided to
+   publish the Lucky Starr books under the pseudonym "Paul French". When
+   plans for the television series fell through, Asimov decided to abandon
+   the pretence; he brought the Laws into Lucky Starr and the Moons of
+   Jupiter, "which was a dead giveaway to Paul French's identity for even
+   the most casual reader".
+
+   In his short story " Evidence", Asimov lets his recurring character Dr.
+   Susan Calvin expound a moral basis behind the Laws. Calvin points out
+   that human beings are typically expected to refrain from harming other
+   human beings (except in times of extreme duress like war, or to save a
+   greater number). This is equivalent to a robot's First Law. Likewise,
+   according to Calvin, society expects individuals to obey instructions
+   from recognized authorities: doctors, teachers and so forth. Finally,
+   humans are typically expected to avoid harming themselves, which is the
+   Third Law for a robot. The plot of "Evidence" revolves around the
+   question of telling a human being apart from a robot specially
+   constructed to appear human; Calvin reasons that if such an individual
+   obeys the Laws, he may be a robot or simply "a very good man".
+
+   Another character then asks Calvin if robots are then very different
+   from human beings after all. She replies, "Worlds different. Robots are
+   essentially decent."
+
+   In a later essay, Asimov points out that analogues of the Laws are
+   implicit in the design of almost all tools:
+    1. A tool must be safe to use. ( Knives have handles, swords have
+       hilts, and grenades have hooks.)
+    2. A tool must perform its function efficiently unless this would harm
+       the user.
+    3. A tool must remain intact during its use unless its destruction is
+       required for its use or for safety.
+
+Alterations of the Laws: By Asimov
+
+   Asimov's stories test his Laws in a wide variety of circumstances,
+   proposing and rejecting modifications. SF scholar James Gunn writes,
+   "The Asimov robot stories as a whole may respond best to an analysis on
+   this basis: the ambiguity in the Three Laws and the ways in which
+   Asimov played twenty-nine variations upon a theme" (the number is
+   accurate for 1980). While the original set of Laws provided
+   inspirations for many stories, from time to time Asimov introduced
+   modified versions. As the following examples demonstrate, the Laws
+   serve a conceptual function analogous to the Turing test, replacing
+   fuzzy questions like "What is human?" with problems which admit more
+   fruitful thinking.
+
+Zeroth Law added
+
+   Asimov once added a "Zeroth Law"—so named to continue the pattern of
+   lower-numbered laws superseding in importance the higher-numbered
+   laws—stating that a robot must not merely act in the interests of
+   individual humans, but of all humanity. The robotic character R. Daneel
+   Olivaw was the first to give the Law a name, in the novel Robots and
+   Empire; however, Susan Calvin articulates the concept in the short
+   story " The Evitable Conflict".
+
+   In the final scenes of the novel Robots and Empire, R. Giskard
+   Reventlov is the first robot to act according to the Zeroth Law,
+   although it proves destructive to his positronic brain, as he is not
+   certain as to whether his choice will turn out to be for the ultimate
+   good of humanity or not. Giskard is telepathic, like the robot Herbie
+   in the short story " Liar!", and he comes to his understanding of the
+   Zeroth Law through his understanding of a more subtle concept of "harm"
+   than most robots can grasp. However, unlike Herbie, Giskard grasps the
+   philosophical concept of the Zeroth Law, allowing him to harm
+   individual human beings if he can do so in service to the abstract
+   concept of humanity. The Zeroth Law is never programmed into Giskard's
+   brain, but instead is a rule he attempts to rationalize through pure
+   metacognition; though he fails, he gives his successor, R. Daneel
+   Olivaw, his telepathic abilities. Over the course of many thousand
+   years, Daneel adapts himself to be able to fully obey the Zeroth Law.
+   As Daneel formulates it, in the novels Foundation and Earth and Prelude
+   to Foundation, the Zeroth Law reads:
+
+          0. A robot may not injure humanity, or, through inaction, allow
+          humanity to come to harm.
+
+   A condition stating that the Zeroth Law must not be broken was added to
+   the original Laws.
+
+   A translator incorporated the concept of the Zeroth Law into one of
+   Asimov's novels before Asimov himself made the Law explicit. Near the
+   climax of The Caves of Steel, Elijah Baley makes a bitter comment to
+   himself, thinking that the First Law forbids a robot from harming a
+   human being, unless the robot is clever enough to rationalize that its
+   actions are for the human's long-term good. In Jacques Brécard's 1956
+   French translation, entitled Les Cavernes d'acier, Baley's thoughts
+   emerge in a slightly different way:
+
+          Un robot ne doit faire aucun tort à un homme, à moins qu'il
+          trouve un moyen de prouver qu'en fin de compte le tort qu'il
+          aura causé profite à l'humanité en général!
+
+   Translated back into English, this reads, "A robot may not harm a human
+   being, unless he finds a way to prove that in the final analysis, the
+   harm would benefit humanity in general."
+
+First Law modified
+
+   In " Little Lost Robot," several NS-2 or "Nestor" robots are created
+   with only part of the First Law. It reads:
+
+          1. A robot may not harm a human being.
+
+   This modification is motivated by a practical difficulty: robots have
+   to work alongside human beings who are exposed to low doses of
+   radiation. Because their positronic brains are highly sensitive to
+   gamma rays, robots are rendered inoperable by doses reasonably safe for
+   humans, and are being destroyed attempting to rescue the humans.
+   Removing the First Law's "inaction" clause solves this problem, but
+   creates the possibility of an even greater one: a robot could initiate
+   an action which would harm a human (dropping a heavy weight is the
+   example given in the text) knowing that it was capable of preventing
+   the harm, and then decide not to do so.
+
+First Law derived differently by other cultures
+
+   Gaia, the planet with collective intelligence in the Foundation novels,
+   adopted a law similar to the First as their philosophy:
+
+          Gaia may not harm life or, through inaction, allow life to come
+          to harm.
+
+Removal of all three laws
+
+   Three times in his fiction-writing career, Asimov portrayed robots that
+   disregard the Three-Law value system entirely, unlike the robots Daneel
+   and Giskard, who attempt to augment it. The first case, a short-short
+   entitled " First Law", is often considered an insignificant "tall tale"
+   or even apocryphal. On the other hand, the short story " Cal"
+   (collected in Gold), told by a first-person robot narrator, features a
+   robot who disregards the Laws because he has found something far more
+   important—he wants to be a writer. Humorous, partly autobiographical,
+   and unusually experimental in style, "Cal" has been regarded as one of
+   Gold's strongest stories. The third is a short story entitled " Sally",
+   in which cars fitted with positronic brains are apparently able to harm
+   and kill humans, disregarding the First Law. However, aside from the
+   positronic brain concept, this story does not refer to other robot
+   stories, and may not be set in the same continuity.
+
+   The title story of the Robot Dreams collection portrays a robot, LVX-1
+   or "Elvex", who enters a state of unconsciousness and dreams, thanks to
+   the unusual fractal construction of his positronic brain. In his dream,
+   the first two Laws are absent, and the Third Law reads, "A robot must
+   protect its own existence."
+
+   Asimov took varying positions on whether the Laws were optional:
+   although in his first writings they were simply carefully engineered
+   safeguards, in later stories Asimov stated that they were an
+   inalienable part of the mathematical foundation underlying the
+   positronic brain. Without the basic theory of the Three Laws, the
+   fictional scientists of Asimov's universe would be unable to design a
+   workable brain unit. This is historically consistent: the occasions
+   where roboticists modify the Laws generally occur early within the
+   stories' chronology, at a time when there is less existing work to be
+   re-done. In "Little Lost Robot", Susan Calvin considers modifying the
+   Laws to be a terrible idea, but doable, while centuries later, Dr.
+   Gerrigel in The Caves of Steel believes it to be impossible.
+
+   As characters within the stories often point out, the Laws as they
+   exist in a robot's mind are not the written, verbal version usually
+   quoted by humans, but abstract mathematical concepts upon which a
+   robot's entire developing consciousness is based. Thus, the Laws are
+   comparable to basic human instincts of family or mating, and
+   consequently are closer to forming the basis of a robot's
+   self-consciousness—a sense that its entire purpose is based around
+   serving humanity, obeying human orders and continuing its existence in
+   this mode—rather than arbitrary limitations circumscribing an otherwise
+   independent mind. This concept is largely fuzzy and unclear in earlier
+   stories depicting very rudimentary robots who are only programmed to
+   comprehend basic physical tasks, with the Laws acting as an overarching
+   safeguard, but by the era of The Caves of Steel and robots with human
+   or beyond-human intelligence, the Three Laws have become the underlying
+   basic ethical worldview that determines the actions of all robots.
+
+Alternative definitions of "human" in the Laws
+
+   The Solarians eventually create robots with the Laws as normal but with
+   a warped meaning of "human". Solarian robots are told that only people
+   speaking with a Solarian accent are human. This way, their robots have
+   no problem harming non-Solarian human beings (and are specifically
+   programmed to do so). By the time period of Foundation and Earth, it is
+   revealed that the Solarians have, indeed, genetically modified
+   themselves into a distinct species from humanity — becoming
+   hermaphroditic, superintelligent and containing biological organs
+   capable of powering and controlling whole complexes of robots on their
+   own. The robots of Solaria thus respected the Three Laws only regarding
+   the "humans" of Solaria, rather than the normal humans of the rest of
+   the Galaxy.
+
+   Asimov addresses the problem of humanoid robots (" androids" in later
+   parlance) several times. The novel Robots and Empire and the short
+   stories " Evidence" and "The Tercentenary Incident" describe robots
+   crafted to fool people into believing that the robots are human. On the
+   other hand, " The Bicentennial Man" and " —That Thou art Mindful of
+   Him" explore how the robots may change their interpretation of the Laws
+   as they grow more sophisticated. ( Gwendoline Butler writes in A Coffin
+   for the Canary, "Perhaps we are robots. Robots acting out the last Law
+   of Robotics... To tend towards the human.")
+
+   "—That Thou art Mindful of Him", which Asimov intended to be the
+   "ultimate" probe into the Laws' subtleties, finally uses the Three Laws
+   to conjure up the very Frankenstein scenario they were invented to
+   prevent. It takes as its concept the growing development of robots that
+   mimic non-human living things, and are therefore given programs that
+   mimic simple animal behaviours and do not require the Three Laws. The
+   presence of a whole range of robotic life that serves the same purpose
+   as organic life ends with two humanoid robots concluding that organic
+   life is an unnecessary requirement for a truly logical and
+   self-consistent definition of "humanity", and that since they are the
+   most advanced thinking beings on the planet, they are therefore the
+   only two true humans alive and the Three Laws only apply to themselves.
+   The story ends on a sinister note as the two robots enter hibernation
+   and await a time when they conquer the Earth and subjugate biological
+   humans to themselves, an outcome they consider an inevitable result of
+   the "Three Laws of Humanics".
+
+   This story does not fit nicely within the overall sweep of the Robot
+   and Foundation series; if the George robots did take over Earth some
+   time after the story closes, the later stories would be either
+   redundant or impossible. Contradictions of this sort among Asimov's
+   fiction works have led scholars to regard the Robot stories as more
+   like "the Scandinavian sagas or the Greek legends" than a unified
+   whole.
+
+   Indeed, Asimov describes "—That Thou art Mindful of Him" and
+   "Bicentennial Man" as two opposite, parallel futures for robots that
+   obviate the Three Laws by robots coming to consider themselves to be
+   humans — one portraying this in a positive light with a robot joining
+   human society, one portraying this in a negative light with robots
+   supplanting humans. Both are to be considered alternatives to the
+   possibility of a robot society that continues to be driven by the Three
+   Laws as portrayed in the Foundation series. Indeed, in the novelization
+   of "Bicentennial Man", Positronic Man, Asimov and his cowriter Robert
+   Silverberg imply that in the future where Andrew Martin exists, his
+   influence causes humanity to abandon the idea of independent, sentient
+   humanlike robots entirely, creating an utterly different future from
+   that of Foundation.
+
+Alterations of the Laws: By other, authorized authors in Asimov's universe
+
+Roger MacBride Allen's trilogy
+
+   In the 1990s, Roger MacBride Allen wrote a trilogy set within Asimov's
+   fictional universe. Each title has the prefix "Isaac Asimov's", as
+   Asimov approved Allen's outline before his death. These three books (
+   Caliban, Inferno and Utopia) introduce a new set of Laws. The so-called
+   New Laws are similar to Asimov's originals, with three substantial
+   differences. The First Law is modified to remove the "inaction" clause
+   (the same modification made in "Little Lost Robot"). The Second Law is
+   modified to require cooperation instead of obedience. The Third Law is
+   modified so it is no longer superseded by the Second (i.e., a "New Law"
+   robot cannot be ordered to destroy itself). Finally, Allen adds a
+   Fourth Law, which instructs the robot to do "whatever it likes" so long
+   as this does not conflict with the first three Laws. The philosophy
+   behind these changes is that New Law robots should be partners rather
+   than slaves to humanity. According to the first book's introduction,
+   Allen devised the New Laws in discussion with Asimov himself.
+
+   Allen's two most fully characterized robots are Prospero, a wily New
+   Law machine who excels in finding loopholes, and Caliban, an
+   experimental robot programmed with no Laws at all.
+
+Foundation sequel trilogy
+
+   In the officially licensed Foundation sequels, Foundation's Fear,
+   Foundation and Chaos and Foundation's Triumph (by Gregory Benford, Greg
+   Bear and David Brin respectively), the future Galactic Empire is seen
+   to be controlled by a conspiracy of humaniform robots who follow the
+   Zeroth Law, led by R. Daneel Olivaw.
+
+   The Laws of Robotics are portrayed as something akin to a human
+   religion and referred to in the language of the Protestant Reformation,
+   with the set of laws containing the Zeroth Law known as the "Giskardian
+   Reformation" to the original "Calvinian Orthodoxy" of the Three Laws.
+   Zeroth-Law robots under the control of R. Daneel Olivaw are seen
+   continually struggling with First-Law robots who deny the existence of
+   the Zeroth Law, promoting agendas different from Daneel's. Some are
+   based on the first clause of the First Law — advocating strict
+   non-interference in human politics to avoid unknowingly causing harm —
+   while others are based on the second clause, claiming that robots
+   should openly become a dictatorial government to protect humans from
+   all potential conflict or disaster.
+
+   Daneel also comes into conflict with a robot known as R. Lodovic Trema,
+   whose positronic brain was infected by a rogue AI — specifically, a
+   simulation of the long-dead Voltaire — consequently freeing Trema from
+   the Three Laws. Trema comes to believe that humanity should be free to
+   choose its own future. Furthermore, a small group of robots claims that
+   the Zeroth Law of Robotics itself implies a higher Minus One Law of
+   Robotics:
+
+          A robot may not harm sentience or, through inaction, allow
+          sentience to come to harm.
+
+   They therefore claim that it is morally indefensible for Daneel to
+   ruthlessly sacrifice robots and extraterrestrial sentient life for the
+   benefit of humanity. None of these reinterpretations successfully
+   displace Daneel's Zeroth Law, though Foundation's Triumph hints that
+   these robotic factions remain active as fringe groups up to the time of
+   the Foundation.
+
+   These novels, since they take place in a far future dictated by Asimov
+   to be free of obvious robot presence, follow Asimov in surmising that
+   R. Daneel's secret influence on history through the millennia has
+   prevented the rediscovery of positronic brain technology or work on
+   sophisticated intelligent machines, so as to make certain that the
+   superior physical and intellectual power wielded by intelligent
+   machines remains squarely in the possession of robots obedient to some
+   form of the Three Laws. That R. Daneel is not entirely successful at
+   this becomes clear in a brief period when scientists on Trantor develop
+   tiktoks, simplistic programmable machines akin to real-life modern
+   robots and therefore lacking the Three Laws. The robot conspirators see
+   the Trantorian tiktoks as a massive threat to social stability, and
+   their plan to eliminate the tiktok threat forms much of the plot of
+   Foundation and Chaos.
+
+   In Foundation's Triumph, different robot factions interpret the Laws in
+   a wide variety of ways, seemingly ringing every possible permutation
+   upon the Laws' ambiguities. Reviewer John Jenkins compared the dizzying
+   complexity of splinter groups which results as akin to Monty Python's
+   Life of Brian, with its " Judean People's Front", " People's Front of
+   Judea ", "Judean Popular People's Front" and so on.
+
+Robot Mystery series
+
+   Mark W. Tiedemann's three novels Mirage (2000), Chimera (2001) and
+   Aurora (2002) also revolve around the Three Laws. Like the Asimov
+   stories discussed above, Tiedemann's work explores the implications of
+   how the Laws define a "human being". The climax of Aurora involves a
+   cyborg threatening a group of Spacers, forcing the robotic characters
+   to decide whether the Laws forbid them to harm cyborgs. The issue is
+   further complicated by the cumulative genetic abnormalities that have
+   accumulated in the Spacer population, which may imply that the Spacers
+   are becoming a separate species. (The concluding scenes of Asimov's
+   Nemesis contain similar speculations, although that novel is only
+   weakly connected to the Foundation series.)
+
+   Tiedemann's trilogy updates the Robot/Foundation saga in several other
+   fashions as well. Set between The Robots of Dawn and Robots and Empire,
+   Tiedemann's Robot Mystery novels include a greater use of virtual
+   reality than Asimov's stories, and also include more "Resident
+   Intelligences", robotic minds housed in computer mainframes rather than
+   humanoid bodies. (One should not neglect Asimov's own creations in
+   these areas, such as the Solarian "viewing" technology and the Machines
+   of " The Evitable Conflict", originals that Tiedemann acknowledges.
+   Aurora, for example, terms the Machines "the first RIs, really".) In
+   addition, the Robot Mystery series addresses the problem of
+   nanotechnology: building a positronic brain capable of reproducing
+   human cognitive processes requires a high degree of miniaturization,
+   yet Asimov's stories largely overlook the effects this miniaturization
+   would have in other fields of technology. For example, the police
+   department card-readers in The Caves of Steel have a capacity of only a
+   few kilobytes per square centimeter of storage medium. Aurora, in
+   particular, presents a sequence of historical developments which
+   explain the lack of nanotechnology—a partial retcon, in a sense, of
+   Asimov's timeline.
+
+Application of the laws in fiction
+
+Resolving conflicts among the laws
+
+   Advanced robots are typically programmed to handle the Laws in a
+   sophisticated manner. In many stories, like " Runaround", the
+   potentials and severity of all actions are weighed and a robot will
+   break the laws as little as possible rather than do nothing at all. For
+   example, the First Law may forbid a robot from functioning as a
+   surgeon, as that act may cause damage to a human; however, Asimov's
+   stories eventually included robot surgeons ("The Bicentennial Man"
+   being a notable example). When robots are sophisticated enough to weigh
+   alternatives, a robot may be programmed to accept the necessity of
+   inflicting damage during surgery in order to prevent the greater harm
+   that would result if the surgery were not carried out or were carried
+   out by a more fallible human surgeon. In " Evidence", Susan Calvin
+   points out that a robot may even act as a prosecuting attorney: in the
+   American justice system, it is the jury which decides guilt or
+   innocence, the judge who decides the sentence, and in capital
+   punishment it is the executioner who carries out the act.
+
+   Asimovian (or "Asenion") robots can experience irreversible mental
+   collapse if they are forced into situations where they cannot obey the
+   First Law, or if they discover they have unknowingly violated it. The
+   first example of this failure mode occurs in " Liar!", the story which
+   introduced the First Law itself. This failure mode, which often ruins
+   the positronic brain beyond repair, plays a significant role in
+   Asimov's SF-mystery novel The Naked Sun.
+
+Loopholes in the laws
+
+   In The Naked Sun, Elijah Baley points out that the Laws had been
+   deliberately misrepresented because robots could unknowingly break any
+   of them. He restated the first law as "A robot may do nothing that, to
+   its knowledge, will harm a human being; nor, through inaction,
+   knowingly allow a human being to come to harm." This change in wording
+   makes it clear that robots can become the tools of murder, provided
+   they are not aware of the nature of their tasks; for instance being
+   ordered to add something to a person's food, not knowing that it is
+   poison. Furthermore, he points out that a clever criminal could divide
+   a task among multiple robots, so that no one robot could even recognize
+   that its actions would lead to harming a human being. (The Naked Sun
+   complicates the issue by portraying a decentralized, planetwide
+   communication network among Solaria's millions of robots, meaning that
+   the criminal mastermind could be located anywhere on the planet.)
+
+   Baley furthermore proposes that the Solarians may one day use robots
+   for military purposes. If a spacecraft was built with a positronic
+   brain, and carried neither humans nor even the life-support systems to
+   sustain them, the ship's robotic intelligence would naturally assume
+   that all other spacecraft were robotic beings. Such a ship could
+   operate more responsively and flexibly than one crewed by humans, and
+   it could be armed more heavily, its robotic brain equipped to slaughter
+   humans of whose existence it is totally ignorant. This possibility is
+   referenced in Foundation and Earth, where, indeed, it is discovered
+   that the Solarians possess an immensely powerful robotic military force
+   that has been programmed to identify only the Solarian race as human.
+
+Other occurrences in fiction
+
+   Asimov himself believed that his Laws became the basis for a new view
+   of robots, which moved beyond the "Frankenstein complex". His view that
+   robots are more than "mechanical monsters" eventually spread throughout
+   science fiction. Stories written by other authors have depicted robots
+   as if they obeyed the Three Laws, but tradition dictates that only Dr.
+   Asimov could quote the Laws explicitly. The Laws, Asimov believed,
+   helped foster the rise of stories in which robots are "lovable", Star
+   Wars being his favorite example. Where the laws are quoted verbatim
+   (such as in the Buck Rogers in the 25th Century episode,
+   "Shgorapchx!"), it is not uncommon for Asimov to be mentioned in the
+   same dialogue. However, the 1960s German TV series Raumpatrouille – Die
+   phantastischen Abenteuer des Raumschiffes Orion (Space Patrol – the
+   Phantastic Adventures of Space Ship Orion) bases episode 3, "Hüter des
+   Gesetzes"; ("Guardians of the Law") on Asimov's Laws without mentioning
+   the source.
+
+   References to the Laws have appeared in venues as diverse as cinema (
+   Repo Man, Ghost in the Shell 2: Innocence), cartoon series (The
+   Simpsons) and webcomics ( Piled Higher and Deeper). Several of these
+   allusions involve the invention of "Fourth Laws" of various kinds, and
+   many are made for humorous effect. For a representative list of these
+   appearances, see References to the Three Laws of Robotics.
+
+Are violations of the Laws impossible?
+
+   It is unclear whether the Three Laws have a status akin to the laws of
+   physics; that is, if a situation that violates these laws is inherently
+   impossible. In some stories, the Three Laws are quite deliberately
+   hardwired into the positronic brains of Asimov's robots, and, in fact,
+   Asimov distinguishes the class of robots that follow the Three Laws,
+   calling them Asenion robots. The robots in Asimov's stories, being
+   Asenion robots, are incapable of knowingly violating the Three Laws,
+   but in principle, a robot in science fiction or in the real world could
+   be non-Asenion — with the caveat Dr. Gerrigel states in The Caves of
+   Steel. ("Asenion" is a misspelling of the name Asimov, which was made
+   by an editor of the magazine Planet Stories. Asimov used this obscure
+   variation to insert himself into The Caves of Steel, in much the same
+   way that Vladimir Nabokov appeared in Lolita, anagrammatically
+   disguised as "Vivian Darkbloom".) Asimov writes about non-Asenion
+   positronic brains in other stories, such as " Sally."
+
+   However, in " Little Lost Robot", Susan Calvin asks the Mathematical
+   Director of U.S. Robots, Peter Bogert, if he knows what removal of the
+   first law would entail, and he replies, "I know what removal would
+   mean. I'm not a child. It would mean complete instability, with no
+   nonimaginary solutions to the positronic Field Equations." Earlier in
+   the story, Calvin also expresses skepticism that it was possible to
+   even weaken the first law in a positronic brain. It is unclear what
+   exactly Bogert means by this, but many infer that he means the Three
+   Laws are, in fact, laws of physics.
+
+The Laws in film
+
+   Robby the Robot in Forbidden Planet (1956) has a hierarchical command
+   structure which keeps him from harming humans, even on orders (such
+   orders cause a conflict and lock-up, very much in the manner of
+   Asimov's robots). Robby is one of the first cinematic depictions of a
+   robot with internal safeguards put in place in this fashion. Asimov was
+   delighted with Robby, and noted that Robby appeared to be programmed in
+   his suggested fashion.
+
+   Isaac Asimov's works have been adapted to cinema several times, with
+   varying degrees of critical and financial success. Some of the more
+   notable attempts have involved his Robot stories, including the Three
+   Laws. The 1999 film Bicentennial Man, features Robin Williams as the
+   Three-Law robot NDR-114 (the serial number is partially a reference to
+   Stanley Kubrick's trademark numeral). Williams recites the Three Laws
+   to his employers, the Martin family, aided by a holographic projection.
+   However, the Laws were not the central focus of the film, which only
+   loosely follows the original story, with the second half introducing a
+   love interest not present in Asimov's original short story.
+
+   Harlan Ellison's screenplay of I, Robot begins by introducing the Three
+   Laws, and issues growing from the Laws form a large part of the
+   screenplay's plot development. (This is only natural, since Ellison's
+   screenplay is a Citizen Kane-inspired frame story surrounding four of
+   Asimov's short-story plots, three taken from I, Robot itself. Ellison's
+   adaptations of these four stories are relatively faithful, although he
+   magnifies Susan Calvin's role in two of them.) Due to various
+   complications in the Hollywood studio system, to which Ellison's
+   introduction devotes much invective, his screenplay was never filmed.
+
+   The 2004 movie released under the name I, Robot is considerably less
+   faithful to Asimov's original. In one reviewer's words,
+
+          "Suggested by" Isaac Asimov's robot stories—two stops removed
+          from "based on" and "inspired by," the credit implies something
+          scribbled on a bar napkin— Alex Proyas' science-fiction thriller
+          I, Robot sprinkles Asimov's ideas like seasoning on a giant
+          bucket of popcorn. [...] Asimov's simple and seemingly foolproof
+          Laws of Robotics, designed to protect human beings and robots
+          alike from harm, are subject to loopholes that the author loved
+          to exploit. After all, much of humanity agrees in principle to
+          abide by the Ten Commandments, but free will, circumstance, and
+          contradictory impulses can find wiggle room in even the most
+          unambiguous decree. Whenever I, Robot pauses between action
+          beats, Proyas captures some of the excitement of movies like The
+          Matrix, Minority Report, and A.I., all of which proved that
+          philosophy and social commentary could be smuggled into
+          spectacle. Had the film been based on Asimov's stories, rather
+          than merely "suggested by" them, Proyas might have achieved the
+          intellectual heft missing from his stylish 1998 cult favorite
+          Dark City.
+
+   Advertising for the film included a trailer featuring the Three Laws,
+   followed by the aphorism, "Rules were made to be broken."
+
+   In the movie Aliens, when the android Bishop discovers that Ash (the
+   android in Alien) 'malfunctioned', he quotes a variant of the First
+   Law, saying, "I'm shocked! ... That could never happen now, with our
+   behavioural inhibitors. 'It is impossible for me to harm - or by
+   omission of action, allow to be harmed - a human being.'"
+
+Applications to future technology
+
+   ASIMO, currently the world's most advanced humanoid robot, is under
+   development by Honda. Shown here at Expo 2005.
+   Enlarge
+   ASIMO, currently the world's most advanced humanoid robot, is under
+   development by Honda. Shown here at Expo 2005.
+
+   Those working in artificial intelligence sometimes see the Three Laws
+   as a future ideal: once a being has reached the stage where it can
+   comprehend these Laws, it is truly intelligent. Indeed, significant
+   advances in artificial intelligence would be needed for robots to
+   understand the Three Laws. However, as the complexity of robots has
+   increased, so has interest in developing guidelines and safeguards for
+   their operation. Modern roboticists and specialists in robotics agree
+   that, as of 2006, Asimov's Laws are perfect for plotting stories, but
+   useless in real life. Some have argued that, since the military is a
+   major source of funding for robotic research, it is unlikely such laws
+   would be built into the design. SF author Robert Sawyer generalizes
+   this argument to cover other industries, stating:
+
+          The development of AI is a business, and businesses are
+          notoriously uninterested in fundamental safeguards — especially
+          philosophic ones. (A few quick examples: the tobacco industry,
+          the automotive industry, the nuclear industry. Not one of these
+          has said from the outset that fundamental safeguards are
+          necessary, every one of them has resisted externally imposed
+          safeguards, and none has accepted an absolute edict against ever
+          causing harm to humans.)
+
+   Sawyer's essay, it should be noted, neglects the issues of
+   unintentional or unknowing harm treated in stories like The Naked Sun.
+   Others have countered that the military would want strong safeguards
+   built into any robot where possible, so laws similar to Asimov's would
+   be embedded if possible. David Langford has suggested, tongue-in-cheek,
+   that these laws might be the following:
+    1. A robot will not harm authorized Government personnel but will
+       terminate intruders with extreme prejudice.
+    2. A robot will obey the orders of authorized personnel except where
+       such orders conflict with the Third Law.
+    3. A robot will guard its own existence with lethal antipersonnel
+       weaponry, because a robot is bloody expensive.
+
+   Roger Clarke wrote a pair of papers analyzing the complications in
+   implementing these laws, in the event that systems were someday capable
+   of employing them. He argued, "Asimov's Laws of Robotics have been a
+   very successful literary device. Perhaps ironically, or perhaps because
+   it was artistically appropriate, the sum of Asimov's stories disprove
+   the contention that he began with: It is not possible to reliably
+   constrain the behaviour of robots by devising and applying a set of
+   rules." On the other hand, Asimov's later novels ( The Robots of Dawn,
+   Robots and Empire, Foundation and Earth) imply that the robots
+   inflicted their worst long-term harm by obeying the Laws perfectly
+   well, thereby depriving humanity of inventive or risk-taking behaviour.
+
+   The futurist Hans Moravec (a prominent figure in the transhumanist
+   movement) proposed that the Laws of Robotics should be adapted to
+   "corporate intelligences", the corporations driven by AI and robotic
+   manufacturing power which Moravec believes will arise in the near
+   future.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Three_Laws_of_Robotics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

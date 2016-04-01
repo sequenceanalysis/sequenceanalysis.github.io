@@ -1,0 +1,126 @@
+   #copyright
+
+Arp2/3 complex
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   Atomic structure of bovine Arp2/3 complex [1] (PDB code: 1k8k). Color
+   coding for subunits: Arp3, orange; Arp2, marine (subunits 1 & 2 not
+   resolved and thus not shown); p40, green; p34, ice blue; p20, dark
+   blue; p21, magenta; p16, yellow.
+   Enlarge
+   Atomic structure of bovine Arp2/3 complex ( PDB code: 1k8k). Colour
+   coding for subunits: Arp3, orange; Arp2, marine (subunits 1 & 2 not
+   resolved and thus not shown); p40, green; p34, ice blue; p20, dark
+   blue; p21, magenta; p16, yellow.
+
+   Arp2/3 complex is a seven-subunit protein that plays a major role in
+   the regulation of the actin cytoskeleton. Two of its subunits, the
+   Actin-Related Proteins ARP2 and ARP3 closely resemble the structure of
+   monomeric actin and serve as nucleation sites for new actin filaments.
+   The complex binds to the sides of existing ("mother") filaments and
+   initiates growth of a new ("daughter") filament at a distinctive 70
+   degree angle from the mother. Branched actin networks are created as a
+   result of this nucleation of new filaments. The regulation of
+   rearrangements of the actin cytoskeleton is important for processes
+   like cell locomotion, phagocytosis, and intracellular motility of lipid
+   vesicles.
+
+   The Arp2/3 complex was first identified in Acanthamoeba castellanii and
+   has since been found in every eukaryotic organism studied.
+
+Mechanisms of Actin Polymerization by Arp2/3
+
+   Side branching model of the Arp2/3 complex. Activated Arp2/3 complex
+   binds to the side of a "mother" actin filament. Both Arp2 and Arp3 form
+   the first two subunits in the new "daughter" filament.
+   Enlarge
+   Side branching model of the Arp2/3 complex. Activated Arp2/3 complex
+   binds to the side of a "mother" actin filament. Both Arp2 and Arp3 form
+   the first two subunits in the new "daughter" filament.
+   Barbed end branching model of the Arp2/3 complex. Activated Arp2/3
+   competes with capping proteins to bind to the barbed end of an actin
+   filament. Arp2 remains bound to the mother filament, while Arp3 is
+   outside. The two Arp subunits form the first subunits of each branch
+   and the two branches continue to grow by addition of G-actin to each
+   Arp
+   Enlarge
+   Barbed end branching model of the Arp2/3 complex. Activated Arp2/3
+   competes with capping proteins to bind to the barbed end of an actin
+   filament. Arp2 remains bound to the mother filament, while Arp3 is
+   outside. The two Arp subunits form the first subunits of each branch
+   and the two branches continue to grow by addition of G-actin to each
+   Arp
+
+   Many actin-related molecules create a free barbed end for
+   polymerization by uncapping or severing pre-existing filaments and
+   using these as nucleation cores. However, the Arp2/3 complex stimulates
+   actin polymerization by creating a new nucleation core. The nucleation
+   core activity of Arp2/3 is activated by members of the Wiskott-Aldrich
+   syndrome family protein (WASP, N-WASP, and WAVE proteins). The V domain
+   of a WASP protein interacts with actin monomers while the CA region
+   associates with the Arp2/3 complex to create a nucleation core.
+   However, de novo nucleation followed by polymerization is not
+   sufficient to form integrated actin networks, since these newly
+   synthesized polymers would not be associated with pre-existing
+   filaments. Thus, the Arp2/3 complex binds to pre-existing filaments so
+   that the new filaments can grow on the old ones and form a functional
+   actin cytoskeleton. Capping proteins limit actin polymerization to the
+   region activated by the Arp2/3 complex, and the elongated filament ends
+   are recapped to prevent depolymerization and thus conserve the actin
+   filament.
+
+   The Arp2/3 complex simultaneously controls nucleation of actin
+   polymerization and branching of filaments. Moreover, autocatalysis is
+   observed during Arp2/3-mediated actin polymerization. In this process,
+   the newly formed filaments activate other Arp2/3 complexes,
+   facilitating the formation of branched filaments.
+
+   The mechanisms of actin polymerization by Arp2/3 has been the subject
+   of dispute in the resent years. The question is where the complex binds
+   the filament and how it nucleates a "daughter" filament. Historically
+   two models have been proposed to describe the formation of branched
+   filaments:
+
+Side branching model
+
+   In the side branching (or dendritic nucleation) model, the Arp2/3
+   complex binds to the side of pre-existing ("mother") filaments at a
+   point different from the nucleation site. Arp2/3 thus has two
+   actin-binding sites — one to bind to the pre-existing actin filament
+   and the other for the nucleation of a branched filament. Recent
+   research provides strong support for this model.
+
+Barbed end branching model
+
+   In the barbed end branching model, Arp2/3 associates at the barbed end
+   of growing filaments, allowing for the elongation of the original
+   filament and the formation of a branched filament. This model is mainly
+   based on kinetic analysis rather than structural data, suggesting that
+   branching is induced with Arp2 and Arp3 being incorporated in two
+   different actin filaments.
+
+Cellular Uses of Arp2/3
+
+   The Arp2/3 complex appears to be important in a variety of specialized
+   cell functions that involve the actin cytoskeleton. The complex is
+   found in cellular regions characterized by dynamic actin filament
+   activity; in macropinocytotic cups, in the leading edges of
+   lamellipodia, and in motile actin patches in yeast. In mammals and the
+   social amoeba Dictyostelium discoideum it is required for phagocytosis.
+   The complex has also been shown to be involved in the establishment of
+   cell polarity and the migration of fibroblast monolayers in a
+   wound-healing model. Moreover, enteropathogenic organisms like Listeria
+   monocytogenes and Shigella use the Arp2/3 complex for
+   actin-polymerization dependent rocketing movements. The Arp2/3 complex
+   also regulates the intracellular motility of endosomes, lysosomes,
+   pinocytic vesicles and mitochondria. Moreover, recent studies show that
+   the Arp2/3 complex is essential for proper polar cell expansion in
+   plants. Arp2/3 mutations in Arabidopsis result in abnormal filament
+   organization, which in turn affects the expansion of trichomes,
+   pavement cells, hypocotyl cells, and root hair cells.
+   Retrieved from " http://en.wikipedia.org/wiki/Arp2/3_complex"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

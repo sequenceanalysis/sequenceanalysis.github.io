@@ -1,0 +1,470 @@
+   #copyright
+
+Richard Stallman
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+   CAPTION: Richard Stallman
+
+   Richard Stallman at the 2005 Fosdem in Brussels
+      Born:    March 16, 1953
+               Manhattan, New York
+   Occupation: President, Free Software Foundation as an unpaid volunteer
+    Website:   http://stallman.org
+
+   Richard Matthew Stallman (nickname RMS) (born March 16, 1953) is both
+   an acclaimed software freedom activist and software developer. In the
+   1980s, he founded the GNU Project to create a free unix-like operating
+   system, and has been the project's lead architect and organizer. Also
+   in the 1980s, he founded the free software movement, and the Free
+   Software Foundation. He co-founded the League for Programming Freedom.
+   Stallman pioneered the concept of copyleft and is the main author of
+   several copyleft licenses including the GNU General Public License, the
+   most widely used free software license. Since the mid-1990s, Stallman
+   has spent most of his time as a political campaigner advocating for
+   free software, as well as campaigning against both patenting software
+   and expansions of copyright law. Stallman's renowned software
+   accomplishments include developing the original Emacs, GNU Emacs, the
+   GNU Compiler Collection, and the GNU Debugger.
+
+Early years
+
+   Stallman was born in Manhattan, New York, to Alice Lippman and Daniel
+   Stallman. His first access to a computer came during his senior year at
+   high school in 1969. Hired by the IBM New York Scientific Centre,
+   Stallman used the summer after his high-school graduation writing his
+   first program, a preprocessor for the PL/I programming language on the
+   IBM 360. "I first wrote it in PL/I, then started over in assembly
+   language when the PL/I program was too big to fit in the computer" he
+   later said.
+
+   During this time, Stallman was also a volunteer Laboratory Assistant in
+   the biology department at Rockefeller University. Although he was
+   already moving toward a career in mathematics or physics, his teaching
+   professor at Rockefeller thought he would have a future as a biologist.
+
+   In June 1971, as a first year student at Harvard University, Stallman
+   became a programmer at the AI Laboratory of MIT. There he became a
+   regular in the hacker community, where he was usually known by his
+   initials, "RMS" (which was the name of his computer accounts). In the
+   first edition of the Hacker's Dictionary, he wrote, "'Richard Stallman'
+   is just my mundane name; you can call me 'rms'." Stallman graduated
+   from Harvard magna cum laude earning a BA in Physics in 1974. He then
+   enrolled at MIT as a graduate student, but abandoned his pursuit of
+   graduate degrees while remaining a programmer at the MIT AI Laboratory.
+   In 1977, Stallman published an AI truth maintenance system called
+   dependency-directed backtracking. The paper was co-authored by Gerald
+   Jay Sussman. He jokes that "This is how the computer can avoid
+   exploding when you ask it a self-contradictory question."
+
+   As a hacker in MIT's AI laboratory, Stallman worked on software
+   projects like TECO, Emacs, and the Lisp Machine Operating System. He
+   would become an ardent critic of restricted computer access in the lab.
+   When MIT's Laboratory for Computer Science (LCS) installed a password
+   control system in 1977, Stallman cracked the password system to reset
+   passwords to null strings and sent users messages informing them of the
+   removal of the password system. Although Stallman boasted of the
+   success of his campaign for many years afterward, passwords ultimately
+   triumphed.
+
+Decline of MIT's hacker culture
+
+   In the 1980s, the hacker community in which Stallman lived began to
+   fragment. To prevent software from being used on their competitors'
+   computers, most manufacturers stopped distributing source code and
+   began using copyright and restrictive software licenses to limit or
+   prohibit copying and redistribution. Such proprietary software had
+   existed before, and it became apparent that it would become the norm.
+
+   When Brian Reid in 1979 placed "time bombs" in Scribe to restrict
+   unlicensed access to the software, Stallman proclaimed that "the
+   prospect of charging money for software was a crime against humanity."
+
+   In 1980, Stallman and some other hackers at the AI lab were not given
+   the source code of the software for the Xerox 9700 laser printer
+   (code-named Dover), the industry's first. The hackers had modified the
+   software on the other printers, so it electronically messaged a user
+   when his job was printed, and messages all logged-in users when a
+   printer was jammed. Not being able to add this feature to the Dover
+   printer was a major inconvenience, as the printer was on a different
+   floor, then all the users. This one experience convinced Stallman of
+   the ethical need to require free software. At that time, it became
+   clear that he wanted people to discard proprietary software.
+
+   In 1980, Richard Greenblatt, a fellow AI lab hacker, founded Lisp
+   Machines, Inc. (LMI) to market Lisp machines, which he and Tom Knight
+   designed at the lab. Greenblatt rejected outside investment, believing
+   that the proceeds from the construction and sale of a few machines
+   could be profitably reinvested in the growth of the company. In
+   contrast, the other hackers felt that the venture capital-funded
+   approach was better. As no agreement could be reached, they founded
+   Symbolics, with the aid of Russ Noftsker, an AI Lab administrator.
+   Symbolics recruited most of the remaining hackers including notable
+   hacker Bill Gosper, who then left the AI lab. Symbolics forced
+   Greenblatt to also resign by citing MIT policies. While both companies
+   delivered proprietary software, Stallman believed that LMI, unlike
+   Symbolics, had tried to avoid hurting the lab. For two years, from 1982
+   to the end of 1983, Stallman singlehandedly duplicated the efforts of
+   the Symbolics programmers, in order to prevent them from gaining a
+   monopoly on the lab's computers.
+
+   However, he was the last of his generation of hackers at the lab. He
+   rejected a future where he would have to sign non-disclosure agreements
+   where he would have to agree not to share source code or technical
+   information with other software developers, and perform other actions
+   he considered betrayals of his principles. He chose instead to share
+   his work with others in what he regarded as a classical spirit of
+   collaboration. While Stallman did not participate in the counterculture
+   of the 60s, he was inspired by its rejection of the pursuit of wealth
+   as the primary goal of living.
+
+   Stallman argues that software users should have the freedom to "share
+   with their neighbour" and to be able to study and make changes to the
+   software that they use. He has repeatedly said that attempts by
+   proprietary software vendors to prohibit these acts are "antisocial"
+   and "unethical". The phrase "software wants to be free" is often
+   incorrectly attributed to him, and Stallman argues that this is a
+   misstatement of his philosophy. He argues that freedom is vital for the
+   sake of users and society as a moral value, and not merely for
+   pragmatic reasons e.g., because it may lead to improved software. In
+   January 1984, he quit his job at MIT to work full time on the GNU
+   project, which he had announced in September 1983. He did not complete
+   a Ph.D. but has been awarded four honorary degrees (see list below).
+
+GNU Project
+
+   Stallman announced the plan for the GNU operating system in September
+   1983 on several ARPAnet mailing lists and USENET.
+
+   In 1985, Stallman published the GNU Manifesto, which outlined his
+   motivation for creating a free operating system called GNU, which would
+   be compatible with Unix. The name GNU is a recursive acronym for GNU's
+   Not Unix. Soon after, he started a non-profit corporation called the
+   Free Software Foundation (FSF) to employ free software programmers and
+   provide a legal infrastructure for the free software movement. The FSF
+   is incorporated in the Commonwealth of Massachusetts, and is tax-exempt
+   under 501(c)(3) of the Internal Revenue Code, which allows donors who
+   file US Federal Income Tax returns to get a deduction on their taxes
+   for their donations. Stallman is the unsalaried president of the Free
+   Software Foundation.
+
+   In 1985, Stallman invented and popularized the concept of copyleft, a
+   legal mechanism to protect the modification and redistribution rights
+   for free software. It was first implemented in the GNU Emacs General
+   Public License, and in 1989 the first program-independent GNU General
+   Public License (GPL) was released. By then, much of the GNU system had
+   been completed. Stallman was responsible for contributing many
+   necessary tools, including a text editor, compiler, debugger, and a
+   build automator. The notable exception was a kernel. In 1990, members
+   of the GNU project began a kernel called GNU Hurd, which has yet to
+   achieve widespread usage.
+
+   By producing software tools needed to write software, and publishing a
+   generalized license (the GPL) that could be applied to any software
+   project, Stallman helped make it easier for others to write free
+   software independent of the GNU project. In 1991, one such independent
+   project produced the Linux kernel. This could be combined with the GNU
+   system to make a complete operating system. Most people use the name
+   Linux to refer to both the combinations of the Linux kernel itself plus
+   the GNU system, which Stallman claims unfairly disparages the value of
+   the GNU project, as discussed below in GNU/Linux.
+
+   Stallman's influences on hacker culture include the name POSIX and the
+   Emacs editor. On UNIX systems, GNU Emacs's popularity rivaled that of
+   another editor vi, spawning an editor war. Stallman's humorous take on
+   this was to jokingly canonize himself as "St. Ignucius" / "St.
+   IGNUcius" of the Church of Emacs.
+
+   A number of developers view Stallman as being difficult to work with
+   from a political, interpersonal, or technical standpoint. Around 1992,
+   developers at Lucid Inc. doing their own work on Emacs clashed with
+   Stallman and ultimately forked the software, creating what's now known
+   as XEmacs. An email archive published by Jamie Zawinski documents their
+   criticisms and Stallman's response. Ulrich Drepper published complaints
+   against Stallman in the release notes for glibc 2.2.4, where he accuses
+   RMS of attempting a "hostile takeover" of the project, referring to him
+   as a "control freak and raging manic." Eric S. Raymond, who sometimes
+   speaks for parts of the open source movement, has written many pieces
+   laying out that movement's disagreement with Stallman and the free
+   software movement, often in terms sharply critical of Stallman.
+
+Activism
+
+   Richard Stallman giving a speech about "Copyright and Community" at
+   Wikimania (2005)
+   Enlarge
+   Richard Stallman giving a speech about "Copyright and Community" at
+   Wikimania (2005)
+
+   Stallman has written many essays on software freedom and is a voice of
+   action in the free software movement. Since the early 1990s, Stallman
+   has spent most of his time as a political campaigner and his speeches
+   reflect this. He most often speaks on these three topics:
+     * "The GNU project and the Free Software movement"
+     * "The Dangers of Software Patents"
+     * "Copyright and Community in the age of computer networks"
+
+   In 2006, during the year-long public consultation for the drafting of
+   version 3 of the GNU General Public License, he's added a fourth topic
+   explaining the proposed changes.
+
+   Stallman's staunch advocacy for free software inspired "Virtual Richard
+   M. Stallman" (vrms), software that analyzes the packages currently
+   installed on a Debian GNU/Linux system, and report those that are from
+   the non-free tree. Stallman would disagree with parts of Debian's
+   definition of free software. Instead, Stallman endorses 6 distributions
+   of GNU/Linux for people to use, including Ututo, BLAG Linux and GNU,
+   Dynebolic, GNUstep, Musix, and Agnula.
+
+   In 1999, Stallman called for development of a free on-line encyclopedia
+   through the means of inviting the public to contribute articles. See
+   GNUPedia.
+
+   In Venezuela, Stallman has delivered public speeches and promoted the
+   adoption of free software in the state's oil company ( PDVSA), in
+   municipal government, and in the nation's millitary. In 2004, Stallman
+   attended a speech by Venezuela's President, Hugo Chavez, at a
+   conference of Artists and Intellectuals in Defense of Humanity. In an
+   encounter with Chavez, Stallman questioned recent laws passed over
+   television broadcasting that challenged free speech rights. Stallman is
+   on the Advisory Council of teleSUR, a Latin American television
+   station.
+
+   In August 2006 at his meetings with the government of the Indian State
+   of Kerala, he persuaded officials to discard proprietary software, such
+   as Microsoft's, at state-run schools. This has resulted in a landmark
+   decision to switch all school computers in 12,500 high schools from
+   Windows to a free software operating system.
+
+Personal life
+
+   By all accounts, including his own, Stallman has devoted the bulk of
+   his life’s energies to political and software activism. Professing to
+   care little for material wealth, he explains that he has “always lived
+   cheaply… like a student, basically. And I like that, because it means
+   that money is not telling me what to do.”
+
+   Stallman maintains no permanent residence outside his office at MIT’s
+   CSAIL Lab, describing himself as a “ squatter” on campus. He owns
+   neither an automobile, common in pedestrian-friendly Cambridge, nor a
+   cell phone, having stated his refusal to own a device with proprietary
+   software. Because his “research affiliate” position at MIT is unpaid,
+   he supports himself financially with speaker fees and prize money from
+   awards he has won.
+
+   His accomplishments notwithstanding, Stallman has frequently been the
+   target of criticism and ridicule for his eccentric behaviour and
+   supposedly inadequate personal hygiene. Even within the free software
+   community, it is acknowledged that certain of Stallman’s habits, such
+   as picking the knots from his hair and tossing them in the soup he is
+   eating, might seem “crazy” to outsiders. Some worry that these “unusual
+   behaviors” might impair the adoption of free and open source software.
+   In one Forbes magazine article, columnist Daniel Lyons expressed
+   concern that Stallman’s peculiarities would harm Linux’s reputation by
+   association.
+
+   When asked about his influences, he has replied that he admires Mahatma
+   Gandhi, Martin Luther King, Jr., Nelson Mandela, Aung San Suu Kyi,
+   Ralph Nader, and Dennis Kucinich. He has also commented: “I admire
+   Franklin D. Roosevelt and Winston Churchill, even though I criticize
+   some of the things that they did.”
+
+   Stallman’s personal website includes a description of himself, in the
+   guise of a personal ad, as a “reputedly intelligent” atheist. He has
+   had “sweethearts” before, according to interviews, but stated in March
+   2006 that he was not then in a relationship.
+
+Hobbies and interests
+
+   As a young adult, Stallman counted folk dance among his passions, and
+   though he has since given it up due to knee injury, he still performs
+   small dance steps as a matter of spontaneous habit. He enjoys a wide
+   range of musical styles from Conlon Nancarrow to folk; he has performed
+   Renaissance and Balinese gamelan music on the recorder. His best-known
+   original composition, the Free Software Song, has attracted praise from
+   his admirers as well as derision from those who consider it emblematic
+   of his inflexible, tone-deaf personality.
+
+   Stallman is a science fiction fan. He occasionally goes to science
+   fiction conventions and has written a few sci-fi stories, notably " The
+   Right to Read". A native English speaker, Stallman is also moderately
+   fluent in French and Spanish, and claims a “somewhat flawed” command of
+   Indonesian.
+
+Terminology
+
+   Stallman places great importance on the words, labels, and groupings of
+   topics people use to talk about the world, including the relationship
+   between software and freedom. In particular, he untiringly asks people
+   to say "free software," "GNU/Linux," and to avoid the term "
+   intellectual property." His requests that people use certain terms, and
+   his ongoing efforts to convince people of the importance of
+   terminology, are a source of regular mis-understanding and friction
+   with parts of the free and open source software community.
+
+   One of his criteria for giving an interview to a journalist is that the
+   journalist agree to use his terminology throughout their article.
+   Sometimes he has even required journalists to read parts of the GNU
+   philosophy before an interview, for "efficiency's sake." He has been
+   known to turn down speaking requests over some terminology issues.
+
+Free software
+
+   Stallman accepts terms such as "software libre", FLOSS, and "unfettered
+   software," but prefers the term "free software" since a lot of energy
+   has been invested in that term. For similar reasons, he argues for the
+   term " proprietary software" rather than "closed source software", when
+   referring to software that is not free software.
+
+   In the English language, the term "free software", however, can mean
+   either "unrestricted software" or "zero-cost software" or both. Over
+   the years, people have tried to come up with a more intuitive and less
+   ambiguous term. Stallman strongly objects to the term "open source" to
+   replace the term "free" since he says it hides the goal of freedom. He
+   declines interviews for stories that would label his work as "open
+   source," claiming that they would misrepresent his views.
+
+GNU/Linux
+
+   FSF artwork of the gnu (GNU mascot) and the penguin Tux (Linux kernel
+   mascot) representing their viewpoint on "GNU/Linux"
+   Enlarge
+   FSF artwork of the gnu (GNU mascot) and the penguin Tux (Linux kernel
+   mascot) representing their viewpoint on "GNU/Linux"
+
+   While often closely associated with GNU/Linux, Stallman's relationship
+   with it is occasionally controversial. Most notably he has insisted
+   that the term "GNU/Linux", which he pronounces "GNU Slash Linux", be
+   used to refer to the operating system created by combining the GNU
+   system and the Linux kernel. Stallman refers to this operating system
+   as "a variant of GNU, and the GNU Project is its principal developer."
+   He claims that the connection between the GNU project's philosophy and
+   its software is broken when people refer to the combination as merely
+   "Linux." Starting around 2003, he began also using the term
+   "GNU+Linux", which he pronounces "GNU plus Linux". This insistence has
+   come under intense and heated criticism.
+
+Copyright, patents, and trademarks
+
+   Stallman argues that the term "Intellectual Property" is designed to
+   confuse people, and is used to prevent intelligent discussion on the
+   specifics of copyright, patent, and trademark laws, respectively, by
+   lumping together areas of law that are more dissimilar than similar. He
+   also argues that by referring to these laws as "property" laws, the
+   term biases the discussion when thinking about how to treat these
+   issues.
+
+     "These laws originated separately, evolved differently, cover
+     different activities, have different rules, and raise different
+     public policy issues. Copyright law was designed to promote
+     authorship and art, and covers the details of a work of authorship
+     or art. Patent law was intended to encourage publication of ideas,
+     at the price of finite monopolies over these ideas--a price that may
+     be worth paying in some fields and not in others. Trademark law was
+     not intended to promote any business activity, but simply to enable
+     buyers to know what they are buying."
+
+Other terminology issues
+
+   Stallman recommends avoiding certain terms he considers misleading, and
+   advocates using other terms instead.
+
+   An example of Stallman cautioning others to avoid common but misleading
+   (or loaded) terminology, while also offering suggestions for possible
+   alternatives, is this paragraph of an email by Stallman to a public
+   mailing list:
+
+     "I think it is ok for authors (please let's not call them
+     "creators", they are not gods) to ask for money for copies of their
+     works (please let's not devalue these works by calling them
+     "content") in order to gain income (the term "compensation" falsely
+     implies it is a matter of making up for some kind of damages)."
+
+   See the "Words to avoid" essay on the GNU website. Here are a few
+   examples:
+     * "Software idea patents" rather than the more common " software
+       patents", arguing that the latter gives the wrong impression that
+       the patent covers an entire piece of software.
+     * "(UFO) Uniform Fee Only" as a replacement for "(RAND) Reasonable
+       and Non Discriminatory Licensing" arguing that a mandatory royalty
+       of any amount discriminates against free software because
+       distributors of free software cannot count the number of copies in
+       existence. This concern is shared by much of the free software and
+       open source communities, but Stallman's term is not widely used.
+     * Avoiding " piracy" for the act of copying information, arguing that
+       "piracy" has always designated the act of robbery or plunder at
+       sea, and that the term is misused by corporations to lend a greater
+       importance to the act of copying software or other intangible
+       things.
+     * "Corrupt discs" or "Fake CDs" to describe digital audio compact
+       discs which employ Copy Control or other similar technology to
+       prevent copying, arguing that they break the Red Book standard and
+       noting that recently such discs are printed without the Compact
+       Disc logo.
+     * "Treacherous Computing" rather than " Trusted Computing," which
+       limits the freedoms of users by denying them the ability to control
+       their computers.
+     * Stallman refers to "Digital Rights Management" (DRM) as "Digital
+       Restrictions Management", because DRM is designed to limit what the
+       user can do, not grant the user more rights. He also suggests
+       calling it "handcuffware", a term which has not caught on. On this
+       note, the Free Software Foundation has started the "Defective by
+       Design" campaign to spread the word of inform the world about these
+       issues.
+
+Recognition
+
+   Stallman has received much recognition for his work, including:
+
+Awards
+
+     * 1990: MacArthur Fellowship
+     * 1991: The Association for Computing Machinery's Grace Murray Hopper
+       Award "For pioneering work in the development of the extensible
+       editor EMACS (Editing Macros)."
+     * 1998: Electronic Frontier Foundation's Pioneer award
+     * 1999: Yuri Rubinsky Memorial Award
+     * 2001: The Takeda Techno-Entrepreneurship Award for Social/Economic
+       Well-Being (武田研究奨励賞)
+
+Honours
+
+     * 1996: Honorary doctorate from Sweden's Royal Institute of
+       Technology
+     * 2001: Second honorary doctorate, from the University of Glasgow
+     * 2002: United States National Academy of Engineering membership
+     * 2003: Third honorary doctorate, from the Vrije Universiteit Brussel
+     * 2004: Fourth honorary doctorate, from the Universidad Nacional de
+       Salta.
+     * 2004: Honorary professorship, from the Universidad Nacional de
+       Ingeniería del Perú.
+
+Publications
+
+     * Stallman, Richard M. & Sussman, Gerald J. (November 1975).
+       Heuristic Techniques in Computer-Aided Circuit Analysis, published
+       in IEEE Transactions on Circuits and Systems, Vol. CAS-22 (11)
+     * Stallman, Richard M. & Sussman, Gerald J. (1977). Forward Reasoning
+       and Dependency-Directed Backtracking In a System for Computer-Aided
+       Circuit analysis, published in Artificial Intelligence 9 pp.135-196
+     * Stallman, Richard M. (1981). EMACS: The Extensible, Customizable,
+       Self-Documenting Display Editor. Cambridge Massachusetts: MIT. MIT
+       Artificial Intelligence Laboratory publication AIM-519A. Also
+       available over the web in HTML and PDF formats.
+     * Stallman, Richard M. (2002). GNU Emacs Manual: Fifteenth edition
+       for GNU Emacs Version 21. Boston, Massachusetts: GNU Press. ISBN
+       1-882114-85-X. Also available over the web in different formats.
+     * Gay, Joshua (ed) (2002): Free Software, Free Society: Selected
+       Essays of Richard M. Stallman. Boston, Massachusetts: GNU Press.
+       ISBN 1-882114-98-1. Also available over the web in PDF, Texinfo,
+       and Postscript formats
+     * Stallman, Richard; McGrath, Roland; & Smith, Paul D. (2004). GNU
+       Make: A Program for Directed Compilation. Boston, Massachusetts:
+       GNU Press. ISBN 1-882114-83-3. Also available over the web in
+       different formats.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Richard_Stallman"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

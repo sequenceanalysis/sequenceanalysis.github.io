@@ -1,0 +1,530 @@
+   #copyright
+
+Bluetooth
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics; Engineering
+
+   Bluetooth is an industrial specification for wireless personal area
+   networks (PANs). Bluetooth provides a way to connect and exchange
+   information between devices such as mobile phones, laptops, PCs,
+   printers, digital cameras, and video game consoles over a secure,
+   globally unlicensed short-range radio frequency. The Bluetooth
+   specifications are developed and licensed by the Bluetooth Special
+   Interest Group.
+
+Uses
+
+   A typical Bluetooth mobile phone headset
+   A typical Bluetooth mobile phone headset
+
+   Bluetooth is a radio standard and communications protocol primarily
+   designed for low power consumption, with a short range
+   (power-class-dependent: 1 meter, 10 meters, 100 meters) based on
+   low-cost transceiver microchips in each device.
+
+   Bluetooth lets these devices communicate with each other when they are
+   in range. The devices use a radio communications system, so they do not
+   have to be in line of sight of each other, and can even be in other
+   rooms, as long as the received transmission is powerful enough.
+    Class  Maximum Permitted Power
+           ( mW/ dBm)                 Range
+                                  (approximate)
+   Class 1 100 mW (20 dBm)        ~100 meters
+   Class 2 2.5 mW (4 dBm)         ~10 meters
+   Class 3 1 mW (0 dBm)           ~1 meter
+
+Bluetooth profiles
+
+   In order to use Bluetooth, a device must be compatible with certain
+   Bluetooth profiles. These define the possible applications and uses.
+
+List of applications
+
+   More prevalent applications of Bluetooth include:
+     * Wireless control of and communication between a cell phone and a
+       hands-free headset or car kit. This was one of the earliest
+       applications to become popular.
+     * Wireless networking between PCs in a confined space and where
+       little bandwidth is required.
+     * Wireless communications with PC input and output devices, the most
+       common being the mouse, keyboard and printer.
+     * Transfer of files between devices with OBEX.
+     * Transfer of contact details, calendar appointments, and reminders
+       between devices with OBEX.
+     * Replacement of traditional wired serial communications in test
+       equipment, GPS receivers, medical equipment and traffic control
+       devices.
+     * For controls where infrared was traditionally used.
+     * Sending small advertisements from Bluetooth enabled advertising
+       hoardings to other, discoverable, Bluetooth devices.
+     * Seventh-generation game consoles—Nintendo Wii, Sony PlayStation
+       3—use Bluetooth for their respective wireless controllers.
+
+Bluetooth vs. Wi-Fi in networking
+
+   Bluetooth and Wi-Fi both have their places in today's offices, homes,
+   and on the move: setting up networks, printing, or transferring
+   presentations and files from PDAs to computers.
+
+Bluetooth
+
+   Bluetooth is implemented in a variety of new products such as phones,
+   printers, modems, and headsets. Bluetooth is acceptable for situations
+   when two or more devices are in proximity to each other and don't
+   require high bandwidth. Bluetooth is most commonly used with phones and
+   hand-held computing devices, either using a Bluetooth headset or
+   transferring files from phones/PDAs to computers.
+
+   Bluetooth also simplifies the discovery and setup of services.
+   Bluetooth devices advertise all services they provide. This makes the
+   utility of the service that much more accessible, without the need to
+   worry about network addresses, permissions and all the other
+   considerations that go with typical networks.
+
+Wi-Fi
+
+   Wi-Fi is more analogous to the traditional Ethernet network and
+   requires configuration to set up shared resources, transmit files, set
+   up audio links (for example, headsets and hands-free devices). It uses
+   the same radio frequencies as Bluetooth, but with higher power output
+   resulting in a stronger connection. Wi-Fi is sometimes, but rarely,
+   called "wireless Ethernet." Although this description is inaccurate, it
+   provides an indication of its relative strengths and weaknesses. Wi-Fi
+   requires more setup, but is better suited for operating full-scale
+   networks because it enables a faster connection, better range from the
+   base station, and better security than Bluetooth.
+
+   One method for comparing the efficiency of wireless transmission
+   protocols such as Bluetooth and Wi-Fi is spatial capacity, or bits per
+   second per square meter.
+
+Computer requirements
+
+   A typical Bluetooth USB dongle (BCM2045A), shown here next to a metric
+   ruler
+   A typical Bluetooth USB dongle (BCM2045A), shown here next to a metric
+   ruler
+   An internal notebook Bluetooth card (14×36×4 mm)
+   An internal notebook Bluetooth card (14×36×4 mm)
+
+   A personal computer must have a Bluetooth dongle in order to be able to
+   communicate with other Bluetooth devices (such as mobile phones, mice
+   and keyboards). While some portable computers and fewer desktop
+   computers already contain an internal Bluetooth dongle, most computers
+   require an external USB Bluetooth dongle. Unlike its predecessor, IrDA,
+   in which each device requires a separate dongle, multiple Bluetooth
+   devices can communicate with a computer over a single dongle.
+
+Operating system support
+
+   Linux provides two Bluetooth stacks, with the BlueZ stack included with
+   most Linux kernels. It was originally developed by Qualcomm and Affix.
+   BlueZ supports all core Bluetooth protocols and layers.
+
+   Only Microsoft Windows XP Service Pack 2 and later versions of Windows
+   have native support for Bluetooth. Previous versions required the users
+   to install their Bluetooth dongles' own drivers, which tended to clash
+   with the operating system. Microsoft's own Bluetooth dongles (that are
+   packaged with their Bluetooth computer devices) have no external
+   drivers and thus require at least Windows XP Service Pack 2.
+
+Specifications and features
+
+   The Bluetooth specification was developed in 1994 by Sven Mattisson and
+   Jaap Haartsen, who were working for Ericsson Mobile Platforms in Lund,
+   Sweden. The specifications were formalized by the Bluetooth Special
+   Interest Group ( SIG). The SIG was formally announced on May 20, 1998.
+   Today it has over 7000 companies worldwide. It was established by
+   Ericsson, Sony Ericsson, IBM, Intel, Toshiba, and Nokia, and later
+   joined by many other companies. Bluetooth is also known as IEEE
+   802.15.1.
+
+Bluetooth 1.0 and 1.0B
+
+   Versions 1.0 and 1.0B had many problems, and manufacturers had
+   difficulties making their products interoperable. Versions 1.0 and 1.0B
+   also had mandatory Bluetooth hardware device address (BD_ADDR)
+   transmission in the handshaking process, rendering anonymity impossible
+   at a protocol level, which was a major setback for services planned to
+   be used in Bluetooth environments, such as Consumerium.
+
+Bluetooth 1.1
+
+     * Many errors found in the 1.0B specifications were fixed.
+     * Added support for non-encrypted channels.
+     * Received Signal Strength Indicator ( RSSI).
+
+Bluetooth 1.2
+
+   This version is backward-compatible with 1.1 and the major enhancements
+   include the following:
+     * Faster Connection and Discovery
+     * Adaptive frequency-hopping spread spectrum (AFH), which improves
+       resistance to radio frequency interference by avoiding the use of
+       crowded frequencies in the hopping sequence.
+     * Higher transmission speeds in practice, up to 721 kbps, as in 1.1.
+     * Extended Synchronous Connections (eSCO), which improve voice
+       quality of audio links by allowing retransmissions of corrupted
+       packets.
+     * Host Controller Interface (HCI) support for three-wire UART.
+
+Bluetooth 2.0
+
+   This version, specified in November 2004, is backward-compatible with
+   1.1. The main enhancement is the introduction of an enhanced data rate
+   (EDR) of 3.0 Mbps. This has the following effects:
+     * Three times faster transmission speed—up to 10 times in certain
+       cases (up to 2.1 Mbit/s).
+     * Lower power consumption through a reduced duty cycle.
+     * Simplification of multi-link scenarios due to more available
+       bandwidth.
+     * Further improved ( bit error rate) performance.
+
+Bluetooth 2.1
+
+   Bluetooth Core Specification Version 2.1 + EDR, is fully
+   backward-compatible with 1.1, and will be adopted by the Bluetooth SIG
+   once interoperability testing has completed. This specification
+   includes the following features:
+     * Extended inquiry response: provides more information during the
+       inquiry procedure to allow better filtering of devices before
+       connection. This information includes the name of the device, a
+       list of services the device supports, as well as other information
+       like the time of day, and pairing information.
+
+     * Sniff subrating: reduces the power consumption when devices are in
+       the sniff low-power mode, especially on links with asymmetric data
+       flows. Human interface devices (HID) are expected to benefit the
+       most, with mouse and keyboard devices increasing the battery life
+       from 3 to 10 times those currently used.
+
+     * Encryption Pause Resume: enables an encryption key to be refreshed,
+       enabling much stronger encryption for connections that stay up for
+       longer than 24 hours.
+
+     * Secure Simple Pairing: radically improves the pairing experience
+       for Bluetooth devices, while increasing the use and strength of
+       security. It is expected that this feature will significantly
+       increase the use of Bluetooth.
+
+Future of Bluetooth
+
+     * Broadcast Channel: enables Bluetooth information points. This will
+       drive the adoption of Bluetooth into cell phones, and enable
+       advertising models based around users pulling information from the
+       information points, and not based around the intrusive object push
+       model that is used in a limited way today.
+
+     * Topology Management: enables the automatic configuration of the
+       piconet topologies especially in scatternet situations that are
+       becoming more common today. This should all be invisible to the
+       users of the technology, while also making the technology just
+       work.
+
+     * Alternate MAC PHY: enables the use of alternative MAC and PHY's for
+       transporting Bluetooth profile data. The Bluetooth Radio will still
+       be used for device discovery, initial connection and profile
+       configuration, however when lots of data needs to be sent, the high
+       speed alternate MAC PHY's will be used to transport the data. This
+       means that the proven low power connection models of Bluetooth are
+       used when the system is idle, and the low power per bit radios are
+       used when lots of data needs to be sent.
+
+     * QoS improvements: enable audio and video data to be transmitted at
+       a higher quality, especially when best effort traffic is being
+       transmitted in the same piconet.
+
+   Bluetooth technology already plays a part in the rising Voice over IP
+   (VOIP) scene, with Bluetooth headsets being used as wireless extensions
+   to the PC audio system. As VOIP becomes more popular, and more suitable
+   for general home or office users than wired phone lines, Bluetooth may
+   be used in cordless handsets, with a base station connected to the
+   Internet link.
+
+   The next version of Bluetooth after v2.1, code-named Seattle, that will
+   be called Bluetooth 3.0, has many of the same features, but is most
+   notable for plans to adopt ultra-wideband (UWB) radio technology. This
+   will allow Bluetooth use over UWB radio, enabling very fast data
+   transfers of up to 480 Mbit/s, synchronizations, and file pushes, while
+   building on the very low-power idle modes of Bluetooth. The combination
+   of a radio using little power when no data is transmitted and a high
+   data rate radio to transmit bulk data could be the start of software
+   radios. Bluetooth, given its world-wide regulatory approval, low-power
+   operation, and robust data transmission capabilities, provides an
+   excellent signaling channel to enable the soft radio concept.
+
+   On 28 March 2006, the Bluetooth Special Interest Group announced its
+   selection of the WiMedia Alliance Multi-Band Orthogonal Frequency
+   Division Multiplexing (MB-OFDM) version of UWB for integration with
+   current Bluetooth wireless technology.
+
+   UWB integration will create a version of Bluetooth wireless technology
+   with a high-speed/high-data-rate option. This new version of Bluetooth
+   technology will meet the high-speed demands of synchronizing and
+   transferring large amounts of data, as well as enabling high-quality
+   video and audio applications for portable devices, multi-media
+   projectors and television sets, and wireless VOIP.
+
+   At the same time, Bluetooth technology will continue catering to the
+   needs of very low power applications such as mice, keyboards, and mono
+   headsets, enabling devices to select the most appropriate physical
+   radio for the application requirements, thereby offering the best of
+   both worlds.
+
+   The Bluetooth SIG have also announced that they are looking to include
+   Ultra Low Power use cases into Bluetooth, enabling a whole new set of
+   use cases. This inculdes watches displaying Caller ID information,
+   sports sensors monitoring your heart rate during exercise, as well as
+   medical devices. The Medical Devices Working Group is also creating a
+   medical devices profile and associated protocols to enable this market.
+
+   The Draft High Speed Bluetooth Specification is available at the
+   Bluetooth website.
+
+Technical information
+
+Communication and connection
+
+   A master Bluetooth device can communicate with up to seven devices.
+   This network group of up to eight devices is called a piconet.
+
+   A piconet is an ad-hoc computer network, using Bluetooth technology
+   protocols to allow one master device to interconnect with up to seven
+   active devices. Up to 255 further devices can be inactive, or parked,
+   which the master device can bring into active status at any time.
+
+   At any given time, data can be transferred between the master and one
+   other device. However, the master switches rapidly from device to
+   another in a round-robin fashion. (Simultaneous transmission from the
+   master to multiple other devices is possible, but not used much.)
+   Either device can switch roles and become the master at any time.
+
+   Bluetooth specification allows connecting two or more piconets together
+   to form a scatternet, with some devices acting as a bridge by
+   simultaneously playing the master role and the slave role in one
+   piconet. These devices are planned for 2007.
+
+Setting up connections
+
+   Any Bluetooth device will transmit the following sets of information on
+   demand:
+     * Device name.
+     * Device class.
+     * List of services.
+     * Technical information, for example, device features, manufacturer,
+       Bluetooth specification, clock offset.
+
+   Any device may perform an inquiry to find other devices to which to
+   connect, and any device can be configured to respond to such inquiries.
+   However, if the device trying to connect knows the address of the
+   device, it always responds to direct connection requests and transmits
+   the information shown in the list above if requested. Use of device
+   services may require pairing or acceptance by its owner, but the
+   connection itself can be started by any device and held until it goes
+   out of range. Some devices can be connected to only one device at a
+   time, and connecting to them prevents them from connecting to other
+   devices and appearing in inquiries until they disconnect from the other
+   device.
+
+   Every device has a unique 48-bit address. However, these addresses are
+   generally not shown in inquiries. Instead, friendly Bluetooth names are
+   used, which can be set by the user. This name appears when another user
+   scans for devices and in lists of paired devices.
+
+   Most phones have the Bluetooth name set to the manufacturer and model
+   of the phone by default. Most phones and laptops show only the
+   Bluetooth names and special programs that are required to get
+   additional information about remote devices. This can be confusing as,
+   for example, there could be several phones in range named T610 (see
+   Bluejacking).
+
+Pairing
+
+   Pairs of devices may establish a trusted relationship by learning (by
+   user input) a shared secret known as a passkey. A device that wants to
+   communicate only with a trusted device can cryptographically
+   authenticate the identity of the other device. Trusted devices may also
+   encrypt the data that they exchange over the air so that no one can
+   listen in. The encryption can, however, be turned off, and passkeys are
+   stored on the device file system, not on the Bluetooth chip itself.
+   Since the Bluetooth address is permanent, a pairing is preserved, even
+   if the Bluetooth name is changed. Pairs can be deleted at any time by
+   either device. Devices generally require pairing or prompt the owner
+   before they allow a remote device to use any or most of their services.
+   Some devices, such as Sony Ericsson phones, usually accept OBEX
+   business cards and notes without any pairing or prompts.
+
+   Certain printers and access points allow any device to use its services
+   by default, much like unsecured Wi-Fi networks. Pairing algorithms are
+   sometimes manufacturer-specific for transmitters and receivers used in
+   applications such as music and entertainment.
+
+Air interface
+
+   The protocol operates in the license-free ISM band at 2.45  GHz. To
+   avoid interfering with other protocols that use the 2.45 GHz band, the
+   Bluetooth protocol divides the band into 79 channels (each 1 MHz wide)
+   and changes channels up to 1600 times per second. Implementations with
+   versions 1.1 and 1.2 reach speeds of 723.1  kbit/s. Version 2.0
+   implementations feature Bluetooth Enhanced Data Rate (EDR) and reach
+   2.1  Mbit/s. Technically, version 2.0 devices have a higher power
+   consumption, but the three times faster rate reduces the transmission
+   times, effectively reducing power consumption to half that of 1.x
+   devices (assuming equal traffic load).
+
+   Bluetooth differs from Wi-Fi in that the latter provides higher
+   throughput and covers greater distances, but requires more expensive
+   hardware and higher power consumption. They use the same frequency
+   range, but employ different multiplexing schemes. While Bluetooth is a
+   cable replacement for a variety of applications, Wi-Fi is a cable
+   replacement only for local area network access. Bluetooth is often
+   thought of as wireless USB, whereas Wi-Fi is wireless Ethernet, both
+   operating at much lower bandwidth than the cable systems they are
+   trying to replace. However, this analogy is not entirely accurate since
+   any Bluetooth device can, in theory, host any other Bluetooth
+   device—something that is not universal to USB devices.
+
+   Many USB Bluetooth adapters are available, some of which also include
+   an IrDA adapter. Older (pre-2003) Bluetooth adapters, however, have
+   limited services, offering only the Bluetooth Enumerator and a
+   less-powerful Bluetooth Radio incarnation. Such devices can link
+   computers with Bluetooth, but they do not offer much in the way of
+   services that modern adapters do.
+
+Security
+
+   Bluetooth implements authentication and key derivation with custom
+   algorithms based on the SAFER+ block cipher. The initialization key and
+   master key are generated with the E22 algorithm. The E0 stream cipher
+   is used for encrypting packets. This makes eavesdropping on
+   Bluetooth-enabled devices more difficult.
+
+Social concerns
+
+Security concerns
+
+   2003:
+   In November 2003, Ben and Adam Laurie from A.L. Digital Ltd. discovered
+   that serious flaws in Bluetooth security may lead to disclosure of
+   personal data. It should be noted, however, that the reported security
+   problems concerned some poor implementations of Bluetooth, rather than
+   the protocol itself.
+
+   In a subsequent experiment, Martin Herfurt from the trifinite.group was
+   able to do a field-trial at the CeBIT fairgrounds, showing the
+   importance of the problem to the world. A new attack called BlueBug was
+   used for this experiment.
+
+   2004:
+   In April 2004, security consultant firm @stake (now Symantec) revealed
+   a security flaw that makes it possible to crack conversations on
+   Bluetooth based wireless headsets by reverse engineering the PIN.
+
+   This is one of a number of concerns that have been raised over the
+   security of Bluetooth communications. In 2004 the first purported virus
+   using Bluetooth to spread itself among mobile phones appeared on the
+   Symbian OS. The virus was first described by Kaspersky Lab and requires
+   users to confirm the installation of unknown software before it can
+   propagate.
+
+   The virus was written as a proof-of-concept by a group of virus writers
+   known as 29A and sent to anti-virus groups. Thus, it should be regarded
+   as a potential (but not real) security threat to Bluetooth or Symbian
+   OS since the virus has never spread in the wild.
+
+   In August 2004, a world-record-setting experiment (see also Bluetooth
+   sniping) showed that the range of Class 2 Bluetooth radios could be
+   extended to 1.78 km (1.08 mile) with directional antennas. This poses a
+   potential security threat because it enables attackers to access
+   vulnerable Bluetooth-devices from a distance beyond expectation.
+   However, such experiments do not work with signal amplifiers. The
+   attacker must also be able to receive information from the victim to
+   set up a connection. No attack can be made against a Bluetooth device
+   unless the attacker knows its Bluetooth address and which channels to
+   transmit on.
+
+   2005:
+   In April 2005, Cambridge University security researchers published
+   results of their actual implementation of passive attacks against the
+   PIN-based pairing between commercial Bluetooth devices, confirming the
+   attacks to be practicably fast and the Bluetooth symmetric key
+   establishment method to be vulnerable. To rectify this vulnerability,
+   they carried out an implementation which showed that stronger,
+   asymmetric key establishment is feasible for certain classes of
+   devices, such as handphones.
+
+   In June 2005, Yaniv Shaked and Avishai Wool published the paper
+   "Cracking the Bluetooth PIN1," which shows both passive and active
+   methods for obtaining the PIN for a Bluetooth link. The passive attack
+   allows a suitably equipped attacker to eavesdrop on communications and
+   spoof if they were present at the time of initial pairing. The active
+   method makes use of a specially constructed message that must be
+   inserted at a specific point in the protocol, to make the master and
+   slave repeat the pairing process. After that, the first method can be
+   used to crack the PIN. This attack's major weakness is that it requires
+   the user of the devices under attack to re-enter the PIN during the
+   attack when the device prompts them to. Also, this active attack
+   probably requires custom hardware, since most commercially available
+   Bluetooth devices are not capable of the timing necessary.
+
+   In August 2005, police in Cambridgeshire, England, issued warnings
+   about thieves using Bluetooth-enabled phones to track other devices
+   left in cars. Police are advising users to ensure that any mobile
+   networking connections are de-activated if laptops and other devices
+   are left in this way.
+
+   2006:
+   In April 2006, researchers from Secure Network and F-Secure published a
+   report that warns of the large number of devices left in a visible
+   state, and issued statistics on the spread of various Bluetooth
+   services and the ease of spread of an eventual Bluetooth worm.
+
+   In October 2006, at the Luxemburgish Hack.lu Security Conference, Kevin
+   Finistere and Thierry Zoller demonstrated and released a remote root
+   shell over Bluetooth on Mac OSX 10.3.9 and 10.4. They also demonstrated
+   the first Bluetooth PIN and Linkkeys cracker, which is based on the
+   research of Wool and Shaked.
+
+Health concerns
+
+   Bluetooth uses the microwave radio frequency spectrum in the 2.4 GHz to
+   2.4835 GHz range. The fact that microwave ovens use the same frequency
+   may account for some of the public concern about a possible health
+   hazard. Maximum power output from a Bluetooth radio is 1mW, 2.5mW, and
+   100mW for Class 3, Class 2, and Class 1 devices respectively, which
+   puts Class 1 at roughly the same level as cell phones, and the other
+   two classes much lower.. Accordingly, Class 2 and Class 3 Bluetooth
+   devices are considered less of a potential hazard than cell phones, and
+   Class 1 may be of concern comparable to that of cell phones.
+
+Origin of the name and the logo
+
+   Bluetooth was named after a late 900s king, Harald Bluetooth King of
+   Denmark and Norway. He is known for his unification of previously
+   warring tribes from Denmark (including Scania, present-day Sweden,
+   where the Bluetooth technology was invented), and Norway. Bluetooth
+   likewise was intended to unify different technologies, such as
+   computers and mobile phones.
+
+   The name may have been inspired less by the historical Harald than the
+   loose interpretation of him in The Long Ships by Frans Gunnar
+   Bengtsson, a Swedish Viking-inspired novel.
+
+   The Bluetooth logo merges the Nordic runes analogous to the modern
+   Latin H and B: ( haglaz) and ( berkanan) forming a bind rune.
+
+Bluetooth Consortium
+
+   In 1998, Ericsson, IBM, Intel, and Nokia, formed a consortium and
+   adopted the code name Bluetooth for their proposed open specification.
+   In December 1999, 3Com, Lucent Technologies, Microsoft, and Motorola
+   joined the initial founders as the promoter group. Since that time,
+   Lucent Technologies transferred their membership to their spinoff Agere
+   Systems, and 3Com has left the promoter group.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Bluetooth"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

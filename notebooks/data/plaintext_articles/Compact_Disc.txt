@@ -1,0 +1,338 @@
+   #copyright
+
+Compact Disc
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   CAPTION: Compact Disc
+
+   Media type: optical disc
+    Capacity:  up to 700 MiB
+     Usage:    audio and data storage
+                Optical disc authoring
+     * Optical disc
+     * Optical disc image
+     * Recorder hardware
+     * Authoring software
+     * Recording technologies
+          + Recording modes
+          + Packet writing
+
+                 Optical media types
+     * Laserdisc
+     * Compact Disc/ CD-ROM: CD-R, CD-RW
+     * DVD: DVD-R, DVD-R DL, DVD+R, DVD+R DL,
+       DVD-RW, DVD+RW, DVD+RW DL, DVD-RAM
+     * Blu-ray Disc: BD-R, BD-RE
+     * HD DVD: HD DVD-R
+
+                      Standards
+     * Rainbow Books
+     * File systems
+          + ISO 9660
+               o Joliet
+               o Rock Ridge
+                    # Amiga extensions to Rock Ridge
+               o El Torito
+               o Apple ISO9660 Extensions
+          + Universal Disk Format
+               o Mount Rainier
+
+   A Compact Disc (CD) is an optical disc used to store digital data,
+   originally developed for storing digital audio. The CD, available on
+   the market in late 1982, remains the standard physical medium for
+   commercial audio recordings as of 2006. An audio compact disc consists
+   of one or more stereo tracks stored using 16-bit PCM coding at a
+   sampling rate of 44.1 kHz. Standard compact discs have a diameter of
+   120 mm or 80 mm. The 120 mm discs can hold approximately 80 minutes of
+   audio. The 80 mm discs, sometimes used for CD singles, hold
+   approximately 20 minutes of audio. Compact disc technology was later
+   adapted for use as a data storage device, known as a CD-ROM, and to
+   include record-once and re-writable media ( CD-R and CD-RW). CD-ROMs
+   and CD-Rs remain widely used technologies in the personal-computer
+   industry as of 2006. The CD and its extensions have been extremely
+   successful: in 2004, the annual worldwide sales of CD-Audio, CD-ROM,
+   and CD-R reached about 30 billion discs.
+
+History
+
+   The optical lens of a CD drive.
+   Enlarge
+   The optical lens of a CD drive.
+
+   In 1979 Philips and Sony decided to join forces, setting up a joint
+   task force of engineers whose mission was to design the new digital
+   audio disc. Prominent members of the task force were Kees Immink and
+   Toshitada Doi. After a year of experimentation and discussion, the
+   taskforce produced the " Red Book," the Compact Disc standard. Philips
+   contributed the general manufacturing process, based on the video
+   LaserDisc technology. Philips also contributed the Eight-to-Fourteen
+   Modulation, EFM, which offers both a long playing time and a high
+   resilience against disc handling damage such as scratches and
+   fingerprints; while Sony contributed the error-correction method, CIRC.
+   The Compact Disc Story, told by a former member of the taskforce, gives
+   background information on the many technical decisions made, including
+   the choice of the sampling frequency, playing time, and disc diameter.
+   According to Philips, the Compact Disc was thus "invented collectively
+   by a large group of people working as a team."
+
+   The Compact Disc reached the market in late 1982 in Asia and early the
+   following year in other markets; for example, it was released in the
+   United States in March, with the first CDs available being 16
+   Japanese-made titles from CBS/Sony. This event is often seen as the
+   "Big Bang" of the digital audio revolution. The new audio disc was
+   enthusiastically received, especially in the early-adopting classical
+   music and audiophile communities and its handling quality received
+   particular praise. As the price of players sank rapidly, the CD began
+   to gain popularity in the larger popular and rock music markets.
+
+   The design of the CD was originally thought of as an evolution of the
+   gramophone record, rather than primarily as a data storage medium. Only
+   later did the concept of an 'audio file' arise, and the generalizing of
+   this to any data file. From its origins as a music format, Compact Disc
+   has grown to encompass other applications. In June 1985, the CD-ROM
+   (read-only memory) and, in 1990, CD-Recordable were introduced, also
+   developed by Sony and Philips.
+
+Physical details
+
+   Compact Discs are made from a 1.2 mm thick disc of very pure
+   polycarbonate plastic. A thin layer of Super Purity Aluminium (or
+   rarely gold, used for its data longevity, such as in some
+   limited-edition audiophile CDs) is applied to the surface to make it
+   reflective, which is protected by a film of lacquer. The lacquer can be
+   printed with a label. Common printing methods for compact discs are
+   silkscreening and offset printing. CD data is stored as a series of
+   tiny indentations (pits), encoded in a tightly packed spiral track of
+   pits moulded into the top of the polycarbonate layer. The areas between
+   pits are known as 'lands'. Each pit is approximately 100  nm deep by
+   500 nm wide, and varies from 850 nm to 3.5  μm of length. The spacing
+   between the tracks, the pitch, is 1.6 μm. A CD is read by focusing a
+   780 nm wavelength semiconductor laser through the bottom of the
+   polycarbonate layer. The difference in height between pits and lands
+   leads to a phase difference between the light reflected from a pit and
+   from its surrounding land. By measuring the intensity with a
+   photodiode, one is able to read the data from the disc. The pits and
+   lands themselves do not directly represent the zeros and ones of binary
+   data. Instead, Non-return-to-zero, inverted encoding is used: a change
+   from pit to land or land to pit indicates a one, while no change
+   indicates a zero. This in turn is decoded by reversing the
+   Eight-to-Fourteen Modulation used in mastering the disc, and then
+   reversing the Cross-Interleaved Reed-Solomon Coding, finally revealing
+   the raw audio data stored on the disc.
+
+   Pits are much closer to the label side of a disc so that defects and
+   dirt on the clear side can be out of focus during playback. Discs
+   consequently suffer more damage because of defects such as scratches on
+   the label side, whereas clear-side scratches can be repaired by
+   refilling them with plastic of similar index of refraction.
+   A Mini-CD is 8 centimeters in diameter
+   Enlarge
+   A Mini-CD is 8 centimeters in diameter
+
+Disc shapes and diameters
+
+   The digital data on a CD begins at the centre of the disc and proceeds
+   outwards to the edge, which allows adaptation to the different size
+   formats available. Standard CDs are available in two sizes. By far the
+   most common is 120 mm in diameter, with a 74 or 80-minute audio
+   capacity and a 650 or 700 MB data capacity. 80 mm discs (" Mini CDs")
+   were originally designed for CD singles and can hold up to 21 minutes
+   of music or 184 MB of data. Today many singles are released on 120mm
+   CDs, called a Maxi single.
+   Physical size marketed "650 MB" marketed "700 MB"
+   12 cm         682 MB (650 MiB)  737 MB (703 MiB)
+
+Audio format
+
+   The technical format of an audio compact disc (Compact Disc Digital
+   Audio -- CDDA) is laid down in a document produced in 1980 by the
+   format's joint creators, Sony and Philips. The document is known
+   colloquially as the " Red Book" after the colour of its cover. The
+   format is a two-channel 16-bit PCM encoding at a 44.1 kHz sampling
+   rate. Four-channel sound is an allowed option within the Red Book
+   format, but has never been implemented.
+
+   The sampling rate of 44.1 kHz is inherited from a method of converting
+   digital audio into an analog video signal for storage on video tape,
+   which was the most affordable way to get the data from the recording
+   studio to the CD manufacturer at the time the CD specification was
+   being developed. A device that turns an analog audio signal into PCM
+   audio, which in turn is changed into an analog video signal is called a
+   PCM adaptor. This technology could store six samples (three samples per
+   each stereo channel) in a single horizontal line. A standard NTSC video
+   signal has 245 usable lines per field, and 59.94 fields/s, which works
+   out at 44,056 samples/s/stereo channel. Similarly PAL has 294 lines and
+   50 fields, which gives 44,100 samples/s/stereo channel. This system
+   could either store 14-bit samples with some error correction, or 16-bit
+   samples with almost no error correction.
+
+   There was a long debate over whether to use 14 or 16 bit samples and/or
+   44,056 or 44,100 samples/s when the Sony/Philips task force designed
+   the Compact Disc; Philips already developed a 14 bit D/A converter, but
+   Sony insisted on 16 bit. In the end, 16 bits and 44.1 kilosamples per
+   second prevailed. Philips found a way to produce 16 bit quality using
+   their 14-bit DAC by using four times oversampling.
+
+Storage capacity and playing time
+
+   The original target storage capacity for a CD was one hour of audio
+   content, and a disc diameter of 115 mm was sufficient. However,
+   according to Philips, Sony vice-president Norio Ohga suggested
+   extending the capacity to 74 minutes to accommodate a complete
+   performance of Beethoven’s 9th Symphony on a single disc , however Kees
+   Immink of Philips denies this. The extra playing time subsequently
+   required the change to a 12 cm disc.
+
+   According to a Sunday Tribune interview the story is slightly more
+   involved. At that time (1979) Philips owned Polygram, one of the
+   world’s largest distributors of music. Polygram had set up a large
+   experimental CD disc plant in Hanover, Germany, which could produce
+   huge amounts of CDs having, of course, a diameter of 11.5cm. Sony did
+   not yet have such a facility. If Sony had agreed on the 11.5cm disc,
+   Philips would have had a significant competitive edge in the market.
+   Sony was aware of that, did not like it, and something had to be done.
+   The long-playing time of Beethoven's Ninth imposed by Ohga was used to
+   push Philips to accept 12cm, so that Philips’ Polygram lost its edge on
+   disc fabrication.
+
+   The 74-minute playing time of a CD, being more than that of most
+   long-playing vinyl albums, was often used to the format’s advantage
+   during the early years when CDs and LPs vied for commercial sales. CDs
+   would often be released with one or more bonus tracks, enticing
+   consumers to buy the CD for the extra material. However, attempts to
+   combine double LPs onto one CD occasionally resulted in an opposing
+   situation in which the CD would actually offer fewer tracks than the LP
+   equivalent. An example is the 1987 album Kiss Me, Kiss Me, Kiss Me by
+   The Cure, which says the following on the back of the CD edition: “The
+   track Hey You!!! which appears on the double album and cassette has
+   been omitted so as to facilitate a single compact disk.”
+
+Main physical parameters
+
+   The main parameters of the CD (taken from the September 1983 issue of
+   the compact disc specification) are as follows:
+     * Scanning velocity: 1.2–1.4 m/s ( constant linear velocity) -
+       equivalent to approximately 500 rpm at the inside of the disc, and
+       approximately 200 rpm at the outside edge. (A disc played from
+       beginning to end slows down during playback.)
+     * Track pitch: 1.6 μm.
+     * Disc diameter 120 mm.
+     * Disc thickness: 1.2 mm.
+     * Inner radius program area: 25 mm.
+     * Outer radius program area: 58 mm.
+     * Centre spindle hole diameter: 15 mm
+
+   The program area is 86.05 cm², so that the length of the recordable
+   spiral is 86.05/1.6 = 5.38 km. With a scanning speed of 1.2 m/s, the
+   playing time is 74 minutes, or around 650 MB of data on a CD-ROM. If
+   the disc diameter were 115 mm, the maximum playing time would have been
+   68 minutes, i.e., six minutes less. A disc with data appearing slightly
+   more densely is tolerated by most players (though some old ones fail).
+   Using a linear velocity of 1.2 m/s and a track pitch of 1.5 micrometre
+   leads to a playing time of 80 minutes, or a capacity of 700 MB. Even
+   higher capacities on non-standard discs (up to 99 minutes) are
+   available at least as recordables, but generally the tighter the tracks
+   are squeezed the worse the compatibility will be.
+
+Data structure
+
+   The smallest entity in the CD audio format is called a frame. A frame
+   can accommodate six complete 16-bit stereo samples, i.e.
+   2×2×6 = 24 bytes. A frame comprises 33 bytes, of which 24 are audio
+   bytes (six full stereo samples), eight CIRC-generated error correction
+   bytes, and one subcode byte. The eight bits of a subcode byte are
+   available for control and display. Under Eight-to-Fourteen Modulation
+   (EFM) rules, each data/audio byte is translated into 14-bit EFM words,
+   which alternates with 3-bit merging words. In total we have 33*(14+3) =
+   561 bits. A 27-bit unique synchronization word is added, so that the
+   number of bits in a frame totals 588. The synchronization word cannot
+   occur in the normal bit stream, and can thus be used to identify the
+   beginning of a frame. Data in a CD-ROM are organized in both frames and
+   sectors, where a CD-ROM sector contains 98 frames, and holds 98×24 =
+   2352 (user) bytes.
+
+   Current manufacturing processes allow an audio CD to contain up to
+   77-78 minutes (varies from one replication plant to another) without
+   requiring the content creator to sign a waiver. Thus, in current
+   practice, maximum CD playing time has crept higher while maintaining
+   acceptable standards of reliability.
+
+CD-ROM
+
+   For its first few years of existence, the compact disc was purely an
+   audio format. However, in 1985 the Yellow Book CD-ROM standard was
+   established by Sony and Philips, which defined a non-volatile optical
+   data storage medium using the same physical format as audio compact
+   discs, readable by a computer with a CD-ROM (CDR) drive.
+
+Manufacture
+
+   Replicated CDs are mass-produced initially using a hydraulic press.
+   Small granules of raw plastic are fed into the barrel while under heat
+   and increasing amount of pressure melt the plastic and force the
+   liquified material into the mold cavity. Equipped with a metal stamper
+   the mold closes, allowing the plastic to cool and harden. Once opened,
+   the disc substrate is removed from the mold by a robotic arm, and a 15
+   mm diameter centre hole (called a stacking ring) is removed. This
+   method produces the clear plastic blank part of the disc. After the
+   foil layer is applied to the clear blank substrate the disc is ready to
+   go to press. To press the CD first a Glass Master is cut using a high
+   power laser on a device not dissimilar to a CD writer, the glass master
+   being around 12 inches (30 cm) diameter and up to one inch (25 mm)
+   thick as it needs to be strong for pressing. This glass master is a
+   positive master. After testing it will then be used to make a die by
+   pressing it against a metal disc. The die then becomes a negative
+   image, a number of them can be made depending on the number of pressing
+   mills that will be running off copies of the final CD. The die will
+   then go into the press and press the image onto the foil layer of the
+   blank CD leaving a final positive image on the disc. A small circle of
+   varnish is then applied as a ring around the centre of the disc and a
+   fast spin will evenly spread it over the surface. The disc will then be
+   printed and packed. The method used to press an LP record is very
+   similar except the molding of the plastic disc is a separate process
+   with CDs.
+
+Recordable CD
+
+   A typical 700-megabyte CD-R
+   Enlarge
+   A typical 700- megabyte CD-R
+
+   Recordable compact discs, CD-Rs, are injection molded with a "blank"
+   data spiral. A photosensitive dye is then applied, and then the discs
+   are metalized and lacquer coated. The write laser of the CD recorder
+   changes the colour of the dye to allow the read laser of a standard CD
+   player to see the data as it would an injection molded compact disc.
+   CD-R recordings are permanent. The resulting discs can be read by most
+   CD-ROM drives and played in most audio CD players. Over time however
+   (estimated to be about 5 years) the dye will fade causing read errors
+   and data loss until the reading device cannot recover with error
+   correction methods.
+
+   CD-RW is a re-recordable medium that uses a metallic alloy instead of a
+   dye. The write laser in this case is used to heat and alter the
+   chemical properties of the alloy and hence change its reflectivity. A
+   CD-RW does not have as great a difference in the reflectivity of lands
+   and bumps as a pressed CD or a CD-R, and so many CD audio players
+   cannot read CD-RW discs, although the majority of stand-alone DVD
+   players can.
+
+   CD-Rs follow the Orange Book standard.
+
+Copy protection
+
+   The Red Book audio specification, except a simple 'anti-copy' bit in
+   the subcode, does not include any serious copy protection mechanism.
+   Starting in early 2002, attempts were made by record companies to
+   market "copy-protected" non-standard compact discs. Philips has stated
+   that such discs are not permitted to bear the trademarked Compact Disc
+   Digital Audio logo because they violate the Red Book specification.
+   Moreover, there has been great public outcry over copy-protected discs
+   because many see it as a threat to fair use.
+   Retrieved from " http://en.wikipedia.org/wiki/Compact_Disc"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

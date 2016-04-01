@@ -1,0 +1,157 @@
+   #copyright
+
+New moon
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+   The lunar phase depends on the Moon's position in orbit around Earth.
+   This diagram looks down on the North pole;
+   Enlarge
+   The lunar phase depends on the Moon's position in orbit around Earth.
+   This diagram looks down on the North pole;
+
+   The New Moon is the lunar phase that occurs when the Moon, in its
+   monthly orbital motion around Earth, lies between Earth and the Sun,
+   and is therefore in conjunction with the Sun as seen from Earth. At
+   this time, the illuminated half of the Moon faces directly toward the
+   Sun, and the dark or unilluminated portion of the Moon faces directly
+   toward Earth, so that the Moon is invisible as seen from Earth.
+
+   New Moon is often considered to occur at the time of the appearance of
+   the first visible crescent of the Moon, after conjunction with the Sun.
+   This takes place over the western horizon in a brief period between
+   sunset and moonset, and therefore the precise time and even the date of
+   the appearance of the New Moon by this definition will be influenced by
+   the geographical location of the observer. The astronomical New Moon,
+   sometimes known as the dark moon to avoid confusion, occurs by
+   definition at the moment of conjunction in ecliptic longitude with the
+   Sun, when the Moon is invisible from the Earth. This moment is unique
+   and does not depend on location, and under certain circumstances it may
+   be coincident with a solar eclipse.
+
+   The New Moon is the beginning of the month in lunar calendars such as
+   the Muslim calendar, and in lunisolar calendars such as the Hebrew
+   calendar, Hindu calendars, Buddhist calendar, and Chinese calendar.
+
+Approximate formula
+
+   An approximate formula for the average time of New Moon N (conjunction)
+   is
+
+          D = 5.597661 + 29.5305888610 \times N + (102.026 \times
+          10^{-12})\times N^2 ,
+
+   where D is the number of days (and fractions) since 2000-01-01 00:00:00
+   TT, and N is an integer.
+
+   (Note that the number 29.53.. is the synodic month.)
+
+   To obtain this moment expressed in Universal Time (world clock time)
+   for future events (N>0), apply the following approximate correction:
+
+          -0.000739 - (235 \times 10^{-12})\times N^2 days
+
+   Periodic perturbations change the time of true conjunction from these
+   mean values. For all New Moons between 1601 and 2401, the maximum
+   difference is 0.592 days = 14h13m in either direction.
+
+   The duration of a lunation (from New Moon to the next New Moon) varies
+   in this period between 29.272 and 29.833 days, i.e. -0.259d = 6h12m
+   shorter, or +0.302d = 7h15m longer than average. This range is smaller
+   than the difference between mean and true conjunction, because during
+   the lunation the periodic terms cannot all change to their maximum
+   opposite value.
+
+   See the paper on the full moon cycle for a fairly simple method to
+   compute the moment of New Moon more accurately.
+
+   The long-term error of the formula is approximately: 1*cy*cy seconds in
+   TT, and 11*cy*cy seconds in UT (cy is centuries since 2000 — see
+   section Explanation of the formulae for details.)
+
+Explanation of the formulae
+
+   The moment of mean conjunction can easily be computed from an
+   expression for the average ecliptic longitude of the Moon minus the
+   average ecliptic longitude of the Sun (Delauney parameter D). The
+   expression given is based on the paper by Chapront et al. , with the
+   following corrections:
+
+   constant term:
+     * Applied the constant terms of the aberration to obtain the apparent
+       difference in ecliptic longitudes:
+
+          Sun: +20.496"
+
+          Moon: −0.704"
+
+          Correction in conjunction: −0.000451 days.
+
+     * For UT: at 1 Jan. 2000, ΔT was +63.83 s; hence the correction for
+       the clock time of the conjunction is:
+
+          −0.000739 days.
+
+   quadratic term:
+     * In ELP2000–85 (see ), D has a quadratic term of −5.8681"*T^2;
+       expressed in lunations N, this yields a correction of
+       +87.403E–12*N^2 days to the time of conjunction. The term includes
+       a tidal contribution of 0.5*(−23.8946 "/cy^2). The most current
+       estimate from Lunar Laser Ranging is (see ): (−25.858 ±0.003)
+       "/cy^2. Therefore the tidal correction to the quadratic term in D
+       is −0.9817*T^2". The polynomial provided by Chapront et al. (ref. )
+       provides the same value. This translates to a correction of
+       +14.622E−12*N^2 days; the quadratic term now is:
+
+          +102.026E−12*N^2 days.
+
+     * For UT: analysis of historical observations show that ΔT has a
+       long-term increase of +31 s/cy^2. Converted to days and lunations,
+       the correction from ET to UT becomes:
+
+          −235E−12*N^2 days.
+
+   The theoretical tidal contribution to ΔT is about +42 s/cy^2; the
+   smaller observed value is due to changes in the shape of the Earth. The
+   uncertainty of our prediction of UT (rotation angle of the Earth) may
+   be as large as the difference between these values: 11 s/cy^2. The
+   error in the position of the Moon itself is only maybe 0.5 "/cy^2, or 1
+   s/cy^2 in the time of conjunction with the Sun.
+
+Religious use
+
+   The Islamic calendar has retained an observational definition of the
+   New Moon, marking the new month when the first Crescent Moon is
+   actually seen, and making it impossible to be certain in advance of
+   when a specific month will begin (in particular, the exact date on
+   which Ramadan will begin is not known in advance). In Saudi Arabia, if
+   the weather is cloudy when the New Moon is expected, observers are sent
+   up in airplanes. In Iran a special committee receives observations of
+   every new moon to determine the beginning of each month. This committee
+   uses one hundred groups of observers.
+
+   The New Moon is the beginning of the month in the Chinese calendar.
+   Some Buddhist Chinese keep a vegetarian diet on the New Moon and Full
+   Moon each month.
+
+Trivia
+
+     * In the anime and manga InuYasha, this is the time where the hanyō
+       Inuyasha loses his yōkai powers temperarily and turns full human
+       for the night.
+
+Literature
+
+    1. M.Chapront-Touzé, J.Chapront: "ELP2000-85: a semianalytical lunar
+       ephemeris adequate for historical times". Astron.Astrophys. 190,
+       342..352 (1988)
+    2. J.Chapront, M.Chapront-Touzé, G.Francou: " A new determination of
+       lunar orbital parameters, precession content, and tidal
+       acceleration from LLR measurements". Astronomy & Astrophysics 387
+       (2002) 700–709
+
+   Retrieved from " http://en.wikipedia.org/wiki/New_moon"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

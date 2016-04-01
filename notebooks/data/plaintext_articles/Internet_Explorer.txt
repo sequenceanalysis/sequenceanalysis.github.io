@@ -1,0 +1,607 @@
+   #copyright
+
+Internet Explorer
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   Windows Internet Explorer
+
+   Windows Internet Explorer Logo
+   Main Wikipedia page using Internet Explorer 7 running Windows XP
+   Developer: Microsoft
+   Latest release: 7.0.5730.11 / October 18, 2006
+   OS: Windows
+   Mac OS X (up to version 5.2.3)
+   Mac OS (up to version 5.1)
+   Solaris and HP-UX (up to version 5.0)
+   Use: Web browser
+   License: Proprietary
+   Website: Internet Explorer
+
+   Windows Internet Explorer, previously Microsoft Internet Explorer,
+   abbreviated IE, or MSIE, is a graphical web browser developed by
+   Microsoft and included as part of the Microsoft Windows line of
+   operating systems. It has been the most widely used web browser since
+   1999.
+
+   Though released in 1995 as part of the initial OEM release of Windows
+   95, Internet Explorer was not included in the first retail, or
+   shrink-wrap, release of Windows 95. The most recent release is version
+   7.0, which is available as a free update for Windows XP with Service
+   Pack 2, and Windows Server 2003 with Service Pack 1. It is also
+   included in the upcoming Windows Vista operating system. Versions of
+   Internet Explorer prior to 6.0 SP2 are also available as a separate
+   download for versions of Windows prior to Windows XP. There is a
+   version for Windows CE and Mobile called Pocket Internet Explorer.
+
+   After the first release for Windows 95, additional versions of Internet
+   Explorer were developed for other operating systems: Internet Explorer
+   for Mac and Internet Explorer for UNIX (the latter for use through the
+   X Window System on Solaris and HP-UX). Only the Windows version remains
+   in active development; the Mac OS X version is no longer supported.
+
+History
+
+   Internet Explorer was originally derived primarily from Spyglass
+   Mosaic, an early commercial web browser. In 1995, Microsoft licensed
+   Spyglass Mosaic from Spyglass for a quarterly fee plus a percentage of
+   Microsoft's revenues for the software. Although bearing a name similar
+   to NCSA Mosaic, which was the first widely used browser, Spyglass
+   Mosaic was relatively unknown in its day and used the NCSA Mosaic
+   source code only sparingly.
+
+   Internet Explorer was not widely used until the release of version 3,
+   which was the first version developed without Spyglass sources
+   (although still using Spyglass "technology", so the Spyglass licensing
+   information remained in the program's documentation). Internet Explorer
+   4 was the first version integrated into Windows Explorer and other core
+   parts of Windows. The integration with Windows, however, was subject to
+   numerous criticisms (see United States v. Microsoft).
+
+   Internet Explorer 3 was the first major browser with CSS support.
+   Released on August 13, 1996, it introduced support for ActiveX
+   controls, Java applets, inline multimedia, and the PICS system for
+   content metadata. These improvements were significant, compared to its
+   main competitor at the time, Netscape Navigator. Version 3 also came
+   bundled with Internet Mail and News, NetMeeting, and an early version
+   of the Windows Address Book, and was itself included with Windows 95
+   OSR 2. Version 3 proved to be the first popular version of Internet
+   Explorer, which brought with it increased scrutiny. In the months
+   following its release, a number of security and privacy vulnerabilities
+   were found by researchers and hackers.
+
+   Version 4, released in September 1997, deepened the level of
+   integration between the web browser and the underlying operating
+   system. Installing version 4 on a Windows 95 or windows NT 4 machine
+   and choosing "windows desktop update" would result in the traditional
+   Windows Explorer being replaced by a version more akin to a web browser
+   interface, as well as the Windows desktop itself being web-enabled via
+   Active Desktop. This option was no longer available with the installers
+   for later versions of Internet Explorer but was not removed from the
+   system if already installed. Internet Explorer 4 introduced support for
+   Group Policy, allowing companies to configure and lock down many
+   aspects of the browser's configuration. Internet Mail and News was
+   replaced with Outlook Express, and Microsoft Chat and an improved
+   NetMeeting were also included. This version also was included with
+   Windows 98.
+
+   Version 5, launched on March 18, 1999, and subsequently included with
+   Windows 98 Second Edition and bundled with Office 2000, was another
+   significant release that supported bi-directional text, ruby
+   characters, XML, XSL and the ability to save web pages in MHTML format.
+   (Windows 2000 included Internet Explorer 5.01 instead.) Version 5.5
+   followed in July 2000, improving its print preview capabilities, CSS
+   and HTML standards support, and developer APIs; this version was
+   bundled with Windows Me.
+
+   Version 6 was released on August 27, 2001, a few weeks before Windows
+   XP. This version included DHTML enhancements, content restricted inline
+   frames, and better support of CSS level 1, DOM level 1 and SMIL 2.0.
+   The MSXML engine was also updated to version 3.0. Other new features
+   included a new version of the IEAK, Media bar, Windows Messenger
+   integration, fault collection, automatic image resizing, P3P, and a new
+   look-and-feel that was in line with the "Luna" visual style of Windows
+   XP.
+
+   On February 15, 2005, Microsoft Chairman Bill Gates announced that the
+   new version of its browser would be released at the RSA Conference 2005
+   in San Francisco. The decision to update the browser occurred in the
+   wake of a decline in the use of Internet Explorer for the first time.
+   Microsoft also stated that Internet Explorer 7 is available only for
+   Windows XP SP2 and later, including Windows Server 2003 SP1 and Windows
+   Vista. The first beta version of the browser was released on July 27,
+   2005 for technical testing, and a first public preview version of
+   Internet Explorer 7 (Beta 2 preview: Pre-Beta 2 version) was released
+   on January 31, 2006. The final public version was released on October
+   18, 2006. Version 7 is intended to defend users from phishing as well
+   as deceptive or malicious software, and also features full user control
+   of ActiveX, and better security framework. It includes important bug
+   fixes, enhancements to support the web standards, improvements in HTML
+   4.01/CSS 2, Tabbed Browsing, Tab preview and management, and web feeds
+   reader. It is also to be noted this is the first version of Internet
+   Explorer not to be based upon Spyglass technologies.
+
+Features
+
+   Internet Explorer has been designed to view the broadest range of web
+   pages and to provide certain features within the operating system,
+   including Microsoft Update. During the heydays of the historic browser
+   wars, Internet Explorer superseded Netscape by supporting many of the
+   progressive features of the time.
+
+Component architecture
+
+   The Component Object Model (COM) technology is used extensively in
+   Internet Explorer. It allows third parties to add functionality via
+   Browser Helper Objects (BHO); and allows websites to offer rich content
+   via ActiveX. As these objects can have the same privileges as the
+   browser itself (in certain situations), there is a concern over
+   security. This issue was addressed in Internet Explorer 6.0 SV1, which
+   provides an Add-on Manager for controlling ActiveX controls and Browser
+   Helper Objects. Internet Explorer 7 provides a "No Add-Ons" version
+   (Under Programs/Accessories/System Tools) to address this issue, as
+   well.
+
+Usability and accessibility
+
+   Internet Explorer makes use of the accessibility framework provided in
+   Windows. Internet Explorer is also a user interface for FTP, with
+   operations similar to that of Windows Explorer (although this feature
+   now requires a shell window to be opened as of version 7, rather than
+   natively within the browser). VBA is not supported, but available via
+   extension (iMacros).
+
+   The ability to block popup windows was introduced with Internet
+   Explorer 6.0, Service Pack 2.
+
+   Tabbed browsing can be added to Internet Explorer 6 by installing
+   Microsoft's MSN Search Toolbar, and is natively supported as of
+   Internet Explorer 7.
+
+Security framework
+
+   Internet Explorer uses a zone-based security framework, which means
+   that sites are grouped based upon certain conditions. It allows the
+   restriction of broad areas of functionality, and also allows specific
+   functions to be restricted.
+
+   Patches and updates to the browser are released periodically and made
+   available through the Windows Update service, as well as through
+   Automatic Updates. Although security patches continue to be released
+   for a range of platforms, most recent feature additions and security
+   improvements are released for Windows XP only.
+
+   Internet Explorer 6 Service Pack 2 provides Download Monitoring and
+   Install Monitoring allowing users the choice of whether or not to
+   download and install executables, in two stages. This helps to prevent
+   installation of malware. Executable files downloaded using Internet
+   Explorer are marked by the operating system as being potentially
+   unsafe, and will prompt the user to confirm they want to run the
+   executable every time, until the user confirms the file is "safe".
+
+Group
+
+   Internet Explorer is fully configurable using Group Policy.
+   Administrators of Windows Server domains can apply and enforce a
+   variety of settings that affect the user interface (such as disabling
+   menu items and individual configuration options), as well as underlying
+   security features such as downloading of files, zone configuration,
+   per-site settings, ActiveX control behaviour, and others. Policy
+   settings can be configured on a per-user and per-machine basis.
+
+Standards support
+
+   Internet Explorer, using the Trident layout engine, almost fully
+   supports HTML 4.01, CSS Level 1, XML 1.0 and DOM Level 1, with minor
+   implementation gaps. It partially supports CSS Level 2 and DOM Level 2,
+   with some implementation gaps and conformance issues. XML support
+   brings with it support for XHTML, however Microsoft has buried this
+   support since IE 5.0 making it difficult to access. Like other browsers
+   it can consume XHTML when served as MIME type “text/html”. It can also
+   consume XHTML as XML when served as MIME types “application/xml” and
+   “text/xml”, however this requires a small XSLT measure to re-enable the
+   XHTML as XML support. It pretends to not comprehend XHTML when vended
+   in the preferred type as “application/xhtml+xml” and instead treats it
+   as an unfamiliar file type for download.
+
+   Internet Explorer uses DOCTYPE sniffing to choose between " quirks
+   mode" (renders similarly to older versions of MSIE) and standards mode
+   (renders closer to W3C's specifications) for HTML and CSS rendering on
+   screen (for printing Internet Explorer always uses standards mode). It
+   fully supports XSLT 1.0 or the December 1998 Working Draft of XSL,
+   depending on the version of MSXML (a dynamic link library) available.
+   It also provides its own dialect of ECMAScript called JScript.
+
+Proprietary extensions
+
+   Internet Explorer has introduced an array of proprietary extensions to
+   many of the standards, including HTML, CSS and the DOM. This has
+   resulted in a number of web pages that can only be viewed properly
+   using Internet Explorer.
+
+Version 7
+
+   Version 7.0 of Internet Explorer has been renamed Windows Internet
+   Explorer, as part of Microsoft's rebranding of component names that are
+   included with Windows. It is available as part of Windows Vista, and as
+   a separate download via Microsoft Update for Windows XP with Service
+   Pack 2 and Windows Server 2003 Service Pack 1. Internet Explorer 7 can
+   also be downloaded directly from Microsoft's website. Large amounts of
+   the underlying architecture, including the rendering engine and
+   security framework, have been completely overhauled. Partly as a result
+   of security enhancements, the browser will be a stand-alone
+   application, rather than integrated with the Windows shell, and it will
+   no longer be capable of acting as a file browser. The first security
+   advisory was posted only one day after the day of release., but it
+   turned out to be a security problem in Outlook Express, not in Internet
+   Explorer 7.
+
+   IE7 in Windows Vista incorporates additional security measures, most
+   significantly "Protected Mode", whereby the browser runs in a sandbox
+   with even lower rights than a limited user account. As such, it can
+   only write to the Temporary Internet Files folder and cannot install
+   start-up programs or change any configuration of the operating system
+   without communicating through a broker process. This is expected to
+   increase the security of the system considerably. The Windows XP
+   version of Internet Explorer 7 will not include "Protected Mode"
+   operation, as it relies on technologies not found on systems before
+   Vista. It also supports the Parental Controls and Network Diagnostics
+   features which are unique to Vista. Internet Explorer 7 has only been
+   released for Windows XP and later operating systems.
+
+Release history
+
+     * On January 31, 2006, Microsoft released a public preview build (
+       Beta 2 preview: Pre-Beta 2 version) of Internet Explorer 7 for
+       Windows XP Service Pack 2 (not for Windows Server 2003 SP 1) on
+       their web site. It stated that more public preview builds (possibly
+       Beta 2 in April) of Internet Explorer 7 will be released in first
+       half of 2006, and final version will be released in second half of
+       2006. The pre beta build was refreshed on March 20, 2006 to build
+       7.0.5335.5. A real Beta 2 Build was released on April 24, 2006 to
+       build 7.0.5346.5. In addition, at the MIX'06 conference, Bill Gates
+       said that Microsoft is already working on the next two versions of
+       IE after version 7.
+     * On June 29, 2006, Microsoft released Beta 3 (Build 7.0.5450.4) of
+       Internet Explorer 7 for Windows XP SP2, Windows XP x64 Edition and
+       Windows Server 2003 SP1. It features minor UI cleanups, re-ordering
+       of tabs by drag and drop, as well as noticeable performance
+       improvements.
+     * On August 24, 2006, the Release Candidate 1 (RC1) of Internet
+       Explorer 7 (Build 7.0.5700.6) was released for Windows XP SP2,
+       Windows XP x64 Edition and Windows Server 2003 SP1. This was the
+       last pre-release version of IE7 before the final release.
+     * On September 28, 2006, 3Sharp, a privately held technical services
+       firm, published the results of a study, commissioned by Microsoft,
+       evaluating eight anti-phishing solutions in which Internet Explorer
+       7 (Beta 3) came out on top. The study evaluated the ability to
+       block phish, to warn about phish, and to allow good sites.
+     * On October 18, 2006 the final version was released on
+       microsoft.com, and was distributed as a high-priority update via
+       Automatic Updates (AU) on November 1. AU notifies users when IE7 is
+       ready to install and shows a welcome screen that presents key
+       features and choices to “Install”, “Don’t Install”, or “Ask Me
+       Later”.
+
+New features and changes
+
+     * For better security, Internet Explorer is no longer integrated with
+       the Windows Explorer shell. Local files typed in IE7 are opened
+       using the Windows Explorer shell and websites typed in Windows
+       Explorer shell are opened using the default web browser.
+     * Protected Mode (available in Windows Vista only), whereby the
+       browser runs in a sandbox with even lower rights than a limited
+       user account. As such, it can only write to the Temporary Internet
+       Files folder and cannot install start-up programs or change any
+       configuration of the operating system without communicating through
+       a broker process. IE7 Protected Mode relays on UAC
+     * Version 7 supports tabbed browsing, a popular feature in competing
+       web browsers. Also new is a feature called "Quick Tabs", which
+       displays a thumbnail preview of opened tabs. Since the release of
+       Beta 3 onwards, the user has been able to manually rearrange the
+       tabs by dragging and dropping them as desired.
+     * Version 7 adds support for internationalized domain names (IDN)
+       with included anti-spoofing protection. If the user visits a
+       website whose name is in a foreign language (non-Latin characters),
+       it will be displayed in punycode if the user does not have support
+       for the language installed. Also, non-Latin characters can, with
+       certain restrictions, be mixed with Latin characters. In the latter
+       case, punycode is used if support for the non-Latin script is not
+       installed. This helps prevent phishing scams, where some characters
+       are replaced with a similar looking character from a different
+       alphabet.
+     * A search box has been added to the top-right corner. The default
+       search engine is inherited from Internet Explorer 6's settings,
+       which various search engine toolbars override to provide search
+       capabilities on the address bar, but additional providers may be
+       added (Google, Altavista, Yahoo!, Windows Live Search, Wikipedia,
+       etc). Microsoft supplies a list of common providers. The search box
+       uses A9.com's OpenSearch technology to import search providers. By
+       using an open standard, Microsoft made it easier for websites to
+       include their pre-defined search queries in the search box. Also
+       available is a comprehensive list of popular search providers that
+       can be added to the search box. With the release of Windows
+       Internet Explorer 7, Microsoft updated its list of common providers
+       with a tool that enables users to manually create and add a search
+       provider to the search box.
+     * Support for per-pixel alpha channel transparency in PNG images has
+       been added.
+     * A fully integrated feed reader is included, so that users can read
+       web feeds (RSS or Atom) without a separate RSS reader. Features
+       include automatic feed discovery and the ability to retrieve feed
+       updates even when the web browser isn't running. The web feeds
+       feature set is also available to third-party developers through
+       API's, so that the list of subscribed feeds (as well as their
+       current contents) can be used.
+     * ActiveX Opt-In blocks ActiveX Control unless it allowed to be
+       installed. This feature improves security from unverifiable and
+       vulnerable controls. ActiveX controls can be chosen to be installed
+       on Information Bar. User can turn on and off ActiveX Control by
+       using Add-on Manager.
+     * A number of improvements to CSS, DOM, and HTML support have been
+       made. Microsoft's stated goal with version 7 was to fix the most
+       significant bugs and areas which caused the most trouble for
+       developers, and then improved coverage of the standards would come
+       later.
+     * The well-known problem of having the right-hand portion of a web
+       page cut off when the page is printed has been fixed. Page content
+       can also be "shrunk" to fit more text on a single page. The
+       revamped "Print Preview" interface will also let users drag the
+       page margins around and see the results immediately.
+     * A Page Zoom selector has been added to the bottom-right corner of
+       the user interface. Unlike the "Text size" feature, this will zoom
+       the complete contents of the web page, allowing for easier reading
+       on larger displays. Fonts are rendered at higher resolution.
+     * ClearType can be enabled or disabled separately from the rest of
+       the operating system.
+     * The new Phishing Filter offers protection against phishing scams
+       and other websites that may be considered dangerous for a user to
+       enter their personal information into. When enabled, every website
+       the user visits is checked against a master list of known phishing
+       sites. If a site is listed, the user is informed. In light of the
+       privacy implications of this feature, it is not enabled
+       automatically; the user is asked when they start Internet Explorer
+       7 if they want it enabled. Microsoft is working in conjunction with
+       companies that specialize in identifying phishing schemes to ensure
+       the list of known sites is accurate and quickly updated.
+     * The address bar and status bar appear in all windows including
+       popups which helps to block malicious sites from disguising them as
+       trusted sites. Also the address bar features a colour code to
+       visually indicate the trustworthiness of the page. The address bar
+       turns red when a page, with invalid security certificate, is
+       accessed. In case of sites not using any encryption, the address
+       bar is white. And if the page uses high security certificate, the
+       bar turns green.
+     * Modal windows such as dialog boxes are shown only when the tab that
+       has generated them is selected (in such situations, the tab colour
+       becomes orange).
+     * The address bar no-longer allows JavaScript to be executed on blank
+       pages (about:blank). This feature is still supported on other pages
+       though, which enables bookmarklets to work properly. A reason for
+       the change has not been given.
+     * The status bar no-longer allows custom text to be entered (e.g.:
+       "Formatting C:\ 10% Complete |||||||") and will always show the URL
+       of any link hovered over, for security.
+     * "Delete Browsing History" cleans the complete browsing history in a
+       single step. Previously this was a multistage process requiring
+       users to delete browser cache, history, cookies, saved form data
+       and passwords in a series of different steps. This is useful for
+       improving privacy and security in a multiuser environment, such as
+       an Internet café.
+     * Contextual Go/Refresh button. When any URL is typed into the
+       address bar, the button changes from "Refresh" to "Go" and when
+       "Go" (or keyboard Enter) is hit, the button changes from "Go" to
+       "Refresh". In this way the space taken by the toolbars is
+       minimized.
+     * The "back" and "forward" menus have been combined into one menu
+       which shows the users current position in their history with a bold
+       entry. In most cases, the current page will be at the top, with a
+       list of pages to go "back" to, but if the user has just gone back
+       one or more pages, there will be additional items above the current
+       page to which they can navigate forwards.
+     * Fix My Settings checks at startup or when a setting is changed, if
+       the current settings are unsafe it notifies the user. The user can
+       also press a button in order to fix the settings to a safe state.
+     * Old protocols and technologies removed: Gopher, TELNET, Scriptlets,
+       DirectAnimation, XBM, Channels (.CDF files) also known as ' Active
+       Desktop Items', etc. The DHTML Editing Control is being removed
+       from IE7 for Windows Vista to reduce surface area for security
+       attacks.
+     * No Add-ons allows IE7 to launch without the installed extensions.
+     * The menu bar can be hidden to allow more space for webpages.
+     * Improved text selection.
+     * IE7 cipher strength: 256-bit (Only for Vista, IE7 for XP only
+       supports 128-bit)
+     * New Group Policy's Administrative Templates (.adm files) for IE7
+       are loaded automatically onto the Domain Controller when a Group
+       Policy is opened from a workstation where IE7 has been installed.
+       These new administrative templates allow for controlling the
+       Anti-Phishing filter state, for example.
+     * Reset Internet Explorer settings is useful if your browser is in an
+       unusable state: deletes all temporary files, disables browser
+       add-ons, and resets all the changed settings.
+
+Criticism
+
+Security
+
+   Much criticism of Internet Explorer is related to concerns about
+   security: Much of the spyware, adware, and computer viruses across the
+   Internet are made possible by exploitable bugs and flaws in the
+   security architecture of Internet Explorer, sometimes requiring nothing
+   more than viewing of a malicious web page in order to install
+   themselves. This is known as a " drive-by download": an attempt to
+   trick the user into installing malicious software by misrepresenting
+   the software's true purpose in the description section of an ActiveX
+   security alert.
+
+   While Internet Explorer is not alone in having exploitable
+   vulnerabilities, its ubiquity has resulted in many more affected
+   computers when vulnerabilities are found. Microsoft has not responded
+   as quickly as competitors in fixing security holes and making patches
+   available. Not only are there more security holes discovered in
+   Internet Explorer, but these vulnerabilities tend to remain unpatched
+   for a much longer time, in some cases giving malicious web site
+   operators months to exploit them before Microsoft releases a patch.
+   Several companies maintain databases of known security vulnerabilities
+   that exist in Internet Explorer, for which no fixes have been published
+   by Microsoft. As of November 27, 2006, Secunia reports 3 unpatched
+   vulnerabilities in Internet Explorer, of which the most severe
+   vulnerability is rated "moderately critical". In contrast, Mozilla
+   Firefox, the main competitor to Internet Explorer, is reported to have
+   1 unpatched security vulnerability, rated "less critical." Opera,
+   another competitor to Internet Explorer, is also reported to have no
+   unpatched security vulnerabilities.
+
+   In May 2006, PC World rated Internet Explorer 6 the eighth worst tech
+   product of all time.
+
+Standards support
+
+   Other criticisms, mostly coming from technically proficient users and
+   developers of websites and browser-based software applications, concern
+   Internet Explorer's support of open standards, because the browser
+   often uses proprietary extensions to achieve similar functionality.
+
+   Internet Explorer supports, to some degree, a number of standardized
+   technologies, but has numerous implementation gaps and conformance
+   failures—some minor, some not—that have led to criticism from an
+   increasing number of developers. The increase is attributable, in large
+   part, to the fact that competing browsers that offer relatively
+   thorough, standards-compliant implementations are becoming more widely
+   used.
+
+   Internet Explorer's ubiquity, in spite of its inferiority in this area,
+   frustrates developers who want to write standards-compliant,
+   cross-browser code and the advanced functionality it provides, because
+   they are often stuck coding pages around Internet Explorer's bugs,
+   proprietary featureset, and missing standards support instead.
+
+   Web developers must work with the least advanced technology across all
+   browsers they wish to support, and Internet Explorer is often
+   criticized for being technically obsolete. These include poor CSS
+   support and no native XHTML support: both of which remain serious
+   problems in Internet Explorer 7. For another long-standing concrete
+   example, see Internet Explorer's poor PNG transparency support, which
+   remained unfixed until Internet Explorer 7.
+
+Market adoption
+
+Usage share
+
+   Usage share of Internet Explorer, 1996–2006
+   Enlarge
+   Usage share of Internet Explorer, 1996–2006
+
+   The adoption rate of Internet Explorer seems to be closely related to
+   that of Microsoft Windows, as it is the default web browser that comes
+   with Windows. Since the integration of Internet Explorer 2.0 with
+   Windows 95 OSR 1 in 1996, and especially after version 4.0's release,
+   the adoption was greatly accelerated: from below 20% in 1996 to about
+   40% in 1998 and over 80% in 2000. This effect, however, has recently
+   been dubbed the "Microsoft monoculture", by analogy to the problems
+   associated with lack of biodiversity in an ecosystem. By 2002, Internet
+   Explorer had almost completely superseded its main rival Netscape and
+   dominated the market.
+
+   After having fought and won the browser wars of the late 1990s,
+   Internet Explorer began to see its usage share shrink. Having attained
+   a peak of about 96% in 2002, it has since been in a small steady
+   decline, likely due to the adoption of Mozilla Firefox, which
+   statistics indicate is currently the most significant competition.
+   Nevertheless, Internet Explorer remains the dominant web browser, with
+   a global usage share of around 85% (based on statistics reference).
+   Usage is higher in Asia and lower in Europe. For example, the share is
+   around 94% in Japan, and around 56% in Germany.
+
+Industry adoption
+
+   ActiveX is used by many public websites and web applications, including
+   eBay. Similarly, Browser Helper Objects are also used by many search
+   engine companies and third parties for creating add-ons that access
+   their services, for example, search engine toolbars. Because of the use
+   of COM, it is possible to include web-browsing functionality in
+   third-party applications. Hence, there are a number of Internet
+   Explorer shells, and a number of content-centric applications like
+   RealPlayer also use Internet Explorer's web browsing module for viewing
+   web pages within the applications.
+
+"Standalone" Internet Explorer
+
+   While it is not officially possible to keep multiple versions of
+   Internet Explorer on the same machine, some hackers (Joe Maddalone,
+   Ryan Parman, et al.) successfully separated several versions of
+   Internet Explorer making them standalone applications. These were
+   referred as "standalone" IEs and included versions 3.0 to 5.5.
+     * Multiple IEs In Windows Web Design — The web developer Joe
+       Maddalone who found the solution.
+     * Skyzyx.com - Standalone Internet Explorer — The web developer Ryan
+       Parman who made the customized browsers files available.
+     * Multiple Explorers — Downloads of all the versions
+
+   Microsoft has discontinued standalone installers for Internet Explorer
+   to the general public. However, there are unofficial procedures for
+   downloading the complete install package. Internet Explorer standalone
+   hacks exploit a known workaround to DLL hell, which was introduced in
+   Windows 2000, called DLL redirection.
+     * Standalone Install Procedure for IE6 SP1
+
+   Unlike previous versions of Internet Explorer, running Internet
+   Explorer 7.0 requires the presence of some keys in the Windows registry
+   before starting. This is due to Microsoft Security Bulletin MS05-054 as
+   mentioned in IEBlog.
+     * Jon Galloway's batch script for running IE7 — Supports the latest
+       IE7 RC1.
+     * A standalone launch program for IE7 — Supports the latest IE7 RC1.
+
+   Yousif has provided a program available here which automates
+   installation of standalone versions of Internet Explorer from 3.0 to
+   6.0. This allows you to install version 7 as the "default" version of
+   Internet Explorer.
+
+   Manfred Staudinger has created an online guide/article detailing how to
+   enable cookies and MS proprietary Conditional Comments, Here.
+
+Removal
+
+   The idea of removing Internet Explorer from a Windows system was first
+   proposed during the United States v. Microsoft case. Critics felt that
+   users should have the right to uninstall Internet Explorer freely just
+   like any other application software. One of Microsoft's arguments
+   during the trial was that removing Internet Explorer from Windows may
+   result in system instability.
+
+   The Australian computer scientist Shane Brooks demonstrated that
+   Windows 98 could in fact run with Internet Explorer removed. Brooks
+   went on to develop software designed to customize Windows versions by
+   removing "undesired components", which is known as 98lite. He later
+   created XPLite to support NT based operating systems. Both of these
+   pieces of software can remove IE after the installation of the
+   operating system. However, both of these pieces of software work, in
+   part, by installing obsolete versions of components (such as Windows
+   Explorer) required by the operating system to function.
+
+   There are a few popular methods for removing IE from a copy of the
+   Windows install disc so it never touches the user's hard drive. A
+   method developed by Fred Vorck involves the manual removal of IE from
+   installation discs. nLite, on the other hand, is an automated program
+   that allows users to exclude IE and many other Windows components from
+   installation as desired. In some older versions of Windows and in
+   Windows Fundamentals there is an option to install Internet Explorer.
+
+   Removing Internet Explorer does have a number of consequences. Some
+   applications that depend on libraries installed by IE may fail to
+   function, or have unexpected behaviors. Intuit's Quicken is a typical
+   example, which depends heavily upon the HTML rendering components
+   installed by the browser. The Windows help and support system will also
+   not function due to the heavy reliance on HTML help files and
+   components of IE. It is also not possible to run Microsoft's Windows
+   Update with any other browser due to the service's implementation of an
+   ActiveX control, which no other browser supports. Another possibility
+   is to use AutoPatcher, an unofficial and unauthorised update manager,
+   which does not require the use of a web browser at all.
+   Retrieved from " http://en.wikipedia.org/wiki/Internet_Explorer"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,163 @@
+   #copyright
+
+Sound
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Sound is a disturbance of mechanical energy that propagates through
+   matter as a wave. Sound is characterized by the properties of sound
+   waves, which are frequency, wavelength, period, amplitude and velocity
+   or speed.
+
+Explanation
+
+   Humans perceive sound by the sense of hearing. By sound, we commonly
+   mean the vibrations that travel through air and can be heard by humans.
+   However, scientists and engineers use a wider definition of sound that
+   includes low and high frequency vibrations in air that cannot be heard
+   by humans, and vibrations that travel through all forms of matter,
+   gases, liquids and solids. The matter that supports the sound is called
+   the medium. Sound propagates as waves of alternating pressure, causing
+   local regions of compression and rarefaction. Particles in the medium
+   are displaced by the wave and oscillate. The scientific study of sound
+   is called acoustics.
+
+   Noise and sound often mean the same thing; but noise is often used to
+   refer to an unwanted sound. In science and engineering, noise is an
+   undesirable component that obscures a signal.
+
+Perception of sound
+
+   A schematic representation of hearing. (Blue: sound waves. Red:
+   eardrum. Yellow: cochlea. Green: auditory receptor cells. Purple:
+   frequency spectrum of hearing response. Orange: nerve impulse.)
+   Enlarge
+   A schematic representation of hearing. (Blue: sound waves. Red:
+   eardrum. Yellow: cochlea. Green: auditory receptor cells. Purple:
+   frequency spectrum of hearing response. Orange: nerve impulse.)
+
+   Sound is perceived through the sense of hearing. Humans and many
+   animals use their ears to hear sound, but loud sounds and low-frequency
+   sounds can be perceived by other parts of the body through the sense of
+   touch as vibrations. Sounds are used in several ways, notably for
+   communication through speech and music. They can also be used to
+   acquire information about properties of the surrounding environment
+   such as spatial characteristics and presence of other animals or
+   objects. For example, bats use echolocation, ships and submarines use
+   sonar and humans can determine spatial information by the way in which
+   they perceive sounds.
+
+   Humans can generally hear sounds with frequencies between 20 Hz and 20
+   kHz although this range varies significantly with age, occupational
+   hearing damage, and gender; the majority of people can no longer hear
+   20,000 Hz by the time they are teenagers, and progressively lose the
+   ability to hear higher frequencies as they get older. Most human speech
+   communication takes place between 200 and 8,000 Hz and the human ear is
+   most sensitive to frequencies around 1000-3,500 Hz. Sound above the
+   hearing range is known as ultrasound, and that below the hearing range
+   as infrasound.
+
+   The amplitude of a soundwave is specified in terms of its pressure. The
+   human ear can detect sounds with a very wide range of amplitudes and so
+   a logarithmic decibel amplitude scale is used. The quietest sounds that
+   humans can hear have an amplitude of approximately 20 µPa (
+   micropascals) or a sound pressure level (SPL) of 0 dB re 20 µPa (often
+   incorrectly abbreviated as 0 dB SPL). Prolonged exposure to a sound
+   pressure level exceeding 85 dB can permanently damage the ear,
+   resulting in tinnitus and hearing impairment. Sound levels in excess of
+   130 dB are more than the human ear can safely withstand and can result
+   in serious pain and permanent damage. At very high amplitudes,
+   soundwaves exhibit nonlinear effects, including shock.
+
+Speed of sound
+
+   The speed at which sound travels depends on the medium through which
+   the waves are passing, and is often quoted as a fundamental property of
+   the material. In general, the speed of sound is proportional to the
+   square root of the ratio of the stiffness of the medium and its
+   density. Those physical properties and the speed of sound change with
+   ambient conditions. For example, the speed of sound in air and other
+   gases depends on temperature. In air, the speed of sound is
+   approximately 345 m/s, in water 1500 m/s and in a bar of steel 5000
+   m/s. The speed of sound is also slightly sensitive (to second order) to
+   the sound amplitude, resulting in nonlinear propagation effects, such
+   as the weak production of harmonics and the mixing of tones (see
+   parametric array).
+
+Sound pressure
+
+   Sound pressure is the pressure deviation from the local ambient
+   pressure caused by a sound wave. Sound pressure can be measured using a
+   microphone in air and a hydrophone in water. The SI unit for sound
+   pressure is the pascal (symbol: Pa). The instantaneous sound pressure
+   is the deviation from the local ambient pressure caused by a sound wave
+   at a given location and given instant in time. The effective sound
+   pressure is the root mean square of the instantaneous sound pressure
+   over a given interval of time. In a soundwave, the complementary
+   variable to sound pressure is the acoustic particle velocity. For small
+   amplitudes, sound pressure and particle velocity are linearly related
+   and their ratio is the acoustic impedance. The acoustic impedance
+   depends on both the characteristics of the wave and the medium. The
+   local instantaneous sound intensity is the product of the sound
+   pressure and the acoustic particle velocity and is, therefore, a vector
+   quantity in time.
+
+Sound pressure level
+
+   As the human ear can detect sounds with a very wide range of
+   amplitudes, sound pressure is often measured as a level on a
+   logarithmic decibel scale.
+
+   The sound pressure level (SPL) or L[p] is defined as
+
+          L_\mathrm{p}=10\, \log_{10}\left(\frac{{p}^2}{{p_0}^2}\right)
+          =20\, \log_{10}\left(\frac{p}{p_0}\right)\mbox{ dB}
+          where p is the root-mean-square sound pressure and p[0] is a
+          reference sound pressure. (When using sound pressure levels, it
+          may be important to quote the reference sound pressure used.)
+          Commonly used reference sound pressures, defined in the standard
+          ANSI S1.1-1994, are 20 µPa in air and 1 µPa in water.
+
+   Since the human ear does not have a flat spectral response, sound
+   pressure levels are often frequency weighted so that the measured level
+   will match perceived levels more closely. The International
+   Electrotechnical Commission (IEC) has defined several weighting
+   schemes. A-weighting attempts to match the response of the human ear to
+   noise and A-weighted sound pressure levels are labeled dBA. C-weighting
+   is used to measure peak levels.
+
+Examples of sound pressure and sound pressure levels
+
+              Source of sound              sound pressure   sound pressure level
+                                               pascal           dB re 20 µPa
+  threshold of pain                                     100                  134
+  hearing damage during short-term effect                20          approx. 120
+  jet, 100 m distant                                6 - 200            110 - 140
+  jack hammer, 1 m distant / discotheque                  2          approx. 100
+  hearing damage during long-term effect            6×10^−1           approx. 90
+  major road, 10 m distant                2×10^−1 - 6×10^−1              80 - 90
+  passenger car, 10 m distant             2×10^−2 - 2×10^−1              60 - 80
+  TV set at home level, 1 m distant                 2×10^−2               ca. 60
+  normal talking, 1 m distant             2×10^−3 - 2×10^−2              40 - 60
+  very calm room                          2×10^−4 - 6×10^−4              20 - 30
+  leaves noise, calm breathing                      6×10^−5                   10
+  auditory threshold at 2 kHz                       2×10^−5                    0
+
+Measurement of sound
+
+     * Decibel, sone, mel, phon
+     * sound pressure level
+     * Particle velocity, acoustic velocity, sound velocity
+     * Particle displacement, particle amplitude, particle acceleration
+     * Sound power, acoustic power, sound power level
+     * Sound intensity, acoustic intensity, sound intensity level
+     * Acoustic impedance, sound impedance, characteristic impedance
+     * Speed of sound, amplitude
+     * Sound energy flux
+     * See also Template:Sound measurements
+
+   Retrieved from " http://en.wikipedia.org/wiki/Sound"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

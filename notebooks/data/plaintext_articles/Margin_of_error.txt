@@ -1,0 +1,450 @@
+   #copyright
+
+Margin of error
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+          This article is about the statistical concept for estimators
+          based on samples.
+          For safety margins in engineering, see factor of safety.
+          For tolerance in engineering, see tolerance (engineering).
+          For the Clare Boothe Luce play, see Margin of Error (play).
+
+   The top portion of this graphic depicts probability densities that show
+   the relative likelihood that the "true" percentage is in a particular
+   area given a reported percentage of 50%. The bottom portion of this
+   graphic shows the margin of error, the corresponding zone of 99 %
+   confidence. In other words, one is 99% sure that the "true" percentage
+   is in this region given a poll with the sample size shown to the right.
+   The larger the sample is, the smaller the margin of error is. If lower
+   standards of confidence (95 or 90 %) are used, the margins of error
+   will be smaller (by 24 or 36%, respectively) for the same sample sizes.
+   Enlarge
+   The top portion of this graphic depicts probability densities that show
+   the relative likelihood that the "true" percentage is in a particular
+   area given a reported percentage of 50%. The bottom portion of this
+   graphic shows the margin of error, the corresponding zone of 99 %
+   confidence. In other words, one is 99% sure that the "true" percentage
+   is in this region given a poll with the sample size shown to the right.
+   The larger the sample is, the smaller the margin of error is. If lower
+   standards of confidence (95 or 90 %) are used, the margins of error
+   will be smaller (by 24 or 36%, respectively) for the same sample sizes.
+
+   The margin of error expresses the amount of the random variation
+   underlying a survey's results. This can be thought of as a measure of
+   the variation one would see in reported percentages if the same poll
+   were taken multiple times. The larger the margin of error, the less
+   confidence one has that the poll's reported percentages are close to
+   the "true" percentages, that is the percentages in the whole
+   population.
+
+   A margin of error can be calculated for each figure produced from a
+   sample survey, unless a nonprobability sample is used. For results
+   expressed as percentages, it is often possible to calculate a maximum
+   margin of error that applies to all results from the survey (or at
+   least all results based on the full sample). The maximum margin of
+   error can sometimes be calculated directly from the sample size (the
+   number of poll respondents).
+
+   A margin of error is usually prepared for one of three different levels
+   of confidence; 99%, 95% and 90%. The 99% level is the most
+   conservative, while the 90% level is the least conservative. The 95%
+   level is the most commonly used. If the level of confidence is 95%, the
+   "true" percentage for the entire population would be within the margin
+   of error around a poll's reported percentage 95% of the time.
+   Equivalently, the margin of error is the radius of the 95% confidence
+   interval.
+
+   Note that the margin of error only takes into account random sampling
+   error. It does not take into account other potential sources of error
+   such as bias in the questions, bias due to excluding groups who could
+   not be contacted, people refusing to respond or lying, or miscounts and
+   miscalculations.
+
+Calculations and caveats
+
+   For a simple random sample, the maximum margin of error is a simple
+   re-expression of the sample size n. The numerators of these equations
+   are rounded to two decimal places.
+
+          Margin of error at 99% confidence \approx 1.29/\sqrt{n}\,
+
+          Margin of error at 95% confidence \approx 0.98/\sqrt{n}\,
+
+          Margin of error at 90% confidence \approx 0.82/\sqrt{n}\,
+
+   These formulae only apply if the survey used a simple random sample.
+   Often a simple random sample is not possible, because it involves
+   selecting respondents from a list of everyone in the population, and
+   this is not often available. Instead multistage sample designs are
+   used, which may involve stratification, clustering and unequal
+   selection probabilities. All of these practices will affect the margin
+   of error.
+
+   The margin of error is not fully defined if the confidence level is not
+   reported. If an article about a poll does not report the confidence
+   level, but does state that a simple random sample of a certain size was
+   used, the margin of error can be calculated to a desired degree of
+   confidence given the reported sample size. Also, if the 95% margin of
+   error is given, one can find the 99% margin of error by increasing its
+   width by about 30%. If an article reports neither the confidence level
+   nor the sample size, readers should only assume a particular level of
+   confidence for casual, low-stakes interpretations.
+
+   The maximum margin of error is a poll-level statistic that should not
+   be used to evaluate or compare reported percentages. However, due to
+   its unfortunate name (it neither establishes a "margin" nor is the
+   whole of "error"), it has become one of the most widely overinterpreted
+   statistics in general use by the media. It is frequently misused to
+   judge whether one percentage is " significantly" higher than another or
+   not, and to specify the error associated with reported percentages
+   other than 50%.
+
+Understanding the margin of error
+
+A running example
+
+   This running example from the 2004 U.S. presidential campaign will be
+   used to illustrate concepts throughout this article. It should be clear
+   that the choice of poll and who is leading is irrelevant to the
+   presentation of the concepts. According to an October 2 survey by
+   Newsweek, 47 % of registered voters would vote for John Kerry/ John
+   Edwards if the election were held today. 45% would vote for George W.
+   Bush/ Dick Cheney, and 2 % would vote for Ralph Nader/ Peter Camejo.
+   The size of the sample is 1,013, and the reported margin of error is ±4
+   %. The 99 % level of confidence will be used for the remainder of this
+   article.
+
+The basic concept
+
+   Polls require taking samples from populations. In the case of the
+   Newsweek poll, the population of interest is the population of people
+   who will vote. Since it is impractical to poll everyone who will vote,
+   pollsters take smaller samples that are intended to be representative,
+   that is, a random sample of the population. It is possible that
+   pollsters happen to sample 1,013 voters who happen to vote for Bush
+   when in fact the population is split, but this is extremely unlikely
+   given that the sample is random.
+
+   Given the size of the sample (1,013), probability theory allows the
+   calculation of the probability that the poll reports 47 % for Kerry but
+   is in fact 50 %, or is in fact 42 %. This theory and some Bayesian
+   assumptions suggest that the "true" percentage will probably be very
+   close to 47 %. The more people that are sampled, the more confident
+   pollsters can be that the "true" percentage is closer and closer to the
+   observed percentage. The margin of error is a rough, poll-wide
+   expression of that confidence.
+
+Statistical terms and calculations
+
+   The margin of error is just a specific 99 % confidence interval, which
+   is in turn a simple manipulation of the standard error of measurement.
+   This section will briefly discuss the standard error of a percentage,
+   briefly discuss the confidence interval, and connect these two concepts
+   to the margin of error.
+
+   The standard error can be estimated simply given a proportion or
+   percentage, p, and the number of polled respondents, n. In the case of
+   the Newsweek poll, Kerry's percentage, p = 0.47 and n = 1,013. Given
+   some statistical theory outlined below, the following holds:
+
+          Standard error = \sqrt{\frac{p(1-p)}{n}}
+
+   The standard error (.016 or 1.6 %) helps to give a sense of the
+   accuracy of Kerry's estimated percentage (47 %). A helpful, Bayesian
+   interpretation of the standard error is that the "true" percentage
+   (unknown) is highly likely to be located somewhere around the estimated
+   percentage (47 %). The standard error can be used to create a
+   confidence interval within which the "true" percentage should be to a
+   certain level of confidence.
+
+   Plus or minus 1 standard error is a 68 % confidence interval, plus or
+   minus 2 standard errors is approximately a 95 % confidence interval,
+   and a 99 % confidence interval is 2.58 standard errors on either side
+   of the estimate.
+
+   The margin of error is the radius (half) of the 99 % confidence
+   interval, or 2.58 standard errors, when p = 50 %. As such, it can be
+   calculated directly from the number of poll respondents.
+
+          Margin of error (99%) = 2.58 × \sqrt{\frac{0.5(1-0.5)}{n}} =
+          \frac{1.29}{\sqrt{n}}
+
+   To conclude, the margin of error is the 99 % confidence interval for a
+   reported percentage of 50 %. If p moves away from 50 %, the confidence
+   interval around p will be smaller. Thus, the margin of error represents
+   an upper bound to the uncertainty; one is at least 99 % certain that
+   the "true" percentage is within a margin of error of a reported
+   percentage for any reported percentage.
+
+The use and abuse of the margin of error
+
+   The margin of error grew out of a well-intentioned need to compare the
+   accuracy of different polls. However, its widespread use in high-stakes
+   polling has degraded from comparing polls to comparing reported
+   percentages, a use that is not supported by theory. A web search of
+   news articles using the terms "statistical tie" or "statistical dead
+   heat" returns many articles that use these terms to describe reported
+   percentages that differ by less than a margin of error. These terms are
+   misleading; if one observed percentage is greater than another, the
+   true percentages in the entire population are more likely ordered in
+   the same way than not. In addition, the margin of error as generally
+   calculated is applicable to an *individual percentage* and not the
+   difference between percentages. (The margin of error applicable
+   directly to the "lead" is very approximately equal to twice the
+   generally stated margin of error, but this is exactly the case only for
+   a two-choice poll with a result of 50% for each choice). The margin of
+   error is often interpreted as if the poll gives either no information
+   (a difference within a margin of error) or perfect information (a
+   difference larger than a margin of error) about the ranking of two
+   percentages in the population, but this is a gross oversimplification.
+   As the margin of error continues to be inappropriately applied, simpler
+   alternatives (sample size) or more complex alternatives (standard
+   error, probability of leading) may be warranted.
+
+Incorrect interpretations of the margin of error
+
+   Here are some incorrect interpretations of the margin of error based on
+   the Newsweek poll.
+     * Kerry and Bush are "statistically tied" or are in a "statistical
+       dead heat".
+     * It only "matters" if Kerry leads Bush (or vice versa) by more than
+       4 %.
+     * Any change in the percentages for future polls does not "matter"
+       unless it is more than 4 %.
+     * Because Nader got 2 % and the margin of error is 4 %, he could
+       potentially have 0 %.
+     * The margin of error is the same for every percentage, i.e. 47% ±
+       4%, 45% ± 4%, 2% ± 4%.
+
+Arguments for the use of the margin of error
+
+     * For casual comparisons of different polls, it is helpful to define
+       a benchmark (99 % confidence interval radius for an estimated
+       percentage of 50 %) that reflects the sampling variance of the
+       poll.
+          + Although the sampling variance does decrease linearly with
+            increasing numbers of respondents, the margin of error
+            decreases linearly with the square root of n, so using the
+            number of respondents as an inverse measure of standard error
+            can be confusing.
+     * If results from two polls are separated by more than 1.4 times the
+       margin of error, then we can state with similar confidence that the
+       larger value is in fact larger in the population, without any
+       complex calculations.
+
+Arguments against the use of the margin of error
+
+     * The margin of error is a simple transformation of the number of
+       respondents into an ambiguous term that is neither a "margin" nor
+       the whole of "error".
+     * The margin of error is being confused with the confidence interval
+       of reported percentages.
+          + The 99 % confidence interval radius for any percentage besides
+            50 % is smaller than the maximum margin of error.
+          + It is much smaller and more asymmetric for very high and very
+            low percentages.
+     * It is not a "margin" at all; the probability of the true percentage
+       being outside the margin of error is low but nonzero.
+     * There is no agreed-upon confidence level. Most pollsters use 99 %,
+       but many use 95 % or 90 %; this makes their polls look more
+       accurate.
+     * Many pollsters fail to account for the complexity of their sample
+       design when calculating the margin of error, which usually makes
+       their polls appear more accurate than they truly are.
+     * When the purpose of polls is to compare percentages, the use of the
+       margin of error is tempting, but is inappropriate if the two
+       intervals overlap.
+     * Perhaps most importantly, there are many different sources of error
+       in polling, and variance due to sample size is not likely to be the
+       only contribution. Other possible contributions to error include:
+          + Sampling bias, when the sample is not a representative sample
+            from the population of interest. In particular, certain people
+            may choose not to participate.
+          + The phrasing of the question may not be appropriate for the
+            conclusions of the poll.
+          + Response error (Sudman & Bradburn, 1982)
+               o Deliberate distortion (fear of consequences, social
+                 desirability, response acquiescence).
+               o Misconstrual (not understanding the question).
+               o Lack of knowledge (guessing to try to be helpful).
+
+Margin of error and population size
+
+   An interesting mathematical fact is that the margin of error depends
+   only on the sample size and not on the population size, provided that
+   the population is significantly larger than the sample size, and
+   provided a simple random sample is used. Thus for instance, the poll in
+   the running example with 1,013 randomly sampled registered voters would
+   yield essentially the same margin of error (4% with a 99% level of
+   confidence) regardless of whether the population of registered voters
+   consisted of 100,000 people or 100,000,000 people.
+
+   This may seem counter-intuitive at first; after all, each person in the
+   population has a unique personality and opinion, and in a very large
+   population, only a very small fraction of such people would actually be
+   polled, and it would thus seem that the poll is not capturing enough
+   information. However, because a poll involves only a very specific
+   question, there is only one relevant attribute in the population that
+   needs to be considered, and this means that an individual's opinion is
+   effectively equivalent to those of many other members of the
+   population, some fraction of which will be polled. For instance, in the
+   running example, the only relevant attribute of a population member is
+   whether he or she is a Bush voter, a Kerry voter, or a Nader voter -
+   all other characteristics of a population member are irrelevant. Thus
+   for instance if there are 100,000,000 registered voters, and 48,000,000
+   of them were Kerry voters, then for the purposes of this statistical
+   analysis all of the 48,000,000 individuals in this group would be
+   completely interchangeable and equivalent. An individual Kerry voter
+   has 47,999,999 other voters with identical opinions (as far as the poll
+   question is concerned), and it is exceedingly likely that a poll of
+   1,013 voters will contain a properly representative fraction of this
+   group, provided of course that the voters being polled were selected
+   randomly.
+
+   To give an analogy, suppose that one is trying to estimate the
+   percentage of salt in an ocean. This can be easily accomplished by
+   taking a glass of seawater and then chemically analyzing the proportion
+   of salt in that sample. The amount of salt and water in this glass is
+   far smaller than the amount of salt and water in the ocean under study.
+   Nevertheless, the sample is likely to give a very accurate measurement
+   of the ocean's salinity, provided of course that the salt is evenly
+   distributed across the ocean (this hypothesis is the analogue of the
+   hypothesis that the poll sample is being randomly chosen). In fact, one
+   could already obtain a crude but reasonable estimate of salinity by
+   testing just a single drop of seawater, though of course the larger
+   sample in the glass would provide a more accurate measurement. This
+   analogy may help explain why it is the sample size, rather than the
+   population size, that determines the margin of error in a poll.
+
+Comparing percentages: the probability of leading
+
+Tables
+
+   The margin of error is frequently misused to determine whether one
+   percentage is higher than another. The statistic that should be used is
+   simply the probability that one percentage is higher than another. This
+   can tentatively be called the Probability of Leading. Here is a table
+   that gives the percentage probability of leading for two candidates, in
+   the absence of any other candidates, assuming 95% confidence levels are
+   used:
+   Difference of percentages: 0% 1% 2% 3% 4% 5% 6% 7% 8% 9% 10%
+   1% margin of error 50.0 83.6 97.5 99.8 100 100 100 100 100 100 100
+   2% margin of error 50.0 68.8 83.7 92.9 97.5 99.3 99.8 100 100 100 100
+   3% margin of error 50.0 62.8 74.3 83.7 90.5 94.9 97.5 98.9 99.6 99.8
+   99.9
+   4% margin of error 50.0 59.7 68.8 76.9 83.7 89.0 93.0 95.7 97.5 98.7
+   99.3
+   5% margin of error 50.0 57.8 65.2 72.2 78.4 83.7 88.1 91.5 94.2 96.2
+   97.6
+   6% margin of error 50.0 56.5 62.8 68.8 74.3 79.3 83.7 87.4 90.5 93.0
+   95.0
+   7% margin of error 50.0 55.6 61.0 66.3 71.2 75.8 80.0 83.7 86.9 89.7
+   92.0
+   8% margin of error 50.0 54.9 59.7 64.3 68.8 73.0 76.9 80.5 83.7 86.6
+   89.1
+   9% margin of error 50.0 54.3 58.6 62.8 66.9 70.7 74.4 77.8 80.9 83.7
+   86.3
+   10% margin of error 50.0 53.9 57.8 61.6 65.3 68.8 72.2 75.4 78.4 81.2
+   83.8
+
+   For example, the probability that Kerry is leading Bush given the data
+   from the Newsweek poll (a 2% difference and a 4% margin of error) is
+   about 68.8%, provided they used a 95% confidence level. Note that the
+   100% entries in the table are actually slightly less. Here is the same
+   table for the 99% confidence level:
+   Difference of percentages: 0% 1% 2% 3% 4% 5% 6% 7% 8% 9% 10%
+   1% margin of error 50.0 90.1 99.5 100 100 100 100 100 100 100 100
+   2% margin of error 50.0 74.1 90.2 97.4 99.5 99.9 100 100 100 100 100
+   3% margin of error 50.0 66.6 80.5 90.2 95.7 98.4 99.5 99.9 100 100 100
+   4% margin of error 50.0 62.6 74.1 83.3 90.2 94.7 97.4 98.8 99.5 99.8
+   99.9
+   5% margin of error 50.0 60.2 69.7 78.1 84.9 90.2 94.0 96.5 98.1 99.0
+   99.5
+   6% margin of error 50.0 58.5 66.6 74.1 80.5 85.9 90.2 93.4 95.8 97.4
+   98.5
+   7% margin of error 50.0 57.3 64.4 71.0 77.0 82.2 86.6 90.2 93.0 95.2
+   96.8
+   8% margin of error 50.0 56.4 62.6 68.6 74.1 79.0 83.4 87.1 90.2 92.7
+   94.7
+   9% margin of error 50.0 55.7 61.3 66.6 71.7 76.3 80.6 84.3 87.5 90.2
+   92.5
+   10% margin of error 50.0 55.1 60.2 65.1 69.7 74.1 78.1 81.7 85.0 87.8
+   90.3
+
+   If the Newsweek poll used a 99% confidence level, the probability that
+   Kerry is leading Bush rises to about 74.1%. It is evident that the
+   confidence level has a significant impact on the probability of
+   leading.
+
+Derivation
+
+   The rest of this section shows how the Newsweek percentage might be
+   calculated. This probability can be derived with 1) the standard error
+   calculation introduced earlier, 2) the formula for the variance of the
+   difference of two random variables, and 3) an assumption that if anyone
+   does not choose Kerry they will choose Bush, and vice versa, i.e. they
+   are perfectly negatively correlated. This assumption may not be tenable
+   given that a voter could be undecided or vote for Nader, but the
+   results will still be illustrative.
+
+   The standard error of the difference of percentages p for Kerry and q
+   for Bush, assuming that they are perfectly negatively correlated,
+   follows:
+
+          Standard error of difference =
+          \sqrt{\frac{p(1-p)+q(1-q)+2pq}{n}}.
+
+   Given the actual percentage difference p − q (2% or 0.02) and the
+   standard error of the difference calculated above (.03), use a program
+   like Microsoft Excel to calculate the probability that a sample from a
+   normal distribution with mean 0.02 and standard deviation 0.03 is
+   greater than 0.
+
+   These calculations suggest that the probability that Kerry is "truly"
+   leading is 74%.
+
+More advanced calculations behind the margin of error
+
+   Let n be the number of voters in the sample. Suppose them to have been
+   drawn randomly and independently from the whole population of voters.
+   This is perhaps optimistic, but if care is taken it can be at least
+   approximated in reality. Let p be the proportion of voters in the whole
+   population who will vote "yes". Then the number X of voters in the
+   sample who will vote "yes" is a random variable with a binomial
+   distribution with parameters n and p. If n is large enough, then X is
+   approximately normally distributed with expected value np and variance
+   np(1 − p). Therefore
+
+          Z=\frac{X-np}{\sqrt{np(1-p)}}
+
+   is approximately normally distributed with expected value 0 and
+   variance 1. Consulting tabulated percentage points of the normal
+   distribution reveals that P(−2.576 < Z < 2.576) = 0.99, or, in other
+   words, there is a 99 % chance of this event. So,
+
+          P\left(-2.576<\frac{X/n-p}{\sqrt{p(1-p)/n}}<2.576\right)=0.99.
+
+   This is equivalent to
+
+          P\left(\frac{X}{n}-2.576\sqrt{\frac{p(1-p)}{n}}<p<\frac{X}{n}+2.
+          576\sqrt{ \frac{p(1-p)}{n}}\ \right)=0.99.
+
+   Replacing p in the first and third members of this inequality by the
+   estimated value X/n seldom results in large errors if n is big enough.
+   This operation yields
+
+          P\left(\frac{X}{n}-2.576\sqrt{\frac{(X/n)(1-(X/n))}{n}}<p<\frac{
+          X}{n}+2.576\sqrt{\frac{(X/n)(1-(X/n))}{n}}\ \right)=0.99.
+
+   The first and third members of this inequality depend on the observable
+   X/n and not on the unobservable p, and are the endpoints of the
+   confidence interval. In other words, the margin of error is
+
+          2.576\sqrt{\frac{(X/n)(1-(X/n))}{n}}.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Margin_of_error"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

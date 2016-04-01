@@ -1,0 +1,449 @@
+   #copyright
+
+Water purification
+
+2007 Schools Wikipedia Selection. Related subjects: Drink
+
+       Environmental science
+   Environmental technology
+     * Air pollution control
+     * Alternative energy
+     * Biofuel
+     * Composting
+     * Conservation biology
+     * Conservation ethic
+     * Ecoforestry
+     * Energy conservation
+     * Energy development
+     * Environmental design
+     * Future energy development
+     * Green building
+     * Hydrogen technologies
+     * Recycling
+     * Renewable energy
+     * Remediation
+     * Solid waste treatment
+     * Sustainable energy
+     * Waste water treatment
+     * Water purification
+     * Waste management
+
+   Water purification is the removal of contaminants from raw water to
+   produce drinking water that is pure enough for human consumption or for
+   industrial use. Substances that are removed during the process include
+   parasites ( such as Giardia or Cryptosporidium) , bacteria, algae,
+   viruses, fungi, minerals (including toxic metals such as Lead, Copper
+   etc.), and man-made chemical pollutants. Many contaminants can be
+   dangerous—but depending on the quality standards, others are removed to
+   improve the water's smell, taste, and appearance. A small amount of
+   disinfectant is usually intentionally left in the water at the end of
+   the treatment process to reduce the risk of re-contamination in the
+   distribution system.
+
+   Many environmental and cost considerations affect the location and
+   design of water purification plants. Groundwater is cheaper to treat,
+   but aquifers usually have limited output and can take thousands of
+   years to recharge. Surface water sources should be carefully monitored
+   for the presence of unusual types or levels of microbial/disease
+   causing contaminants. The treatment plant itself must be kept secure
+   from vandalism and terrorism.
+
+   It is not possible to tell whether water is safe to drink just by
+   looking at it. Simple procedures such as boiling or the use of a
+   household charcoal filter are not sufficient for treating water from an
+   unknown source. Even natural spring water—considered safe for all
+   practical purposes in the 1800s—must now be tested before determining
+   what kind of treatment is needed.
+
+Stages in typical municipal water treatment
+
+   There are three principal stages in water purification:-
+    1. Primary treatment - Collecting and screening including pumping from
+       rivers and initial storage
+    2. Secondary treatment - removal of fine solids and the majority of
+       contaminants using filters, coagulation, flocculation and membranes
+    3. Tertiary treatment - polishing, pH adjustment, carbon treatment to
+       remove taste and smells, disinfection, and temporary storage to
+       allow the disinfecting agent to work.
+
+Primary Treatment
+
+    1. Pumping and containment - The majority of water must be pumped from
+       its source or directed into pipes or holding tanks. To avoid adding
+       contaminants to the water, this physical infrastructure must be
+       made from appropriate materials and constructed so that accidental
+       contamination does not occur.
+    2. Screening (see also Screen filter) - The first step in purifying
+       surface water is to remove large debris such as sticks, leaves,
+       trash and other large particles which may interfere with subsequent
+       purification steps. Most deep Groundwater does not need screening
+       before other purification steps.
+    3. Storage - Water from rivers may also be stored in bankside
+       reservoirs for periods between a few days and many months to allow
+       natural biological purification to take place. This is especially
+       important if treatment is by slow sand filters. Storage reservoirs
+       also provide a buffer against short periods of drought or to allow
+       water supply to be maintained during transitory pollution incidents
+       in the source river.
+    4. Pre-conditioning - Many waters rich in hardness salts are treated
+       with soda-ash ( Sodium carbonate)to precipitate calcium carbonate
+       out utilising the common ion effect.
+    5. Pre-chlorination - In many plants the incoming water was
+       chlorinated to minimise the growth of fouling organisms on the
+       pipe-work and tanks. Because of the potential adverse quality
+       effects (see Chlorine below), this has largely been discontinued.
+
+Secondary treatment
+
+   There are a wide range of techniques that can be used to remove the
+   fine solids, micro-organisms and some dissolved inorganic and organic
+   materials. The choice of method will depend on the quality of the water
+   being treated, the cost of the treatment process and the quality
+   standards expected of the processed water.
+    1. pH adjustment - If the water is acidic, lime or soda ash is added
+       to raise the pH. Lime is the more common of the two additives
+       because it is cheaper, but it also adds to the resulting water
+       hardness. Making the water slightly alkaline ensures that
+       coagulation and flocculation processes work effectively and also
+       helps to minimise the risk of lead being dissolved from lead pipes
+       and lead solder in pipe fittings.
+    2. Coagulation and flocculation - Together, coagulation and
+       flocculation are purification methods that work by using chemicals
+       which effectively "glue" small suspended particles together, so
+       that they settle out of the water or stick to sand or other
+       granules in a granular media filter. Many of the suspended water
+       particles have a negative electrical charge. The charge keeps
+       particles suspended because they repel similar particles.
+       Coagulation works by eliminating the natural electrical charge of
+       the suspended particles so they attract and stick to each other.
+       The joining of the particles so that they will form larger
+       settleable particles is called flocculation. The larger formed
+       particles are called floc. The coagulation chemicals are added in a
+       tank (often called a rapid mix tank or flash mixer), which
+       typically has rotating paddles. In most treatment plants, the
+       mixture remains in the tank for 10 to 30 seconds to ensure full
+       mixing. The amount of coagulant that is added to the water varies
+       widely due to the different source water quality.
+       One of the more common coagulants used is aluminium sulfate,
+       sometimes called filter alum. Aluminium sulfate reacts with water
+       to form flocs of aluminium hydroxide.
+       Coagulation with aluminium compounds may leave a residue of
+       aluminium in the finished water. This is normally about 0.1 to 0.15
+       mg/L. It has been established that Aluminium can be toxic to humans
+       at high concentrations.
+       Iron(II) sulfate or iron (III) chloride are other common
+       coagulants. Iron(III) coagulants work over a larger pH range than
+       aluminium sulfate but are not effective with many source waters.
+       Other benefits of iron(III) are lower costs and in some cases
+       slightly better removal of natural organic contaminants from some
+       waters. Coagulation with iron compounds typically leaves a residue
+       of iron in the finished water. This may impart a slight taste to
+       the water, and may cause brownish stains on porcelain fixtures. The
+       trace levels of iron are not harmful to humans, and indeed provide
+       a needed trace mineral. Because the taste and stains may lead to
+       customer complaints, aluminium tends to be favoured over iron for
+       coagulation.
+       Cationic and other polymers can also be used. They are often called
+       coagulant aids used in conjunction with other inorganic coagulants.
+       The long chains of positively charged polymers can help to
+       strengthen the floc making it larger, faster settling and easier to
+       filter out. The main advantages of polymer coagulants and aids are
+       that they do not need the water to be alkaline to work and that
+       they produce less settled waste than other coagulants, which can
+       reduce operating costs. The drawbacks of polymers are that they are
+       expensive, can blind sand filters and that they often have a very
+       narrow range of effective doses.
+    3. Flocculation - In flocculation coagulants are used but the
+       resultant floc is settled out rather than filtered through sand
+       filters. The chosen coagulant and the raw water is slowly mixed in
+       a large tank called a flocculation basin. Unlike a rapid mix tank,
+       the flocculation paddles turn very slowly to minimise turbulence.
+       The principle involved is to allow as many particles to contact
+       other particles as possible generating large and robust floc
+       particles. Generally, the retention time of a flocculation basin is
+       at least 30 minutes with speeds between 0.5 feet and 1.5 feet per
+       minute (15 to 45 cm / minute). Flow rates less than 0.5 ft/mian
+       cause undesirable floc settlement within the basin.
+    4. Sedimentation -Water exiting the flocculation basin enters the
+       sedimentation basin, also called a clarifier or settling basin. It
+       is a large tank with slow flow, allowing floc to settle to the
+       bottom. The sedimentation basin is best located close to the
+       flocculation basin so the transit between does not permit
+       settlement or floc break up. Sedimentation basins can be in the
+       shape of a rectangle, where water flows from end to end, or
+       circular where flow is from the centre outward. Sedimentation basin
+       outflow is typically over a weir so only a thin top layer-furthest
+       from the sediment-exits.The amount of floc that settles out of the
+       water is dependent on the time the water spends in the basin and
+       the depth of the basin. The retention time of the water must
+       therefore be balanced against the cost of a larger basin. The
+       minimum clarifier retention time is normally 4 hours. A deep basin
+       will allow more floc to settle out than a shallow basin. This is
+       because large particles settle faster than smaller ones, so large
+       particles bump into and integrate smaller particles as they settle.
+       In effect, large particles sweep vertically though the basin and
+       clean out smaller particles on their way to the bottom.
+       As particles settle to the bottom of the basin a layer of sludge is
+       formed on the floor of the tank. This layer of sludge must be
+       removed and treated. The amount of sludge that is generated is
+       significant, often 3%-5% of the total volume of water that is
+       treated. The cost of treating and disposing of the sludge can be a
+       significant part of the operating cost of a water treatment plant.
+       The tank may be equipped with mechanical cleaning devices that
+       continually clean the bottom of the tank or the tank can be taken
+       out of service when the bottom needs to be cleaned.
+       An increasingly popular method of floc removal is by dissolved air
+       flotation. A proportion of clarified water, typical 5-10% of
+       throughput, is recycled and air is dissolved in it under pressure.
+       This is injected into the bottom of the clarifier tank where tiny
+       air bubbles are formed which attach themselves to the floc
+       particles and float them to the surface. A sludge blanket is formed
+       which is periodically removed using mechanical scrapers. This
+       method is very efficient at floc removal and reduces loading on
+       filters, however it is unsuitable for water sources with a high
+       concentration of sediment.
+    5. Filtration - After separating most floc, the water is filtered as
+       the final step to remove remaining suspended particles and
+       unsettled floc. The most common type of filter is a rapid sand
+       filter. Water moves vertically through sand which often has a layer
+       of activated carbon or anthracite coal above the sand. The top
+       layer removes organic compounds including taste and odour. The
+       space between sand particles is larger than the smallest suspended
+       particles, so simple filtration is not enough. Most particles pass
+       through surface layers but are trapped in pore spaces or adhere to
+       sand particles. Effective filtration extends into the depth of the
+       filter. This property of the filter is key to its operation: if the
+       top layer of sand were to block all the particles, the filter would
+       quickly clog.
+       To clean the filter, water is passed quickly upward through the
+       filter, opposite the normal direction (called backflushing or
+       backwashing) to remove embedded particles. Prior to this,
+       compressed air may be blown up through the bottom of the filter to
+       break up the compacted filter media to aid the backwashing process;
+       this is known as air scouring. This contaminated water can be
+       disposed of, along with the sludge from the sedimentation basin, or
+       it can be recycled by mixing with the raw water entering the plant.
+       Some water treatment plants employ pressure filters. These work on
+       the same principle as rapid gravity filters differing in that the
+       filter medium is enclosed in a steel vessel and the water is forced
+       through it under pressure.
+    6. Slow sand filters may be used where there is sufficient land and
+       space. These rely on biological treatment processes for their
+       action rather than physical filtration. Slow sand filters are
+       carefully constructed using graded layers of sand with the coarsest
+       at the base and the finest at the top. Drains at the base convey
+       treated water away for disinfection. Filtration depends on the
+       development of a thin biological layer on the surface of the
+       filter. An effective slow sand filter may remain in service for
+       many weeks or even months if the pre-treatment is well designed and
+       produces an excellent quality of water which physical methods of
+       treatment rarely achieve.
+    7. Ultrafiltration membranes are a relatively new development; they
+       use polymer film with chemically formed microscopic pores that can
+       be used in place of granular media to filter water effectively
+       without coagulants. The type of membrane media determines how much
+       pressure is needed to drive the water through and what sizes of
+       micro-organisms can be filtered out.
+
+Tertiary treatment
+
+   Disinfection is normally the last step in purifying drinking water.
+   Water is disinfected to destroy any pathogens which passed through the
+   filters. Possible pathogens include viruses, bacteria, including
+   Escherichia coli, Campylobacter and Shigella, and protozoans, including
+   G. lamblia and other Cryptosporidia. In most developed countries,
+   public water supplies are required to maintain a residual disinfecting
+   agent throughout the distribution system, in which water may remain for
+   days before reaching the consumer. Following the introduction of any
+   chemical disinfecting agent, the water is usually held in temporary
+   storage - often called a contact tank or clear well to allow the
+   disinfecting action to complete.
+    1. Chlorine- The most common disinfection method is some form of
+       chlorine or its compounds such as chloramine or chlorine dioxide.
+       Chlorine is a strong oxidant that kills many micro-organisms.
+       Because chlorine is a toxic gas, there is a danger of a release
+       associated with its use. This problem is avoided by the use of
+       sodium hypochlorite, which is a relatively inexpensive solid that
+       releases free chlorine when dissolved in water. Handling the solid,
+       however, requires greater routine human contact through opening
+       bags and pouring than the use of gas cylinders which are more
+       easily automated. Both disinfectants are widely used despite their
+       respective drawbacks. A major drawback to using chlorine gas or
+       sodium hypochlorite is that they react with organic compounds in
+       the water to form potentially harmful levels of the chemical
+       by-products trihalomethanes (THMs) and haloacetic acids, both of
+       which are carcinogenic and regulated by the U.S. Environmental
+       Protection Agency (EPA). The formation of THMs and haloacetic acids
+       is minimised by effective removal of as many organics from the
+       water as possible before disinfection. Although chlorine is
+       effective in killing bacteria, it has limited effectiveness against
+       protozoans that form cysts in water. (Giardia lamblia and
+       Cryptosporidium, both of which are pathogenic).
+    2. Chlorine dioxide is another fast-acting disinfectant. It is,
+       however, rarely used, because it may create excessive amounts of
+       chlorate and chlorite, both of which are regulated to low allowable
+       levels. Chlorine dioxide also poses extreme risks in handling: not
+       only is the gas toxic, but it may spontaneously detonate upon
+       release to the atmosphere in an accident.
+    3. Chloramines are another chlorine-based disinfectant. Although
+       chloramines are not as effective as disinfectants, compared to
+       chlorine gas or sodium hypochlorite, they are less prone to form
+       THMs or haloacetic acids. It is possible to convert chlorine to
+       chloramine by adding ammonia to the water along with the chlorine:
+       The chlorine and ammonia react to form chloramine. Water
+       distribution systems disinfected with chloramines may experience
+       nitrification, wherein ammonia is used a nitrogen source for
+       bacterial growth, with nitrates being generated as a byproduct.
+    4. Ozone (O[3]) is a relatively unstable molecule of oxygen which
+       readily gives up one atom of oxygen providing a powerful oxidising
+       agent which is toxic to most water borne organisms. It is a very
+       strong, broad spectrum disinfectant that is widely used in Europe.
+       It is an effective method to inactivate harmful protozoans that
+       form cysts. It also works well against almost all other pathogens.
+       Ozone is made by passing oxygen through ultraviolet light or a
+       "cold" electrical discharge. To use ozone as a disinfectant, it
+       must be created on site and added to the water by bubble contact.
+       Some of the advantages of ozone include the production of
+       relatively fewer dangerous by-products (in comparison to
+       chlorination) and the lack of taste and odour produced by
+       ozonation. Although fewer by-products are formed by ozonation, it
+       has been discovered that the use of ozone produces a small amount
+       of the suspected carcinogen Bromate. Another one of the main
+       disadvantages of ozone is that it leaves no disinfectant residual
+       in the water. Ozone has been used in drinking water plants since
+       1906 where the first industrial ozonation plant was built in Nice,
+       France. The U.S. Food and Drug Administration has accepted ozone as
+       being safe; and it is applied as an anti-microbiological agent for
+       the treatment, storage, and processing of foods.
+    5. UV radiation is very effective at inactivating cysts, as long as
+       the water has a low level of colour so the UV can pass through
+       without being absorbed. The main drawback to the use of UV
+       radiation is that, like ozone treatment, it leaves no residual
+       disinfectant in the water.
+       Because neither ozone nor UV radiation leaves a residual
+       disinfectant in the water, it is sometimes necessary to add a
+       residual disinfectant after they are used. This is often done
+       through the addition of chloramines, discussed above as a primary
+       disinfectant. When used in this manner, chloramines provide an
+       effective residual disinfectant with very little of the negative
+       aspects of chlorination.
+
+Additional treatment options
+
+    1. Fluoridation -in many areas fluoride is added to water for the
+       purpose of preventing tooth decay. This process is referred to as
+       water fluoridation. Fluoride is usually added after the
+       disinfection process. In the United States, fluoridation is usually
+       accomplished by the addition of dihydrogen hexafluorosilicate,
+       which decomposes in water, yielding fluoride ions.
+    2. Water conditioning: This is a method of reducing the effects of
+       hard water. Hardness salts are deposited in water systems subject
+       to heating because the decomposition of bicarbonate ions creates
+       carbonate ions which crystalise out of the saturated solution of
+       calcium or magnesium carbonate. Water with high concentrations of
+       hardness salts can be treated with soda ash ( sodium carbonate)
+       which precipitates out the excess salts, through the common ion
+       effect, as calcium carbonate of very high purity. The preciptated
+       calcium carbonate is traditionally sold to the manufacturers of
+       toothpaste. Several other methods of industrial and residential
+       water treatment are claimed (without general scientific acceptance)
+       to include the use of magnetic or/and electrical fields reducing
+       the effects of hard water.
+    3. Plumbo-solvency reduction: In areas with naturally acidic waters of
+       low conductivity (i.e surface rainfall in upland mountains of
+       igneous rocks), the water is capable of dissolving lead from any
+       lead pipes that it is carried in. The addition of small quantities
+       of phosphate ion and increasing the pH slightly both assist in
+       greatly reducing plumbo-solvency by creating insoluble lead salts
+       on the inner surfaces of the pipes.
+    4. Radium Removal: Some groundwater sources contain radium, a
+       radioactive chemical element, including many groundwater sources
+       north of the Illinois River in Illinois. Radium can be removed by
+       ion exchange, or by water conditioning. The back flush or sludge
+       that is produced is, however, a low-level radioactive waste.
+    5. Fluoride Removal: Although fluoride is added to water in many
+       areas, some areas of the world have excessive levels of natural
+       fluoride in the source water. Excessive levels can be toxic. One
+       method of reducing fluoride levels is through treatment with
+       activated alumina.
+
+Other water purification techniques
+
+   Other popular methods for purifying water, especially for local private
+   supplies are listed below. In some countries some of these methods are
+   also used for large scale municipal supplies. Particularly important
+   are distillation (de-salination of seawater) and reverse osmosis.
+    1. Boiling: Water is heated hot enough and long enough to inactivate
+       or kill microorganisms that normally live in water at room
+       temperature. Near sea level, a vigorous rolling boil for at least
+       one minute is sufficient. At high altitudes (greater than two
+       kilometers or 5000 feet) three minutes is recommended. US EPA
+       emergency disinfection recomendations In areas where the water is
+       "hard" (that is, containing significant dissolved calcium salts),
+       boiling decomposes the bicarbonate ions, resulting in partial
+       precipitation as calcium carbonate. This is the "fur" that builds
+       up on kettle elements, etc., in hard water areas. With the
+       exception of calcium, boiling does not remove solutes of higher
+       boiling point than water and in fact increases their concentration
+       (due to some water being lost as vapour). Boiling does not leave a
+       residual disinfectant in the water. Therefore, water that has been
+       boiled and then stored for any length of time may have acquired new
+       pathogens.
+    2. Carbon filtering: Charcoal, a form of carbon with a high surface
+       area, absorbs many compounds including some toxic compounds. Water
+       passing through activated charcoal is common in household water
+       filters and fish tanks. Household filters for drinking water
+       sometimes contain silver to release silver ions which have a
+       bactericidal effect.
+    3. Distillation involves boiling the water to produce water vapour.
+       The vapour contacts a cool surface where it condenses as a liquid.
+       Because the solutes are not normally vaporised, they remain in the
+       boiling solution. Even distillation does not completely purify
+       water, because of contaminants with similar boiling points and
+       droplets of unvaporised liquid carried with the steam. However,
+       99.9% pure water can be obtained by distillation. Distillation does
+       not confer any residual disinfectant and the distillation apparatus
+       may be the ideal place to harbour Legionnaires' disease.
+    4. Reverse osmosis: Mechanical pressure is applied to an impure
+       solution to force pure water through a semi-permeable membrane.
+       Reverse osmosis is theoretically the most thorough method of large
+       scale water purification available, although perfect semi-permeable
+       membranes are difficult to create. Unless membranes are
+       well-maintained, algae and other life forms can colonise the
+       membranes.
+    5. Ion exchange: Most common ion exchange systems use a zeolite resin
+       bed to replace unwanted Ca^2+ and Mg^2+ ions with benign (soap
+       friendly) Na^+ or K^+ ions. This is the common water softener.
+    6. Electrodeionization: Water is passed between a positive electrode
+       and a negative electrode. Ion selective membranes allow the
+       positive ions to separate from the water toward the negative
+       electrode and the negative ions toward the positive electrode. High
+       purity deionized water results. The water is usually passed through
+       a reverse osmosis unit first to remove non-ionic organic
+       contaminants.
+
+Portable water purification
+
+   Portable techniques for purifying water are used for hiking, camping
+   etc. or for use in rural areas or emergency situations. Common
+   techniques include boiling, disinfection with tablets or
+   ultra-filtration using a small hand pump.
+
+Water purification for hydrogen production
+
+   For small scale production of hydrogen water purifiers are installed to
+   prevent formation of minerals on the surface of the electrodes and to
+   remove organics and chlorine from utility water. First the water passes
+   through a 20 micrometre interference ( mesh or screen filter) filter to
+   remove sand and dust particles, second, a charcoal filter ( activated
+   carbon) to remove organics and chlorine, third stage, a de-ionizing
+   filter to remove metallic ions. A test can be done before and after the
+   filter for proper functioning on barium, calcium, potassium, magnesium,
+   sodium and silicon.
+
+   Another used method is reverse osmosis.
+   Retrieved from " http://en.wikipedia.org/wiki/Water_purification"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

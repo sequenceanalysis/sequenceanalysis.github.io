@@ -1,0 +1,172 @@
+   #copyright
+
+Gauss's law
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+
+   In physics and mathematical analysis, Gauss's law, developed by Carl
+   Friedrich Gauss, closely related to Gauss's theorem, gives the relation
+   between the electric or gravitational flux flowing out of a closed
+   surface and, respectively, the electric charge or mass enclosed in the
+   surface. Gauss's law can be used in any context where the
+   inverse-square law holds, where electrostatics and Newtonian
+   gravitation are but two examples. It is one of the four equations that
+   underpins electromagnetic theory.
+
+Integral form
+
+   In its integral form, the law states:
+
+          \Phi = \oint_S \vec{E} \cdot \mathrm{d}\vec{A} = {1 \over
+          \varepsilon_o} \int_V \rho\ \mathrm{d}V =
+          \frac{Q_A}{\varepsilon_o}
+
+   where Φ is the electric flux, \vec{E} is the electric field,
+   \mathrm{d}\vec{A} is a differential area on the closed surface S with
+   an outward facing surface normal defining its direction, Q[A] is the
+   charge enclosed by the surface, ρ is the charge density at a point in
+   V, \varepsilon_o is the permittivity of free space and \oint_S is the
+   integral over the surface S enclosing volume V.
+
+   For information and strategy on the application of Gauss's law, see
+   Gaussian surfaces.
+
+Differential form
+
+   In differential form, the equation becomes:
+
+          \vec{\nabla} \cdot \vec{D} = \rho_{\mathrm{free}}
+
+   where \vec{\nabla} is the del operator, representing divergence, D is
+   the electric displacement field (in units of C/m²), and ρ[free] is the
+   free electric charge density (in units of C/m³), not including the
+   dipole charges bound in a material. The differential form derives in
+   part from Gauss's divergence theorem.
+
+   And for linear materials, the equation becomes:
+
+          \vec{\nabla} \cdot \varepsilon \vec{E} = \rho_{\mathrm{free}}
+
+   where \varepsilon is the electric permittivity.
+
+Coulomb's law
+
+   In the special case of a spherical surface with a central charge, the
+   electric field is perpendicular to the surface, with the same magnitude
+   at all points of it, giving the simpler expression:
+
+          E=\frac{Q}{4\pi\varepsilon_0r^{2}}
+
+   where E is the electric field strength at radius r, Q is the enclosed
+   charge, and ε[0] is the permitivity of free space. Thus the familiar
+   inverse-square law dependence of the electric field in Coulomb's law
+   follows from Gauss's law.
+
+   Gauss's law can be used to demonstrate that there is no electric field
+   inside a Faraday cage with no electric charges. Gauss's law is the
+   electrostatic equivalent of Ampère's law, which deals with magnetism.
+   Both equations were later integrated into Maxwell's equations.
+
+   It was formulated by Carl Friedrich Gauss in 1835, but was not
+   published until 1867. Because of the mathematical similarity, Gauss's
+   law has application for other physical quantities governed by an
+   inverse-square law such as gravitation or the intensity of radiation.
+   See also divergence theorem.
+
+Gravitational analogue
+
+   Since both gravity and electromagnetism have strength that propagates
+   relative to the squared distance between two objects, we can relate the
+   two using Gauss's Law by examining their respective vector fields
+   \vec{g} and \vec{E} , where
+
+          \vec{g} = -G\frac{m}{\vec{r}^2}\hat{r},
+
+   and
+
+          \vec{E} = \frac{1}{4 \pi \varepsilon_{0}}
+          \frac{q}{\vec{r}^2}\hat{r},
+
+   where G is the gravitational constant, m is the mass of the point
+   source, r is the radius (distance) between the point source and another
+   object, \varepsilon_{0} is the permittivity of free space, and q is the
+   charge of the electric point source.
+
+   In the same way that we evaluate the surface integral for
+   electromagnetism to get the result \frac{q}{\varepsilon_{0}} , we can
+   choose a proper Gaussian surface to find an answer for the
+   gravitational flux. For a point mass centered at the coordinate system
+   origin, the most logical choice for our Gaussian surface is a sphere of
+   radius r centered at the origin.
+
+   We start with the integral form of Gauss's law:
+
+          \Phi_{g} = \oint_S \vec{g} \cdot \mathrm{d}\vec{A}.
+
+   An infinitesimal area element is just the area of the infinitesimal
+   solid angle, which is defined as
+
+          \mathrm{d}\vec{A} = r^{2} \mathrm{d}\Omega \hat{r}.
+
+   Our Gaussian Surface is wisely chosen since the vector normal to the
+   surface is radial from the origin. With
+
+          \Phi_{g} = \oint_S g(r) \hat{r} \cdot \hat{r} r^{2}
+          \mathrm{d}\Omega,
+
+   we see the inner product of the two radial vectors is unity and that
+   both the magnitude of our field, \vec{g} , and the square of the
+   distance between the surface and the point, r^2, remain constant over
+   every element of the surface. This gives us the integral
+
+          \Phi_{g} = g(r) r^{2} \oint_S \mathrm{d}\Omega.
+
+   The remaining surface integral is just the surface area of our sphere
+   (4πr^2). If we combine this with our gravitational field equation from
+   above, we have an expression for the gravitational flux of a point
+   mass.
+
+          \Phi_{g} = -\frac{Gm}{r^2} 4 \pi r^{2} = -4\pi Gm
+
+   It is interesting to note that the gravitational flux, like its
+   electromagnetic counterpart, does not depend on the radius of the
+   sphere.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

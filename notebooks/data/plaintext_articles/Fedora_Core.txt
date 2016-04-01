@@ -1,0 +1,335 @@
+   #copyright
+
+Fedora Core
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: Fedora Core
+
+   Fedora Core 6 running GNOME
+   Website:                fedoraproject.org
+   Company/
+   developer:              Fedora Project
+   OS family:              Linux
+   Source model:           Open source
+   Latest stable release:  Core 6 / October 24, 2006
+   Update method:          Yum
+   Package manager:        RPM Package Manager
+   Supported platforms:    i386, AMD64, PowerPC
+   Kernel type:            Monolithic kernel
+   Default user interface: GNOME
+   License:                Various
+   Working state:          Current
+
+   Fedora Core is an RPM-based Linux distribution, developed by the
+   community-supported Fedora Project and sponsored by Red Hat. The name
+   derives from Red Hat's characteristic fedora used in its "Shadowman"
+   logo. However, the Fedora community project had existed as a volunteer
+   group providing extra software for the Red Hat Linux distribution
+   before Red Hat got involved as a direct sponsor.
+
+   Fedora aims to be a complete, general-purpose operating system
+   containing only free and open source software . Fedora is designed to
+   be easily installed and configured with a simple graphical installer
+   and the 'system-config' suite of configuration tools. The installation
+   system includes an option to use GNU GRUB, a boot loader, facilitating
+   the use of Fedora in conjunction with another operating system.
+   Packages and their dependencies can be easily downloaded and installed
+   with the yum utility. New releases of Fedora come out every six to
+   eight months. Fedora ships with GNOME and KDE, and spans 5 CDs or a
+   single DVD (although only the first two CDs are required). Network
+   installations are available from a single small 6 MB boot.iso image.
+   The installer supports installation via HTTP, FTP, and NFS, and remote
+   installation progress can be monitored via VNC.
+
+   The name Fedora Core distinguishes the main Fedora packages from those
+   of the Fedora Extras project, which provides add-ons to Fedora Core.
+
+   Fedora was derived from the original Red Hat Linux distribution. The
+   project envisages that conventional Linux home users will use Fedora
+   Core, and intends that it replace the consumer distributions of Red Hat
+   Linux. Support for Fedora comes from the greater community (although
+   Red Hat staff work on it, Red Hat does not provide official support for
+   Fedora).
+
+   Fedora is sometimes called Fedora Linux and Fedora Core Linux, though
+   this is not actually the official name.
+
+Features
+
+     * Fedora Core uses GNOME as its default desktop environment. The
+       Fedora developers' attention to usability improvements in the GNOME
+       codebase has meant that they have on occasions backported
+       improvements such as the no-focus-steal feature in GNOME, for
+       Fedora Core 4.
+     * Fedora Core has many GUI configuration tools (written in PyGTK) for
+       things such as firewall, printing, and user management.
+     * Fedora Core and Fedora Extras combined has over 7000 packages.
+       There is a list of major packages.
+
+Versions
+
+   Compiz- AIGLX support in Fedora Core 6
+   Enlarge
+   Compiz- AIGLX support in Fedora Core 6
+
+Stable releases
+
+   On October 24, 2006, The Fedora development Team released Fedora Core 6
+   (FC6, release name Zod)
+
+   CAPTION: Fedora Core
+
+   Version    Name          Date
+   6       Zod        October 24, 2006
+   5       Bordeaux   March 20, 2006
+   4       Stentz     June 13, 2005
+   3       Heidelberg November 8, 2004
+   2       Tettnang   May 18, 2004
+   1       Yarrow     November 6, 2003
+
+Test releases
+
+   As a Fedora development cycle progresses, a series of test releases are
+   delivered, giving users a preview of what is coming, and allowing for
+   testing and feedback. Fedora Core 6 included three such test releases.
+
+Development releases
+
+   Development versions of distributions such as Red Hat are often
+   referred to as the "bleeding edge" . In Red Hat and Fedora, this refers
+   to the repositories known by their codename Rawhide. New packages that
+   end up in Fedora (and later, Red Hat Enterprise Linux) are first added
+   to Fedora development tree. Fedora development is very rapid and may
+   break at any time, but some developers and testers do use it as their
+   main distribution.
+
+Maintained by Fedora Legacy
+
+   The Fedora Legacy project is a community project that handles releases
+   after Fedora Core team has stopped maintaining updates for those who do
+   not wish to or cannot upgrade.
+
+   Fedora Core 4 (FC4, release name Stentz) was released on June 13, 2005
+   for the i386, AMD64, and PowerPC architectures, and was transferred to
+   Fedora Legacy on August 7, 2006. It included GNOME 2.10 and KDE 3.4,
+   GCC 4.0, a gcj-compiled version of the Eclipse IDE, and version 2.6.11
+   of the Linux kernel.
+   Fedora Core 3
+   Enlarge
+   Fedora Core 3
+
+   Fedora Core 3 (FC3, release name Heidelberg) was released on November
+   8, 2004 for the i386 and AMD64 architectures, and was transferred to
+   Fedora Legacy on January 16, 2006. It included GNOME 2.8 and KDE 3.3.0,
+   X.Org Server 6.8.1, the Xen virtualizer, and version 2.6.9 of the Linux
+   kernel.
+
+Discontinued
+
+   Fedora Core 2 (FC2, release name Tettnang) reached release on May 18,
+   2004, and was transferred to Fedora Legacy on April 11, 2005. It
+   included version 2.6 of the Linux kernel, GNOME 2.6, KDE 3.2.1, and
+   SELinux. This version also replaced XFree86 with the X.Org Server. This
+   release occasioned many complaints because of its problems with
+   installation while dual-booting with Windows XP (actually caused by an
+   issue with the 2.6 kernel's handling of partitions).
+
+   Fedora Core 1 (FC1, internal codename Cambridge, release name Yarrow)
+   was released on November 6, 2003, and transferred to Fedora Legacy on
+   November 20, 2004. Improvements over Red Hat Linux 9 included automated
+   updates with yum, improved laptop support with ACPI and cpufreq, and
+   prelinking for faster program start time. An AMD64 version appeared in
+   March 2004.
+
+   Fedora Legacy support for both Fedora Core 1 and 2 ended on August 7,
+   2006, on the day that legacy support for Fedora Core 4 began.
+
+Repositories of extra software
+
+   Fedora Core only includes a core set of packages. For downloading and
+   installing programs or codecs not distributed with Core, there are
+   several repositories available. Packages are generally compatible
+   between third-party repositories, though this has not always been the
+   case. There are also occasional overlaps or packaging errors that cause
+   one package to negatively affect packages distributed from different
+   repositories.
+
+Official repositories
+
+   Fedora Core, Fedora Extras and Fedora Legacy are official repositories
+   in this project. Fedora Core is maintained by Red Hat. Fedora Extras is
+   maintained by a group of volunteers and affiliated with the official
+   Fedora Project. Fedora Extras is currently included in the base
+   distribution as a default repository and no extra configuration is
+   required to enable it. Fedora Legacy repository is also included in
+   Fedora Core 5 and above versions but it is not enabled by default.
+
+Unofficial repositories
+
+   These repositories are designed to be compatible with Fedora Core
+   although they may not be compatible with each other. Some of the
+   repositories have discontinued active support for earlier versions of
+   Fedora Core but keep the repositories around for the convenience of
+   users with previous versions.
+     * Livna, a third-party repository maintained by a group of packagers,
+       supporting Fedora Core 1 through 6.
+
+          (Must use with Extras. Not compatible with RPMForge
+          repositories.)
+
+     * RPMforge, containing the packages of Matthias Saou, Dag Wieers and
+       Dries that were previously available in three different
+       repositories, supporting Fedora Core 1 through 5. RPMforge is
+       compatible with Fedora Extras, similar to Livna.
+          + FreshRPMS, maintained by Matthias Saou, supporting Fedora Core
+            1 through 6
+          + Dag, maintained by Dag Wieers, supporting Fedora Core 1
+            through 3
+          + Dries, maintained by Dries Verachtert, supporting Fedora Core
+            1 through 6
+          + PlanetCCRMA, maintained by Fernando Lopez-Lezcano, supporting
+            Fedora Core 1 through 5
+     * kde-redhat, Excellent source for KDE support in Fedora Core
+       maintained by a group of packagers that support Fedora Core. Has
+       updated KDE desktop RPMS, general KDE applications such as
+       Bluetooth support.
+     * The Grey Sector, containing mostly MPlayer related packages and
+       binary packaged codecs (which have some legal issues). The
+       repository is maintained by MPlayer developer.
+     * fedora-xgl, containing packages required to enable Xgl on Fedora.
+     * dribble, containing packages with a focus on fun software
+       (multimedia, games, emulators). It is recommended that this
+       repository be used with Livna.
+     * ATrpms, maintained by Axel Thimm and supporting Fedora Core 1
+       through 6.
+
+          + Updates base packages ahead of Core. Some administrators
+            consider it a bad idea to update base packages outside of
+            their official channel.
+          + ATrpms is also used extensively by Fedora Myth(TV)ology - a
+            popular how-to resource for installing MythTV on Fedora Core,
+            maintained by Jarod Wilson.
+
+Legal status
+
+   Fedora Core, Fedora Extras and Fedora Legacy projects follow the same
+   packaging guidelines in the Fedora project, and they all only maintain
+   packages that are Free, open source software and legally distributable
+   anywhere in the world. Other repositories may have different policies.
+   For example, the Livna project maintains packages that may have legal
+   issues within the United States or can be downloaded only by the end
+   user.
+
+   Some repositories also maintain "source-only" packages that require the
+   user to download pre-built binaries that may not be available to the
+   public. The package script then unpacks and repacks the binaries in a
+   format more suitable for deployment on RPM-based systems.
+
+Software update utilities
+
+   The main tool to install software from repositories is the command yum.
+   A graphical tool called pirut (available in the upper menu bar with the
+   name "Package Manager") is, together with the update program pup
+   ("Package Update"), part of the standard installation since Fedora Core
+   5. Yumex and Synaptic are two graphical alternatives preferred by some
+   reviewers, and are available in Extras. Kyum is also a nice graphical
+   frontend for those who use KDE.
+
+   Software updates from the installation CDROM are not possible directly
+   with yum or pup in FC5. Pup will die at startup if you are not
+   connected to the network. A workaround is possible defining in the yum
+   configuration file a new installation source that points to the local
+   mounted cdrom (file:///media/cdrom). Using this functionality should be
+   also possible to dump a repository onto a DVD and actualize the
+   computer from there.
+
+   Up until Fedora Core 4, maintainers of some of the extra repositories
+   advocated the use of apt-rpm for update management - being written in
+   C, it uses fewer CPU cycles and is therefore suitable for older
+   computers, too. For Fedora Core 5 a new version of apt is included in
+   extras which is capable of using native yum metadata and is multi-lib
+   capable. Refer to http://fedoraproject.org/wiki/Tools/Apt for more
+   information.
+
+   Another useful tool to work with repositories is Fedora Helper . It
+   installs and configures the "missing codecs" - MP3 support, for
+   example. It uses the livna.org repository. Another tool that helps to
+   mix repositories is Fedora Frog.
+
+Off-line repositories
+
+   If a machine needs to be updated that is not connected to the network,
+   a repository can be created and updated from there. To create such a
+   portable repository do :
+     * make the directories ./yum, ./yum/base and ./yum/updates. (if you
+       want your local apache to serve as repository of your intranet, do
+       it inside /var/www/html)
+     * copy all RPMs of your distribution inside ./base
+     * create the headers of the packets with the command createrepo
+       ./base (use /var/www/html/yum/base if you did set it for Apache)
+     * Download the updates. To do that, look for a real mirror (there is
+       a list of them here ) and rsync with it to pick up changes (they
+       will be stored in the ./updates repository). To rsync use the
+       command rsync -avrt rsync://repository --exclude=debug/
+       /your-path/yum/updates
+
+Fedora Core and Red Hat Enterprise Linux
+
+   Fedora came about as a result of a new business strategy which Red Hat
+   implemented late in 2003 - Red Hat now positions Red Hat Enterprise
+   Linux as a business-oriented Linux distribution, and all official
+   support is for that distribution. Red Hat Enterprise Linux (RHEL)
+   releases are branched off Fedora Core, which has led some critics to
+   observe that Fedora Core users are in effect beta testers for RHEL.
+
+   See the Red Hat Enterprise Linux page for the versions of Fedora Core
+   and their corresponding Red Hat Enterprise Linux versions.
+
+Trademark dispute
+
+   Red Hat has been tangled in disputes with the creators of the Fedora
+   repository management software over the name, on which Red Hat has
+   attempted to secure trademark rights.
+
+Trivia
+
+     * Linux's website is powered by Fedora Core.
+     * The servers that run Wikimedia are mostly powered by Fedora Core.
+     * Sony's PlayStation 3 supports Fedora (Fedora is the only OS besides
+       Yellow Dog Linux to work on the PS3 yet.)
+
+Distributions based on Fedora Core
+
+     * Berry Linux—A medium-sized Fedora Core-based distribution that
+       provides support in Japanese and English.
+     * Fox Linux—A Fedora Core-based distribution made in Italy, designed
+       for basic home computing tasks such as browsing the Web, writing
+       and printing documents, using multimedia and burning discs.
+     * Linux Mobile System—A Fedora Core-based distribution designed to
+       boot from USB Mass Storage devices, such as keydrives.
+     * LinuxTLE, a Thai distribution produced by NECTEC
+     * RAQTweak's RackStar Appliance Server
+     * Yellow Dog Linux—A Fedora Core-based distribution for the PowerPC
+       platform.
+     * Aurora SPARC Linux—A Fedora Core-based distribution for the SPARC
+       platform.
+     * YOPER
+
+   Fedora's wiki also has a list of derived distributions.
+
+Commercial and community distributions by the same vendor
+
+   Red Hat's release of Fedora Core started a popular trend amongst
+   commercial Linux distribution vendors, that of creating a community
+   distribution closely related to a commercial distribution, with the
+   community distribution acting as a open development lab leading to the
+   commercial distribution.
+
+   See Commercial and community Linux distributions by the same vendor.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Fedora_Core"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

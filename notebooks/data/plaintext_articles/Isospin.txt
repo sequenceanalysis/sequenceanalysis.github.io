@@ -1,0 +1,173 @@
+   #copyright
+
+Isospin
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics, and specifically, particle physics, isospin (isotopic spin,
+   isobaric spin) is a symmetry of the strong interaction as it applies to
+   the interactions of the neutron and proton. Isospin symmetry is a
+   subset of the flavour symmetry seen more broadly in the interactions of
+   baryons and mesons. Isospin symmetry remains an important concept in
+   particle physics, and a close examination of this symmetry historically
+   led directly to the discovery and understanding of quarks and of the
+   development of Yang-Mills theory.
+   Flavour in particle physics
+   Flavour quantum numbers
+     * Lepton number: L
+     * Baryon number: B
+     * Electric charge: Q
+     * Weak hypercharge: Y[W]
+     * Weak isospin: T[z]
+     * Isospin: I, I[z]
+     * Hypercharge: Y
+     * Strangeness: S
+     * Charm: C
+     * Bottomness: B'
+     * Topness: T
+     __________________________________________________________________
+
+     * Y=B+S+C+B'+T
+     * Q=I[z]+Y/2
+     * Q=T[z]+Y[W]/2
+     * B−L
+     __________________________________________________________________
+
+   Related topics:
+     * CPT symmetry
+     * CKM matrix
+     * CP symmetry
+     * Chirality
+
+Symmetry
+
+   Isospin was introduced by Werner Heisenberg to explain several related
+   symmetries:
+     * The mass of the neutron and the proton are almost identical: they
+       are nearly degenerate, and are thus often called nucleons. Although
+       the proton has a positive charge, and the neutron is neutral, they
+       are almost identical in all other respects.
+     * The strength of the strong interaction between any pair of nucleons
+       is the same, independent of whether they are interacting as protons
+       or as neutrons.
+     * The mass of the pions which mediate the strong interaction between
+       the nucleons are the same. In particular, the mass of the
+       positively-charged pion is identical to that of the
+       negatively-charged pion, and both have nearly the same mass as the
+       neutral pion.
+
+   In quantum mechanics, when a Hamiltonian has a symmetry, that symmetry
+   manifests itself through a set of states that have (almost) the same
+   energy; that is, the states are degenerate. In particle physics, mass
+   is the same thing as energy (since E=mc²), and so the near
+   mass-degeneracy of the neutron and proton points at a symmetry of the
+   Hamiltonian describing the strong interactions. The neutron does have a
+   slightly higher mass: the mass degeneracy is not exact. The proton is
+   charged, the neutron is not. However, here, as the case would be in
+   general for quantum mechanics, the appearance of a symmetry can be
+   imperfect, as it is perturbed by other forces, which give rise to
+   slight differences between states.
+
+SU(2)
+
+   Heisenberg's contribution was to note that the mathematical formulation
+   of this symmetry was in certain respects similar to the mathematical
+   formulation of spin, from whence the name "isospin" derives. To be
+   precise, the isospin symmetry is given by the invariance of the
+   Hamiltonian of the strong interactions under the action of the Lie
+   group SU(2). The neutron and the proton are assigned to the doublet
+   (the spin-1/2 or fundamental representation) of SU(2). The pions are
+   assigned to the triplet (the spin-1 or adjoint representation) of
+   SU(2).
+
+   Just as is the case for regular spin, isospin is described by two
+   numbers, I, the total isospin, and I[3], the component of the spin
+   vector in a given direction. The proton and neutron both have I=1/2, as
+   they belong to the doublet. The proton has I[3]=+1/2 or 'isospin-up'
+   and the neutron has I[3]=−1/2 or 'isospin-down'. The pions, belonging
+   to the triplet, have I=1, and π^+, π^0 and π^− have, respectively,
+   I[3]=+1, 0, −1.
+
+Yang-Mills
+
+   Isospin symmetry was central to the original formulation of Yang-Mills
+   theory. The pions were proposed to be the SU(2) gauge bosons of this
+   theory. While it is now understood that isospin symmetry is not a true
+   gauge symmetry, this initial confusion was historically important for
+   the development of the overall ideas of gauge invariance.
+
+Relationship to flavour
+
+   The discovery and subsequent close analysis of additional particles,
+   both mesons and baryons, made it clear that the concept of isospin
+   symmetry could be broadened to an even larger symmetry group, now
+   called flavour symmetry. Once the kaons and their property of
+   strangeness became better understood, it started to become clear that
+   these, too, seemed to be a part of an enlarged, more general symmetry
+   that contained isospin as a subset. The larger symmetry was named the
+   Eight-fold Way by Murray Gell-Mann, and was promptly recognized to
+   correspond to the adjoint representation of SU(3). This immediately led
+   to Gell-Mann's proposal of the existence of quarks. The quarks would
+   belong to the fundamental representation of the flavour SU(3) symmetry,
+   and it is from the fundamental rep and its conjugate (the quarks and
+   the anti-quarks) that the higher representation (the mesons and
+   baryons) could be assembled. In short, the theory of Lie groups and Lie
+   algebras modelled the physical reality of particles in the most
+   exceptional and unexpected way.
+
+   The discovery of the J/ψ meson and charm led to the expansion of
+   flavour symmetry to SU(4), and the discovery of the upsilon meson (and
+   the corresponding top and bottom quarks) led to the current SU(6)
+   flavour symmetry. Isospin symmetry is just one little corner of this
+   broader symmetry. There are strong theoretical reasons, confirmed by
+   experiment, that lead one to believe that things stop there, and that
+   there are no further quarks to be found.
+
+Isospin symmetry of quarks
+
+   In the framework of the Standard Model, the isospin symmetry of the
+   proton and neutron are reinterpreted as the isospin symmetry of the up
+   and down quarks. Technically, the nucleon doublet is seen to be the
+   product of a single quark (thus, a doublet) and a pair of quarks in a
+   singlet state. That is, the proton wave function, in terms of quark
+   flavour eigenstates, is described by
+
+          \vert p\rangle = \vert u\rangle \frac{1}{\sqrt{2}} \left( \vert
+          ud\rangle + \vert du\rangle \right) + \mbox {perms.}
+
+   and the neutron by
+
+          \vert n\rangle = \vert d\rangle \frac{1}{\sqrt{2}} \left( \vert
+          ud\rangle + \vert du\rangle \right) + \mbox {perms.}
+
+   where perms stands for permutations. Here, \vert u \rangle is the up
+   quark flavour eigenstate, and \vert d \rangle is the down quark flavour
+   eigenstate. Although the above is the technically correct way of
+   denoting a proton and neutron in terms of quark flavour eigenstates,
+   this is almost always glossed over, and these are more simply referred
+   to as uud and udd.
+
+   Similarly, the isopsin symmetry of the pions are given by:
+
+          \vert \pi^+\rangle = \vert u\overline {d}\rangle
+          \vert \pi^0\rangle = \frac{1}{\sqrt{2}} \left(\vert u\overline
+          {u}\rangle - \vert d \overline{d} \rangle \right)
+          \vert \pi^-\rangle = \vert d\overline {u}\rangle
+
+   The overline denotes, as usual, the complex conjugate representation of
+   SU(2), or, equivalently, the antiquark.
+
+Weak isospin
+
+   The quarks also feel the weak interaction; however, the mass
+   eigenstates of the strong interaction are not exactly the same as the
+   eigenstates of the weak interaction. Thus, while there are still a pair
+   of quarks u and d that take part in the weak interaction, they are not
+   quite the same as the strong u and d quarks. The difference is given by
+   a rotation, whose magnitude is called the Cabibbo angle or more
+   generally, the CKM matrix.
+   Retrieved from " http://en.wikipedia.org/wiki/Isospin"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

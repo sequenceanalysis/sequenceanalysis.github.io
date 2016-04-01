@@ -1,0 +1,380 @@
+   #copyright
+
+David Hilbert
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematicians
+
+   CAPTION: David Hilbert
+
+   David Hilbert (1912)
+   David Hilbert (1912)
+         Born        January 23, 1862
+                     Wehlau, East Prussia
+         Died        February 14, 1943
+                     Göttingen, Germany
+       Residence     Germany
+      Nationality    German
+         Field       Mathematician
+      Institution    University of Königsberg
+                     Göttingen University
+      Alma Mater     University of Königsberg
+   Doctoral Advisor  Ferdinand von Lindemann
+   Doctoral Students Otto Blumenthal
+                     Richard Courant
+                     Max Dehn
+                     Erich Hecke
+                     Hellmuth Kneser
+                     Robert König
+                     Erhard Schmidt
+                     Hugo Steinhaus
+                     Emanuel Lasker
+                     Hermann Weyl
+                     Ernst Zermelo
+       Known for     Hilbert's basis theorem
+                     Hilbert's axioms
+                     Hilbert's problems
+                     Hilbert's program
+                     Einstein-Hilbert action
+                     Hilbert space
+
+   David Hilbert ( January 23, 1862, Wehlau, East Prussia – February 14,
+   1943, Göttingen, Germany) was a German mathematician, recognized as one
+   of the most influential and universal mathematicians of the 19th and
+   early 20th centuries. He invented or developed a broad range of
+   fundamental ideas, in invariant theory, the axiomatization of geometry,
+   and with the notion of Hilbert space, one of the foundations of
+   functional analysis.
+
+   He adopted and warmly defended Cantor's set theory and transfinite
+   numbers. A famous example of his leadership in mathematics is his 1900
+   presentation of a collection of problems that set the course for much
+   of the mathematical research of the 20th century.
+
+   Hilbert and his students supplied significant portions of the
+   mathematical infrastructure required for quantum mechanics and general
+   relativity. He is also known as one of the founders of proof theory,
+   mathematical logic and the distinction between mathematics and
+   metamathematics.
+
+Life
+
+   Hilbert was born in Wehlau, near Königsberg, East Prussia (now
+   Znamensk, near Kaliningrad, Russia). He graduated from the lyceum of
+   his native city and registered at the University of Königsberg. He
+   obtained his doctorate in 1885, with a dissertation, written under
+   Ferdinand von Lindemann, titled Über invariante Eigenschaften
+   specieller binärer Formen, insbesondere der Kugelfunctionen ("On the
+   invariant properties of special binary forms, in particular the
+   circular functions"). Hermann Minkowski was also a doctoral candidate
+   at the same university and time, and he and Hilbert became close
+   friends, the two exercising a reciprocal influence over each other at
+   various times in their scientific careers.
+
+   Hilbert remained at the University of Königsberg as a professor from
+   1886 to 1895, when, as a result of intervention on his behalf by Felix
+   Klein he obtained the position of Chairman of Mathematics at the
+   University of Göttingen, at that time the best research centre for
+   mathematics in the world and where he remained for the rest of his
+   life.
+
+   In 1892, he married Käthe Jerosch (1864-1945) and had one child Franz
+   Hilbert (1893-1969).
+
+The finiteness theorem
+
+   Hilbert's first work on invariant functions led him to the
+   demonstration in 1888 of his famous finiteness theorem. Twenty years
+   earlier, Paul Gordan had demonstrated the theorem of the finiteness of
+   generators for binary forms using a complex computational approach. The
+   attempts to generalize his method to functions with more than two
+   variables failed because of the enormous difficulty of the calculations
+   involved. Hilbert realized that it was necessary to take a completely
+   different path. As a result, he demonstrated Hilbert's basis theorem:
+   showing the existence of a finite set of generators, for the invariants
+   of quantics in any number of variables, but in an abstract form. That
+   is, while demonstrating the existence of such a set, it was not
+   algorithmic but an existence theorem.
+
+   Hilbert sent his results to the Mathematische Annalen. Gordan, the
+   house expert on the theory of invariants for the Mathematische Annalen,
+   was not able to appreciate the revolutionary nature of Hilbert's
+   theorem and rejected the article, criticizing the exposition because it
+   was insufficiently comprehensive. His comment was:
+
+          This is Theology, not Mathematics!
+
+   Klein, on the other hand, recognized the importance of the work, and
+   guaranteed that it would be published without any alterations.
+   Encouraged by Klein and by the comments of Gordan, Hilbert in a second
+   article extended his method, providing estimations on the maximum
+   degree of the minimum set of generators, and he sent it once more to
+   the Annalen. After having read the manuscript, Klein wrote to him,
+   saying:
+
+          Without doubt this is the most important work on general algebra
+          that the Annalen has ever published.
+
+   Later, after the usefulness of Hilbert's method was universally
+   recognized, Gordan himself would say:
+
+          I must admit that even theology has its merits.
+
+Axiomatization of geometry
+
+          See supplement, Hilbert's axioms.
+
+   The text Grundlagen der Geometrie (tr.: Foundations of Geometry)
+   published by Hilbert in 1899 substitutes a formal set, comprised of 21
+   axioms, for the traditional axioms of Euclid. They avoid weaknesses
+   identified in those of Euclid, whose works at the time were still used
+   textbook-fashion. Independently and contemporaneously, a 19-year-old
+   American student named Robert Lee Moore published an equivalent set of
+   axioms. Some of the axioms coincide, while some of the axioms in
+   Moore's system are theorems in Hilbert's and vice-versa.
+
+   Hilbert's approach signalled the shift to the modern axiomatic method.
+   Axioms are not taken as self-evident truths. Geometry may treat things,
+   about which we have powerful intuitions, but it is not necessary to
+   assign any explicit meaning to the undefined concepts. The elements,
+   such as point, line, plane, and others, could be substituted, as
+   Hilbert says, by tables, chairs, glasses of beer and other such
+   objects. It is their defined relationships that are discussed.
+
+   Hilbert first enumerates the undefined concepts: point, line, plane,
+   lying on (a relation between points and planes), betweenness,
+   congruence of pairs of points, and congruence of angles. The axioms
+   unify both the plane geometry and solid geometry of Euclid in a single
+   system.
+
+The 23 Problems
+
+   He put forth a most influential list of 23 unsolved problems at the
+   International Congress of Mathematicians in Paris in 1900. This is
+   generally reckoned the most successful and deeply considered
+   compilation of open problems ever to be produced by an individual
+   mathematician.
+
+   After re-working the foundations of classical geometry, Hilbert could
+   have extrapolated to the rest of mathematics. His approach differed,
+   however, from the later 'foundationalist' Russell-Whitehead or
+   'encyclopedist' Nicolas Bourbaki, and from his contemporary Giuseppe
+   Peano. The mathematical community as a whole could enlist in problems,
+   which he had identified as crucial aspects of the areas of mathematics
+   he took to be key.
+
+   The problem set was launched as a talk "The Problems of Mathematics"
+   presented during the course of the Second International Congress of
+   Mathematicians held in Paris. Here is the introduction of the speech
+   that Hilbert gave:
+
+          Who among us would not be happy to lift the veil behind which is
+          hidden the future; to gaze at the coming developments of our
+          science and at the secrets of its development in the centuries
+          to come? What will be the ends toward which the spirit of future
+          generations of mathematicians will tend? What methods, what new
+          facts will the new century reveal in the vast and rich field of
+          mathematical thought?
+
+   He presented fewer than half the problems at the Congress, which were
+   published in the acts of the Congress. In a subsequent publication, he
+   extended the panorama, and arrived at the formulation of the
+   now-canonical 23 Problems of Hilbert. The full text is important, since
+   the exegesis of the questions still can be a matter of inevitable
+   debate, whenever it is asked how many have been solved.
+
+   Some of these were solved within a short time. Others have been
+   discussed throughout the 20th century, with a few now taken to be
+   unsuitably open-ended to come to closure. Some even continue to this
+   day to remain a challenge for mathematicians.
+
+Formalism
+
+   In an account that had become standard by the mid-century, Hilbert's
+   problem set was also a kind of manifesto, that opened the way for the
+   development of the formalist school, one of three major schools of
+   mathematics of the 20th century. According to the formalist,
+   mathematics is a game devoid of meaning in which one plays with symbols
+   devoid of meaning according to formal rules which are agreed upon in
+   advance. It is therefore an autonomous activity of thought. There is,
+   however, room to doubt whether Hilbert's own views were simplistically
+   formalist in this sense.
+
+Hilbert's program
+
+   In 1920 he proposed explicitly a research project (in metamathematics,
+   as it was then termed) that became known as Hilbert's program. He
+   wanted mathematics to be formulated on a solid and complete logical
+   foundation. He believed that in principle this could be done, by
+   showing that:
+    1. all of mathematics follows from a correctly-chosen finite system of
+       axioms; and
+    2. that some such axiom system is provably consistent.
+
+   He seems to have had both technical and philosophical reasons for
+   formulating this proposal. It affirmed his dislike of what had become
+   known as the ignorabimus, still an active issue in his time in German
+   thought, and traced back in that formulation to Emil du Bois-Reymond.
+
+   This program is still recognizable in the most popular philosophy of
+   mathematics, where it is usually called formalism. For example, the
+   Bourbaki group adopted a watered-down and selective version of it as
+   adequate to the requirements of their twin projects of (a) writing
+   encyclopedic foundational works, and (b) supporting the axiomatic
+   method as a research tool. This approach has been successful and
+   influential in relation with Hilbert's work in algebra and functional
+   analysis, but has failed to engage in the same way with his interests
+   in physics and logic.
+
+Gödel's work
+
+   Hilbert and the talented mathematicians who worked with him in his
+   enterprise were committed to the project. His attempt to support
+   axiomatized mathematics with definitive principles, which could banish
+   theoretical uncertainties, was however to end in failure.
+
+   Gödel demonstrated that any non-contradictory formal system, which was
+   comprehensive enough to include at least arithmetic, cannot demonstrate
+   its completeness by way of its own axioms. In 1931 his incompleteness
+   theorem showed that Hilbert's grand plan was impossible as stated. The
+   second point cannot in any reasonable way be combined with the first
+   point, as long as the axiom system is genuinely finitary.
+
+   Nevertheless, the incompleteness theorem says nothing with regard to
+   the demonstration by way of a different formal system of the
+   completeness of mathematics. The subsequent achievements of proof
+   theory at the very least clarified consistency as it relates to
+   theories of central concern to mathematicians. Hilbert's work had
+   started logic on this course of clarification; the need to understand
+   Gödel's work then led to the development of recursion theory and then
+   mathematical logic as an autonomous discipline in the decade 1930-1940.
+   The basis for later theoretical computer science, in Alonzo Church and
+   Alan Turing also grew directly out of this 'debate'.
+
+The Göttingen school
+
+   Among the students of Hilbert, there were Hermann Weyl, the champion of
+   chess Emanuel Lasker, Ernst Zermelo, and Carl Gustav Hempel. John von
+   Neumann was his assistant. At the University of Göttingen, Hilbert was
+   surrounded by a social circle of some of the most important
+   mathematicians of the 20th century, such as Emmy Noether and Alonzo
+   Church.
+
+Functional analysis
+
+   Around 1909, Hilbert dedicated himself to the study of differential and
+   integral equations; his work had direct consequences for important
+   parts of modern functional analysis. In order to carry out these
+   studies, Hilbert introduced the concept of an infinite dimensional
+   Euclidean space, later called Hilbert space. His work in this part of
+   analysis provided the basis for important contributions to the
+   mathematics of physics in the next two decades, though from an
+   unanticipated direction. Later on, Stefan Banach amplified the concept,
+   defining Banach spaces. Hilbert space is the most important single idea
+   in the area of functional analysis that grew up around it during the
+   20th century.
+
+Physics
+
+   Until 1912, Hilbert was almost exclusively a "pure" mathematician. When
+   planning a visit from Bonn, where he was immersed in studying physics,
+   his fellow mathematician and friend Hermann Minkowski joked he had to
+   spend 10 days in quarantine before being able to visit Hilbert. In
+   fact, Minkowski seems responsible for most of Hilbert's physics
+   investigations prior to 1912, including their joint seminar in the
+   subject in 1905.
+
+   In 1912, three years after his friend's death, Hilbert turned his focus
+   to the subject almost exclusively. He arranged to have a "physics
+   tutor" for himself. He started studying kinetic gas theory and moved on
+   to elementary radiation theory and the molecular theory of matter. Even
+   after the war started in 1914, he continued seminars and classes where
+   the works of Einstein and others were followed closely.
+
+   Hilbert invited Einstein to Göttingen to deliver a week of lectures in
+   June-July 1915 on general relativity and his developing theory of
+   gravity (Sauer 1999, Folsing 1998). The exchange of ideas led to the
+   final form of the field equations of General Relativity, namely the
+   Einstein field equations and the Einstein-Hilbert action. In spite of
+   the fact that Einstein and Hilbert never engaged in a public priority
+   dispute, there has been some dispute about the discovery of the field
+   equations.
+
+   Additionally, Hilbert's work anticipated and assisted several advances
+   in the mathematical formulation of quantum mechanics. His work was a
+   key aspect of Hermann Weyl and John von Neuman's work on the
+   mathematical equivalence of Werner Heisenberg's matrix mechanics and
+   Erwin Schrödinger's wave equation and his namesake Hilbert space plays
+   an important part in quantum theory. In 1926 von Neuman showed that if
+   atomic states were understood as vectors in Hilbert space, then they
+   would correspond with both Schrodinger's wave function theory and
+   Heisenberg's matrices.
+
+   Throughout this immersion in physics, Hilbert worked on putting rigor
+   into the mathematics of physics. While highly dependent on higher math,
+   the physicist tended to be "sloppy" with it. To a "pure" mathematician
+   like Hilbert, this was both "ugly" and difficult to understand. As he
+   began to understand the physics and how the physicists were using
+   mathematics, he developed a coherent mathematical theory for what he
+   found, most importantly in the area of integral equations. When his
+   colleague Richard Courant wrote the now classic Methods of Mathematical
+   Physics including some of Hilbert's ideas, he added Hilbert's name as
+   author even though Hilbert had not directly contributed to the writing.
+   Hilbert said "Physics is too hard for physicists", implying that the
+   necessary mathematics was generally beyond them; the Courant-Hilbert
+   book made it easier for them.
+
+Number theory
+
+   Hilbert unified the field of algebraic number theory with his 1897
+   treatise Zahlbericht (literally "report on numbers"). He disposed of
+   Waring's problem in the wide sense. He then had little more to publish
+   on the subject; but the emergence of Hilbert modular forms in the
+   dissertation of a student means his name is further attached to a major
+   area.
+
+   He made a series of conjectures on class field theory. The concepts
+   were highly influential, and his own contribution is seen in the names
+   of the Hilbert class field and the Hilbert symbol of local class field
+   theory. Results on them were mostly proved by 1930, after breakthrough
+   work by Teiji Takagi that established him as Japan's first
+   mathematician of international stature.
+
+   Hilbert did not work in the central areas of analytic number theory,
+   but his name has become known for the Hilbert-Pólya conjecture, for
+   reasons that are anecdotal.
+
+Later years
+
+   Hilbert lived to see the Nazis purge many of the prominent faculty
+   members at University of Göttingen, in 1933. . Among those forced out
+   were Hermann Weyl, who had taken Hilbert's chair when he retired in
+   1930, Emmy Noether and Edmund Landau. One of those who had to leave
+   Germany was Paul Bernays, Hilbert's collaborator in mathematical logic,
+   and co-author with him of the important book Grundlagen der Mathematik
+   (which eventually appeared in two volumes, in 1934 and 1939). This was
+   a sequel to the Hilbert- Ackermann book Principles of Theoretical Logic
+   from 1928.
+
+   About a year later, he attended a banquet, and was seated next to the
+   new Minister of Education, Bernhard Rust. Rust asked, "How is
+   mathematics in Göttingen now that it has been freed of the Jewish
+   influence?" Hilbert replied, "Mathematics in Göttingen? There is really
+   none any more".
+
+   By the time Hilbert died in 1943, the Nazis had nearly completely
+   restructured the university, many of the former faculty being either
+   Jewish or married to Jews. Hilbert's funeral was attended by fewer than
+   a dozen people, only two of whom were fellow academics.
+
+   On his tombstone, at Göttingen, one can read his epitaph:
+
+          Wir müssen wissen, wir werden wissen - We must know, we will
+          know.
+
+   Ironically, the day before Hilbert pronounced this phrase, Kurt Gödel
+   had presented his thesis, containing the famous incompleteness theorem.
+   Retrieved from " http://en.wikipedia.org/wiki/David_Hilbert"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

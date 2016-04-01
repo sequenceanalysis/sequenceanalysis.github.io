@@ -1,0 +1,437 @@
+   #copyright
+
+Introduction to special relativity
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+The beginning
+
+   Everything started with the Michelson-Morley experiment to determine
+   the absolute speed of the Earth through the theorised "luminiferous
+   aether." The experiment was a failure but it did show something: the
+   speed of light is independent of the speed of the observer. This means
+   that two persons that follow the same light ray at different speeds
+   will measure the same relative speed for the ray.
+
+   There were several articles before Einstein's trying to explain how
+   this could happen. The most important was written by Lorentz, who
+   postulated that light travels at a speed of c through the ether, and
+   that when other objects move through the ether, they are compressed in
+   the direction of motion, and their time slows down. He still had in
+   mind absolute movement, and was thinking that a moving observer would
+   measure the correct speed of light by a compensation of errors. If her
+   reference frame is moving along with the light, then the speed of light
+   relative to her is slower, but the contraction of the length of her
+   instruments and the slowdown of her time are exactly enough for her to
+   measure the speed of light as c.
+
+   Einstein explained the same effect in a simpler way using the
+   relativity principle. He imagined a ray of light bouncing between two
+   mirrors. For an observer static with the mirrors this takes a given
+   time. For an observer moving with respect to them this takes longer
+   (the speed of light is the same and the space is more). From here he
+   calculated the equation for transforming time.
+
+   Later, using the previous equation, he discovered that simultaneity was
+   not possible for all inertial systems. If we synchronize several clocks
+   in a frame, they will look desynchronized from a frame at different
+   speed.
+
+   Finally, he used the previous results to obtain the same equation as
+   Lorentz had for space contraction.
+
+   After he did this, a lot of people, including himself, tried to find
+   any inconsistencies in the system. A lot of supposed inconsistencies
+   (or paradoxes) were proposed. He took the job of looking for an
+   explanation for all of them one by one, until another scientist, named
+   Hermann Minkowski, showed that the whole system of the special
+   relativity is self-consistent and therefore no real paradox can appear.
+
+Minkowski Space
+
+   Also, the modern approach to the theory depends upon the concept of a
+   four-dimensional universe that was first proposed by Minkowski in 1908,
+   and further developed as a result of the contributions of Emmy Noether.
+   This approach uses the concept of invariance to explore the types of
+   coordinate systems that are required to provide a full physical
+   description of the location and extent of things.
+
+   The modern theory of special relativity begins with the concept of "
+   length". In everyday experience, it seems that the length of objects
+   remains the same no matter how they are rotated or moved from place to
+   place. We think that the simple length of a thing is " invariant".
+   However, as is shown in the illustrations below, what we are actually
+   suggesting is that length seems to be invariant in a three-dimensional
+   coordinate system.
+
+   image:Coord1b.GIF
+
+   The length of a thing in a two-dimensional coordinate system is given
+   by Pythagoras' theorem:
+
+          h^2 = x^2 + y^2 \,
+
+   This two-dimensional length is not invariant if the thing is tilted out
+   of the two-dimensional plane. In everyday life, a three-dimensional
+   coordinate system seems to describe the length fully. The length is
+   given by the three-dimensional version of Pythagoras's theorem:
+
+          k^2 = x^2 + y^2 + z^2 \,
+
+   The derivation of this formula is shown in the illustration below.
+
+   image:Coord2.GIF
+
+   It seems that, provided all the directions in which a thing can be
+   tilted or arranged are represented within a coordinate system, the
+   coordinate system can fully represent the length of a thing. However,
+   it is clear that things may also be changed over a period of time. We
+   must think of time as another dimension through which we move forward.
+   This is shown in the following diagram:
+
+   image:Coord3.GIF
+
+   The path taken by a thing in both space and time is known as the
+   space-time interval.
+
+   Minkowski realised in 1908 that if things could be rearranged in time,
+   then the universe might be four-dimensional. He boldly suggested that
+   Einstein's recently published theory of special relativity was a
+   consequence of this four-dimensional universe. He proposed that the
+   space-time interval might be related to space and time by Pythagoras'
+   theorem in four dimensions:
+
+          s^2 = x^2 + y^2 + z^2 + (ict)^2 \,
+
+   Where i is the imaginary unit (defined as one of the solutions of
+   x^2 = −1), c is the speed of light (a constant), and t is the time
+   interval spanned by the space-time interval, s. In this equation, the
+   "second", usually a unit of time, becomes just another unit of length.
+   In the same way as centimetres and inches are both units of length
+   related by centimetres = conversion factor × inches, metres and seconds
+   are related by metres = conversion factor × seconds. The conversion
+   factor, c, has a value of approximately 300,000,000 meters per second.
+   Because i^2 is equal to −1, the space-time interval can be represented
+   by:
+
+          s^2 = x^2 + y^2 + z^2 - (ct)^2 \,
+
+   In modern formulations this formula for intervals is known as a metric
+   tensor on the Minkowski space with the signature (−+++) or equivalently
+   (+−−−). It is of particular importance that this form where one term
+   has a sign different from the rest is in direct contrast to the
+   above-mentioned example of euclidean space where all terms have the
+   same sign, a signature of (++++). It is this difference in metric
+   signature that causes the principal difference between geometry in a
+   four-dimensional Euclidean space and geometry in the four-dimensional
+   Minkowski space. The space-time interval is still given by:
+
+          s^2 = x^2 + y^2 + z^2 - (ct)^2 \,
+
+   or alternately
+
+          s^2 = (ct)^2 - x^2 - y^2 - z^2 \,
+
+   Space-time intervals are difficult to imagine; they extend between one
+   place and time and another place and time, so the velocity of the thing
+   that travels along the interval is already determined for a given
+   observer. But attempts at visualisation can be made by graphing the
+   displacement of a particle in one-dimensional motion (constrained to a
+   straight line) against time. This can be imagined as a world line when
+   the two other space dimensions are suppressed.
+
+   If the universe is four-dimensional, then the space-time interval will
+   be invariant, rather than spatial length. Whoever measures a particular
+   space-time interval will get the same value, no matter how fast they
+   are travelling. The invariance of the space-time interval has some
+   dramatic consequences.
+
+   The first consequence is the prediction that if a thing is travelling
+   at a velocity of c metres per second, then all observers, no matter how
+   fast they are travelling, will measure the same velocity for the thing.
+   The velocity c will be a universal constant. This is explained below.
+
+   When an object is travelling at c, the space time interval is zero:
+
+          The space-time interval is s^2 = x^2 + y^2 + z^2 - (ct)^2 \,
+
+          The distance travelled by an object moving at velocity v for t
+          seconds is:
+
+          x = vt \,
+
+          So: s^2 = (vt)^2 - (ct)^2 \,
+
+          But when the velocity v equals c:
+
+          s^2 = (ct)^2 - (ct)^2 \,
+
+          And hence the space time interval s^2 = 0 \,
+
+   A space-time interval of zero only occurs when the velocity is c. This
+   particular value of zero for the interval is unique in the sense that
+   it is the only value of the space-time interval for which v can have
+   one and only one value. This shows that not only is the velocity of
+   light constant, it is the only velocity constant. Therefore, by
+   assuming the particular form of the Minowski metric and postulating the
+   invariance of space-time interval, we have an alternate approach to
+   Einstein's special relativity where Einstein takes it as a postulate
+   that the speed of light is constant. When observers observe something
+   with a space-time interval of zero, they all observe it to have a
+   velocity of c, no matter how fast they are moving themselves.
+
+   The universal constant, c, is known for historical reasons as the
+   "speed of light". In the first decade or two after the formulation of
+   Minkowski's approach many physicists, although supporting special
+   relativity, expected that light might not travel at exactly c, but
+   might travel at very nearly c. There are now few physicists who believe
+   that light (or any other EM wave) does not propagate at c.
+
+   The second consequence of the invariance of the space-time interval is
+   that clocks will appear to go slower on objects that are moving
+   relative to you. Suppose there are two people, Bill and John, on
+   separate planets that are moving away from each other. John draws a
+   graph of Bill's motion through space and time. This is shown in the
+   illustration below:
+
+   image:Coord15.GIF
+
+Clocks delays and rods contractions
+
+   Being on planets, both Bill and John think they are stationary, and
+   just moving through time. John spots that Bill is moving through what
+   John calls space, as well as time, when Bill thinks he is moving
+   through time alone. Bill would also draw the same conclusion about
+   John's motion. To John, it is as if Bill's time axis is leaning over in
+   the direction of travel and to Bill, it is as if John's time axis leans
+   over.
+
+   John calculates the length of Bill's space-time interval as:
+
+          s^2 = (vt)^2 - (ct)^2 \,
+
+   whereas Bill doesn't think he has traveled in space, so writes:
+
+          s^2 = (0)^2 - (cT)^2 \,
+
+   The space-time interval, s^2, is invariant. It has the same value for
+   all observers, no matter who measures it or how they are moving in a
+   straight line. Bill's s^2 equals John's s^2 so:
+
+          (0)^2 - (cT)^2 = (vt)^2 - (ct)^2 \,
+
+   and
+
+          -(cT)^2 = (vt)^2 - (ct)^2 \,
+
+   hence
+
+          t = \frac{T}{\sqrt{1 - \frac{v^2}{c^2}}} \, .
+
+   So, if John sees Bill measure a time interval of 1 second (T = 1)
+   between two ticks of a clock that is at rest in Bill's frame (modeled
+   by the condition (X = 0), John will find that his own clock measures
+   between these same ticks an interval t, called coordinate time, which
+   is greater than one second. It is said that clocks in motion slow down,
+   relative to those on observers at rest. This is known as "relativistic
+   time dilation of a moving clock". The time that is measured in the rest
+   frame of the clock (in Bill's frame) is called the proper time of the
+   clock.
+
+   John will also observe measuring rods at rest on Bill's planet to be
+   shorter than his own measuring rods, in the direction of motion. This
+   is a prediction known as "relativistic length contraction of a moving
+   rod". If the length of a rod at rest on Bill's planet is X, then we
+   call this quantity the proper length of the rod. The length x of that
+   same rod as measured on John's planet, is called coordinate length, and
+   given by
+
+          x = X \sqrt{1 - \frac{v^2}{c^2}} \, .
+
+Clocks desynchronization
+
+   The last consequence is that clocks will appear to be out of phase with
+   each other along the length of a moving object. This means that if one
+   observer sets up a line of clocks that are all synchronised so they all
+   read the same time, then another observer who is moving along the line
+   at high speed will see the clocks all reading different times. This
+   means that observers who are moving relative to each other see
+   different events as simultaneous. This effect is known as "Relativistic
+   Phase" or the "Relativity of Simultaneity". Relativistic phase is often
+   overlooked by students of special relativity, but if it is understood,
+   then phenomena such as the twin paradox are easier to understand.
+
+   The net effect of the four-dimensional universe is that observers who
+   are in motion relative to you seem to have time coordinates that lean
+   over in the direction of motion, and consider things to be simultaneous
+   that are not simultaneous for you. Spatial lengths in the direction of
+   travel are shortened, because they tip upwards and downwards, relative
+   to the time axis in the direction of travel, akin to a rotation out of
+   three-dimensional space.
+
+   image:Coord6.GIF
+
+   Great care is needed when interpreting space-time diagrams. Diagrams
+   present data in two dimensions, and cannot show faithfully how, for
+   instance, a zero length space-time interval appears.
+
+   image:Coord8.GIF
+
+Common misconceptions
+
+   It is a common misconception that special relativity only applies to
+   objects that are moving quickly. This is entirely untrue. In the main
+   page, it is shown that the kinetic energy of an object at all speeds is
+   a relativistic quantity. Kinetic energy is relativistic because,
+   although relativistic changes in mass are tiny in ordinary units, these
+   result in large changes in energy in ordinary units, due to E = mc^2
+   where c^2 is about 90,000,000,000,000,000 m^2/s^2. Newtonian physics
+   describes the interplay between kinetic and potential energy, without
+   explaining the origin of kinetic energy or inertia; it just assumes
+   these things, whereas special relativity explains them at a deeper
+   level.
+
+   It should be pointed out however, that Minkowski was partly motivated
+   in his proposal of a four-dimensional universe by Franz Taurinus'
+   discovery that Euclidean geometry, with the exception of the fifth
+   postulate, applies on the surface of a sphere, with a radius measured
+   in imaginary units (i), and cannot be assumed as a fundamental geometry
+   in any universe (see Non-Euclidean geometry and Walter(1999)).
+
+Caveats and Warnings
+
+   The discussion given above has been confined to what is known as "flat
+   space-time". The general, differential form of the space-time interval
+   is given in the article Special relativity. The modern description of
+   the universe uses the term (3+1)D rather than 4D to show how time is
+   not like the spatial dimensions. This corresponds to the difference of
+   the 4D Euclidean metric and the (3+1)D Minowski metric mentioned
+   earlier.
+
+   The time dilation equation
+
+          t = T / \sqrt{1 - v^2/c^2} .
+
+   is valid for a clock that is at rest in Bill's frame, measuring proper
+   time T. This equation is only valid when the two tick events of the
+   clock happen at the same place in Bill's frame; in other words, for two
+   events satisfying X = 0.
+
+   The length contraction equation
+
+          x = X \sqrt{1 - v^2/c^2} .
+
+   is valid for a rod that is at rest in Bill's frame, with proper length
+   X. If the rod is to be measured in John's frame, then John must make
+   sure to measure both end points of the rod at the same time in his own
+   frame, so he must use two events satisfying t = 0.
+
+   It can be tempting to combine the above equations for time dilation and
+   length contraction to some kind of 'invariant spacetime area' xt = XT
+   or some kind of 'velocity that transforms like' x/t = X/T (1-v^2/c^2),
+   but taking into account the above, and combining them with the Lorentz
+   transformation, the equations immediately reduce to the trivial case
+   where all the quantities are zero: x = t = X = T = 0, in which case the
+   'area equation' reduces to 0 = 0 and the quantities x/t and X/T are not
+   defined. In a sense the combined equations would only be valid for a
+   rod with zero length that is also a clock that does not tick.
+
+   It should also be made clear that the length contraction result only
+   applies to rods aligned in the direction of motion. At right angles to
+   the direction of motion, there is no contraction.
+
+   It might also be noted that special relativity, in the form given
+   above, is only a stepping stone to general relativity. In special
+   relativity, space-time is absolute, and appears as a background against
+   which events occur; whereas in general relativity, space-time is
+   construed to be a dynamic product of the gravitational field, and the
+   Minkowski metric no longer applies in general. Instead, every situation
+   demands its own metric which are solutions to the famous Einstein field
+   equations.
+
+Measurement Units, and Simplifications to the Lorentz Equations
+
+   The equations above do not specify what the units of measurement are
+   for times and distances. The following discussion, however, will only
+   focus on the section on the Lorentz equations. Suppose we choose some
+   arbitrary time unit, and some arbitrary distance unit. Then the
+   equations above are still valid, provided the constant c\, is the speed
+   of light measured with respect to these units. For example, if the unit
+   of time is the second, and the unit of distance is the meter, then the
+   value of c\, is exactly 299,792,458 meters per second.
+
+          Side note: The 299,792,458 figure is exact, for the following
+          reason. In the past, the second was defined as a subdivision of
+          a day (the time between successive solar noons). The meter was
+          defined independently of time, as a fraction of the distance
+          from the equator to the north pole, and was standardized as the
+          length of ruler kept in Paris. Yet with the advent of atomic
+          clocks, and the discovery of the invariance of the speed of
+          light, the definition of the second and meter were altered. The
+          second now is defined with respect to the vibration-periods of
+          certain atoms in certain energy states. The meter now is defined
+          as 1/299,792,458 th of the distance that a beam of light travels
+          in one second. So, rather than estimate the speed of light as a
+          function of the length of a physical object, which is imprecise,
+          we now use the absolute constant, the speed of light, and the
+          definition of the second (presumably based on a highly invariant
+          physical entity) to define what we mean by a "meter."
+
+   Now, suppose rather than use meters to measure distance, we let our
+   unit of measurement be the distance light travels in one second, which
+   is called a "light-second." In terms of meters, one light second is
+   exactly defined as 299,792,458 meters. One beneficial result of using
+   these units of measurement is that the value of c\, is now 1 in the
+   equations above ( since light travels exactly ONE light-second, every
+   second ). So all the c\, 's can be removed. The only thing to remember
+   is that now all distances should be in terms of light-seconds, not
+   meters. Note, also, that there is nothing special about using seconds
+   as the unit of time, as long as the unit of distance is the distance
+   traveled by a beam of light in one unit of time. For example, if time
+   is measured in years, then distance should be measured in light-years.
+
+   The simplified equations are:
+
+          t' = \gamma \left(t - v x \right)
+          x' = \gamma (x - v t)\,
+          y' = y\,
+          z' = z\,
+
+   where \gamma = \frac{1}{\sqrt{1 - v^2}}
+
+   In their Spacetime Physics Taylor and Wheeler present another way to
+   look at and think about the variables and equations when they are
+   written this way (i.e. with "units where c = 1"). The variable c\, is
+   kept as the normal speed of light, but the v-variable is now defined as
+
+          v = v_{conv}/c\,
+
+   where v_{conv}\, is the conventional velocity that appears in the
+   original non-simplified equations. Then, depending on the problem or
+   situation at hand one can choose to
+     * either measure and express time in units of conventional distance
+       (e.g. meters), and define the t-variable as
+
+                t = c\;t_{conv}\,
+
+     * or measure and express distances in units of conventional time
+       (e.g. seconds or years), and define the spatial variables x, y, z
+       as
+
+                x = x_{conv}/c \qquad y = y_{conv}/c \qquad z = z_{conv}/c
+                \,
+
+   Similar definitions can then be used for the other variables like
+   energy:
+
+          E = E_{conv}/c^2\,
+
+   etc... This way the speed of light effectively disappears from all the
+   equations.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Introduction_to_special_relativity"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

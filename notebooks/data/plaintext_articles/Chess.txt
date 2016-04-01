@@ -1,0 +1,501 @@
+   #copyright
+
+Chess
+
+2007 Schools Wikipedia Selection. Related subjects: Games
+
+   Chess
+   From left, a white king, black rook and queen, white pawn, black
+   knight, and white bishop in a set of Staunton chess pieces.
+   Players 2
+   Setup time under one minute
+   Playing time 10–60 minutes, tournament games last up to 7 hours*
+   Rules complexity Medium
+   Strategy depth High
+   Random chance None
+   Skills required Tactics, Strategy
+   * Games by correspondence may last many months, while "blitz chess"
+   games are even shorter than 10 minutes
+
+   Chess is an abstract strategy board game and mental sport for two
+   players. The object of the game is to checkmate the opponent's king.
+   This occurs when the king is under immediate attack (in check) and
+   there is no way to remove it from attack on the next move.
+
+   Chess is one of the world's most popular board games; it is played both
+   recreationally and competitively in clubs, tournaments, online, and by
+   mail or e-mail ( correspondence chess).
+
+   Many variants and relatives of chess are played throughout the world.
+   The most popular are xiangqi in China and shogi in Japan. Other
+   national chess variants include janggi in Korea and makruk in Thailand.
+   The game described in this article is sometimes known as Western Chess
+   or International Chess to distinguish it from other variants.
+
+Gameplay
+
+Overview
+
+
+   Image:chess_zhor_26.png
+   Image:chess_zver_26.png
+                           a8 b8 c8 d8 e8 f8 g8 h8
+                           a7 b7 c7 d7 e7 f7 g7 h7
+                           a6 b6 c6 d6 e6 f6 g6 h6
+                           a5 b5 c5 d5 e5 f5 g5 h5
+                           a4 b4 c4 d4 e4 f4 g4 h4
+                           a3 b3 c3 d3 e3 f3 g3 h3
+                           a2 b2 c2 d2 e2 f2 g2 h2
+                           a1 b1 c1 d1 e1 f1 g1 h1
+                                                  Image:chess_zver_26.png
+   Image:chess_zhor_26.png
+   The position of the pieces at the start of a game of chess.
+   A typical Staunton-design chess set and clock.
+   Enlarge
+   A typical Staunton-design chess set and clock.
+    Name  Letter    Picture
+   Pawn   P      Pawn Pawn
+   Knight N      Knight Knight
+   Bishop B      Bishop Bishop
+   Rook   R      Rook Rook
+   Queen  Q      Queen Queen
+   King   K      King King
+
+   Chess is played on a square board of eight rows (called ranks) and
+   eight columns (called files) of squares. The colors of the sixty-four
+   squares alternate between light and dark, and are referred to as "light
+   squares" and "dark squares".
+
+   Each player begins the game with sixteen pieces which can move in
+   defined directions, and in some instances, limited range, and can
+   remove (capture) other pieces from the board: each player's pieces
+   comprise eight pawns, two knights, two bishops, two rooks, one queen
+   and one king. One player controls the white pieces and the other player
+   controls the black pieces; the player that controls white is always the
+   first player to move. The players alternate moving one piece at a time
+   (with one important exception) to either an unoccupied square, or one
+   occupied by an opponent's piece, capturing it. With one exception ( en
+   passant), all pieces capture opponent's pieces by moving to the square
+   that the opponent's piece occupies.
+
+   When a king is under direct attack by one (or possibly two) of the
+   opponent's pieces, the player is said to be in check. When in check,
+   only moves that remove the king from attack are permitted. The object
+   of the game is to checkmate the opponent; this occurs when the
+   opponent's king is in check, and there are no moves that remove the
+   king from attack. Normally a checkmate will require the cooperation of
+   several pieces, but can also be achieved with only one, if the king is
+   blocked by other pieces (e.g. a back rank checkmate). A player who
+   deems checkmate is inevitable may concede the game (resign) to the
+   other player. A drawn result (a tie) is also possible.
+
+   Chess has been described not only as a game but also as an art, a
+   science, and a sport. It is sometimes seen as an abstract war game; as
+   a "mental martial art", and teaching chess has been advocated as a way
+   of enhancing mental prowess.
+
+Rules
+
+   When a game begins, one player controls the sixteen white pieces while
+   the other uses the sixteen black pieces. The colors are chosen either
+   by a friendly agreement, by a game of chance such as pick-a-hand, or by
+   a tournament director. The first player, referred to as White, always
+   moves first and therefore has a slight advantage over the second
+   player, referred to as Black. The chessboard is placed so that each
+   player has a white square in the near right hand corner, and the pieces
+   are set out as shown in the diagram, with each queen on a square that
+   matches its colour.
+
+   Each kind of chess piece moves a different way.
+     * The rook moves any number of vacant spaces vertically or
+       horizontally;
+     * The bishop moves any number of vacant spaces in any direction
+       diagonally;
+     * The queen is a combination of the rook and bishop - it can move any
+       number of spaces diagonally, horizontally, or vertically;
+     * The knight can jump over occupied squares and moves two spaces
+       horizontally and one space vertically (or vice versa), making an L
+       shape; a knight in the middle of the board has eight squares to
+       which it can move. Note that every time a knight moves, it changes
+       square colour.
+     * The king can move only one square horizontally, vertically, or
+       diagonally except when a player castles. The player can not make
+       any move that would place his king in check;
+     * Pawns have the most difficult movement:
+
+          + A pawn can move forward one square, if that square is
+            unoccupied. If it has not moved yet, the pawn has the option
+            of moving two squares forward, if both squares in front of the
+            pawn are unoccupied. A pawn cannot move backward.
+          + When such an initial two square advance is made that puts that
+            pawn horizontally adjacent to an opponent's pawn, the
+            opponent's pawn can capture that pawn " en passant" as if it
+            moved forward only one square rather than two, but only on the
+            immediately subsequent move.
+          + Pawns are the only pieces that capture differently than they
+            move. They can capture an enemy piece on either of the two
+            spaces adjacent to the space in front of them (i.e., the two
+            squares diagonally in front of them), but cannot move to these
+            spaces if they are vacant.
+          + If a pawn advances all the way to its eighth rank, it is then
+            promoted (converted) to a queen, rook, bishop, or knight of
+            the same colour. In practice, the pawn is almost always
+            promoted to a queen.
+
+   With the exception of the knight, pieces cannot jump over each other.
+   One's own pieces ("friendly pieces") cannot be passed if they are in
+   the line of movement, and a friendly piece can never replace another
+   friendly piece. Enemy pieces cannot be passed, but they can be
+   "captured". When a piece is captured (or taken), the attacking piece
+   replaces the enemy piece on its square ( en passant being the only
+   exception). The king cannot be captured, only put in check. If a player
+   is unable to get the king out of check, checkmate results, with the
+   loss of the game.
+
+   Chess games do not have to end in checkmate — either player may resign
+   if the situation looks hopeless. Games also may end in a draw (tie). A
+   draw can occur in several situations, including draw by agreement,
+   stalemate, threefold repetition of a position, the fifty move rule, or
+   a draw by impossibility of checkmate (usually because of insufficient
+   material to checkmate). Chess games and positions are recorded using a
+   chess notation, mostly the algebraic chess notation. The international
+   rules of chess are described in more detail in the FIDE Handbook,
+   section Laws of Chess.
+
+Strategy and tactics
+
+   Chess openings are a sequence of moves, often memorized, which will
+   help a player build up his position and prepare for the middlegame.
+   Openings are often designed to take hold of the centre of the board
+   (e4, e5, d4 and d5), develop pieces, protect the king, and create a
+   strong pawn structure. The classical school of chess expounds the
+   virtues of occupying the centre early using pawns and/or pieces, while
+   Hypermodernism advocates the control of the centre not by using pawns
+   but with distant pieces. It is often important for a player to castle
+   (a special move that moves the king from the centre of the board two
+   squares towards one of the corners) to protect the king. While studying
+   openings can greatly improve one's results, it is important to
+   understand the underlying reasons for each sequence of moves in an
+   opening. This can greatly reduce the need to rely on rote memorization
+   of the opening phase of the game. Of the utmost importance in the
+   opening is maintaining balance, or equality.
+
+   Image:chess_zhor_26.png
+   Image:chess_zver_26.png
+                           a8 b8 c8 d8 e8 f8 g8 h8
+                           a7 b7 c7 d7 e7 f7 g7 h7
+                           a6 b6 c6 d6 e6 f6 g6 h6
+                           a5 b5 c5 d5 e5 f5 g5 h5
+                           a4 b4 c4 d4 e4 f4 g4 h4
+                           a3 b3 c3 d3 e3 f3 g3 h3
+                           a2 b2 c2 d2 e2 f2 g2 h2
+                           a1 b1 c1 d1 e1 f1 g1 h1
+                                                  Image:chess_zver_26.png
+   Image:chess_zhor_26.png
+   The black knight on e6 is pinned to its king by the white bishop, and
+   the white knight is pinned to the queen on b1 by the black rook. Note
+   that the knight on b4 is still free to legally move, while the knight
+   on e6 cannot legally move.
+
+   When taking and trading pieces, the chess piece point values become
+   important. Valuations differ slightly from book to book, but generally,
+   taking pawns to be worth one point, knights and bishops are worth three
+   points each, rooks are worth five points, and queens are worth nine
+   points. Since the king's loss ends the game, it is invaluable (and the
+   king is never traded). However, in the endgame when there are few
+   pieces left on the board and there is little danger of checkmate, the
+   fighting value of the king is equivalent to about four points. The
+   actual value and importance of a piece will vary based upon its
+   position and the stage of the game. If a player performs a sacrifice
+   (e.g. exchange sacrifice), he is choosing to ignore the standard
+   valuation of his pieces for positional or tactical gains. The beginning
+   player should be aware that points are not an inherent part of the
+   game; there is no scoring and chess was played long before the idea of
+   assigning points to pieces. Instead, points are used by a player to
+   consider whether he will come out materially better than his opponent
+   in an exchange of pieces. For instance, to lose two pawns (two points)
+   in taking the opponent's knight (three points) puts one ahead in
+   material by one point. Such an advantageous exchange of pieces may,
+   however, be a poor tactic if it leaves the opponent with an exploitable
+   advantage in the way the pieces are positioned on the board.
+
+   Chess combinations and traps do not appear out of thin air. Usually
+   they are present because the opponent has certain weaknesses in his
+   position. These types of weaknesses include: pinned pieces, overloaded
+   pieces, weaknesses around the opponent's king, weak squares,
+   unprotected pieces, weak colour complexes, pieces not able to come back
+   to defend the king, etc. The weaknesses can then be exploited with a
+   chess combination that is often built out of a number of tactical
+   "methods". Such weaknesses are often created in the opponent's position
+   in the first place by threats, provocative moves, and generally strong
+   "positional play", etc. Chess combinations often include a number of
+   types of tactics which many middlegame books classify and provide
+   examples. Such common tactical methods include pins, forks, skewers,
+   discovered attacks (especially checks), zwischenzugs, deflections,
+   decoys, sacrifices, forcing moves, undermining, overloading,
+   interference and even "quiet moves".
+   Two kings and two queens from the Lewis chessmen at the British Museum
+   Enlarge
+   Two kings and two queens from the Lewis chessmen at the British Museum
+
+   A fork is a situation where a piece is moved such that two opposing
+   pieces are attacked (forked) simultaneously. It usually is difficult
+   for the other player to protect both of his pieces in one move. Pins
+   are used to prevent the movement of an enemy piece by threatening any
+   pieces behind it should it move. Skewers are a kind of reverse pin
+   where the more valuable piece is placed in front of a less important
+   one. A discovered attack (or revealed threat) is where the movement of
+   one piece reveals a formerly blocked line of attack for another piece
+   of the same colour. For clarification, it should be noted that a "pin"
+   is a tactic - the act of pinning the opponent's pieces. But a "pinned
+   piece" is a specific type of weakness in the opponent's position, which
+   when identified, can be exploited with a tactical combination.
+
+   A few common positional elements which high level chess players
+   routinely must assess include pawn structure, king safety, space, and
+   control of key squares and groups of squares (e.g. diagonals,
+   open-files, dark or light squares, etc.). In addition, there are
+   factors such as the two bishops that compensate each other's
+   weaknesses. Most middlegame books recommend that once an assessment of
+   the elements of the position has taken place, it is then recommended to
+   try and form a "plan" to create an advantage. Once a plan is
+   formulated, it is then recommended to try and ensure the plan is
+   feasible through the process of checking concrete variations.
+
+   Great chess writer Aron Nimzowitsch outlined in the classic work My
+   System a number of middlegame positional principles such as "rook on
+   the seventh rank", "undermining the pawn chain", "restrain, blockade
+   and destroy". This work has influenced generations of modern chess
+   players in how they think in the middlegame.
+
+   During the endgame, pawns and kings become relatively more powerful
+   pieces as both sides often try to promote their pawns. If one player
+   has a large material advantage, checkmate may happen quickly in the
+   endgame. If the game is relatively even, endgame tablebases and endgame
+   study are essential. Controlling the tempo (time used by each move)
+   becomes especially important when fewer pieces are left on the board.
+   In some cases, a player will have a material advantage, but will not
+   have enough material to force a checkmate. In this case, the game is
+   considered a draw by insufficient material.
+
+Alternative ways to play
+
+   Chess is for people of all ages, young and old
+   Enlarge
+   Chess is for people of all ages, young and old
+
+   Blitz chess is a version of chess where a chess clock is used to limit
+   the time control for each player. Generally each side has three to
+   fifteen minutes (five is common) for all of its moves. An even faster
+   version of chess is known as bullet chess or lightning chess. Bullet
+   chess's time controls are less than three minutes. Speed chess requires
+   the player to spend less time thinking because if the player's time
+   runs out, he loses. When playing at a faster time, computers become
+   relatively more powerful than humans.
+
+   If both players use computers to enhance their strength, it is called
+   advanced chess.
+
+   Chess can also be played blindfold. In this case the play is conducted
+   without the players having sight of the positions of the pieces, or any
+   physical contact with them. Moves are communicated via chess notation.
+   Some very strong chess players are able to play multiple blindfold
+   games simultaneously.
+
+   When two players are separated by great distances they can still play
+   chess. Correspondence chess is chess played through the mail, e-mail or
+   special correspondence chess servers.
+
+   Today, chess is often played on the internet through the telnet-based
+   hosts (such as ICC and FICS) and TCP/IP based servers (such as
+   Playchess and WCN).
+
+Variants
+
+   One of many chess variants: Glinski's hexagonal chess.
+   Enlarge
+   One of many chess variants: Glinski's hexagonal chess.
+
+   Chess variants are forms of chess where the game is played with a
+   different board, special fairy pieces or different rules. The number of
+   possible chess variants is unlimited. D.B. Pritchard, the author of
+   Encyclopedia of Chess Variants, estimates that there are more than two
+   thousand chess variants , confining the number to published ones.
+
+   Many chess grandmasters played chess variants and some even invented
+   new ones. José Raúl Capablanca feared a "draw death" of chess and
+   suggested making the board larger and adding new pieces, such as a
+   combination of rook and knight and also a combination of bishop and
+   knight. He played a number of test games and finally setlled on an 8x10
+   chess variant, Capablanca chess .
+
+   Bobby Fischer objected to what he considered to be an overemphasis on
+   memorized chess openings in normal chess, and the Russians fixing
+   matches. Thus he devised a formalisation of the variant Shuffle Chess
+   in response. In this chess variant, which he originally named Fischer
+   Random Chess but is now typically called Chess960, the initial position
+   is selected randomly before each game. This random positioning makes it
+   almost impossible to prepare the opening play in advance.
+
+History
+
+Origins
+
+   A Persian youth playing chess with two suitors. A form of chess was
+   played in Persia as early as the 3rd century.
+   Enlarge
+   A Persian youth playing chess with two suitors. A form of chess was
+   played in Persia as early as the 3rd century.
+
+   Many countries claim to have invented chess in some incipient form. The
+   most commonly held view is that chess originated in India , since the
+   Arabic, Persian, Greek, Portuguese and Spanish words for chess are all
+   derived from the Sanskrit game Chaturanga. In addition, in the past
+   only India had all three animals, horse, camel and elephant, in its
+   cavalry, which represent knight, bishop and rook in chess. The present
+   version of chess played throughout the world ultimately derives from a
+   version of Chaturanga that was played in India around the 6th century.
+   It is believed that the Persians subsequently created a more
+   recognizable version of the game called Shatranj.
+
+   Another theory exists that chess arose from the similar game of Xiangqi
+   (Chinese chess), or at least a predecessor thereof, existing in China
+   since the 2nd century BC. Scholars who have favored this theory include
+   Joseph Needham and David H. Li.
+
+   Chess eventually spread westward to Europe and eastward as far as
+   Japan, spawning variants as it went. The game spread throughout the
+   Muslim world after the Islamic conquest of Persia. When it entered the
+   Muslim world, the names of its pieces largely retained their Persian
+   forms but its name became shatranj, which continued in Spanish as
+   ajedrez and in Greek as zatrikion, but in most of Europe it was
+   replaced by versions of the Persian word shāh = "king". There is a
+   theory that this name replacement happened because, before the game of
+   chess came to Europe, merchants coming to Europe brought ornamental
+   chess kings as curiosities and with them their name shāh, which
+   Europeans mispronounced in various ways.
+
+   Chess eventually reached Russia via Mongolia, where it was played at
+   the beginning of the 7th century. It was introduced into the Iberian
+   Peninsula by the Moors in the 10th century, and described in a famous
+   13th century manuscript covering chess, backgammon, and dice named the
+   Libro de los juegos. The entrance of chess into Europe is marked by
+   changes to the rules, including changes to the moves of the bishops,
+   pawns and queen, with the modern form emerging since 15th century.
+
+Development of modern rules and pieces
+
+   Outdoor chess in Budapest, 1990
+   Enlarge
+   Outdoor chess in Budapest, 1990
+
+   Early on, the pieces in European chess had limited movement; bishops
+   could only move by jumping exactly two spaces diagonally (similar to
+   the elephant in xiangqi), the queen could move only one space
+   diagonally, pawns could not move two spaces on their first move, and
+   there was no castling.
+
+   By the end of the 15th century, the modern rules for the basic moves
+   had been adopted from Italy: pawns gained the option of moving two
+   squares on their first move and the en passant capture therewith,
+   bishops acquired their modern move, and the queen was made the most
+   powerful piece; consequently modern chess was referred to as "Queen's
+   Chess" or "Mad Queen Chess". The game in Europe since that time has
+   been almost the same as is played today. The current rules were
+   finalized in the early 19th century, except for the exact conditions
+   for a draw.
+
+   The most popular piece design, the "Staunton" set, was created by
+   Nathaniel Cook in 1849, endorsed by Howard Staunton (a leading player
+   of the time), and manufactured originally by Jaques of London. The
+   style was officially adopted by Fédération Internationale des Échecs
+   (FIDE) in 1924.
+
+Organization
+
+   Chess congress
+   Enlarge
+   Chess congress
+
+   Chess is an organized sport with structured international and national
+   leagues, tournaments and congresses. Chess's international governing
+   body is FIDE (Fédération Internationale des Échecs), which has presided
+   over the world championship matches for decades. Most countries of the
+   world have a national chess organization as well, who in turn are
+   members of FIDE.
+
+   FIDE is a member of the International Olympic Committee (IOC), but the
+   game of chess has not ever been part of the Olympic Summer or Winter
+   Games. Chess does have its own Olympiad, held every two years as a team
+   event.
+
+   Correspondence chess tournaments are usually played under the auspices
+   of International Correspondence Chess Federation (ICCF). The ICCF
+   awards its titles International Master, Senior International Master and
+   Grandmaster - these are equivalent to similar titles awarded by FIDE
+   for over-the-board chess.
+
+   In order to rank players, both FIDE and ICCF use the Elo rating system
+   developed by Arpad Elo.
+
+Competitions
+
+   For most, the ultimate chess competition is the World Chess
+   Championship. The current World Chess Champion is Vladimir Kramnik, who
+   won a match against Veselin Topalov in 2006. In women's chess, the
+   reigning Women's World Champion is Xu Yuhua from China. However, the
+   world's highest rated female player Judit Polgar has never participated
+   in the Women's World Chess Championship, instead preferring to compete
+   with the leading men. Other competitions for individuals include the
+   World Junior Chess Championship, the European Individual Championship
+   and the National Chess Championships of countries around the world.
+
+   Regular team chess events include the Chess Olympiad and European Team
+   Championship. The 37th Chess Olympiad in 2006 was held in Turin, Italy.
+   Armenia won the gold in the men's event, and Ukraine took the top medal
+   for the women.
+
+   The International Correspondence Chess Federation runs the World
+   Correspondence Chess Championships both unrestricted and for women. The
+   World Chess Solving Championship is both a team and an individual
+   event.
+
+   Besides these top chess competitions, there are thousands of other
+   chess tournaments, matches and festivals held around the world every
+   year. The most popular would include Spain's Linares event, Monte
+   Carlo's Melody Amber tournament, the Dortmund Sparkassen meeting and
+   Wijk aan Zee's Corus tournament.
+
+Chess and computers
+
+   The idea of creating a chess playing machine dates back to the
+   eighteenth century. Around 1769, the chess playing automaton called The
+   Turk became famous before being exposed as a hoax. Serious trials based
+   in automatons such as El Ajedrecista were too complex and limited to be
+   useful.
+
+   Since the advent of the digital computer in the 1950s, chess
+   enthusiasts and computer engineers have built, with increasing degrees
+   of seriousness and success, chess-playing machines and computer
+   programs. At first considered only a curiosity, the best chess playing
+   programs — like Rybka, Hydra etc. — have become extremely strong
+   players. In blitz chess, they can beat the best human players; at
+   regular time controls battles between the very best chess programs and
+   the very best human players have been balanced.
+
+   Garry Kasparov, then ranked number one in the world, played a six-game
+   match against IBM's chess computer Deep Blue in February 1996. Deep
+   Blue won the first game, but Kasparov convincingly won the match by
+   winning three games and drawing two. The six-game rematch in May 1997
+   was won by the machine (informally dubbed Deeper Blue) which was
+   subsequently retired by IBM..
+
+   Computers are important to today's chess also as seconds with huge
+   databases of past games and a high analytical ability, and they also
+   allow to play over internet on sites like Free Internet Chess Server or
+   Kurnik, which becomes increasingly popular.
+   Retrieved from " http://en.wikipedia.org/wiki/Chess"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

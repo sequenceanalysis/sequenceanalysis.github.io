@@ -1,0 +1,375 @@
+   #copyright
+
+Genetic code
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   A series of codons in an short RNA molecule. Each codon consists of
+   three nucleotides, representing a single amino acid.
+   Enlarge
+   A series of codons in an short RNA molecule. Each codon consists of
+   three nucleotides, representing a single amino acid.
+
+   The genetic code is the set of rules by which information encoded in
+   genetic material (DNA or RNA sequences) is translated into proteins (
+   amino acid sequences) by living cells. Specifically, the code defines a
+   mapping between tri- nucleotide sequences called codons and amino
+   acids; every triplet of nucleotides in a nucleic acid sequence
+   specifies a single amino acid. Most organisms use a nearly universal
+   code that is referred to as the standard genetic code. Even viruses,
+   which are not cellular and do not synthesize proteins themselves, have
+   proteins made using this standard code. For a time, therefore, the code
+   was thought to be universal. However, there are notable exceptions. It
+   is also possible for a single organism to translate different parts of
+   the genome in different ways. For example, in humans, protein synthesis
+   in mitochondria relies on a modified genetic code that varies from the
+   standard one.
+
+Cracking the genetic code
+
+   After the structure of DNA was deciphered by James Watson, Francis
+   Crick and Rosalind Franklin, serious efforts to understand the nature
+   of the encoding of proteins began. George Gamov postulated that a
+   three-letter code must be employed to encode the 20 different amino
+   acids used by living cells to encode proteins. The first elucidation of
+   a codon was done by Marshall Nirenberg and Heinrich J. Matthaei in 1961
+   at the National Institutes of Health. They used a cell-free system to
+   translate a poly-uracil RNA sequence (or UUUUU... in biochemical terms)
+   and discovered that the polypeptide they had synthesized consisted of
+   only the amino acid phenylalanine. They, thereby deduced from this
+   poly-phenylalanine that the codon UUU specified the amino-acid
+   phenylalanine. Extending this work, Nirenberg and his coworkers were
+   able to determine the nucleotide makeup of each codon. In order to
+   determine the order of the sequence, trinucleotides were bound to
+   ribosomes and radioactivaly labeled aminoacyl-tRNA was used to
+   determine, which amino acid corresponded to the codon. Nirenberg's
+   group was able to determine the the sequences of 54 out of 64 codons.
+   Subsequent work by Har Gobind Khorana identified the rest of the code,
+   and shortly thereafter Robert W. Holley determined the structure
+   transfer RNA, the adapter molecule that facilitates translation. In
+   1968, Khorana, Holley and Nirenberg shared the Nobel Prize in
+   Physiology or Medicine for their work.
+
+Transfer of information via the genetic code
+
+   The genetic information carried by an organism, its genome, is
+   inscribed in one or more DNA, or in some cases RNA, molecules. Each
+   functional portion of a DNA or RNA molecule is referred to as a gene.
+   The gene sequence inscribed in DNA, and in RNA, is composed of
+   tri-nucleotide units called codons, each coding for a single amino
+   acid. Each nucleotide sub-unit consists of a phosphate, deoxyribose
+   sugar and one of the 4 nitrogenous nucleotide bases grouped into 2
+   categories, purine and pyrimidine. The purine bases adenine (A) and
+   guanine (G) are larger and consist of two aromatic rings. The
+   pyrimidine bases cytosine (C) and thymine (T) are smaller and consist
+   of only one aromatic ring. The percentages of adenine and thymine in
+   the molecule are always the same, as well as percentages of cytosine
+   and guanine. This is due to the fact that hydogen bonds can only form
+   between these nucleotides- this is known as base pairing. In RNA,
+   however, thymine (T) is substituted by uracil (U), and the deoxyribose
+   is substituted by ribose.
+
+   Each protein-coding gene is transcribed into a short template molecule
+   of the related polymer RNA, known as messenger RNA or mRNA. This in
+   turn is translated on the ribosome into an amino acid chain or
+   polypeptide, which will then fold, resulting in secondary and tertiary
+   structures. The process of translation requires transfer RNAs specific
+   for individual amino acids with the amino acids covalently attached to
+   them, guanosine triphosphate as an energy source, and a number of
+   translation factors. tRNAs have anticodons complementary to the codons
+   in mRNA and can be "charged" covalently with amino acids at their 3'
+   terminal CCA ends. Individual tRNAs are charged with specific amino
+   acids by enzymes known as aminoacyl tRNA synthetases which have high
+   specificity for both their cognate amino acids and tRNAs. The high
+   specificity of these enzymes is a major reasons why the fidelity of
+   protein translation is maintained.
+
+   Theoretically, there are 4³ = 64 different codon combinations possible
+   with a triplet codon of three nucleotides. In reality, all 64 codons of
+   the standard genetic code are assigned for either amino acids or stop
+   signals during translation. If, for example, an RNA sequence, UUUAAACCC
+   is considered and the reading-frame starts with the first U (by
+   convention, 5' to 3'), there are three codons, namely, UUU, AAA and
+   CCC, each of which specifies one amino acid. This RNA sequence will be
+   translated into an amino acid sequence, three amino acids long.
+
+   The standard genetic code is shown in the following tables. Table 1
+   shows what amino acid each of the 64 codons specifies. Table 2 shows
+   what codons specify each of the 20 standard amino acids involved in
+   translation. These are called forward and reverse codon tables,
+   respectively. For example, the codon AAU represents the amino acid
+   asparagine, and UGU and UGC represent cysteine {standard three-letter
+   designations, Asn and Cys respectively).
+
+Table 1: RNA codon table
+
+   CAPTION: This table shows the 64 codons and the amino acid each codon
+   codes for. The direction is 5' to 3'.
+
+   2nd base
+   U C A G
+   1st
+   base U
+
+   UUU (Phe/F) Phenylalanine
+   UUC (Phe/F)Phenylalanine
+   UUA (Leu/L) Leucine
+   UUG (Leu/L)Leucine
+
+   UCU (Ser/S) Serine
+   UCC (Ser/S)Serine
+   UCA (Ser/S)Serine
+   UCG (Ser/S)Serine
+
+   UAU (Tyr/Y) Tyrosine
+   UAC (Tyr/Y)Tyrosine
+   UAA Ochre (Stop)
+   UAG Amber (Stop)
+
+   UGU (Cys/C) Cysteine
+   UGC (Cys/C)Cysteine
+   UGA Opal (Stop)
+   UGG (Trp/W) Tryptophan
+   C
+
+   CUU (Leu/L)Leucine
+   CUC (Leu/L)Leucine
+   CUA (Leu/L)Leucine
+   CUG (Leu/L)Leucine
+
+   CCU (Pro/P) Proline
+   CCC (Pro/P)Proline
+   CCA (Pro/P)Proline
+   CCG (Pro/P)Proline
+
+   CAU (His/H) Histidine
+   CAC (His/H)Histidine
+   CAA (Gln/Q) Glutamine
+   CAG (Gln/Q)Glutamine
+
+   CGU (Arg/R) Arginine
+   CGC (Arg/R)Arginine
+   CGA (Arg/R)Arginine
+   CGG (Arg/R)Arginine
+   A
+
+   AUU (Ile/I) Isoleucine
+   AUC (Ile/I)Isoleucine
+   AUA (Ile/I)Isoleucine
+   AUG (Met/M) Methionine, Start
+
+   ACU (Thr/T) Threonine
+   ACC (Thr/T)Threonine
+   ACA (Thr/T)Threonine
+   ACG (Thr/T)Threonine
+
+   AAU (Asn/N) Asparagine
+   AAC (Asn/N)Asparagine
+   AAA (Lys/K) Lysine
+   AAG (Lys/K)Lysine
+
+   AGU (Ser/S) Serine
+   AGC (Ser/S)Serine
+   AGA (Arg/R) Arginine
+   AGG (Arg/R)Arginine
+   G
+
+   GUU (Val/V) Valine
+   GUC (Val/V)Valine
+   GUA (Val/V)Valine
+   GUG (Val/V)Valine
+
+   GCU (Ala/A) Alanine
+   GCC (Ala/A)Alanine
+   GCA (Ala/A)Alanine
+   GCG (Ala/A)Alanine
+
+   GAU (Asp/D) Aspartic acid
+   GAC (Asp/D)Aspartic acid
+   GAA (Glu/E) Glutamic acid
+   GAG (Glu/E)Glutamic acid
+
+   GGU (Gly/G) Glycine
+   GGC (Gly/G)Glycine
+   GGA (Gly/G)Glycine
+   GGG (Gly/G)Glycine
+
+Table 2: Reverse codon table
+
+   This table shows the 20 standard amino acids used in proteins, and the
+   codons that code for each amino acid.
+   Ala A GCU, GCC, GCA, GCG           Leu L UUA, UUG, CUU, CUC, CUA, CUG
+   Arg R CGU, CGC, CGA, CGG, AGA, AGG Lys K AAA, AAG
+   Asn N AAU, AAC                     Met M AUG
+   Asp D GAU, GAC                     Phe F UUU, UUC
+   Cys C UGU, UGC                     Pro P CCU, CCC, CCA, CCG
+   Gln Q CAA, CAG                     Ser S UCU, UCC, UCA, UCG, AGU,AGC
+   Glu E GAA, GAG                     Thr T ACU, ACC, ACA, ACG
+   Gly G GGU, GGC, GGA, GGG           Trp W UGG
+   His H CAU, CAC                     Tyr Y UAU, UAC
+   Ile I AUU, AUC, AUA                Val V GUU, GUC, GUA, GUG
+   Start AUG                          Stop  UAG, UGA, UAA
+
+Salient features
+
+Reading frame of a sequence
+
+   Note that a codon is defined by the inital nucleotide from which
+   translation starts. For example, the string GGGAAACCC, if read from the
+   first position, contains the codons GGG, AAA and CCC;and if read from
+   the second position, it contains the codons GGA and AAC; if read
+   starting from the third position, GAA and ACC. Partial codons have been
+   ignored in this example. Every sequence can thus be read in three
+   reading frames, each of which will produce a different amino acid
+   sequence (in the given example, Gly-Lys-Pro, Gly-Asp, or Glu-Thr,
+   respectively). With double-stranded DNA there are six possible reading
+   frames, three in the forward orientation on one strand and three
+   reverse, or on the opposite strand.
+
+   The actual frame a protein sequence is translated in is defined by a
+   start codon, usually the first AUG codon in the mRNA sequence.
+   Mutations that disrupt the reading frame by insertions or deletions of
+   one or two nucleotide bases are known as frameshift mutations. These
+   mutations may impair the function of the resulting protein, if it is
+   formed, and are thus rare in in vivo protein-coding sequences. Often
+   such misformed proteins are targeted for proteolytic degradation. One
+   reason for the rareness of frame-shifted mutations being inherited is
+   that if the protein being translated is essential for growth under the
+   selective pressures the organism faces, absence of a functional protein
+   may cause lethality before the organism is viable.
+
+Start/stop codons
+
+   Translation starts with a chain initiation codon ( start codon). Unlike
+   stop codons, the codon alone is not sufficient to begin the process.
+   Nearby sequences and initiation factors are also required to start
+   translation. The most common start codon is AUG, which also codes for
+   methionine, but other start codons are also used.
+
+   The three stop codons have been given names: UAG is amber, UGA is opal
+   (sometimes also called umber), and UAA is ochre. "Amber" was named
+   after its discoverer Harris Bernstein, whose last name means "amber" in
+   German. The other two stop codons were named 'ochre" and "opal" in
+   order to keep the "colour names" theme. Stop codons are also called
+   termination codons and they signal release of the nascent polypeptide
+   from the ribosome due to binding of release factors in the absence of
+   cognate tRNAs with anticodons complementary to these stop signals.
+
+Degeneracy of the genetic code
+
+   Many codons are redundant, meaning that two or more codons can code for
+   the same amino acid. Degenerate codons may differ in their third
+   positions; e.g., both GAA and GAG code for the amino acid glutamic
+   acid. A codon is said to be four-fold degenerate if any nucleotide at
+   its third position specifies the same amino acid; it is said to be
+   two-fold degenerate if only two of four possible nucleotides at its
+   third position specify the same amino acid. In two-fold degenerate
+   codons, the equivalent third position nucleotides are always either two
+   purines (A/G) or two pyrimidines (C/T). Only two amino acids are
+   specified by a single codon; one of these is the amino-acid methionine,
+   specified by the codon AUG, which also specifies the start of
+   translation; the other is tryptophan, specified by the codon UGG. The
+   degeneracy of the genetic code is what accounts for the existence of
+   silent mutations.
+
+   Degeneracy results because a triplet code designates 20 amino acids and
+   a stop codon. Because there are four bases, triplet codons are required
+   to produce at least 21 different codes. For example, if there were two
+   bases per codon, then only 16 amino acids could be coded for (4²=16).
+   Because at least 21 codes are required, then 4³ gives 64 possible
+   codons, meaning that some degeneracy must exist.
+
+   These properties of the genetic code make it more fault-tolerant for
+   point mutations. For example, in theory, four-fold degenerate codons
+   can tolerate any point mutation at the third position, although codon
+   usage bias restricts this in practice in many organisms; two-fold
+   degenerate codons can tolerate one out of the three possible point
+   mutations at the third position. Since transition mutations (purine to
+   purine or pyrimidine to pyrimidine mutations) are more likely than
+   transversion (purine to pyrimidine or vice-versa) mutations, the
+   equivalence of purines or that of pyrimidines at two-fold degenerate
+   sites adds a further fault-tolerance.
+
+   A practical consequence of redundancy is that some errors in the
+   genetic code only cause a silent mutation or an error that would not
+   affect the protein because the hydrophilicity or hydrophobicity is
+   maintained by equivalent substitution of amino acids; for example, a
+   codon of NUN (where N = any nucleotide) tends to code for hydrophobic
+   amino acids. Even so, it is a single point mutation that causes a
+   modified hemoglobin molecule in sickle-cell disease. The hydrophilic
+   glutamate (Glu) is substituted by the hydrophobic valine (Val), which
+   reduces the solubility of ß-globin. In this case, this mutation causes
+   hemoglobin to form linear polymers linked by the hydrophobic
+   interaction between the valine groups causing sickle-cell deformation
+   of erythrocytes. Sickle-cell disease is generally not caused by a de
+   novo mutation. Rather it is selected for in malarial regions (in a
+   similar way to thalassemia), as heterozygous people have some
+   resistance to the malarial Plasmodium parasite ( heterozygote
+   advantage).
+
+   These variable codes for amino acids are allowed because of modified
+   bases in the first base of the anticodon of the tRNA, and the base-pair
+   formed is called a wobble base pair. The modified bases include inosine
+   and the Non-Watson-Crick U-G basepair.
+
+Variations
+
+   Numerous variations of the standard genetic code are found in
+   mitochondria, which are energy-producing organelles that are found
+   inside eukaryotic cells. Mycoplasma translate the codon UGA as
+   tryptophan. Ciliate protozoa also have some variation in the genetic
+   code: UAG and often UAA code for glutamine (a variant also found in
+   some green algae), or UGA codes for cysteine. Another variant is found
+   in some species of the yeast, Candida, where CUG codes for serine. In
+   addition in some rare cases certain proteins may also use alternate
+   initiation (start) codons.
+
+   In certain proteins, non-standard amino acids are substituted for
+   standard stop codons, depending upon associated signal sequences in the
+   messenger RNA: UGA can code for selenocysteine and UAG can code for
+   pyrrolysine as discussed in the relevant articles. A detailed
+   description of variations in the genetic code can be found at the NCBI
+   web site. However, there may be other non-standard interpretations that
+   are not yet known. Sequencing of genomes may reveal unique genetic
+   codes that allow the incorporation of other novel amino acids into
+   proteins.
+
+Origin of the genetic code
+
+   Despite the variations that exist, the genetic codes used by all known
+   forms of life on Earth are very similar. Since there are many possible
+   genetic codes that are thought to have similar utility to the one used
+   by Earth life, the theory of evolution suggests that the genetic code
+   was established very early in the history of life.
+
+   One can ask the question: is the genetic code completely random, just
+   one set of codon-amino acid correspondences that happened to establish
+   itself and be "frozen in" early in evolution, although functionally any
+   of the many other possible transcription tables would have done just as
+   well? Already a cursory look at the table shows patterns that suggest
+   that this is not the case.
+
+   There are three themes running through the many theories that seek to
+   explain the evolution of the genetic code (and hence the origin of
+   these patterns). One is illustrated by recent aptamer experiments which
+   show that some amino acids have a selective chemical affinity for the
+   base triplets that code for them. This suggests that the current,
+   complex transcription mechanism involving tRNA and associated enzymes
+   may be a later development, and that originally, protein sequences were
+   directly templated on base sequences. Another is that the standard
+   genetic code that we see today grew from a simpler, earlier code
+   through a process of "biosynthetic expansion". Here the idea is that
+   primordial life 'invented' new amino acids (e.g. as by-products of
+   metabolism) and later back-incorporated some of these into the
+   machinery of genetic coding. Although much circumstantial evidence has
+   been found to indicate that originally the number of different amino
+   acids used may have been considerably smaller than today, precise and
+   detailed hypotheses about exactly which amino acids entered the code in
+   exactly what order has proved far more controversial. A third is that
+   natural selection organized the codon assignments of the genetic code
+   to minimize the effects of genetic errors ( mutations).
+   Retrieved from " http://en.wikipedia.org/wiki/Genetic_code"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

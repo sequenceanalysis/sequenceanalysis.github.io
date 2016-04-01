@@ -1,0 +1,291 @@
+   #copyright
+
+Quark
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   These are the 6 quarks and their most likely decay modes. Mass
+   decreases moving from right to left.
+   Enlarge
+   These are the 6 quarks and their most likely decay modes. Mass
+   decreases moving from right to left.
+
+   In particle physics, quarks are one of the two basic constituents of
+   matter (the other Standard Model fermions are the leptons).
+
+   Antiparticles of quarks are called antiquarks. Quarks are the only
+   fundamental particles that interact through all four of the fundamental
+   forces. The word was borrowed by Murray Gell-Mann from the book
+   Finnegans Wake by James Joyce, where seabirds give "three quarks", akin
+   to three cheers (probably onomatopoetically imitating a seabird call,
+   like "quack" for ducks).
+
+   The names of quark flavours ( up, down, strange, charm, bottom, and
+   top) were also chosen arbitrarily based on the need to name them
+   something that could be easily remembered and used.
+
+   An important property of quarks is called confinement, which states
+   that individual quarks are not seen because they are always confined
+   inside subatomic particles called hadrons (e.g., protons and neutrons);
+   an exception is the top quark, which decays so quickly that it does not
+   hadronize, and can therefore be observed more directly via its decay
+   products. Confinement began as an experimental observation, and is
+   expected to follow from the modern theory of strong interactions,
+   called quantum chromodynamics (QCD). Although there is no mathematical
+   derivation of confinement in QCD, it is easy to show using lattice
+   gauge theory.
+
+Free quarks
+
+   1974 discovery photograph of a possible charmed baryon, now identified
+   as the Σc++
+   Enlarge
+   1974 discovery photograph of a possible charmed baryon, now identified
+   as the Σ[c]^++
+
+   No search for free quarks or fractional electric charges has returned
+   convincing evidence. The absence of free quarks has therefore been
+   incorporated into the notion of confinement, which, it is believed, the
+   theory of quarks must possess. However, it may be possible to change
+   the volume of confinement by creating dense or hot quark matter. These
+   new phases of QCD matter have been predicted theoretically, and
+   experimental searches for them have now started.
+
+Confinement and quark properties
+
+   Every subatomic particle is completely described by a small set of
+   observables such as mass m and quantum numbers, such as spin J and
+   parity P. Usually these properties are directly determined by
+   experiments. However, confinement makes it impossible to measure these
+   properties of quarks. Instead, they must be inferred from measurable
+   properties of the composite particles which are made up of quarks. Such
+   inferences are usually most easily made for certain additive quantum
+   numbers called flavours.
+
+   The composite particles made of quarks and antiquarks are the hadrons.
+   These include the mesons which get their quantum numbers from a quark
+   and an antiquark, and the baryons, which get theirs from three quarks.
+   The quarks (and antiquarks) which impart quantum numbers to hadrons are
+   called valence quarks. Apart from these, any hadron may contain an
+   indefinite number of virtual quarks, antiquarks and gluons which
+   together contribute nothing to their quantum numbers. Such virtual
+   quarks are called sea quarks.
+
+Flavour
+
+   Each quark is assigned a baryon number, B  =  1/3, and a vanishing
+   lepton number L  =  0. They have fractional electric charge, Q, either
+   Q  =  +2/3 or Q  =  −1/3. The former are called up-type quarks, the
+   latter, down-type quarks. Each quark is assigned a weak isospin: T[z]
+   =  +1/2 for an up-type quark and T[z]  =  −1/2 for a down-type quark.
+   Each doublet of weak isospin defines a generation of quarks. There are
+   three generations, and hence six flavours of quarks — the up-type quark
+   flavours are up, charm and top; the down-type quark flavours are down,
+   strange, and bottom (each list is in the order of increasing mass).
+
+   The number of generations of quarks and leptons are equal in the
+   standard model. The number of generations of leptons with a light
+   neutrino is strongly constrained by experiments at the LEP in CERN and
+   by observations of the abundance of helium in the universe. Precision
+   measurement of the lifetime of the Z boson at LEP constrains the number
+   of light neutrino generations to be three. Astronomical observations of
+   helium abundance give consistent results. Results of direct searches
+   for a fourth generation give limits on the mass of the lightest
+   possible fourth generation quark. The most stringent limit comes from
+   analysis of results from the Tevatron collider at Fermilab, and shows
+   that the mass of a fourth-generation quark must be greater than 190
+   GeV. Additional limits on extra quark generations come from
+   measurements of quark mixing performed by the experiments Belle and
+   BaBar.
+
+   Each flavour defines a quantum number which is conserved under the
+   strong interactions, but not the weak interactions. The magnitude of
+   flavour changing in the weak interaction is encoded into a structure
+   called the CKM matrix. This also encodes the CP violation allowed in
+   the Standard Model. The flavour quantum numbers are described in detail
+   in the article on flavour.
+
+Spin
+
+   Quantum numbers corresponding to non-Abelian symmetries like rotations
+   require more care in extraction, since they are not additive. In the
+   quark model one builds mesons out of a quark and an antiquark, whereas
+   baryons are built from three quarks. Since mesons are bosons (having
+   integer spins) and baryons are fermions (having half-integer spins),
+   the quark model implies that quarks are fermions. Further, the fact
+   that the lightest baryons have spin-1/2 implies that each quark can
+   have spin J  =  1/2. The spins of excited mesons and baryons are
+   completely consistent with this assignment.
+
+Colour
+
+   Since quarks are fermions, the Pauli exclusion principle implies that
+   the three valence quarks must be in an antisymmetric combination in a
+   baryon. However, the charge Q =  2 baryon, Δ^++ (which is one of four
+   isospin I[z]  =  3/2 baryons) can only be made of three u quarks with
+   parallel spins. Since this configuration is symmetric under interchange
+   of the quarks, it implies that there exists another internal quantum
+   number, which would then make the combination antisymmetric. This is
+   given the name " colour", although it has nothing to do with the
+   perception of the frequency (or wavelength) of light, which is the
+   usual meaning of colour. This quantum number is the charge involved in
+   the gauge theory called quantum chromodynamics (QCD).
+
+   The only other coloured particle is the gluon, which is the gauge boson
+   of QCD. Like all other non-Abelian gauge theories (and unlike quantum
+   electrodynamics) the gauge bosons interact with one another by the same
+   force that affects the quarks.
+
+   Colour is a gauged SU(3) symmetry. Quarks are placed in the fundamental
+   representation, 3, and hence come in three colours (red, green, and
+   blue). Gluons are placed in the adjoint representation, 8, and hence
+   come in eight varieties. For more on this, see the article on colour
+   charge.
+
+Quark masses
+
+   Although one speaks of quark mass in the same way as the mass of any
+   other particle, the notion of mass for quarks is complicated by the
+   fact that quarks cannot be found free in nature. As a result, the
+   notion of a quark mass is a theoretical construct, which makes sense
+   only when one specifies exactly the procedure used to define it.
+
+Current quark mass
+
+   The approximate chiral symmetry of QCD, for example, allows one to
+   define the ratio between various (up, down and strange) quark masses
+   through combinations of the masses of the pseudo-scalar meson octet in
+   the quark model through chiral perturbation theory, giving
+
+                \frac{m_u}{m_d}=0.56\qquad{\rm
+                and}\qquad\frac{m_s}{m_d}=20.1.
+
+   The fact that m[u]  ≠  0 is important, since there would be no strong
+   CP problem if m[u] were to vanish. The absolute values of the masses
+   are currently determined from QCD sum rules (also called spectral
+   function sum rules) and lattice QCD. Masses determined in this manner
+   are called current quark masses. The connection between different
+   definitions of the current quark masses needs the full machinery of
+   renormalization for its specification.
+
+Valence quark mass
+
+   Another, older, method of specifying the quark masses was to use the
+   Gell-Mann-Nishijima mass formula in the quark model, which connect
+   hadron masses to quark masses. The masses so determined are called
+   constituent quark masses, and are significantly different from the
+   current quark masses defined above. The constituent masses do not have
+   any further dynamical meaning.
+
+Heavy quark masses
+
+   The masses of the heavy charm and bottom quarks are obtained from the
+   masses of hadrons containing a single heavy quark (and one light
+   antiquark or two light quarks) and from the analysis of quarkonia.
+   Lattice QCD computations using the heavy quark effective theory (HQET)
+   or non-relativistic quantum chromodynamics (NRQCD) are currently used
+   to determine these quark masses.
+
+   The top quark is sufficiently heavy that perturbative QCD can be used
+   to determine its mass. Before its discovery in 1995, the best
+   theoretical estimates of the top quark mass are obtained from global
+   analysis of precision tests of the Standard Model. The top quark,
+   however, is unique amongst quarks in that it decays before having a
+   chance to hadronize. Thus, its mass can be directly measured from the
+   resulting decay products. This can only be done at the Tevatron which
+   is the only particle accelerator energetic enough to produce top quarks
+   in abundance.
+
+Properties of quarks
+
+   The following table summarizes the key properties of the six known
+   quarks:
+
+        Generation   Weak
+                   Isospin   Flavour   Name   Symbol Charge / e Mass / MeV. c^-2
+        1          + ^1/[2] I[z]=+1/2 Up      u      + ^2/[3]   1.5 to 4.0
+        1          − ^1/[2] I[z]=−1/2 Down    d      − ^1/[3]   4 to 8
+        2          − ^1/[2] S=−1      Strange s      − ^1/[3]   80 to 130
+        2          + ^1/[2] C=1       Charm   c      + ^2/[3]   1150 to 1350
+        3          − ^1/[2] B′=−1     Bottom  b      − ^1/[3]   4100 to 4400
+        3          + ^1/[2] T=1       Top     t      + ^2/[3]   171400 ± 2100
+
+     * Top quark mass from the Tevatron Electroweak Working Group
+     * Other quark masses from Particle Data Group; these masses are given
+       in the MS-bar scheme.
+     * The quantum numbers of the top and bottom quarks are sometimes
+       known as truth and beauty respectively, as an alternative to
+       topness and bottomness.
+
+Antiquarks
+
+   The additive quantum numbers of antiquarks are equal in magnitude and
+   opposite in sign to those of the quarks. CPT symmetry forces them to
+   have the same spin and mass as the corresponding quark. Tests of CPT
+   symmetry cannot be performed directly on quarks and antiquarks, due to
+   confinement, but can be performed on hadrons. Notation of antiquarks
+   follows that of antimatter in general: an up quark is denoted by
+   \mathrm{u}\, , and an anti-up quark is denoted by \bar{\mathrm{u}} .
+
+Substructure
+
+   Some extensions of the Standard Model begin with the assumption that
+   quarks and leptons have substructure. In other words, these models
+   assume that the elementary particles of the Standard Model are in fact
+   composite particles, made of some other elementary constituents. Such
+   an assumption is open to experimental tests, and these theories are
+   severely constrained by data. At present there is no evidence for such
+   substructure. For more details see the article on preons.
+
+History
+
+   The notion of quarks evolved out of a classification of hadrons
+   developed independently in 1961 by Murray Gell-Mann and Kazuhiko
+   Nishijima, which nowadays goes by the name of the quark model. The
+   scheme grouped together particles with isospin and strangeness using a
+   unitary symmetry derived from current algebra, which we today recognise
+   as part of the approximate chiral symmetry of QCD. This is a global
+   flavour SU(3) symmetry, which should not be confused with the gauge
+   symmetry of QCD.
+
+   In this scheme the lightest mesons (spin-0) and baryons (spin-½) are
+   grouped together into octets, 8, of flavour symmetry. A classification
+   of the spin-3/2 baryons into the representation 10 yielded a prediction
+   of a new particle, Ω^−, the discovery of which in 1964 led to wide
+   acceptance of the model. The missing representation 3 was identified
+   with quarks.
+
+   This scheme was called the eightfold way by Gell-Mann, a clever
+   conflation of the octets of the model with the eightfold way of
+   Buddhism. He also chose the name quark and attributed it to the
+   sentence “Three quarks for Muster Mark” in James Joyce's Finnegans Wake
+   . The negative results of quark search experiments caused Gell-Mann to
+   hold that quarks were mathematical fiction.
+
+   Analysis of certain properties of high energy reactions of hadrons led
+   Richard Feynman to postulate substructures of hadrons, which he called
+   partons (since they form part of hadrons). A scaling of deep inelastic
+   scattering cross sections derived from current algebra by James Bjorken
+   received an explanation in terms of partons. When Bjorken scaling was
+   verified in an experiment in 1969, it was immediately realized that
+   partons and quarks could be the same thing. With the proof of
+   asymptotic freedom in QCD in 1973 by David Gross, Frank Wilczek and
+   David Politzer the connection was firmly established.
+
+   The charm quark was postulated by Sheldon Glashow, Iliopoulos and
+   Maiani in 1973 to prevent unphysical flavour changes in weak decays
+   which would otherwise occur in the standard model. The discovery in
+   1975 of the meson which came to be called the J/ψ led to the
+   recognition that it was made of a charm quark and its antiquark.
+
+   The existence of a third generation of quarks was predicted by
+   Kobayashi and Maskawa who realized that the observed violation of CP
+   symmetry by neutral kaons could not be accommodated into the Standard
+   Model with two generations of quarks. The bottom quark was discovered
+   in 1977 and the top quark in 1996 at the Tevatron collider in Fermilab.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Quark"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

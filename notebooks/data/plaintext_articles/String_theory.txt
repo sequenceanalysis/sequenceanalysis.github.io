@@ -1,0 +1,727 @@
+   #copyright
+
+String theory
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Interaction in the subatomic world: world lines of pointlike particles
+   in the Standard Model or a world sheet swept up by closed strings in
+   string theory
+   Enlarge
+   Interaction in the subatomic world: world lines of pointlike particles
+   in the Standard Model or a world sheet swept up by closed strings in
+   string theory
+
+   String theory is a model of fundamental physics whose building blocks
+   are one-dimensional extended objects ( strings) rather than the
+   zero-dimensional points ( particles) that are the basis of the Standard
+   Model of particle physics. String theorists are attempting to adjust
+   the Standard Model by removing the assumption in quantum mechanics that
+   particles are point-like. By removing this assumption and replacing the
+   point-like particles with strings, it is hoped that string theory will
+   develop into a sensible quantum theory of gravity. Moreover, string
+   theory appears to be able to "unify" the known natural forces
+   (gravitational, electromagnetic, weak and strong) by describing them
+   with the same set of equations.
+
+   No experimental verification or falsification of the theory has yet
+   been possible, thus leading many experts to turn to the alternate
+   model, Loop quantum gravity. However, with the construction of the
+   Large Hadron Collider near Geneva, Switzerland scientists may produce
+   relevant data.
+
+   Studies of string theory have revealed that it predicts not just
+   strings, but also higher-dimensional objects ( branes). String theory
+   strongly suggests the existence of ten or eleven (in M-theory)
+   spacetime dimensions, as opposed to the relativistic four (three
+   spatial and one time).
+
+Overview
+
+   The basic idea behind all string theories is that the fundamental
+   constituents of reality are strings of extremely small scale (possibly
+   Planck length, about 10^-35 m) which vibrate at specific resonant
+   frequencies. Thus, any particle should be thought of as a tiny
+   vibrating object, rather than as a point. This object can vibrate in
+   different modes (just as a guitar string can produce different notes),
+   with every mode appearing as a different particle (electron, photon
+   etc.). Strings can split and combine, which would appear as particles
+   emitting and absorbing other particles, presumably giving rise to the
+   known interactions between particles.
+
+   In addition to strings, string theories also include objects of higher
+   dimensions, such as D-branes and NS-branes. Furthermore, all string
+   theories predict the existence of degrees of freedom which are usually
+   described as extra dimensions. String theory is thought to include some
+   10, 11 or 26 dimensions, depending on the specific theory and on the
+   point of view.
+
+   Interest in string theory is driven largely by the hope that it will
+   prove to be a consistent theory of quantum gravity or even a theory of
+   everything. It can also naturally describe interactions similar to
+   electromagnetism and the other forces of nature. Superstring theories
+   include fermions, the building blocks of matter, and incorporate
+   supersymmetry, a conjectured (but unobserved) symmetry of nature. It is
+   not yet known whether string theory will be able to describe a universe
+   with the precise collection of forces and particles that is observed,
+   nor how much freedom the theory allows to choose those details.
+
+   String theory as a whole has not yet made falsifiable predictions that
+   would allow it to be experimentally tested, though various planned
+   observations and experiments could confirm some essential aspects of
+   the theory, such as supersymmetry and extra dimensions. In addition,
+   the full theory is not yet understood. For example, the theory does not
+   yet have a satisfactory definition outside of perturbation theory; the
+   quantum mechanics of branes (higher dimensional objects than strings)
+   is not understood; the behaviour of string theory in cosmological
+   settings (time-dependent backgrounds) is still being worked out;
+   finally, the principle by which string theory selects its vacuum state
+   is a hotly contested topic (see string theory landscape).
+
+   String theory is thought to be a certain limit of another, more
+   profound theory - M-theory - which is only partly defined and is not
+   well understood.
+
+   A key consequence of the theory is that there is no obvious operational
+   way to probe distances shorter than the string length.
+
+History
+
+   String theory
+     * bosonic string theory
+     * superstring theory
+          + type I string
+          + type II string
+          + heterotic string
+     * M-theory ( simplified)
+     * string field theory
+     * strings
+     * branes
+
+   Related topics
+     * quantum field theory
+          + gauge theory
+          + conformal field theory
+          + topological field theory
+     * supersymmetry
+     * supergravity
+     * general relativity
+     * quantum gravity
+
+   See also
+     * string theory topics
+
+   String theory was originally invented and explored during the late
+   1960s and early 1970s, to explain some peculiarities of the behaviour
+   of hadrons ( subatomic particles such as the proton and neutron which
+   experience the strong nuclear force). In particular, Yoichiro Nambu
+   (and later Lenny Susskind and Holger Nielsen) realized in 1970 that the
+   dual resonance model of strong interactions could be explained by a
+   quantum mechanical model of strings. This approach was abandoned as an
+   alternative theory, quantum chromodynamics, gained experimental
+   support.
+
+   During the mid- 1970s it was discovered that the same mathematical
+   formalism can be used to describe a theory of quantum gravity. This led
+   to the development of bosonic string theory, which is still the version
+   first taught to many students.
+
+   Between 1984 and 1986, physicists realized that string theory could
+   describe all elementary particles and the interactions between them,
+   and hundreds of them started to work on string theory as the most
+   promising idea to unify theories of physics. This is known as the first
+   superstring revolution.
+
+   In the 1990s, Edward Witten and others found strong evidence that the
+   different superstring theories were different limits of a new
+   11-dimensional theory called M-theory. These discoveries sparked the
+   second superstring revolution.
+
+   In the mid 1990s, Joseph Polchinski discovered that the theory requires
+   the inclusion of higher-dimensional objects, called D-branes. These
+   added an additional rich mathematical structure to the theory, and
+   opened many possibilities for constructing realistic cosmological
+   models in the theory.
+
+   In 1997 Juan Maldacena conjectured a relationship between string theory
+   and a gauge theory called N=4 supersymmetric Yang-Mills theory. This
+   conjecture, called the AdS/CFT correspondence has generated a great
+   deal of interest in the field and is now well accepted. It is a
+   concrete realization of the holographic principle, which has
+   far-reaching implications for black holes, locality and information in
+   physics, as well as the nature of the gravitational interaction.
+   Through this relationship, string theory may be related in the future
+   to quantum chromodynamics and lead, eventually, to a better
+   understanding of the behaviour of hadrons, thus returning to its
+   original goal.
+
+   Recently, the discovery of the string theory landscape, which suggests
+   that string theory has an exponentially large number of different
+   vacua, led to discussions of what string theory might eventually be
+   expected to predict, and to the worry that the answer might continue to
+   be nothing.
+
+Basic properties
+
+   String theory is formulated in terms of an action principle, either the
+   Nambu-Goto action or the Polyakov action, which describes how strings
+   move through space and time. Like springs, the strings want to contract
+   to minimize their potential energy, but conservation of energy prevents
+   them from disappearing, and instead they oscillate. By applying the
+   ideas of quantum mechanics to strings it is possible to deduce the
+   different vibrational modes of strings, and that each vibrational state
+   appears to be a different particle. The mass of each particle, and the
+   fashion with which it can interact, are determined by the way the
+   string vibrates — the string can vibrate in many different modes, just
+   like a guitar string can produce different notes. The different modes,
+   each corresponding to a different kind of particle, make up the "
+   spectrum" of the theory. Strings can split and combine, which would
+   appear as particles emitting and absorbing other particles, presumably
+   giving rise to the known interactions between particles.
+
+   String theory includes both open strings, which have two distinct
+   endpoints, and closed strings, where the endpoints are joined to make a
+   complete loop. The two types of string behave in slightly different
+   ways, yielding two different spectra. For example, in most string
+   theories, one of the closed string modes is the graviton, and one of
+   the open string modes is the photon. Because the two ends of an open
+   string can always meet and connect, forming a closed string, there are
+   no string theories without closed strings.
+
+   The earliest string model - the bosonic string, which incorporated only
+   bosons, describes - in low enough energies - a quantum gravity theory,
+   which also includes (if open strings are incorporated as well) gauge
+   fields such as the photon (or, more generally, any Yang-Mills theory).
+   However, this model has problems. Most importantly, the theory has a
+   fundamental instability, believed to result in the decay (at least
+   partially) of space-time itself. Additionally, as the name implies, the
+   spectrum of particles contains only bosons, particles which, like the
+   photon, obey particular rules of behaviour. Roughly speaking, bosons
+   are the constituents of radiation, but not of matter, which is made of
+   fermions. Investigating how a string theory may include fermions in its
+   spectrum led to the invention of supersymmetry, a mathematical relation
+   between bosons and fermions. String theories which include fermionic
+   vibrations are now known as superstring theories; several different
+   kinds have been described, but all are now thought to be different
+   limits of one theory (the M-theory).
+
+   While understanding the details of string and superstring theories
+   requires considerable mathematical sophistication, some qualitative
+   properties of quantum strings can be understood in a fairly intuitive
+   fashion. For example, quantum strings have tension, much like regular
+   strings made of twine; this tension is considered a fundamental
+   parameter of the theory. The tension of a quantum string is closely
+   related to its size. Consider a closed loop of string, left to move
+   through space without external forces. Its tension will tend to
+   contract it into a smaller and smaller loop. Classical intuition
+   suggests that it might shrink to a single point, but this would violate
+   Heisenberg's uncertainty principle. The characteristic size of the
+   string loop will be a balance between the tension force, acting to make
+   it small, and the uncertainty effect, which keeps it "stretched".
+   Consequently, the minimum size of a string is related to the string
+   tension.
+
+Worldsheet
+
+   Imagine a point-like particle. If we draw a graph which depicts the
+   progress of the particle as time passes by, the particle will draw a
+   line in space-time. This line is called the particle's worldline. Now
+   imagine a similar graph depicting the progress of a string as time
+   passes by; the string (a one-dimensional object - a small line - by
+   itself) will draw a surface (a two-dimensional manifold), known as the
+   worldsheet. The different string modes (representing different
+   particles, such as photon or graviton) are surface waves on this
+   manifold.
+
+   A closed string looks like a small loop, so its worldsheet will look
+   like a pipe, or - more generally - as a Riemannian surface (a
+   two-dimensional oriented manifold) with no boundaries (i.e. no edge).
+   An open string looks like a short line, so its worldsheet will look
+   like a strip, or - more generally - as a Riemann surface with a
+   boundary.
+
+   Strings can split and connect. This is reflected by the form of their
+   worldsheet (more accurately, by its topology). For example, if a closed
+   string splits, its worldsheet will look like a single pipe splitting
+   (or connected) to two pipes (often referred to as a pair of pants--see
+   drawing at the top of this page). If a closed string splits and its two
+   parts later reconnect, its worldsheet will look like a single pipe
+   splitting to two and then reconnecting, which also looks like torus
+   connected to two pipes (one representing the ingoing string, and the
+   other - the outgoing one). An open string doing the same thing will
+   have its worldsheet looking like a ring connected to two strips.
+
+   Note that the process of a string splitting (or strings connecting) is
+   a global process of the worldsheet, not a local one: locally, the
+   worldsheet looks the same everywhere and it is not possible to
+   determine a single point on the worldsheet where the splitting occurs.
+   Therefore these processes are an integral part of the theory, and are
+   described by the same dynamics that controls the string modes.
+
+   In some string theories (namely closed strings in Type I and string in
+   some version of the bosonic string), strings can split and reconnect in
+   an opposite orientation (as in a Möbius strip or a Klein bottle). These
+   theories are called unoriented. Formally, the worldsheet in these
+   theories is an non-orientable surface.
+
+Dualities
+
+   Before the "duality revolution" there were believed to be five distinct
+   versions of string theory, plus the (unstable) bosonic and gluonic
+   theories.
+   String Theories
+   Type Spacetime dimensions
+   Details
+   Bosonic 26 Only bosons, no fermions means only forces, no matter, with
+   both open and closed strings; major flaw: a particle with imaginary
+   mass, called the tachyon, representing an instability in the theory.
+   I 10 Supersymmetry between forces and matter, with both open and closed
+   strings, no tachyon, group symmetry is SO(32)
+   IIA 10 Supersymmetry between forces and matter, with closed strings and
+   open strings bound to D-branes, no tachyon, massless fermions spin both
+   ways (nonchiral)
+   IIB 10 Supersymmetry between forces and matter, with closed strings and
+   open strings bound to D-branes, no tachyon, massless fermions only spin
+   one way (chiral)
+   HO 10 Supersymmetry between forces and matter, with closed strings
+   only, no tachyon, heterotic, meaning right moving and left moving
+   strings differ, group symmetry is SO(32)
+   HE 10 Supersymmetry between forces and matter, with closed strings
+   only, no tachyon, heterotic, meaning right moving and left moving
+   strings differ, group symmetry is E[8]×E[8]
+
+   Note that in the type IIA and type IIB string theories closed strings
+   are allowed to move everywhere throughout the ten-dimensional
+   space-time (called the bulk), while open strings have their ends
+   attached to D-branes, which are membranes of lower dimensionality
+   (their dimension is odd - 1,3,5,7 or 9 - in type IIA and even - 0,2,4,6
+   or 8 - in type IIB, including the time direction).
+
+   Before the 1990s, string theorists believed there were five distinct
+   superstring theories: type I, types IIA and IIB, and the two heterotic
+   string theories ( SO(32) and E[8]×E[8]). The thinking was that out of
+   these five candidate theories, only one was the actual correct theory
+   of everything, and that theory was the theory whose low energy limit,
+   with ten dimensions spacetime compactified down to four, matched the
+   physics observed in our world today. It is now known that this picture
+   was naive, and that the five superstring theories are connected to one
+   another as if they are each a special case of some more fundamental
+   theory. These theories are related by transformations that are called
+   dualities. If two theories are related by a duality transformation, it
+   means that the first theory can be transformed in some way so that it
+   ends up looking just like the second theory. The two theories are then
+   said to be dual to one another under that kind of transformation. Put
+   differently, the two theories are two mathematically different
+   descriptions of the same phenomena.
+
+   These dualities link quantities that were also thought to be separate.
+   Large and small distance scales, strong and weak coupling strengths –
+   these quantities have always marked very distinct limits of behaviour
+   of a physical system, in both classical field theory and quantum
+   particle physics. But strings can obscure the difference between large
+   and small, strong and weak, and this is how these five very different
+   theories end up being related.
+
+T-duality
+
+   Suppose we are in ten spacetime dimensions, which means we have nine
+   space dimensions and one time. Take one of those nine space dimensions
+   and make it a circle of radius R, so that traveling in that direction
+   for a distance L = 2πR takes you around the circle and brings you back
+   to where you started. A particle traveling around this circle will have
+   a quantized momentum around the circle, because its momentum is linked
+   to its wavelength (see Wave-particle duality), and 2πR must be a
+   multiple of that. In fact, the particle momentum around the circle -
+   and the contribution to its energy - is of the form n/R (in standard
+   units, for an integer n), so that at large R there will be many more
+   states compared to small R (for a given maximum energy). A string, in
+   addition to traveling around the circle, may also wrap around it. The
+   number of times the string winds around the circle is called the
+   winding number, and that is also quantized (as it must be an integer).
+   Winding around the circle requires energy, because the string must be
+   stretched against its tension, so it contributes an amount of energy of
+   the form wR/L_{st}^2 , where L[st] is a constant called the string
+   length and w is the winding number (an integer). Now (for a given
+   maximum energy) there will be many different states (with different
+   momenta) at large R, but there will also be many different states (with
+   different windings) at small R. In fact, a theory with large R and a
+   theory with small R are equivalent, where the role of momentum in the
+   first is played by the winding in the second, and vice versa.
+   Mathematically, taking R to L_{st}^2/R and switching n and w will yield
+   the same equations. So exchanging momentum and winding modes of the
+   string exchanges a large distance scale with a small distance scale.
+
+   This type of duality is called T-duality. T-duality relates type IIA
+   superstring theory to type IIB superstring theory. That means if we
+   take type IIA and Type IIB theory and compactify them both on a circle
+   (one with a large radius and the other with a small radius) then
+   switching the momentum and winding modes, and switching the distance
+   scale, changes one theory into the other. The same is also true for the
+   two heterotic theories. T-duality also relates type I superstring
+   theory to both type IIA and type IIB superstring theories with certain
+   boundary conditions (termed orientifold).
+
+   Formally, the location of the string on the circle is described by two
+   fields living on it, one which is left-moving and another which is
+   right-moving. The movement of the string centre (and hence its
+   momentum) is related to the sum of the fields, while the string stretch
+   (and hence its winding number) is related to their difference.
+   T-duality can be formally described by taking the left-moving field to
+   minus itself, so that the sum and the difference are interchanged,
+   leading to switching of momentum and winding.
+
+S-duality
+
+   Every force has a coupling constant, which is a measure of its
+   strength, and determines the chances of one particle to emit or absorb
+   another particle. For electromagnetism, the coupling constant is
+   proportional to the square of the electric charge. When physicists
+   study the quantum behaviour of electromagnetism, they can't solve the
+   whole theory exactly, because every particle may emit and absorb many
+   other particles, which may also do the same, endlessly. So events of
+   emission and absorption are considered as perturbations and are dealt
+   with by a series of approximations, first assuming there is only one
+   such event, then correcting the result for allowing two such events,
+   etc (this method is called Perturbation theory). This is a reasonable
+   approximation only if the coupling constant is small, which is the case
+   for electromagnetism. But if the coupling constant gets large, that
+   method of calculation breaks down, and the little pieces become
+   worthless as an approximation to the real physics.
+
+   This also can happen in string theory. String theories have a coupling
+   constant. But unlike in particle theories, the string coupling constant
+   is not just a number, but depends on one of the oscillation modes of
+   the string, called the dilaton. Exchanging the dilaton field with minus
+   itself exchanges a very large coupling constant with a very small one.
+   This symmetry is called S-duality. If two string theories are related
+   by S-duality, then one theory with a strong coupling constant is the
+   same as the other theory with weak coupling constant. The theory with
+   strong coupling cannot be understood by means of perturbation theory,
+   but the theory with weak coupling can. So if the two theories are
+   related by S-duality, then we just need to understand the weak theory,
+   and that is equivalent to understanding the strong theory.
+
+   Superstring theories related by S-duality are: type I superstring
+   theory with heterotic SO(32) superstring theory, and type IIB theory
+   with itself.
+
+   Furthermore, type IIA theory in strong coupling behaves like an
+   11-dimensional theory, with the dilaton field playing the role of an
+   eleventh dimension. This 11-dimensional theory is known as M-theory.
+
+   Unlike the T-duality, however, S-duality has not been proven to even a
+   physics level of rigor for any of the aforementioned cases. It remains,
+   strictly speaking, a conjecture, although most string theorists believe
+   in its validity.
+
+Extra dimensions
+
+   One intriguing feature of string theory is that it predicts the
+   possible number of dimensions in the universe. Nothing in Maxwell's
+   theory of electromagnetism or Einstein's theory of relativity makes
+   this kind of prediction; these theories require physicists to insert
+   the number of dimensions "by hand". The first person to add a fifth
+   dimension to Einstein's general relativity was German mathematician
+   Theodor Kaluza in 1919. The reason for the unobservability of the fifth
+   dimension (its compactness) was suggested by the Swedish physicist
+   Oskar Klein in 1926 (see Kaluza–Klein theory).
+
+   Unlike general relativity, string theory allows one to compute the
+   number of spacetime dimensions from first principles. Technically, this
+   happens because, for a different number of dimensions, the theory has a
+   gauge anomaly. This can be understood by noting that in a consistent
+   theory which includes a photon (technically, a particle carrying a
+   force related to an unbroken gauge symmetry), it must be massless. The
+   mass of the photon which is predicted by string theory depends on the
+   energy of the string mode which represents the photon. This energy
+   includes a contribution from Casimir effect, namely from quantum
+   fluctuations in the string. The size of this contribution depends on
+   the number of dimensions since for a larger number of dimensions, there
+   are more possible fluctuations in the string position. Therefore, the
+   photon will be massless — and the theory consistent — only for a
+   particular number of dimensions.
+
+   When the calculation is done, the universe's dimensionality is not four
+   as one may expect (three axes of space and one of time). Bosonic string
+   theories are 26-dimensional, while superstring and M-theories turn out
+   to involve 10 or 11 dimensions. In bosonic string theories, the 26
+   dimensions come from the Polyakov equation. However, these results
+   appear to contradict the observed four dimensional space-time.
+
+   Two different ways have been proposed to resolve this apparent
+   contradiction. The first is to compactify the extra dimensions; i.e.,
+   the 6 or 7 extra dimensions are so small as to be undetectable in our
+   phenomenal experience. In order to retain the supersymmetric properties
+   of string theory, these spaces must be very special. The 6-dimensional
+   model's resolution is achieved with Calabi-Yau spaces. In 7 dimensions,
+   they are termed G[2] manifolds. These extra dimensions are compactified
+   by causing them to loop back upon themselves.
+
+   A standard analogy for this is to consider multidimensional space as a
+   garden hose. If the hose is viewed from a sufficient distance, it
+   appears to have only one dimension, its length. Indeed, think of a ball
+   just small enough to enter the hose. Throwing such a ball inside the
+   hose, the ball would move more or less in one dimension; in any
+   experiment we make by throwing such balls in the hose, the only
+   important movement will be one-dimensional, that is, along the hose.
+   However, as one approaches the hose, one discovers that it contains a
+   second dimension, its circumference. Thus, an ant crawling inside it
+   would move in two dimensions (and a fly flying in it would move in
+   three dimensions). This "extra dimension" is only visible within a
+   relatively close range to the hose, or if one "throws in" small enough
+   objects. Similarly, the extra compact dimensions are only visible at
+   extremely small distances, or by experimenting with particles with
+   extremely small wave lengths (of the order of the compact dimension's
+   radius), which in quantum mechanics means very high energies (see
+   wave-particle duality).
+
+   Another possibility is that we are stuck in a 3+1 dimensional (i.e.
+   three spatial dimensions plus the time dimension) subspace of the full
+   universe. This subspace is supposed to be a D-brane, hence this is
+   known as a braneworld theory. Many people believe that some combination
+   of the two ideas – compactification and branes – will ultimately yield
+   the most realistic theory.
+
+   In either case, gravity acting in the hidden dimensions affects other
+   non-gravitational forces such as electromagnetism. In fact, Kaluza and
+   Klein's early work demonstrated that general relativity with five large
+   dimensions and one small dimension actually predicts the existence of
+   electromagnetism. However, because of the nature of Calabi-Yau
+   manifolds, no new forces appear from the small dimensions, but their
+   shape has a profound effect on how the forces between the strings
+   appear in our four dimensional universe. In principle, therefore, it is
+   possible to deduce the nature of those extra dimensions by requiring
+   consistency with the standard model, but this is not yet a practical
+   possibility. It is also possible to extract information regarding the
+   hidden dimensions by precision tests of gravity, but so far these have
+   only put upper limitations on the size of such hidden dimensions.
+
+D-branes
+
+   Another key feature of string theory is the existence of D-branes.
+   These are membranes of different dimensionality (anywhere from a zero
+   dimensional membrane - which is in fact a point - and up, including
+   2-dimensional membranes, 3-dimensional volumes and so on).
+
+   D-branes are defined by the fact that worldsheet boundaries are
+   attached to them. Thus D-branes can emit and absorb closed strings;
+   therefore they have mass (since they emit gravitons) and - in
+   superstring theories - charge as well (since they emit closed strings
+   which are gauge bosons).
+
+   From the point of view of open strings, D-branes are objects to which
+   the ends of open strings are attached. The open strings attached to a
+   D-brane are said to "live" on it, and they give rise to gauge theories
+   "living" on it (since one of the open string modes is a gauge boson
+   such as the photon). In the case of one D-brane there will be one type
+   of a gauge boson and we will have an Abelian gauge theory (with the
+   gauge boson being the photon). If there are multiple parallel D-branes
+   there will be multiple types of gauge bosons, giving rise to a
+   non-Abelian gauge theory.
+
+   Thus D-branes are gravitational sources, on which a gauge theory
+   "lives". This gauge theory is coupled to gravity (which is said to
+   exist in the bulk), so that normally each of these two different
+   viewpoints is incomplete.
+
+Gauge-gravity duality
+
+   In certain cases the gauge theory on the D-branes is decoupled from the
+   gravity living in the bulk; thus open strings attached to the D-branes
+   are not interacting with closed strings. Such a situation is termed a
+   decoupling limit.
+
+   In those cases, the D-branes have two independent alternative
+   descriptions. As discussed above, from the point of view of closed
+   strings, the D-branes are gravitational sources, and thus we have a
+   gravitational theory on spacetime with some background fields. From the
+   point of view of open strings, the physics of the D-branes is described
+   by the appropriate gauge theory. Therefore in such cases it is often
+   conjectured that the gravitational theory on spacetime with the
+   appropriate background fields is dual (i.e. physically equivalent) to
+   the gauge theory on the boundary of this spacetime (since the subspace
+   filled by the D-branes is the boundary of this spacetime). So far, this
+   duality has not been proven in any cases, so there is also disagreement
+   among string theorists regarding how strong the duality applies to
+   various models.
+
+   The most known example and the first one to be studied is the duality
+   between Type IIB supergravity on AdS^5 * S^5 (a product space of a
+   five-dimensional Anti de Sitter space and a five-sphere) on one hand,
+   and N=4 supersymmetric Yang-Mills theory on the four-dimensional
+   boundary of the Anti de Sitter space (either a flat four-dimensional
+   spacetime R^3,1 or a three-sphere with time S^3* R). This is known as
+   the AdS/CFT correspondence, a name often used for Gauge / gravity
+   duality in general.
+
+   This duality can be thought of as follows: suppose there is a spacetime
+   with a gravitational source, for example an extremal black hole. When
+   particles are far away from this source, they are described by closed
+   strings (i.e. a gravitational theory, or usually supergravity). As the
+   particles approach the gravitational source, they can still be
+   described by closed strings; alternatively, they can be described by
+   objects similar to QCD strings, which are made of gauge bosons (
+   gluons) and other gauge theory degrees of freedom. So if one is able
+   (in a decoupling limit) to describe the gravitational system as two
+   separate regions - one (the bulk) far away from the source, and the
+   other close to the source - then the latter region can also be
+   described by a gauge theory on D-branes. This latter region (close to
+   the source) is termed the near-horizon limit, since usually there is an
+   event horizon around (or at) the gravitational source.
+
+   In the gravitational theory, one of the directions in spacetime is the
+   radial direction, going from the gravitational source and away (towards
+   the bulk). The gauge theory lives only on the D-brane itself, so it
+   does not include the radial direction: it lives in a spacetime with one
+   less dimension compared to the gravitational theory (in fact, it lives
+   on a spacetime identical to the boundary of the near-horizon
+   gravitational theory). Let us understand how the two theories are still
+   equivalent:
+
+   The physics of the near-horizon gravitational theory involves only
+   on-shell states (as usual in string theory), while the field theory
+   includes also off-shell correlation function. The on-shell states in
+   the near-horizon gravitational theory can be thought of as describing
+   only particles arriving from the bulk to the near-horizon region and
+   interacting there between themselves. In the gauge theory these are
+   "projected" onto the boundary, so that particles which arrive at the
+   source from different directions will be seen in the gauge theory as (
+   off-shell) quantum fluctuations far apart from each other, while
+   particles arriving at the source from almost the same direction in
+   space will be seen in the gauge theory as ( off-shell) quantum
+   fluctuations close to each other. Thus the angle between the arriving
+   particles in the gravitational theory translates to the distance scale
+   between quantum fluctuations in the gauge theory. The angle between
+   arriving particles in the gravitational theory is related to the radial
+   distance from the gravitational source at which the particles interact:
+   the larger the angle, the closer the particles has to get to the source
+   in order to interact with each other. On the other hand, the scale of
+   the distance between quantum fluctuations in a quantum field theory is
+   related (inversely) to the energy scale in this theory. So small radius
+   in the gravitational theory translates to low energy scale in the gauge
+   theory (i.e. the IR regime of the field theory) while large radius in
+   the gravitational theory translates to high energy scale in the gauge
+   theory (i.e. the UV regime of the field theory).
+
+   A simple example to this principle is that if in the gravitational
+   theory there is a setup in which the dilaton field (which determines
+   the strength of the coupling) is decreasing with the radius, then its
+   dual field theory will be asymptotically free, i.e. its coupling will
+   grow weaker in high energies.
+   Unsolved problems in physics: Is string theory, superstring theory, or
+   M-theory, or some other variant on this theme, a step on the road to a
+   " theory of everything," or just a blind alley?
+
+Problems and controversy
+
+   String theory remains to be confirmed. No version of string theory has
+   yet made an experimentally verified prediction that differs from those
+   made by other theories. In this sense, string theory is still in a
+   "larval stage": it is not a proper physical theory. It possesses many
+   features of mathematical interest and may yet become important in our
+   understanding of the universe, but it requires further developments
+   before it is accepted or discarded. Since string theory may not be
+   tested in the foreseeable future, some scientists have asked if it even
+   deserves to be called a scientific theory: it is not falsifiable in the
+   sense of Popper.
+
+   For example, while supersymmetry is now seen as a vital ingredient of
+   string theory, supersymmetric models with no obvious connection to
+   string theory are also studied. Therefore, if supersymmetry were
+   detected at the Large Hadron Collider it would not be seen as a direct
+   confirmation of the theory. More importantly, if supersymmetry were not
+   detected, there are vacua in string theory in which supersymmetry would
+   only be seen at much higher energies, so its absence would not falsify
+   string theory. By contrast, if observing the Sun during a solar eclipse
+   had not shown that the Sun's gravity deflected light by the predicted
+   amount, Einstein's general relativity theory would have been proven
+   wrong.
+
+   One hope for testing string theory is that a better understanding of
+   how string theory deals with singularities and time-dependent
+   backgrounds would allow physicists to understand the predictions of
+   string theory for the big bang, and see how cosmic inflation can be
+   incorporated into the theory. This has led to some deep theoretical
+   progress, and some early models of string cosmology, such as brane
+   inflation, trans-Planckian effects, string gas cosmology and the
+   ekpyrotic universe, but fundamental progress must be made before it is
+   understood what, if any, distinctive predictions the theory makes for
+   cosmology. A recent popular suggestion is that brane inflation may
+   produce cosmic strings which could be observed through their
+   gravitational radiation, or lensing of distant galaxies or the cosmic
+   microwave background.
+
+   On a more mathematical level, another problem is that, like many
+   quantum field theories, much of string theory is still only formulated
+   perturbatively (i.e., as a series of approximations rather than as an
+   exact solution). Although nonperturbative techniques have progressed
+   considerably – including conjectured complete definitions in
+   space-times satisfying certain asymptotics – a full non-perturbative
+   definition of the theory is still lacking.
+
+   Philosophically, string theory cannot be truly fundamental in its
+   present formulation because it is background-dependent: each string
+   theory is built on a fixed spacetime background. Since a dynamic
+   spacetime is the central tenet of general relativity, the hope is that
+   M-theory will turn out to be background-independent, giving as
+   solutions the many different versions of string theories, but no one
+   yet knows how such a fundamental theory can be constructed. A related
+   problem is that the best understood backgrounds of string theory
+   preserve much of the supersymmetry of the underlying theory, and thus
+   are time-invariant: string theory cannot yet deal well with
+   time-dependent, cosmological backgrounds.
+
+   Another problem is that the vacuum structure of the theory, called the
+   string theory landscape, is not well understood. As string theory is
+   presently understood, it appears to contain a large number of distinct
+   vacua, perhaps 10^500 or more. Each of these corresponds to a different
+   universe, with a different collection of particles and forces. What
+   principle, if any, can be used to select among these vacua is an open
+   issue. While there are no known continuous parameters in the theory,
+   there is a very large discretuum (coined in contradistinction to
+   continuum) of possible universes, which may be radically different from
+   each other. Some physicists believe this is a benefit of the theory, as
+   it may allow a natural anthropic explanation of the observed values of
+   physical constants, in particular the small value of the cosmological
+   constant. However, such explanations are not usually regarded as
+   scientific in the Popperian sense.
+
+Popular culture
+
+     * The book The Elegant Universe by Brian Greene, Professor of Physics
+       at Columbia University, was adapted into a three-hour documentary
+       for Nova and also shown on British television. It was also shown by
+       Discovery Channel on Indian television, as well as in Australia on
+       SBS.
+     * String theory is also a series of books based in the Star Trek:
+       Voyager universe.
+     * In the TV series Angel, the character of Winifred Burkle (aka Fred)
+       puts forward a theory about String Theory & Alternate Dimensions to
+       the Physics Institute following her own experience of being trapped
+       in one such delicate alternate dimension for five years. The
+       episode which this is referenced to is "Supersymmetry".
+     * Another theory named string theory was used in the science fiction
+       television series Quantum Leap. In the series it relates to a
+       theory of time travel, and is not related to accepted String
+       Theory. It views a person's life as a string that moves from one
+       end to the other. However, if it were possible to roll up this
+       string into a ball it would be possible to leap from one section to
+       another, as the main character of the show does.
+     * Both the String Theory and the Calabi-Yau Model are mentioned in
+       reference to teleportation in the popular video game Half-Life 2.
+     * In an episode of Criminal Minds, a Schizophrenic hostage taker
+       named Ted Bryar had completed a PhD in string theory in the '80s.
+     * In an episode of Masters of Horror directed by Stuart Gordon, a
+       young grad student from Miskatonic University studies
+       interdimensional string theory in his run-down apartment. Based on
+       the short story "Dreams in the Witch-House" by H.P. Lovecraft.
+     * On the popular CBS drama, Numb3rs, one of the supporting
+       characters, physicist professor Dr. Larry Fleinhardt ( Peter
+       MacNicol), actively researches string theory at 'Cal-Sci' (based on
+       Caltech).
+
+   Retrieved from " http://en.wikipedia.org/wiki/String_theory"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

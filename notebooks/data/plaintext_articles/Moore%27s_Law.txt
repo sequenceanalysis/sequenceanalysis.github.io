@@ -1,0 +1,338 @@
+   #copyright
+
+Moore's Law
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   Growth of transistor counts for Intel processors (dots) and Moore's Law
+   (upper line=18 months; lower line=24 months)
+   Enlarge
+   Growth of transistor counts for Intel processors (dots) and Moore's Law
+   (upper line=18 months; lower line=24 months)
+
+   Moore's Law is the empirical observation made in 1965 that the number
+   of transistors on an integrated circuit for minimum component cost
+   doubles every 24 months. It is attributed to Gordon E. Moore (1929 —),
+   a co-founder of Intel.
+
+Earliest forms
+
+   The term Moore's Law has been coined by Carver Mead around 1970 .
+   Moore's original statement can be found in his publication "Cramming
+   more components onto integrated circuits", Electronics Magazine 19
+   April 1965 :
+
+
+   Moore's Law
+
+    The complexity for minimum component costs has increased at a rate of
+   roughly a factor of two per year ... Certainly over the short term this
+    rate can be expected to continue, if not to increase. Over the longer
+    term, the rate of increase is a bit more uncertain, although there is
+   no reason to believe it will not remain nearly constant for at least 10
+     years. That means by 1975, the number of components per integrated
+    circuit for minimum cost will be 65,000. I believe that such a large
+                   circuit can be built on a single wafer.
+
+
+   Moore's Law
+
+   Under the assumption that chip "complexity" is proportional to the
+   number of transistors, regardless of what they do, the law has largely
+   held the test of time to date. However, one could argue that the
+   per-transistor complexity is less in large RAM cache arrays than in
+   execution units. From this perspective, the validity of one formulation
+   of Moore's Law may be more questionable.
+
+   Gordon Moore's observation was not named a "law" by Moore himself, but
+   by the Caltech professor, VLSI pioneer, and entrepreneur Carver Mead.
+
+   Moore may have heard Douglas Engelbart, a co- inventor of today's
+   mechanical computer mouse, discuss the projected downscaling of
+   integrated circuit size in a 1960 lecture. In 1975, Moore projected a
+   doubling only every two years. He is adamant that he himself never said
+   "every 18 months", but that is how it has been quoted. The SEMATECH
+   roadmap follows a 24 month cycle.
+
+   In April 2005 Intel offered $10,000 to purchase a copy of the original
+   Electronics Magazine.
+
+Understanding Moore's Law
+
+   Moore's law is not about just the density of transistors that can be
+   achieved, but about the density of transistors at which the cost per
+   transistor is the lowest . As more transistors are made on a chip the
+   cost to make each transistor reduces but the chance that the chip will
+   not work due to a defect rises. If the rising cost of discarded non
+   working chips is balanced against the reducing cost per transistor of
+   larger chips, then as Moore observed in 1965 there is an number of
+   transistors or complexity at which "a minimum cost" is achieved. He
+   further observed that as transistors were made smaller through advances
+   in photolithography this number would increase "a rate of roughly a
+   factor of two per year" .
+
+Formulations of Moore's Law
+
+   PC hard disk capacity (in GB). The plot is logarithmic, so the fit line
+   corresponds to exponential growth.
+   Enlarge
+   PC hard disk capacity (in GB). The plot is logarithmic, so the fit line
+   corresponds to exponential growth.
+
+   The most popular formulation is of the doubling of the number of
+   transistors on integrated circuits (a rough measure of computer
+   processing power) every 18 months. At the end of the 1970s, Moore's Law
+   became known as the limit for the number of transistors on the most
+   complex chips. However, it is also common to cite Moore's Law to refer
+   to the rapidly continuing advance in computing power per unit cost.
+
+   A similar law has held for hard disk storage cost per unit of
+   information. The rate of progression in disk storage over the past
+   decades has actually sped up more than once, corresponding to the
+   utilization of error correcting codes, the magnetoresistive effect and
+   the giant magnetoresistive effect. The current rate of increase in hard
+   drive capacity is roughly similar to the rate of increase in transistor
+   count. However, recent trends show that this rate is dropping, and has
+   not been met for the last three years. See Hard disk capacity.
+
+   Another version states that RAM storage capacity increases at the same
+   rate as processing power.
+
+An industry driver
+
+   Although Moore's Law was initially made in the form of an observation
+   and forecast, the more widely it became accepted, the more it served as
+   a goal for an entire industry. This drove both marketing and
+   engineering departments of semiconductor manufacturers to focus
+   enormous energy aiming for the specified increase in processing power
+   that it was presumed one or more of their competitors would soon
+   actually attain. In this regard, it can be viewed as a self-fulfilling
+   prophecy.
+
+   The implications of Moore's Law for computer component suppliers are
+   very significant. A typical major design project (such as an all-new
+   CPU or hard drive) takes between two and five years to reach
+   production-ready status. In consequence, component manufacturers face
+   enormous timescale pressures—just a few weeks of delay in a major
+   project can spell the difference between great success and massive
+   losses, even bankruptcy. Expressed as "a doubling every 18 months",
+   Moore's Law suggests the phenomenal progress of technology in recent
+   years. Expressed on a shorter timescale, however, Moore's Law equates
+   to an average performance improvement in the industry as a whole of
+   over 1% per week. For a manufacturer competing in the competitive CPU
+   market, a new product that is expected to take three years to develop
+   and is just two or three months late is 10 to 15% slower, bulkier, or
+   lower in storage capacity than the directly competing products, and is
+   usually unsellable.
+
+Future trends
+
+   As of Q1 2006, current PC processors are fabricated at the 90  nm level
+   and 65 nm chips are being introduced by Intel ( Pentium D & Intel
+   Core). A decade ago, chips were built at a 500 nm level. Companies are
+   working on using nanotechnology to solve the complex engineering
+   problems involved in producing chips at the 45 nm, 30 nm, and even
+   smaller levels—a process that will postpone the industry meeting the
+   limits of Moore's Law.
+
+   Recent computer industry technology "roadmaps" predict (as of 2001)
+   that Moore's Law will continue for several chip generations. Depending
+   on the doubling time used in the calculations, this could mean up to
+   100 fold increase in transistor counts on a chip in a decade. The
+   semiconductor industry technology roadmap uses a three-year doubling
+   time for microprocessors, leading to about nine-fold increase in a
+   decade.
+
+   In early 2006 IBM researchers announced that they had developed a
+   technique to print circuitry only 29.9 nm wide using deep-ultraviolet
+   (DUV, 193-nanometer) optical lithography. IBM claims that this
+   technique may allow chipmakers to use current methods for seven years
+   while continuing to achieve results predicted by Moore's Law. New
+   methods that can achieve smaller circuits are predicted to be
+   substantially more expensive.
+
+   Since the rapid exponential improvement could (in theory) put 100 GHz
+   personal computers in every home and 20 GHz devices in every pocket,
+   some commentators have speculated that sooner or later computers will
+   meet or exceed any conceivable need for computation. This is only true
+   for some problems—there are others where exponential increases in
+   processing power are matched or exceeded by exponential increases in
+   complexity as the problem size increases. See computational complexity
+   theory and complexity classes P and NP for a (somewhat theoretical)
+   discussion of such problems, which occur very commonly in applications
+   such as scheduling.
+
+   The exponential increase in frequency of operation as the only method
+   of increasing computation speed is misleading. What matters is the
+   exponential increase in useful work (or instructions) executed per unit
+   time. In fact, newer processors are actually being made at lower clock
+   speeds, with focus on larger caches and multiple computing cores. The
+   reason for this is that higher clock speeds correspond to exponential
+   increases in temperature, such that it becomes almost impossible to
+   produce a CPU that runs reliably at speeds higher than 4.3 GHz or so.
+
+   Extrapolation partly based on Moore's Law has led futurists such as
+   Vernor Vinge, Bruce Sterling, and Ray Kurzweil to speculate about a
+   technological singularity. However, on April 13, 2005, Gordon Moore
+   himself stated in an interview that the law may not hold for too long,
+   since transistors may reach the limits of miniaturization at atomic
+   levels.
+
+
+   Moore's Law
+
+   In terms of size [of transistor] you can see that we're approaching the
+   size of atoms which is a fundamental barrier, but it'll be two or three
+   generations before we get that far—but that's as far out as we've ever
+     been able to see. We have another 10 to 20 years before we reach a
+     fundamental limit. By then they'll be able to make bigger chips and
+                  have transistor budgets in the billions.
+
+
+   Moore's Law
+
+   While this time horizon for Moore's Law scaling is possible, it does
+   not come without underlying engineering challenges. One of the major
+   challenges in integrated circuits that use nanoscale transistors is
+   increase in parameter variation and leakage currents. As a result of
+   variation and leakage, the design margins available to do predictive
+   design is becoming harder and additionally such systems dissipate
+   considerable power even when not switching. Adaptive and statistical
+   design along with leakage power reduction is critical to sustain
+   scaling of CMOS. A good treatment of these topics is covered in Leakage
+   in Nanometer CMOS Technologies. Other scaling challenges include:
+    1. The ability to control parasitic resistance and capacitance in
+       transistors,
+    2. The ability to reduce resistance and capacitance in electrical
+       interconnects,
+    3. The ability to maintain proper transistor electrostatics that allow
+       the gate terminal to control the ON/OFF behaviour,
+    4. Increasing effect of line edge roughness,
+    5. Dopant fluctuations,
+    6. System level power delivery,
+    7. Thermal design to effectively handle the dissipation of delivered
+       power, and
+    8. Solve all these challenges with ever-reducing cost of manufacturing
+       of the overall system.
+
+   Kurzweil expansion of Moore's Law shows that due to paradigm shifts the
+   underlying trend holds true from integrated circuits to earlier
+   transistors, vacuum tubes, relays and electromechanical computers.
+   Enlarge
+   Kurzweil expansion of Moore's Law shows that due to paradigm shifts the
+   underlying trend holds true from integrated circuits to earlier
+   transistors, vacuum tubes, relays and electromechanical computers.
+
+   Kurzweil projects that a continuation of Moore's Law until 2019 will
+   result in transistor features just a few atoms in width. Although this
+   means that the strategy of ever finer photolithography will have run
+   its course, he speculates that this does not mean the end of Moore's
+   Law:
+
+
+   Moore's Law
+
+     Moore's Law of Integrated Circuits was not the first, but the fifth
+    paradigm to provide accelerating price-performance. Computing devices
+   have been consistently multiplying in power (per unit of time) from the
+   mechanical calculating devices used in the 1890 US Census, to Turing's
+    relay-based "Robinson" machine that cracked the Nazi enigma code, to
+   the CBS vacuum tube computer that predicted the election of Eisenhower,
+    to the transistor-based machines used in the first space launches, to
+             the integrated-circuit-based personal [computers].
+
+
+   Moore's Law
+
+   Thus, Kurzweil conjectures that it is likely that some new type of
+   technology will replace current integrated-circuit technology, and that
+   Moore's Law will hold true long after 2020. He believes that the
+   exponential growth of Moore's Law will continue beyond the use of
+   integrated circuits into technologies that will lead to the
+   technological singularity. The Law of Accelerating Returns described by
+   Ray Kurzweil has in many ways altered the public's perception of
+   Moore's Law. It is a common (but mistaken) belief that Moore's Law
+   makes predictions regarding all forms of technology, when it actually
+   only concerns semiconductor circuits. Many futurists still use the term
+   "Moore's Law" to describe ideas like those put forth by Kurzweil.
+
+   Krauss and Starkman announced an ultimate limit of around 600 years in
+   their paper "Universal Limits of Computation", based on rigorous
+   estimation of total information-processing capacity of any system in
+   the Universe.
+
+   Then again, the law has often met obstacles that appeared
+   insurmountable, before soon surmounting them. In that sense, Mr. Moore
+   says he now sees his law as more beautiful than he had realised.
+   "Moore's Law is a violation of Murphy's Law. Everything gets better and
+   better."
+
+Other considerations
+
+   Not all aspects of computing technology develop in capacities and speed
+   according to Moore's Law. Random Access Memory (RAM) speeds and hard
+   drive seek times improve at best a few percentage points each year.
+   Since the capacity of RAM and hard drives is increasing much faster
+   than is their access speed, intelligent use of their capacity becomes
+   more and more important. It now makes sense in many cases to trade
+   space for time, such as by precomputing indexes and storing them in
+   ways that facilitate rapid access, at the cost of using more disk and
+   memory space: space is getting cheaper relative to time.
+
+   Another, sometimes misunderstood, point is that exponentially improved
+   hardware does not necessarily imply exponentially improved software to
+   go with it. The productivity of software developers most assuredly does
+   not increase exponentially with the improvement in hardware, but by
+   most measures has increased only slowly and fitfully over the decades.
+   Software tends to get larger and more complicated over time, and
+   Wirth's law even states that "Software gets slower faster than hardware
+   gets faster".
+
+   Moreover, there is popular misconception that the clock speed of a
+   processor determines its speed, also known as the Megahertz Myth. This
+   actually also depends on the number of instructions per tick which can
+   be executed (as well as the complexity of each instruction, see MIPS,
+   RISC and CISC), and so the clock speed can only be used for comparison
+   between two identical circuits. Of course, other factors must be taken
+   into consideration such as the bus size and speed of the peripherals.
+   Therefore, most popular evaluations of "computer speed" are inherently
+   biased, without an understanding of the underlying technology. This was
+   especially true during the Pentium era when popular manufacturers
+   played with public perceptions of speed, focusing on advertising the
+   clock rate of new products.
+
+   It is also important to note that transistor density in multi-core CPUs
+   does not necessarily reflect a similar increase in practical computing
+   power, due to the unparallelized nature of most applications.
+
+   As the cost to the consumer of computer power falls, the cost for
+   producers to achieve Moore's Law has the opposite trend: R&D,
+   manufacturing, and test costs have increased steadily with each new
+   generation of chips. As the cost of semiconductor equipment is expected
+   to continue increasing, manufacturers must sell larger and larger
+   quantities of chips to remain profitable. (The cost to tape-out a chip
+   at 180nm was roughly $300,000 USD. The cost to tape-out a chip at 90nm
+   exceeds $750,000 USD, and the cost is expected to exceed $1.0M USD for
+   65nm.) In recent years, analysts have observed a decline in the number
+   of "design starts" at advanced process nodes (0.13μm and below.) While
+   these observations were made in the period after the 2000 economic
+   downturn, the decline may be evidence that traditional manufacturers in
+   the long-term global market cannot economically sustain Moore's Law.
+   However, Intel was reported in 2005 as stating that the downsizing of
+   silicon chips with good economics can continue for the next decade.
+   Intel's prediction of increasing use of materials other than silicon,
+   was verified in mid-2006, as was its intent of using trigate
+   transistors around 2009. Researchers from IBM and Georgia Tech created
+   a new speed record when they ran a silicon/germanium helium supercooled
+   chip at 500 gigahertz (GHz). The chip operated above 500 GHz at 4.5 K
+   (—451°F) and simulations showed that it could likely run at 1 THz
+   (1,000 GHz), though it should be noted that this was an extremely
+   simple device and that practical desktop CPUs running at this speed are
+   extremely unlikely using contemporary silicon chip techniques .
+
+   Retrieved from " http://en.wikipedia.org/wiki/Moore%27s_Law"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

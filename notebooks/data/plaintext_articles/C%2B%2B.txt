@@ -1,0 +1,552 @@
+   #copyright
+
+C++
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   CAPTION: C++
+
+ Image:C plus plus book.jpg
+       Paradigm:        multi-paradigm: generic-programming language with a bias
+                        towards systems programming, object-oriented, procedural
+      Appeared in:      1985, last revised 2003
+      Designed by:      Bjarne Stroustrup
+   Typing discipline:   static, unsafe, nominative
+ Major implementations: GNU Compiler Collection, Microsoft Visual C++,
+                        Borland C++ Builder
+       Dialects:        ANSI C++ 1998, ANSI C++ 2003
+     Influenced by:     C, Simula, Ada 83, ALGOL 68, CLU, ML
+      Influenced:       Ada 95, C#, Java, PHP, D
+
+   C++ (generally pronounced /si plʌs plʌs/) is a general-purpose,
+   high-level programming language with low-level facilities. It is a
+   statically typed free-form multi-paradigm language supporting
+   procedural programming, data abstraction, object-oriented programming,
+   and generic programming. Since the 1990s, C++ has been one of the most
+   popular commercial programming languages.
+
+   Bjarne Stroustrup developed C++ (originally named "C with Classes") in
+   1983 at Bell Labs as an enhancement to the C programming language.
+   Enhancements started with the addition of classes, followed by, among
+   other features, virtual functions, operator overloading, multiple
+   inheritance, templates, and exception handling. The C++ programming
+   language standard was ratified in 1998 as ISO/IEC 14882:1998, the
+   current version of which is the 2003 version, ISO/IEC 14882:2003. A new
+   version of the standard (known informally as C++0x) is being developed.
+
+History
+
+   Stroustrup began work on C with Classes in 1979. The idea of creating a
+   new language originated from Stroustrup's experience in programming for
+   his Ph.D. thesis. Stroustrup found that Simula had features that were
+   very helpful for large software development, but the language was too
+   slow for practical use, while BCPL was fast but too low-level and
+   unsuitable for large software development. When Stroustrup started
+   working in Bell Labs, he had the problem of analyzing the UNIX kernel
+   with respect to distributed computing. Remembering his Ph.D.
+   experience, Stroustrup set out to enhance the C language with
+   Simula-like features. C was chosen because it is general-purpose, fast,
+   and portable. Besides C and Simula, some other languages which inspired
+   him were ALGOL 68, Ada, CLU and ML. At first, the class, derived class,
+   strong type checking, inlining, and default argument features were
+   added to C via Cfront. The first commercial release occurred in October
+   1985.
+
+   In 1983, the name of the language was changed from C with Classes to
+   C++. New features were added including virtual functions, function name
+   and operator overloading, references, constants, user-controlled
+   free-store memory control, improved type checking, and a new
+   single-line comment style with two forward slashes (//). In 1985, the
+   first edition of The C++ Programming Language was released, providing
+   an important reference to the language, as there was not yet an
+   official standard. In 1989, Release 2.0 of C++ was released. New
+   features included multiple inheritance, abstract classes, static member
+   functions, const member functions, and protected members. In 1990, The
+   Annotated C++ Reference Manual was published. This work became the
+   basis for the future standard. Late addition of features included
+   templates, exceptions, namespaces, new casts, and a Boolean type.
+
+   As the C++ language evolved, a standard library also evolved with it.
+   The first addition to the C++ standard library was the stream I/O
+   library which provided facilities to replace the traditional C
+   functions such as printf and scanf. Later, among the most significant
+   additions to the standard library, was the Standard Template Library.
+
+   After years of work, a joint ANSI- ISO committee standardized C++ in
+   1998 ( ISO/IEC 14882:1998). For some years after the official release
+   of the standard in 1998, the committee processed defect reports, and
+   published a corrected version of the C++ standard in 2003. In 2005, a
+   technical report, called the " Library Technical Report 1" (often known
+   as TR1 for short) was released. While not an official part of the
+   standard, it gives a number of extensions to the standard library which
+   are expected to be included in the next version of C++. Support for TR1
+   is growing in almost all currently maintained C++ compilers.
+
+   While the C++ language is royalty-free, the standard document itself is
+   not freely available.
+
+The name "C++"
+
+   This name is credited to Rick Mascitti (mid-1983) and was first used in
+   December 1983. Earlier, during the research period, the developing
+   language had been referred to as "new C", then " C with Classes". The
+   final name stems from C's "++" operator (which increments the value of
+   a variable) and a common naming convention of using "+" to indicate an
+   enhanced computer program. According to Stroustrup: "the name signifies
+   the evolutionary nature of the changes from C". C+ was the name of an
+   earlier, unrelated programming language.
+
+   Stroustrup addressed the origin of the name in the preface of later
+   editions of his book, The C++ Programming Language, adding that "C++"
+   might be inferred from the appendix of George Orwell's Nineteen
+   Eighty-Four. Of the three segments of the fictional language Newspeak,
+   the "C vocabulary" is the one dedicated to technical terms and jargon.
+   "Doubleplus" is the superlative modifier for Newspeak adjectives. Thus,
+   "C++" might hold the meaning "most extremely technical or jargonous" in
+   Newspeak.
+
+   When Rick Mascitti was questioned informally in 1992 about the naming,
+   he indicated that it was given in a tongue-in-cheek spirit. He never
+   thought that it would become the formal name of the language.
+
+Future development
+
+   C++ continues to evolve to meet future requirements. One group in
+   particular, Boost.org, works to make the most of C++ in its current
+   form and advises the C++ standards committee as to which features work
+   well and which need improving. Current work indicates that C++ will
+   capitalize on its multi-paradigm nature more and more. The work at
+   Boost, for example, is greatly expanding C++'s functional and
+   metaprogramming capabilities. A new version of the C++ standard is
+   currently being worked on, entitled "C++0X" (denoting the fact it is
+   expected to be released before 2010) which will include a number of new
+   features.
+
+Philosophy
+
+   In The Design and Evolution of C++ (1994), Bjarne Stroustrup describes
+   some rules that he uses for the design of C++. Knowing the rules helps
+   to understand why C++ is the way it is. The following is a summary of
+   the rules. Much more detail can be found in The Design and Evolution of
+   C++.
+     * C++ is designed to be a statically typed, general-purpose language
+       that is as efficient and portable as C
+     * C++ is designed to directly and comprehensively support multiple
+       programming styles ( procedural programming, data abstraction,
+       object-oriented programming, and generic programming)
+     * C++ is designed to give the programmer choice, even if this makes
+       it possible for the programmer to choose incorrectly
+     * C++ is designed to be as compatible with C as possible, therefore
+       providing a smooth transition from C
+     * C++ avoids features that are platform specific or not general
+       purpose
+     * C++ does not incur overhead for features that are not used
+     * C++ is designed to function without a sophisticated programming
+       environment
+
+   Stanley B. Lippman describes various models in his in-depth book
+   "Inside the C++ Object Model" (1996) for how compilers may convert C++
+   program statements into an in-memory layout. Compiler vendors are free
+   to implement the standard in their own manner. Lippman worked on
+   implementing and maintaining C-front, the original C++ implementation
+   at Bell Labs.
+
+Standard library
+
+   The 1998 C++ standard consists of two parts: the core language and the
+   C++ standard library; the latter includes most of the Standard Template
+   Library and a slightly modified version of the C standard library. Many
+   C++ libraries exist which are not part of the standard, and, using
+   external linkage, libraries can even be written in C.
+
+   The C++ standard library incorporates the C standard library with some
+   small modifications to make it work better with the C++ language.
+   Another large part of the C++ library is based on the Standard Template
+   Library (STL). This provides such useful tools as containers (for
+   example vectors and lists), iterators (generalized pointers) to provide
+   these containers with array-like access and algorithms to perform
+   operations such as searching and sorting. Furthermore (multi)maps (
+   associative arrays) and (multi)sets are provided, all of which export
+   compatible interfaces. Therefore it is possible, using templates, to
+   write generic algorithms that work with any container or on any
+   sequence defined by iterators. As in C, the features of the library are
+   accessed by using the #include directive to include a standard header.
+   C++ provides sixty-nine standard headers, of which nineteen are
+   deprecated.
+
+   Using the standard library--for example, using std::vector or
+   std::string instead of a C-style array--can help lead to safer and more
+   scalable software.
+
+   The STL was originally a third-party library from HP and later SGI,
+   before its incorporation into the C++ standard. The standard does not
+   refer to it as "STL", as it is merely a part of the standard library,
+   but many people still use that term to distinguish it from the rest of
+   the library (input/output streams, internationalization, diagnostics,
+   the C library subset, etc.).
+
+   Most C++ compilers provide an implementation of the C++ standard
+   library, including the STL. Compiler-independent implementations of the
+   STL, such as STLPort, also exist. Other projects also produce various
+   custom implementations of the C++ standard library and the STL with
+   various design goals.
+
+Features introduced in C++
+
+   Compared to the C language, C++ introduced extra features, including
+   declarations as statements, function-like casts, new/ delete, bool,
+   reference types, inline functions, default arguments, function
+   overloading, namespaces, classes (including all class-related features
+   such as inheritance, member functions, virtual functions, abstract
+   classes, and constructors), operator overloading, templates, the ::
+   operator, exception handling, and runtime type identification.
+
+   Contrary to popular belief, C++ did not introduce the const keyword
+   first. Const was formally added to C shortly before it was adopted by
+   C++.
+
+   C++ also performs more type checking than C in several cases (see
+   "Incompatibility with C" below).
+
+   Comments starting with two slashes ("//") were originally part of C's
+   predecessor, BCPL, and were reintroduced in C++.
+
+   Several features of C++ were later adopted by C, including declarations
+   in for loops, C++-style comments (using the // symbol), and inline,
+   though the C99 definition of the inline keyword is not compatible with
+   its C++ definition. However, C99 also introduced features that do not
+   exist in C++, such as variadic macros and better handling of arrays as
+   parameters; some C++ compilers may implement some of these features as
+   extensions, but others are incompatible with existing C++ features.
+
+   A very common source of confusion is a subtle terminology issue:
+   because of its derivation from C, in C++ the term object means memory
+   area, just like in C, and not class instance, which is what it means in
+   most other object oriented languages. For example, in both C and C++,
+   the statement int i; defines an object of type int, that is the memory
+   area where the value of the variable i will be stored on assignment.
+
+Incompatibility with C
+
+   C++ is often considered to be a superset of C, but this is not strictly
+   true. Most C code can easily be made to compile correctly in C++, but
+   there are a few differences that cause some valid C code to be invalid
+   in C++, or to behave differently in C++.
+
+   Perhaps the most commonly encountered difference is that C allows
+   implicit conversion from void* to other pointer types, but C++ does
+   not. So, the following is valid C code:
+int *i = malloc(sizeof(int) * 5);     /* Implicit conversion from void* to int*
+*/
+
+   but to make it work in both C and C++ one would need to use an explicit
+   cast:
+int *i = (int *) malloc(sizeof(int) * 5);
+
+   Another common portability issue is that C++ defines many new keywords,
+   such as new and class, that may be used as identifiers (e.g. variable
+   names) in a C program.
+
+   Some incompatibilities have been removed by the latest (C99) C
+   standard, which now supports C++ features such as // comments and mixed
+   declarations and code. However, C99 introduced a number of new features
+   that conflict with C++ (such as variable-length arrays, native
+   complex-number types, and compound literals), so the languages may be
+   diverging more than they are converging.
+
+   In order to intermix C and C++ code, any C code which is to be called
+   from/used in C++ must be put in extern "C" { /* C code */ }.
+
+Language features
+
+Operators
+
+   1. logical 2. releational 3. unary
+
+Preprocessor
+
+   C++ is principally compiled in three phases: preprocessing, translation
+   to object code, and linking (the two last phases are what is generally
+   thought of as the "compilation" proper). In the first phase,
+   preprocessing, preprocessor directives apply lexical transformations to
+   the source code, which is then fed to the next compilation stage.
+
+Preprocessor directives and macros
+
+   Pre-processing directives work by simple substitution of tokenized
+   character sequences for other tokenized character sequences, according
+   to user-defined rules. They typically perform macro substitution,
+   inclusion of other files (by opposition to higher-order features such
+   as inclusion of modules/packages/units/components), conditional
+   compilation and/or conditional inclusion. For instance:
+#define PI 3.1415926535897932384626433832795
+
+   Every time PI appears in the source code it will be replaced with
+   3.1415926535897932384626433832795. Another common example is
+#include <iostream>
+
+   which includes (imports) all symbols from the standard library header
+   file iostream. In addition to the most common directives mentioned
+   above, there are several additional preprocessor directives that
+   control the flow of compilation, conditionally include or exclude code
+   blocks, and control various other aspects of compilation.
+
+Templates
+
+   Templates are different from macros: while both of these compile-time
+   language features can be used to produce conditional compilation,
+   templates are not restricted to lexical substitution. Templates have an
+   awareness of the semantics and type system of their companion language
+   as well as all compile-time type definitions and can perform high-level
+   operations including programmatic flow control based on evaluation of
+   strictly type-checked parameters. Macros are capable of conditional
+   control over compilation based on predetermined criteria but cannot
+   instantiate new types, recurse or perform type evaluation and in effect
+   are limited to pre-compilation text-substitution and
+   text-inclusion/exclusion. In other words, macros can control
+   compilation flow based on pre-defined symbols but cannot, unlike
+   templates, independently instantiate new symbols. Templates are a tool
+   for static polymorphism (see below) and generic programming. For
+   example, a template replacing the common, but dangerous, macro #define
+   max(x,y) ((x)>(y)?(x):(y)):
+template <typename T>
+T max(T x, T y)
+{
+    if (x < y)
+        return y;
+    else
+        return x;
+}
+
+   This can be found in the algorithm header as std::max().
+
+   In addition, templates are a compile time mechanism in C++ which is
+   Turing-complete, meaning that any computation expressible by a computer
+   program can be computed, in some form, by a template metaprogram prior
+   to runtime.
+
+Objects
+
+   C++ introduces some object-oriented (OO) features to C. It offers
+   classes, which provide the four features commonly present in OO (and
+   some non-OO) languages: abstraction, encapsulation, inheritance and
+   polymorphism. Objects are set by classes, which are basically like a
+   set of attributes already defined, and can be created at any time.
+
+Encapsulation
+
+   C++ implements encapsulation by allowing all members of a class to be
+   declared as either public, private, or protected. A public member of
+   the class will be accessible to any function. A private member will
+   only be accessible to functions that are members of that class and to
+   functions and classes explicitly granted access permission by the class
+   ("friends"). A protected member will be accessible to members of
+   classes that inherit from the class in addition to the class itself and
+   any friends.
+
+   The OO principle is that all and only the functions that can access the
+   internal representation of a type should be encapsulated within the
+   type definition. C++ supports this (via member functions and friend
+   functions), but does not enforce it: the programmer can declare parts
+   or all of the representation of a type to be public, and is also
+   allowed to make public entities that are not part of the representation
+   of the type. Because of this, C++ supports not just OO programming but
+   other weaker decomposition paradigms, like modular programming.
+
+   It is generally considered good practice to make all data private or
+   protected, and to make public only those functions that are part of a
+   minimal interface for users of the class, that hides implementation
+   details.
+
+Inheritance
+
+   Inheritance from a base class may be declared as public, protected, or
+   private. This access specifier determines whether unrelated and derived
+   classes can access the inherited public and protected members of the
+   base class. Only public inheritance corresponds to what is usually
+   meant by "inheritance". The other two forms are much less frequently
+   used. If the access specifier is omitted, inheritance is assumed to be
+   private for a class base and public for a struct base. Base classes may
+   be declared as virtual; this is called virtual inheritance. Virtual
+   inheritance ensures that only one instance of a base class exists in
+   the inheritance graph, avoiding some of the ambiguity problems of
+   multiple inheritance.
+
+   Multiple inheritance is a C++ feature sometimes considered
+   controversial. Multiple inheritance allows a class to be derived from
+   more than one base class; this can result in a complicated graph of
+   inheritance relationships. For example, a "Flying Cat" class can
+   inherit from both "Cat" and "Flying Mammal". Some other languages, such
+   as C# or Java, accomplish something similar (although more limited) by
+   allowing inheritance of multiple interfaces while restricting the
+   number of base classes to one (interfaces, unlike classes, provide no
+   implementation of function members).
+
+Polymorphism
+
+   C++ supports several kinds of static ( compile-time) and dynamic (
+   run-time) polymorphism. Compile-time polymorphism does not allow for
+   certain run-time decisions, while run-time polymorphism typically
+   incurs more of a performance penalty.
+
+   Static polymorphism
+
+          Function overloading
+
+   Function overloading allows programs to declare multiple functions with
+   the same name. The functions are distinguished by the number and/or
+   types of their formal parameters. Thus, the same function name can
+   refer to different functions depending on the context in which it is
+   used.
+
+          Operator overloading
+
+   Similarly, operator overloading allows programs to define certain
+   operators (such as +, !=, <, or &) to result in a function call that
+   depends on the types of the operands they are used on.
+
+          Class and function templates
+
+   Templates in C++ provide a sophisticated mechanism for writing generic,
+   polymorphic code. In particular, through the Curiously Recurring
+   Template Pattern it's possible to implement a form of static
+   polymorphism that closely mimics the syntax for overriding virtual
+   methods (a dynamic polymorphism technique described below). Since C++
+   templates are type-aware and Turing-complete they can also be used to
+   let the compiler resolve recursive conditionals and generate
+   substantial programs through template metaprogramming.
+
+   Dynamic polymorphism
+
+          Polymorphism through inheritance
+
+   Variable pointers (and references) of a base class type in C++ can
+   refer to objects of any derived classes of that type in addition to
+   objects exactly matching the variable type. This allows arrays or other
+   containers of a given type of object to hold pointers to multiple types
+   of objects, which cannot be done otherwise in C++. Because assignment
+   of values to variables usually occurs at run-time, this is necessarily
+   a run-time phenomenon.
+
+   C++ also provides a dynamic_cast operator, which allows the program to
+   safely attempt conversion of an object into an object of a more
+   specific object type (as opposed to conversion to a more general type,
+   which is always allowed). This feature relies on run-time type
+   information (RTTI). Objects known to be of a certain specific type can
+   also be cast to that type with static_cast, a purely compile-time
+   construct which is faster and does not require RTTI.
+
+          Virtual member functions
+
+   Through virtual member functions, different objects that share a common
+   base class may all support an operation in different ways. The member
+   functions implemented by the derived class are said to override the
+   same member functions of the base class. In contrast with function
+   overloading, the parameters for a given member function are always
+   exactly the same number and type. Only the type of the object for which
+   this method is called varies. In addition to standard member functions,
+   operator overloads and destructors can also be virtual.
+
+   By virtue of inherited objects being polymorphic, it may not be
+   possible for the compiler to determine the type of the object at
+   compile time. The decision is therefore put off until runtime, and is
+   called dynamic dispatch. In this way, the most specific implementation
+   of the function is called, according to the actual run-time type of the
+   object. In C++, this is commonly done using virtual function tables.
+   This may sometimes be bypassed by prepending a fully qualified class
+   name before the function call, but calls to virtual functions are in
+   general always resolved at run time.
+
+          An example
+
+#include <iostream>
+
+class Bird                 // the "generic" base class
+{
+public:
+  virtual void OutputName() {std::cout << "a bird";}
+  virtual ~Bird() {}
+};
+
+class Swan : public Bird   // Swan derives from Bird
+{
+public:
+  void OutputName() {std::cout << "a swan";} // overrides virtual function
+};
+
+int main()
+{
+  Bird* myBird = new Swan; // Declares a pointer to a generic Bird,
+                           // and sets it pointing to a newly created Swan.
+
+  myBird->OutputName();    // This will output "a swan", not "a bird".
+
+  delete myBird;
+
+  return 0;
+}
+
+   This example program makes use of virtual functions, polymorphism, and
+   inheritance to derive new, more specific objects from a base class. In
+   this case, the base class is a Bird, and the more specific Swan is
+   made.
+
+Problems and controversies
+
+   C++ has been the subject of debate. Traditionally, C++ compilers have
+   had a range of problems. The C++ standard does not cover implementation
+   of name mangling, exception handling, and other implementation-specific
+   features, making object code produced by different compilers
+   incompatible; there are, however, 3rd-party standards for particular
+   machines or operating systems which attempt to standardize compilers on
+   those platforms (for example C++ ABI); some compilers adopt a secondary
+   standard for these items.
+
+   For many years, different C++ compilers implemented the C++ language to
+   different levels of compliance to the standard, and their
+   implementations varied widely in some areas such as partial template
+   specialization. Recent releases of most popular C++ compilers support
+   almost all of the C++ 1998 standard . One particular point of
+   contention is the export keyword, intended to allow template
+   definitions to be separated from their declarations. The first compiler
+   to implement export was Comeau C++, in early 2003 (5 years after the
+   release of the standard); in 2004, beta compiler of Borland C++ Builder
+   X was also released with export. Both of these compilers are based on
+   the EDG C++ front end. It should also be noted that many C++ books
+   provide example code for implementing the keyword export (for example,
+   Beginning ANSI C++ by Ivor Horton) which will not compile, but there is
+   no reference to the problem with the keyword export mentioned. Other
+   compilers such as GCC do not support it at all. Herb Sutter, secretary
+   of the C++ standards committee, recommended that export be removed from
+   future versions of the C++ standard , but finally the decision was made
+   to leave it in the C++ standard .
+
+   Modern critics of the language raise several points. First, since C++
+   is based on and largely compatible with C, it inherits most of the
+   criticisms levelled at that language. Taken as a whole C++ has a large
+   feature set, including all of C, plus a large set of its own additions,
+   in part leading to criticisms of being a "bloated" and complicated
+   language, especially for embedded systems due to features such as
+   exceptions and RTTI which add to code size. The Embedded C++ standard
+   was specified to deal with part of this, but it received criticism for
+   leaving out useful parts of the language that incur no runtime penalty.
+   Because of its large featureset it can be quite difficult to fully
+   master, leading to programmers often bringing unnecessarily advanced or
+   complicated solutions to simple problems, and it is relatively
+   difficult to write a good C++ parser with modern algorithms (see ).
+   This is partly because the C++ grammar is not LALR(1). Because of this,
+   there are very few tools for analyzing or performing non-trivial
+   transformations (e.g., refactoring) of existing code.
+
+   C++ is also sometimes compared unfavorably with single-paradigm
+   object-oriented languages such as Java, on the basis that it allows
+   programmers to "mix and match" object-oriented and procedural
+   programming, rather than strictly enforcing a single paradigm. This is
+   part of a wider debate on the relative merits of the two programming
+   styles.
+
+   Retrieved from " http://en.wikipedia.org/wiki/C%2B%2B"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

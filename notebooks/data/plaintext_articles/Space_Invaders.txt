@@ -1,0 +1,297 @@
+   #copyright
+
+Space Invaders
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+   Space Invaders
+   Space Invaders screenshot
+   Developer(s) Taito Corporation
+   Publisher(s) Midway
+   Designer(s) Toshihiro Nishikado - Game Designer
+   David Yuh - Programmer
+   Release date(s) 1978
+   Genre(s) Fixed Shooter
+   Mode(s) Single player
+   Platform(s) Arcade
+   Input Two motion buttons, one fire button, and two start buttons
+   Arcade cabinet Upright
+   Arcade CPU(s) 1x Intel 8080 @ 2.000 MHz
+   Arcade sound system(s) Texas Instruments SN76477
+   Arcade display Monochrome raster, vertical orientation
+
+   Space Invaders is an arcade video game designed by Toshihiro Nishikado
+   in 1978. It was originally manufactured by Taito and licensed for
+   production in the U.S. by the Midway division of Bally. Released (at
+   first in its native Japan) in 1978, it ranks as one of the most
+   influential video games ever created. Though simplistic by today's
+   standards, it was one of the forerunners of modern video gaming.
+
+Description
+
+   Inspired by Taito's earlier electromechanical machine Space Monsters
+   and and Toshiro's interpretation of alien descriptions in War of the
+   Worlds, the game itself resembled an adaptation of the two. In this
+   video game version of the game, the player controlled the motions of a
+   movable laser cannon that moved back and forth across the bottom of the
+   video screen. Rows and rows of video aliens marched back and forth
+   across the screen, slowly advancing down from the top to the bottom of
+   the screen. If any of the aliens successfully landed on the bottom of
+   the screen the game would end. The player's laser cannon had an
+   unlimited supply of ammunition to shoot at the aliens and destroy them
+   before they hit the bottom of the screen.
+
+   Meanwhile, the aliens would shoot back at the player, raining deadly
+   rays and bombs that the player would have to dodge lest his cannon be
+   destroyed. The player's cannon could be destroyed three times (the
+   player had three lives), and the game would end after the player's last
+   life was lost. Occasionally a bonus spaceship would fly across the top
+   of the screen which the player could shoot for extra points.
+
+   As the player destroyed an increasing number of aliens, the aliens
+   began marching faster and faster, with the lone remaining alien zooming
+   rapidly across the screen. Shooting the last alien in the formation
+   rewarded the player with a new screen of aliens, which began their
+   march one row lower than the previous round.
+
+Implementation
+
+   Mirrored holographic display and cardboard background of a Midway Space
+   Invaders Deluxe arcade cabinet. Note the monitor on the bottom.
+   Mirrored holographic display and cardboard background of a Midway Space
+   Invaders Deluxe arcade cabinet. Note the monitor on the bottom.
+
+   One key feature of Space Invaders was the fact that as more and more of
+   the aliens were shot, the remaining aliens would move faster and
+   faster. The change in speed was minor at the beginning of a wave, but
+   dramatic near the end. This action was originally an unintentional
+   result of the way the game was written - as the program had to move
+   fewer and fewer aliens, it could update the display faster - but the
+   development team decided to retain this feature rather than
+   implementing busy waiting when there were few invaders on the screen.
+
+   Space Invaders used an Intel 8080 as its processor, running at 2 MHz.
+   Graphics were implemented through a 1 bpp frame buffer mapped from the
+   main CPU address space. All sound effects were implemented individually
+   with discrete electronics.
+   The Japanese version of the Space Invaders arcade cabinet. (Note
+   Joystick)
+   The Japanese version of the Space Invaders arcade cabinet. (Note
+   Joystick)
+
+   In the upright version the actual output of the game was displayed
+   mirror-image on a black and white monitor which sat recessed in the
+   game's cabinet. The image was reflected on a plastic panel which the
+   player saw. Behind the reflective panel was a lunar landscape which
+   gave the game an impressive background setting. It is interesting to
+   note that there were two major uprights. There was the original Taito
+   upright which utilized joystick control, but most people in America are
+   familiar with the Midway licensed version which used directional
+   buttons and arguably had inferior artwork on its bezel, side art, and
+   moon backgrounds.
+
+   Since the actual video game console itself had a monochrome video
+   image, Taito added colour by coating the reflective screen with colored
+   bands. It should be noted however, that the very first version of the
+   game in Japan ("T.T.", or "Table Top" Space Invaders) was a cocktail
+   table with purely black and white graphics (i.e., no colour overlay).
+   There was also a version of the game in which the graphics were
+   converted to actual RGB colour.
+
+   Space Invaders had no hardware for the generation of random numbers, so
+   the seemingly random point values awarded by the UFO actually utilized
+   a hash function based on the number of shots that the player had fired
+   in the current invasion wave. It did not take long for experimenters to
+   determine that the maximum 300-point value could be achieved every time
+   if the player shot the wave's first UFO on the 23rd shot, and
+   subsequent UFOs at 15-shot intervals thereafter. Later revisions of the
+   game removed this "bug".
+
+   Another important tactical element of the arcade game is that it is
+   impossible for the players' spaceship to be harmed by an invader firing
+   a missile from the lowest line on the screen before the invader lands.
+
+Graphics design
+
+   In October 2005, Nishikado commented in an interview with English based
+   video games magazine Edge that the look of the aliens had been based on
+   the description of the alien invaders in H. G. Wells' classic science
+   fiction story, The War of the Worlds: "In the story, the alien looked
+   like an octopus. I drew a bitmap image based on the idea. Then I
+   created several other aliens that look like sea creatures such as squid
+   or crab." Nishikado also noted that his original intention in designing
+   a shooting game had been to make the enemies airplanes, but that this
+   had been too technically difficult to render. He was opposed to
+   depicting the enemies as human beings (which would have been
+   technically easier) as he believed the idea of depicting the shooting
+   of humans to be "morally wrong".
+
+Legacy
+
+Popular response
+
+   The enormous blockbuster success of Space Invaders made the
+   entertainment industry sit up and take notice. Within the first year of
+   its release, the game had generated revenue ranging in the hundreds of
+   millions of dollars—with the majority coming from teenagers and school
+   children, who pumped millions of coins into the game at a frenzied
+   pace. In Japan, Space Invaders caused a coin shortage until the Yen
+   supply was quadrupled .
+
+   Space Invaders became very popular in part due to its new style of game
+   play. Up until its release, video games were timed to a clock, and once
+   a player's time was up (plus possible bonus time), the game ended. With
+   Space Invaders, the game ended only when the player had exhausted the
+   three allotted "lives" or when the invaders landed on the bottom of the
+   screen: a person could therefore play for as long as their skill level
+   allowed.
+
+Highest Score
+
+   According to the book Stratford Video Gaming Records, 1980 Premiere
+   Edition (pg. 79), at the Canadian National Exhibition, held between
+   August 29 and September 2, the following are the records set in
+   continuous play of the game:
+
+   1st Place (NEW RECORD)
+
+          Set: ERIC FURRER, MALE, AGE 12, TORONTO, ONTARIO, CANADA
+          Score: 1,114,020
+          Play Time: 38 Hours, 30 Minutes
+          Particulars: TOTAL OF 4 BASES, 111 SCORE ROLLS (0000 - 9990)
+          Pauses: (7) 15min., excluded from play time
+          Prize: 500.00 DOLLARS & STRATFORD T-SHIRT AND VIDEO GAMING
+          TROPHY
+
+   2nd Place (NEW RECORD)
+
+          Set: CORY GRAHAM, MALE, AGE 17, GREEN BAY, WISCONSIN, UNITED
+          STATES
+          Score: 98,390
+          Play Time: 3 Hours, 12 Minutes
+          Particulars: TOTAL OF 4 BASES, 9 SCORE ROLLS (0000 - 9990)
+          Pauses: None
+          Prize: 100.00 DOLLARS & STRATFORD T-SHIRT AND VIDEO GAMING
+          TROPHY
+
+   3rd Place (1980 RECORD)
+
+          Set: GAIL HENSHAW, FEMALE, AGE 15, BUFFALO, NEW YORK, UNITED
+          STATES
+          Score: 23,710
+          Play Time: 59 Minutes
+          Particulars: TOTAL OF 4 BASES, 2 SCORE ROLLS (0000 - 9990)
+          Pauses: None
+          Prize: 50.00 DOLLARS & STRATFORD T-SHIRT
+
+Later releases
+
+   The home version of Space Invaders for the Atari 2600 was a huge
+   success. It offered 112 different versions of the game. Variations
+   included invisible invaders, invisible missiles and other subtle
+   alterations. It was not the first video arcade adaptation for the Atari
+   2600 system (most of the early games for the 2600 were adaptations of
+   early Atari video arcade games such as Breakout, PONG, Night Driver,
+   etc.), but it was the first officially licensed arcade game for home
+   conversion from one company to another (in this case, Taito to Atari.)
+   Other home console companies would make their own conversions of Space
+   Invaders. Examples included Space Armada for the Intellivision, Alien
+   Invaders — Plus! for the Odyssey 2 and TI Invaders for the TI-99/4A.
+   But only Atari owned the rights to the use of the title Space Invaders.
+   The console had been released in 1977, but sales of the 2600
+   skyrocketed during the 1980 holiday shopping season, as millions of
+   families bought the Atari system just so that they could play Space
+   Invaders. This marked the beginning of home video adaptations of
+   popular arcade games.
+
+   Space Invaders spawned a large number of imitators, as other video game
+   manufacturers sought to cash in on its successful formula, and released
+   many arcade games featuring variations of the same theme: attacking
+   aliens from outer space. One such example was a game called Pepsi
+   Invaders, made by Atari at the request of Coca-Cola for their Atlanta
+   employees. Taito released several sequels to Space Invaders in the
+   arcades over the years:
+     * Space Invaders Part II (" Space Invaders Deluxe") (1979)
+     * Return of the Invaders (1985)
+     * Majestic Twelve: The Space Invaders Part IV (" Super Space Invaders
+       '91")
+
+   (1990)
+     * Space Invaders DX (1994)
+     * Akkan-vaders (" Space Invaders '95: The Attack Of The Lunar
+       Loonies") (1995).
+
+   The release of Pac-Man in 1980 broke the mold of "alien invader" games,
+   and it opened the way for more creativity and originality in the video
+   gaming industry. But the legacy of Space Invaders lives on, and
+   action-based science fiction games continue to pay homage to the
+   original shoot-em-up video game.
+
+   Enemies based on Space Invaders also appeared in Bubble Bobble games.
+   To top it off, Bubble Symphony featured both a giant Space Invader
+   guarded by aliens who move just like in Space Invaders as a boss and
+   cameo appearances by the player controlled spaceship as a companion for
+   the main characters.
+
+   Super Space Invaders was a Space Invaders clone for a range of systems
+   including the Amiga, Master System and Super Nintendo Entertainment
+   System featuring greatly upgraded graphics and sound, along with
+   additions to the game play such as power-ups and advanced forms of
+   aliens. Despite this, it was given average reviews at best, and sold
+   very poorly.
+
+   Space Raiders (Space Invaders: Invasion Day in Europe) was released in
+   2001 and is a 3D version of space invaders. Rather than a laser at the
+   bottom shooting up, the player is a human shooting forward at aliens in
+   the street.
+
+   Space Invaders, Space Invaders Part II, and Return of the Invaders were
+   re-released in October 2005 as part of Taito Legends for the
+   PlayStation 2, Xbox, and PC. The other three arcade Invader games,
+   Space Invaders DX, Super Space Invaders '91 and Space Invaders '95:
+   Attack of the Lunar Loonies are scheduled for re-release in the Fall of
+   2006 as part of Taito Legends 2 for the same platforms.
+
+   In April 2007, Space Invaders Trilogy which includes arcade versions of
+   Space Invaders, Space Invaders Part II, and Return of the Invaders was
+   released for Pocket PC and Smartphone.
+
+Street art
+
+   An Invader mosaic seen in Avignon.
+   An Invader mosaic seen in Avignon.
+
+   Space Invaders has also inspired a form of street art to a French
+   artist known only by the pseudonym " Invader". Using ceramic tiles,
+   Invader cements together mosaic images inspired of traditional Space
+   Invaders aliens, bonus spaceships, and variations on those themes,
+   sometimes including characters from the Pac-Man series, Super Mario
+   series, and other video games. Most of the mosaics tiles are small and
+   others are as large as murals. The mosaics are cemented onto building
+   walls, lamp post bases, and other structures. The form has spread
+   throughout the world since the 1990s, among more than 30 cities over 5
+   continents, Invader is still in activity. Some of the thousands of
+   individual Invaders have been documented with photographs on Invader's
+   website.
+
+Human Space Invaders
+
+   In 2006 at the Belluard Bollwerk International 06 festival in Fribourg,
+   Switzerland, Guillaume Reymond of NOTsoNOISY created a 3 minute video
+   recreation of Space Invaders using humans as pixels. This is part of a
+   larger project called the "Gameover" project which also includes Human
+   Pong.
+
+Easter Egg
+
+     * On the Atari 2600 version of this game a single player can obtain
+       "double bullets" by turning the game on while holding down the game
+       reset switch. After choosing single player, 2 bullets are fired for
+       each press of the button. This dramatically changes the nature of
+       the game and allows players to obtain a much higher score.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Space_Invaders"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

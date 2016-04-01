@@ -1,0 +1,380 @@
+   #copyright
+
+Georg Cantor
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematicians
+
+   Georg Cantor
+   Enlarge
+   Georg Cantor
+
+   Georg Ferdinand Ludwig Philipp Cantor ( March 3, 1845, St. Petersburg,
+   Russia – January 6, 1918, Halle, Germany) was a German mathematician
+   who is best known as the creator of set theory. Cantor established the
+   importance of one-to-one correspondence between sets, defined infinite
+   and well-ordered sets, and proved that the real numbers are "more
+   numerous" than the natural numbers. In fact, Cantor's theorem implies
+   the existence of an "infinity of infinities." He defined the cardinal
+   and ordinal numbers, and their arithmetic. Cantor's work is of great
+   philosophical interest, a fact of which he was well aware.
+
+   Cantor's work encountered resistance from mathematical contemporaries
+   such as Leopold Kronecker and Henri Poincaré, and later from Hermann
+   Weyl and L.E.J. Brouwer. Ludwig Wittgenstein raised philosophical
+   objections. His recurring bouts of depression from 1884 to the end of
+   his life were once blamed on the hostile attitude of many of his
+   contemporaries, but these bouts can now be seen as probable
+   manifestations of a bipolar disorder.
+
+   Nowadays, the vast majority of mathematicians who are neither
+   constructivists nor finitists accept Cantor's work on transfinite sets
+   and arithmetic, recognizing it as a major paradigm shift. In the words
+   of David Hilbert: "No one shall expel us from the Paradise that Cantor
+   has created."
+
+Life
+
+   The ancestry of Cantor's father, Georg Woldemar Cantor, is not entirely
+   clear. He was born between 1809 and 1814 in Copenhagen, Denmark, and
+   brought up in a Lutheran German mission in St. Petersburg. Georg
+   Cantor's father was a Danish man of Lutheran religion. Biographies
+   dispute his family's ancestral origins; they often point to a potential
+   Jewish background, perhaps of Iberian origin. His mother, Maria Anna
+   Böhm, was born in St. Petersburg and came from an Austrian Roman
+   Catholic family. She had converted to Protestantism upon marriage.
+   Georg Cantor was the eldest of six children. The father was very devout
+   and instructed all his children thoroughly in religious affairs.
+   Throughout the rest of his life Georg Cantor held to the Christian
+   (Lutheran) faith.
+
+   The father was a broker on the St Petersburg Stock Exchange. Cantor, an
+   outstanding violinist, inherited his parents' considerable musical and
+   artistic talents.
+
+   When Cantor's father became ill, the family moved to Germany in 1856,
+   first to Wiesbaden then to Frankfurt, seeking winters milder than those
+   of St. Petersburg. In 1860, Cantor graduated with distinction from the
+   Realschule in Darmstadt; his exceptional skills in mathematics,
+   trigonometry in particular, were noted. In 1862, following his father's
+   wishes, Cantor entered the Federal Polytechnic Institute in Zurich,
+   today the ETH Zurich and began studying mathematics.
+
+   After his father's death in 1863, Cantor shifted his studies to the
+   University of Berlin, attending lectures by Weierstrass, Kummer, and
+   Kronecker, and befriending his fellow student Hermann Schwarz. He spent
+   a summer at the University of Göttingen, then and later a very
+   important centre for mathematical research. In 1867, Berlin granted him
+   the Ph.D. for a thesis on number theory, De aequationibus secundi
+   gradus indeterminatis. After teaching one year in a Berlin girls'
+   school, Cantor took up a position at the University of Halle, where he
+   spent his entire career. He was awarded the requisite habilitation for
+   his thesis on number theory.
+
+   In 1874, Cantor married Vally Guttmann. They had six children, the last
+   born in 1886. Cantor was able to support a family despite modest
+   academic pay, thanks to an inheritance from his father. During his
+   honeymoon in Switzerland, Cantor spent much time in mathematical
+   discussions with Richard Dedekind, whom he befriended two years earlier
+   while on another Swiss holiday.
+
+   Cantor was promoted to Extraordinary Professor in 1872, and made full
+   Professor in 1879. To attain the latter rank at the age of 34 was a
+   notable accomplishment, but Cantor very much desired a chair at a more
+   prestigious university, in particular at Berlin, then the leading
+   German university. However, Kronecker, who headed mathematics at Berlin
+   until his death in 1891, and his colleague Hermann Schwarz were not
+   agreeable to having Cantor as a colleague. Worse yet, Kronecker, who
+   was peerless among German mathematicians while he was alive,
+   fundamentally disagreed with the thrust of Cantor's work. Kronecker,
+   now seen as one of the founders of the constructive viewpoint in
+   mathematics, disliked much of Cantor's set theory because it asserted
+   the existence of sets satisfying certain properties, without giving
+   specific examples of sets whose members did indeed satisfy those
+   properties. Cantor came to believe that Kronecker's stance would make
+   it impossible for Cantor to ever leave Halle.
+
+   In 1881, Cantor's Halle colleague Eduard Heine died, creating a vacant
+   chair. Halle accepted Cantor's suggestion that it be offered to
+   Dedekind, Heinrich Weber, and Franz Mertens, in that order, but each
+   declined the chair after being offered it. This episode is revealing of
+   Halle's lack of standing among German mathematics departments. Wangerin
+   was eventually appointed, but he was never close to Cantor.
+
+   In 1884, Cantor suffered his first known bout of depression. This
+   emotional crisis led him to apply to lecture on philosophy rather than
+   on mathematics. Every one of the 52 letters Cantor wrote to
+   Mittag-Leffler that year attacked Kronecker. Cantor soon recovered, but
+   a passage from one of these letters is revealing of the damage to his
+   self-confidence:
+
+     "... I don't know when I shall return to the continuation of my
+     scientific work. At the moment I can do absolutely nothing with it,
+     and limit myself to the most necessary duty of my lectures; how much
+     happier I would be to be scientifically active, if only I had the
+     necessary mental freshness."
+
+   Although he performed some valuable work after 1884, he never attained
+   again the high level of his remarkable papers of 1874-84. He eventually
+   sought a reconciliation with Kronecker, which Kronecker graciously
+   accepted. Nevertheless, the philosophical disagreements and
+   difficulties dividing them persisted. It was once thought that Cantor's
+   recurring bouts of depression were triggered by the opposition his work
+   met at the hands of Kronecker. While Cantor's mathematical worries and
+   his difficulties dealing with certain people were greatly magnified by
+   his depression, it is doubtful whether they were its cause, which was
+   probably bipolar disorder.
+
+   In 1888, he published his correspondence with several philosophers on
+   the philosophical implications of his set theory. Edmund Husserl was
+   his Halle colleague and friend from 1886 to 1901. While Husserl later
+   made his reputation in philosophy, his doctorate was in mathematics and
+   supervised by Weierstrass' student Leo Königsberger. On Cantor,
+   Husserl, and Frege, see Hill and Rosado Haddock (2000). Cantor also
+   wrote on the theological implications of his mathematical work; for
+   instance, he identified the Absolute Infinite with God.
+
+   Cantor believed that Francis Bacon wrote the plays attributed to
+   Shakespeare. During his 1884 illness, he began an intense study of
+   Elizabethan literature in an attempt to prove his Bacon authorship
+   thesis. He eventually published two pamphlets, in 1896 and 1897,
+   setting out his thinking about Bacon and Shakespeare.
+
+   In 1890, Cantor was instrumental in founding the Deutsche
+   Mathematiker-Vereinigung, chaired its first meeting in Halle in 1891,
+   and was elected its first president. This is strong evidence that
+   Kronecker's attitude had not been fatal to his reputation. Setting
+   aside the animosity he felt towards Kronecker, Cantor invited him to
+   address the meeting; Kronecker was unable to do so because his spouse
+   was dying at the time.
+
+   After the 1899 death of his youngest son, Cantor suffered from chronic
+   depression for the rest of his life, for which he was excused from
+   teaching on several occasions and repeatedly confined in various
+   sanatoria. He did not abandon mathematics completely, lecturing on the
+   paradoxes of set theory (eponymously attributed to Burali-Forti,
+   Russell, and Cantor himself) to a meeting of the Deutsche
+   Mathematiker-Vereinigung in 1903, and attending the International
+   Congress of Mathematicians at Heidelberg in 1904.
+
+   In 1911, Cantor was one of the distinguished foreign scholars invited
+   to attend the 500th anniversary of the founding of the University of
+   St. Andrews in Scotland. Cantor attended, hoping to meet Bertrand
+   Russell, whose newly published Principia Mathematica repeatedly cited
+   Cantor's work, but this did not come about. The following year, St.
+   Andrews awarded Cantor an honorary doctorate, but illness precluded his
+   receiving the degree in person.
+
+   Cantor retired in 1913, and suffered from poverty, even hunger, during
+   World War I. The public celebration of his 70th birthday was cancelled
+   because of the war. He died in the sanatorium where he had spent the
+   final year of his life.
+
+Work
+
+   Cantor was the originator of set theory, 1874-84. He was the first to
+   see that infinite sets come in different sizes, as follows. He first
+   showed that given any set A, the set of all possible subsets of A,
+   called the power set of A, exists. He then proved that the power set of
+   an infinite set A has a size greater than the size of A (this fact is
+   now known as Cantor's theorem). Thus there is an infinite hierarchy of
+   sizes of infinite sets, from which springs the transfinite cardinal and
+   ordinal numbers, and their peculiar arithmetic. His notation for the
+   cardinal numbers was the Hebrew letter aleph with a natural number
+   subscript; for the ordinals he employed the Greek letter omega.
+
+   Cantor was the first to appreciate the value of one-to-one
+   correspondences (hereinafter denoted "1-to-1") for set theory. He
+   defined finite and infinite sets, breaking down the latter into
+   denumerable and nondenumerable sets. There exists a 1-to-1
+   correspondence between any denumerable set and the set of all natural
+   numbers; all other infinite sets are nondenumerable. He proved that the
+   set of all rational numbers is denumerable, but that the set of all
+   real numbers is not and hence is strictly bigger. The cardinality of
+   the natural numbers is aleph-null; that of the reals is larger, and is
+   at least aleph-one (the latter being the next smallest cardinal after
+   aleph-null).
+
+   Cantor's first 10 papers were on number theory, his thesis topic. At
+   the suggestion of Eduard Heine, the Professor at Halle, Cantor turned
+   to analysis. Heine proposed that Cantor solve an open problem that had
+   eluded Dirichlet, Lipschitz, Bernhard Riemann, and Eduard Heine
+   himself: the uniqueness of the representation of a function by
+   trigonometric series. Cantor solved this difficult problem in 1869.
+   Between 1870 and 1872, Cantor published more papers on trigonometric
+   series, including one defining irrational numbers as convergent
+   sequences of rational numbers. Dedekind, whom Cantor befriended in
+   1872, cited this paper later that year, in the paper where he first set
+   out his celebrated definition of real numbers by Dedekind cuts.
+
+   Cantor's 1874 paper, "On a Characteristic Property of All Real
+   Algebraic Numbers", marks the birth of set theory. It was published in
+   Crelle's Journal, despite Kronecker's opposition, thanks to Dedekind's
+   support. Previously, all infinite collections had been (silently)
+   assumed to be of "the same size"; Cantor was the first to show that
+   there was more than one kind of infinity. In doing so, he became the
+   first to invoke the notion of a 1-to-1 correspondence, albeit not
+   calling it such. He then proved that the real numbers were not
+   denumerable, employing a proof more complex than the remarkably elegant
+   and justly celebrated diagonal argument he first set out in 1891.
+
+   The 1874 paper also showed that the algebraic numbers, i.e., the roots
+   of polynomial equations with integer coefficients, were denumerable.
+   Real numbers that are not algebraic are transcendental. Liouville had
+   established the existence of transcendental numbers in 1851. Since
+   Cantor had just shown that the real numbers were not denumerable and
+   that the union of two denumerable sets must be denumerable, it
+   logically follows from the fact that a real number is either algebraic
+   or transcendental that the transcendentals must be nondenumerable. The
+   transcendentals have the same "power" (see below) as the reals, and
+   "almost all" real numbers must be transcendental. Cantor remarked that
+   he had effectively reproved a theorem, due to Liouville, to the effect
+   that there are infinitely many transcendental numbers in each interval.
+
+   In 1874, Cantor began looking for a 1-to-1 correspondence between the
+   points of the unit square and the points of a unit line segment. In an
+   1877 letter to Dedekind, Cantor proved a far stronger result: there
+   exists a 1-to-1 correspondence between the points on the unit line
+   segment and all of the points in a p-dimensional space. About this
+   discovery Cantor wrote famously (and in French) "I see it, but I don't
+   believe it!" This astonishing result has implications for geometry and
+   the notion of dimension.
+
+   In 1878, Cantor submitted another paper to Crelle's Journal, which
+   again displeased Kronecker. Cantor wanted to withdraw the paper, but
+   Dedekind persuaded him not to do so; moreover, Weierstrass supported
+   its publication. Nevertheless, Cantor never again submitted anything to
+   Crelle.
+
+   This paper made precise the notion of a 1-to-1 correspondence, and
+   defined denumerable sets as sets which can be put into a 1-to-1
+   correspondence with the natural numbers. Cantor introduces the notion
+   of "power" (a term he took from Jakob Steiner) or "equivalence" of
+   sets; two sets are equivalent (have the same power) if there exists a
+   1-to-1 correspondence between them. He then proves that the rational
+   numbers have the smallest infinite power, and that R^n has the same
+   power as R. Moreover, countably many copies of R have the same power as
+   R. While he made free use of countable as a concept, he did not write
+   the word "countable" until 1883. Cantor also discussed his thinking
+   about dimension, stressing that his mapping between the unit interval
+   and the unit square was not a continuous one.
+
+   Between 1879 and 1884, Cantor published a series of six articles in
+   Mathematische Annalen that together formed an introduction to his set
+   theory. By agreeing to publish these articles, the editor displayed
+   courage, because of the growing opposition to Cantor's ideas, led by
+   Kronecker. Kronecker admitted mathematical concepts only if they could
+   be constructed in a finite number of steps from the natural numbers,
+   which he took as intuitively given. For Kronecker, Cantor's hierarchy
+   of infinities was inadmissible.
+
+   The fifth paper in this series, "Foundations of a General Theory of
+   Aggregates", published in 1883, was the most important of the six and
+   was also published as a separate monograph. It contained Cantor's reply
+   to his critics and showed how the transfinite numbers were a systematic
+   extension of the natural numbers. It begins by defining well-ordered
+   sets. Ordinal numbers are then introduced as the order types of
+   well-ordered sets. Cantor then defines the addition and multiplication
+   of the cardinal and ordinal numbers. In 1885, Cantor extended his
+   theory of order types so that the ordinal numbers simply became a
+   special case of order types.
+
+   Cantor's 1883 paper reveals that he was well aware of the opposition
+   his ideas were encountering:
+
+     "... I realize that in this undertaking I place myself in a certain
+     opposition to views widely held concerning the mathematical infinite
+     and to opinions frequently defended on the nature of numbers."
+
+   Hence he devotes much space to justifying his earlier work, asserting
+   that mathematical concepts may be freely introduced as long as they are
+   free of contradiction and defined in terms of previously accepted
+   concepts. He also cites Aristotle, Descartes, Berkeley, Leibniz, and
+   Bolzano on infinity.
+
+   Cantor was the first to formulate what later came to be known as the
+   continuum hypothesis or CH: there exists no set whose power is greater
+   than that of the naturals and less than that of the reals (or
+   equivalently, the cardinality of the reals is exactly aleph-one, rather
+   than just at least aleph-one). His inability to prove the continuum
+   hypothesis caused Cantor considerable anxiety but, with the benefit of
+   hindsight, is entirely understandable: a 1940 result by Godel and a
+   1963 one by Paul Cohen together imply that the continuum hypothesis can
+   neither be proved nor disproved using standard Zermelo-Fraenkel set
+   theory plus the axiom of choice (the combination referred to as "ZFC").
+
+   In 1882, the rich mathematical correspondence between Cantor and
+   Dedekind came to an end. Cantor also began another important
+   correspondence, with Mittag-Leffler in Sweden, and soon began to
+   publish in Mittag-Leffler's journal Acta Mathematica. But in 1885,
+   Mittag-Leffler asked Cantor to withdraw a paper from Acta while it was
+   in proof, writing that it was "... about one hundred years too soon."
+   Cantor complied, but wrote to a third party:
+
+     "Had Mittag-Leffler had his way, I should have to wait until the
+     year 1984, which to me seemed too great a demand! ... But of course
+     I never want to know anything again about Acta Mathematica."
+
+   Thus ended his correspondence with Mittag-Leffler, as did Cantor's
+   brilliant development of set theory over the previous 12 years.
+   Mittag-Leffler had meant well, but this incident reveals how even
+   Cantor's most brilliant contemporaries often failed to appreciate his
+   work.
+
+   In 1895 and 1897, Cantor published a two-part paper in Mathematische
+   Annalen under Felix Klein's editorship; these were his last significant
+   papers on set theory. (The English translation is Cantor 1955.) The
+   first paper begins by defining set, subset, etc., in ways that would be
+   largely acceptable now. The cardinal and ordinal arithmetic are
+   reviewed. Cantor wanted the second paper to include a proof of the
+   continuum hypothesis, but had to settle for expositing his theory of
+   well-ordered sets and ordinal numbers. Cantor attempts to prove that if
+   A and B are sets with A equivalent to a subset of B and B equivalent to
+   a subset of A, then A and B are equivalent. Ernst Schroeder had stated
+   this theorem a bit earlier, but his proof, as well as Cantor's, was
+   flawed. Felix Bernstein supplied a correct proof in his 1898 Ph.D.
+   thesis; hence the name Cantor-Schroeder-Bernstein theorem.
+
+   Around this time, the set-theoretic paradoxes began to rear their
+   heads. In an 1897 paper on an unrelated topic, Cesare Burali-Forti set
+   out the first such paradox, the Burali-Forti paradox: the ordinal
+   number of the set of all ordinals must be an ordinal and this leads to
+   a contradiction. Cantor discovered this paradox in 1895, and described
+   it in an 1896 letter to Hilbert. Curiously, Cantor was highly critical
+   of Burali-Forti's paper.
+
+   In 1899, Cantor discovered his eponymous paradox: what is the cardinal
+   number of the set of all sets? Clearly it must be the greatest possible
+   cardinal. Yet for any sets A, the cardinal number of the power set of A
+   > cardinal number of A ( Cantor's theorem again). This paradox,
+   together with Burali-Forti's, led Cantor to formulate his concept of
+   limitation of size, ^fact check needed according to which the
+   collection of all ordinals, or of all sets, was an "inconsistent
+   multiplicity" that was "too large" to be a set. Today they would be
+   called proper classes.
+
+   One common view among mathematicians is that these paradoxes, together
+   with Russell's paradox, demonstrate that it is not possible to take a "
+   naive", or non-axiomatic, approach to set theory without risking
+   contradiction, and it is certain that they were among the motivations
+   for Zermelo and others to produce axiomatizations of set theory. Others
+   note, however, that the paradoxes do not obtain in an informal view
+   motivated by the iterative hierarchy, which can be seen as explaining
+   the idea of limitation of size. Some also question whether the Fregean
+   formulation of naive set theory (which was the system directly refuted
+   by the Russell paradox) is really a faithful interpretation of the
+   Cantorian conception.
+
+   Cantor's work did attract favorable notice beyond Hilbert's celebrated
+   encomium. In public lectures delivered at the first International
+   Congress of Mathematicians, held in Zurich in 1897, Hurwitz and
+   Hadamard both expressed their admiration for Cantor's set theory. At
+   that Congress, Cantor also renewed his friendship and correspondence
+   with Dedekind. Charles Peirce in America also praised Cantor's set
+   theory. In 1905, Cantor began a correspondence, later published, with
+   his British admirer and translator Philip Jourdain, on the history of
+   set theory and on Cantor's religious ideas.
+   Retrieved from " http://en.wikipedia.org/wiki/Georg_Cantor"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

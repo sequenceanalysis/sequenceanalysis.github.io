@@ -1,0 +1,912 @@
+   #copyright
+
+Windows Vista
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   Windows Vista
+   (Part of the Microsoft Windows family)
+   Screenshot
+   Screenshot of Windows Vista
+   Developer
+   Microsoft
+   Web site: www.microsoft.com/windowsvista/
+   Release information
+   Release date:    January 30, 2007 info
+   Current version: RTM (Build 6000) ( November 8, 2006) info
+   Source model:    Closed source
+   License:         Microsoft EULA
+   Kernel type:     Hybrid kernel
+   Support status
+   Released on November 8, 2006 to manufacturing. Released on November 17,
+   2006 to MSDN subscribers. Will be released on November 30, 2006 for
+   volume license customers and January 30, 2007 for worldwide retail
+   availability.
+   Further reading
+     * Features new to Windows Vista
+     * Security and safety features new to Windows Vista
+     * Development of Windows Vista
+     * Criticism of Windows Vista
+
+   Windows Vista is the name of the latest release of Microsoft Windows, a
+   line of graphical operating systems used on personal computers,
+   including home and business desktops, notebook computers, and media
+   centers. Prior to its announcement on July 22, 2005, Vista was known by
+   its codename Longhorn. On November 8, 2006, Windows Vista development
+   was completed and is now in the release to manufacturing stage;
+   Microsoft has stated that the scheduled release dates are currently
+   November 30, 2006 for volume license customers and worldwide
+   availability on January 30, 2007. Windows Vista English Edition was
+   released to MSDN subscribers on November 16, 2006, These release dates
+   come more than five years after the release of Windows XP, Microsoft's
+   current consumer and business operating system, making it the longest
+   time span between major releases of Windows.
+
+   According to Microsoft, Windows Vista contains hundreds of new
+   features, some of the most significant of which include an updated
+   graphical user interface and visual style dubbed Windows Aero, improved
+   searching features, new multimedia creation tools such as Windows DVD
+   Maker, and completely redesigned networking, audio, print, and display
+   sub-systems. Vista also aims to increase the level of communication
+   between machines on a home network using peer-to-peer technology,
+   making it easier to share files and digital media between computers and
+   devices. For developers, Vista introduces version 3.0 of the .NET
+   Framework, which aims to make it significantly easier for developers to
+   write high-quality applications than with the traditional Windows API.
+
+   Microsoft's primary stated objective with Vista, however, has been to
+   improve the state of security in the Windows operating system. One of
+   the most common criticisms of Windows XP and its predecessors has been
+   their commonly exploited security vulnerabilities and overall
+   susceptibility to malware, viruses and buffer overflows. In light of
+   this, then Microsoft chairman Bill Gates announced in early 2002 a
+   company-wide ' Trustworthy Computing initiative' which aims to
+   incorporate security work into every aspect of software development at
+   the company. Microsoft claimed that it prioritized improving the
+   security of Windows XP and Windows Server 2003 above finishing Windows
+   Vista, significantly delaying its completion.
+
+   During the course of its development, Vista has been the target of a
+   number of negative assessments by various groups. Criticism of Windows
+   Vista has included protracted development time, more restrictive
+   licensing terms, the inclusion of a number of new Digital Rights
+   Management technologies aimed at restricting the copying of protected
+   digital media, and the usability of new features such as User Account
+   Control.
+
+Development
+
+   Microsoft started work on their plans for "Longhorn" in May 2001, prior
+   to the release of Microsoft's Windows XP operating system. It was
+   originally expected to ship sometime late in 2003 as a minor step
+   between Windows XP and "Blackcomb" (now known as Windows "Vienna").
+   Indeed, Longhorn, Vista's original codename, was an allusion to this
+   plan. While Whistler-Blackcomb is a large ski resort in British
+   Columbia, Longhorn Saloon & Grill is the name of an après bar between
+   the two mountains that Whistler's visitors pass to reach Blackcomb.
+   Gradually, "Longhorn" assimilated many of the important new features
+   and technologies slated for "Blackcomb", resulting in the release date
+   being pushed back a few times. Many of Microsoft's developers were also
+   re-tasked with improving the security of Windows XP. Faced with ongoing
+   delays and concerns about feature creep, Microsoft announced on August
+   27, 2004 that it was making significant changes. "Longhorn" development
+   basically started afresh, building on the Windows Server 2003 codebase,
+   and re-incorporating only the features that would be intended for an
+   actual operating system release. Some previously announced features,
+   such as WinFS and NGSCB, were dropped or postponed, and a new software
+   development methodology called the "Security Development Lifecycle" was
+   incorporated in an effort to address concerns with the security of the
+   Windows codebase.
+
+   After "Longhorn" was named Windows Vista, an unprecedented beta-test
+   program was started, which has involved hundreds of thousands of
+   volunteers and companies. In September 2005, Microsoft started
+   releasing regular Community Technology Previews (CTP) to beta testers.
+   The first of these was distributed among 2005 Microsoft Professional
+   Developers Conference attendees, and was subsequently released to
+   Microsoft Beta testers and Microsoft Developer Network subscribers. The
+   builds that followed incorporated most of the planned features for the
+   final product, as well as a number of changes to the user interface,
+   based in large part on feedback from beta testers. Windows Vista was
+   deemed feature-complete with the release of the "February CTP",
+   released on February 22, 2006, and much of the remainder of work
+   between that build and the final release of the product focused on
+   stability, performance, application and driver compatibility, and
+   documentation. Beta 2, released in late May, was the first build to be
+   made available to the general public through Microsoft's Customer
+   Preview Program. It was downloaded by more than five million people.
+   Two release candidates followed this in September and October, both of
+   which were made available to a large number of users.
+
+   While Microsoft had originally hoped to have the operating system
+   available worldwide in time for the 2006 holiday season, it was
+   announced in March 2006 that the release date would be pushed back to
+   January 2007, so as to give the company – and the hardware and software
+   companies which Microsoft depends on for providing device drivers –
+   additional time to prepare. Through much of 2006, analysts and bloggers
+   had speculated that Windows Vista would be delayed further, owing to
+   anti-trust concerns raised by the European Commission and South Korea,
+   and due to a perceived lack of progress with the beta releases.
+   However, with the November 8, 2006 announcement of the completion of
+   Windows Vista, Microsoft's most lengthy operating system development
+   project in the company's history has come to an end.
+
+New and improved features
+
+   Windows Vista has a long list of new features, changes, and
+   improvements. Recent development builds of Windows Vista, Microsoft
+   employee blogs, and published documentation (including a near-complete
+   list of features in the Windows Vista Product Guide) have collectively
+   identified most of the features that Microsoft intends to include when
+   the product is released.
+
+End-user features
+
+     * Windows Aero: a new hardware-based graphical user interface, named
+       Windows Aero – an acronym (possibly a backronym) for Authentic,
+       Energetic, Reflective, and Open. The new interface is intended to
+       be cleaner and more aesthetically pleasing than previous Windows,
+       including new transparencies, animations and eye candy.
+     * Windows Shell: The new Windows shell is significantly different
+       from Windows XP, offering a new range of organization, navigation,
+       and search capabilities. Windows Explorer's task pane has been
+       removed, integrating the relevant task options into the toolbar. A
+       "Favorite links" pane has been added, enabling one-click access to
+       common directories. The address bar has been replaced with a
+       breadcrumb navigation system. The Start menu has changed as well;
+       it no longer uses ever-expanding boxes when navigating through
+       Programs. Even the word "Start" itself has been removed in favour
+       of a blue Windows Orb.
+     * Windows Search (also known as Instant Search or search as you
+       type): significantly faster and more thorough search capabilities.
+       Search boxes have been added to the Start menu, Windows Explorer,
+       and several of the applications included with Vista. By default,
+       Instant Search indexes only a small number of folders such as the
+       start menu, the names of files opened, the Documents folder, and
+       the user's e-mail.
+
+     * Windows Sidebar: A transparent panel anchored to the side of the
+       screen where a user can place Desktop Gadgets, which are small
+       applets designed for a specialized purpose (such as displaying the
+       weather or sports scores). Gadgets can also be placed on other
+       parts of the Desktop, if desired. The technology bears some
+       resemblance to the older Active Channel and Active Desktop
+       technologies introduced with Windows 95 OEM Service Release 2.5,
+       but the gadgets technology is more versatile, and is not integrated
+       with the Internet Explorer browser in the same way as Active
+       Desktop.
+     * Windows Internet Explorer 7: new user interface, tabbed browsing,
+       RSS, a search box, improved printing, Page Zoom, Quick Tabs
+       (thumbnails of all open tabs), a number of new security protection
+       features, and improved web standards support.
+     * Windows Media Player 11, a major revamp of Microsoft's program for
+       playing and organizing music and video. New features in this
+       version include word wheeling (or "search as you type"), a
+       completely new and highly graphical interface for the media
+       library, photo display and organization, and the ability to share
+       music libraries over a network with other Vista machines, Xbox 360
+       integration, and support for other Media Centre Extenders.
+     * Backup and Restore Centre: Includes a backup and restore
+       application that gives users the ability to schedule periodic
+       backups of files on their computer, as well as recovery from
+       previous backups. Backups are incremental, storing only the changes
+       each time, minimizing the disk usage. It also features CompletePC
+       Backup which backs up an entire computer as an image onto a hard
+       disk or DVD. CompletePC Backup can automatically recreate a machine
+       setup onto new hardware or hard disk in case of any hardware
+       failures.
+     * Windows Mail: A replacement for Outlook Express that includes a
+       completely replaced mail store that improves stability, and enables
+       real-time search. New Junk mail filtering.
+
+     * Windows Calendar is a new calendar and task application.
+     * Windows Photo Gallery, a photo and movie library management
+       application. WPG can import from digital cameras, tag and rate
+       individual items, adjust colors and exposure, create and display
+       slideshows (with pan and fade effects), and burn slideshows to DVD.
+     * Windows DVD Maker, a companion program to Windows Movie Maker,
+       which provides the ability to create video DVDs based on a user's
+       content.
+     * Windows Meeting Space is the replacement for NetMeeting. Users can
+       share applications (or their entire Desktop) with other users on
+       the local network, or over the Internet using peer-to-peer
+       technology.
+     * Windows Media Centre, which was previously exclusively bundled as a
+       separate version of Windows XP, known as Windows XP Media Centre
+       Edition, will be incorporated into the Home Premium and Ultimate
+       editions of Windows Vista.
+
+     * Games: Every game included with Windows has been rewritten to take
+       advantage of Vista's new graphics capabilities. New games include
+       Chess Titans, Mahjong Titans and Purble Place. The Games section
+       will also hold links and information to all games on the user's
+       computer. One piece of information that will be shown is the game's
+       ESRB rating.
+
+     * Previous Versions automatically creates backup copies of files and
+       folders, with daily frequency. Users can also create "shadow
+       copies" by setting a System Protection Point using the System
+       Protection tab in the System control panel. The user can be
+       presented multiple versions of a file throughout a limited history
+       and be allowed to restore, delete, or copy those versions. This
+       feature is available only in the Business, Enterprise, and Ultimate
+       editions of Windows Vista and is inherited from Windows Server
+       2003.
+     * The Windows Mobility Centre is a new control panel that centralizes
+       the most relevant information related to mobile computing (e.g.
+       brightness, sound, battery level / power scheme selection, wireless
+       network, screen orientation, presentation settings, etc.).
+     * Windows Update: Software and security updates have been simplified,
+       now operating solely via a control panel instead of as a web
+       application. Mail's spam filter and Defender's definitions will
+       also be automatically updated via Windows Update.
+     * Parental controls: Allows administrators to control which websites,
+       programs, and games each standard user can use and install.
+     * Windows SideShow: Enables the auxiliary displays on newer laptops
+       or on supported Windows Mobile devices. It is meant to be used to
+       display Device gadgets while the computer is on or off.
+     * Speech recognition is fully integrated into Vista, which can be
+       "trained" to understand a user's voice, to activate commands in any
+       Windows application, and to enable voice dictation. It supports
+       multiple languages.
+     * Many new fonts, including several designed especially for screen
+       reading, and new high-quality Chinese (Yahei, JhengHei), Japanese
+       (Meiryo) and Korean (Malgun) fonts. See Windows Vista typefaces.
+       ClearType has also been enhanced and enabled by default.
+     * Touchscreen support will be included as part of Tablet PC, which
+       will be incorporated as a standard component.
+     * Problem Reports and Solutions, a new control panel which allows
+       users to see previously sent problems and any solutions or
+       additional information that is available.
+     * Improved audio controls allow the system-wide volume or volume of
+       individual audio devices and even individual applications to be
+       controlled separately.
+     * Full Symbolic links support has been made available for the first
+       time to Windows users in Vista.
+     * System Performance Assessment is a benchmark used by Windows Vista
+       to regulate the system for optimum performance. Games can take
+       advantage of this feature, reading the data produced by this
+       benchmark in order to fine-tune the game details. The benchmark
+       tests CPU, RAM, Graphics acceleration (2D and 3D) and disk access.
+     * Enable advanced performance for hard disks and a PC with a power
+       supply - When the option is enabled, the HDD operates in write-back
+       cache mode, in which all the data that gets written to the drive is
+       first stored in the cache, and then later written to the disk. Both
+       writes and reads are cached in this case. With it disabled, the HDD
+       operates like Windows XP, in write-through cache mode, in which all
+       data that gets written to the drive is immediately written to the
+       disks and also stored in the cache. Writes are not cached, but
+       reads are.
+
+Core technologies
+
+   Windows Vista is intended to be a technology-based release, to provide
+   a solid base to include advanced technologies, many of which will be
+   related to how the system functions, and hence not readily visible to
+   the user. An example of this is the complete restructuring of the
+   architecture of the audio, print, display, and networking subsystems;
+   while the results of this work will be clearly visible to software
+   developers, end-users will only see what appear to be evolutionary
+   changes in the user interface.
+
+   Vista includes technologies such as ReadyBoost and ReadyDrive which
+   employ fast flash memory (located on USB drives and hybrid hard disk
+   drives respectively) to improve system performance by caching
+   commonly-used programs and data. This manifests itself in improved
+   battery life on notebook computers as well, since a hybrid drive can be
+   spun down when not in use. Another new technology called SuperFetch
+   utilizes machine learning techniques to analyze usage patterns in order
+   to allow Windows Vista to make intelligent decisions about what content
+   should be present in system memory at any given time.
+
+   As part of the complete redesign of the networking architecture, IPv6
+   has been fully incorporated into the operating system, and a number of
+   performance improvements have been introduced, such as TCP window
+   scaling. Prior versions of Windows typically needed third-party
+   wireless networking software to work properly; this is no longer the
+   case with Vista, as it includes more comprehensive wireless networking
+   support.
+
+   For graphics, Vista introduces a new Windows Display Driver Model, as
+   well as major revision to Direct3D. The new driver model facilitates
+   the new Desktop Window Manager, which provides the tearing-free desktop
+   and special effects that are the cornerstones of Windows Aero. Direct3D
+   10, developed in conjunction with major display driver manufacturers,
+   is a new architecture with more advanced shader support, and allows the
+   graphics processing unit to render more complex scenes without
+   assistance from the CPU. It features improved load balancing between
+   CPU and GPU and also optimizes data transfer between them.
+
+   At the core of the operating system, many improvements have been made
+   to the memory manager, process scheduler, heap manager, and I/O
+   scheduler. A Kernel Transaction Manager has been implemented that gives
+   applications the ability to work with the file system and registry
+   using atomic transaction operations.
+
+Security-related technologies
+
+   Improved security was the primary design goal for Vista. Microsoft’s
+   Trustworthy Computing initiative, which aims to improve public trust in
+   its products, has had a direct effect on the development of Vista.
+   Security-related technologies include:
+     * User Account Control (UAC) is a new security technology that allows
+       Windows to operate effectively as a "standard" user with fewer
+       privileges. This was often a difficult thing to do in previous
+       versions of Windows, because the previous "limited" user accounts
+       proved too restrictive and incompatible with a large proportion of
+       application software. When an action requiring administrative
+       rights is requested, the user will first be prompted to confirm
+       their action (or be asked for an administrator password if they are
+       not themselves an administrator). UAC asks for credentials in a
+       Secure Desktop mode, where the entire screen is blacked out and
+       temporarily disabled, to present only the elevation UI. This is to
+       prevent spoofing of the UI or the mouse by the application
+       requesting elevation and for preventing application-based Shatter
+       attacks. UAC also provides files and registry virtualization. IE7
+       Protected Mode relays on UAC.
+     * Integrity mechanism restrict write access to securable objects by
+       lower integrity processes, much the same way that user account
+       group membership restricts the rights of users to access sensitive
+       system components.
+     * User Interface Privilege Isolation (UIPI) prevents processes from
+       sending selected window messages, hook and attach to processes
+       running with higher integrity.
+     * Windows Firewall with Advanced Security: Supports filtering both
+       incoming and outgoing traffic. It's also possible to create
+       advanced packet filter rules. Rules can be configured for services
+       by its service name chosen by a list, without needing to specify
+       the full path file name.
+     * Windows Defender: Microsoft's Anti-spyware product has been
+       incorporated into Windows, offering protection against spyware and
+       other threats. Changes to various system configuration settings
+       (such as new auto-starting applications) are blocked unless the
+       user gives consent. The new version uses Windows Automatic Updates
+       to receive definition updates, also works properly with standard
+       user accounts, and has integration with IE and Windows Mail so that
+       downloads and mail attachments are scanned when they are
+       downloaded, which reduces the risk of accidentally downloading
+       malicious software.
+     * BitLocker Drive Encryption is a data protection feature that
+       provides encryption for the entire OS volume that will only be
+       included in the Enterprise and Ultimate editions of Vista.
+       Bitlocker can work in conjunction with a Trusted Platform Module
+       chip that is on a computer's motherboard.
+     * Windows Service Hardening prevents Windows Services from doing
+       operations on file systems, registry or networks which they are not
+       supposed to by automatically running each service in a separate
+       user account, thereby preventing entry of malware by piggybacking
+       on system services.
+     * Address Space Layout Randomization (ASLR) to prevent Return-to-libc
+       buffer overflow attacks.
+     * Windows Filtering Platform enables software such as firewall
+       products to perform activities such as packet inspection.
+       Anti-virus software can also use the file system mini filter to
+       participate in file system activities.
+     * Kernel Patch Protection protects the integrity of the kernel for
+       the 64-bit version from malicious attacks and from inadvertent
+       reliability problems that result from patching. This is not
+       actually a new security feature in Windows Vista; it was first
+       supported on the x64 (AMD64/EM64T) CPU architecture versions of
+       Microsoft Windows including Microsoft Windows Server 2003 SP1 and
+       Microsoft Windows XP Professional x64 Edition. Kernel Patch
+       Protection monitors if key resources used by the kernel or kernel
+       code itself has been modified and will initiate a shut down of the
+       system if unauthorized patches of certain data structures or code
+       are detected. Kernel Patch Protection has been designed to protect
+       against threats such as rootkits, although it cannot currently
+       prevent attacks exploiting hardware-based virtualization; this was
+       demonstrated by the Blue pill.
+     * Code Integrity (CI) protects Windows Vista by verifying that system
+       binaries haven’t been tampered with by malicious code and by
+       ensuring that there are no unsigned drivers running in kernel mode
+       on the system. CI starts as Windows starts up. The boot loader
+       checks the integrity of the kernel, the Hardware Abstraction Layer
+       (HAL), and the boot-start drivers. After these binaries have been
+       verified, the system starts and the memory manager calls CI to
+       verify any binaries that are loaded into the kernel’s memory space.
+       The binaries are verified by looking up their signatures in the
+       system catalogs. Aside from the kernel memory space, CI verifies
+       binaries loaded into a protected process and system installed
+       dynamic libraries that implement core cryptographic functions.
+     * Internet Explorer 7's new security and safety features include a
+       phishing filter, IDN with anti-spoofing technology, and better
+       integration of system-wide parental controls. For added security,
+       ActiveX controls are disabled by default. Also, Internet Explorer
+       operates in a "protected mode" sandbox which operates with lower
+       permissions than the user, preventing it from accessing or
+       modifying anything besides the Temporary Internet Files directory.
+       Also, for better security, Internet Explorer is no longer
+       integrated with the explorer shell (local files typed in IE are
+       opened using the explorer shell and Web sites typed in the explorer
+       shell are opened using the default web browser).
+     * Added new SSL and TLS extensions, which enable the support of both
+       AES and new ECC cipher suites. The support for AES is not available
+       in Microsoft Windows 2000 or Windows Server 2003.
+
+Business technologies
+
+   While much of the focus of Vista's new capabilities has been on the new
+   user interface, security technologies, and improvements to the core
+   operating system, Microsoft is also adding new deployment and
+   maintenance features to make a compelling case for businesses still
+   running Windows NT, 2000, and XP desktops.
+     * The WIM image format (Windows IMage) is the cornerstone of
+       Microsoft's new deployment and packaging system. WIM files, which
+       contain an image of Windows Vista, can be maintained and patched
+       without having to rebuild new images. Windows Images can be
+       delivered via Systems Management Server or Business Desktop
+       Deployment technologies. Images can be customized and configured
+       with applications then deployed to corporate client personal
+       computers using little to no touch by a system administrator.
+       ImageX is the Microsoft tool used to create and customize images.
+     * Windows Deployment Services replaces Remote Installation Services
+       for deploying Vista and prior versions of Windows.
+     * Approximately 800 new Group Policy settings have been added,
+       covering most aspects of the new features in the operating system,
+       as well as significantly expanding the configurability of wireless
+       networks, removable storage devices, and user desktop experience.
+
+     * Services for UNIX has been renamed "Subsystem for UNIX-based
+       Applications", and is included with the Enterprise and Ultimate
+       editions of Vista. Network File System (NFS) client support is also
+       included.
+     * Wireless Projector support
+
+Developer technologies
+
+   Windows Vista includes a large number of new application programming
+   interfaces. Chief among them is the inclusion of version 3.0 of the
+   .NET Framework, which consists of a class library and Common Language
+   Runtime. Version 3.0 includes several new technologies:
+
+   Presentation
+          The Windows Presentation Foundation or WPF, formerly code-named
+          Avalon: a new user interface subsystem and framework based on
+          Direct3D (DirectX), and vector graphics, which will make use of
+          3D computer graphics hardware and Direct3D technologies. See
+          Windows Graphics Foundation. It provides the foundation for
+          building applications and blending together application UI,
+          documents, and media content.
+
+   Communication
+          The Windows Communication Foundation or WCF, formerly code-named
+          Indigo: a service-oriented messaging subsystem which will enable
+          applications and systems to interoperate locally or remotely
+          using Web services.
+
+   Workflow
+          The Windows Workflow Foundation or WF: was announced in August
+          2005, and allows task automation and integrated transactions
+          using workflows. It is the programming model, engine and tools
+          for building workflow enabled applications on Windows.
+
+   Identity
+          Windows CardSpace or WCS, formerly code-named InfoCard, is a
+          software component which securely stores digital identities of a
+          person, and provides a unified interface for choosing the
+          identity for a particular transaction, such as logging into a
+          website.
+
+   These technologies will also be available for Windows XP and Windows
+   Server 2003 to facilitate their introduction to and usage by developers
+   and end users.
+
+   There are also significant new development APIs in the core of the
+   operating system, notably the completely re-architected audio,
+   networking, print, and video interfaces, major changes to the security
+   infrastructure, improvements to the deployment and installation of
+   applications (" ClickOnce" and Windows Installer 4.0), new device
+   driver development model (" Windows Driver Foundation"), Transactional
+   NTFS, mobile computing API advancements (power management, Tablet PC
+   Ink support, SideShow) and major updates to (or complete replacements
+   of) many core subsystems such as Winlogon and CAPI.
+
+   There are some issues for software developers using some of the
+   graphics APIs in Vista. Games or programs which are built on Vista's
+   version of DirectX, 10, will not work on prior versions of Windows, as
+   DirectX 10 is not backwards-compatible with DirectX 9. According to a
+   Microsoft blog, there are three choices for OpenGL implementation on
+   Vista. An application can use the default implementation, which
+   translates OpenGL calls into the Direct3D API and is frozen at OpenGL
+   version 1.4, or an application can use an Installable Client Driver
+   (ICD), which comes in two flavours: legacy and Vista-compatible. A
+   legacy ICD, the kind already provided by independent hardware vendors
+   targeting Windows XP, will disable the Desktop Window Manager,
+   noticeably degrading user experience under Windows Aero. A
+   Vista-compatible ICD takes advantage of a new API, and will be fully
+   compatible with the Desktop Window Manager. At least two primary
+   vendors, ATI and NVIDIA, are expected to provide full Vista-compatible
+   ICDs in the near future.
+
+Deprecated features
+
+   Some notable Windows XP features and components have been replaced or
+   removed in Windows Vista. Perhaps the most significant of these is the
+   removal of Windows Messenger, the network Messenger Service,
+   HyperTerminal, MSN Explorer, and the replacement of NetMeeting with
+   Windows Meeting Space. Windows Vista also does not include the Windows
+   XP "Luna" visual theme, or most of the classic colour schemes which
+   have been part of Windows since the Windows 3.x era. The "Hardware
+   profiles" startup feature has been removed as well, along with support
+   for older motherboard technologies like the EISA bus and APM.
+   WinHlp32.exe, used to display 32-bit .hlp files, is no longer included
+   in Windows Vista as Microsoft considers it obsolete. This has resulted
+   in a number of older programs not being able to display Help when
+   running on Vista. In addition, Microsoft prohibits software
+   manufacturers from re-introducing it with their products. However,
+   WinHlp32.exe can still be installed manually from Microsoft's Download
+   Centre.
+
+   telnet.exe is no longer installed by default, but is still included as
+   an installable feature.
+
+Postponed features
+
+   During the course of development, a number of features that had been
+   announced or discussed publicly are no longer slated to be included
+   with the initial release of Windows Vista.
+     * Due to scheduling issues, the Windows PowerShell, code-named Monad,
+       will not be included in Windows Vista. However, it is available as
+       a separate download .
+     * Owing to significant difficulties in getting third-party developers
+       to support the system (particularly due to the lack of support for
+       writing for the Trusted Operating Root using .NET managed code),
+       the Next-Generation Secure Computing Base architecture was
+       abandoned for Windows Vista. Some aspects of the NGSCB initiative,
+       such as support for Trusted Platform Module chips, are still
+       present, though its role is now limited to being a provider of
+       cryptographic functions which will support BitLocker Drive
+       Encryption.
+
+     * Support for Intel's Extensible Firmware Interface was originally
+       slated to be included with Vista, but has been removed due to what
+       Microsoft has described as a lack of support on desktop computers.
+       The UEFI 2.0 specification (which replaces EFI 1.10) was not
+       completed until early 2006, and as of mid-2006, no firmware
+       manufacturers have completed a production implementation. Microsoft
+       has stated that it intends on incorporating 64-bit UEFI support
+       into a future update to Vista, but 32-bit UEFI will not be
+       supported.
+
+     * PC-to-PC Sync, a technology for synchronizing folders on multiple
+       computers using peer-to-peer technology, was removed due to quality
+       concerns. Microsoft plans to release it after Vista's release.
+
+Visual styles
+
+   Windows Vista has four distinct visual styles.
+
+   Windows Aero
+          Vista's premier visual style is built on a new desktop
+          composition engine called Desktop Window Manager. Windows Aero
+          introduces support for 3D graphics (Windows Flip 3D),
+          translucency effects (Glass), window animations and other visual
+          effects, and is intended for mainstream and high-end graphics
+          cards. To enable these features, the contents of every open
+          window is stored in video memory to facilitate tearing-free
+          movement of windows. As such, Windows Aero has significantly
+          higher hardware requirements than its predecessors. 64 MB of
+          graphics memory is the minimum requirement, depending on
+          resolution used. Windows Aero (including Windows Flip 3D) is not
+          planned for inclusion in the Starter and Home Basic editions,
+          and requires Windows Genuine Advantage to be passed.
+
+   Windows Vista Standard
+          This mode is a variation of Windows Aero without the glass
+          effects, window animations, and other advanced graphical effects
+          such as Windows Flip 3D. Like Windows Aero, it uses the Desktop
+          Window Manager, and has generally the same video hardware
+          requirements as Windows Aero. This is the default mode for the
+          Windows Vista Home Basic Edition. The Starter (developing
+          markets) edition does not support this mode.
+
+   Windows Vista Basic
+          This mode has aspects that are similar to Windows XP's visual
+          style with the addition of subtle animations such as those found
+          on progress bars. It does not employ the Desktop Window Manager;
+          as such, it does not feature transparency or translucency,
+          window animation, Windows Flip 3D or any of the functions
+          provided by the DWM. The Basic mode does not require the new
+          Windows Display Driver Model (WDDM) for display drivers, and has
+          similar graphics card requirements to Windows XP. For computers
+          with graphics cards that are not powerful enough to support
+          Windows Aero, this is the default graphics mode.
+
+   Windows Classic
+          An option for corporate deployments and upgrades, Windows
+          Classic has the look and feel of Windows 2000 and Windows Server
+          2003, does not use the Desktop Window Manager and does not
+          require a WDDM driver. As with prior versions of Windows, this
+          theme supports "Color schemes" which are a collection of color
+          settings. Windows Vista includes six classic color schemes,
+          comprised of four high-contrast colour schemes, as well as the
+          default colour schemes from Windows 95 and Windows 2000.
+
+   "Windows Aero" style. "Windows Vista Standard" is similar in appearance
+                but without the glass effects around windows.
+
+                     "Windows Vista Basic" visual style.
+
+                       "Windows Classic" visual style.
+
+Hardware requirements
+
+   According to Microsoft, computers capable of running Windows Vista are
+   classified as Vista Capable and Vista Premium Ready. A Vista Capable or
+   equivalent PC needs to have at least 800 MHz processor, 512 MB RAM and
+   a DirectX 9 class graphics card, and will not be capable of supporting
+   the high end Vista graphics, including the Aero user interface. A Vista
+   Premium Ready PC will take advantage of Vista's "high-end" features but
+   will need at least a 1.0 GHz processor, 1 GB main memory, and an
+   Aero-compatible graphics card with at least 128 MB graphics memory and
+   supporting the new Windows Display Driver Model. The company also
+   offers a Release Candidate of Windows Vista Upgrade Advisor from its
+   Web site to determine the ability of a PC to run Vista in its various
+   guises. The utility runs on Windows XP and Windows Vista.
+
+   Microsoft lists some Vista capable hardware on their web site. The
+   "Vista Premium Ready" laptops they specify have Intel Core 2 Duo T5500
+   or above CPUs and 1 GB memory.
+
+   While Microsoft specifies 1 GB of main memory (RAM), Nigel Page of
+   Microsoft has indicated that 2 GB is the ideal configuration for 64-bit
+   Vista which processes data chunks that are double the size for those
+   for 32-bit Vista, hence requiring double the memory.
+
+   Windows Vista's "Basic" and "Classic" interfaces will work with
+   virtually any graphics hardware that supports Windows XP or 2000;
+   accordingly, most discussion around Vista's graphics requirements
+   centers on those for the Windows Aero interface. As of Windows Vista
+   Beta 2, the NVIDIA GeForce FX family and later, the ATI Radeon 9500 and
+   later, Intel's GMA 950 integrated graphics, and a handful of VIA
+   chipsets and S3 Graphics discrete chips are supported. Though some XGI
+   Technology Volari chips were DirectX 9 (including the Volari V3XT which
+   was available in PCI cards), with XGI's exit from the graphics card
+   business it appears none of its chips are supported as of Vista Beta 2.
+
+   Microsoft has not specifically stated whether an AGP or PCI Express
+   (PCIe) video card is a requirement for Windows Aero, but they recommend
+   PCIe video due to their greater bandwidth. There are some PCI cards
+   available that are compatible with Windows Vista as well. After testing
+   with release candidates, it has been proven that Windows Aero performs
+   smoothly on DirectX 9 AGP video cards.
+
+   CAPTION: Windows Vista system requirements
+
+   Vista Capable Vista Premium Ready
+   Processor 800 MHz 1 GHz
+   Memory 512 MB RAM 1 GB RAM
+   Graphics Card DirectX 9 capable DirectX 9 capable GPU with Hardware
+   Pixel Shader v2.0 and WDDM Driver support
+   Graphics Memory N/A 128 MB RAM supports up to 2,756,000 total pixels
+   (e.g. 1920 × 1200) or 512 MB+ for greater resolutions such as 2560x1600
+   HDD capacity 20 GB 40 GB
+   HDD free space 15 GB 15 GB
+   HDD type Normal Normal, but hybrid flash memory/hard disk drive
+   recommended
+   Other drives N/A DVD-ROM
+
+Editions and pricing
+
+   Windows Vista will ship in six editions. All editions will be available
+   in both 32-bit ( x86) and 64-bit ( x64) architectures, except Windows
+   Vista Starter which will only be available for 32-bit architectures.
+   Microsoft maintains a detailed Product Guide that describes the various
+   editions of Windows Vista, including detailed comparison charts of all
+   features.
+
+   On September 5, 2006, USD pricing was announced for the four editions
+   they plan on making available through retail channels. New license and
+   upgrade license SKUs of each edition will be made available.
+
+   CAPTION: Windows Vista editions and pricing
+
+   Edition Description Pricing (USD) Retail box
+   Retail Upgrade
+   Windows Vista
+   Starter Much like Windows XP Starter Edition, this edition will be
+   limited to emerging markets such as India, Russia, Mexico, Brazil,
+   Thailand, and Indonesia, mainly to offer a legal alternative to using
+   unauthorized copies. It will not be available in the United States,
+   Canada, or Europe. It will have many significant limitations, such as
+   only allowing a user to launch three applications with a user interface
+   at once, not accepting incoming network connections, a physical memory
+   limit of 256 MB, and will run only in 32-bit mode. Additionally, only
+   Duron, Sempron and Geode processors from AMD, and Intel's Celeron and
+   Pentium III processors are supported. No pricing announced No box shot
+   available
+   Windows Vista
+   Home Basic Similar to Windows XP Home Edition, Home Basic is intended
+   for budget users not requiring advanced media support for home use. The
+   Windows Aero theme with translucent effects will not be included with
+   this edition. Home Basic will support up to 8 GB of physical memory.
+   $199.00 $99.95
+   Windows Vista
+   Home Premium Containing all features from Home Basic, this edition will
+   also support more advanced features aimed for the home market segment,
+   such as HDTV support and DVD authoring. Extra premium games, mobile and
+   tablet PC, network projector, touchscreen, and auxiliary display (via
+   Windows SideShow) support, and a utility to schedule backups are also
+   included. Home Premium also supports up to 2 physical processors, and
+   10 simultaneous peer network connections (compared to 5 in Home Basic).
+   The version of Meeting Space included will also allow for interaction
+   (in Home Basic, you may only view meetings), but Remote Desktop
+   sessions may only be received, not controlled, in this edition. This
+   edition is comparable to Windows XP Media Centre Edition and Tablet PC
+   Edition. Home Premium will support up to 16 GB of physical memory.
+   $239.00 $159.00
+   Windows Vista
+   Business Comparable to Windows XP Professional, and aimed at the
+   business market. Includes all the features of Home Premium with the
+   exception of Windows Media Centre, Parental Controls, and Windows DVD
+   and Movie Maker. Includes the IIS web server, fax support, file system
+   encryption, system image backup and recovery, offline file support, a
+   full version of Remote Desktop, ad-hoc P2P collaboration capabilities,
+   Previous Versions (Windows ShadowCopy), and several other business
+   features not in Home Premium. Business supports 128 GB of memory.
+   $299.00 $199.95
+   Windows Vista
+   Enterprise This edition is aimed at the enterprise segment of the
+   market, and is a superset of the Business edition. Additional features
+   include multilingual user interface support, BitLocker Drive
+   Encryption, and UNIX application support. This edition will not be
+   available through retail or OEM channels, but through Microsoft
+   Software Assurance. Part of Software Assurance enterprise licensing N/A
+   Windows Vista
+   Ultimate This edition combines all the features of the Home Premium and
+   Enterprise editions, a game performance tweaker ( WinSAT), and
+   "Ultimate Extras". Microsoft has so far had little to say regarding
+   Ultimate Extras, but they are expected to include special online
+   services for downloadable media, as well as additional customer service
+   options. The Ultimate edition is aimed at high-end PC users, gamers,
+   multimedia professionals, and PC enthusiasts. $399.00 $259.00
+
+   Notes:
+    1. "Home Basic N" and "Business N" editions of Windows Vista will
+       additionally be available in the European Union. These editions
+       will ship without Windows Media Player, according to the EU
+       sanctions brought against Microsoft for violating anti-trust laws.
+    2. An "Express Upgrade" program is available for providing free or
+       low-cost upgrades for people who purchase computers with Windows XP
+       between October 26, 2006 and March 15, 2007. The precise costs vary
+       between OEM manufacturers; Dell, for example, will offer free
+       upgrades from Windows XP Professional to Windows Vista Business,
+       while upgrades from Windows XP Home to Windows Vista Home Basic
+       will cost $45 USD.
+    3. Around the end of August, a number of web sites were reporting that
+       "additional license" SKUs will be available as well with a 10%
+       discount off the retail price; this was based on pricing
+       information that appeared on Amazon.com; the pricing information
+       for these additional license SKUs was removed shortly afterwards.
+       Microsoft has not commented publicly on the availability or pricing
+       of additional licenses for Windows Vista.
+    4. All editions of Windows Vista will ship on the same DVD. It is the
+       license key purchased that determines which version will be
+       installed. After the product key is entered, the user will choose
+       whether to install the 32-bit or 64-bit version of that edition
+       (except for Starter edition). The features of the Home Premium and
+       Ultimate editions may be "unlocked" at any time by purchasing a
+       one-time upgrade license through a Control Panel tool called
+       Windows Anytime Upgrade. The Business edition will also be
+       upgradable to Ultimate. Such licenses will be sold by Microsoft's
+       partners and OEMs, but not directly by Microsoft.
+
+Packaging
+
+   All retail editions of Windows Vista will come packaged in a clear,
+   hard-plastic case, "designed to be user-friendly, the new packaging is
+   a small, hard, plastic container that [will] protect the software
+   inside for life-long use". The case will open sideways to reveal the
+   Windows Vista DVD suspended in a clear plastic case. The Windows Vista
+   disc itself uses a holographic design similar to the discs that
+   Microsoft has produced since Windows 2000.
+
+Criticism
+
+   Criticisms of Windows Vista include protracted development time, more
+   restrictive licensing terms, the inclusion of a number of technologies
+   aimed at restricting the copying of protected digital media, and the
+   usability of the new User Account Control security technology.
+   Reviewers have also noted similarities between Vista's Aero interface
+   and that of Apple's Mac OS X operating system, particularly around the
+   use of and transition effects. Moreover, some concerns have been raised
+   about many PCs meeting "Vista Premium Ready" hardware requirements and
+   Vista's pricing.
+
+   Licensing: The introduction of license restrictions on retail buyers
+   legally transferring their copy of Vista was criticized heavily and has
+   since changed. Before, the licensing terms for Vista only allowed
+   buyers of retail copies of Vista to transfer their software to a new
+   machine one time. If a user wanted to move their software a second
+   time, he or she would have to contact Microsoft via phone, proving they
+   hold a valid license, to get a code to allow the move. Since then,
+   Microsoft has responded to the complaints and has modified the EULA to
+   read: "You may uninstall the software and install it on another device
+   for your use. You may not do so to share this license between devices."
+   As with Windows XP, separate rules will apply for OEM versions of Vista
+   installed on new PCs; these are not legally transferrable. The cost of
+   Windows Vista has also been criticised by some as too high. A majority
+   of users in a poll said that the prices of various Windows Vista
+   editions posted on the Microsoft Canada website in August 2006 make the
+   product too expensive.
+
+   Digital Rights Management: Another common criticism concerns the
+   integration of new forms of Digital Rights Management into the
+   operating system, specifically High-Bandwidth Digital Content
+   Protection (HDCP) and the Image Constraint Token (ICT), which reduces
+   the quality of high-definition video content if the video card and
+   monitor are not HDCP-enabled. The criticism against HDCP may be
+   misplaced, however, as it is still unclear as to whether all high
+   definition media will be subject to HDCP protection.
+
+   User Account Control: Concerns have been raised about the new User
+   Account Control security technology. While Yankee Group analyst Andrew
+   Jaquith believes that critical security vulnerabilities may be "reduced
+   by as much as 80 percent", he also noted that "while the new security
+   system shows promise, it is far too chatty and annoying".
+
+   Kernel Patch Protection: The Kernel Patch Protection feature (also
+   known as "Patchguard") on 64-bit versions of Vista that locks down the
+   OS kernel has been criticised by computer security company McAfee who
+   claim that since PatchGuard also prevents third-party security
+   companies from getting inside the OS, they cannot activate crucial
+   security measures in their software to protect the OS from intruders.
+   Microsoft's argument is that this will keep miscreants out of the OS
+   and prevent the incidence of attacks, and it is something for which
+   customers have been asking. Firewall maker Agnitum and others have
+   argued that the Patchguard can be circumvented by hackers and that some
+   security software makers must use similar methods. McAfee has also
+   stated that Vista will be even less secure than previous versions of
+   Windows. However, security vendor Kaspersky Lab claims that it is not
+   more difficult in Vista for anti-virus software to work, and that it
+   would not make sense for Microsoft to stop working with security
+   companies because it would make their system more vulnerable to
+   attacks. Sophos adds that Microsoft does not need to open PatchGuard
+   for third party developers, instead, they should use the APIs Microsoft
+   supplies them.
+
+   Similarity with Mac OS X: Another criticism is a claim by some that
+   Windows Vista emulates specific features in Apple Computer's Mac OS X.
+   Scott Spanbauer of PCWorld notes a "striking similarity" between
+   Vista's Aero visual effects, icon design, buttons and those of Mac OS
+   X's Aqua. Vista has also incorporated features which OS X has had for
+   some time such as fast searching and Smart Folders functionality. This
+   has led some to the conclusion that Aero is an imitation of Aqua. Apple
+   highlighted similarities during the keynote presentation at the
+   Worldwide Developers Conference in August 2006, with Bertrand Serlet
+   showing screenshots of Vista and OS X side-by-side. However, several of
+   the features Microsoft has been accused of copying appeared in early
+   testing versions of Longhorn, such as the desktop search capabilites.
+
+   Hardware Requirements: Some controversy and concerns have arisen over
+   how the increase in hardware specifications required to take advantage
+   of many of Vista's new features may impact both personal and business
+   users. While most PCs purchased after 2002 will be able to meet Vista’s
+   minimum “Windows Vista Capable” requirements, many laptops and low-end
+   to midrange desktops with integrated graphics will not be able to meet
+   “Windows Vista Premium Ready” requirements and will therefore not be
+   able to run advanced features such as the Aero Glass interface.
+
+   Anti-Competition: The European Union Competition Commission has raised
+   concerns about Vista's compliance with EU anti-trust rules intended to
+   allow competition between security providers on the merits of their
+   products. Commission spokesman Jonathan Todd stated, "If business and
+   home users are deprived of choice, a security 'monoculture' based on
+   Microsoft products may lead to less innovation and could harm all
+   computer users. Security risks could increase, and not decrease."
+   Responding to EU concerns, Jack Evans, a Microsoft spokesman, stated,
+   "We still have not received the guidance we're seeking. In July, we
+   received a formal list of questions, but no answers about what specific
+   concerns the Commission has, or how we should address them. We need
+   answers, not questions." Evans went on to state "The bottom line is
+   that we want to launch Vista in a fully lawful manner, and we want to
+   avoid regulatory decisions that could increase security risks for
+   European consumers." While there were some concerns from analysts and
+   reporters that this issue would result in Vista being delayed further,
+   Microsoft stated that this will not be the case.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Windows_Vista"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

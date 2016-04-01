@@ -1,0 +1,91 @@
+   #copyright
+
+Ajax (programming)
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   Ajax, shorthand for Asynchronous JavaScript and XML, is a web
+   development technique for creating interactive web applications. The
+   intent is to make web pages feel more responsive by exchanging small
+   amounts of data with the server behind the scenes, so that the entire
+   web page does not have to be reloaded each time the user makes a
+   change. This is meant to increase the web page's interactivity, speed,
+   and usability.
+
+   The Ajax technique uses a combination of:
+     * XHTML (or HTML) and CSS, for marking up and styling information.
+     * The DOM accessed with a client-side scripting language, especially
+       ECMAScript implementations such as JavaScript and JScript, to
+       dynamically display and interact with the information presented.
+     * The XMLHttpRequest object is used to exchange data asynchronously
+       with the web server. In some Ajax frameworks and in certain
+       situations, an IFrame object is used instead of the XMLHttpRequest
+       object to exchange data with the web server, and in other
+       implementations, dynamically added < script> tags may be used.
+     * XML is sometimes used as the format for transferring data between
+       the server and client, although any format will work, including
+       preformatted HTML, plain text, JSON and even EBML. These files may
+       be created dynamically by some form of server-side scripting.
+
+   Like DHTML, LAMP and SPA, Ajax is not a technology in itself, but a
+   term that refers to the use of a group of technologies.
+
+History
+
+   The first use of the term in public was by Jesse James Garrett in
+   February 2005. Garrett thought of the term while in the shower, when he
+   realized the need for a shorthand term to represent the suite of
+   technologies he was proposing to a client.
+
+   Although the term "Ajax" was coined in 2005, most histories of the
+   technologies that enable Ajax start a decade earlier with Microsoft's
+   initiatives in developing Remote Scripting. Techniques for the
+   asynchronous loading of content on an existing Web page without
+   requiring a full reload date back as far as the IFRAME element type
+   (introduced in Internet Explorer 3 in 1996) and the LAYER element type
+   (introduced in Netscape 4 in 1997, abandoned during early development
+   of Mozilla). Both element types had a src attribute that could take any
+   external URL, and by loading a page containing JavaScript that
+   manipulated the parent page, Ajax-like effects could be attained. This
+   set of client-side technologies was usually grouped together under the
+   generic term of DHTML. Macromedia's Flash could also, from version 4,
+   load XML and CSV files from a remote server without requiring a browser
+   refresh.
+
+   Microsoft's Remote Scripting (or MSRS, introduced in 1998) acted as a
+   more elegant replacement for these techniques, with data being pulled
+   in by a Java applet with which the client side could communicate using
+   JavaScript. This technique worked on both Internet Explorer version 4
+   and Netscape Navigator version 4 onwards. Microsoft then created the
+   XMLHttpRequest object in Internet Explorer version 5 and first took
+   advantage of these techniques using XMLHttpRequest in Outlook Web
+   Access supplied with the Microsoft Exchange Server 2000 release.
+
+   The Web development community, first collaborating via the
+   microsoft.public.scripting.remote newsgroup and later through blog
+   aggregation, subsequently developed a range of techniques for remote
+   scripting in order to enable consistent results across different
+   browsers. In 2002, a user-community modification to Microsoft Remote
+   Scripting was made to replace the Java applet with XMLHttpRequest.
+
+   Remote Scripting Frameworks such as ARSCIF surfaced in 2003 not long
+   before Microsoft introduced Callbacks in ASP.NET.
+
+   Since XMLHttpRequest is now implemented across the majority of browsers
+   in use, alternative techniques are used infrequently. However, they are
+   still used where compatibility with older Web sites or legacy
+   applications is required.
+
+   In addition, the World Wide Web Consortium has several Recommendations
+   that also allow for dynamic communication between a server and user
+   agent, though few of them are well supported. These would include:
+     * The object element defined in HTML 4 for embedding arbitrary
+       content types into documents, (replaces inline frames under XHTML
+       1.1)
+     * The Document Object Model (DOM) Level 3 Load and Save Specification
+
+   Retrieved from " http://en.wikipedia.org/wiki/Ajax_%28programming%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,230 @@
+   #copyright
+
+Electronics
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   The field of electronics comprises the study and use of systems that
+   operate by controlling the flow of electrons (or other charge carriers)
+   in devices such as thermionic valves (vacuum tubes) and semiconductors.
+   The design and construction of electronic circuits to solve practical
+   problems is an integral technique in the field of electronics
+   engineering and is equally important in hardware design for computer
+   engineering. All applications of electronics involve the transmission
+   of either information or power. Most deal only with information.
+
+   The study of new semiconductor devices and surrounding technology is
+   sometimes considered a branch of physics. This article focuses on
+   engineering aspects of electronics.
+
+Overview of electronic systems and circuits
+
+   Commercial digital voltmeter checking a prototype
+   Enlarge
+   Commercial digital voltmeter checking a prototype
+
+   Electronic systems are used to perform a wide variety of tasks. The
+   main uses of electronic circuits are:
+    1. The controlling and processing of data.
+    2. The conversion to/from and distribution of electric power.
+
+   Both these applications involve the creation and/or detection of
+   electromagnetic fields and electric currents. While electrical energy
+   had been used for some time prior to the late 19th century to transmit
+   data over telegraph and telephone lines, development in electronics
+   grew exponentially after the advent of radio.
+
+   One way of looking at an electronic system is to divide it into 3
+   parts:
+     * Inputs – Electronic or mechanical sensors (or transducers). These
+       devices take signals/information from external sources in the
+       physical world (such as antennas or technology networks) and
+       convert those signals/information into current/ voltage or digital
+       (high/low) signals within the system.
+
+     * Signal processors – These circuits serve to manipulate, interpret
+       and transform inputted signals in order to make them useful for a
+       desired application. Recently, complex signal processing has been
+       accomplished with the use of Digital Signal Processors.
+
+     * Outputs – Actuators or other devices (such as transducers) that
+       transform current/voltage signals back into useful physical form
+       (e.g., by accomplishing a physical task such as rotating an
+       electric motor).
+
+   For example, a television set contains these 3 parts. The television's
+   input transforms a broadcast signal (received by an antenna or fed in
+   through a cable) into a current/voltage signal that can be used by the
+   device. Signal processing circuits inside the television extract
+   information from this signal that dictates brightness, colour and sound
+   level. Output devices then convert this information back into physical
+   form. A cathode ray tube transforms electronic signals into a visible
+   image on the screen. Magnet-driven speakers convert signals into
+   audible sound. [[MARS ELECTRONICS]]
+
+Electronic devices and components
+
+   An electronic component is any indivisible electronic building block
+   packaged in a discrete form with two or more connecting leads or
+   metallic pads. Components are intended to be connected together,
+   usually by soldering to a printed circuit board, to create an
+   electronic circuit with a particular function (for example an
+   amplifier, radio receiver, or oscillator). Components may be packaged
+   singly (resistor, capacitor, transistor, diode etc.) or in more or less
+   complex groups as integrated circuits (operational amplifier, resistor
+   array, logic gate etc). Active components are sometimes called devices
+   rather than components.
+
+Types of circuits
+
+Analog circuits
+
+   Hitachi J100 adjustable frequency drive chassis. Enlarge
+   Hitachi J100 adjustable frequency drive chassis.
+
+   Most analog electronic appliances, such as radio receivers, are
+   constructed from combinations of a few types of basic circuits. Analog
+   circuits use a continuous range of voltage as opposed to discrete
+   levels as in digital circuits. The number of different analog circuits
+   so far devised is huge, especially because a 'circuit' can be defined
+   as anything from a single component, to systems containing thousands of
+   components.
+
+   Analog circuits are sometimes called linear circuits although many
+   non-linear effects are used in analog circuits such as mixers,
+   modulators etc. Good examples of analog circuits include vacuum tube
+   and transistor amplifiers, operational amplifiers and oscillators.
+
+   Some analog circuitry these days may use digital or even microprocessor
+   techniques to improve upon the basic performance of the circuit. This
+   type of circuit is usually called 'mixed signal'.
+
+   Sometimes it may be difficult to differentiate between analog and
+   digital circuits as they have elements of both linear and non-linear
+   operation. An example is the comparator which takes in a continuous
+   range of voltage but puts out only one of two levels as in a digital
+   circuit. Similarly, an overdriven transistor amplifier can take on the
+   characteristics of a controlled switch having essentially two levels of
+   output.
+
+Digital circuits
+
+   Digital circuits are electric circuits based on a number of discrete
+   voltage levels. Digital circuits are the most common physical
+   representation of Boolean algebra and are the basis of all digital
+   computers. To most engineers, the terms "digital circuit", "digital
+   system" and "logic" are interchangeable in the context of digital
+   circuits. In most cases the number of different states of a node is
+   two, represented by two voltage levels labeled "Low" and "High". Often
+   "Low" will be near zero volts and "High" will be at a higher level
+   depending on the supply voltage in use.
+
+   Computers, electronic clocks, and programmable logic controllers (used
+   to control industrial processes) are constructed of digital circuits.
+   Digital Signal Processors are another example.
+
+   Building-blocks:
+     * logic gates
+     * Adders
+     * Binary Multipliers
+     * flip-flops
+     * counters
+     * registers
+     * multiplexers
+     * Schmitt triggers
+
+   Highly integrated devices:
+     * microprocessors
+     * microcontrollers
+     * Application specific integrated circuit(ASIC)
+     * Digital signal processor (DSP)
+     * Field Programmable Gate Array (FPGA)
+
+Mixed-signal circuits
+
+   Mixed-signal circuits refers to integrated circuits (ICs) which have
+   both analog circuits and digital circuits combined on a single
+   semiconductor die or on the same circuit board. Mixed-signal circuits
+   are becoming increasingly common. Mixed circuits contain both analog
+   and digital components. Analog to digital converters and digital to
+   analog converters are the primary examples. Other examples are
+   transmission gates and buffers.
+
+Heat dissipation and thermal management
+
+   Heat generated by electronic circuitry must be dissipated to prevent
+   immediate failure and improve long term reliability. Techniques for
+   heat dissipation can include heatsinks and fans for air cooling, and
+   other forms of computer cooling such as water cooling. These techniques
+   use convection, conduction, & radiation of heat energy.
+
+Noise
+
+   Noise is associated with all electronic circuits. Noise is generally
+   defined as any unwanted signal that is not present at the input of a
+   circuit. Noise is not the same as signal distortion caused by a
+   circuit.
+
+Electronics theory
+
+   Mathematical methods are integral to the study of electronics. To
+   become proficient in electronics it is also necessary to become
+   proficient in the mathematics of circuit analysis.
+
+   Circuit analysis is the study of methods of solving generally linear
+   systems for unknown variables such as the voltage at a certain node or
+   the current though a certain branch of a network. A common analytical
+   tool for this is the SPICE circuit simulator.
+
+   Also important to electronics is the study and understanding of
+   electromagnetic field theory.
+
+Electronic test equipment
+
+   Electronic test equipment is used to create stimulus signals and
+   capture responses from electronic Devices Under Test (DUTs). In this
+   way, the proper operation of the DUT can be proven or faults in the
+   device can be traced and repaired.
+
+   Practical electronics engineering and assembly requires the use of many
+   different kinds of electronic test equipment ranging from the very
+   simple and inexpensive (such as a test light consisting of just a light
+   bulb and a test lead) to extremely complex and sophisticated such as
+   Automatic Test Equipment.
+
+Computer aided design (CAD)
+
+   Today's electronics engineers have the ability to design circuits using
+   premanufactured building blocks such as power supplies, resistors,
+   capacitors, semiconductors (such as transistors), and integrated
+   circuits. Electronic design automation software programs include
+   schematic capture programs such as EWB ( electronic work bench )or
+   ORCAD or Eagle Layout Editor, used to make circuit diagrams and printed
+   circuit board layouts.
+
+Construction methods
+
+   Many different methods of connecting components have been used over the
+   years. For instance, in the beginning point to point wiring using tag
+   boards attached to chassis were used to connect various electrical
+   innards. Cordwood construction and wire wraps were other methods used.
+   Most modern day electronics now use printed circuit boards or highly
+   integrated circuits.
+
+Branch pages
+
+     * Digital electronics
+     * Analogue electronics
+     * Microelectronics
+     * Fuzzy electronics
+     * Electronic Devices and Circuits
+     * Integrated circuit
+     * Optoelectronics
+     * Semiconductor
+     * Semiconductor device
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electronics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

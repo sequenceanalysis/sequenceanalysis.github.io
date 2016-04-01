@@ -1,0 +1,805 @@
+   #copyright
+
+Thermodynamic temperature
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Thermodynamic temperature is the absolute measure of temperature and is
+   one of the principal parameters of thermodynamics. Thermodynamic
+   temperature is an “absolute” scale because it is the measure of the
+   fundamental property underlying temperature: its null or zero point,
+   absolute zero, is the lowest possible temperature where nothing could
+   be colder.
+
+Overview
+
+   Fig. 1 The translational motion of fundamental particles of nature such
+   as atoms and molecules gives a substance its temperature. Here, the
+   size of helium atoms relative to their spacing is shown to scale under
+   136 atmospheres of pressure. These room-temperature atoms have a
+   certain, average speed (slowed down here two trillion fold). At any
+   given instant however, a particular helium atom may be moving much
+   faster than average while another may be nearly motionless. Five atoms
+   are colored red to facilitate following their motions.
+   Fig. 1 The translational motion of fundamental particles of nature such
+   as atoms and molecules gives a substance its temperature. Here, the
+   size of helium atoms relative to their spacing is shown to scale under
+   136 atmospheres of pressure. These room-temperature atoms have a
+   certain, average speed (slowed down here two trillion fold). At any
+   given instant however, a particular helium atom may be moving much
+   faster than average while another may be nearly motionless. Five atoms
+   are colored red to facilitate following their motions.
+
+   Temperature^ arises from the random submicroscopic vibrations of the
+   particle constituents of matter. These motions comprise the kinetic
+   energy in a substance. More specifically, the thermodynamic temperature
+   of any bulk quantity of matter is the measure of the average kinetic
+   energy of a certain kind of vibrational motion of its constituent
+   particles called translational motions. Translational motions are
+   ordinary, whole-body movements in 3D space whereby particles move about
+   and exchange energy in collisions. Fig. 1 at right shows translational
+   motion in gases; Fig. 4 below shows translational motion in solids.
+   Thermodynamic temperature’s null point, absolute zero, is the
+   temperature at which the particle constituents of matter have minimal
+   motion, retaining only quantum mechanical motion.
+
+   Throughout^ the scientific world where measurements are made in SI
+   units, thermodynamic temperature is measured in kelvins (symbol: K).
+   Many engineering fields in the U.S. measure thermodynamic temperature
+   using the Rankine scale.
+
+   By international agreement, the^ unit “kelvin” and its scale are
+   defined by two points: absolute zero, and the triple point of specially
+   prepared (VSMOW) water. Absolute zero—the coldest possible
+   temperature—is defined as being precisely 0 K and −273.15  °C. The
+   triple point of water is defined as being precisely 273.16 K and
+   0.01 °C. This definition does three things: 1) it fixes the magnitude
+   of the kelvin unit as being precisely 1 part in 273.16 parts the
+   difference between absolute zero and the triple point of water; 2) it
+   establishes that one kelvin has precisely the same magnitude as a
+   one-degree increment on the Celsius scale; and 3) it establishes the
+   difference between the two scales’ null points as being precisely
+   273.15 kelvins (0 K = −273.15 °C and 273.16 K = 0.01 °C). Conversion
+   from kelvins to degrees Rankine (°R) is accomplished as follows:
+   T[K] × 1.8 = T[°R].
+
+Table of thermodynamic temperatures
+
+   The full range of the thermodynamic temperature scale and some notable
+   points along it are shown in the table below.
+   kelvin Celsius Peak emittance
+   wavelength of
+   black-body photons
+   Absolute zero
+
+   (precisely by definition)
+   0 K −273.15 °C    ∞
+   Coldest measured
+   temperature^  450 pK –273.149 999 999 55 °C 6,400 kilometers
+   One millikelvin
+
+   (precisely by definition)
+   0.001 K −273.149 °C 2.897 77 meters
+   (Radio, FM band)
+   Water’s triple point
+
+   (precisely by definition)
+   273.16 K 0.01 °C 10,608.3 nm
+   (Long wavelength I.R.)
+   Water’s boiling point ^A 373.1339 K 99.9839 °C 7766.03 nm
+   (Mid wavelength I.R.)
+   Incandescent lamp^B 2500 K ≈2200 °C 1160 nm
+   (Near infrared)^C
+   Sun’s visible surface^D 5778 K 5505 °C 501.5 nm
+   ( Green light)
+   Lightning bolt’s
+   channel ^E 28,000 K 28,000 °C 100 nm
+   (Far Ultraviolet light)
+   Sun’s core ^E 16 MK 16 million °C 0.18 nm ( X-rays)
+   Thermonuclear weapon
+   (peak temperature)^E 350 MK 350 million °C 8.3 × 10^−3 nm
+   ( Gamma rays)
+   Sandia National Labs’
+   Z machine ^E 2 GK 2 billion °C 1.4 × 10^−3 nm
+   (Gamma rays)^F
+   Core of a high–mass
+   star on its last day ^E 3 GK 3 billion °C 1 × 10^−3 nm
+   (Gamma rays)
+   Merging binary neutron
+   star system ^E 350 GK 350 billion °C 8 × 10^−6 nm
+   (Gamma rays)
+   Relativistic Heavy
+   Ion Collider ^E 1 TK 1 trillion °C 3 × 10^−6 nm
+   (Gamma rays)
+   CERN’s proton vs.
+   nucleus collisions ^E 10 TK 10 trillion °C 3 × 10^−7 nm
+   (Gamma rays)
+   Universe 5.391 × 10^−44 s
+   after the Big Bang ^E 1.417 × 10^32 K 1.417 × 10^32 °C 1.616 × 10^−26
+   nm
+   (Planck frequency)
+
+   ^A For Vienna Standard Mean Ocean Water at one standard atmosphere
+   (101.325 kPa) when calibrated strictly per the two-point definition of
+   thermodynamic temperature.
+   ^B The 2500 K value is approximate. The 273.15 K difference between K
+   and °C is rounded to 300 K to avoid false precision in the Celsius
+   value.
+   ^C For a true blackbody (which tungsten filaments are not). Tungsten
+   filaments’ emissivity is greater at shorter wavelengths which makes
+   them appear whiter.
+   ^D Effective photosphere temperature. The 273.15 K difference between K
+   and °C is rounded to 273 K to avoid false precision in the Celsius
+   value.
+   ^E The 273.15 K difference between K and °C is ignored to avoid false
+   precision in the Celsius value.
+   ^F For a true blackbody (which the plasma was not). The Z machine’s
+   dominant emission originated from 40 MK electrons (soft x–ray
+   emissions) within the plasma.
+
+The relationship of temperature, motions, conduction, and heat energy
+
+The nature of kinetic energy, translational motion, and temperature
+
+   At its simplest, “temperature” arises from the kinetic energy of the
+   vibrational motions of matter’s particle constituents ( molecules,
+   atoms, and subatomic particles). The full variety of these kinetic
+   motions contribute to the total heat energy in a substance. The
+   relationship of kinetic energy, mass, and velocity is given by the
+   formula E[k] = ^1/[2]m • v^ 2. Accordingly, those particles with one
+   unit of mass moving at one unit of velocity have the same kinetic
+   energy—and the same temperature—as those with twice the mass but only
+   70.7% of the velocity.
+   Fig. 2 The translational motions of helium atoms occurs across a range
+   of speeds. Compare the shape of this curve to that of a Planck curve in
+   Fig. 5 below.
+   Fig. 2 The translational motions of helium atoms occurs across a range
+   of speeds. Compare the shape of this curve to that of a Planck curve in
+   Fig. 5 below.
+
+   The^ thermodynamic temperature of any bulk quantity of a substance (a
+   statistically significant quantity of particles) is directly
+   proportional to the average—or “mean”—kinetic energy of a specific kind
+   of particle motion known as translational motion. These simple
+   movements in the three x, y, and z–axis dimensions of space means the
+   particles move in the three spatial degrees of freedom. This particular
+   form of kinetic energy is sometimes referred to as kinetic temperature.
+   Translational motion is but one form of heat energy and is what gives
+   gases not only their temperature, but also their pressure and the vast
+   majority of their volume. This relationship between the temperature,
+   pressure, and volume of gases is established by the ideal gas law’s
+   formula pV = nRT.
+
+   The extent to which the kinetic energy of translational motion of an
+   individual atom or molecule (particle) in a gas contributes to the
+   pressure and volume of that gas is a proportional function of
+   thermodynamic temperature as established by the Boltzmann constant
+   (symbol: k[B]). The Boltzmann constant also relates the thermodynamic
+   temperature of a gas to the mean kinetic energy of an individual
+   particle’s translational motion as follows:
+
+          E[mean] = 3/2k[B]T
+
+                where…
+                E[mean] = joules (symbol: J)
+                k[B] = 1.380 6505(24) × 10^−23 J/K
+                T = thermodynamic temperature in kelvins
+
+   While the Boltzmann constant is useful for finding the mean kinetic
+   energy of a particle, it’s important to note that even when a substance
+   is isolated and in thermodynamic equilibrium (all parts are at a
+   uniform temperature and no heat is going into or out of it), the
+   translational motions of individual atoms and molecules occurs across a
+   wide range of speeds (see animation in Fig. 1 above). At any one
+   instant, the proportion of particles moving at a given speed within
+   this range is determined by probability as described by the
+   Maxwell–Boltzmann distribution. The graph shown here in Fig. 2  shows
+   the speed distribution of 5500 K helium atoms. They have a most
+   probable speed of 4.780 km/s (0.2092 s/km). However, a certain
+   proportion of atoms at any given instant are moving faster while others
+   are moving relatively slowly; some are momentarily at a virtual
+   standstill (off the x–axis to the right). This graph uses inverse speed
+   for its x–axis so the shape of the curve can easily be compared to the
+   curves in Fig. 5 below. In both graphs, zero on the x–axis represents
+   infinite temperature. Additionally, the x and y–axis on both graphs are
+   scaled proportionally.
+
+The high speeds of translational motion
+
+   Although very specialized laboratory equipment is required to directly
+   detect translational motions, the resultant collisions by atoms or
+   molecules with small particles suspended in a fluid produces Brownian
+   motion that can be seen with an ordinary microscope. The translational
+   motions of elementary particles are very fast and temperatures close to
+   absolute zero are required to directly observe them. For instance, when
+   scientists at the NIST achieved a record-setting cold temperature of
+   700 nK (billionths of a kelvin) in 1994, they used optical lattice
+   laser equipment to adiabatically cool cesium atoms. They then turned
+   off the entrapment lasers and directly measured atom velocities of 7 mm
+   per second to in order to calculate their temperature.  Formulas for
+   calculating the velocity and speed of translational motion are given in
+   the following footnote.
+
+The internal motions of molecules and specific heat
+
+   Fig. 3 Molecules have internal structure because they are composed of
+   atoms that have different ways of moving within molecules. The heat
+   energy stored in these internal degrees of freedom does not contribute
+   to the temperature of a substance.
+   Fig. 3 Molecules have internal structure because they are composed of
+   atoms that have different ways of moving within molecules. The heat
+   energy stored in these internal degrees of freedom does not contribute
+   to the temperature of a substance.
+
+   There are other forms of heat energy besides the kinetic energy of
+   translational motion. As can be seen in the animation at right,
+   molecules are complex objects; they are a population of atoms and
+   thermal agitation can strain its internal chemical bonds in three
+   different ways: via rotation, bond length, and bond angle movements.
+   These are all types of internal degrees of freedom. This makes
+   molecules distinct from monatomic substances (consisting of individual
+   atoms) like the noble gases helium and argon, which have only the three
+   translational degrees of freedom. Kinetic energy is stored in
+   molecules’ internal degrees of freedom, which gives them an internal
+   temperature.  Even though these motions are called “internal,” the
+   external portions of molecules still move—rather like the jiggling of a
+   stationary water balloon. This permits the two-way exchange of kinetic
+   energy between internal motions and translational motions with each
+   molecular collision. Accordingly, as heat is removed from molecules,
+   both their kinetic temperature (the kinetic energy of translational
+   motion) and their internal temperature simultaneously diminish in equal
+   proportions. This phenomenon is described by the equipartition theorem,
+   which states that for any bulk quantity of a molecular-based substance
+   in equilibrium, the kinetic energy of particle motion is evenly
+   distributed among all the active degrees of freedom available to the
+   particles.
+
+   The kinetic energy stored internally in molecules does not contribute
+   directly to the temperature of a substance (nor to the pressure or
+   volume of gases). This is because any kinetic energy that is, at a
+   given instant, bound in internal motions is not at that same instant
+   contributing to the molecules’ translational motions. Since the
+   internal temperature of the molecules in any bulk quantity of a
+   substance in equilibrium is, on average, equal to their kinetic
+   temperature, the distinction is usually of interest only in the
+   detailed study of non-equilibrium phenomena such as the sublimation of
+   solids and the diffusion of hot gases in a partial vacuum.
+
+   Different molecules absorb different amounts of heat energy for each
+   incremental increase in temperature. Water for instance, can absorb a
+   large amount of heat energy per mole (a specific number of particles)
+   with only a modest temperature change. This property is known as a
+   substance’s specific heat capacity. High specific heat capacity arises,
+   in part, because certain substance’s molecules possess more internal
+   degrees of freedom than others. For instance, room-temperature
+   nitrogen, which is a diatomic molecule, has five active degrees of
+   freedom: the three comprising translational motion plus two rotational
+   degrees of freedom internally. Not surprisingly, in accordance to the
+   equipartition theorem, nitrogen has five-thirds the molar heat capacity
+   as do the monatomic gases. Larger, more complex molecules can have
+   dozens of internal degrees of freedom.
+
+The diffusion of heat energy: Entropy, phonons, and mobile conduction
+electrons
+
+   Fig. 4 The temperature-induced translational motion of particles in
+   solids takes the form of phonons. Shown here are phonons with identical
+   amplitudes but with wavelengths ranging from 2 to 12 molecules.
+   Fig. 4 The temperature-induced translational motion of particles in
+   solids takes the form of phonons. Shown here are phonons with identical
+   amplitudes but with wavelengths ranging from 2 to 12 molecules.
+
+   Heat conduction is the diffusion of heat energy from hot parts of a
+   system to cold. A “system” can be either a single bulk entity or a
+   plurality of discrete bulk entities. The term “bulk” in this context
+   means a statistically significant quantity of particles (which can be a
+   microscopic amount). Anytime heat energy diffuses within an isolated
+   system, temperature differences within the system decrease (entropy
+   increases).
+
+   One particular heat conduction mechanism occurs when translational
+   motion—the particle motion underlying temperature—transfers momentum
+   from particle to particle in collisions. In gases, these translational
+   motions are of the nature shown above in Fig. 1. As can be seen in that
+   animation, not only does momentum (heat) diffuse throughout the volume
+   of the gas through serial collisions, but entire molecules or atoms can
+   advance forward into new territory, bringing their kinetic energy with
+   them. Consequently, heat diffuses through gases rather easily;
+   especially for light atoms or molecules. Convection speeds this process
+   even more.
+
+   Translational motion in solids however, takes the form of phonons (see
+   Fig. 4 at right). Phonons are constrained, quantized wave packets
+   traveling at the speed of sound for a given substance. The manner in
+   which phonons interact within a solid determines a variety of its
+   properties, including its thermal conductivity. In electrically
+   insulating solids, phonon-based heat conduction is usually inefficient
+   and such solids are considered to be thermal insulators (such as glass,
+   plastic, rubber, ceramic, and rock). This is because in solids, atoms
+   and molecules are locked into place relative to their neighbors and are
+   not free to roam.
+
+   Metals however, are^ not restricted to only phonon-based heat
+   conduction. Heat energy conducts through metals extraordinarily quickly
+   because instead of direct molecule-to-molecule collisions, the vast
+   majority of heat energy is mediated via very light, mobile conduction
+   electrons. This is why there is a near-perfect correlation between
+   metals’ thermal conductivity and their electrical conductivity.
+   Conduction electrons imbue metals with their extraordinary conductivity
+   because they are delocalized, i.e. not tied to a specific atom, and
+   behave rather like a sort of “quantum gas” due to the effects of
+   zero-point energy (for more on ZPE, see Note 1 below). Furthermore,
+   electrons are relatively light with a rest mass only ^1/[1836]th that
+   of a proton. This is about the same ratio as a .22 Short bullet (29
+   grains or 1.88  g) compared to the rifle that shoots it. As Sir Isaac
+   Newton once wrote with his third law of motion:
+
+          “Law #3: All forces occur in pairs, and these two forces
+           are equal in magnitude and opposite in direction.”
+
+   However, a bullet accelerates faster than a rifle given an equal force.
+   Since kinetic energy increases as the square of velocity, nearly all
+   the kinetic energy goes into the bullet, not the rifle, even though
+   both experience the same force from the expanding propellant gases. In
+   the same manner—because they are much less massive—heat energy is
+   readily borne by mobile conduction electrons. Too, because they’re
+   delocalized and very fast, kinetic heat energy conducts extremely
+   quickly through metals with abundant conduction electrons.
+
+The diffusion of heat energy: Black-body radiation
+
+   Fig. 5 The spectrum of black-body radiation has the form of a Planck
+   curve. A 5500 K black body has a peak emittance wavelength of 527 nm.
+   Compare the shape of this curve to that of a Maxwell distribution in
+   Fig. 2 above.
+   Fig. 5 The spectrum of black-body radiation has the form of a Planck
+   curve. A 5500 K black body has a peak emittance wavelength of 527 nm.
+   Compare the shape of this curve to that of a Maxwell distribution in
+   Fig. 2 above.
+
+   Thermal radiation is^ a byproduct of the collisions arising from atoms’
+   various vibrational and rotational motions. These collisions cause
+   atoms to emit thermal photons (known as black-body radiation). Photons
+   are emitted anytime an electric charge is accelerated (as happens when
+   two atoms’ electron clouds collide). Even individual molecules with
+   internal temperatures greater than absolute zero also emit black-body
+   radiation from their atoms. In any bulk quantity of a substance at
+   equilibrium, black-body photons are emitted across a range of
+   wavelengths in a spectrum that has a bell curve-like shape called a
+   Planck curve (see graph in Fig. 5 at right). The top of a Planck curve—
+   the peak emittance wavelength—is located in particular part of the
+   electromagnetic spectrum depending on the temperature of the black
+   body. Substances at extreme cryogenic temperatures emit at long radio
+   wavelengths whereas extremely hot temperatures produce short gamma rays
+   (see Table of thermodynamic temperatures, above).
+
+   Black-body radiation diffuses heat energy throughout a substance as the
+   photons are absorbed by neighboring atoms, transferring momentum in the
+   process. Black-body photons also easily escape from a substance and can
+   be absorbed by the ambient environment; kinetic energy is lost in the
+   process.
+
+   As established by the Stefan–Boltzmann law, the intensity of black-body
+   radiation increases as the fourth power of absolute temperature. Thus,
+   a black body at 824 K (just short of glowing dull red) emits 60 times
+   the radiant power as it does at 296 K (room temperature). This is why
+   one can so easily feel the radiant heat from hot objects at a distance.
+   At higher temperatures, such as those found in an incandescent lamp,
+   black-body radiation can be the principal mechanism by which heat
+   energy escapes a system.
+   Fig. 6  Ice and water: two phases of the same substance
+   Fig. 6  Ice and water: two phases of the same substance
+
+The heat of phase changes
+
+   The kinetic energy of particle motion is just one contributor to the
+   total heat energy in a substance. The other is the potential energy of
+   molecular bonds that can yet form in a substance as it cools (such as
+   during condensing and freezing). This concept may be more easily
+   grasped by visualizing it in the reverse direction: as the heat energy
+   required to break molecular bonds (such as during evaporation and
+   melting). These processes are known as phase transitions. The heat
+   energy required for a phase transition is called latent heat. Anyone
+   who has compared the 100 °C air from a hair dryer to 100 °C steam knows
+   that the steam can quickly cause severe burns whereas the air can not.
+   The burn occurs because a large amount of heat energy is liberated as
+   steam condenses into liquid water on the skin. Even though heat energy
+   is liberated or absorbed during phase transitions, pure chemical
+   elements, compounds, and eutectic alloys exhibit no temperature change
+   whatsoever while they undergo them (see Fig. 7, below right).
+
+   This^ phenomenon can be readily understood by examining one particular
+   type of phase transition: the melting of a solid. When a solid melts,
+   crystal lattice chemical bonds break apart; the substance has gone from
+   what is known as a more ordered state to a less ordered state (see
+   Topological order). In Fig. 7, the melting of ice is shown within the
+   lower left box heading from blue to green. At one specific
+   thermodynamic point, the melting point (which is 0 °C across a wide
+   pressure range in the case of water), all the atoms or molecules are—on
+   average—at the maximum energy threshold the lattice bonds can withstand
+   without breaking and jumping to a higher quantum energy state.
+   Fig. 7 Water’s temperature does not change during phase transitions as
+   heat flows into or out of it. The total heat capacity of a mole of
+   water in its liquid phase (the green line) is 7.5507 kJ.
+   Fig. 7 Water’s temperature does not change during phase transitions as
+   heat flows into or out of it. The total heat capacity of a mole of
+   water in its liquid phase (the green line) is 7.5507 kJ.
+
+   Quantum^ transitions are a complete jump from one energy level to
+   another; no intermediate values are possible. Consequently, when a
+   substance is at its melting point, every joule of heat energy that is
+   added to it only breaks bonds of a specific quantity of its atoms or
+   molecules, releasing them from the crystal lattice and converting them
+   into a liquid of precisely the same temperature; no kinetic energy is
+   added to translational motion (which is what gives substances their
+   temperature). The effect is rather like popcorn: at a certain
+   temperature, additional heat energy can’t make the kernels any hotter
+   until the transition (popping) is complete. If the process is reversed
+   (as in the freezing of a liquid), heat energy must be removed from a
+   substance.
+
+   As^ stated above, the heat energy required for a phase transition is
+   called latent heat. In the specific cases of melting and freezing, it’s
+   called enthalpy of fusion or heat of fusion. If the molecular bonds in
+   a crystal lattice are strong, the heat of fusion can be relatively
+   great, typically in the range of 6 to 30 kJ per mole for water and most
+   of the metallic elements. If the substance is one of the monatomic
+   gases, (which have little tendency to form molecular bonds) the heat of
+   fusion is more modest, ranging from 0.021 to 2.3 kJ per mole.
+   Relatively speaking, phase transitions can be truly energetic events.
+   To completely melt ice at 0 °C into water at 0 °C, one must add roughly
+   80 times the heat energy as is required to increase the temperature of
+   the same mass of liquid water by one degree Celsius. The metals’ ratios
+   are even greater, typically in the range of 400 to 1200 times. And the
+   phase transition of boiling is much more energetic than freezing. For
+   instance, the energy required to completely boil or vaporize water
+   (what is known as enthalpy of vaporization) is roughly 540 times that
+   required for a one-degree increase. Water’s sizable enthalpy of
+   vaporization is why one’s skin can be burned so quickly as steam
+   condenses on it (heading from red to green in Fig. 7 above). In the
+   opposite direction, this is why one’s skin feels cool as liquid water
+   on it evaporates (a process that occurs at a sub-ambient wet-bulb
+   temperature that is dependent on relative humidity).
+
+Internal energy
+
+   The total kinetic energy of all particle motion — including that of
+   conduction electrons — plus the potential energy of phase changes, plus
+   zero-point energy comprise the internal energy of a substance, which is
+   its total heat energy. The term internal energy mustn’t be confused
+   with internal degrees of freedom. Whereas the internal degrees of
+   freedom of molecules refers to one particular place where kinetic
+   energy is bound, the internal energy of a substance is composed of heat
+   energy in all its various forms.
+   Fig. 8 When many of the chemical elements, such as the noble gases and
+   platinum-group metals, freeze to a solid — the most ordered state of
+   matter — their crystal structures have a closest-packed arrangement.
+   This yields the greatest possible packing density and the lowest energy
+   state.
+   Fig. 8 When many of the chemical elements, such as the noble gases and
+   platinum-group metals, freeze to a solid — the most ordered state of
+   matter — their crystal structures have a closest-packed arrangement.
+   This yields the greatest possible packing density and the lowest energy
+   state.
+
+Heat energy at absolute zero
+
+   As a substance cools, many forms of heat energy and their related
+   effects simultaneously decrease in magnitude: the latent heat of
+   available phase transitions are liberated as a substance changes from a
+   less ordered state to a more ordered state; the translational motions
+   of atoms and molecules diminish (their kinetic temperature decreases);
+   the internal motions of molecules diminish (their internal temperature
+   decreases); conduction electrons (if the substance is an electrical
+   conductor) travel somewhat slower; and black-body radiation’s peak
+   emittance wavelength increases (the photons’ energy decreases). When
+   the particles of a substance are as close as possible to complete rest
+   and retain only quantum mechanical motion, the substance is at the
+   temperature of absolute zero (T=0).
+
+   Note^ that whereas absolute zero is the point of zero temperature,
+   absolute zero is not necessarily the point at which a substance
+   contains zero heat energy; one must be very precise with what one means
+   by “heat energy.” Often, all the phase changes that can occur in a
+   substance, will have occurred by the time it reaches absolute zero.
+   However, this is not always the case. For instance, T=0 helium remains
+   liquid at room pressure and must be under a pressure of at least 25
+   bar to crystallize. This is because helium’s heat of fusion — think of
+   it as the energy required to melt helium ice — is so low (only
+   21 J mol^−1) that the motion-inducing effect of zero-point energy is
+   sufficient to prevent it from freezing at lower pressures. If helium is
+   cooled while under at least 25 bar of pressure, this latent heat energy
+   is liberated as the helium freezes while approaching absolute zero.
+
+   Further^ complicating matters is that many solids change their crystal
+   structure to more compact arrangements at extremely high pressures (up
+   to millions of bars). These are known as solid-solid phase transitions
+   wherein heat is liberated as a crystal lattice changes to a more
+   thermodynamically favorable, compact one. These complexities make for
+   rather cumbersome blanket statements regarding the internal energy in
+   T=0 substances. Regardless of pressure though, what can be said is that
+   at absolute zero, all solids with a lowest-energy crystal lattice such
+   those with a closest-packed arrangement (see Fig. 8, above left)
+   contain minimal internal energy, retaining only that due to the
+   ever-present background of zero-point energy. One can also say that for
+   all substances at any fixed pressure, absolute zero is the point of
+   minimal enthalpy (a measure of heat content that takes pressure into
+   consideration). Lastly, it is always true to say that all T=0
+   substances have zero kinetic heat energy.^
+
+The origin of heat energy
+
+   Earth’s proximity to the Sun is why most everything near Earth’s
+   surface is warm with a temperature substantially above absolute zero.
+   The Sun constantly replenishes heat energy the Earth loses into space.
+   Because matter is everywhere in the natural world, and because of the
+   wide variety of heat diffusion mechanisms (one of which is black-body
+   radiation which occurs at the speed of light), objects on Earth rarely
+   vary too far from the global mean surface and air temperature of 287 to
+   288 K (14 to 15 °C). The more an object’s or system’s temperature
+   varies from this average, the more rapidly it tends to come back into
+   equilibrium with the ambient environment.
+
+History of thermodynamic temperature
+
+     * 1702–1703: Guillaume Amontons (1663 – 1705) published two papers
+       that credit him with being the first researcher to deduce the
+       existence of a fundamental (thermodynamic) temperature scale
+       featuring an absolute zero. He made the discovery while endeavoring
+       to improve upon the air thermometers in use at the time. His J-tube
+       thermometers comprised a mercury column that was supported by a
+       fixed mass of air entrapped within the sensing portion of the
+       thermometer. In thermodynamic terms, his thermometers relied upon
+       the volume / temperature relationship of gas under constant
+       pressure. His measurements of the boiling point of water and the
+       melting point of ice showed that regardless of the mass of air
+       trapped inside his thermometers or the weight of mercury the air
+       was supporting, the reduction in air volume at the ice point was
+       always the same ratio. This observation lead him to posit that a
+       sufficient reduction in temperature would reduce the air volume to
+       zero. In fact, his calculations projected that absolute zero was
+       equivalent to −240 degrees on today’s Celsius scale—only 33.15
+       degrees short of the true value of −273.15 °C.
+
+     * 1742:
+       Anders Celsius
+       Anders Celsius
+       Anders Celsius (1701 – 1744) created a “backwards” version of the
+       modern Celsius temperature scale whereby zero represented the
+       boiling point of water and 100 represented the melting point of
+       ice. In his paper Observations of two persistent degrees on a
+       thermometer, he recounted his experiments showing that ice’s
+       melting point was effectively unaffected by pressure. He also
+       determined with remarkable precision how water’s boiling point
+       varied as a function of atmospheric pressure. He proposed that zero
+       on his temperature scale (water’s boiling point) would be
+       calibrated at the mean barometric pressure at mean sea level.
+
+     * 1744:
+       Carolus Linnaeus
+       Carolus Linnaeus
+       Coincident with the death of Anders Celsius, the famous botanist
+       Carolus Linnaeus (1707 – 1778) effectively reversed^  Celsius’s
+       scale upon receipt of his first thermometer featuring a scale where
+       zero represented the melting point of ice and 100 represented
+       water’s boiling point. His custom-made “linnaeus-thermometer,” for
+       use in his greenhouses, was made by Daniel Ekström, Sweden’s
+       leading maker of scientific instruments at the time. For the next
+       204 years, the scientific and thermometry communities world-wide
+       referred to this scale as the “centigrade scale.” Temperatures on
+       the centigrade scale were often reported simply as “degrees” or,
+       when greater specificity was desired, “degrees centigrade.” The
+       symbol for temperature values on this scale was °C (in several
+       formats over the years). Because the term “centigrade” was also the
+       French-language name for a unit of angular measurement
+       (one-hundredth of a right angle) and had a similar connotation in
+       other languages, the term “centesimal degree” was used when very
+       precise, unambiguous language was required by international
+       standards bodies such as the Bureau international des poids et
+       mesures (BIPM). The 9th CGPM ( Conférence générale des poids et
+       mesures) and the CIPM ( Comité international des poids et mesures)
+       formally adopted “degree Celsius” (symbol: °C) in 1948.
+
+     * 1777: In^ his book Pyrometrie (Berlin: Haude & Spener, 1779)
+       completed four months before his death, Johann Heinrich Lambert
+       (1728 – 1777)—sometimes incorrectly referred to as Joseph
+       Lambert—proposed an absolute temperature scale based on the
+       pressure / temperature relationship of a fixed volume of gas. This
+       is distinct from the volume / temperature relationship of gas under
+       constant pressure that Guillaume Amontons discovered 75 years
+       earlier. Lambert stated that absolute zero was the point where a
+       simple straight-line extrapolation reached zero gas pressure and
+       was equal to −270 °C.
+
+     * Circa 1787: Notwithstanding the work of Guillaume Amontons 85 years
+       earlier, Jacques Alexandre César Charles (1746 – 1823) is often
+       credited with “discovering”, but not publishing, that the volume of
+       a gas under constant pressure is proportional to its absolute
+       temperature. The formula he created was V[1]/T[1] = V[2]/T[2].
+
+     * 1802: Joseph Louis Gay-Lussac (1778 – 1850) published work
+       (acknowledging the unpublished lab notes of Jacques Charles fifteen
+       years earlier) describing how the volume of gas under constant
+       pressure changes linearly with its absolute (thermodynamic)
+       temperature. This behaviour is called Charles’s Law and is one of
+       the gas laws. His are the first known formulas to used the number
+       “273” for the expansion coefficient of gas relative to the melting
+       point of ice (indicating that absolute zero was equivalent to
+       −273 °C).
+
+     * 1848:
+       Lord Kelvin
+       Lord Kelvin
+       William Thomson, (1824 – 1907) also known as Lord Kelvin, wrote in
+       his paper, On an Absolute Thermometric Scale, of the need for a
+       scale whereby “infinite cold” (absolute zero) was the scale’s null
+       point, and which used the degree Celsius for its unit increment. As
+       did Gay-Lussac, Thomson calculated that absolute zero was
+       equivalent to −273 °C on the air thermometers of the time. This
+       absolute scale is known today as the Kelvin thermodynamic
+       temperature scale. It’s noteworthy that Thomson’s value of “−273”
+       was actually derived from 0.00366, which was the accepted expansion
+       coefficient of gas per degree Celsius relative to the ice point.
+       The inverse of −0.00366 expressed to four significant digits is
+       −273.2 °C which is remarkably close to the true value of
+       −273.15 °C.
+
+     * 1859: William John Macquorn Rankine (1820 – 1872) proposed a
+       thermodynamic temperature scale similar to William Thomson’s but
+       which used the degree Fahrenheit for its unit increment. This
+       absolute scale is known today as the Rankine thermodynamic
+       temperature scale.
+
+     * 1877 - 1884:
+       Ludwig Boltzmann
+       Ludwig Boltzmann
+       Ludwig Boltzmann (1844 – 1906) made major contributions to
+       thermodynamics through an understanding of the role that particle
+       kinetics and black-body radiation played. His name is now attached
+       to several of the formulas used today in thermodynamics.
+
+     * Circa 1930s: Gas thermometry experiments carefully calibrated to
+       the melting point of ice and boiling point of water showed that
+       absolute zero was equivalent to −273.15 °C.
+
+     * 1948: Resolution 3 of the 9th CGPM (Conférence Générale des Poids
+       et Mesures, also known as the General Conference on Weights and
+       Measures) fixed the triple point of water at precisely 0.01 °C. At
+       this time, the triple point still had no formal definition for its
+       equivalent kelvin value, which the resolution declared “will be
+       fixed at a later date.” The implication is that if the value of
+       absolute zero measured in the 1930s was truly −273.15 °C, then the
+       triple point of water (0.01 °C) was equivalent to 273.16 K. Also,
+       both the CIPM (Comité international des poids et mesures, also
+       known as the International Committee for Weights and Measures) and
+       the CGPM formally adopted the name “Celsius” for the “degree
+       Celsius” and the “Celsius temperature scale.”
+
+     * 1954: Resolution 3 of the 10th CGPM gave the Kelvin scale its
+       modern definition by choosing the triple point of water as its
+       second defining point and assigned it a temperature of precisely
+       273.16 kelvin (what was actually written 273.16 “degrees Kelvin” at
+       the time). This, in combination with Resolution 3 of the 9th CGPM,
+       had the effect of defined absolute zero as being precisely zero
+       kelvin and −273.15 °C.
+
+     * 1967/1968: Resolution 3 of the 13th CGPM renamed the unit increment
+       of thermodynamic temperature “kelvin”, symbol K, replacing “degree
+       absolute”, symbol °K. Further, feeling it useful to more explicitly
+       define the magnitude of the unit increment, the 13th CGPM also
+       decided in Resolution 4 that “The kelvin, unit of thermodynamic
+       temperature, is the fraction 1/273.16 of the thermodynamic
+       temperature of the triple point of water.”
+
+     * 2005: The CIPM (Comité International des Poids et Mesures, also
+       known as the International Committee for Weights and Measures)
+       affirmed that for the purposes of delineating the temperature of
+       the triple point of water, the definition of the Kelvin
+       thermodynamic temperature scale would refer to water having an
+       isotopic composition defined as being precisely equal to the
+       nominal specification of VSMOW water.
+
+Derivations of thermodynamic temperature
+
+   Strictly speaking, the temperature of a system is well-defined only if
+   its particles (atoms, molecules, electrons, photons) are at
+   equilibrium, and so obey a Boltzmann distribution (or its quantum
+   mechanical counterpart). There are many possible scales of temperature,
+   derived from a variety of observations of physical phenomena. The
+   thermodynamic temperature can be shown to have special properties, and
+   in particular can be seen to be uniquely defined ( up to some constant
+   multiplicative factor) by considering the efficiency of idealized heat
+   engines. Thus the ratios of temperatures, T[2]/T[1], are the same in
+   all absolute scales.
+
+   Loosely stated, temperature controls the flow of heat between two
+   systems and the Universe, as we would expect any natural system, tends
+   to progress so as to maximize entropy. Thus, we would expect there to
+   be some relationship between temperature and entropy. In order to find
+   this relationship let's first consider the relationship between heat,
+   work and temperature. A heat engine is a device for converting heat
+   into mechanical work and analysis of the Carnot heat engine provides
+   the necessary relationships we seek. The work from a heat engine
+   corresponds to the difference between the heat put into the system at
+   the high temperature, q[H] and the heat ejected at the low temperature,
+   q[C]. The efficiency is the work divided by the heat put into the
+   system or:
+
+          \textrm{efficiency} = \frac {w_{cy}}{q_H} = \frac{q_H-q_C}{q_H}
+          = 1 - \frac{q_C}{q_H} (1)
+
+   where w[cy] is the work done per cycle. We see that the efficiency
+   depends only on q[C]/q[H]. Because q[C] and q[H] correspond to heat
+   transfer at the temperatures T[C] and T[H], respectively, q[C]/q[H]
+   should be some function of these temperatures:
+
+          \frac{q_C}{q_H} = f(T_H,T_C) (2)
+
+   Carnot's theorem states that all reversible engines operating between
+   the same heat reservoirs are equally efficient. Thus, a heat engine
+   operating between T[1] and T[3] must have the same efficiency as one
+   consisting of two cycles, one between T[1] and T[2], and the second
+   between T[2] and T[3]. This can only be the case if:
+
+          f(T_1,T_3) = \frac{q_3}{q_1} = \frac{q_2 q_3} {q_1 q_2} =
+          f(T_1,T_2)f(T_2,T_3)
+
+   Consequently, we have:
+
+          f(T_2,T_3) = \frac{f(T_1,T_3)}{f(T_1,T_2)} = \frac{273.16 \cdot
+          f(T_1,T_3)}{273.16 \cdot f(T_1,T_2)}
+
+   where T[1] is the temperature of the triple point of water. So we can
+   define the thermodynamic temperature as:
+
+          T = 273.16 \cdot f(T_1,T) \!
+
+   This temperature scale has the property that:
+
+          \frac{q_C}{q_H} = f(T_H,T_C) = \frac{T_C}{T_H} (3)
+
+   Substituting Equation 3 back into Equation 1 gives a relationship for
+   the efficiency in terms of temperature:
+
+          \textrm{efficiency} = 1 - \frac{q_C}{q_H} = 1 - \frac{T_C}{T_H}
+          (4)
+
+   Notice that for T[C]=0 K the efficiency is 100% and that efficiency
+   becomes greater than 100% below 0 K. Since an efficiency greater than
+   100% violates the first law of thermodynamics, this requires that 0 K
+   must be the minimum possible temperature. This makes intuitive sense;
+   since temperature is the motion of particles, no system can, on
+   average, have less motion than the minimum permitted by quantum
+   physics. In fact, as of June 2006, the coldest man-made temperature was
+   450  pK. Subtracting the right hand side of Equation 4 from the middle
+   portion and rearranging gives:
+
+          \frac {q_H}{T_H} - \frac{q_C}{T_C} = 0
+
+   where the negative sign indicates heat ejected from the system. This
+   relationship suggests the existence of a state function, S, defined by:
+
+          dS = \frac {dq_\mathrm{rev}}{T} (5)
+
+   where the subscript indicates a reversible process. The change of this
+   state function around any cycle is zero, as is necessary for any state
+   function. This function corresponds to the entropy of the system, which
+   we described previously. We can rearranging Equation 5 to get a new
+   definition for temperature in terms of entropy and heat:
+
+          T = \frac{dq_\mathrm{rev}}{dS}
+
+   For a system, where entropy S may be a function S(E) of its energy E,
+   the thermodynamic temperature T is given by:
+
+          \frac{1}{T} = \frac{dS}{dE}
+
+   The reciprocal of the thermodynamic temperature is the rate of increase
+   of entropy with energy.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Thermodynamic_temperature"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

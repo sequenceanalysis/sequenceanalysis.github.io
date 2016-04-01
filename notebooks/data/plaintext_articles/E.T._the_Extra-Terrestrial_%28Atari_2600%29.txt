@@ -1,0 +1,350 @@
+   #copyright
+
+E.T. the Extra-Terrestrial (Atari 2600)
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+       E.T. the Extra-Terrestrial
+   The video game cover of the game
+    Developer(s)   Atari
+    Publisher(s)   Atari
+   Distributor(s)  Atari
+     Designer(s)   Howard Scott Warshaw
+   Release date(s) United States 1982
+      Genre(s)     Adventure
+       Mode(s)     Single player
+     Platform(s)   Atari 2600
+        Media      16Kb ROM cartridge
+        Input      Atari joystick
+
+   E.T. the Extra-Terrestrial is a video game developed by Howard Scott
+   Warshaw based on the film of the same name and released by Atari for
+   the Atari 2600 video game system in 1982. It was widely considered a
+   poorly produced and rushed game that Atari thought would sell purely
+   based on brand loyalty to the names of Atari and E.T. Instead, the game
+   fared horribly and cost Atari millions of US dollars. E.T. is seen by
+   many as the death knell for Atari and is widely regarded as one of the
+   worst video games ever produced as well as one of the biggest
+   commercial failures in video gaming history. A major contributing
+   factor to Atari's demise, the game's failure epitomizes the video game
+   crash of 1983. Over 2 million excess cartridges were dumped in a
+   landfill in Alamogordo, New Mexico.
+
+Gameplay
+
+   The gameplay of E.T. consists of maneuvering the fictional alien
+   character E.T. through several screens to obtain the three pieces
+   necessary to assemble a device to "phone home". The phone pieces can be
+   obtained by finding them scattered randomly in various wells (pits) or
+   the player can collect nine Reese's Pieces and then "call Elliot," who
+   will then bring him a phone piece. Additionally, the player must avoid
+   an FBI agent and scientist in pursuit. If either enemy catches E.T.,
+   the player is carried to the Washington D.C. screen. If the FBI agent
+   catches E.T. he also will lose all collected phone pieces (or Reese's
+   Pieces if no phone pieces have been collected). The difficulty setting
+   can be changed with the game select and left and right difficulty
+   switches located on the console. This will either change the number of
+   humans present, the speed of movement of the humans, or the conditions
+   needed to call the spaceship.
+
+   E.T. is also given a limited supply of energy and starts the game with
+   9999 points. Any action, including movement, depletes the energy. E.T.
+   can use Reese's Pieces at an "eat candy" spot and press the button to
+   replenish energy. If E.T. reaches zero energy he will turn white and
+   die. Three times per game, Elliot will then appear to revive E.T. by
+   "merging" with him, letting the player continue with 1500 points.
+   Locating and reviving a wilted flower adds an extra revival from
+   Elliot. If E.T. dies more times than Elliot can revive him, the game
+   ends.
+
+   Four of the six screens are riddled with wells of varying size that
+   E.T. falls into if he gets too close, causing him to lose some energy.
+   In order to get out, the player must levitate E.T. by pressing the
+   controller button and tilting the joystick forward. Since phone pieces
+   and wilted flowers are found at the bottom of wells, this often leads
+   to the majority of the game consisting of players intentionally falling
+   into wells in order to complete the round.
+
+   Once E.T. has all three phone pieces, the player may press the
+   controller button at a "call ship zone." This causes a timer to appear
+   and count down the time E.T. has to arrive at the landing zone. In most
+   cases, E.T. cannot call his ship when a human is present (lower
+   difficulty levels will allow it). Once the player finds the landing
+   zone they may press the controller button again to call the ship. If no
+   humans are present when the timer has run out, the ship will appear and
+   pick E.T. up. This will end that round of play. The player is then
+   given bonus points based on how many Reese's Pieces he has left and may
+   continue playing for another round. Aside from bonus points earned, all
+   rounds are functionally identical and do not increase in difficulty
+   with play.
+
+   E.T. is also notable for being the first video game to "credit" a
+   graphics artist, with the initials of E.T.'s artist, Jerome Domurat,
+   being hidden as an Easter egg. Howard Scott Warshaw also had his
+   initials hidden as an easter egg, but by this point, programmers having
+   their names hidden as easter eggs had become somewhat commonplace and
+   thus is not as notable.
+
+Production and sales
+
+   Following the record-breaking success of E.T. at the box office in June
+   1982, Steve Ross, CEO of Atari's parent company Warner Communications,
+   entered talks with Steven Spielberg and Universal Pictures to obtain
+   rights to produce a video game based on the film. In late July, Warner
+   announced that it had acquired the exclusive worldwide rights to market
+   coin-operated and console games based on E.T., the Extraterrestrial.
+   Although the exact details of the transaction were not disclosed in the
+   announcement, it was widely reported that Atari had paid US$20–25
+   million for the rights—an abnormally high figure for video game
+   licencing at the time. Atari CEO Ray Kassar's response to Ross' query
+   of how he liked the idea of making an E.T. based video game was, "I
+   think it's a dumb idea. We've never really made an action game out of a
+   movie." Ultimately though, the decision was not Kassar's to make, and
+   the deal went through.
+
+   The task of designing and programming of the game was then offered to
+   Howard Scott Warshaw, whom Spielberg requested due to his previous work
+   on the video game adaptation of Raiders of the Lost Ark. Due to the
+   considerable amount of time that had been spent in negotiations
+   securing the rights to make the game, only five weeks remained in order
+   to meet the September 1 deadline necessary to ship in time for
+   Christmas shopping season. By comparison, Warshaw's previous works,
+   Yars' Revenge and Raiders of the Lost Ark, each took, respectively, 4
+   to 5 months and 6 to 7 months to complete. An arcade game based on the
+   E.T. property had also been planned, but this was deemed to be
+   impossible given the short deadline. Warsaw accepted the assignment,
+   and was reportedly offered 200,000 USD and an all-expenses-paid
+   vacation to Hawaii in compensation.
+
+   Spielberg's idea was to make E.T. into a Pac-Man-type game, which
+   Warshaw rejected to try a more original idea. Warsaw had favored a
+   design that was more story based in hopes of creating a game that would
+   capture some of the sentimentallity he saw in the original film, but
+   eventually ended up scrapping some of his own ideas due to time
+   limitations. Ultimately, Warshaw designed a game based on what he
+   believed could be reasonably programmed in the amount of time he had
+   available to him. The basic design was worked out in two days, at the
+   conclusion of which Warshaw presented the idea to Kassar before
+   proceeding to spend the balance of the allotted five weeks writing,
+   debugging, and documenting about 6.5 kb of original code.
+
+   Even with a rushed game in hand, Atari anticipated enormous sales based
+   on the popularity of the film, as well as the enormous boom the video
+   game industry was experiencing in 1982. By the time the game was
+   complete, so little time was left before the game's desired ship-date
+   that Atari skipped audience testing for the cartridge altogether.
+   Emanual Gerard, who served as co-chief operating officer of Warner at
+   the time, later suggested that the company had been lulled into a false
+   sense of security by the success of its previous releases, particulary
+   its home video version of Pac-Man, which sold extremely well despite
+   inferior graphics to the original version.
+
+   Additionally, Atari had expected the game would perform well simply
+   because, the previous October, it had demanded its retailers place
+   orders in advance for the entire year. At that time, Atari had
+   dominated the software and hardware market, and Atari was routinely
+   unable to fill orders. At first, retailers responded by placing orders
+   for more supplies than they actually expected to sell, but gradually,
+   as new competitors began to enter the market, Atari started receiving
+   an increasing number of order cancellations, for which the company was
+   not prepared.
+
+   While the game did sell well (it ranks as the eighth best selling Atari
+   cartridge of all time), it was only able to sell approximately 1.5
+   million of its 4 million cartridge stock. It is an often stated bit of
+   misinformation that more copies of E.T. were produced than Atari 2600
+   consoles owned; in reality, company research by Atari showed that about
+   10 million consoles were owned in May 1982 (the actual game that
+   produced more cartridges than consoles owned was Pac-Man with 12
+   million copies). Despite reasonable sales figures, the quantity of
+   unsold merchandise coupled with the expensive movie license caused E.T.
+   to be a massive financial failure for Atari.
+
+   This game was one of many bad decisions that led to the bankruptcy of
+   Atari, which posted a $536 million loss in 1983, and was divided and
+   sold in 1984. It is also seen as one of two major video game releases
+   (along with the Atari 2600 version of Pac-Man) that sparked the video
+   game crash of 1983.
+
+Critical response
+
+   CAPTION: Reviews and scores
+
+                   Source                  Score
+                      Reviews
+
+                                   X-Play
+
+                                           0/5
+
+   SwankWorld
+
+                                           1/10
+
+   Game Freaks 365
+
+                                           4.1/10
+
+                   User rankings
+
+                                  MobyGames
+
+                                           1.0/5
+
+   Average GameFAQs review score
+
+                                           2.8/10
+
+   IGN reader average
+
+                                           3.0/10
+
+   GameSpot reader average
+
+                                           3.4/10
+
+   External review average at AtariAge
+
+                                           50%
+
+   E.T. has been almost universally panned by critics and gamers. The most
+   common complaint is the tedious repetitiveness of falling into holes
+   coupled with the additional hassle of it being too easy to fall back
+   into a hole once out. Other complaints include the frustration of
+   losing phone pieces to the FBI agent, poor graphics, and the story
+   given in the manual being inane, a departure from the serious tone of
+   the movie.
+
+     What do I do now? The only one I can trust is that nice little
+     alien— Ellleeott. He gives me those tasty energy pills (What did he
+     call them? Reeessseess Peeesssesss?)
+     ― Excerpt from E.T. the Extra-Terrestrial's manual
+
+"The worst video game of all time"
+
+   E.T. is one of the most commonly chosen candidates for worst video game
+   of all time by gamers and is often brought up in any discussion of
+   "worst game ever". This viewpoint was most famously made by Seanbaby
+   when he ranked it #1 in a list of the 20 worst games of all time in
+   Electronic Gaming Monthly’s 150th issue. Michael Dolan, deputy editor
+   of FHM magazine, has also ranked it as his pick for the #1 worst video
+   game of all time. Additionally, G4 show X-Play's score of 0 out of 5
+   was the lowest grade they have ever given a game in the show's history
+   and another G4 show, Filter, picked E.T. as #1 in their "Top 10 Biggest
+   Flops of All Time" countdown.
+
+Other views
+
+   However, E.T.'s title of "worst video game of all time" is largely
+   influenced by its notorious failure, which in turn was influenced by
+   high expectations. When compared objectively to other, less infamous
+   Atari 2600 duds, E.T. is often thought to be "not that bad". Among
+   communities that have played a wide variety of Atari 2600 games, titles
+   such as Karate, Skeet Shoot, and Sssnake are more often chosen as being
+   the worst game for the Atari 2600, sometimes with E.T. not even making
+   such "worst of the Atari 2600" lists. A small minority of people even
+   go beyond the "bad but not the worst" stance and admit to genuinely
+   enjoying the game. Howard Scott Warshaw himself doesn't show any
+   regrets for E.T. and feels he did a good job on the game.
+
+     But the fact is E.T. was a tough technical challenge that I feel I
+     met reasonably well. I made that game start-to-finish in five weeks.
+     No one has ever come close to matching that kind of output on the
+     VCS. It could definitely be a better game ;), but it's not too bad
+     for five weeks.
+     That said, I also realize that consumers don't (and shouldn't) care
+     about development time. All they should care about is the playing
+     experience. I feel E.T. is a complete and OK game. Some people like
+     it. It certainly isn't the worst game or even the least polished,
+     but I actually like having the distinction of it being the worst
+     game. Between that and Yar's, I have the greatest range of anyone
+     ever on the machine :)
+     ― Howard Scott Warshaw
+
+The Atari landfill
+
+   In September 1983, The Alamogordo Daily News of Alamogordo, New Mexico
+   reported in a series of articles that between ten and twenty
+   semi-trailer truckloads of Atari boxes, cartridges, and systems from an
+   Atari storehouse in El Paso were crushed and buried at the landfill
+   within the city. It was Atari's first dealings with the landfill, which
+   was chosen because no scavenging was allowed and its garbage was
+   crushed and buried nightly. Atari's stated reason for the burial was
+   that they were changing from Atari 2600 to Atari 5200 games, but this
+   was later contradicted by a worker who claimed that this was not the
+   case. Official Bruce Enten stated that Atari was mostly sending broken
+   and returned cartridges to the Alamogordo dump and that it was
+   "by-and-large inoperable stuff."
+
+   Starting on September 27, 1983, a layer of concrete was poured on top
+   of the crushed materials: a rare occurrence in waste disposal. An
+   anonymous workman's stated reason for the concrete was: "There are dead
+   animals down there. We wouldn't want any children to get hurt digging
+   in the dump."
+
+   On September 28, 1983, The New York Times reported on the story of
+   Atari's dumping in New Mexico. An Atari representative confirmed the
+   story for them, stating that the discarded inventory came from Atari's
+   plant in El Paso, Texas, which was being closed and converted to a
+   recycling facility. The Times article did not suggest any of the
+   specific game titles being destroyed, but subsequent reports have
+   generally linked the story of the dumping to the well-known failure of
+   E.T. Additionally, the headline "City to Atari: 'E.T.' trash go home"
+   in one edition of the Alamogordo News implies that the cartridges were
+   E.T. As a result, it is widely speculated that most of Atari's millions
+   of unsold copies of E.T. ultimately wound up in this landfill, crushed
+   and encased in cement.
+
+   Eventually, the city began to protest the large amount of dumping Atari
+   was doing; a sentiment summed up by commissioner Guy Gallaway with, "We
+   don't want to be an industrial waste dump for El Paso." Local manager
+   Jack Keating ordered the dumping to be ended shortly afterwards. Due to
+   Atari's unpopular dumping, Alamogordo later passed an Emergency
+   Management Act and created the Emergency Management Task Force to limit
+   the future flexibility of the garbage contractor to secure outside
+   business for the landfill for monetary purposes. Mayor Henry Pacelli
+   commented that, "We do not want to see something like this happen
+   again."
+
+   Today the story is often misrepresented as an urban legend, despite
+   considerable documentation of Atari's dumping on record in the city of
+   Alamogordo. As recently as October of 2004, Warshaw himself expressed
+   doubts that the destruction of millions of copies of E.T. ever took
+   place, citing his belief that Atari would have recycled the parts
+   instead in order to save money.
+
+In popular culture
+
+   The urban legend of E.T.'s mass burial has sparked the imaginations of
+   gamers for years and has led to fantastical depictions of trips off
+   into the desert in search of the Atari landfill:
+     * In the same episode in which they reviewed the game, X-Play hosts
+       Adam Sessler and Morgan Webb ventured into the New Mexico desert in
+       search of the missing cartridges in a parody of the film Fear and
+       Loathing in Las Vegas.
+     * The indie rock band Wintergreen released a music video for their
+       song "When I Wake Up" that retells the urban legend of the mass
+       burial of E.T. cartridges. All the cartridges were actually fake.
+       Some speculate they were made from cardboard with the ET cover
+       printed. The music video is an idealistic imagination of the Atari
+       landfill story, with the cartridges being simply buried in the
+       middle of the desert in relatively pristine condition.
+     * In the Strong Bad e-mail "trading cards" (featured on the Homestar
+       Runner website), an easter egg brought up by clicking on the words
+       "good graphics" reveals a title screen similar to the one in the
+       game, only with the series character The Cheat (spelled C.H.E.A.T.)
+       rendered instead of E.T.
+     * In the cartoon "Wake me up when we're at E3" for Cubetoons, it
+       shows a truck dumping out E.T. cartridges into a land fill and
+       blowing them up after the video game crash being caused by "them
+       releasing E.T."
+     * The Moonintites from Aqua Teen Hunger Force are rumored to have
+       somehow derived from a storm over the E.T. landfill.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_%28Atari_2600%2
+   9"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

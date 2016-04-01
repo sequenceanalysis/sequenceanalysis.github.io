@@ -1,0 +1,108 @@
+   #copyright
+
+Volt
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Josephson junction array chip developed by NIST as a standard volt.
+   Josephson junction array chip developed by NIST as a standard volt.
+
+   The volt (symbol: V) is the SI derived unit of electric potential
+   difference or electromotive force . It is named in honour of the
+   Italian physicist Alessandro Volta (1745–1827), who invented the
+   voltaic pile, the first modern chemical battery.
+
+Definition
+
+   The volt is defined as the potential difference across a conductor when
+   a current of one ampere dissipates one watt of power. Hence, it is the
+   base SI representation m^2 · kg · s^-3 · A^-1, which can be equally
+   represented as one joule of energy per coulomb of charge, J/C.
+
+          \mbox{V} = \dfrac{\mbox{W}}{\mbox{A}} =
+          \dfrac{\mbox{J}}{\mbox{C}} = \dfrac{\mbox{m}^2 \cdot
+          \mbox{kg}}{\mbox{s}^{3} \cdot \mbox{A}}
+
+Josephson junction definition
+
+   Since 1990 the volt is maintained internationally for practical
+   measurement using the Josephson effect, where a conventional value is
+   used for the Josephson constant, fixed by the 18th General Conference
+   on Weights and Measures as
+
+          K[{J-90}] = 0.4835979 GHz/µV.
+
+Hydraulic analogy
+
+   In the hydraulic analogy sometimes used to explain electric circuits by
+   comparing them to water-filled pipes, voltage is likened to water
+   pressure - it determines how fast the electrons will travel through the
+   circuit. Current (in amperes), in the same analogy, is a measure of the
+   volume of water that flows past a given point, the rate of which is
+   determined by the voltage, and the total output measured in watts. The
+   equation that brings all three components together is: volts × amperes
+   = watts
+
+Common voltages
+
+   A multimeter can be used to measure the voltage between two points
+   A multimeter can be used to measure the voltage between two points
+   1.5 V C-cell batteries
+   1.5 V C-cell batteries
+
+   Nominal voltages of familiar sources:
+     * Nerve cell action potential: around 30 mV
+     * Single-cell, rechargeable NiMH or NiCd battery: 1.2 V
+     * Mercury battery 1.355 V
+     * Single-cell, non-rechargeable alkaline battery (e.g. AAA, AA, C and
+       D cells): 1.5 V
+     * Lithium polymer rechargeable battery: 3.75 V
+     * Transistor-transistor logic (TTL) power supply: 5 V
+     * PP3 battery: 9 V
+     * Automobile electrical system: "12 V", about 11.8 V discharged, 12.8
+       V charged, and 13.8-14.4 V while charging (vehicle running).
+     * Household mains electricity: 240 V RMS in Australia, 230 V RMS in
+       Europe, Asia and Africa, 120 V RMS in North America, 100 V RMS in
+       Japan (see List of countries with mains power plugs, voltages and
+       frequencies)
+     * Rapid transit third rail: 600 to 700 V (see List of current systems
+       for electric rail traction)
+     * High speed train overhead power lines: 25 kV RMS at 50 Hz, but see
+       List of current systems for electric rail traction for exceptions.
+     * High voltage electric power transmission lines: 110 kV RMS and up
+       (1150 kV RMS is the record as of 2005)
+     * Lightning: Varies greatly, often around 100 MV.
+
+   Note: Where 'RMS' ( root mean square) is stated above, the peak voltage
+   is \sqrt{2} times greater than the RMS voltage for a sinusoidal signal.
+
+History of the volt
+
+   In 1800, as the result of a professional disagreement over the galvanic
+   response advocated by Luigi Galvani, Alessandro Volta developed the
+   so-called Voltaic pile, a forerunner of the battery, which produced a
+   steady electric current. Volta had determined that the most effective
+   pair of dissimilar metals to produce electricity was zinc and silver.
+   In the 1880s, the International Electrical Congress, now the
+   International Electrotechnical Commission (IEC), approved the volt for
+   electromotive force. The volt was defined as the potential difference
+   across a conductor when a current of one ampere dissipates one watt of
+   power.
+
+   Prior to the development of the Josephson junction voltage standard,
+   the volt was maintained in national laboratories using specially
+   constructed batteries called standard cells. The United States used a
+   design called the Weston cell from 1905 to 1972.
+   This SI unit is named after Alessandro Volta. As for all SI units whose
+   names are derived from the proper name of a person, the first letter of
+   its symbol is uppercase (V). But when an SI unit is spelled out, it
+   should always be written in lowercase (volt), unless it begins a
+   sentence or is the name "degree Celsius".
+   — Based on The International System of Units, section 5.2.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Volt"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,416 @@
+   #copyright
+
+DNA repair
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   DNA damage resulting in multiple broken chromosomes
+   DNA damage resulting in multiple broken chromosomes
+
+   DNA repair refers to a collection of processes by which a cell
+   identifies and corrects damage to the DNA molecules that encode its
+   genome. In human cells, both normal metabolic activities and
+   environmental factors such as UV light can cause DNA damage, resulting
+   in as many as 1 million individual molecular lesions per cell per day.
+   Many of these lesions cause structural damage to the DNA molecule and
+   can alter or eliminate the cell's ability to transcribe the gene that
+   the affected DNA encodes. Other lesions induce potentially harmful
+   mutations in the cell's genome, which affect the survival of its
+   daughter cells after it undergoes mitosis. Consequently, the DNA repair
+   process must be constantly active so it can respond rapidly to any
+   damage in the DNA structure.
+
+   The rate of DNA repair is dependent on many factors, including the cell
+   type, the age of the cell, and the extracellular environment. A cell
+   that has accumulated a large amount of DNA damage, or one that no
+   longer effectively repairs damage incurred by its DNA, can enter one of
+   three possible states:
+    1. an irreversible state of dormancy, known as senescence
+    2. cell suicide, also known as apoptosis or programmed cell death
+    3. unregulated cell division, which can lead to the formation of a
+       tumor that is cancerous
+
+   The DNA repair ability of a cell is vital to the integrity of its
+   genome and thus to its normal functioning and that of the organism.
+   Many genes that were initially shown to influence lifespan have turned
+   out to be involved in DNA damage repair and protection. Failure to
+   correct molecular lesions in cells that form gametes can introduce
+   mutations into the genomes of the offspring and thus influence the rate
+   of evolution.
+
+DNA damage
+
+   DNA damage, due to environmental factors and normal metabolic processes
+   inside the cell, occurs at a rate of 1,000 to 1,000,000 molecular
+   lesions per cell per day. While this constitutes only 0.000165% of the
+   human genome's approximately 6 billion bases (3 billion base pairs),
+   unrepaired lesions in critical genes (such as tumor suppressor genes)
+   can impede a cell's ability to carry out its function and appreciably
+   increase the likelihood of tumor formation.
+
+   The vast majority of DNA damage affects the primary structure of the
+   double helix; that is, the bases themselves are chemically modified.
+   These modifications can in turn disrupt the molecules' regular helical
+   structure by introducing non-native chemical bonds or bulky adducts
+   that do not fit in the standard double helix. Unlike proteins and RNA,
+   DNA usually lacks secondary structure and therefore damage or
+   disturbance does not occur at that level. DNA is, however, supercoiled
+   and wound around "packaging" proteins called histones, and both
+   superstructures are vulnerable to the effects of DNA damage.
+
+Types of damage
+
+   There are four main types of damage to DNA due to endogenous cellular
+   processes:
+    1. oxidation of bases [e.g. 8-oxo-7,8-dihydroguanine (8-oxoG)] and
+       generation of DNA strand interruptions from reactive oxygen
+       species,
+    2. alkylation of bases (usually methylation), such as formation of
+       7-methylguanine
+    3. hydrolysis of bases, such as deamination, depurination and
+       depyrimidination.
+    4. mismatch of bases, due to DNA replication in which the wrong DNA
+       base is stitched into place in a newly forming DNA strand.
+
+   Damage caused by exogenous agents comes in many forms. Some examples
+   are:
+    1. UV light causes crosslinking between adjacent cytosine and thymine
+       bases creating pyrimidine dimers
+    2. Ionizing radiation such as that created by radioactive decay or in
+       cosmic rays causes breaks in DNA strands
+    3. Industrial chemicals such as vinyl chloride and hydrogen peroxide,
+       and environmental chemicals such as polycyclic hydrocarbons found
+       in smoke, soot and tar create a huge diversity of DNA adducts-
+       ethenobases, oxidized bases and alkylated phosphotriesters, just to
+       name a few.
+
+Nuclear versus mitochondrial DNA damage
+
+   In human, and eukaryotic cells in general, DNA is found in two cellular
+   locations - inside the nucleus and inside the mitochondria. Nuclear DNA
+   (nDNA) exists as chromatin during non-replicative stages of the cell
+   cycle and is condensed into aggregate structures known as chromosomes
+   during cell division. In either state the DNA is highly compacted and
+   wound up around bead-like proteins called histones. Whenever a cell
+   needs to express the genetic information encoded in its nDNA the
+   required chromosomal region is unravelled, genes located therein are
+   expressed, and then the region is condensed back to its resting
+   conformation. Mitochondrial DNA (mtDNA) is located inside mitochondria
+   organelles, exists in multiple copies, and is also tightly associated
+   with a number of proteins to form a complex known as the nucleoid.
+   Inside mitochondria, reactive oxygen species (ROS), or free radicals,
+   byproducts of the constant production of adenosine triphosphate (ATP)
+   via oxidative phosphorylation, create a highly oxidative environment
+   that is known to damage mtDNA. A critical enzyme in counteracting the
+   toxicity of these species is superoxide dismutase, which is present in
+   both the mitochondria and cytoplasm of eukaryotic cells.
+
+Senescence and apoptosis
+
+   Senescence, an irreversible state in which the cell no longer divides (
+   mitosis), is a protective response to the shortening of the chromosome
+   ends ( telomeres). The telomeres are long regions of repetitive
+   noncoding DNA that cap chromosomes and undergo partial degradation each
+   time a cell undergoes division (see Hayflick limit). In contrast,
+   quiescence is a reversible state of cellular dormancy that is unrelated
+   to genome damage (see cell cycle). Senescence in cells may serve as a
+   functional alternative to apoptosis in cases where the physical
+   presence of a cell for spatial reasons is required by the organism,
+   which serves as a "last resort" mechanism to prevent a cell with
+   damaged DNA from replicating inappropriately in the absence of
+   pro-growth cellular signaling. Unregulated cell division can lead to
+   the formation of a tumor (see cancer), which is potentially lethal to
+   an organism. Therefore the induction of senescence and apoptosis is
+   considered to be part of a strategy of protection against cancer.
+
+DNA repair mechanisms
+
+   Cells cannot function if DNA damage corrupts the integrity and
+   accessibility of essential information in the genome (but cells remain
+   superficially functional when so-called "non-essential" genes are
+   missing or damaged). Depending on the type of damage inflicted on the
+   DNA's double helical structure, a variety of repair strategies have
+   evolved to restore lost information. If possible, cells use the
+   unmodified complementary strand of the DNA or the sister chromatid as a
+   template to losslessly recover the original information. Without access
+   to a template, cells use an error-prone recovery mechanism known as
+   translesion synthesis as a last resort.
+
+   Damage to DNA alters the spatial configuration of the helix and such
+   alterations can be detected by the cell. Once damage is localized,
+   specific DNA repair molecules are summoned to, and bind at or near the
+   site of damage, inducing other molecules to bind and form a complex
+   that enables the actual repair to take place. The types of molecules
+   involved and the mechanism of repair that is mobilized depend on the
+   type of damage that has occurred and the phase of the cell cycle that
+   the cell is in.
+   Single strand and double strand DNA damage
+   Single strand and double strand DNA damage
+
+Direct reversal
+
+   Cells are known to eliminate three types of damage to their DNA by
+   chemically reversing it. These mechanisms do not require a template,
+   since the types of damage they counteract can only occur in one of the
+   four bases. Such direct reversal mechanisms are specific to the type of
+   damage incurred. The formation of thymine dimers (a common type of
+   cyclobutyl dimer) upon irradiation with UV light results in an abnormal
+   covalent bond between adjacent thymidine bases. The photoreactivation
+   process in bacteria directly reverses this damage by the action of the
+   enzyme photolyase, which uses energy absorbed from UV light to promote
+   catalysis. Another type of damage, methylation of guanine bases, is
+   directly reversed by the protein methyl guanine methyl transferase
+   (MGMT). This is an expensive process because each MGMT molecule can
+   only be used once; that is, the reaction is stoichiometric rather than
+   catalytic. A generalized response to methylating agents in bacteria is
+   known as the adaptive response and confers a level of resistance to
+   alkylating agents upon sustained exposure.The third type of DNA damage
+   reversed by cells is certain methylation of the bases cytosine and
+   adenine.
+
+Single strand damage
+
+   When only one of the two strands of a double helix has a defect, the
+   other strand can be used as a template to guide the correction of the
+   damaged strand. In order to repair damage to one of the two paired
+   molecules of DNA, there exist a number of excision repair mechanisms
+   that remove the damaged nucleotide and replace it with an undamaged
+   nucleotide complementary to that found in the undamaged DNA strand.
+    1. Base excision repair (BER), which repairs damage due to a single
+       nucleotide caused by oxidation, alkylation, hydrolysis, or
+       deamination;
+    2. Nucleotide excision repair (NER), which repairs damage affecting
+       longer strands of 2-30 bases. This process recognizes bulky,
+       helix-distorting changes such as thymine dimers as well as
+       single-strand breaks (repaired with enzymes such UvrABC
+       endonuclease). A specialized form of NER known as
+       Transcription-Coupled Repair (TCR) deploys high-priority NER repair
+       enzymes to genes that are being actively transcribed;
+    3. Mismatch repair (MMR), which corrects errors of DNA replication and
+       recombination that result in mispaired nucleotides following DNA
+       replication.
+
+Double strand breaks
+
+   A type of DNA damage particularly hazardous to dividing cells is a
+   break to both strands in the double-helix. Two mechanisms exist to
+   repair this damage. They are generally known as non-homologous
+   end-joining (NHEJ) and recombinational repair (also known as
+   template-assisted repair or homologous recombination repair).
+
+   The NHEJ pathway operates when the cell has not yet replicated the
+   region of DNA on which the lesion has occurred. The process directly
+   joins the two ends of the broken DNA strands without a template, losing
+   sequence information in the process. Thus this repair mechanism is
+   necessarily mutagenic. However, if the cell is not dividing and has not
+   replicated its DNA, the NHEJ pathway is the cell's only option. NHEJ
+   relies on chance pairings, or microhomologies, between the
+   single-stranded tails of the two DNA fragments to be joined. There are
+   multiple independent "failsafe" pathways for NHEJ in higher eukaryotes.
+
+   Recombinational repair requires the presence of an identical or nearly
+   identical sequence to be used as a template for repair of the break.
+   The enzymatic machinery responsible for this repair process is nearly
+   identical to the machinery responsible for chromosomal crossover during
+   meiosis. This pathway allows a damaged chromosome to be repaired using
+   the newly created sister chromatid as a template, i.e. an identical
+   copy that is also linked to the damaged region via the centromere.
+   Double-stranded breaks repaired by this mechanism are usually caused by
+   the replication machinery attempting to synthesize across a
+   single-strand break or unrepaired lesion, both of which result in
+   collapse of the replication fork.
+
+   It should be noted that topoisomerases sometimes introduce both single
+   and double strand breaks in the course of changing the DNA's state of
+   supercoiling, which is especially common in regions near an open
+   replication fork. Such breaks are not considered DNA damage because
+   they serve a biochemical purpose and are immediately repaired by the
+   enzymes that created them.
+
+   A team of French researchers bombarded Deinococcus radiodurans to study
+   the mechanism of double-strand break DNA repair in that organism. At
+   least two copies of the genome, with random DNA breaks, can form DNA
+   fragments through annealing. Partially overlapping fragments are then
+   used for synthesis of homologous regions through a moving D-loop that
+   can continue extension until they find complementary partner strands.
+   In the final step there is crossover by means of RecA-dependent
+   homologous recombination.
+
+Translesion synthesis
+
+   Translesion synthesis is an error-prone (almost error-guaranteeing)
+   last-resort method of repairing a DNA lesion that has not been repaired
+   by any other mechanism. The DNA replication machinery cannot continue
+   replicating past a site of DNA damage, so the advancing replication
+   fork will stall on encountering a damaged base. The translesion
+   synthesis pathway is mediated by specific DNA polymerases that insert
+   extra bases at the site of damage and thus allow replication to bypass
+   the damaged base to continue with chromosome duplication. From the
+   cell's perspective, it is "better" to introduce mutations around a
+   single site than to continue the cell cycle with an incompletely
+   replicated chromosome. The bases inserted by the translesion synthesis
+   machinery are template-independent, but not arbitrary; for example, one
+   human polymerase inserts adenine bases when synthesizing past a thymine
+   dimer.
+
+DNA repair and aging
+
+Poor DNA repair induces pathology
+
+   DNA repair rate is an important determinant of cell pathology
+   DNA repair rate is an important determinant of cell pathology
+
+   Experimental animals with genetic deficiencies in DNA repair often show
+   decreased lifespan and increased cancer incidence. For example, mice
+   deficient in the dominant NHEJ pathway and in telomere maintenance
+   mechanisms get lymphoma and infections more often, and consequently
+   have shorter lifespans than wild-type mice. Similarly, mice deficient
+   in a key repair and transcription protein that unwinds DNA helices have
+   premature onset of aging-related diseases and consequent shortening of
+   lifespan. However, not every DNA repair deficiency creates exactly the
+   predicted effects; mice deficient in the NER pathway exhibited
+   shortened lifespan without correspondingly higher rates of mutation.
+
+   If the rate of DNA damage exceeds the capacity of the cell to repair
+   it, the accumulation of errors can overwhelm the cell and result in
+   early senescence, apoptosis or cancer. Inherited diseases associated
+   with faulty DNA repair functioning result in premature aging, increased
+   sensitivity to carcinogens, and correspondingly increased cancer risk
+   (see below). On the other hand, organisms with enhanced DNA repair
+   systems, such as Deinococcus radiodurans, the most radiation-resistant
+   known organism, exhibit remarkable resistance to the double strand
+   break-inducing effects of radioactivity, likely due to enhanced
+   efficiency of DNA repair and especially NHEJ. It is noteworthy that
+   some workers suggest that if a DNA damage event occurs during the self
+   repair process then the combination of the two events will exert an
+   effect greater than the sum of the individual events (if they occurred
+   with a long time delay between them), this is the basis of the second
+   event theory favoured by C. Busby ( The Low Level Radiation Campaign).
+
+Longevity and caloric restriction
+
+   Most lifespan influencing genes affect the rate of DNA damage
+   Most lifespan influencing genes affect the rate of DNA damage
+
+   A number of individual genes have been identified as influencing
+   variations in lifespan within a population of organisms. The effects of
+   these genes is strongly dependent on the environment, particularly on
+   the organism's diet. Caloric restriction reproducibly results in
+   extended lifespan in a variety of organisms, likely via nutrient
+   sensing pathways and decreased metabolic rate. The molecular mechanisms
+   by which such restriction results in lengthened lifespan are as yet
+   unclear (see for some discussion); however, the behaviour of many genes
+   known to be involved in DNA repair is altered under conditions of
+   caloric restriction.
+
+   For example, increasing the gene dosage of the gene SIR-2, which
+   regulates DNA packaging in the nematode worm Caenorhabditis elegans,
+   can significantly extend lifespan. The mammalian homolog of SIR-2 is
+   known to induce downstream DNA repair factors involved in NHEJ, an
+   activity that is especially promoted under conditions of caloric
+   restriction. Caloric restriction has been closely linked to the rate of
+   base excision repair in the nuclear DNA of rodents, although similar
+   effects have not been observed in mitochondrial DNA.
+
+   Interestingly, the C. elegans gene AGE-1, an upstream effector of DNA
+   repair pathways, confers dramatically extended lifespan under
+   free-feeding conditions but leads to a decrease in reproductive fitness
+   under conditions of caloric restriction. This observation supports the
+   pleiotropy theory of the biological origins of aging, which suggests
+   that genes conferring a large survival advantage early in life will be
+   selected for even if they carry a corresponding disadvantage late in
+   life.
+
+Medicine and DNA repair modulation
+
+Hereditary DNA repair disorders
+
+   Defects in the NER mechanism are responsible for several genetic
+   disorders, including:
+     * xeroderma pigmentosum: hypersensitivity to sunlight/UV, resulting
+       in increased skin cancer incidence and premature aging
+     * Cockayne syndrome: hypersensitivity to UV and chemical agents
+     * trichothiodystrophy: sensitive skin, brittle hair and nails
+
+   Mental retardation often accompanies the latter two disorders,
+   suggesting increased vulnerability of developmental neurons.
+
+   Other DNA repair disorders include:
+     * Werner's syndrome: premature aging and retarded growth
+     * Bloom's syndrome: sunlight hypersensitivity, high incidence of
+       malignancies (especially leukemias).
+     * ataxia telangiectasia: sensitivity to ionizing radiation and some
+       chemical agents
+
+   All of the above diseases are often called "segmental progerias"
+   ("accelerated aging diseases") because their victims appear elderly and
+   suffer from aging-related diseases at an abnormally young age.
+
+   Other diseases associated with reduced DNA repair function include
+   Fanconi's anaemia, hereditary breast cancer and hereditary colon
+   cancer.
+
+DNA repair and cancer
+
+   Inherited mutations that affect DNA repair genes are strongly
+   associated with high cancer risks in humans. Hereditary nonpolyposis
+   colorectal cancer (HNPCC) is strongly associated with specific
+   mutations in the DNA mismatch repair pathway. BRCA1 and BRCA2, two
+   famous mutations conferring a hugely increased risk of breast cancer on
+   carriers, are both associated with a large number of DNA repair
+   pathways, especially NHEJ and homologous recombination.
+
+   Cancer therapy procedures such as chemotherapy and radiotherapy work by
+   overwhelming the capacity of the cell to repair DNA damage, resulting
+   in cell death. Cells that are most rapidly dividing - most typically
+   cancer cells - are preferentially affected. The side effect is that
+   other non-cancerous but rapidly dividing cells such as stem cells in
+   the bone marrow are also affected. Modern cancer treatments attempt to
+   localize the DNA damage to cells and tissues only associated with
+   cancer, either by physical means (concentrating the therapeutic agent
+   in the region of the tumor) or by biochemical means (exploiting a
+   feature unique to cancer cells in the body).
+
+DNA repair and evolution
+
+An Ancient and Conserved Mechanism
+
+   The basic processes of DNA repair are highly conserved among both
+   prokaryotes and eukaryotes and even among bacteriophage (viruses that
+   infect bacteria); however, more complex organisms with more complex
+   genomes have correspondingly more complex repair mechanisms. The
+   ability of a large number of protein structural motifs to catalyze
+   relevant chemical reactions has played a significant role in the
+   elaboration of repair mechanisms during evolution. For an extremely
+   detailed review of hypotheses relating to the evolution of DNA repair,
+   see .
+
+   The fossil record indicates that single celled life began to
+   proliferate on the planet at some point during the Precambrian period,
+   although exactly when recognizably modern life first emerged is
+   unclear. Nucleic acids became the sole and universal means of encoding
+   genetic information, requiring DNA repair mechanisms that in their
+   basic form have been inherited by all extant life forms from their
+   common ancestor. The emergence of Earth's oxygen-rich atmosphere (known
+   as the " oxygen catastrophe") due to photosynthetic organisms, as well
+   as the presence of potentially damaging free radicals in the cell due
+   to oxidative phosphorylation, necessitated the evolution of DNA repair
+   mechanisms that act specifically to counter the types of damage induced
+   by oxidative stress.
+
+Evolutionary rate as a function of DNA repair rate
+
+   When DNA damage is not repaired properly, or is repaired by an
+   error-prone mechanism, mutations are introduced into the genomes of the
+   cell's progeny. When this occurs in a germ line cell that will
+   eventually produce a gamete, the mutation is passed on to the affected
+   organism's offspring. The rate of evolution in a particular species
+   (or, more narrowly, in a particular gene) is a function of the rate of
+   mutation and thus of the accuracy and the rate of the DNA repair
+   pathway and factors that can influence it.
+
+   Retrieved from " http://en.wikipedia.org/wiki/DNA_repair"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

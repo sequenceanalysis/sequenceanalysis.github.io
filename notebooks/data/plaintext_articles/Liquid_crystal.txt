@@ -1,0 +1,409 @@
+   #copyright
+
+Liquid crystal
+
+2007 Schools Wikipedia Selection. Related subjects: Materials science
+
+   Schlieren texture of Liquid Crystal nematic phase
+   Enlarge
+   Schlieren texture of Liquid Crystal nematic phase
+
+   Liquid crystals are substances that exhibit a phase of matter that has
+   properties between those of a conventional liquid, and those of a solid
+   crystal. For instance, a liquid crystal (LC) may flow like a liquid,
+   but have the molecules in the liquid arranged and/or oriented in a
+   crystal-like way. There are many different types of LC phases, which
+   can be distinguished based on their different optical properties (such
+   as birefringence). When viewed under a microscope using a polarized
+   light source, different liquid crystal phases will appear to have a
+   distinct texture. Each 'patch' in the texture corresponds to a domain
+   where the LC molecules are oriented in a different direction. Within a
+   domain, however, the molecules are well ordered. Liquid crystal
+   materials may not always be in an LC phase (just as water is not always
+   in the liquid phase: it may also be found in the solid or gas phase).
+   Liquid crystals can be divided into thermotropic and lyotropic LCs.
+   Thermotropic LCs exhibit a phase transition into the LC phase as
+   temperature is changed, whereas lyotropic LCs exhibit phase transitions
+   as a function of concentration of the mesogen in a solvent (typically
+   water) as well as temperature.
+
+Mesogens
+
+   Molecules that exhibit liquid crystal phases are called mesogens. For a
+   molecule to display an LC phase, it must generally be fairly rigid and
+   anisotropic (i.e. longer in one direction than another). Most mesogens
+   fall into the 'rigid-rod' class (calamitic mesogens), which orient
+   based on their long axis. Disk-like (discotic) mesogens are also known,
+   and these orient in the direction of their short axis. In addition to
+   molecules, polymers and colloidal suspensions can also form LC phases.
+   For instance, micrometre-sized objects (such as anisotropic colloids,
+   latex particles, clay platelets, and even some viruses, such as the
+   tobacco mosaic virus) can organize themselves in liquid crystal phases.
+   These more exotic mesogens generally fall into the category of
+   lyotropic liquid crystals.
+
+Liquid crystal phases
+
+   The various LC phases (called mesophases) can be characterized by the
+   type of ordering that is present. One can distinguish positional order
+   (whether or not molecules are arranged in any sort of ordered lattice)
+   and orientational order (whether or not molecules are mostly pointing
+   in the same direction), and moreover order can be either short-range
+   (only between molecules close to each other) or long-range (extending
+   to larger, sometimes macroscopic, dimensions). Most thermotropic LCs
+   will have an isotropic phase at high temperature. That is, heating will
+   eventually drive them into a conventional liquid phase characterized by
+   random and isotropic molecular ordering (little to no long-range
+   order), and fluid-like flow behaviour. Under other conditions (for
+   instance, lower temperature), an LC might inhabit one or more phases
+   with significant anisotropic orientational structure and long-range
+   orientational order while still having an ability to flow.
+
+   The ordering of liquid crystalline phases is extensive on the molecular
+   scale. This order extends up to the entire domain size, which may be on
+   the order of micrometres, but usually does not extend to the
+   macroscopic scale as often occurs in classical crystalline solids.
+   However, some techniques (such as the use of boundaries or an applied
+   electric field) can be used to enforce a single ordered domain in a
+   macroscopic liquid crystal sample. The ordering in a liquid crystal
+   might extend along only one dimension, with the material being
+   essentially disordered in the other two directions.
+
+Thermotropic liquid crystals
+
+   Thermotropic phases are those that occur in a certain temperature
+   range. If the temperature is raised too high, thermal motion will
+   destroy the delicate cooperative ordering of the LC phase, pushing the
+   material into a conventional isotropic liquid phase. At too low a
+   temperature, most LC materials will form a conventional (though
+   anisotropic) crystal. Many thermotropic LCs exhibit a variety of phases
+   as temperature is changed. For instance, a particular mesogen may
+   exhibit various smectic and nematic (and finally isotropic) phases as
+   temperature is increased.
+
+Nematic phase
+
+   One of the most common LC phases is the nematic, where the molecules
+   have no positional order, but they do have long-range orientational
+   order. Thus, the molecules flow and their centre of mass positions are
+   randomly distributed as in a liquid, but they all point in the same
+   direction (within each domain). Most nematics are uniaxial: they have
+   one axis that is longer and preferred, with the other two being
+   equivalent (can be approximated as cylinders). Some liquid crystals are
+   biaxial nematics, meaning that in addition to orienting their long
+   axis, they also orient along a secondary axis.
+
+   Liquid crystals are a phase of matter whose order is intermediate
+   between that of a liquid and that of a crystal. The molecules are
+   typically rod-shaped organic moieties about 25 angstroms (2.5
+   nanometers) in length and their ordering is a function of temperature.
+   The nematic phase, for example, is characterized by the orientational
+   order of the constituent molecules. The molecular orientation (and
+   hence the material's optical properties) can be controlled with applied
+   electric fields. Nematics are (still) the most commonly used phase in
+   liquid crystal displays (LCDs), with many such devices using the
+   twisted nematic geometry. The smectic phases, which are found at lower
+   temperatures than the nematic, form well-defined layers that can slide
+   over one another like soap. The smectics are thus positionally ordered
+   along one direction. In the Smectic A phase, the molecules are oriented
+   along the layer normal, while in the Smectic C phase they are tilted
+   away from the layer normal. These phases, which are liquid-like within
+   the layers, are illustrated below. There is a very large number of
+   different smectic phases, all characterized by different types and
+   degrees of positional and orientational order.
+
+Chiral phases
+
+   The chiral nematic phase exhibits chirality (handedness). This phase is
+   often called the cholesteric phase because it was first observed for
+   cholesterol derivatives. Only chiral molecules (i.e.: those that lack
+   inversion symmetry) can give rise to such a phase. This phase exhibits
+   a twisting of the molecules along the director, with the molecular axis
+   perpendicular to the director. The finite twist angle between adjacent
+   molecules is due to their asymmetric packing, which results in
+   longer-range chiral order. In the smectic C* phase, the molecules
+   orient roughly along the director, with a finite tilt angle, and a
+   twist relative to other mesogens. This results in, again, a spiral
+   twisting of molecular axis along the director.
+
+   The chiral pitch refers to the distance (along the director) over which
+   the mesogens undergo a full 360° twist (but note that the structure
+   repeats itself every half-pitch, since the positive and negative
+   directions along the director are equivalent). The pitch may be varied
+   by adjusting temperature or adding other molecules to the LC fluid. For
+   many types of liquid crystals, the pitch is on the same order as the
+   wavelength of visible light. This causes these systems to exhibit
+   unique optical properties, such as selective reflection. These
+   properties are exploited in a number of optical applications.
+
+Discotic phases
+
+   Disk-shaped mesogens can orient themselves in a layer-like fashion
+   known as the discotic nematic phase. If the disks pack into stacks, the
+   phase is called a discotic columnar. The columns themselves may be
+   organized into rectangular or hexagonal arrays. Chiral discotic phases,
+   similar to the chiral nematic phase, are also known.
+
+Lyotropic liquid crystals
+
+   A lyotropic liquid crystal consists of two or more components that
+   exhibit liquid-crystalline properties in certain concentration ranges.
+   In the lyotropic phases, solvent molecules fill the space around the
+   compounds to provide fluidity to the system. In contrast to
+   thermotropic liquid crystals, these lyotropics have another degree of
+   freedom of concentration that enables them to induce a variety of
+   different phases.
+
+   A compound which has two immiscible hydrophilic and hydrophobic parts
+   within the same molecule is called an amphiphilic molecule. Many
+   amphiphilic molecules show lyotropic liquid-crystalline phase sequences
+   depending on the volume balances between the hydrophilic part and
+   hydrophobic part. These structures are formed through the micro-phase
+   segregation of two incompatible components on a nanometer scale. Soap
+   is an everyday example of a lyotropic liquid crystal.
+
+   The content of water or other solvent molecules changes the
+   self-assembled structures. At very low amphiphile concentration, the
+   molecules will be dispersed randomly without any ordering. At slightly
+   higher (but still low) concentration, amphiphilic molecules will
+   spontaneously assemble into micelles or vesicles. This is done so as to
+   'hide' the hydrophobic tail of the amphiphile inside the micelle core,
+   exposing a hydrophilic (water-soluble) surface to aqueous solution.
+   These spherical objects do not order themselves in solution, however.
+   At higher concentration, the assemblies will become ordered. A typical
+   phase is a hexagonal columnar phase, where the amphiphiles form long
+   cylinders (again with a hydrophilic surface) that arrange themselves
+   into a roughly hexagonal lattice. This is called the middle soap phase.
+   At still higher concentration, a lamellar phase (neat soap phase) may
+   form, wherein extended sheets of amphiphiles are separated by thin
+   layers of water. For some systems, a cubic (also called viscous
+   isotropic) phase may exist between the hexagonal and lamellar phases,
+   wherein spheres are formed that create a dense cubic lattice. These
+   spheres may also be connected to one another, forming a bicontinuous
+   cubic phase.
+
+   The objects created by amphiphiles are usually spherical (as in the
+   case of micelles), but may also be disc-like (bicelles), rod-like, or
+   biaxial (all three micelle axes are distinct). These anisotropic
+   self-assembled nano-structures can then order themselves in much the
+   same way as liquid crystals do, forming large-scale versions of all the
+   thermotropic phases (such as a nematic phase of rod-shaped micelles).
+
+   For some systems, at high concentration, inverse phases are observed.
+   That is, one may generate an inverse hexagonal columnar phase (columns
+   of water encapsulated by amphiphiles) or an inverse micellar phase (a
+   bulk liquid crystal sample with spherical water cavities).
+
+   A generic progression of phases, going from low to high amphiphile
+   concentration, is:
+     * Discontinuous cubic phase (micellar phase)
+     * Hexagonal columnar phase (middle phase)
+     * Bicontinuous cubic phase
+     * Lamellar phase
+     * Bicontinuous cubic phase
+     * Reverse hexagonal columnar phase
+     * Inverse cubic phase (Inverse micellar phase)
+
+   Even within the same phases, their self-assembled structures are
+   tunable by the concentration: for example, in lamellar phases, the
+   layer distances increase with the solvent volume. Since lyotropic
+   liquid crystals rely on a subtle balance of intermolecular
+   interactions, it is more difficult to analyze their structures and
+   properties than those of thermotropic liquid crystals.
+
+   Similar phases and characteristics can be observed in immiscible
+   diblock copolymers.
+
+Metallotropic liquid crystals
+
+   Liquid crystal phases can also be based on low-melting inorganic phases
+   like ZnCl[2] that have a structure formed of linked tetrahedra and
+   easily form glasses. The addition of long chain soaplike molecules
+   leads to a series of new phases that show a variety of liquid
+   crystalline behaviour both as a function of the inorganic-organic
+   composition ratio and of temperature. This class of materials has been
+   named metallotropic ^J.D. Martin et al.
+
+Biological liquid crystals
+
+   Lyotropic liquid-crystalline nanostructures are abundant in living
+   systems. Accordingly, lyotropic liquid crystals attract particular
+   attention in the field of biomimetic chemistry. In particular,
+   biological membranes and cell membranes are a form of liquid crystal.
+   Their constituent rod-like molecules (e.g., phospholipids) are
+   organized perpendicularly to the membrane surface, yet the membrane is
+   fluid and elastic. The constituent molecules can flow in-plane quite
+   easily, but tend not to leave the membrane, and can flip from one side
+   of the membrane to the other with some difficulty. These liquid crystal
+   membrane phases can also host important proteins such as receptors
+   freely "floating" inside, or partly outside, the membrane.
+
+   Many other biological structures exhibit LC behaviour. For instance,
+   the concentrated protein solution that is extruded by a spider to
+   generate silk is, in fact, a liquid crystal phase. The precise ordering
+   of molecules in silk is critical to its renowned strength. DNA and many
+   polypeptides can also form LC phases. Since biological mesogens are
+   usually chiral, chirality often plays a role in these phases.
+
+Theoretical treatment of liquid crystals
+
+   Microscopic theoretical treatment of fluid phases can become quite
+   involved, owing to the high material density, which means that strong
+   interactions, hard-core repulsions, and many-body correlations cannot
+   be ignored. In the case of liquid crystals, anisotropy in all of these
+   interactions further complicate analysis. There are a number of fairly
+   simple theories, however, that can at least predict the general
+   behaviour of the phase transitions in liquid crystal systems.
+
+Order parameter
+
+   The description of liquid crystals involves an analysis of order. To
+   make this quantitative, an orientational order parameter is usually
+   defined based on the average of the second Legendre polynomial:
+
+          S = \langle P_2(\cos \theta) \rangle = \left \langle \frac{3
+          \cos^2 \theta-1}{2} \right \rangle
+
+   where θ is the angle between the mesogen molecule axis and the local
+   director (which is the 'preferred direction' in a liquid crystal
+   sample). This definition is convenient, since for a completely random
+   and isotropic sample, S=0, whereas for a perfectly aligned sample S=1.
+   For a typical liquid crystal sample, S is on the order of 0.3 to 0.8,
+   and generally decreases as the temperature is raised. In particular, a
+   sharp drop of the order parameter to 0 is observed when one undergoes a
+   phase transition from an LC phase into the isotropic phase. The order
+   parameter can be measured experimentally in a number of ways. For
+   instance, diamagnetism, birefringence, Raman scattering, and NMR can
+   also be used to determine S.
+
+   One could also characterize the order of a liquid crystal using other
+   even Legendre polynomials (all the odd polynomials average to zero
+   since the director can point in either of two antiparallel directions).
+   These higher-order averages are more difficult to measure, but can
+   yield additional information about molecular ordering.
+
+Onsager hard-rod model
+
+   A very simple model which predicts lyotropic phase transitions is the
+   hard-rod model proposed by Lars Onsager. This theory considers the
+   volume excluded from the center-of-mass of one idealized cylinder as it
+   approaches another. Specifically, if the cylinders are oriented
+   parallel to one another, there is very little volume that is excluded
+   from the center-of-mass of the approaching cylinder (it can come quite
+   close to the other cylinder). If, however, the cylinders are at some
+   angle to one another, then there is a large volume surrounding the
+   cylinder where the approaching cylinder's centre-of-mass cannot enter
+   (due to the hard-rod repulsion between the two idealized objects).
+   Thus, this angular arrangement sees a decrease in the net positional
+   entropy of the approaching cylinder (there are fewer states available
+   to it).
+
+   The fundamental insight here is that that while parallel arrangements
+   of anisotropic objects leads to a decrease in orientational entropy,
+   there is an increase in positional entropy. Thus in some case greater
+   positional order will be entropically favorable. This theory thus
+   predicts that a solution of rod-shaped objects will undergo a phase
+   transition, at sufficient concentration, into a nematic phase. Recently
+   this theory is used to observe the phase transition between nematic and
+   smectic-A at very high concentration also ^Hanif et al.. Although this
+   model is conceptually helpful, its mathematical formulation makes
+   several assumptions that limit its applicability to real systems.
+
+Maier-Saupe mean field theory
+
+   This statistical theory includes contributions from an attractive
+   intermolecular potential. The anisotropic attraction stabilizes
+   parallel alignment of neighboring molecules, and the theory then
+   considers a mean-field average of the interaction. Solved
+   self-consistently, this theory predicts thermotropic phase transitions,
+   consistent with experiment.
+
+Elastic continuum theory
+
+   In this formalism, a liquid crystal material is treated as a continuum;
+   molecular details are entirely ignored. Rather, this theory considers
+   perturbations to a presumed oriented sample. One can identify three
+   types of distortions that could occur in an oriented sample: (1) twists
+   of the material, where neighboring molecules are forced to be angled
+   with respect to one another, rather than aligned; (2) splay of the
+   material, where bending occurs perpendicular to the director; and (3)
+   bend of the material, where the distortion is parallel to the director
+   and mesogen axis. All three of these types of distortions incur an
+   energy penalty. They are defects that often occur near domain walls or
+   boundaries of the enclosing container. The response of the material can
+   then be decomposed into terms based on the elastic constants
+   corresponding to the three types of distortions.
+
+Effect of chirality
+
+   As already described, chiral mesogens usually give rise to chiral
+   mesophases. For molecular mesogens, this means that the molecule must
+   possess an asymmetric carbon atom. An additional requirement is that
+   the system not be racemic: a mixture of right- and left-handed versions
+   of the mesogen will cancel the chiral effect. Due to the cooperative
+   nature of liquid crystal ordering, however, a small amount of chiral
+   dopant in an otherwise achiral mesophase is often enough to select out
+   one domain handedness, making the system overall chiral.
+
+   Chiral phases usually have a helical twisting of the mesogens. If the
+   pitch of this twist is on the order of the wavelength of visible light,
+   then interesting optical interference effects will be observed. The
+   chiral twisting that occurs in chiral LC phases also makes the system
+   respond differently to right- and left-handed circularly polarized
+   light. These materials can thus be used as polarization filters.
+
+   It is possible for chiral mesogens to produce essentially achiral
+   mesophases. For instance, in certain ranges of concentration and
+   molecular weight, DNA will form an achiral line hexatic phase. A
+   curious recent observation is of the formation of chiral mesophases
+   from achiral mesogens. Specifically, bent-core molecules (sometimes
+   called banana liquid crystals) have been shown to form liquid crystal
+   phases that are chiral. In any particular sample, various domains will
+   have opposite handedness, but within any given domain, strong chiral
+   ordering will be present. The appearance mechanism of this macroscopic
+   chirality is not yet entirely clear. It appears that the molecules
+   stack in layers and orient themselves in a tilted fashion inside the
+   layers. These liquid crystals phases are ferroelectric and anti-
+   ferroelectric, both of which are of interest for applications.
+
+Applications of liquid crystals
+
+   Liquid crystals find wide use in liquid crystal displays, which rely on
+   the optical properties of certain liquid crystalline molecules in the
+   presence or absence of an electric field. In a typical device, a liquid
+   crystal layer sits between two polarizers that are crossed (oriented at
+   90° to one another). The liquid crystal is chosen so that its relaxed
+   phase is a twisted one. This twisted phase reorients light that has
+   passed through the first polarizer, allowing it to be transmitted
+   through the second polarizer and reflected back to the observer. The
+   device thus appears clear. When an electric field is applied to the LC
+   layer, all the mesogens align (and are no longer twisting). In this
+   aligned state, the mesogens do not reorient light, so the light
+   polarized at the first polarizer is absorbed at the second polarizer,
+   and the entire device appears dark. In this way, the electric field can
+   be used to make a pixel switch between clear or dark on command. Color
+   LCD systems use the same technique, with colour filters used to
+   generate red, green, and blue pixels. Similar principles can be used to
+   make other liquid crystal based optical devices.
+
+   Thermotropic chiral LCs whose pitch varies strongly with temperature
+   can be used as crude thermometers, since the color of the material will
+   change as the pitch is changed. Liquid crystal color transitions are
+   used on many aquarium and pool thermometers. Other liquid crystal
+   materials change colour when stretched or stressed. Thus, liquid
+   crystal sheets are often used in industry to look for hot spots, map
+   heat flow, measure stress distribution patterns, and so on. Liquid
+   crystal in fluid form is used to detect electrically generated hot
+   spots for failure analysis in the semiconductor industry. Liquid
+   crystal memory units with extensive capacity were used in Space Shuttle
+   navigation equipment.
+
+   It is also worth noting that many common fluids are in fact liquid
+   crystals. Soap, for instance, is a liquid crystal, and forms a variety
+   of LC phases depending on its concentration in water.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Liquid_crystal"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,974 @@
+   #copyright
+
+Hubble Space Telescope
+
+2007 Schools Wikipedia Selection. Related subjects: Space transport
+
+   The NASA/ESA Hubble Space Telescope
+   The Hubble Space Telescope, from the Space Shuttle Discovery during the
+   second servicing mission, STS-82
+   Organization NASA/ESA
+   Wavelength regime Optical, ultraviolet, near-infrared
+   Type of Orbit Elliptical
+   Orbit height 589  km
+   Orbit period 96-97  min
+   Orbit velocity 7,500  m/s
+   Acceleration due to gravity 8.169  m/s²
+   Launch date April 24, 1990
+   Deorbit date Around 2020
+   NSSDC ID 1990-037B
+   Mass 11,000  kg (24,250  lb)
+   Websites http://www.nasa.gov/hubble http://hubble.nasa.gov
+   http://hubblesite.org http://www.spacetelescope.org
+   Physical characteristics
+   Telescope style Ritchey-Chretien reflector
+   Diameter 2.4  m (94  in)
+   Collecting area approx. 4.3  m² (46  ft²)
+   Effective focal length 57.6 m (189 ft)
+   Instruments
+   NICMOS infrared camera/spectrometer
+   ACS optical survey camera
+   WFPC2 wide field optical camera
+   STIS optical spectrometer/camera (failed)
+   FGS three fine guidance sensors
+
+   The Hubble Space Telescope (HST) is a telescope in orbit around the
+   Earth, named after astronomer Edwin Hubble for his discovery of
+   galaxies outside the Milky Way and his creation of Hubble's Law, which
+   calculates the rate at which the universe is expanding. Its position
+   outside the Earth's atmosphere allows it to take sharp optical images
+   of very faint objects, and since its launch in 1990, it has become one
+   of the most important instruments in the history of astronomy. It has
+   been responsible for many ground-breaking observations and has helped
+   astronomers achieve a better understanding of many fundamental problems
+   in astrophysics. Hubble's Ultra Deep Field is the deepest (most
+   sensitive) astronomical optical image ever taken.
+
+   From its original conception in 1946 until its launch, the project to
+   build a space telescope was beset by delays and budget problems.
+   Immediately after its launch, it was found that the main mirror
+   suffered from spherical aberration, severely compromising the
+   telescope's capabilities. However, after a servicing mission in 1993,
+   the telescope was restored to its planned quality and became a vital
+   research tool as well as a public relations boon for astronomy. The HST
+   is part of NASA's Great Observatories series, with the Compton Gamma
+   Ray Observatory, the Chandra X-ray Observatory, and the Spitzer Space
+   Telescope. Hubble is a collaboration between NASA and the European
+   Space Agency.
+
+   The future of Hubble is uncertain. Its stabilising gyroscopes are
+   failing such that by today (2006) its redundancy was exhausted and with
+   another failure, its ability to point will be compromised. These must
+   be replaced by a manned service mission. In addition, without a reboost
+   to increase the diameter of its orbit, drag will cause it to re-enter
+   the Earth's atmosphere sometime after 2010. Following the Columbia
+   Space Shuttle disaster, NASA decided that a repair mission by
+   astronauts would be unreasonably dangerous. The organization later
+   reconsidered this position, and, on October 31, 2006, NASA
+   administrator Mike Griffin gave the green light for a final Hubble
+   servicing mission to be flown by Discovery no earlier than May 2008.
+   The repairs to the Hubble will allow the telescope to function until at
+   least 2013, when its successor is to be launched.
+
+   Hubble's successor telescope, the James Webb Space Telescope (JWST), is
+   due to be launched in 2013 and will be far superior to Hubble for many
+   astronomical research programs. However, the JWST will only observe in
+   infrared, so it will not replace Hubble's ability to observe in the
+   visible and ultraviolet parts of the spectrum. JWST is a project of
+   international collaboration between NASA, ESA and the Canadian Space
+   Agency.
+
+Conception, design and aims
+
+Proposals and precursors
+
+   Lyman Spitzer, "father" of the Space Telescope.
+   Enlarge
+   Lyman Spitzer, "father" of the Space Telescope.
+
+   The history of the Hubble Space Telescope can be traced back as far as
+   1946, when astronomer Lyman Spitzer wrote a paper entitled Astronomical
+   advantages of an extra-terrestrial observatory. In it, he discussed the
+   two main advantages that a space-based observatory would have over
+   ground-based telescopes: first, the angular resolution (smallest
+   separation at which objects can be clearly distinguished) would be
+   limited only by diffraction, rather than by the turbulence in the
+   atmosphere which causes stars to twinkle and is known to astronomers as
+   seeing. At that time ground-based telescopes were limited to
+   resolutions of 0.5–1.0 arcseconds, compared to a theoretical
+   diffraction-limited resolution of about 0.1 arcsec for a telescope with
+   a mirror 2.5 m in diameter. The second major advantage would be that a
+   space-based telescope could observe infrared and ultraviolet light,
+   which are strongly absorbed by the atmosphere.
+
+   Spitzer devoted much of his career to pushing for a space telescope to
+   be developed. In 1962 a report by the U.S. National Academy of Sciences
+   recommended the development of a space telescope as part of the space
+   program, and in 1965 Spitzer was appointed as head of a committee given
+   the task of defining the scientific objectives for a large space
+   telescope.
+
+   Space-based astronomy had begun on a very small scale following World
+   War II, as scientists made use of the developments in rocket technology
+   that had taken place. The first ultraviolet spectrum of the Sun was
+   obtained in 1946. An orbiting solar telescope was launched in 1962 by
+   the UK as part of the Ariel space program, and 1966 saw National
+   Aeronautics and Space Administration 's (NASA) launch of the first
+   Orbiting Astronomical Observatory (OAO) mission. OAO-1's battery failed
+   after three days, terminating the mission. It was followed by OAO-2,
+   which carried out ultraviolet observations of stars and galaxies from
+   its launch in 1968 until 1972, well beyond its original planned
+   lifetime of one year.
+
+   The OAO missions demonstrated the important role space-based
+   observations could play in astronomy, and 1968 saw the development by
+   NASA of firm plans for a space-based reflecting telescope with a mirror
+   3 m in diameter, known provisionally as the Large Orbiting Telescope or
+   Large Space Telescope (LST), with a launch slated for 1979. These plans
+   emphasised the need for manned maintenance missions to the telescope to
+   ensure such a costly program had a lengthy working life, and the
+   concurrent development of plans for the reusable Space Shuttle
+   indicated that the technology to allow this was soon to become
+   available.
+
+The quest for funding
+
+   The continuing success of the OAO program encouraged increasingly
+   strong consensus within the astronomical community that the LST should
+   be a major goal. In 1970 NASA established two committees, one to plan
+   the engineering side of the space telescope project, and the other to
+   determine the science goals of the mission. Once these had been
+   established, the next hurdle for NASA was to obtain funding for the
+   instrument, which would be far more costly than any Earth-based
+   telescope. The US Congress questioned many aspects of the proposed
+   budget for the telescope and forced cuts in the budget for the planning
+   stages, which at the time consisted of very detailed studies of
+   potential instruments and hardware for the telescope. In 1974, public
+   spending cuts instigated by Gerald Ford led to Congress cutting all
+   funding for the telescope project.
+
+   In response to this, a nationwide lobbying effort was co-ordinated
+   among astronomers. Many astronomers met congressmen and senators in
+   person, and large scale letter-writing campaigns were organised. The
+   National Academy of Sciences published a report emphasising the need
+   for a space telescope, and eventually the Senate agreed to a budget
+   half that originally refused by Congress.
+
+   The funding issues led to something of a reduction in the scale of the
+   project, with the proposed mirror diameter reduced from 3 m to 2.4 m,
+   both to cut costs and to allow a more compact and effective
+   configuration for the telescope hardware. A proposed precursor 1.5 m
+   space telescope to test the systems to be used on the main satellite
+   was dropped, and budgetary concerns also prompted collaboration with
+   the European Space Agency. ESA agreed to provide funding, and supply
+   some of the instruments for the telescope as well as the solar cells
+   which would power it, in return for European astronomers being
+   guaranteed at least 15% of observing time on the telescope. Congress
+   eventually approved funding of US$36,000,000 for 1978, and the design
+   of the LST began in earnest, aiming for a launch date of 1983. During
+   the early 1980s, the telescope was named after Edwin Hubble, who made
+   one of the greatest scientific breakthroughs of the 20th century when
+   he discovered that the universe was expanding.
+
+Construction and engineering
+
+   Polishing of Hubble's primary mirror begins at Perkin-Elmer
+   corporation, Danbury, Connecticut, May 1979. The engineer pictured is
+   Dr. Martin Yellin, an optical engineer working for Perkin-Elmer on the
+   project.
+   Enlarge
+   Polishing of Hubble's primary mirror begins at Perkin-Elmer
+   corporation, Danbury, Connecticut, May 1979. The engineer pictured is
+   Dr. Martin Yellin, an optical engineer working for Perkin-Elmer on the
+   project.
+
+   Once the Space Telescope project had been given the go-ahead, work on
+   the program was divided between many institutions. Marshall Space
+   Flight Centre (MSFC) was given responsibility for the design,
+   development and construction of the telescope, while the Goddard Space
+   Flight Centre was given overall control of the scientific instruments
+   and ground control centre for the mission. Marshall commissioned optics
+   company Perkin-Elmer to design and build the Optical Telescope Assembly
+   (OTA) and Fine Guidance Sensors for the space telescope. Lockheed was
+   commissioned to construct the spacecraft in which the telescope would
+   be housed.
+
+Optical Telescope Assembly (OTA)
+
+   The mirror and optical systems of the telescope were the most crucial
+   part, and were designed to exacting specifications. Telescopes
+   typically have mirrors polished to an accuracy of about a tenth of the
+   wavelength of visible light, but because the Space Telescope was to be
+   used for observations ranging from ultraviolet to near- infrared with
+   ten times better resolution than the best previous telescopes, its
+   mirror needed to be polished to an accuracy of 1/20 of the wavelength
+   of visible light, or about 30  nanometres.
+
+   Perkin-Elmer intended to use extremely sophisticated
+   computer-controlled polishing machines to grind the mirror to the
+   required shape, but in case their cutting-edge technology ran into
+   difficulties, Kodak was commissioned to construct a back-up mirror
+   using traditional mirror-polishing techniques (the Kodak mirror is now
+   on permanent display at the Smithsonian Institution.). Construction of
+   the Perkin-Elmer mirror began in 1979, using ultra-low expansion glass.
+   To keep the mirror's weight to a minimum it consisted of inch-thick top
+   and bottom plates sandwiching a honeycomb lattice.
+
+   Mirror polishing began in 1979 and continued until May 1981. NASA
+   reports at the time questioned Perkin-Elmer's managerial structure, and
+   the polishing began to slip behind schedule and over budget. To save
+   money, NASA halted work on the back-up mirror and put the launch date
+   of the telescope back to October 1984. The mirror was completed by the
+   end of 1981 with the addition of a reflective coating of aluminium
+   75 nm thick and a protective coating of magnesium fluoride 25 nm thick,
+   which increased the mirror's reflectivity in ultraviolet light.
+
+   However, doubts continued to be expressed about Perkin-Elmer's
+   competence on a project of this importance as their budget and
+   timescale for producing the rest of the OTA continued to inflate. In
+   response to a schedule described as "unsettled and changing daily",
+   NASA postponed the launch date of the telescope until April 1985.
+   Perkin-Elmer's schedules continued to slip at a rate of about one month
+   per quarter, and at times delays reached one day for each day of work.
+   NASA was forced to postpone the launch date until first March and then
+   September 1986. By this time the total project budget had risen to
+   US$1.175 billion.
+
+Spacecraft systems
+
+   Early stages of Hubble's construction, 1980.
+   Enlarge
+   Early stages of Hubble's construction, 1980.
+
+   The spacecraft in which the telescope and instruments were to be housed
+   was another major engineering challenge. It would have to adequately
+   withstand frequent passages from direct sunlight into the darkness of
+   Earth's shadow which would generate major changes in temperature, while
+   being stable enough to allow the extremely accurate pointing of the
+   telescope that would be required. A shroud of multi-layered insulation
+   keeps the temperature within the telescope stable, and surrounds a
+   light aluminium shell in which the telescope and instruments sit.
+   Within the shell, a graphite-epoxy frame keeps the working parts of the
+   telescope firmly aligned.
+
+   While construction of the spacecraft in which the telescope and
+   instruments would be housed proceeded somewhat more smoothly than the
+   construction of the OTA, Lockheed still experienced some budget and
+   schedule slippage, and by the summer of 1985, construction of the
+   spacecraft was 30% over budget and three months behind schedule. An
+   MSFC report said that Lockheed tended to rely on NASA directions rather
+   than take their own initiative in the construction.
+
+Ground support
+
+   In 1983, the Space Telescope Science Institute (STScI) was established
+   after something of a power struggle between NASA and the scientific
+   community at large. STScI is operated by the Association of
+   Universities for Research in Astronomy (AURA) and is physically located
+   on the Homewood campus of Johns Hopkins University in Baltimore, which
+   is one of the 32 U.S. universities and seven international affiliates
+   that comprise the AURA consortium.
+
+   STScI is responsible for the scientific operation of the telescope and
+   delivery of data products to astronomers, a function which NASA had
+   wanted to keep "in-house", but which scientists were keen to see based
+   in an academic establishment. Engineering support is provided by NASA
+   and contractor personnel at the Goddard Space Flight Centre in
+   Greenbelt, Maryland, 30 miles south of the STScI. Hubble's operation is
+   monitored 24 hours per day by four teams of flight controllers who make
+   up Hubble's Flight Operations Team.
+
+   The Space Telescope European Coordinating Facility was established at
+   Garching bei München near Munich in 1984 to provide similar support
+   primarily for European astronomers.
+
+Challenger disaster
+
+   In early 1986, the planned launch date of October that year looked
+   feasible, but the Challenger disaster brought the U.S. space program to
+   a halt, grounding the Space Shuttle fleet and forcing the launch of
+   Hubble to be postponed for several years. All telescope parts had to be
+   kept in clean rooms until a launch could be rescheduled, a costly
+   situation which pushed the overall costs of the project still higher.
+
+   Eventually, following the resumption of Shuttle flights in 1988, the
+   launch of the telescope was scheduled for 1990. In preparation for its
+   final launch, dust which had accumulated on the mirror since its
+   completion had to be removed with jets of nitrogen, and all systems
+   were tested extensively to ensure they were fully functional. Finally,
+   on 24 April 1990, shuttle mission STS-31 saw Discovery launch the
+   telescope successfully into its planned orbit.
+
+   From its original total cost estimate of about 400 million dollars, the
+   telescope had by now cost over US$2 billion to construct. Hubble's
+   cumulative costs up to this day are estimated to be several times
+   higher still, with U.S. expenditure estimated at between 4.5 and 6
+   billion USD and Europe's financial contribution at 593 million Euros
+   (1999 estimate) .
+
+Instruments
+
+   Shuttle mission STS-31 lifts off, carrying Hubble into orbit.
+   Enlarge
+   Shuttle mission STS-31 lifts off, carrying Hubble into orbit.
+
+   When launched, the HST carried five scientific instruments: the Wide
+   Field and Planetary Camera (WF/PC), Goddard High Resolution
+   Spectrograph (GHRS), High Speed Photometer (HSP), Faint Object Camera
+   (FOC) and the Faint Object Spectrograph (FOS). WF/PC was a
+   high-resolution imaging device primarily intended for optical
+   observations. It was built by NASA's Jet Propulsion Laboratory, and
+   incorporated a set of 48 filters isolating spectral lines of particular
+   astrophysical interest. The instrument contained four CCD chips, three
+   of which were "wide field" chips while the fourth was the "planetary
+   camera" (PC). The PC took images at a longer effective focal length
+   than the WF chips, giving it a greater magnification.
+
+   The GHRS was a spectrograph designed to operate in the ultraviolet. It
+   was built by the Goddard Space Flight Centre in conjunction with Ball
+   Aerospace, and could achieve a spectral resolution of 90,000. Also
+   optimised for ultraviolet observations were the FOC and FOS, both of
+   which were also capable of the highest spatial resolution of any
+   instrument on Hubble. Rather than CCDs these three instruments used
+   photon-counting digicons as their detectors. FOC was constructed by
+   ESA, while the Martin Marietta corporation built the FOS.
+
+   The final instrument was the HSP, designed and built at the University
+   of Wisconsin-Madison. It was optimised for visible and ultraviolet
+   light observations of variable stars and other astronomical objects
+   varying in brightness. It could take up to 100,000 measurements per
+   second with a photometric accuracy of about 2% or better.
+
+   HST's guidance system can also be used as a scientific instrument. Its
+   three Fine Guidance Sensors (FGS) are primarily used to keep the
+   telescope accurately pointed during an observation, but can also be
+   used to carry out extremely accurate astrometry; measurements accurate
+   to within 0.0003 arcseconds have been achieved.
+
+Flawed mirror
+
+   Within weeks of the launch of the telescope, the images returned showed
+   that there was a serious problem with the optical system. Although the
+   first images appeared to be sharper than ground-based images, the
+   telescope failed to achieve a final sharp focus, and the best image
+   quality obtained was drastically lower than expected. Images of point
+   sources spread out over a radius of more than one arcsecond, instead of
+   having a point spread function concentrated within a circle 0.1 arcsec
+   in diameter as had been specified in the design criteria.
+
+   Analysis of the flawed images showed that the cause of the problem was
+   that the primary mirror had been ground to the wrong shape. Although it
+   was probably the most accurately figured mirror ever made, with
+   variations from the prescribed curve of no more than 1/20 of the
+   wavelength of light, it was too flat at the edges. The mirror was
+   barely 2 micrometres out from the required shape, but the difference
+   was catastrophic, introducing severe spherical aberration, a flaw in
+   which light reflecting off the edge of a mirror focuses on a different
+   point from the light reflecting off its centre. The aberration meant
+   that images from the Space Telescope were only marginally better than
+   the best images obtainable from the ground.
+
+Origin of the problem
+
+   An extract from a WF/PC image shows the light from a star spread over a
+   wide area instead of being concentrated on a few pixels.
+   Enlarge
+   An extract from a WF/PC image shows the light from a star spread over a
+   wide area instead of being concentrated on a few pixels.
+
+   Working backwards from images of point sources, astronomers determined
+   that the conic constant of the mirror was −1.0139, instead of the
+   intended −1.00229. The same number was also derived by analysing the
+   null correctors (instruments which accurately measure the curvature of
+   a polished surface) used by Perkin-Elmer to figure the mirror, as well
+   as by analysing interferograms obtained during ground testing of the
+   mirror.
+
+   A commission headed by Lew Allen, director of the Jet Propulsion
+   Laboratory, was established to determine how the error could have
+   arisen. The Allen Commission found that the null corrector used by
+   Perkin-Elmer had been incorrectly calibrated, as a spot on a metering
+   scale where an end cap had worn away was wrongly believed to be a valid
+   scale. The null corrector had then been wrongly spaced by 1.3 mm.
+
+   During the polishing of the mirror, Perkin-Elmer had analysed its
+   surface with two other null correctors, both of which (correctly)
+   indicated that the mirror was suffering from spherical aberration.
+   These tests were specifically designed to eliminate the possibility of
+   major optical aberrations. Against written quality guidelines, the
+   company ignored these test results as it believed that the two null
+   correctors were less accurate than the primary device which was
+   reporting that the mirror was perfectly figured.
+
+   The commission blamed the failings primarily on Perkin-Elmer. Relations
+   between NASA and the optics company had been severely strained during
+   the telescope construction due to frequent schedule slippage and cost
+   overruns. NASA found that Perkin-Elmer had not regarded the telescope
+   mirror as a crucial part of their business and were also secure in the
+   knowledge that NASA could not take its business elsewhere once the
+   polishing had begun. While the commission heavily criticised
+   Perkin-Elmer for these managerial failings, NASA was also criticised
+   for not picking up on the quality control shortcomings such as relying
+   totally on test results from a single instrument.
+
+Design of a solution
+
+   The flaw meant that Hubble could obtain data about as good as that
+   achievable with a large ground-based telescope on a night of good
+   seeing, but at a vastly greater cost. NASA and the telescope became the
+   butt of many jokes, and the project was popularly regarded as a white
+   elephant. However, the design of the telescope had always incorporated
+   servicing missions, and astronomers immediately began to seek potential
+   solutions to the problem which could be applied at the first servicing
+   mission, scheduled for 1993.
+
+   While Kodak had ground a back-up mirror for Hubble, it would have been
+   impossible to replace the mirror in orbit, and too expensive and
+   time-consuming to bring the telescope temporarily back to Earth for a
+   refit. Instead, the fact that the mirror had been ground so precisely
+   to the wrong shape led to the design of new optical components with
+   exactly the same error but in the opposite sense, to be added to the
+   telescope at the servicing mission, effectively acting as "spectacles"
+   to correct the spherical aberration.
+
+   Because of the way the instruments were designed, two different sets of
+   correctors were required. The design of the Wide Field and Planetary
+   Camera (WFPC) included four relay mirrors to direct light onto the four
+   separate CCD chips making up the camera, and so the relay mirrors on
+   the replacement Wide Field and Planetary Camera 2 could be figured to
+   correct the aberration. However, the other instruments lacked any
+   intermediate surfaces which could be figured in this way, and so
+   required an external correction device.
+
+COSTAR
+
+   The system designed to correct the spherical aberration for light
+   focused at the FOC, FOS and GHRS was called the "Corrective Optics
+   Space Telescope Axial Replacement" ( COSTAR) and consisted essentially
+   of two mirrors in the light path, one of which would be figured to
+   correct the aberration. To fit the COSTAR system onto the telescope,
+   one of the other instruments had to be removed, and astronomers
+   selected the High Speed Photometer to be sacrificed. COSTAR was built
+   by Ball Aerospace.
+
+   During the first three years of the Hubble mission, before the optical
+   corrections could be fitted, the telescope still carried out a large
+   number of observations. Spectroscopic observations in particular were
+   not too badly affected by the aberration, but many imaging projects
+   were cancelled as the space telescope no longer gave decisive
+   advantages over ground-based observations. Despite the setbacks, the
+   first three years saw numerous scientific advances as astronomers
+   worked to optimise the results obtained using sophisticated image
+   processing techniques such as deconvolution.
+   Astronauts work on Hubble during the first servicing mission.
+   Enlarge
+   Astronauts work on Hubble during the first servicing mission.
+   Improvement in Hubble images after the first service mission.
+   Enlarge
+   Improvement in Hubble images after the first service mission.
+
+Servicing missions and new instruments
+
+Servicing mission 1
+
+   The telescope had always been designed so that it could be regularly
+   serviced, but after the problems with the mirror came to light, the
+   first servicing mission assumed a much greater importance, as the
+   astronauts would have to carry out extensive work on the telescope to
+   install the corrective optics. The seven astronauts selected for the
+   mission were trained intensively in the use of the hundred or so
+   specialised tools which would need to be used. The mission ( STS-61)
+   Endeavour took place in December 1993, and involved installation of
+   several instruments and other equipment over a total of 10 days.
+
+   Most importantly, the High Speed Photometer was replaced with the
+   COSTAR corrective optics package, and WFPC was replaced with the Wide
+   Field and Planetary Camera 2 (WFPC2), with its internal optical
+   correction system. In addition, the solar arrays and their drive
+   electronics were replaced, as well as four of the gyroscopes used in
+   the telescope pointing system, two electrical control units and other
+   electrical components, and two magnetometers. The onboard computers
+   were upgraded, and finally, the telescope's orbit was boosted, having
+   been slowly decaying for three years due to drag in the tenuous upper
+   atmosphere.
+
+   On January 13, 1994, NASA declared the mission a complete success and
+   showed the first of many much sharper images. The mission had been one
+   of the most complex ever undertaken, involving five lengthy periods of
+   extravehicular activity, and its resounding success was an enormous
+   boon for NASA, as well as for the astronomers who now had a fully
+   capable space telescope.
+
+Subsequent servicing missions
+
+   Subsequent servicing missions were less dramatic, but each gave the
+   space telescope new capabilities. Servicing Mission 2 Discovery (
+   STS-82) in February 1997 replaced the GHRS and the FOS with the Space
+   Telescope Imaging Spectrograph (STIS) and the Near Infrared Camera and
+   Multi-Object Spectrometer (NICMOS), replaced an Engineering and Science
+   Tape Recorder with a new Solid State Recorder, repaired thermal
+   insulation and again boosted Hubble's orbit. NICMOS, built by Ball
+   Aerospace contained a heat sink of solid nitrogen to reduce the thermal
+   noise from the instrument, but shortly after it was installed, an
+   unexpected thermal expansion resulted in part of the heat sink coming
+   into contact with an optical baffle. This led to an increased warming
+   rate for the instrument and reduced its original expected lifetime of
+   4.5 years to about 2 years.
+
+   Servicing Mission 3A Discovery ( STS-103) took place in December 1999,
+   replaced all six gyroscopes (one had failed and rendered the telescope
+   unusable just weeks before the mission), replaced a Fine Guidance
+   Sensor and the computer, installed a Voltage/temperature Improvement
+   Kit (VIK) to prevent battery overcharging, and replaced thermal
+   insulation blankets. The new computer was based on a radiation hardened
+   Intel 486 and permits some computing tasks that were previously
+   performed by computers on the ground to be handled on board the
+   spacecraft.
+   Hubble on the payload bay just prior to release with beautiful glowing
+   color of earth in the background. SM3B : STS-109.
+   Enlarge
+   Hubble on the payload bay just prior to release with beautiful glowing
+   colour of earth in the background. SM3B : STS-109.
+
+   Servicing Mission 3B Columbia ( STS-109) in March 2002 saw the
+   installation of a new instrument, with the FOC being replaced with the
+   Advanced Camera for Surveys (ACS), and also saw the revival of NICMOS,
+   which had run out of coolant in 1999. The ACS was built for NASA by
+   Ball Aerospace. A new cooling system was installed which reduced the
+   instrument's temperature enough for it to be usable again, although it
+   was not as cold as its original design called for .
+
+   The mission replaced the solar arrays for a third time, with the new
+   arrays being smaller but generating more power. The new arrays were
+   derived from those built for the Iridium comsat system and were only
+   two-thirds the size of the old arrays, resulting in less drag against
+   the tenuous reaches of the upper atmosphere, while providing 30% more
+   power. The additional power allowed all instruments on board the Hubble
+   to be run simultaneously, and reduced a vibration problem that occurred
+   when the old, less rigid arrays entered and left direct sunlight.
+   Hubble's Power Distribution Unit was also replaced in order to correct
+   a problem with sticky relays, a procedure that required the complete
+   electrical power down of the spacecraft for the first time since it was
+   launched.
+
+   The completion of this servicing mission considerably enhanced Hubble's
+   capabilities. The two instruments primarily affected by the mission,
+   ACS and NICMOS, together imaged the Hubble Ultra Deep Field in 2003 to
+   2004.
+
+Scientific results
+
+Important discoveries
+
+   One of Hubble's most famous images: pillars of creation where stars are
+   forming in the Eagle Nebula
+   Enlarge
+   One of Hubble's most famous images: pillars of creation where stars are
+   forming in the Eagle Nebula
+
+   Hubble has helped to resolve some long-standing problems in astronomy,
+   as well as turning up results that have required whole new theories to
+   explain them. Among its primary mission targets was to measure
+   distances to Cepheid variable stars more accurately than ever before,
+   and thus constrain the value of the Hubble constant, the measure of the
+   rate at which the universe is expanding, which is also related to its
+   age. Before the launch of Hubble, estimates of the Hubble constant
+   typically had errors of up to 50%, but Hubble measurements of Cepheid
+   variables in the Virgo cluster and other distant galaxy clusters
+   provided a measured value with an accuracy of 10%, which is consistent
+   with other more accurate measurements made since Hubble's launch using
+   other techniques.
+
+   While Hubble helped to refine the age of the universe, it also cast
+   doubt on its future. Astronomers from the High-z Supernova Search Team
+   and the Supernova Cosmology Project used the telescope to observe
+   distant supernovae and uncovered evidence that, far from decelerating
+   under the influence of gravity, the expansion of the universe may in
+   fact be accelerating. This acceleration was later measured more
+   accurately by other ground-based and space-based telescopes which
+   confirmed Hubble's finding, but the cause of this acceleration is
+   currently very poorly understood.
+
+   The collision of Comet Shoemaker-Levy 9 with Jupiter in 1994 was very
+   fortuitously timed for astronomers, coming just a few months after
+   Servicing Mission 1 had restored Hubble's optical performance. Hubble
+   images of the planet were sharper than any taken since the passage of
+   Voyager 2 in 1979, and were crucial in studying the dynamics of the
+   collision of a comet with Jupiter, an event believed to occur once
+   every few centuries. It has also been used to study objects in the
+   outer reaches of the Solar System, including the dwarf planets Pluto
+   and Eris.
+
+   Other major discoveries made using Hubble data include proto-planetary
+   disks ( proplyds) in the Orion Nebula; evidence for the presence of
+   extrasolar planets around sun-like stars; and the optical counterparts
+   of the still-mysterious gamma-ray bursts.
+
+   A unique legacy of Hubble is Hubble Deep Field and Hubble Ultra Deep
+   Field images, which utilized Hubble's unmatched sensitivity at visible
+   wavelengths to create images of small patches of sky which are the
+   deepest ever obtained at optical wavelengths. The images reveal
+   galaxies billions of light years away, and have generated a wealth of
+   scientific papers, providing a new window on the early Universe.
+
+Impact on astronomy
+
+   Distant galaxies in deep space in the Hubble Ultra Deep Field
+   photograph.
+   Enlarge
+   Distant galaxies in deep space in the Hubble Ultra Deep Field
+   photograph.
+
+   Many objective measures show the enormous impact of Hubble data on
+   astronomy. Over 4,000 papers based on Hubble data have been published
+   in peer-reviewed journals, and countless more have appeared in
+   conference proceedings. Looking at papers several years after their
+   publication, about one-third of all astronomy papers have no citations,
+   while only 2% of papers based on Hubble data have no citations. On
+   average, a paper based on Hubble data receives about twice as many
+   citations as papers based on non-Hubble data. Of the 200 papers
+   published each year which receive the most citations, about 10% are
+   based on Hubble data.
+
+   Although the HST has clearly had a significant impact on astronomical
+   research, the financial cost of this impact has been very large. A
+   study on the relative impacts on astronomy of different sizes of
+   telescopes found that while papers based on HST data generate 15 times
+   as many citations as a 4 m ground-based telescope such as the William
+   Herschel Telescope, the HST cost about 100 times as much to build and
+   maintain. Even before Hubble's launch, ground-based speckle imaging
+   could provide higher resolution images of bright objects than Hubble
+   can achieve and more recently the development of adaptive optics has
+   extended the high-resolution imaging capabilities of ground-based
+   telescopes to the infrared imaging of faint objects. Ground-based
+   imaging can be done at much lower cost, and this has been a key
+   consideration in the debate about the future of space telescopes (see
+   below).
+
+Using the telescope
+
+   Anyone can apply for time on the telescope; there are no restrictions
+   on nationality or academic affiliation. Competition for time on the
+   telescope is extremely intense, and the ratio of time requested to time
+   available (the oversubscription ratio) typically ranges between 6 and
+   9.
+
+   Calls for proposals are issued roughly annually, with time allocated
+   for a 'cycle' lasting approximately one year. Proposals are divided
+   into several categories; 'general observer' proposals are the most
+   common, covering routine observations. 'Snapshot observations' are
+   those in which targets require only 45 minutes or less of telescope
+   time, including the overheads of acquiring the target and so on;
+   snapshot observations are used to fill in gaps in the telescope
+   schedule which cannot be filled by regular GO programs.
+
+   Astronomers may make 'Target of Opportunity' proposals, in which
+   observations are scheduled if a transient event covered by the proposal
+   occurs during the scheduling cycle. In addition, up to 10% of the
+   telescope time is designated Director's Discretionary (DD) Time.
+   Astronomers can apply to use DD time at any time of year, and it is
+   typically awarded for study of unexpected transient phenomena such as
+   supernovae. Other uses of DD time have included the observations that
+   led to the production of the Hubble Deep Field and Hubble Ultra Deep
+   Field, and in the first four cycles of telescope time, observations
+   carried out by amateur astronomers (discussed below).
+
+Observation scheduling
+
+   Hubble's low orbit means many targets spend much of each orbit behind
+   the Earth.
+   Enlarge
+   Hubble's low orbit means many targets spend much of each orbit behind
+   the Earth.
+
+   Scheduling observations for Hubble is not a simple matter. It is
+   situated in a low-Earth orbit so that it can be reached by the Space
+   Shuttle for servicing missions, but this means that most astronomical
+   targets are occulted by the Earth for slightly less than half of each
+   orbit. Observations cannot take place when the telescope passes through
+   the South Atlantic Anomaly due to elevated radiation levels, and there
+   are also sizable exclusion zones around the Sun (precluding
+   observations of Mercury), Moon and Earth, which cannot be observed.
+   However, there is a so-called continuous viewing zone (CVZ), at roughly
+   90 degrees to the plane of Hubble's orbit, in which targets are not
+   occulted for long periods. Due to the precession of the orbit, the
+   location of the CVZ moves slowly over a period of eight weeks. Because
+   the limb of the Earth is always within about 30° of regions within the
+   CVZ, the brightness of scattered earthshine may be elevated for long
+   periods during CVZ observations.
+
+   Because Hubble orbits in the upper atmosphere, its orbit changes over
+   time in a way that is not accurately predictable. The density of the
+   upper atmosphere varies according to many factors, and this means that
+   Hubble's predicted position for six week's time could be in error by up
+   to 4,000 km. Observation schedules are typically finalised only a few
+   days in advance, as a longer lead time would mean there was a chance
+   that the target would be unobservable by the time it was due to be
+   observed.
+
+Amateur observations
+
+   The first director of the STScI, Riccardo Giacconi, announced in 1986
+   that he intended to devote some of his Director Discretionary time to
+   allowing amateur astronomers to use the telescope. The total time to be
+   allocated was only a few hours per cycle, but excited great interest
+   among amateur astronomers.
+
+   Proposals for amateur time were stringently peer reviewed by a
+   committee of leading amateur astronomers, and time was awarded only to
+   proposals with genuine scientific merit which did not duplicate
+   proposals made by professionals and which required the unique
+   capabilities of the space telescope. In total, 13 amateur astronomers
+   were awarded time on the telescope, with observations being carried out
+   between 1990 and 1997. One such study was Transition Comets -- UV
+   Search for OH Emissions in Asteroids. After that time, however, budget
+   reductions at STScI made the support of work by amateur astronomers
+   untenable, and no further amateur programs have been carried out.
+
+Hubble data
+
+Transmission to Earth
+
+   Hubble data are initially stored on the spacecraft. When launched, the
+   storage facilities were old-fashioned reel-to-reel tape recorders, but
+   these were replaced by solid state data storage facilities during
+   servicing missions 2 and 3A. From the onboard storage facilities, data
+   are transferred to the ground via the Tracking and Data Relay Satellite
+   System, a system of satellites designed so that satellites in low-Earth
+   orbit can communicate with their mission control facilities during
+   about 85% of their orbit. Data is transmitted to the TDRSS ground
+   station and then on to the Goddard Space Flight Centre for archiving.
+
+Archive
+
+   All Hubble data are eventually made available via a public archive at
+   http://archive.stsci.edu/hst. Data are usually proprietary—available
+   only to the Principal Investigator (PI) and astronomers designated by
+   the PI—for one year after being taken. The PI can apply to the director
+   of the STScI to extend or reduce the proprietary period in some
+   circumstances.
+
+   Observations made on Director's Discretionary Time are exempt from the
+   proprietary period, and are released to the public immediately.
+   Calibration data such as flat fields and dark frames are also publicly
+   available straight away. All data in the archive are in the FITS
+   format, which is suitable for astronomical analysis but not for public
+   use. The Hubble Heritage Project processes and releases to the public a
+   small selection of the most striking images in JPEG and TIFF formats.
+
+Pipeline reduction
+
+   Astronomical data taken with CCDs must undergo several calibration
+   steps before it is suitable for astronomical analysis. STScI has
+   developed sophisticated software which automatically calibrates data
+   when it is requested from the archive using the best calibration files
+   available. This 'on-the-fly' processing means that large data requests
+   can take a day or more to be processed and returned. The process by
+   which data is calibrated automatically is known as 'pipeline
+   reduction', and is increasingly common at major observatories.
+
+   Astronomers may if they wish retrieve the calibration files themselves
+   and run the pipeline reduction software locally. This may be desirable
+   when calibration files other than those selected automatically need to
+   be used.
+
+Data analysis
+
+   Hubble data can be analysed using many different packages, but STScI
+   develops the custom-made STSDAS (Space Telescope Science Data Analysis
+   System) software. The software contains all the programs needed to run
+   pipeline reduction on raw data files, as well as many other
+   astronomical image processing tools, tailored to the requirements of
+   Hubble data. The software runs as a module of IRAF, a popular
+   astronomical data reduction program.
+
+Outreach activities
+
+   The Horsehead Nebula, selected by the public to be observed by Hubble
+   for its 11th anniversary
+   Enlarge
+   The Horsehead Nebula, selected by the public to be observed by Hubble
+   for its 11th anniversary
+
+   It has always been important for the Space Telescope to capture the
+   public's imagination, given the considerable contribution of taxpayers
+   to its construction and operational costs. After the difficult early
+   years when the faulty mirror severely dented Hubble's reputation with
+   the public, the first servicing mission allowed its rehabilitation as
+   the corrected optics produced numerous remarkable images.
+
+   Several initiatives have helped to keep the public informed about
+   Hubble activities. The Hubble Heritage Project was established to
+   produce high-quality images for public consumption of the most
+   interesting and striking objects observed. The Heritage Team is
+   composed of amateur and professional astronomers, as well as people
+   with backgrounds outside astronomy, and emphasises the artistic nature
+   of Hubble images.
+
+   In addition, STScI maintains several comprehensive websites for the
+   general public containing Hubble images and information about the
+   observatory. The outreach efforts are coordinated by the Office for
+   Public Outreach, which was established in 2000 to ensure that U.S.
+   taxpayers saw the benefits of their investment in the space telescope
+   program.
+
+   The Heritage Project is granted a small amount of time to observe
+   objects which, for scientific reasons, may not have images taken at
+   enough wavelengths to construct a full colour image. In 2001, to
+   celebrate the 11th anniversary of the launch of Hubble, NASA polled
+   internet users to find out what they would most like Hubble to observe,
+   and they overwhelmingly selected the Horsehead Nebula . A Heritage
+   Project image of the nebula was released on 24 April 2001, the 11th
+   anniversary of the launch.
+
+Future
+
+Equipment failure
+
+   A WFPC2 image of a small region of the Tarantula Nebula in the Large
+   Magellanic Cloud
+   Enlarge
+   A WFPC2 image of a small region of the Tarantula Nebula in the Large
+   Magellanic Cloud
+
+   Past servicing missions have exchanged old instruments for new ones,
+   both avoiding failure and making possible new types of science. Without
+   servicing missions, all of the instruments will eventually fail. On
+   August 3, 2004, the power system of the Space Telescope Imaging
+   Spectrograph (STIS) failed, rendering the instrument inoperable. The
+   electronics had originally been fully redundant, but the first set of
+   electronics failed in May 2001. It seems unlikely that any science
+   functionality can be salvaged without a servicing mission.
+
+   Hubble uses gyroscopes to stabilize itself in orbit and point
+   accurately and steadily at astronomical targets. Normally, three
+   gyroscopes are required for operation; observations are still possible
+   with two gyros, but the area of sky that can be viewed would be
+   somewhat restricted, and observations requiring very accurate pointing
+   would be more difficult. In 2005, it was decided to switch to
+   two-gyroscope mode for regular telescope operations as a means of
+   extending the lifetime of the mission. The switch to this mode was made
+   on August 31, 2005, leaving Hubble with two gyroscopes in use and two
+   on backup. Estimates of the failure rate of the gyros indicate that
+   Hubble may be down to one gyro by 2008, after which the telescope would
+   be rendered unusable.
+
+   In addition to predicted gyroscope failure, Hubble will eventually
+   require a change of batteries. A robotic servicing mission including
+   this would be tricky, as it requires many operations, and a failure in
+   any might result in irreparable damage to Hubble. However, the
+   observatory was designed so that during Shuttle servicing missions it
+   would receive power from a connection to the Space Shuttle, and this
+   fact may be utilized by adding an external power source (an additional
+   battery) rather than changing the internal ones.
+
+   On 25 June 2006 the main camera (the ACS) stopped working. The
+   third-generation instrument had been installed by Columbia space
+   shuttle crew in 2002. It was built with a redundant set of electronics,
+   which was brought into use on 30 June, and science operations resumed
+   on 4 July. On 23 September 2006, the ACS again failed, though by 9
+   October 2006 the problem had been diagnosed and resolved.
+
+Orbital decay
+
+   Hubble orbits the Earth in the extremely tenuous upper atmosphere, and
+   over time its orbit decays due to drag. If it is not re-boosted by a
+   shuttle or other means, it will re-enter the Earth's atmosphere
+   sometime between 2010 and 2032, with the exact date depending on how
+   active the Sun is and its impact on the upper atmosphere. The state of
+   Hubble's gyros also impacts the re-entry date, as a controllable
+   telescope can be made to minimize atmospheric drag. Not all of the
+   telescope would burn up on re-entry. Parts of the main mirror and its
+   support structure would probably survive, leaving the potential for
+   damage or even human fatalities (estimated at up to a 1 in 700 chance
+   of human fatality for a completely uncontrolled re-entry).
+
+   Addition of an external propulsion module to allow controlled re-entry
+   is currently being investigated by NASA. It would not have to be
+   executed until the expected natural re-entry date, potentially as late
+   as 2030.
+
+   NASA's original plan for safely de-orbiting Hubble was to retrieve it
+   using a space shuttle (see STS-144). The Hubble telescope would then
+   have most likely been displayed in the Smithsonian Institution. The
+   problems with this method are the cost of a shuttle flight (about
+   US$500 million by some estimates) and the mandate to retire the space
+   shuttles by 2010 and risk to a shuttle's crew.
+
+Debate over final servicing mission
+
+   The Space Shuttle Columbia was originally scheduled to visit Hubble
+   again in February 2005. The tasks of this servicing mission would
+   include replacing a fine guidance sensor and two broken gyroscopes,
+   placing protective "blankets" on top of torn insulation, replacing the
+   Wide Field and Planetary Camera 2 with a new Wide Field Camera 3 and
+   installing the Cosmic Origins Spectrograph (COS). However, then-NASA
+   Administrator Sean O'Keefe decided that, in order to prevent a repeat
+   of the Columbia disaster, all future shuttles must be able to reach the
+   'safe-haven' of the International Space Station (ISS) should an
+   in-flight problem develop which would preclude the shuttle from landing
+   safely. The shuttle is incapable of reaching both HST and ISS during
+   the same mission, and so future manned service missions were cancelled.
+
+   This decision was assailed by numerous astronomers, who felt that the
+   Hubble telescope was valuable enough to merit the risk; its successor
+   the JWST will not be ready until well after the 2010 deadline to stop
+   shuttle flights, and whilst Hubble can image in the ultraviolet, JWST
+   is limited to the infra-red. However, many astronomers feel strongly
+   that the servicing of Hubble should not take place if the costs of the
+   servicing come from the JWST budget. The break in space observing
+   capabilities between the decommissioning of Hubble and the
+   commissioning of a successor is of major concern to some astronomers,
+   given the great scientific impact of many space telescope observations.
+   On 29 January 2004, Sean O'Keefe said that he would review his decision
+   to cancel the final servicing mission of the Hubble Space Telescope due
+   to public outcry and requests from Congress for NASA to look for a way
+   to save the Hubble Space Telescope.
+
+   On 13 July 2004, an official panel from the National Academy of
+   Sciences made the recommendation that the Hubble telescope be preserved
+   despite the apparent risks. Their report urged "NASA should take no
+   actions that would preclude a space shuttle servicing mission to the
+   Hubble Space Telescope". On August 11, 2004, Sean O'Keefe requested the
+   Goddard Space Flight Centre to prepare a detailed proposal for a
+   robotic service mission. It is expected that the proposal will take 12
+   months to produce—any such mission, likely to cost in excess of $1
+   billion, will not take place before 2007.
+
+   The arrival, in April 2005, of the new NASA Administrator, Mike
+   Griffin, has changed the status of both of the manned and unmanned
+   rescue missions. Griffin has stated that he will reconsider the
+   possibility of a manned servicing mission. Soon after his appointment,
+   he authorized NASA's Goddard Space Flight Centre to proceed with
+   preparing for a manned Hubble maintenance flight, saying he would make
+   the final decision on this flight after the next two shuttle missions.
+   If all goes well, Hubble will be serviced on mission STS-125, currently
+   scheduled to send Discovery to the telescope sometime in 2008. At the
+   same time, Griffin canceled plans for a robotic rescue mission, calling
+   it "not feasible."
+
+   On October 31, 2006 the final go-ahead was given for the mission by
+   NASA Administrator Mike Griffin. The 11-day mission tentatively
+   scheduled for launch during the spring to fall of 2008, will install
+   fresh batteries, fix the guidance system, and install Wide Field Camera
+   3 and the Cosmic Origin Spectrograph. Both instruments have been
+   developed and built by Ball Aerospace, Boulder, Colorado. With the
+   installation of the Wide Field Camera 3 and the Cosmic Origin
+   Spectrograph, all of the instruments on board HST will be Ball
+   Aerospace-built.
+
+Hubble Origins Probe
+
+   NASA and ESA are currently investigating building a follow-on to the
+   Hubble Space Telescope called the Hubble Origins Probe . If approved,
+   it would not be ready for launch until 2010. The probe would probably
+   use an Atlas V rocket for its ride to orbit. It would also incorporate
+   new technology into its design to reduce its weight with respect to the
+   original. The mission would be a one-time five-year run and would
+   receive no servicing from the Space Shuttle. The mission is still being
+   debated and is currently unfunded.
+   Retrieved from " http://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

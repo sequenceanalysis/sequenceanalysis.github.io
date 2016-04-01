@@ -1,0 +1,415 @@
+   #copyright
+
+OpenOffice.org
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   OpenOffice.org
+   OpenOffice.org 2.0 Writer editing a text document under Windows XP
+   Developer: Sun Microsystems in association with the community
+   Latest release: 2.0.4 / October 13, 2006
+   OS: Cross-platform
+   Use: Office suite
+   License: GNU Lesser General Public License
+   Website: http://www.openoffice.org/
+
+   OpenOffice.org is a free office suite of applications available for
+   many different operating systems including Microsoft Windows, Linux,
+   Solaris and Mac OS X. It is intended to be a compatible alternative to
+   Microsoft Office. It supports the OpenDocument standard for data
+   interchange.
+
+   OpenOffice.org is based on StarOffice, an office suite developed by
+   StarDivision and acquired by Sun Microsystems in August 1999. The
+   source code of the suite was released in July 2000 with the aim of
+   reducing the dominant market share of Microsoft Office by providing a
+   free, open and high-quality alternative. OpenOffice.org is free
+   software, available under the GNU Lesser General Public License (LGPL).
+
+   The project and software are informally referred to as "OpenOffice",
+   but project organizers report that this term is a trademark held by
+   another party, requiring them to adopt "OpenOffice.org" as its formal
+   name, and abbreviated as OOo or OO.o.
+
+Overview
+
+   OpenOffice.org 2 for Linux editing an HTML document
+   Enlarge
+   OpenOffice.org 2 for Linux editing an HTML document
+
+   According to its mission statement, the OpenOffice.org project aims "To
+   create, as a community, the leading international office suite that
+   will run on all major platforms and provide access to all functionality
+   and data through open-component based APIs and an XML-based file
+   format."
+
+   OpenOffice.org aims to compete with Microsoft Office and emulate its
+   look and feel where suitable. It can read and write most of the file
+   formats found in Microsoft Office, and many other applications; an
+   essential feature of the suite for many users. OpenOffice.org has been
+   found to be able to open files of older versions of Microsoft Office
+   and damaged files that newer versions of Microsoft Office itself cannot
+   open. However, it cannot open older Word for Macintosh (MCW) files.
+
+   The primary development platforms are Microsoft Windows, Linux and
+   Solaris. There are also ports available or in progress for Mac OS X,
+   OS/2 and many Unix-like operating systems.
+
+   Federal Computer Week issue listed OpenOffice.org as one of the "5
+   stars of open-source products." In contrast, OpenOffice.org was used by
+   The Guardian newspaper to illustrate what it claims are the limitations
+   of open-source software.
+
+   OpenOffice.org is a collection of different applications that work
+   together closely to provide the features expected from a modern office
+   suite. Many of the components are designed to mirror those available in
+   Microsoft Office. The components available include:
+     * Writer — a word processor similar in look and feel to Microsoft
+       Word and offering a comparable range of functions and tools. It
+       also includes the ability to export Portable Document Format (PDF)
+       files with no additional software, and can also function as a
+       WYSIWYG editor for creating and editing web pages. One important
+       difference between Writer and Microsoft Word is that in Writer,
+       many functions and number formats from Calc (below) are available
+       in Writer's tables. Another difference is that in Writer, automatic
+       save is off by default.
+
+     * Calc — a spreadsheet similar to Microsoft Excel with a roughly
+       equivalent range of features. Calc provides a number of features
+       not present in Excel, including a system which automatically
+       defines series for graphing, based on the layout of the user's
+       data. Calc is also capable of writing spreadsheets directly as a
+       PDF file.
+
+     * Impress — a presentation program similar to Microsoft PowerPoint.
+       It can export presentations to Adobe Flash (SWF) files allowing
+       them to be played on any computer with the Flash player installed.
+       It also includes the ability to create PDF files. Impress suffers
+       from a lack of ready-made presentation designs. However, templates
+       are readily available on the Internet.
+
+     * Base — a database program similar to Microsoft Access. Base allows
+       the creation and manipulation of databases, and the building of
+       forms and reports to provide easy access to data for end-users. As
+       with Access, Base is able to work as a front-end to a number of
+       different database systems, including Access databases (JET), ODBC
+       data sources and MySQL/ PostgreSQL. Base became part of the suite
+       starting with version 2.0.
+
+     * Draw — a vector graphics editor comparable in features to
+       CorelDRAW. It features versatile "connectors" between shapes, which
+       are available in a range of line styles and facilitate building
+       drawings such as flowcharts.
+
+     * Math — a tool for creating and editing mathematical formulae,
+       similar to Microsoft Equation Editor. Formulae can be embedded
+       inside other OpenOffice.org documents, such as those created by
+       Writer. It supports multiple fonts and can export to PDF.
+
+     * Quickstarter — a small program for Windows and Linux that runs when
+       the computer starts for the first time. It loads the core files and
+       libraries for OpenOffice.org during computer startup and allows the
+       suite applications to start more quickly when selected later. The
+       amount of time it takes to open OpenOffice.org applications was a
+       common complaint in version 1.0 of the suite, and Quickstarter was
+       a solution of sorts. Substantial improvements were made in this
+       area for version 2.0.
+
+     * The macro recorder — is used to record user actions and replay them
+       later to help with automating tasks, using OpenOffice.org Basic
+
+   It is not possible to download these components individually on
+   Windows, though they can be installed separately. Most Linux
+   distributions break the components into individual packages which may
+   be downloaded and installed separately.
+
+OpenOffice.org Basic
+
+   OpenOffice.org Basic is similar to Microsoft Visual Basic for
+   Applications (VBA) and is based on StarOffice Basic. In addition to the
+   macros, the upcoming Novell edition of OpenOffice 2.0 supports running
+   Microsoft VBA macros, a feature expected to be incorporated into the
+   mainstream version soon..
+
+   OpenOffice.org Basic is available in the Writer and Calc applications.
+
+History
+
+   CAPTION: OpenOffice.org versions
+
+      Version               Description               Release Date
+   Build 638c    The first milestone release       October 2001
+   1.0                                             May 1, 2002
+   1.0.3.1       Recommended for windows 95 users  May 2, 2003
+   1.1                                             September 2, 2003
+   1.1.3                                           October 4, 2004
+   1.1.4                                           December 22, 2004
+   1.1.5         Last release for 1.x product line September 14, 2005
+   1.1.5secpatch Security patch (macros)           July 4, 2006
+   2.0           Milestone                         October 20, 2005
+   2.0.1                                           December 21, 2005
+   2.0.2                                           March 8, 2006
+   2.0.3                                           June 29, 2006
+   2.0.4         Latest stable release             October 13, 2006
+
+   Originally developed as the proprietary software application suite
+   StarOffice by the German company StarDivision, the code was purchased
+   in 1999 by Sun Microsystems. In August 1999 version 5.2 of StarOffice
+   was made available free of charge.
+
+   On July 19, 2000, Sun Microsystems announced that it was making the
+   source code of StarOffice available for download under both the LGPL
+   and the Sun Industry Standards Source License (SISSL) with the
+   intention of building an open source development community around the
+   software. The new project was known as OpenOffice.org, and its website
+   went live on October 13, 2000.
+
+   Work on version 2.0 began in early 2003 with the following goals:
+   better interoperability with Microsoft Office; better performance, with
+   improved speed and lower memory usage; greater scripting capabilities;
+   better integration, particularly with GNOME; an easier-to-find and use
+   database front-end for creating reports, forms and queries; a new
+   built-in SQL database; and improved usability. A beta version was
+   released on March 4, 2005.
+
+   On September 2, 2005 Sun announced that it was retiring the SISSL. As a
+   consequence, the OpenOffice.org Community Council announced that it
+   would no longer dual license the office suite, and future versions
+   would use only the LGPL.
+
+   On October 20, 2005, OpenOffice.org 2.0 was formally released to the
+   public. Eight weeks after the release of Version 2.0, an update,
+   OpenOffice.org 2.0.1, was released. It fixed minor bugs and introduced
+   new features.
+
+   As of the 2.0.3 release, OpenOffice.org changed its release cycle from
+   18-months to releasing updates, feature enhancements and bug fixes
+   every three months.
+
+StarOffice
+
+   Sun subsidizes the development of OpenOffice.org in order to use it as
+   a base for its commercial StarOffice application software. Releases of
+   StarOffice since version 6.0 have been based on the OpenOffice.org
+   source code, with some additional proprietary components, including:
+     * Additional bundled fonts (especially East Asian language fonts).
+     * Adabas D database.
+     * Additional document templates.
+     * Clip art.
+     * Sorting functionality for Asian versions.
+     * Additional file filters.
+     * Migration assessment tool (Enterprise Edition).
+     * Macro migration tool (Enterprise Edition).
+     * Configuration management tool (Enterprise Edition).
+
+   OpenOffice.org, therefore, inherited many features from the original
+   StarOffice upon which it was based including the OpenOffice.org XML
+   file format which it retained until version 2, when it was replaced by
+   OpenDocument.
+
+Development
+
+Overview
+
+   The OpenOffice.org API is based on a component technology known as
+   Universal Network Objects (UNO). It consists of a wide range of
+   interfaces defined in a CORBA-like interface description language.
+
+   The document file format used is based on XML and several export and
+   import filters. All external formats read by OpenOffice.org are
+   converted back and forth from an internal XML representation. By using
+   compression when saving XML to disk, files are generally smaller than
+   the equivalent binary Microsoft Office documents. The native file
+   format for storing documents in version 1.0 was used as the basis of
+   the OASIS OpenDocument file format standard, which has become the
+   default file format in version 2.0.
+
+   Development versions of the suite are released every few weeks on the
+   developer zone of the OpenOffice.org website. The releases are meant
+   for those who wish to test new features or are simply curious about
+   forthcoming changes, they are not suitable for production use.
+
+   The project is still essentially run by StarOffice staff, and getting
+   external contributions into the core codebase is generally regarded as
+   being more difficult than with other high-profile free software
+   projects.
+
+Native desktop integration
+
+   OpenOffice.org 1.0 was criticized for the lack of look and feel of
+   native applications when comparing to the platform it is running on.
+   Starting from version 2.0, OpenOffice.org uses the native widget
+   toolkit, icons and font-rendering libraries across a variety of
+   platforms, to better match native applications and provide a smoother
+   experience for the user. There are projects underway to further improve
+   this integration on both GNOME and KDE.
+
+   OpenOffice.org can also be used on Mac OS X. A version using the Aqua
+   interface was planned for OpenOffice.org version 2, but due to
+   technical challenges, licensing complications and limited development
+   resources, the project was postponed to the OpenOffice.org 3.0 release.
+   The application has been made available in two intermediate varieties
+   that run on OS X in the meantime:
+     * OpenOffice.org Mac OS X (X11). This version requires the
+       installation of X11.app or XDarwin, and is a close port of the
+       well-tested Unix version. This version is functionally equivalent
+       to the Unix version, but its user interface has a significantly
+       different look and feel to that of purpose-designed Mac OS X
+       applications; the application uses it own menu bar instead of the
+       usual Mac OS menu attached to the top of the screen, for example.
+       Version 2.0.4 provides the X11 port with the ability to
+       conveniently use installed system fonts like other Mac OS X
+       applications, the use of cups for printing.
+
+   Current development of the Aqua version of OpenOffice.org : Native
+   OpenOffice.org (without X11)
+
+   Last screenshots, and infos about OpenOffice.org port, without X11:
+   ericb's blog
+     * NeoOffice. A fork (means derivated product) version integrates with
+       OS X by using Java, Carbon and (increasingly) Cocoa. NeoOffice
+       adheres fairly closely to OS X GUI standards (for example, using
+       native pull-down menus), and has full access to OS X's font and
+       printing subsystems. It is the work of a very small team. Its
+       releases lag slightly behind the official OpenOffice.org releases.
+
+Other projects
+
+   OpenOffice.org 2 for Windows saving a Hello World document
+   Enlarge
+   OpenOffice.org 2 for Windows saving a Hello World document
+
+   Other projects run alongside the main OpenOffice.org project and are
+   easier to contribute to. These include documentation,
+   internationalization and localization and the API.
+
+   OpenGroupware.org is a set of extension programs to allow the sharing
+   of OpenOffice.org documents, calendars, address books, e-mails, instant
+   messaging and blackboards, and provide access to other groupware
+   applications.
+
+   There is also an effort to create and share assorted document templates
+   and other useful additions at OOExtras.
+
+   A set of Perl extensions is available through the CPAN in order to
+   allow OpenOffice.org document processing by external programs. These
+   libraries do not use the OpenOffice.org API. They directly read or
+   write the OpenOffice.org files using Perl standard file
+   compression/uncompression, XML access and UTF-8 encoding modules.
+
+   A distribution of OpenOffice.org called "Portable OpenOffice.org" is
+   designed to run the suite from a USB flash drive.
+
+   For version 2.04, OpenOffice.org should, in a manner similar to Mozilla
+   Firefox, support extensions.
+
+Security
+
+   As of September 26, 2006, the security site Secunia reports no known
+   security flaws for OOo 2.x. Kaspersky Lab has shown a proof of concept
+   virus for OpenOffice.org. This shows OOo viruses are possible, but
+   there is no known virus "in the wild".
+
+   In a private meeting of the French Ministry of Defense, additional
+   macro-related security issues were raised. OpenOffice.org developers
+   have responded by noting there has been no published vulnerability, but
+   have been in talks with the researcher to fix the vulnerability.
+
+Reactions
+
+Market share
+
+   Although Microsoft Office retains 95% of the general market,
+   OpenOffice.org and StarOffice have secured 14% of the large enterprise
+   market as of 2004. The OpenOffice.org web site reports more than 62.5
+   million downloads.
+
+   Large scale users of OpenOffice.org include Singapore's Ministry of
+   Defense, and Bristol City Council in the UK. In France, OpenOffice.org
+   has attracted the attention of both local and national government
+   administrations who wish to rationalize their software procurement, as
+   well as have stable, standard file formats for archival purposes. It is
+   now the official office suite for the French Gendarmerie. It may also
+   be noted that the Supreme Court of India, which uses Linux, completely
+   relies on OpenOffice.org.
+
+   On October 4, 2005, Sun and Google announced a strategic partnership.
+   As part of this agreement, Sun will add a Google search bar to
+   OpenOffice.org, Sun and Google will engage in joint marketing
+   activities as well as joint research and development, and Google will
+   help distribute OpenOffice.org.
+
+   Besides StarOffice, there are still a number of OpenOffice.org derived
+   commercial products. Most of them are developed under SISSL license
+   (which is valid up to OpenOffice.org 2.0 Beta 2). In general they are
+   targeted at local or niche market, with proprietary add-ons such as
+   speech recognition module, automatic database connection, or better CJK
+   support.
+
+Java controversy
+
+   Version 1 depended on a Java Runtime Environment (JRE) being present on
+   the user's computer for some auxiliary functions, but version 2
+   increased the suite's use of the programming platform. The following
+   areas of OpenOffice.org 2.0 depend on a JRE being present:
+     * The media player on Unix-like systems
+     * All document wizards in Writer
+     * Accessibility tools
+     * Report Autopilot
+     * JDBC driver support
+     * HSQL database engine, which is used in OpenOffice.org base
+     * XSLT filters
+     * BeanShell, the NetBeans scripting language and the Java UNO bridge
+     * Export filters to the Aportis.doc (.pdb) format for the Palm OS or
+       Pocket Word (.psw) format for the Pocket PC
+     * Export filter to LaTeX
+
+   The dependency on an installed JRE had drawn criticism from advocates
+   of free software, as the JRE generally available for desktop platforms
+   was, at the time, a proprietary application bundle, thus undercutting
+   the principles of freedom advocated by such groups. The fact that Sun
+   Microsystems is both the creator of Java and the chief supporter of
+   OpenOffice.org has drawn accusations of ulterior motives for this
+   technology choice.
+
+   The issue of OpenOffice.org's use of Java came to the fore in May 2005,
+   when Richard Stallman appeared to call for a fork of the application in
+   a posting on the Free Software Foundation website. This led to
+   discussions within the OpenOffice.org community and between Sun staff
+   and developers involved in GNU Classpath, a free replacement for Sun's
+   Java implementation, in which it was determined that all necessary
+   steps were in place to ensure that key OpenOffice.org uses of the Java
+   platform would be supported in GCJ and Classpath.
+
+   Fedora Core 4 (released on June 13, 2005) included a beta version of
+   OpenOffice.org version 2, running on GCJ and GNU Classpath. This
+   demonstrated that the use of Java did not need to be a barrier to the
+   use of OpenOffice.org on free software platforms. When 2.0 stable was
+   released, the same continued. The OpenOffice.org developers also placed
+   into their development guidelines various requirements to ensure that
+   future versions of OpenOffice.org could be run on free implementations
+   of Java.
+
+   Sun Microsystems announced in May 2006 that it intended to release the
+   Java platform under an open-source license. On November 13, 2006, Sun
+   released javac, JavaHelp, and the Java HotSpot virtual machine as Free/
+   Open Source software, under the GNU General Public License. They
+   reiterated that they intend to do the same for most of the rest of the
+   Java implementations.
+
+   A common point of confusion is that mail merge to generate emails
+   requires the Java API JavaMail in StarOffice; however, as of version
+   2.0.1, OpenOffice.org uses a Python-component instead.
+
+Trivia
+
+   OpenOffice.org includes several Easter eggs, including some quite fully
+   fledged games: a version of Space Invaders is playable by entering a
+   cheat code into a cell in Calc, as is a version of Tic-tac-toe, and the
+   names and picture of the OpenOffice.org Calc developer team.
+
+   Retrieved from " http://en.wikipedia.org/wiki/OpenOffice.org"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

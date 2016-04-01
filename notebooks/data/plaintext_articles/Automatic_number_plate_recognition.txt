@@ -1,0 +1,514 @@
+   #copyright
+
+Automatic number plate recognition
+
+2007 Schools Wikipedia Selection. Related subjects: Road transport
+
+
+   This is a featured article. Click here for more information.
+   The system must be able to deal with different styles of licence plates
+   Enlarge
+   The system must be able to deal with different styles of licence plates
+
+   Automatic number plate recognition (ANPR; see also other names below)
+   is a mass surveillance method that uses optical character recognition
+   on images to read the licence plates on vehicles. As of 2006, systems
+   can scan number plates at around one per second on cars travelling up
+   to 100 mph (160 km/h). They can use existing closed-circuit television
+   or road-rule enforcement cameras, or ones specifically designed for the
+   task. They are used by various police forces and as a method of
+   electronic toll collection on pay-per-use roads, and monitoring traffic
+   activity such as red light adherence in an intersection.
+
+   ANPR can be used to store the images captured by the cameras as well as
+   the text from the licence plate, with some configurable to store a
+   photograph of the driver. Systems commonly use infrared lighting to
+   allow the camera to take the picture at any time of day. A powerful
+   flash is included in at least one version of the
+   intersection-monitoring cameras, serving to both illuminate the picture
+   and make the offender aware of his or her mistake. ANPR technology
+   tends to be region specific, owing to plate variation from place to
+   place.
+
+   The software aspect of the system runs on standard PC hardware and can
+   be linked to other applications or databases. It first uses a series of
+   image manipulation techniques to detect, normalise and enhance the
+   image of the number plate, and finally optical character recognition
+   (OCR) to extract the alphanumerics of the licence plate. ANPR/ALPR
+   systems are generally deployed in one of two basic approaches; one
+   allows for the entire process to be performed at the lane location in
+   real-time, the other transmits all the images from many lanes to a
+   remote computer location and performs the OCR process there at some
+   later point in time. When done at the lane site, the information
+   captured of the plate alphanumeric, date-time, lane identification, and
+   any other information that is required is completed in somewhere around
+   250 milliseconds. This information, now small data packets, can easily
+   be transmitted to some remote computer for further processing if
+   necessary, or stored at the lane for later retrieval. In the other
+   arrangement there are typically large numbers of PCs used in a server
+   farm to handle high workloads, such as those found in the London
+   congestion charge project. Often in such systems there is a requirement
+   to forward images to the remote server and this can require larger
+   bandwidth transmission mediums.
+
+   Concerns about these systems have centered on privacy fears of
+   government tracking citizens' movements and media reports of
+   misidentification and high error rates. However, as they have
+   developed, the systems have become much more accurate and reliable.
+
+Other names
+
+   ANPR is sometimes known by various other terms:
+     * Automatic licence plate recognition (ALPR)
+     * Automatic vehicle identification (AVI)
+     * Car plate recognition (CPR)
+     * Licence plate recognition (LPR)
+
+Technology
+
+   The font on Dutch plates was changed to improve plate recognition
+   The font on Dutch plates was changed to improve plate recognition
+
+   ANPR uses optical character recognition (OCR) on images taken by
+   cameras. When Dutch vehicle registration plates switched to a different
+   style in 2002 one of the changes made was to the font, introducing
+   small gaps in some letters (such as P and R) to make them more distinct
+   and therefore more legible to such systems. Some licence plate
+   arrangements use variations in font sizes and positioning – ANPR
+   systems must be able to cope with such differences in order to be truly
+   effective. More complicated systems can cope with international
+   variants, though many programs are individually tailored to each
+   country.
+
+   The cameras used can include existing road-rule enforcement or
+   closed-circuit television cameras as well as mobile units which are
+   usually attached to vehicles. Some systems use infrared cameras to take
+   a clearer image of the plates.
+
+Algorithms
+
+   Steps 2, 3 and 4: The licence plate is normalised for brightness and
+   contrast and then the characters are segmented ready for OCR
+   Enlarge
+   Steps 2, 3 and 4: The licence plate is normalised for brightness and
+   contrast and then the characters are segmented ready for OCR
+
+   There are six primary algorithms that the software requires for
+   identifying a licence plate:
+    1. Plate localisation – responsible for finding and isolating the
+       plate on the picture
+    2. Plate orientation and sizing – compensates for the skew of the
+       plate and adjusts the dimensions to the required size
+    3. Normalisation – adjusts the brightness and contrast of the image
+    4. Character segmentation – finds the individual characters on the
+       plates
+    5. Optical character recognition
+    6. Syntactical/Geometrical analysis – check characters and positions
+       against country specific rules
+
+   The complexity of each of these subsections of the program determines
+   the accuracy of the system. During the third phase (normalisation) some
+   systems use edge detection techniques to increase the picture
+   difference between the letters and the plate backing. A median filter
+   may also be used to reduce the visual "noise" on the image.
+
+Difficulties
+
+   There are a number of possible difficulties that the software must be
+   able to cope with. These include:
+     * Poor image resolution, usually because the plate is too far away
+       but sometimes resulting from the use of a low-quality camera.
+     * Blurry images, particularly motion blur
+     * Poor lighting and low contrast due to overexposure, reflection or
+       shadows
+     * An object obscuring (part of) the plate, quite often a tow bar, or
+       dirt on the plate
+     * A different font, popular for vanity plates (some countries do not
+       allow such plates, eliminating the problem)
+     * Circumvention techniques
+
+   Early ANPR systems were unable to read white or silver lettering on
+   black background, as permitted on UK vehicles built prior to 1973.
+   Enlarge
+   Early ANPR systems were unable to read white or silver lettering on
+   black background, as permitted on UK vehicles built prior to 1973.
+
+   While some of these problems can be corrected within the software it is
+   primarily left to the hardware side of the system to work out solutions
+   to these difficulties. Increasing the height of the camera may avoid
+   problems with objects (such as other vehicles) obscuring the plate, but
+   introduces and increases other problems such as the adjusting for the
+   increased skew of the plate.
+
+   Many countries now use licence plates that are retroreflective . This
+   returns the light back to the source and thus improves the contrast of
+   the image. In some countries, the characters on the plate are not
+   reflective, giving a high level of contrast with the reflective
+   background in any lighting conditions. A camera that makes use of
+   infrared imaging (with a normal colour filter over the lens and an
+   infrared light-source next to it) benefits greatly from this as the
+   infrared waves are reflected back from the plate. This is only possible
+   on dedicated ANPR cameras, however, and so cameras used for other
+   purposes must rely more heavily on the software capabilities. Further,
+   when a full-colour image is required as well as use of the
+   ANPR-retrieved details it is necessary to have one infrared-enabled
+   camera and one normal (colour) camera working together.
+   Blurry images make OCR difficult – ANPR systems should have fast
+   shutter speeds to avoid motion blur
+   Enlarge
+   Blurry images make OCR difficult – ANPR systems should have fast
+   shutter speeds to avoid motion blur
+
+   To avoid blurring it is ideal to have the shutter speed of a dedicated
+   camera set to 1/1000th of a second. Because the car is moving, slower
+   speeds could result in an image which is too blurred to read using the
+   OCR software, especially if the camera is much higher up than the
+   vehicle. In slow-moving traffic, or when the camera is at a lower level
+   and the vehicle is at an angle approaching the camera, the shutter
+   speed does not need to be so fast. Shutter speeds of 1/500 can cope
+   with traffic moving up to 40 mph (64 km/h) and 1/250 up to 5 mph (8
+   km/h).
+
+   On some cars, towbars may obscure one or two characters of the licence
+   plate. Bikes on bike racks can also obscure the number plate, though in
+   some countries and jurisdictions, such as New South Wales, "bike
+   plates" are supposed to be fitted.
+
+   Some small-scale systems allow for some errors in the licence plate.
+   When used for giving specific vehicles access to a barriered area the
+   decision may be made to have an acceptable error rate of one character.
+   This is because the likelihood of an unauthorised car having such a
+   similar licence plate is seen as quite small. However, this level of
+   inaccuracy would not be acceptable in most applications of an ANPR
+   system.
+
+Circumvention techniques
+
+   Vehicle owners have used a variety of techniques in an attempt to evade
+   ANPR systems and road-rule enforcement cameras in general. One method
+   increases the reflective properties of the lettering and makes it more
+   likely that the system will be unable to locate the plate or produce a
+   high enough level of contrast to be able to read it. This is typically
+   done by using a plate cover or a spray, though claims regarding the
+   effectiveness of the latter are disputed. In most jurisdictions, the
+   covers are illegal and covered under existing laws, while in most
+   countries there is no law to disallow the use of the sprays.
+
+   For the 407 toll route in Ontario, Canada, police have caught several
+   advanced techniques that some motorists have attempted. One driver had
+   a setup that allowed him to lift a wire from the driver's seat that
+   would show a different plate as he was cruising through the camera
+   zones. Other users have attempted to smear their licence plate with
+   dirt or utilise covers to mask the plate.
+
+   Novelty frames around Texas licence plates were made illegal on 1
+   September 2003 by Senate Bill 439 because they caused problems with
+   ANPR devices. That law made it a Class C misdemeanour (punishable by a
+   fine of up to US$200), or Class B (punishable by a fine of up to
+   US$2,000 and 180 days in jail) if it can be proven that the owner did
+   it to deliberately obscure their plates.
+
+   There are some custom car rear panels with an inset for the licence
+   plate at an angle, which changes the alignment of characters relative
+   to the reading grid. Since most U.S. states no longer require new
+   plates each year, perhaps the easiest way to disable recognition is
+   simply to allow the reflective paint on the plates to become degraded
+   by age and therefore unreadable.
+
+   If an ANPR system cannot read the plate it can flag the image for
+   attention, with the human operators looking to see if they are able to
+   identify the alphanumerics. It is then possible to do lookups on a
+   database using wildcard characters for any part of the plate obscured,
+   and use car details (make and model, for example) to refine the search.
+
+   In order to avoid surveillance or penalty charges, there has been an
+   upsurge in car cloning, particularly in London. This is usually
+   achieved by copying registration plates from another car of a similar
+   model and age. This can be difficult to detect, especially as cloners
+   may change the registration plates and travel behaviour to hinder
+   investigations.
+
+Police enforcement
+
+   Closed-circuit television cameras such as these can be used to take the
+   images scanned by automatic number plate recognition systems
+   Enlarge
+   Closed-circuit television cameras such as these can be used to take the
+   images scanned by automatic number plate recognition systems
+
+   After the licence plate has been identified it can then be
+   cross-referenced against a police database. The primary objectives of
+   this are to identify vehicles that have been stolen, used in a crime or
+   are in violation of some other law. Some systems are also linked to
+   insurance databases to monitor if the vehicle is currently insured.
+
+   On 18 November 2005 British police constable Sharon Beshenivsky was
+   shot and killed during a robbery in Bradford. The CCTV network was
+   linked in to an ANPR system and was able to identify the getaway car
+   and track its movements, leading to the arrest of six suspects. At its
+   launch in May, Ch Supt Geoff Dodd of West Yorkshire Police, called the
+   ANPR system a "revolutionary tool in detecting crime".
+
+Glutton System in Northern Ireland
+
+   In 1997 a system of one hundred ANPR cameras, codenamed GLUTTON, was
+   installed to feed into the automated British Military Intelligence
+   Systems in Northern Ireland. Further cameras were also installed on the
+   British mainland, including unspecified ports on the east and west
+   coasts.
+
+Project Laser in the United Kingdom
+
+   In March 2005, plans were announced to set up a nationwide system of
+   over 2,000 automatic number plate recognition cameras in the United
+   Kingdom. Starting in 2006 Britain will become the first country in
+   which every journey of every vehicle is monitored and recorded.
+
+   This followed the successful rollout of Project Spectrum in which all
+   43 Police Forces in England and Wales were supplied by the Home Office
+   with an ANPR capable mobile unit, and a 'Back Office'. A subsequent
+   series of trials were then commenced in 2002 when the Vehicle and
+   Operator Services Agency (VOSA) was given funding by the Home Office to
+   work with the Police Standards Unit and develop "Project Laser" using
+   the equipment supplied under Project Spectrum. With the aim of running
+   the ANPR system nationwide, it was initially trialled by nine police
+   forces and ran between 30 September 2002 and March 2003. Those police
+   forces were:
+     * Greater Manchester
+     * North Wales
+     * Avon and Somerset
+     * Northamptonshire
+     * The Metropolitan Police Service
+     * Kent
+     * West Yorkshire
+     * Staffordshire
+     * West Midlands.
+
+   The second phase of the project ran between 1 June 2003 and 21 June
+   2004 and involved 23 police forces in total. The DVLA is also involved
+   with Project Laser, using the system to gather details on unregistered
+   and unlicensed vehicles and those without a valid MOT certificate or
+   insurance cover.
+
+     "Eventually the database will link to most CCTV systems in town
+     centres, meaning that all vehicles filmed on one of the many cameras
+     protecting Bedford High Street, for instance, can be checked against
+     the database and the movements of wanted cars traced to help with
+     serious crime investigations."
+     — Bedfordshire Police
+
+   The project was seen as a success despite a Home Office report showing
+   that the Driver and Vehicle Licensing Agency (DVLA) trial had an error
+   rate of up to 40%, with claims that the system was contributing
+
+     "…in excess of 100 arrests per officer per year – ten times the
+     national average…"
+     — Police Standards Unit.
+
+   Further findings went on to show that the error rate dropped to 5% when
+   infrared systems and updated software were used.
+
+   During the second phase of the project around 28 million number plates
+   were spotted in total, with 1.1 million (3.9%) of these matching an
+   entry in one of the databases. 180,543 vehicles were stopped (101,775
+   directly because of the ANPR system), leading to 13,499 arrests (7.5%
+   of the total) and the issue of 50,910 fines (28.2%). 1,152 stolen
+   vehicles (worth £7.5 million in total), £380,000 worth of drugs and
+   £640,000 worth of stolen goods were also recovered. The primary goal of
+   the second phase was, however, to see how well the costs of the ANPR
+   system could be covered. The final conclusion was that less than 10% of
+   the expenditure incurred was recouped, with the Home Office claiming
+   that the failure of drivers to pay fines contributed to this low
+   figure, and continued to recommend the system be deployed throughout
+   the UK. Report (PDF)
+
+   Funding is now in place for the construction of the National ANPR Data
+   Centre capable of holding 50 million ANPR reads per day. This should be
+   complete by March 2006 and will form the basis of a vehicle movement
+   database. .
+
+   There are now suggestions that the use of the network could be extended
+   to catch drivers using mobile phones illegally, and those failing to
+   wear seat belts .
+
+SPECS cameras
+
+   Another use for ANPR in the UK is for speed cameras which work by
+   tracking vehicles' travel time between two fixed points, and therefore
+   calculate the average speed. Currently the only such system which is
+   accepted as reliable by the courts is the SPECS brand. These cameras
+   are claimed to have an advantage over traditional speed cameras in
+   maintaining steady legal speeds over extended distances, rather than
+   encouraging heavy braking on approach to specific camera locations and
+   subsequent acceleration back to illegal speeds. Accident rates have
+   tended to be reduced substantially in places where SPECS cameras have
+   been installed. They are, however, significantly more expensive than
+   traditional cameras.
+
+   The longest stretch of SPECS cameras in the UK is found on the A77 road
+   in Scotland, with 30 miles being monitored between Glasgow and Ayr.
+
+Traffic control
+
+   Many cities and districts have developed traffic control systems to
+   help monitor the movement and flow of vehicles around the road network.
+   This had typically involved looking at historical data, estimates,
+   observations and statistics such as:
+     * Car park usage
+     * Pedestrian crossing usage
+     * Number of vehicles along a road
+     * Areas of low and high congestion
+     * Frequency, location and cause of road works
+
+   CCTV cameras can be used to help traffic control centres by giving them
+   live data, allowing for traffic management decisions to be made in
+   real-time. By using ANPR on this footage it is possible to monitor the
+   travel of individual vehicles, automatically providing information
+   about the speed and flow of various routes. These details can highlight
+   problem areas as and when they occur and helps the centre to make
+   informed incident management decisions.
+
+   Some counties of the United Kingdom have worked with Siemens Traffic to
+   develop traffic monitoring systems for their own control centres and
+   for the public. Projects such as Hampshire County Council's ROMANSE
+   provide an interactive and real-time web site showing details about
+   traffic in the city. The site shows information about car parks,
+   ongoing road works, special events and footage taken from CCTV cameras.
+   ANPR systems can be used to provide average driving times along
+   particular routes, giving drivers the ability to choose which one to
+   take. ROMANSE also allows travellers to see the current situation using
+   a mobile device with an Internet connection (such as WAP, GPRS or 3G),
+   thus allowing them to be alerted to any problems that are ahead.
+
+   The UK company Trafficmaster has used ANPR since 1998 to estimate
+   average traffic speeds on non-motorway roads without the results being
+   skewed by local fluctuations caused by traffic lights and similar. The
+   company now operates a network of over 4000 ANPR cameras , but claims
+   that only the four most central digits are identified, and no
+   numberplate data is retained .
+
+Electronic toll collection
+
+Toll roads
+
+   The FasTrak system in Orange County uses ANPR and radio transponders
+   Enlarge
+   The FasTrak system in Orange County uses ANPR and radio transponders
+
+   Ontario's 407 ETR highway uses a combination of ANPR and radio
+   transponders to toll vehicles entering and exiting the road. Radio
+   antennas are located at each junction and detect the transponders,
+   logging the unique identity of each vehicle in much the same way as the
+   ANPR system does. Without ANPR as a second system it would not be
+   possible to monitor all the traffic. Drivers who opt to rent a
+   transponder for C$2.00 per month are not charged the "Video Toll
+   Charge" of C$3.45 for using the road, with heavy vehicles (those with a
+   gross weight of over 5,000 kg) being required to use one. Using either
+   system, users of the highway are notified of the usage charges by post.
+
+   There are numerous other electronic toll collection networks which use
+   this combination of Radio frequency identification and ANPR. These
+   include:
+     * CityLink in Melbourne, Australia
+     * FasTrak in California, United States
+     * Highway 6 in Israel
+     * Tunnels in Hong Kong
+     * Autopista Central in Santiago, Chile (site in Spanish)
+     * E-ZPass in New York, New Jersey, Massachusetts (as Fast Lane), and
+       other States.
+     * Pike Pass in Oklahoma.
+
+Charge zones – the London congestion charge
+
+   The London congestion charge scheme uses two hundred and thirty cameras
+   and ANPR to help monitor vehicles in the charging zone
+   Enlarge
+   The London congestion charge scheme uses two hundred and thirty cameras
+   and ANPR to help monitor vehicles in the charging zone
+
+   The London congestion charge is an example of a system that charges
+   motorists entering a payment area. Transport for London (TfL) uses ANPR
+   systems and charges motorists a daily fee of £8 paid before 10pm if
+   they enter, leave or move around within the congestion charge zone
+   between 7 a.m. and 6:30 p.m., Monday to Friday. Fines for travelling
+   within the zone without paying the charge are £50 per infraction if
+   paid before the deadline, doubling to £100 per infraction thereafter.
+
+   Two hundred and thirty CCTV-style cameras, of which 180 are installed
+   at the edge of the zone, are currently in use. The 50 cameras within
+   the zone are intended to pick up cars that are missed on entry and/or
+   exit, as well as those that are moving solely within the zone. There
+   are also a number of mobile camera units which may be deployed anywhere
+   in the zone.
+
+   It is estimated that around 98% of vehicles moving within the zone are
+   caught on camera. The video streams are transmitted to a data centre
+   located in central London where the ANPR software deduces the
+   registration plate of the vehicle. A second data centre provides a
+   backup location for image data.
+
+   Both front and back number plates are being captured, on vehicles going
+   both in and out – this gives up to four chances to capture the number
+   plates of a vehicle entering and exiting the zone. This list is then
+   compared with a list of cars whose owners/operators have paid to enter
+   the zone – those that have not paid are fined. The registered owner of
+   such a vehicle is looked up in a database provided by the DVLA. A
+   government investigation has found that a significant portion of the
+   DVLA's database is incorrect. Furthermore, it is now the car owner's
+   reponsibility to report to the DVLA if they sell their car.
+
+Controversy
+
+   The introduction of ANPR systems has led to fears of misidentification
+   and the furthering of 1984-style surveillance . In the United States,
+   some such as Gregg Easterbrook oppose what they call "machines that
+   issue speeding tickets and red-light tickets" as the beginning of a
+   slippery slope towards an automated justice system:
+
+          "A machine classifies a person as an offender, and you can't
+          confront your accuser because there is no accuser... can it be
+          wise to establish a principle that when a machine says you did
+          something illegal, you are presumed guilty?"
+
+   Similar criticisms have been raised in other countries. Easterbrook
+   also argues that this technology is employed to maximise revenue for
+   the state, rather than to promote safety.
+
+   The fallibility of older systems was alarming, with one critic of the
+   London congestion charge scheme noting "Misread plate after misread
+   plate appeared on the screen – of every 10 that appeared at least four
+   were incorrect." This can lead to charges being made incorrectly with
+   the vehicle owner having to pay £10 in order to be issued with proof
+   (or not) of the offence. Improvements in technology have drastically
+   decreased error rates, but false accusations are still frequent enough
+   to be a problem.
+
+   Other concerns include the storage of information that could be used to
+   identify people and store details about their driving habits and daily
+   life, contravening the Data Protection Act along with similar
+   legislation (see personally identifiable information). The laws in the
+   UK are strict for any system that uses CCTV footage and can identify
+   individuals.
+
+Other uses
+
+   ANPR systems may also be used for/by:
+     * Section control, to measure average vehicle speed over longer
+       distances
+     * Border crossings
+     * Filling stations to log when a driver drives away without paying
+     * Car parks or road entry systems to control access
+     * A marketing tool to log patterns of use
+     * Traffic management systems, which determine traffic flow using the
+       time it takes vehicles to pass two ANPR sites
+     * Traffic management systems, which determine traffic flow using the
+       time it takes vehicles to pass two ANPR sites
+     * - How ANPR can be used
+     * - Where ANPR can be used
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Automatic_number_plate_recognition"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,544 @@
+   #copyright
+
+Radio
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   Amateur Radio Station with multiple Receivers and Tranceivers
+   Amateur Radio Station with multiple Receivers and Tranceivers
+
+   Radio is the wireless transmission of signals, by modulation of
+   electromagnetic waves with frequencies below those of visible light.
+
+   Electromagnetic radiation travels by means of oscillating
+   electromagnetic fields that pass through the air and the vacuum of
+   space. It does not require a medium of transport. Information is
+   carried by systematically changing ( modulating) some property of the
+   radiated waves, such as their amplitude or their frequency. When radio
+   waves pass an electrical conductor, the oscillating fields induce an
+   alternating current in the conductor. This can be detected and
+   transformed into sound or other signals that carry information.
+
+   The word 'radio' is used to describe this phenomenon, and television
+   and radio transmissions are classed as radio frequency emissions.
+
+Etymology
+
+   Originally, radio or radioteleography was called 'wireless telegraphy',
+   which was shortened to 'wireless'. The prefix radio- in the sense of
+   wireless transmission was first recorded in the word radioconductor,
+   coined by the French physicist Edouard Branly in 1897 and based on the
+   verb to radiate (in Latin "radius" means "spoke of a wheel, beam of
+   light, ray"). 'Radio' as a noun is said to have been coined by
+   advertising expert Waldo Warren (White 1944). The word appears in a
+   1907 article by Lee de Forest, was adopted by the United States Navy in
+   1912 and became common by the time of the first commercial broadcasts
+   in the United States in the 1920s. (The noun 'broadcasting' itself came
+   from an agricultural term, meaning 'scattering seeds'.) The American
+   term was then adopted by other languages in Europe and Asia, although
+   British Commonwealth countries retained the term 'wireless' until the
+   mid-20th century. In Japanese, the term 'wireless' is the basis for the
+   term 'radio wave' although the term for the device that listens to
+   radio waves is literally 'device for receiving sounds'.
+
+   In recent years the term 'wireless' has gained renewed popularity
+   through the rapid growth of short range networking, e.g. WLAN
+   ('Wireless Local Area Network'), WiFi, Bluetooth as well as mobile
+   telephony, e.g. GSM and UMTS. Today, the term 'radio' often refers to
+   the actual transceiver device or chip, whereas 'wireless' refers to the
+   system and/or method used for radio communication. Hence one talks
+   about radio transceivers and Radio Frequency Identification ( RFID),
+   but about wireless devices and wireless sensor networks.
+
+Invention
+
+   The identity of the original inventor of radio, at the time called
+   wireless telegraphy, is contentious. Development from a laboratory
+   demonstration to commercial utility spanned several decades and
+   required the efforts of many practitioners. The controversy over who
+   invented the radio, with the benefit of hindsight, can be broken down
+   as follows:
+     * In 1878, David E. Hughes transmitted Morse code by radio at and
+       below the Super low frequency range (via a clockwork transmitter).
+
+     * In 1888, Heinrich Hertz produced and measured the Ultra High
+       Frequency range (via a sparkgap transmitter).
+
+     * In 1891, Nikola Tesla began wireless research. He developed means
+       to reliably produce radio frequencies, publicly demonstrated the
+       principles of radio, and transmitted long-distance signals. He
+       obtained a U.S. patent for the invention of the radio, as defined
+       as "wireless transmission of data."
+
+     * Between 1893 and 1894, Roberto Landell de Moura, a Brazilian priest
+       and scientist, conducted experiments. He did not publicise his
+       achievement until 1900 but later obtained Brazilian and American
+       patents.
+
+     * In 1894 in Kolkata (Calcutta), Sir Jagdish Chandra Bose (J. C.
+       Bose) invented the Mercury Coherer (together with the telephone
+       receiver), later used by Guglielmo Marconi to receive the radio
+       signal in his first transatlantic radio communication over a
+       distance of 2000 miles from Poldhu, UK to Newfoundland, St. Johns
+       in December 1901. Guglielmo Marconi was celebrated worldwide for
+       this achievement, but the fact that the receiver was invented by
+       Bose was not well known.
+
+     * Alexander Stepanovich Popov, in 1894, built his first radio
+       receiver, which contained a coherer but actually coherer was first
+       demonstrated by J.C. Bose. Further refined as a lightning detector,
+       he presented it to the Russian Physical and Chemical Society on May
+       7, 1895.
+
+     * Guglielmo Marconi was an early radio experimenter. But although
+       frequently regarded as the true inventor of the radio, the coherer
+       used by him was actually developed by J.C. Bose, who was ignored at
+       the time.
+     * Reginald Fessenden []and Lee de Forest invented amplitude-modulated
+       ( AM) radio, so that more than one station can send signals (as
+       opposed to spark-gap radio, where one transmitter covers the entire
+       bandwidth of the spectrum).
+
+     * Edwin H. Armstrong invented frequency-modulated ( FM) radio, so
+       that an audio signal can avoid "static," that is, interference from
+       electrical equipment and atmospherics.
+
+Brief history
+
+   In 1893, in St. Louis, Missouri, Tesla made devices for his experiments
+   with electricity. Addressing the Franklin Institute in Philadelphia and
+   the National Electric Light Association, he described and demonstrated
+   in detail the principles of his wireless work. The descriptions
+   contained all the elements that were later incorporated into radio
+   systems before the development of the vacuum tube. He initially
+   experimented with magnetic receivers, unlike the coherers (detecting
+   devices consisting of tubes filled with iron filings which had been
+   invented by Temistocle Calzecchi-Onesti at Fermo in Italy in 1884) used
+   by Guglielmo Marconi and other early experimenters. .
+
+   In 1896, Marconi was awarded the British patent 12039, Improvements in
+   transmitting electrical impulses and signals and in apparatus
+   there-for, for radio. In 1897 he established the world's first radio
+   station on the Isle of Wight, England. Marconi opened the world's first
+   "wireless" factory in Hall Street, Chelmsford, England in 1898,
+   employing around 50 people.
+
+   The next great invention was the vacuum tube detector, invented by the
+   Westinghouse engineers. On Christmas Eve, 1906, Reginald Fessenden used
+   a synchronous rotary-spark transmitter for the first radio program
+   broadcast, from Brant Rock, Massachusetts. Ships at sea heard a
+   broadcast that included Fessenden playing O Holy Night on the violin
+   and reading a passage from the Bible. The first radio news program was
+   broadcast August 31, 1920 by station 8MK in Detroit, Michigan. The
+   first college radio station, 2ADD, renamed WRUC in 1940, began
+   broadcasting October 14, 1920 from Union College, Schenectady, New
+   York. The first regular entertainment broadcasts commenced in 1922 from
+   the Marconi Research Centre at Writtle, near Chelmsford, England.
+
+   One of the first developments in the early 20th century (1900-1959) was
+   that aircraft used commercial AM radio stations for navigation. This
+   continued until the early 1960s when VOR systems finally became
+   widespread (though AM stations are still marked on U.S. aviation
+   charts). In the early 1930s, single sideband and frequency modulation
+   were invented by amateur radio operators. By the end of the decade,
+   they were established commercial modes. Radio was used to transmit
+   pictures visible as television as early as the 1920s. Commercial
+   television transmissions started in North America and Europe in the
+   1940s. In 1954, Regency introduced a pocket transistor radio, the TR-1,
+   powered by a "standard 22.5 V Battery".
+
+   In 1960, Sony introduced its first transistorized radio, small enough
+   to fit in a vest pocket, and able to be powered by a small battery. It
+   was durable, because there were no tubes to burn out. Over the next 20
+   years, transistors replaced tubes almost completely except for very
+   high-power uses. By 1963 colour television was being regularly
+   transmitted commercially, and the first (radio) communication
+   satellite, TELSTAR, was launched. In the late 1960s, the U.S.
+   long-distance telephone network began to convert to a digital network,
+   employing digital radios for many of its links. In the 1970s, LORAN
+   became the premier radio navigation system. Soon, the U.S. Navy
+   experimented with satellite navigation, culminating in the invention
+   and launch of the GPS constellation in 1987. In the early 1990s,
+   amateur radio experimenters began to use personal computers with audio
+   cards to process radio signals. In 1994, the U.S. Army and DARPA
+   launched an aggressive, successful project to construct a software
+   radio that could become a different radio on the fly by changing
+   software. Digital transmissions began to be applied to broadcasting in
+   the late 1990s.
+
+Uses of radio
+
+   Early uses were maritime, for sending telegraphic messages using Morse
+   code between ships and land. The earliest users included the Japanese
+   Navy scouting the Russian fleet during the Battle of Tsushima in 1905.
+   One of the most memorable uses of marine telegraphy was during the
+   sinking of the RMS Titanic in 1912, including communications between
+   operators on the sinking ship and nearby vessels, and communications to
+   shore stations listing the survivors.
+
+   Radio was used to pass on orders and communications between armies and
+   navies on both sides in World War I; Germany used radio communications
+   for diplomatic messages once its submarine cables were cut by the
+   British. The United States passed on President Woodrow Wilson's
+   Fourteen Points to Germany via radio during the war. Broadcasting began
+   from San Jose in 1909 , and became feasible in the 1920s, with the
+   widespread introduction of radio receivers, particularly in Europe and
+   the United States. Besides broadcasting, point-to-point broadcasting,
+   including telephone messages and relays of radio programs, became
+   widespread in the 1920s and 1930s. Another use of radio in the pre-war
+   years was the development of detecting and locating aircraft and ships
+   by the use of radar (RAdio Detection And Ranging).
+
+   Today, radio takes many forms, including wireless networks, mobile
+   communications of all types, as well as radio broadcasting. Before the
+   advent of television, commercial radio broadcasts included not only
+   news and music, but dramas, comedies, variety shows, and many other
+   forms of entertainment. Radio was unique among dramatic presentation
+   that it used only sound. For more, see radio programming.
+
+Audio
+
+   A Fisher 500 AM/FM hi-fi receiver from 1959.
+   A Fisher 500 AM/FM hi-fi receiver from 1959.
+
+   AM broadcast radio sends music and voice in the Medium Frequency
+   (MF—0.300 MHz to 3 MHz) radio spectrum. AM radio uses amplitude
+   modulation, in which the amplitude of the transmitted signal is made
+   proportional to the sound amplitude captured (transduced) by the
+   microphone while the transmitted frequency remains unchanged.
+   Transmissions are affected by static and interference because lightning
+   and other sources of radio that are transmitting at the same frequency
+   add their amplitudes to the original transmitted amplitude. The most
+   wattage an AM radio station is allowed to use is 50,000 watts and the
+   only stations that can blast out signals this high were grandfathered
+   in; these include WJR and CKLW.
+
+   FM broadcast radio sends music and voice with higher fidelity than AM
+   radio. In frequency modulation, amplitude variation at the microphone
+   cause the transmitter frequency to fluctuate. Because the audio signal
+   modulates the frequency and not the amplitude, an FM signal is not
+   subject to static and interference in the same way as AM signals. FM is
+   transmitted in the Very High Frequency (VHF—30 MHz to 300 MHz) radio
+   spectrum. VHF radio waves act more like light, traveling in straight
+   lines, hence the reception range is generally limited to about 50-100
+   miles. During unusual upper atmospheric conditions, FM signals are
+   occasionally reflected back towards the Earth by the ionosphere,
+   resulting in Long distance FM reception. FM receivers are subject to
+   the capture effect, which causes the radio to only receive the
+   strongest signal when multiple signals appear on the same frequency. FM
+   receivers are relatively immune to lightning and spark interference.
+
+   FM Subcarrier services are secondary signals transmitted " piggyback"
+   along with the main program. Special receivers are required to utilize
+   these services. Analog channels may contain alternative programming,
+   such as reading services for the blind, background music or stereo
+   sound signals. In some extremely crowded metropolitan areas, the
+   subchannel program might be an alternate foreign language radio program
+   for various ethnic groups. Subcarriers can also transmit digital data,
+   such as station identification, the current song's name, web addresses,
+   or stock quotes. In some countries, FM radios automatically retune
+   themselves to the same channel in a different district by using
+   sub-bands.
+
+   Aviation voice radios use VHF AM. AM is used so that multiple stations
+   on the same channel can be received. (Use of FM would result in
+   stronger stations blocking out reception of weaker stations due to FM's
+   capture effect). Aircraft fly high enough that their transmitters can
+   be received hundreds of miles (kilometres) away, even though they are
+   using VHF.
+
+   Marine voice radios can use AM in the shortwave High Frequency (HF—3
+   MHz to 30 MHz) radio spectrum for very long ranges or narrowband FM in
+   the VHF spectrum for much shorter ranges. Government, police, fire and
+   commercial voice services use narrowband FM on special frequencies.
+   Fidelity is sacrificed to use a smaller range of radio frequencies,
+   usually five kHz of deviation, rather than the 75 kHz used by FM
+   broadcasts and 25 kHz used by TV sound.
+
+   Civil and military HF (high frequency) voice services use shortwave
+   radio to contact ships at sea, aircraft and isolated settlements. Most
+   use single sideband voice (SSB), which uses less bandwidth than AM. On
+   an AM radio SSB sounds like ducks quacking. Viewed as a graph of
+   frequency versus power, an AM signal shows power where the frequencies
+   of the voice add and subtract with the main radio frequency. SSB cuts
+   the bandwidth in half by suppressing the carrier and (usually) lower
+   sideband. This also makes the transmitter about three times more
+   powerful, because it doesn't need to transmit the unused carrier and
+   sideband.
+
+   TETRA, Terrestrial Trunked Radio is a digital cell phone system for
+   military, police and ambulances. Commercial services such as XM,
+   WorldSpace and Sirius offer encrypted digital Satellite radio.
+
+Telephony
+
+   Mobile phones transmit to a local cell site (transmitter/receiver) that
+   ultimately connects to the public switched telephone network ( PSTN)
+   through an optic fibre or microwave radio and other network elements.
+   When the mobile phone nears the edge of the cell site's radio coverage
+   area, the central computer switches the phone to a new cell. Cell
+   phones originally used FM, but now most use various digital modulation
+   schemes. Satellite phones use satellites rather than cell towers to
+   communicate. They come in two types: INMARSAT and Iridium. Both types
+   provide world-wide coverage. INMARSAT uses geosynchronous satellites,
+   with aimed high-gain antennas on the vehicles. Iridium uses 66 Low
+   Earth Orbit satellites as the cells.
+
+Video
+
+   Television sends the picture as AM and the sound as FM, with the sound
+   carrier a fixed frequency (4.5 MHz in the NTSC system) away from the
+   video carrier. Analog television also uses a vestigial sideband on the
+   video carrier to reduce the bandwidth required.
+
+   Digital television uses quadrature amplitude modulation. A Reed-Solomon
+   error correction code adds redundant correction codes and allows
+   reliable reception during moderate data loss. Although many current and
+   future codecs can be sent in the MPEG-2 transport stream container
+   format, as of 2006 most systems use a standard-definition format almost
+   identical to DVD: MPEG-2 video in Anamorphic widescreen and MPEG layer
+   2 (MP2) audio. High-definition television is possible simply by using a
+   higher-resolution picture, but H.264/AVC is being considered as a
+   replacement video codec in some regions for its improved compression.
+   With the compression and improved modulation involved, a single
+   "channel" can contain a high-definition program and several
+   standard-definition programs.
+
+Navigation
+
+   All satellite navigation systems use satellites with precision clocks.
+   The satellite transmits its position, and the time of the transmission.
+   The receiver listens to four satellites, and can figure its position as
+   being on a line that is tangent to a spherical shell around each
+   satellite, determined by the time-of-flight of the radio signals from
+   the satellite. A computer in the receiver does the math.
+
+   Radio direction-finding is the oldest form of radio navigation. Before
+   1960 navigators used movable loop antennas to locate commercial AM
+   stations near cities. In some cases they used marine radiolocation
+   beacons, which share a range of frequencies just above AM radio with
+   amateur radio operators. Loran systems also used time-of-flight radio
+   signals, but from radio stations on the ground. VOR (Very High
+   Frequency Omnidirectional Range), systems (used by aircraft), have an
+   antenna array that transmits two signals simultaneously. A directional
+   signal rotates like a lighthouse at a fixed rate. When the directional
+   signal is facing north, an omnidirectional signal pulses. By measuring
+   the difference in phase of these two signals, an aircraft can determine
+   its bearing or radial from the station, thus establishing a line of
+   position. An aircraft can get readings from two VOR and locate its
+   position at the intersection of the two radials, known as a "fix." When
+   the VOR station is collocated with DME ( Distance Measuring Equipment),
+   the aircraft can determine its bearing and range from the station, thus
+   providing a fix from only one ground station. Such stations are called
+   VOR/DMEs. The military operates a similar system of navaids, called
+   TACANs, which are often built into VOR stations. Such stations are
+   called VORTACs. Because TACANs include distance measuring equipment,
+   VOR/DME and VORTAC stations are identical in navigation potential to
+   civil aircraft.
+
+Radar
+
+   Radar (Radio Detection And Ranging) detects things at a distance by
+   bouncing radio waves off them. The delay caused by the echo measures
+   the distance. The direction of the beam determines the direction of the
+   reflection. The polarization and frequency of the return can sense the
+   type of surface. Navigational radars scan a wide area two to four times
+   per minute. They use very short waves that reflect from earth and
+   stone. They are common on commercial ships and long-distance commercial
+   aircraft
+
+   General purpose radars generally use navigational radar frequencies,
+   but modulate and polarize the pulse so the receiver can determine the
+   type of surface of the reflector. The best general-purpose radars
+   distinguish the rain of heavy storms, as well as land and vehicles.
+   Some can superimpose sonar data and map data from GPS position.
+
+   Search radars scan a wide area with pulses of short radio waves. They
+   usually scan the area two to four times a minute. Sometimes search
+   radars use the doppler effect to separate moving vehicles from clutter.
+   Targeting radars use the same principle as search radar but scan a much
+   smaller area far more often, usually several times a second or more.
+   Weather radars resemble search radars, but use radio waves with
+   circular polarization and a wavelength to reflect from water droplets.
+   Some weather radar use the doppler to measure wind speeds.
+
+Emergency services
+
+   Emergency Position-Indicating Radio Beacons (EPIRBs), Emergency
+   Locating Transmitters (ELTs) or Personal Locator Beacons (PLBs) are
+   small radio transmitters that satellites can use to locate a person or
+   vehicle needing rescue. Their purpose is to help rescue people in the
+   first day, when survival is most likely. There are several types, with
+   widely-varying performance.
+
+Data (digital radio)
+
+   Most new radio systems are digital, see also: Digital TV, Satellite
+   Radio, Digital Audio Broadcasting. The oldest form of digital broadcast
+   was spark gap telegraphy, used by pioneers such as Marconi. By pressing
+   the key, the operator could send messages in Morse code by energizing a
+   rotating commutating spark gap. The rotating commutator produced a tone
+   in the receiver, where a simple spark gap would produce a hiss,
+   indistinguishable from static. Spark gap transmitters are now illegal,
+   because their transmissions span several hundred megahertz. This is
+   very wasteful of both radio frequencies and power.
+
+   The next advance was continuous wave telegraphy, or CW ( Continuous
+   Wave), in which a pure radio frequency, produced by a vacuum tube
+   electronic oscillator was switched on and off by a key. A receiver with
+   a local oscillator would " heterodyne" with the pure radio frequency,
+   creating a whistle-like audio tone. CW uses less than 100 Hz of
+   bandwidth. CW is still used, these days primarily by amateur radio
+   operators (hams). Strictly, on-off keying of a carrier should be known
+   as "Interrupted Continuous Wave" or ICW.
+
+   Radio teletypes usually operate on short-wave (HF) and are much loved
+   by the military because they create written information without a
+   skilled operator. They send a bit as one of two tones. Groups of five
+   or seven bits become a character printed by a teletype. From about 1925
+   to 1975, radio teletype was how most commercial messages were sent to
+   less developed countries. These are still used by the military and
+   weather services.
+
+   Aircraft use a 1200 Baud radioteletype service over VHF to send their
+   ID, altitude and position, and get gate and connecting-flight data.
+   Microwave dishes on satellites, telephone exchanges and TV stations
+   usually use quadrature amplitude modulation (QAM). QAM sends data by
+   changing both the phase and the amplitude of the radio signal.
+   Engineers like QAM because it packs the most bits into a radio signal.
+   Usually the bits are sent in "frames" that repeat. A special bit
+   pattern is used to locate the beginning of a frame.
+
+   Systems that need reliability, or that share their frequency with other
+   services, may use "corrected orthogonal frequency-division
+   multiplexing" or COFDM. COFDM breaks a digital signal into as many as
+   several hundred slower subchannels. The digital signal is often sent as
+   QAM on the subchannels. Modern COFDM systems use a small computer to
+   make and decode the signal with digital signal processing, which is
+   more flexible and far less expensive than older systems that
+   implemented separate electronic channels. COFDM resists fading and
+   ghosting because the narrow-channel QAM signals can be sent slowly. An
+   adaptive system, or one that sends error-correction codes can also
+   resist interference, because most interference can affect only a few of
+   the QAM channels. COFDM is used for WiFi, some cell phones, Digital
+   Radio Mondiale, Eureka 147, and many other local area network, digital
+   TV and radio standards.
+
+Heating
+
+   Radio-frequency energy generated for heating of objects is generally
+   not intended to radiate outside of the generating equipment, to prevent
+   interference with other radio signals. Microwave ovens use intense
+   radio waves to heat food. (Note: It is a common misconception that the
+   radio waves are tuned to the resonant frequency of water molecules. The
+   microwave frequencies used are actually about a factor of ten below the
+   resonant frequency.) Diathermy equipment is used in surgery for sealing
+   of blood vessels. Induction furnaces are used for melting metal for
+   casting.
+
+Mechanical force
+
+   Tractor beams can use radio waves which exert small electrostatic and
+   magnetic forces. These are enough to perform station-keeping in
+   microgravity environments. Conceptually, spacecraft propulsion:
+   Radiation pressure from intense radio waves has been proposed as a
+   propulsion method for an interstellar probe called Starwisp. Since the
+   waves are long, the probe could be a very light metal mesh, and thus
+   achieve higher accelerations than if it were a solar sail.
+
+Amateur radio service
+
+   Amateur radio is a hobby in which enthusiasts purchase or build their
+   own equipment and use radio for their own enjoyment. They may also
+   provide an emergency and public-service radio service. This has been of
+   great use, saving lives in many instances. Radio amateurs are licensed
+   to use frequencies in a large number of narrow bands throughout the
+   radio spectrum. They use all forms of encoding, including obsolete and
+   experimental ones. Several forms of radio were pioneered by radio
+   amateurs and later became commercially important including FM,
+   single-sideband (SSB), AM, digital packet radio and satellite
+   repeaters. Some amateur frequencies may be disrupted by power-line
+   internet service.
+
+Unlicensed radio services
+
+   Personal radio services such as Citizens' Band Radio, Family Radio
+   Service, Multi-Use Radio Service and others exist in North America to
+   provide simple, (usually) short range communication for individuals and
+   small groups, without the overhead of licensing. Similar services exist
+   in other parts of the world. These radio services involve the use of
+   handheld or mobile radios better known as "walkie-talkies".
+
+Radio control (RC)
+
+   Radio remote control use of radio waves to transmit control data to a
+   remote object as in some early forms of guided missile, some early TV
+   remotes and a range of model boats, cars and airplanes. Large
+   industrial remote-controlled equipment such as cranes and switching
+   locomotives now usually use digital radio techniques to ensure safety
+   and reliability.
+
+   In Madison Square Garden, at the Electrical Exhibition of 1898, Nikola
+   Tesla successfully demonstrated a radio-controlled boat. He was awarded
+   U.S. patent No. 613,809 for a "Method of and Apparatus for Controlling
+   Mechanism of Moving Vessels or Vehicles."
+
+The electromagnetic spectrum
+
+   Radio waves are a form of electromagnetic radiation, created whenever a
+   charged object (in normal radio transmission, an electron) accelerates
+   with a frequency that lies in the radio frequency (RF) portion of the
+   electromagnetic spectrum. In radio, this acceleration is caused by an
+   alternating current in an antenna. Radio frequencies occupy the range
+   from a few tens of hertz to three hundred gigahertz, although
+   commercially important uses of radio use only a small part of this
+   spectrum.
+
+                                 Radio spectrum
+    ELF   SLF    ULF    VLF     LF      MF      HF     VHF     UHF    SHF   EHF
+   3 Hz  30 Hz  300 Hz 3 kHz  30 kHz  300 kHz 3 MHz  30 MHz  300 MHz 3 GHz  30
+                                                                            GHz
+   30 Hz 300 Hz 3 kHz  30 kHz 300 kHz  3 MHz  30 MHz 300 MHz  3 GHz  30 GHz 300
+                                                                            GHz
+
+   Other types of electromagnetic radiation, with frequencies above the RF
+   range, are microwave, infrared, visible light, ultraviolet, X-rays and
+   gamma rays. Since the energy of an individual photon of radio frequency
+   is too low to remove an electron from an atom, radio waves are
+   classified as non-ionizing radiation.
+   Electromagnetic spectrum and diagram of radio transmission of an audio
+   signal. NB The colours used in this diagram of the electromagnetic
+   spectrum are for decoration only. They do not correspond to the
+   wavelengths and frequencies indicated on the scale.
+   Electromagnetic spectrum and diagram of radio transmission of an audio
+   signal. NB The colours used in this diagram of the electromagnetic
+   spectrum are for decoration only. They do not correspond to the
+   wavelengths and frequencies indicated on the scale.
+   The Electromagnetic Spectrum
+   (Sorted by wavelength, short to long)
+   Gamma ray • X-ray • Ultraviolet • Visible spectrum • Infrared •
+   Terahertz radiation • Microwave • Radio waves
+   Visible (optical) spectrum Violet • Blue • Green • Yellow • Orange •
+   Red
+   Microwave spectrum W band • V band • K band: K[a] band, K[u] band • X
+   band • C band • S band • L band
+   Radio spectrum EHF • SHF • UHF • VHF • HF • MF • LF • VLF • ULF • SLF •
+   ELF
+   Wavelength designations Microwave • Shortwave • Mediumwave • Longwave
+
+Other
+
+   Energy autarkic radio technology consists of a small radio transmitter
+   powered by environmental energy (push of a button, temperature
+   differences, light, vibrations, etc.). A number of schemes have been
+   proposed for Wireless energy transfer. Various plans included
+   transmitting power using microwaves, and the technique has been
+   demonstrated. (See Microwave power transmission). These schemes
+   include, for example, solar power stations in orbit beaming energy down
+   to terrestrial users.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Radio"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

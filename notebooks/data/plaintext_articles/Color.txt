@@ -1,0 +1,559 @@
+   #copyright
+
+Colour
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Color is an important part of the visual arts.
+   Enlarge
+   Colour is an important part of the visual arts.
+
+   Colour (or colour, see spelling differences) is the visual perceptual
+   property corresponding in humans to the categories called red, yellow,
+   white, etc. Colour derives from the spectrum of light (distribution of
+   light energy versus wavelength) interacting in the eye with the
+   spectral sensitivities of the light receptors. Color categories and
+   physical specifications of colour are also associated with objects,
+   materials, light sources, etc., based on their physical properties such
+   as light absorption, reflection, or emission spectra.
+
+   Typically, only features of the composition of light that are
+   detectable by humans (wavelength spectrum from 400 nm to 700 nm,
+   roughly) are included, thereby objectively relating the psychological
+   phenomenon of color to its physical specification. Since perception of
+   colour stems from the varying sensitivity of different types of cone
+   cells in the retina to different parts of the spectrum, colors may be
+   defined and quantified by the degree to which they stimulate these
+   cells. These physical or physiological quantifications of color,
+   however, do not fully explain the psychophysical perception of colour
+   appearance.
+
+   The science of colour is sometimes called chromatics. It includes the
+   perception of color by the human eye and brain, the origin of colour in
+   materials, colour theory in art, and the physics of electromagnetic
+   radiation in the visible range (that is, what we commonly refer to
+   simply as light).
+
+Physics of colour
+
+                         CAPTION: The colors of the visible light spectrum
+
+                             colour wavelength interval frequency interval
+                              red      ~ 625–740 nm       ~ 480–405 THz
+                             orange    ~ 590–625 nm       ~ 510–480 THz
+                             yellow    ~ 565–590 nm       ~ 530–510 THz
+                             green     ~ 500–565 nm       ~ 600–530 THz
+                              cyan     ~ 485–500 nm       ~ 620–600 THz
+                              blue     ~ 440–485 nm       ~ 680–620 THz
+                             violet    ~ 380–440 nm       ~ 790–680 THz
+
+   Continuous optical spectrum. Designed for monitors with gamma 1.5.
+   Continuous optical spectrum. Designed for monitors with gamma 1.5.
+   Computer "spectrum". The narrow red, green and blue bars below the main
+   bar show the relative intensities of the three primary colors mixed to
+   make the color directly above.
+   Enlarge
+   Computer "spectrum". The narrow red, green and blue bars below the main
+   bar show the relative intensities of the three primary colors mixed to
+   make the colour directly above.
+
+         CAPTION: Colour, wavelength, frequency and energy of light
+
+    Colour \lambda \,\! /nm \nu \,\! /10^14 Hz \nu_b \,\! /10^4 cm^−1 E
+                        \,\! /eV E \,\! /kJ mol^−1
+                                     Infrared >1000 <3.00 <1.00 <1.24 <120
+                                                Red 700 4.28 1.43 1.77 171
+                                             Orange 620 4.84 1.61 2.00 193
+                                             Yellow 580 5.17 1.72 2.14 206
+                                              Green 530 5.66 1.89 2.34 226
+                                               Blue 470 6.38 2.13 2.64 254
+                                             Violet 420 7.14 2.38 2.95 285
+                                   Near ultraviolet 300 10.0 3.33 4.15 400
+                               Far ultraviolet <200 >15.0 >5.00 >6.20 >598
+
+   Electromagnetic radiation is characterized by its wavelength (or
+   frequency) and its intensity. When the wavelength is within the visible
+   spectrum (the range of wavelengths humans can perceive, approximately
+   from 380  nm to 740 nm), it is known as "visible light."
+
+   A given light source may emit light at many different wavelengths (and
+   most do); its spectrum is then a distribution giving its intensity at
+   each wavelength. Although the spectrum of light arriving at the eye
+   from a given direction determines the color perceived in that
+   direction, there are many more possible spectral combinations than
+   color sensations. In fact, one may formally define a color as a class
+   of spectra that give rise to the same colour sensation, although such
+   classes would vary widely among different species, and to a lesser
+   extent among individuals within the same species. In each such class
+   the members are called metamers of the colour in question.
+
+Spectral colors
+
+   The familiar colors of the rainbow in the spectrum – named from the
+   Latin word for appearance or apparition by Isaac Newton in 1671 –
+   contains all those colors that can be produced by visible light of a
+   single wavelength only, the pure spectral or monochromatic colors. The
+   colour table at right shows approximate frequencies (in terahertz) and
+   wavelengths (in nanometers) for various pure spectral colors. The
+   wavelengths are measured in vacuum (see refraction).
+
+   The colour table should not be interpreted as a definitive list – the
+   pure spectral colors form a continuous spectrum, and how it is divided
+   into distinct colors is a matter of culture, taste, and language.
+   Newton added a seventh colour, indigo, between blue and violet, but
+   most people are not able to distinguish it and most color scientists do
+   not recognize it as a separate colour; it is sometimes designated as
+   wavelengths of 420–440 nm. Furthermore, the intensity of a spectral
+   colour may alter its perception considerably; for example, a
+   low-intensity orange-yellow is brown, and a low-intensity yellow-green
+   is olive-green.
+
+   As discussed in the section on color vision, a light source need not
+   actually be of one single wavelength to be perceived as a pure spectral
+   colour.
+
+   For discussion of non-spectral colors, see below.
+
+Colour of objects
+
+   Setting aside illuminant adaptation and contextual effects, surfaces
+   appear to have the color of the light leaving them in the direction of
+   the eye. Since the composition of this light may depend on the
+   orientation of the surface and lighting conditions, the perceived
+   colour of an object also depends on these factors. However, some
+   generalizations can be drawn.
+
+   Light arriving at an opaque surface is either reflected "specularly"
+   (that is, in the manner of a mirror), scattered (that is, reflected
+   with diffuse scattering), or absorbed – or some combination of these.
+
+   Opaque objects that do not reflect specularly (which tend to have rough
+   surfaces) have their colour determined by which wavelengths of light
+   they scatter more and which they scatter less (with the light that is
+   not scattered being absorbed). If objects scatter all wavelengths, they
+   appear white. If they absorb all wavelengths, they appear black.
+
+   Opaque objects that specularly reflect light of different wavelengths
+   with different efficiencies look like mirrors tinted with colors
+   determined by those differences. An object that reflects some fraction
+   of impinging light and absorbs the rest may look black but also be
+   faintly reflective; examples are black objects coated with layers of
+   enamel or lacquer.
+
+   Objects that transmit light are either translucent (scattering the
+   transmitted light) or transparent (not scattering the transmitted
+   light). If they also absorb (or reflect) light of varying wavelengths
+   differentially, they appear tinted with a colour determined by the
+   nature of that absorption (or that reflectance).
+
+   Objects may emit light that they generate themselves, rather than
+   merely reflecting or transmitting light. They may do so because of
+   their elevated temperature (they are then said to be incandescent), as
+   a result of certain chemical reactions (a phenomenon called
+   chemoluminescence), or for other reasons (see the articles
+   Phosphorescence and List of light sources).
+
+   Objects may absorb light and then as a consequence emit light that has
+   different properties. They are then called fluorescent (if light is
+   emitted only while light is absorbed) or phosphorescent (if light is
+   emitted even after light ceases to be absorbed; this term is also
+   sometimes loosely applied to light emitted due to chemical reactions).
+
+   For further treatment of the colour of objects, see the section
+   Structural colour, below.
+
+   To summarize, the color of an object is a complex result of its surface
+   properties, its transmission properties, and its emission properties,
+   all of which factors contribute to the mix of wavelengths in the light
+   leaving the surface of the object. The perceived color is then further
+   conditioned by the nature of the ambient illumination, and by the
+   colour properties of other objects nearby (see the article Colour
+   constancy); and finally, by the permanent and transient characteristics
+   of the perceiving eye and brain.
+
+Colour perception
+
+   Normalized typical human cone responses (and the rod response) to
+   monochromatic spectral stimuli
+   Enlarge
+   Normalized typical human cone responses (and the rod response) to
+   monochromatic spectral stimuli
+
+Development of theories of colour vision
+
+   Although Aristotle and other ancient scientists had already written on
+   the nature of light and colour vision, it was not until Newton that
+   light was identified as the source of the colour sensation. In 1810,
+   Goethe published his comprehensive Theory of Colors. In 1801 Thomas
+   Young proposed his trichromatic theory, based on the observation that
+   any colour could be matched with a combination of three lights. This
+   theory was later refined by James Clerk Maxwell and Hermann von
+   Helmholtz. As Helmholtz puts it, "the principles of Newton's law of
+   mixture were experimentally confirmed by Maxwell in 1856. Young's
+   theory of colour sensations, like so much else that this marvellous
+   investigator achieved in advance of his time, remained unnoticed until
+   Maxwell directed attention to it."
+
+   At the same time as Helmholtz, Ewald Hering developed the opponent
+   process theory of color, noting that colour blindness and afterimges
+   typically come in opponent pairs (red-green, blue-yellow, and
+   black-white). Ultimately these two theories were synthesized in 1957 by
+   Hurvich and Jameson, who showed that retinal processing corresponds to
+   the trichromatic theory, while processing at the level of the lateral
+   geniculate nucleus corresponds to the opponent theory.
+
+   In 1931, an international group of experts known as the Commission
+   Internationale d'Eclairage ( CIE) developed a mathematical colour
+   model, which mapped out the space of observable colors and assigned a
+   set of three numbers to each.
+
+Colour in the eye
+
+   The ability of the human eye to distinguish colors is based upon the
+   varying sensitivity of different cells in the retina to light of
+   different wavelengths. The retina contains three types of colour
+   receptor cells, or cones. One type, relatively distinct from the other
+   two, is most responsive to light that we perceive as violet, with
+   wavelengths around 420 nm. (Cones of this type are sometimes called
+   short-wavelength cones, S cones, or, misleadingly, blue cones.) The
+   other two types are closely related genetically and chemically. One of
+   them (sometimes called long-wavelength cones, L cones, or,
+   misleadingly, red cones) is most sensitive to light we perceive as
+   yellowish-green, with wavelengths around 564 nm; the other type
+   (sometimes called middle-wavelength cones, M cones, or misleadingly,
+   green cones) is most sensitive to light perceived as green, with
+   wavelengths around 534 nm.
+
+   Light, no matter how complex its composition of wavelengths, is reduced
+   to three colour components by the eye. For each location in the visual
+   field, the three types of cones yield three signals based on the extent
+   to which each is stimulated. These values are sometimes called
+   tristimulus values.
+
+   The response curve as a function of wavelength for each type of cone is
+   illustrated above. Because the curves overlap, some tristimulus values
+   do not occur for any incoming light combination. For example, it is not
+   possible to stimulate only the mid-wavelength/"green" cones; the other
+   cones will inevitably be stimulated to some degree at the same time.
+   The set of all possible tristimulus values determines the human colour
+   space. It has been estimated that humans can distinguish roughly 10
+   million different colors.
+
+   The other type of light-sensitive cell in the eye, the rod, has a
+   different response curve. In normal situations, when light is bright
+   enough to strongly stimulate the cones, rods play virtually no role in
+   vision at all. On the other hand, in dim light, the cones are
+   understimulated leaving only the signal from the rods, resulting in a
+   monochromatic response. (Furthermore, the rods are barely sensitive to
+   light in the "red" range.) In certain conditions of intermediate
+   illumination, the rod response and a weak cone response can together
+   result in colour discriminations not accounted for by cone responses
+   alone.
+
+Colour in the brain
+
+   While the mechanisms of color vision at the level of the retina are
+   well-described in terms of tristimulus values (see above), color
+   processing after that point is organized differently. A dominant theory
+   of color vision proposes that colour information is transmitted out of
+   the eye by three opponent processes, or opponent channels, each
+   constructed from the raw output of the cones: a red-green channel, a
+   blue-yellow channel and a black-white "luminance" channel. This theory
+   has been supported by neurobiology, and accounts for the structure of
+   our subjective colour experience. Specifically, it explains why we
+   cannot perceive a "reddish green" or "yellowish blue," and it predicts
+   the colour wheel: it is the collection of colors for which at least one
+   of the two colour channels measures a value at one of its extremes.
+
+   The exact nature of color perception beyond the processing already
+   described, and indeed the status of colour as a feature of the
+   perceived world or rather as a feature of our perception of the world,
+   is a matter of complex and continuing philosophical dispute (see
+   qualia).
+
+Nonstandard colour perception
+
+Colour deficiency
+
+   If one or more types of a person's colour-sensing cones are missing or
+   less responsive than normal to incoming light, that person can
+   distinguish fewer colors and is said to be colour deficient or colour
+   blind (though this latter term can be misleading; almost all color
+   deficient individuals can distinguish at least some colors). Some kinds
+   of colour deficiency are caused by anomalies in the number or nature of
+   cones in the retina. Others (like central or cortical achromatopsia)
+   are caused by neural anomalies in those parts of the brain where visual
+   processing takes place.
+
+Tetrachromacy
+
+   While most humans are trichromatic (having three types of colour
+   receptors), many animals, known as tetrachromats, have four types.
+   These include some species of spiders, most marsupials, birds,
+   reptiles, and many species of fish. Other species are sensitive to only
+   two axes of color or do not perceive colour at all; these are called
+   dichromats and monochromats respectively. A distinction is made between
+   retinal tetrachromacy (having four pigments in cone cells in the
+   retina, compared to three in trichromats) and functional tetrachromacy
+   (having the ability to make enhanced color discriminations based on
+   that retinal difference). As many as a half of all women, but only a
+   small percentage of men, are retinal tetrachromats. The phenomenon
+   arises when an individual receives two slightly different copies of the
+   gene for either the medium- or long-wavelength cones (which are carried
+   on the x-chromosome). For some of these retinal tetrachromats, colour
+   discriminations are enhanced, making them functional tetrachromats.
+
+Synesthesia
+
+   In certain forms of synesthesia, perceiving letters and numbers (
+   grapheme → colour synesthesia) or hearing musical sounds (music → color
+   synesthesia) will lead to the unusual additional experiences of seeing
+   colors. Behavioural and functional neuroimaging experiments have
+   demonstrated that these color experiences lead to changes in behavioral
+   tasks and lead to increased activation of brain regions involved in
+   color perception, thus demonstrating their reality, and similarity to
+   real colour percepts, albeit evoked through a non-standard route.
+
+Afterimages
+
+   After exposure to strong light in their sensitivity range,
+   photoreceptors of a given type become desensitized. For a few seconds
+   after the light ceases, they will continue to signal less strongly than
+   they otherwise would. Colors observed during that period will appear to
+   lack the colour component detected by the desensitized photoreceptors.
+   This effect is responsible for the phenomenon of afterimages, in which
+   the eye may continue to see a bright figure after looking away from it,
+   but in a complementary colour.
+
+   Afterimage effects have also been utilized by artists, including
+   Vincent van Gogh.
+
+Colour constancy
+
+   There is an interesting phenomenon which occurs when an artist uses a
+   limited colour palette: the eye tends to compensate by seeing any grey
+   or neutral color as the color which is missing from the colour wheel.
+   E.g.: in a limited palette consisting of red, yellow, black and white,
+   a mixture of yellow and black will appear as a variety of green, a
+   mixture of red and black will appear as a variety of purple, and pure
+   grey will appear bluish.
+
+   The trichromatric theory discussed above is strictly true only if the
+   whole scene seen by the eye is of one and the same colour, which of
+   course is unrealistic. In reality, the brain compares the various
+   colors in a scene, in order to eliminate the effects of the
+   illumination. If a scene is illuminated with one light, and then with
+   another, as long as the difference between the light sources stays
+   within a reasonable range, the colors of the scene will nevertheless
+   appear constant to us. This was studied by Edwin Land in the 1970s and
+   led to his retinex theory of colour constancy.
+
+Colour naming
+
+   Different cultures have different terms for colors, and may also assign
+   some colour names to slightly different parts of the spectrum: for
+   instance, the han character 青 (rendered as qīng in Mandarin and ao in
+   Japanese) has a meaning that covers both blue and green; blue and green
+   are traditionally considered shades of "青." In more contemporary terms,
+   they are 藍 (lán, in Mandarin) and 綠 (lǜ, in Mandarin) respectively. For
+   example, in Japan, although the traffic lights have the same colored
+   lights that other countries have, the green light is called using the
+   same word for blue, "aoi", because green is considered a shade of blue.
+
+   Similarly, languages are selective when deciding which hues are split
+   into different colors on the basis of how light or dark they are. Apart
+   from the black-grey-white continuum, English splits some hues into
+   several distinct colors according to lightness: such as red and pink or
+   orange and brown. To English speakers, these pairs of colors, which are
+   objectively no more different from one another than light green and
+   dark green, are conceived as totally different. A Russian will make the
+   same red-pink and orange-brown distinctions, but will also make a
+   further distinction between sinij and goluboj, which English speakers
+   would simply call dark and light blue. To Russian speakers, sinij and
+   goluboj are as separate as red and pink or orange and brown.
+
+   Color terms evolve. It is argued that there are a limited number of
+   universal "basic color terms" which begin to be used by individual
+   cultures in a relatively fixed order. For example, a culture would
+   start with only two terms, meaning roughly 'dark' (covering black, dark
+   colors and cold colors such as blue ) and 'bright' (covering white,
+   light colors and warm colors such as red), before adding more specific
+   color names, in the order of red; green and/or yellow; blue; brown; and
+   orange, pink, purple and/or gray. Older arguments for this theory also
+   stipulated that the acquisition and use of basic colour terms further
+   along the evolutionary order indicated a more complex culture with more
+   highly developed technology.
+
+   A somewhat dated example of a universal colour categories theory is
+   Basic Colour Terms: Their Universality and Evolution (1969) by Brent
+   Berlin and Paul Kay. A more recent example of a linguistic determinism
+   theory might be Is colour categorisation universal? New evidence from a
+   stone-age culture (1999) by Jules Davidoff et al. The idea of
+   linguistically determined colour categories is often used as evidence
+   for the Sapir-Whorf hypothesis (Language, Thought and Reality (1956) by
+   Benjamin Lee Whorf).
+
+   Additionally, different colors are often associated with different
+   emotional states, values or groups, but these associations can vary
+   between cultures. In one system, red is considered to motivate action;
+   orange and purple are related to spirituality; yellow cheers; green
+   creates cosiness and warmth; blue relaxes; and white is associated with
+   either purity or death. These associations are described more fully in
+   the individual colour pages, and under colour psychology.
+
+   See also: National colors
+
+Health effects
+
+   When the colour spectrum of artificial lighting is mismatched to that
+   of sunlight, material health effects may arise including increased
+   incidence of headache. This phenomenon is often coupled with adverse
+   effects of over-illumination, since many of the same interior spaces
+   that have colour mismatch also have higher light intensity than
+   desirable for the task being conducted in that space.
+
+Measurement and reproduction of colour
+
+Relation to spectral colors
+
+   The CIE 1931 color space chromaticity diagram. The outer curved
+   boundary is the spectral (or monochromatic) locus, with wavelengths
+   shown in nanometers. Note that the colors depicted depend on the color
+   space of the device on which you are viewing the image, and therefore
+   may not be a strictly accurate representation of the color at a
+   particular position, and especially not for monochromatic colors.
+   Enlarge
+   The CIE 1931 colour space chromaticity diagram. The outer curved
+   boundary is the spectral (or monochromatic) locus, with wavelengths
+   shown in nanometers. Note that the colors depicted depend on the colour
+   space of the device on which you are viewing the image, and therefore
+   may not be a strictly accurate representation of the colour at a
+   particular position, and especially not for monochromatic colors.
+
+   Most light sources are mixtures of various wavelengths of light.
+   However, many such sources can still have a spectral color insofar as
+   the eye cannot distinguish them from monochromatic sources. For
+   example, most computer displays reproduce the spectral colour orange as
+   a combination of red and green light; it appears orange because the red
+   and green are mixed in the right proportions to allow the eye's red and
+   green cones to respond the way they do to orange.
+
+   A useful concept in understanding the perceived colour of a
+   non-monochromatic light source is the dominant wavelength, which
+   identifies the single wavelength of light which produces a sensation
+   most similar to the light source. Dominant wavelength is roughly akin
+   to hue.
+
+   Of course, there are many colour perceptions that by definition cannot
+   be pure spectral colors due to desaturation or because they are purples
+   (mixtures of red and violet light, from opposite ends of the spectrum).
+   Some examples of necessarily non-spectral colors are the achromatic
+   colors (black, gray and white) and colors such as pink, tan, and
+   magenta.
+   A color photo of a sunset
+   Enlarge
+   A colour photo of a sunset
+
+   Two different light spectra which have the same effect on the three
+   color receptors in the human eye will be perceived as the same colour.
+   This is exemplified by the white light that is emitted by fluorescent
+   lamps, which typically has a spectrum consisting of a few narrow bands,
+   while daylight has a continuous spectrum. The human eye cannot tell the
+   difference between such light spectra just by looking into the light
+   source, although reflected colors from objects can look different.
+   (This is often exploited e.g. to make fruit or tomatoes look more
+   brightly red in shops.)
+
+   Similarly, most human colour perceptions can be generated by a mixture
+   of three colors called primaries. This is used to reproduce colour
+   scenes in photography, printing, television and other media. There are
+   a number of methods or colour spaces for specifying a colour in terms
+   of three particular primary colors. Each method has its advantages and
+   disadvantages depending on the particular application.
+
+   No mixture of colors, though, can produce a fully pure color perceived
+   as completely identical to a spectral colour, although one can get very
+   close for the longer wavelengths, where the chromaticity diagram above
+   has a nearly straight edge. For example, mixing green light (530 nm)
+   and blue light (460 nm) produces cyan light that is slightly
+   desaturated, because response of the red colour receptor would be
+   greater to the green and blue light in the mixture than it would be to
+   a pure cyan light at 485 nm that has the same intensity as the mixture
+   of blue and green.
+
+   Because of this, and because the primaries in colour printing systems
+   generally are not pure themselves, the colors reproduced are never
+   perfectly saturated colors, and so spectral colors cannot be matched
+   exactly. However, natural scenes rarely contain fully saturated colors,
+   thus such scenes can usually be approximated well by these systems. The
+   range of colors that can be reproduced with a given colour reproduction
+   system is called the gamut. The CIE chromaticity diagram can be used to
+   describe the gamut.
+
+   Another problem with color reproduction systems is connected with the
+   acquisition devices, like cameras or scanners. The characteristics of
+   the colour sensors in the devices are often very far from the
+   characteristics of the receptors in the human eye. In effect,
+   acquisition of colors that have some special, often very "jagged,"
+   spectra caused for example by unusual lighting of the photographed
+   scene can be relatively poor.
+
+   Species that have colour receptors different from humans, e. g. birds
+   that may have four receptors, can differentiate some colors that look
+   the same to a human. In such cases, a color reproduction system 'tuned'
+   to a human with normal colour vision may give very inaccurate results
+   for the other observers.
+
+   The next problem is different color response of different devices. For
+   colour information stored and transferred in a digital form, colour
+   management technique based on colour profiles attached to color data
+   and to devices with different colour response helps to avoid
+   deformations of the reproduced colors. The technique works only for
+   colors in gamut of the particular devices, e.g. it can still happen
+   that your monitor is not able to show you real color of your goldfish
+   even if your camera can receive and store the colour information
+   properly and vice versa.
+
+Structural colour
+
+   Structural colors are colors which are caused by interference effects
+   rather than pigment. Colors are produced when a material is scored with
+   fine parallel lines, formed of one or more thin parallel layers, or
+   otherwise composed of microstructures on the scale of the colour's
+   wavelength. If the microstructures are spaced randomly, light of
+   shorter wavelengths will be scattered preferentially to produce Tyndall
+   effect colors: the blue of the sky, aerogel of opals, and the blue of
+   human irises. If the microstructures are aligned in arrays, for example
+   the array of pits in a CD, they behave as a diffraction grating, the
+   grating reflects different wavelengths in different directions due to
+   interference phenomena, separating white light into colors. If the
+   structure is one or more thin layers then it will reflect some
+   wavelengths and transmit others, depending on the thickness of the
+   layer(s).
+
+   Structural colour is responsible for the blues and greens of many bird
+   feathers (example, blue jay feathers) as well as certain butterfly
+   wings and beetle shells. Variations in the pattern's spacing often give
+   rise to an iridescent effect, as seen in peacock feathers, soap
+   bubbles, films of oil, and mother of pearl, because the reflected
+   colour depends upon the viewing angle.
+
+   Structural colour is studied in the field of thin-film optics. A
+   layman's term that describes particularly the most ordered structural
+   colors is iridescence.
+
+Additional terms
+
+     * Hue: the colour's direction from white, for example in the CIE
+       chromaticity diagram.
+     * Saturation: how "dense" or "intense" or "concentrated" or "pure" a
+       colour is.
+     * Value: how light or dark a colour is.
+     * Tint: a colour made lighter by adding white.
+     * Shade: a colour made darker by adding black.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Colour"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

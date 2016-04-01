@@ -1,0 +1,356 @@
+   #copyright
+
+Force
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics, force is an influence that may cause a body to accelerate.
+   It may be experienced as a lift, a push, or a pull, and has a magnitude
+   and a direction. The actual acceleration of the body is determined by
+   the vector sum of all forces acting on it (known as net force or
+   resultant force). In an extended body, it may also cause rotation or
+   deformation of the body. Rotational effects and deformation are
+   determined respectively by the torques and stresses that the forces
+   create.
+
+   Force is a vector quantity defined as the rate of change of the
+   momentum of the body that would be induced by that force acting alone.
+   Since momentum is a vector, the force has a direction associated with
+   it.
+
+History
+
+     * Force was first described by Archimedes.
+     * Galileo Galilei used rolling balls to disprove the Aristotelian
+       theory of motion ( 1602 - 1607)
+     * Isaac Newton is credited for giving the first mathematical
+       definition of force.
+     * Charles Coulomb is credited for experimental discovery of the
+       inverse square law of interaction between electric charges using
+       torsion balance ( 1784).
+     * Henry Cavendish's in 1798 measured the force of gravity between two
+       masses (in torsion balance experiment)
+     * With the development of quantum electrodynamics in mid 20 century
+       it was realised that "force" is strictly a macroscopic concept
+       which arises from conservation of momentum of interacting
+       elementary particles. Thus currently known fundamental forces are
+       not called forces but " fundamental interactions".
+
+   Aristotle and others believed that it was the natural state of objects
+   on Earth to be motionless, and that they tended toward that state
+   (eventually settling down to inertness), if left alone. This was a
+   common experience of humans with ordinary conditions in which friction
+   was involved, so Newton's idea that force naturally produces a constant
+   increase in velocity was not an obvious one. Frictional forces, acting
+   in opposition to other kinds of forces, historically tended to hide the
+   correct mathematical relationship between simple unopposed force and
+   motion.
+
+   The correct behaviour of objects accelerated by constant force was
+   first discovered by Galileo in working with gravity (dropping stones
+   and rolling cannonballs on an incline), although it was not until
+   Newton that gravity was seen as a force. Newton generalized the
+   behavior of constant acceleration, or constant momentum gain, to forces
+   other than gravity. He asserted in his second law of motion that this
+   behaviour of constant momentum increase was characteristic of all
+   forces-- including the "forces" of ordinary experience, such as tension
+   or the stress produced by pushing on an object with a finger. In fact,
+   he defined force as mass times acceleration, or more accurately, as a
+   rate of change of momentum.
+
+Examples
+
+     * A heavy object on a table is pulled (attracted) downward toward the
+       floor by the force of gravity (i.e., its weight). At the same time,
+       the table resists the downward force with equal upward force
+       (called the normal force), resulting in zero net force, and no
+       acceleration. (If the object is a person, he actually feels the
+       normal force acting on him from below.)
+     * A heavy object on a table is gently pushed in a sideways direction
+       by a finger. However, it fails to accelerate sideways, because the
+       force of the finger on the object is now opposed by a new force of
+       static friction, generated between the object and the table
+       surface. This newly generated force exactly balances the force
+       exerted on the object by the finger, and again no acceleration
+       occurs. The static friction increases or decreases automatically.
+       If the force of the finger is increased (up to a point), the
+       opposing sideways force of static friction increases exactly to the
+       point of perfect opposition.
+     * A heavy object on a table is pushed by a finger hard enough that
+       static friction cannot generate sufficient force to match the force
+       exerted by the finger, and the object starts sliding across the
+       surface. If the finger is moved with a constant velocity, it needs
+       to apply a force that exactly cancels the force of kinetic friction
+       from the surface of the table and then the object moves with the
+       same constant velocity. Here it seems to the naive observer that
+       application of a force produces a velocity (rather than an
+       acceleration). However, the velocity is constant only because the
+       force of the finger and the kinetic friction cancel each other.
+       Without friction, the object would continually accelerate in
+       response to a constant force.
+     * A heavy object reaches the edge of the table and falls. Now the
+       object, subjected to the constant force of its weight, but freed of
+       the normal force and friction forces from the table, gains in
+       velocity in direct proportion to the time of fall, and thus (before
+       it reaches velocities where air resistance forces becomes
+       significant compared to gravity forces) its rate of gain in
+       momentum and velocity is constant. These facts were first
+       discovered by Galileo.
+
+Quantitative definition
+
+   Force is defined as the rate of change of momentum with time:
+
+          \mathbf{F} = {d\mathbf{p} \over dt} .
+
+   The quantity \mathbf{p} = m \mathbf{v} (where m\, is the mass and
+   \mathbf{v} is the velocity) is called the momentum. This is the only
+   definition of force known in physics (first proposed by Newton
+   himself). If the mass m is constant in time, then Newton's second law
+   can be derived from this definition:
+
+          \mathbf{F} = \frac{d\mathbf{p}}{dt}= \frac{d(m\mathbf{v})}{dt} =
+          m\frac{d(\mathbf{v})}{dt} = m\mathbf{a}
+
+   where \mathbf a = {d \mathbf v} /{dt} is the acceleration.
+
+   This is the form Newton's second law is usually taught in introductory
+   physics courses in order to avoid calculus notation.
+
+   All known forces of nature are defined via the above Newtonian
+   definition of force. For example, weight (force of gravity) is defined
+   as mass times acceleration of free fall: w = mg; spring balance force
+   is defined as the force equilibrating certain gravitational force (say,
+   the weight of 1 kg mass near Earth surface results in reaction force of
+   spring equivalent to 9.8 N), etc. Calibration of spring balances (of
+   various kinds) using either gravitational force or motion with known
+   acceleration is important starting procedure in measuring many other
+   forces (such as friction forces, reaction forces, electric forces,
+   magnetic force, etc) in various physics labs.
+
+   It is not always the case that m is independent of t. For example, the
+   mass of a rocket decreases as its propellant is ejected. Under such
+   circumstances, the above equation ( \mathbf{F} = m\mathbf{a} ) is
+   incorrect, and the original form of Newton's second law must be used.
+
+   Because momentum is a vector, then force, being its time derivative, is
+   also a vector - it has magnitude and direction, and four-force is a
+   four-vector in relativity. Vectors (and thus forces) are added together
+   by their components. When two forces act on an object, the resulting
+   force, the resultant, is the vector sum of the original forces. This is
+   called the principle of superposition. The magnitude of the resultant
+   varies from the difference of the magnitudes of the two forces to their
+   sum, depending on the angle between their lines of action. As with all
+   vector addition this results in a parallelogram rule: the addition of
+   two vectors represented by sides of a parallelogram, gives an
+   equivalent resultant vector which is equal in magnitude and direction
+   to the transversal of the parallelogram. If the two forces are equal in
+   magnitude but opposite in direction, then the resultant is zero. This
+   condition is called static equilibrium, with the result that the object
+   remains at its constant velocity (which could be zero). Static
+   equilibrium is mathematically equivalent to the motion expected with
+   equal and oppositely directed accelerations (of course it is the same
+   motion as with no acceleration).
+
+   As well as being added, forces can also be broken down (or 'resolved').
+   For example, a horizontal force pointing northeast can be split into
+   two forces, one pointing north, and one pointing east. Summing these
+   component forces using vector addition yields the original force. Force
+   vectors can also be three-dimensional, with the third (vertical)
+   component at right-angles to the two horizontal components.
+
+   In most explanations of mechanics, force is usually defined only
+   implicitly, in terms of the equations that work with it. Some
+   physicists, philosophers and mathematicians, such as Ernst Mach,
+   Clifford Truesdell and Walter Noll, have found this problematic and
+   sought a more explicit definition of force.
+
+Force in special relativity
+
+   In the special theory of relativity mass and energy are equivalent (as
+   can be seen by calculating the work required to accelerate a body).
+   When an object's velocity increases so does its energy and hence its
+   mass equivalent (inertia). It thus requires a greater force to
+   accelerate it the same amount than it did at a lower velocity. The
+   definition \mathbf{F} = d\mathbf{p}/dt remains valid, but the momentum
+   is given by:
+
+          \mathbf{p} = \frac{mv}{\sqrt{1 - v^2/c^2}}
+
+   where
+
+          v is the velocity and
+
+          c is the speed of light.
+
+   The relativistic expression relating force and acceleration for a
+   particle with non-zero rest mass m\, moving in the x\, direction is:
+
+          F_x = \gamma^3 m a_x \,
+
+          F_y = \gamma m a_y \,
+
+          F_z = \gamma m a_z \,
+
+   where the Lorentz factor
+
+          \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}
+
+   Here a constant force does not produce a constant acceleration, but an
+   ever decreasing acceleration as the object approaches the speed of
+   light. Note that γ is undefined for an object with a non zero rest mass
+   at the speed of light, and the theory yields no prediction at that
+   speed.
+
+   One can however restore the form of
+
+          F^\mu = mA^\mu \,
+
+   for use in relativity through the use of four-vectors. This relation is
+   correct in relativity when F^μ is the four-force, m is the invariant
+   mass, and A^μ is the four-acceleration.
+
+Force and potential
+
+   Instead of a force, the mathematically equivalent concept of a
+   potential energy field can be used for convenience. For instance, the
+   gravitational force acting upon a body can be seen as the action of the
+   gravitational field that is present at the body's location. Restating
+   mathematically the definition of energy (via definition of work), a
+   potential field U(r) is defined as that field whose gradient is equal
+   and opposite to the force produced at every point:
+
+          \textbf{F}=-\nabla U
+
+   Forces can be classified as conservative or nonconservative.
+   Conservative forces are equivalent to the gradient of a potential, and
+   include gravity, electromagnetic force, and spring force.
+   Nonconservative forces include friction and drag. However, for any
+   sufficiently detailed description, all forces are conservative.
+
+Types of force
+
+   Many forces exist: the Coulomb force (between electrical charges),
+   gravitational force (between masses), magnetic force, frictional
+   forces, centrifugal forces (in rotating reference frames), spring
+   force, magnetic forces, tension, chemical bonding and contact forces to
+   name a few.
+
+   Only four fundamental forces of nature are known: the strong force, the
+   electromagnetic force, the weak force, and the gravitational force. All
+   other forces can be reduced to these fundamental interactions.
+
+   The modern quantum mechanical view of the first three fundamental
+   forces (all except gravity) is that particles of matter ( fermions) do
+   not directly interact with each other but rather by exchange of virtual
+   particles ( bosons) (as, for example, virtual photons in case of
+   interaction of electric charges).
+
+   In general relativity, gravitation is not strictly viewed as a force.
+   Rather, objects moving free in gravitational fields (say, a basket
+   ball) simply undergo inertial motion along a straight line in the
+   curved space-time (straight line in curved space-time is defined as the
+   shortest space-time path between two points, and it is called
+   geodesic). This straight line in space-time is a curved line in space,
+   and we call it the " ballistic trajectory" of the object (an example
+   would be a parabola for a basketball moving in a uniform gravitational
+   field). The time derivative of the changing momentum of the body is
+   what we label as "gravitational force" (= weight).
+
+   Light (which has no mass but has energy and momentum contained in its
+   electromagnetic field) also propagates in gravitational fields along a
+   straight space-time path (geodesic).
+
+Units of measurement
+
+   The SI unit used to measure force is the newton (symbol N), which is
+   equivalent to kg·m·s^−2. The earlier CGS unit is the dyne. The
+   relationship F=m·a can be used with either of these. In Imperial
+   engineering units, if F is measured in " pounds force" or "lbf", and a
+   in feet per second squared, then m must be measured in slugs.
+   Similarly, if mass is measured in pounds mass, and a in feet per second
+   squared, the force must be measured in poundals. The units of slugs and
+   poundals are specifically designed to avoid a constant of
+   proportionality in this equation.
+
+   A more general form F=k·m·a is needed if consistent units are not used.
+   Here, the constant k is a conversion factor dependent upon the units
+   being used.
+
+   When the standard 'g' (an acceleration of 9.80665 m/s²) is used to
+   define pounds force, the mass in pounds is numerically equal to the
+   weight in pounds force. However, even at sea level on Earth, the actual
+   acceleration of free fall is quite variable, over 0.53% more at the
+   poles than at the equator. Thus, a mass of 1.0000 lb at sea level at
+   the equator exerts a force due to gravity of 0.9973 lbf, whereas a mass
+   of 1.000 lb at sea level at the poles exerts a force due to gravity of
+   1.0026 lbf. The normal average sea level acceleration on Earth (World
+   Gravity Formula 1980) is 9.79764 m/s², so on average at sea level on
+   Earth, 1.0000 lb will exerts a force of 0.9991 lbf.
+
+   The equivalence 1 lb = 0.453 592 37 kg is always true, by definition,
+   anywhere in the universe. If you use the standard 'g' which is official
+   for defining kilograms force to define pounds force as well, then the
+   same relationship will hold between pounds-force and kilograms-force
+   (an old non-SI unit is still used). If a different value is used to
+   define pounds force, then the relationship to kilograms force will be
+   slightly different—but in any case, that relationship is also a
+   constant anywhere in the universe. What is not constant throughout the
+   universe is the amount of force in terms of pounds-force (or any other
+   force units) which 1 lb will exert due to gravity.
+
+   By analogy with the slug, there is a rarely used unit of mass called
+   the "metric slug". This is the mass that accelerates at one metre per
+   second squared when pushed by a force of one kgf. An item with a mass
+   of 10 kg has a mass of 1.01972661 metric slugs (= 10 kg divided by
+   9.80665 kg per metric slug). This unit is also known by various other
+   names such as the hyl, TME (from a German acronym), and mug (from
+   metric slug).
+
+   Another unit of force called the poundal (pdl) is defined as the force
+   that accelerates 1 lbm at 1 foot per second squared. Given that 1 lbf =
+   32.174 lb times one foot per second squared, we have 1 lbf = 32.174
+   pdl. The kilogram-force is a unit of force that was used in various
+   fields of science and technology. In 1901, the CGPM improved the
+   definition of the kilogram-force, adopting a standard acceleration of
+   gravity for the purpose, and making the kilogram-force equal to the
+   force exerted by a mass of 1 kg when accelerated by 9.80665 m/s². The
+   kilogram-force is not a part of the modern SI system, but is still used
+   in applications such as:
+     * Thrust of jet and rocket engines
+     * Spoke tension of bicycles
+     * Draw weight of bows
+     * Torque wrenches in units such as "meter kilograms" or "kilogram
+       centimetres" (the kilograms are rarely identified as units of
+       force)
+     * Engine torque output (kgf·m expressed in various word orders,
+       spellings, and symbols)
+     * Pressure gauges in "kg/cm²" or "kgf/cm²"
+
+   In colloquial, non-scientific usage, the "kilograms" used for "weight"
+   are almost always the proper SI units for this purpose. They are units
+   of mass, not units of force.
+
+   The symbol "kgm" for kilograms is also sometimes encountered. This
+   might occasionally be an attempt to distinguish kilograms as units of
+   mass from the "kgf" symbol for the units of force. It might also be
+   used as a symbol for those obsolete torque units (kilogram-force
+   metres) mentioned above, used without properly separating the units for
+   kilogram and metre with either a space or a centered dot.
+
+Conversions
+
+   Below are several conversion factors between various measurements of
+   force:
+     * 1 dyne = 10^-5 newtons
+     * 1 kgf (kilopond kp) = 9.80665 newtons
+     * 1 metric slug = 9.80665 kg
+     * 1 lbf = 32.174 poundals
+     * 1 slug = 32.174 lb
+     * 1 kgf = 2.2046 lbf
+
+   Retrieved from " http://en.wikipedia.org/wiki/Force"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

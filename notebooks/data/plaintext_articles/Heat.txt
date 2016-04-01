@@ -1,0 +1,416 @@
+   #copyright
+
+Heat
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics, heat, symbolized by Q, is defined as energy in transit.
+   Generally, heat is a form of energy transfer associated with the
+   different motions of atoms, molecules and other particles that comprise
+   matter when it is hot and when it is cold. High temperature bodies,
+   which often result in high heat transfer, can be created by chemical
+   reactions (such as burning), nuclear reactions (such as fusion taking
+   place inside the Sun), electromagnetic dissipation (as in electric
+   stoves), or mechanical dissipation (such as friction). Heat can be
+   transferred between objects by radiation, conduction and convection.
+   Temperature, defined as the measure of an object to spontaneously give
+   up energy, is used as a measure of the internal energy or enthalpy,
+   that is the level of elementary motion giving rise to heat transfer.
+   Heat can only be transferred between objects, or areas within an
+   object, with different temperatures (as given by the zeroth law of
+   thermodynamics), and then, in the absence of work, only in the
+   direction of the colder body (as per the second law of thermodynamics).
+
+History
+
+   The first to have put forward a semblance of a theory on heat was the
+   Greek philosopher Heraclitus who lived around 500 BC in the city of
+   Ephesus in Ionia, Asia Minor. He became famous as the "flux and fire"
+   philosopher for his proverbial utterance: "All things are flowing."
+   Heraclitus argued that the three principle elements in nature were
+   fire, earth, and water. Of these three, however, fire is assigned as
+   the central element controlling and modifying the other two. The
+   universe was postulated to be in a continuous state of flux or
+   permanent condition of change as a result of transformations of fire.
+   Heraclitus summarized his philosophy as: "All things are an exchange
+   for fire."
+
+   As early as 460 BC Hippocrates, the father of medicine, postulated
+   that:
+
+
+Heat
+
+    Heat, a quantity which functions to animate, derives from an internal
+                     fire located in the left ventricle.
+
+
+                                                                         Heat
+
+   The hypothesis that heat is a form of motion was proposed initially in
+   the 12th century. Around 1600, the English philosopher and scientist
+   Francis Bacon surmised that:
+
+
+   Heat
+
+       Heat itself, its essence and quiddity is motion and nothing else.
+
+
+                                                                         Heat
+
+   This echoed the mid-17th century view of English scientist Robert
+   Hooke, who stated:
+
+
+Heat
+
+    heat being nothing else but a brisk and vehement agitation of the parts
+                                  of a body.
+
+
+                                                                           Heat
+
+   In 1761, Scottish chemist Joseph Black discovered that ice absorbs heat
+   without changing temperature when melting. From this he concluded that
+   the heat must have combined with the ice particles and become latent.
+   Between 1759 and 1763 he evolved that theory of " latent heat" on which
+   his scientific fame chiefly rests, and also showed that different
+   substances have different specific heats. James Watt, who later
+   invented the Watt engine, was Black's pupil and assistant.
+
+   In this direction, the ability to be able to use heat transfer to
+   generate work allowed the invention and development of the steam engine
+   by people such as Thomas Newcomen and James Watt. In addition, in 1797
+   a cannon manufacturer Sir Benjamin Thompson, Count Rumford,
+   demonstrated through the use of friction it was possible to convert
+   work to heat. To do this, he designed a specially shaped cannon barrel,
+   thoroughly insulated against heat loss, then replaced the sharp boring
+   tool with a dull drill bit, and immersed the front part of the gun in a
+   tank full of water. Using this setup, to the amazement of his
+   onlookers, he made cold water boil in two-and-half-hours time, without
+   the use of fire.
+
+   Several theories on the nature of heat were developed. In the 17th
+   century, Johann Becher proposed that heat was associated with an
+   undetectable material called phlogiston that was driven out of a
+   substance when it was burnt. This was finally refuted by Lavosier
+   demonstrating the importance of oxygen in burning in 1783. He proposed
+   instead the caloric theory which saw heat as a type of weightless,
+   invisible fluid that moved when out of equilibrium. It was this theory
+   used in 1824 by the French engineer Sadi Carnot when he published
+   Reflections on the Motive Power of Fire. He set forth the importance of
+   heat transfer: "production of motive power is due not to an actual
+   consumption of caloric, but to its transportation form a warm body to a
+   cold body, i.e. to its re-establishment of equilibrium." According to
+   Carnot, this principle applies to any machine set in motion by heat.
+
+   Another theory was the kinetic theory of gases, the basis of which was
+   laid out in 1738 by the Swiss physician and mathematician Daniel
+   Bernoulli in his Hydrodynamica. In this work, Bernoulli first proposed
+   that gases consist of great numbers of molecules moving in all
+   directions, that their impact on a surface causes the gas pressure that
+   we feel. The internal energy of a substance is then the sum of the
+   kinetic energy associated with each molecule, and heat transfer occurs
+   from regions with energetic molecules, and so high internal energy, to
+   those with less energetic molecules, and so lower internal energy.
+
+   The work of Joule and Mayer demonstrated that heat and work were
+   interchangeable, and led to the statement of the principle of the
+   conservation of energy by Hermann von Helmholtz in 1847. Clausius
+   demonstrated in 1850 that caloric theory could be reconciled with
+   kinetic theory provided that the conservation of energy was employed
+   rather than the movement of a substance, and stated the First Law of
+   Thermodynamics.
+
+Overview
+
+   Under the First Law of Thermodynamics, heat (and work) are processes
+   that change the internal energy of a substance or object. Heat is the
+   transfer of energy over the boundary of a system owing to a temperature
+   gradient. The SI unit for heat is the joule (as it is a form of
+   energy), though the British Thermal Unit is still occasionally used in
+   the United States.
+   Heat emanating from a red-hot iron rod.
+   Enlarge
+   Heat emanating from a red-hot iron rod.
+
+   Heat is a process quantity, as opposed to being a state quantity, and
+   is to thermal energy as work is to mechanical energy. Heat flows
+   between regions that are not in thermal equilibrium with each other; it
+   spontaneously flows from areas of high temperature to areas of low
+   temperature. All objects (matter) have a certain amount of internal
+   energy, a state quantity that is related to the random motion of their
+   atoms or molecules. When two bodies of different temperature come into
+   thermal contact, they will exchange internal energy until the
+   temperature is equalized; that is, until they reach thermal
+   equilibrium. The amount of energy transferred is the amount of heat
+   exchanged. It is a common misconception to confuse heat with internal
+   energy: heat is related to the change in internal energy and the work
+   performed by the system. The term heat is used to describe the flow of
+   energy, while the term internal energy is used to describe the energy
+   itself.
+
+   In common usage the term heat denotes the warmth, or hotness, of
+   surrounding objects and is used to mean that an object has a high
+   temperature. The concept that warm objects "contain heat" is not
+   uncommon, but hot is nearly always used as a relative term (an object
+   is hot compared with its surroundings or those of the person using the
+   term) so that high temperature is directly associated with high heat
+   transfer.
+
+   The amount of heat that has to be transferred to or from an object when
+   its temperature varies by one degree is called heat capacity. Heat
+   capacity is specific to each and every object or substance. When
+   referred to a quantity unit (such as mass or moles), the heat exchanged
+   per degree is termed specific heat, and depends primarily on the
+   composition and physical state (phase) of an object. Fuels generate
+   predictable amounts of heat when burned; this heat is known as heating
+   value and is expressed per unit of quantity. Upon changing from one
+   phase to another, pure substances can exchange heat without their
+   temperature suffering any change. The amount of heat exchanged during a
+   phase change is known as latent heat and depends primarily on the
+   substance and the initial and final phase.
+
+Notation
+
+   The total amount of energy transferred through heat transfer is
+   conventionally abbreviated as Q. The conventional sign convention is
+   that when a body releases heat into its surroundings, Q < 0 (-); when a
+   body absorbs heat from its surroundings, Q > 0 (+). Heat transfer rate,
+   or heat flow per unit time, is denoted by:
+
+          \dot{Q} = {dQ\over dt} \,\! .
+
+   It is measured in watts. Heat flux is defined as rate of heat transfer
+   per unit cross-sectional area, and is denoted q, resulting in units of
+   watts per metre squared. Slightly different notation conventions can be
+   used, which may denote heat flux as, for example, \dot{Q}'' .
+
+Thermodynamics
+
+   Heat is related to the internal energy U of the system and work W done
+   by the system by the first law of thermodynamics:
+
+          \Delta U = Q - W \
+
+   which means that the energy of the system can change either via work or
+   via heat. The transfer of heat to an ideal gas at constant pressure
+   increases the internal energy and performs boundary work (i.e. allows a
+   control volume of gas to become larger or smaller), provided the volume
+   is not constrained. Returning to the first law equation and separating
+   the work term into two types, "boundary work" and "other" (e.g. shaft
+   work performed by a compressor fan), yields the following:
+
+          \Delta U + W_{boundary} = Q - W_{other}\
+
+   This combined quantity ΔU + W[boundary] is enthalpy, H, one of the
+   thermodynamic potentials. Both enthalpy, H, and internal energy, U are
+   state functions. State functions return to their initial values upon
+   completion of each cycle in cyclic processes such as that of a heat
+   engine. In contrast, neither Q nor W are properties of a system and
+   need not sum to zero over the steps of a cycle. The infinitesimal
+   expression for heat, δQ, forms an inexact differential for processes
+   involving work. However, for processes involving no change in volume,
+   applied magnetic field, or other external parameters, δQ, forms an
+   exact differential. Likewise, for adiabatic processes (no heat
+   transfer), the expression for work forms an exact differential, but for
+   processes involving transfer of heat it forms an inexact differential .
+
+   The changes in enthalpy and internal energy can be related to the heat
+   capacity of a gas at constant pressure and volume respectively. When
+   there is no work, the heat , Q, required to change the temperature of a
+   gas from an initial temperature, T[0], to a final temperature, T[f]
+   depends on the relationship:
+
+          Q = \int_{T_0}^{T_f}C_p\,dT \,\!
+
+   for constant pressure, whereas at constant volume:
+
+          Q = \int_{T_0}^{T_f}C_v\,dT \,\!
+
+   For incompressible substances, such as solids and liquids, there is no
+   distinction among the two expressions as they are nearly
+   incompressible. Heat capacity is an extensive quantity and as such is
+   dependent on the number of molecules in the system. It can be
+   represented as the product of mass, m , and specific heat capacity, c_s
+   \,\! according to:
+
+          C_p = mc_s \,\!
+
+   or is dependent on the number of moles and the molar heat capacity, c_n
+   \,\! according to:
+
+          C_p = nc_n \,\!
+
+   The molar and specific heat capacities are dependent upon the internal
+   degrees of freedom of the system and not on any external properties
+   such as volume and number of molecules.
+
+   The specific heats of monatomic gases (e.g., helium) are nearly
+   constant with temperature. Diatomic gases such as hydrogen display some
+   temperature dependence, and triatomic gases (e.g., carbon dioxide)
+   still more.
+
+   In liquids at sufficiently low temperatures, quantum effects become
+   significant. An example is the behaviour of bosons such as helium-4.
+   For such substances, the behaviour of heat capacity with temperature is
+   discontinuous at the Bose-Einstein condensation point.
+
+   The quantum behaviour of solids is adequately characterized by the
+   Debye model. At temperatures well below the characteristic Debye
+   temperature of a solid lattice, its specific heat will be proportional
+   to the cube of absolute temperature. A second, smaller term is needed
+   to complete the expresssion for low-temperature metals having
+   conduction electrons, an example of Fermi-Dirac statistics.
+
+Changes of phase
+
+   The boiling point of water, at sea level and normal atmospheric
+   pressure and temperature will always be at nearly 100 °C no matter how
+   much heat is added. The extra heat changes the phase of the water from
+   liquid into water vapor. The heat added to change the phase of a
+   substance in this way is said to be "hidden," and thus it is called
+   latent heat (from the Latin latere meaning "to lie hidden"). Latent
+   heat is the heat per unit mass necessary to change the state of a given
+   substance, or:
+
+          L = \frac{Q}{\Delta m} \,\!
+
+   and
+
+          Q = \int_{M_0}^{M} L\,dm \,\!
+
+   Note that as pressure increases, the L rises slightly. Here, M[o] is
+   the amount of mass initially in the new phase, and M is the amount of
+   mass that ends up in the new phase. Also,L generally does not depend on
+   the amount of mass that changes phase, so the equation can normally be
+   written:
+
+          Q = L\Delta m \,\!
+
+   Sometimes L can be time-dependent if pressure and volume are changing
+   with time, so that the integral can be written as:
+
+          Q = \int L\frac{dm}{dt}dt \,\!
+
+Heat transfer mechanisms
+
+   As mentioned previously, heat tends to move from a high temperature
+   region to a low temperature region. This heat transfer may occur by the
+   mechanisms conduction and radiation. In engineering, the term
+   convective heat transfer is used to describe the combined effects of
+   conduction and fluid flow and is regarded as a third mechanism of heat
+   transfer.
+
+Conduction
+
+   Conduction is the most significant means of heat transfer in a solid.
+   On a microscopic scale, conduction occurs as hot, rapidly moving or
+   vibrating atoms and molecules interact with neighboring atoms and
+   molecules, transferring some of their energy (heat) to these
+   neighboring atoms. In insulators the heat flux is carried almost
+   entirely by phonon vibrations.
+
+   The "electron fluid" of a conductive metallic solid conducts nearly all
+   of the heat flux through the solid. Phonon flux is still present, but
+   carries less than 1% of the energy. Electrons also conduct electric
+   current through conductive solids, and the thermal and electrical
+   conductivities of most metals have about the same ratio. A good
+   electrical conductor, such as copper, usually also conducts heat well.
+   The Peltier-Seebeck effect exhibits the propensity of electrons to
+   conduct heat through an electrically conductive solid.
+   Thermoelectricity is caused by the relationship between electrons, heat
+   fluxes and electrical currents.
+
+Convection
+
+   Convection is usually the dominant form of heat transfer in liquids and
+   gases. This is a term used to characterize the combined effects of
+   conduction and fluid flow. In convection, enthalpy transfer occurs by
+   the movement of hot or cold portions of the fluid together with heat
+   transfer by conduction. For example, when water is heated on a stove,
+   hot water from the bottom of the pan rises, heating the water at the
+   top of the pan. Two types of convection are commonly distinguished,
+   free convection, in which gravity and buoyancy forces drive the fluid
+   movement, and forced convection, where a fan, stirrer, or other means
+   is used to move the fluid. Buoyant convection is because of the effects
+   of gravity, and hence does not occur in microgravity environments.
+
+Radiation
+
+   Radiation is the only form of heat transfer that can occur in the
+   absence of any form of medium and as such is the only means of heat
+   transfer through a vacuum. Thermal radiation is a direct result of the
+   movements of atoms and molecules in a material. Since these atoms and
+   molecules are composed of charged particles (protons and electrons),
+   their movements result in the emission of electromagnetic radiation,
+   which carries energy away from the surface. At the same time, the
+   surface is constantly bombarded by radiation from the surroundings,
+   resulting in the transfer of energy to the surface. Since the amount of
+   emitted radiation increases with increasing temperature, a net transfer
+   of energy from higher temperatures to lower temperatures results.
+
+   The frequencies of the emitted photons are described by the Planck
+   distribution. A black body at higher temperature will emit photons
+   having a distributional peak at a higher frequency than will a colder
+   object, and their respective spectral peaks will be separated according
+   to Wien's displacement law. The photosphere of the Sun, at a
+   temperature of approximately 6000 K, emits radiation principally in the
+   visible portion of the spectrum. The solar radiation incident upon the
+   earth's atmosphere is largely passed through to the surface. The
+   atmosphere is largely transparent in the visible spectrum. However, in
+   the infrared spectrum that is characteristic of a blackbody at 300K,
+   the temperature of the earth, the atmosphere is largely opaque. The
+   blackbody radiation from earth's surface is absorbed or scattered by
+   the atmosphere. Though some radiation escapes into space, it is the
+   radiation absorbed and subsequently emitted by atmospheric gases. It is
+   this spectral selectivity of the atmosphere that is responsible for the
+   planetary greenhouse effect.
+
+   The behaviour of a common household lightbulb has a spectrum
+   overlapping the blackbody spectra of the sun and the earth. A portion
+   of the photons emitted by a tungsten light bulb filament at 3000K lie
+   in the visible spectrum. However, the majority of the photonic energy
+   is associated with longer wavelengths and will transfer heat to the
+   environment, as can be deduced empirically by observing a household
+   incandescent lightbulb. Whenever EM radiation is emitted and then
+   absorbed, heat is transferred. This principle is used in microwave
+   ovens, laser cutting, and RF hair removal.
+
+Other heat transfer mechanisms
+
+     * Latent heat: Transfer of heat through a physical change in the
+       medium such as water-to-ice or water-to-steam involves significant
+       energy and is exploited in many ways: steam engine, refrigerator
+       etc. (see latent heat of fusion)
+     * Heat pipe: Using latent heat and capillary action to move heat, it
+       can carry many times as much heat as a similar sized copper rod.
+       Originally invented for use in satellites, they are starting to
+       have applications in personal computers.
+
+Heat dissipation
+
+   In cold climates, houses with their heating systems form dissipative
+   systems. In spite of efforts to insulate such houses, to reduce heat
+   losses to their exteriors, considerable heat is lost, or dissipated,
+   from them which can make their interiors uncomfortably cool or cold.
+   Furthermore, the interior of the house must be maintained out of
+   thermal equilibrium with its external surroundings for the comfort of
+   its inhabitants. In effect domestic residences are oases of warmth in a
+   sea of cold and the thermal gradient between the inside and outside is
+   often quite steep. This can lead to problems such as condensation and
+   uncomfortable draughts which, if left unaddressed, can cause structural
+   damage to the property. This is why modern insulation techniques are
+   required to reduce heat loss.
+
+   In such a house, a thermostat is a device capable of starting the
+   heating system when the house's interior falls below a set temperature,
+   and of stopping that same system when another (higher) set temperature
+   has been achieved. Thus the thermostat controls the flow of energy into
+   the house, that energy eventually being dissipated to the exterior.
+   Retrieved from " http://en.wikipedia.org/wiki/Heat"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,137 @@
+   #copyright
+
+Explorer I
+
+2007 Schools Wikipedia Selection. Related subjects: Space transport
+
+                                                       CAPTION: Explorer I
+
+                                        Explorer 1
+                               Organization: Army Ballistic Missile Agency
+                          Major contractors:     Jet Propulsion Laboratory
+                               Mission type:                 Earth Science
+                               Satellite of:                         Earth
+                                     Launch: February 1, 1958 at 03:48 UTC
+                             Launch vehicle:                        Juno I
+                                      Decay:                March 31, 1970
+                           Mission duration:                      111 days
+                                       Mass:                    13.9703 kg
+                                   NSSDC ID:                     1958-001A
+                                    Webpage:                          NASA
+                                                         Orbital elements
+                             Semimajor axis:                    7,832.2 km
+                               Eccentricity:                       .139849
+                                Inclination:                        33.24°
+                             Orbital period:                 114.8 minutes
+                                     Apogee:                      2,550 km
+                                    Perigee:                        358 km
+                                     Orbits:                       ~56,000
+                                                              Instruments
+                   Geiger-Mueller detector :      Detection of cosmic rays
+                           Wire grid array :      Micrometeorite detection
+                         Acoustic detector :      Micrometeorite detection
+
+   Explorer-I, officially Satellite 1958 Alpha (and sometimes referred to
+   as Explorer 1), was the first Earth satellite of the United States,
+   having been launched at 10:48pm EST on January 31 (03:48 on 1 February
+   in GMT), 1958, as part of the United States program for the
+   International Geophysical Year. The satellite was launched from LC-26
+   at Cape Canaveral Air Force Station in Florida onboard a Juno I rocket.
+
+Mission
+
+   Following the launch of the Soviet satellite Sputnik I on October 4,
+   1957, there was a frenzied effort by the United States to launch a
+   satellite of its own, beginning the Space Race. Explorer-I was designed
+   and built by the Jet Propulsion Laboratory (JPL), while the Jupiter-C
+   rocket was modified by the Army Ballistic Missile Agency (ABMA) to
+   accommodate a satellite payload, the resulting rocket becoming known as
+   the Juno I. Working closely together, ABMA and JPL completed the job of
+   modifying the Jupiter-C and building the Explorer-I in 84 days. Before
+   work was completed, however, the Soviet Union launched a second
+   satellite, Sputnik 2, on November 3, 1957.
+
+Launch vehicle
+
+   Explorer-I's launch vehicle, the Juno I, has its origins in the United
+   States Army's Project Orbiter in 1954. The project was canceled in
+   1955, however, when the decision was made to proceed with Project
+   Vanguard. The Jupiter-C used for the launch had already been
+   flight-tested in nose cone reentry tests for the Jupiter IRBM).
+
+Spacecraft design
+
+   Explorer-I was designed and built by the Jet Propulsion Laboratory of
+   the California Institute of Technology under the direction of Dr.
+   William H. Pickering. The satellite instrumentation of Explorer-I was
+   designed and built by Dr. James Van Allen of the University of Iowa.
+
+   Explorer-I was the second satellite to carry a mission payload (Sputnik
+   II was the first). Most notably, it was equipped with a geiger counter
+   for the purposes of detecting cosmic rays. Sometimes the
+   instrumentation would report the expected cosmic-ray count (~30 counts
+   per second) but sometimes it would show a peculiar 0 counts per second.
+   The Iowa group (under Van Allen) noted that all of the 0 counts per
+   second reports were from an altitude of 2000+ km over South America,
+   while passes at 500 km would show the expected level of cosmic rays.
+   After Explorer III, it was decided that the original geiger counter had
+   been overwhelmed by strong radiation coming from a belt of charged
+   particles trapped in space by the Earth's magnetic field, now known as
+   a Van Allen radiation belt.
+
+Mission results
+
+   The discovery of the Van Allen Belts by the Explorer satellites was
+   considered to be one of the outstanding discoveries of the
+   International Geophysical Year.
+
+   Explorer-I was placed in an orbit with a perigee of 360 kilometers (224
+   miles) and an apogee of 2520 kilometers (1575 miles) having a period of
+   114.9 minutes. The total weight was 13.97 kilograms (30.8 lb), of which
+   8.3 kilograms (18.3 lb) were instrumentation. The instrument section at
+   the front end of the satellite and the empty scaled-down fourth-stage
+   rocket casing orbited as a single unit, spinning around its long axis
+   at 750 revolutions per minute.
+
+   Instrumentation consisted of a cosmic-ray detection package, an
+   internal temperature sensor, three external temperature sensors, a
+   nose-cone temperature sensor, a micrometeorite impact microphone, and a
+   ring of micrometeorite erosion gauges. Data from these instruments were
+   transmitted to the ground by a 60-milliwatt transmitter operating on
+   108.03 megahertz and a 10 milliwatt transmitter operating on 108.00
+   MHz.
+
+   Transmitting antennas consisted of two fibreglass slot antennas in the
+   body of the satellite itself and four flexible whips forming a
+   turnstile antenna. The rotation of the satellite about its long axis
+   kept the flexible whips extended.
+
+   The external skin of the instrument section was painted in alternate
+   strips of white and dark green to provide passive temperature control
+   of the satellite. The proportions of the light and dark strips were
+   determined by studies of shadow-sunlight intervals based on firing
+   time, trajectory, orbit, and inclination.
+
+   Electrical power was provided by nickel-cadmium chemical batteries that
+   made up approximately 40 percent of the payload weight. These provided
+   power that operated the high power transmitter for 31 days and the
+   low-power transmitter for 105 days.
+
+   Because of the limited space available and the requirements for low
+   weight, the Explorer-I instrumentation was designed and built with
+   simplicity and high reliability in mind. It was completely successful.
+
+   Explorer I stopped transmission of data on May 23, 1958, when its
+   batteries died, but remained in orbit for more than 12 years. It made a
+   fiery reentry over the Pacific Ocean on March 31, 1970. Explorer I was
+   the first of the long-running Explorer program, which as of November
+   2004 has launched 83 Explorer probes.
+
+   The identically-constructed flight backup of Explorer I is currently
+   located in the Smithsonian Institution's National Air and Space Museum,
+   Milestones of Flight Gallery.
+   Retrieved from " http://en.wikipedia.org/wiki/Explorer_I"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

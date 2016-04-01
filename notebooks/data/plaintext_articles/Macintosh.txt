@@ -1,0 +1,881 @@
+   #copyright
+
+Macintosh
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   The Macintosh 128K, the first Macintosh computer, introduced in 1984,
+   upgraded to a 512K "Fat Mac"
+   The Macintosh 128K, the first Macintosh computer, introduced in 1984,
+   upgraded to a 512K "Fat Mac"
+
+   Mac (formerly Macintosh) currently refers to any personal computer
+   designed, developed, manufactured, and marketed by Apple Inc.. Named
+   after the McIntosh variety of apple, the original Macintosh was
+   released on January 24, 1984. It was the first commercially successful
+   personal computer to use a graphical user interface (GUI) and mouse
+   instead of the then-standard command line interface. The current range
+   of Macs varies from Apple's entry level Mac mini desktop, to a
+   mid-range server, the Xserve. Mac systems are mainly targeted at the
+   home, education, and creative professional markets. Production of the
+   Mac is based upon a vertical integration model in that Apple
+   facilitates all aspects of its hardware and creates its own operating
+   system that is pre-installed on all Macs. This is in contrast to PCs
+   pre-installed with Microsoft Windows, where one vendor provides the
+   operating system and multiple vendors create the hardware. (In both
+   cases, the hardware can run other operating systems; modern Macs, like
+   PC's, are capable of running operating systems such as Linux, FreeBSD
+   and Windows.)
+
+   Original Macintosh computers used the Motorola 68k family of
+   microprocessors, but later models switched to Motorola and IBM's
+   PowerPC range of CPUs in 1994. Apple began a transition from the
+   PowerPC line to Intel's x86 architecture in 2006, which for the first
+   time allowed Macs to run native operating system binaries for the x86
+   architecture. Current Macs use the Intel Core, Intel Core 2 and Intel
+   Xeon 5100 series microprocessors. All current Mac models come
+   pre-installed with a native version of the latest Mac OS X, which is
+   currently at version 10.4.9 and is commonly referred to by its code
+   name of "Tiger". Apple will be releasing Mac OS X v10.5, codenamed
+   "Leopard", in October of 2007.
+
+History
+
+1979 to 1984: Development
+
+   The Macintosh project started in early 1979 with Jef Raskin, an Apple
+   employee, who envisioned an easy-to-use, low-cost computer for the
+   average consumer. In September 1979, Raskin was authorized to start
+   hiring for the project, and he began to look for an engineer who could
+   put together a prototype. Bill Atkinson, a member of Apple's Lisa team
+   (which was developing a similar but higher-end computer), introduced
+   him to Burrell Smith, a service technician who had been hired earlier
+   that year as Apple employee #282. Over the years, Raskin assembled a
+   large development team that designed and built the original Macintosh
+   hardware and software; besides Raskin, Atkinson and Smith, the team
+   included Chris Espinosa, Joanna Hoffman, George Crow, Jerry Manock,
+   Susan Kare, and Andy Hertzfeld.
+
+   Smith’s first Macintosh board was built to Raskin’s design
+   specifications: it had 64 kibibytes (KiB) of RAM, used the Motorola
+   6809E microprocessor, and was capable of supporting a 256×256 pixel
+   black-and-white bitmap display. (The final product used a 9-inch,
+   512x342 monochrome display.) Bud Tribble, a Macintosh programmer, was
+   interested in running the Lisa’s graphical programs on the Macintosh,
+   and asked Smith whether he could incorporate the Lisa’s Motorola 68000
+   microprocessor into the Mac while still keeping the production cost
+   down. By December 1980, Smith had succeeded in designing a board that
+   not only used the 68000, but bumped its speed from 5 to 8 megahertz
+   (MHz); this board also had the capacity to support a 384×256 bitmap
+   display. Smith’s design used fewer RAM chips than the Lisa, which made
+   production of the board significantly more cost-efficient. The final
+   Mac design was self-contained and had far more programming code in ROM
+   than most other computers; it had 128 KiB of RAM, in the form of
+   sixteen, 64  kilobit (Kb) RAM chips soldered to the logicboard. Though
+   there were no memory slots, its RAM was expandable to 512 KiB by means
+   of soldering sixteen 256 Kib RAM chips in place of the
+   factory-installed chips.
+
+   The innovative design caught the attention of Steve Jobs, co-founder of
+   Apple. Realizing that the Macintosh was more marketable than the Lisa,
+   he began to focus his attention on the project. Raskin finally left the
+   Macintosh project in 1981 over a personality conflict with Jobs, and
+   the final Macintosh design is said to be closer to Jobs’ ideas than
+   Raskin’s. After hearing of the pioneering GUI technology being
+   developed at Xerox PARC, Jobs negotiated a visit to see the Xerox Alto
+   computer and Smalltalk development tools in exchange for Apple stock
+   options. The Lisa and Macintosh user interfaces were partially
+   influenced by technology seen at Xerox PARC and were combined with the
+   Macintosh group's own ideas. Jobs also commissioned industrial designer
+   Hartmut Esslinger to work on the Macintosh line, resulting in the "Snow
+   White" design language; although it came too late for the earliest
+   Macs, it was implemented in most other mid- to late-1980s Apple
+   computers. However, Jobs’s leadership at the Macintosh project was
+   short-lived; after an internal power struggle with new CEO John
+   Sculley, Jobs was fired from Apple in 1985, went on to found NeXT,
+   another computer company, and did not return until 1997. CEO John
+   Sculley raised the price from US$1,995 to US$2,495 to pay for a massive
+   marketing campaign.
+
+1984: Introduction
+
+   The Macintosh was officially announced on January 22, 1984, with the
+   now-famous 1984 Super Bowl commercial directed by Ridley Scott. This
+   commercial showed a woman, played by Anya Major, who defiantly throws a
+   sledgehammer at a Big Brother-like video screen (which represented
+   IBM). This symbolized Apple's bringing 'power to the people' by
+   challenging the text-based computers that dominated the market at the
+   time.
+
+   The Mac itself went on sale for US$2,495, two days after the ad aired.
+   It came bundled with two useful programs designed to show off its
+   interface: MacWrite and MacPaint. Although the Mac garnered an
+   immediate, enthusiastic following, it was too radical for some. Because
+   the machine was entirely designed around the GUI, existing text-mode
+   and command-driven programs had to be redesigned and rewritten; this
+   was a challenging undertaking that many software developers shied away
+   from, and resulted in an initial lack of software for the new system.
+   Many users, accustomed to the arcane world of command lines, labeled
+   the Mac a mere “toy.”
+
+1985 to 1989: The desktop publishing era
+
+   In 1985, the combination of the Mac, Apple’s LaserWriter printer, and
+   Mac-specific software like Boston Software’s MacPublisher and Aldus
+   PageMaker (superseded by Adobe InDesign) enabled users to design,
+   preview, and print page layouts complete with text and graphics, an
+   activity known as desktop publishing. Desktop publishing was unique to
+   the Macintosh, but eventually became available for PC users as well.
+   Later, programs such as Macromedia FreeHand, QuarkXPress, and Adobe
+   Illustrator strengthened the Mac’s position as a graphics computer and
+   helped to expand the emerging desktop publishing market.
+
+   The limitations of the first Mac soon became clear: it had very little
+   memory, even compared with other personal computers in 1984, and could
+   not be expanded easily; and it lacked a hard drive and the means to
+   attach one easily. Although by 1985 the Mac’s base memory had increased
+   to 512 KiB, and it was possible, although inconvenient and difficult,
+   to expand the memory of a 128 KiB Mac, Apple realized that the Mac
+   needed improvement in these areas. The result was the Macintosh Plus,
+   released on January 10, 1986 for US$2,600. It offered one mebibyte
+   (MiB) of RAM, expandable to four, and a then-revolutionary SCSI
+   parallel interface, allowing up to seven peripherals—such as hard
+   drives and scanners—to be attached to the machine. Its floppy drive was
+   increased to an 800  KB capacity. The Plus was an immediate success and
+   remained in production until October 15, 1990; on sale for just over
+   four years and ten months, it was the longest-lived Mac in Apple's
+   history.
+   The Macintosh II, the first expandable Macintosh.
+   The Macintosh II, the first expandable Macintosh.
+
+   Other issues remained, particularly the low processor speed and limited
+   graphics ability, which had hobbled the Mac’s ability to make inroads
+   into the business computing market. Updated Motorola CPUs made a faster
+   machine possible, and in 1987 Apple took advantage of the new Motorola
+   technology and introduced the Macintosh II, which used a 16 MHz
+   Motorola 68020 processor. This marked the start of a new direction for
+   the Macintosh, as now, for the first time, it had open architecture
+   with several expansion slots, support for colour graphics and a modular
+   break out design similar to that of the IBM PC and inspired by Apple’s
+   other line, the expandable Apple II series. Alongside the Macintosh II,
+   the Macintosh SE was released, the first compact Mac with an internal
+   expansion slot (a processor direct slot) specific to the machine. The
+   SE shared the Macintosh II's “Snow White” design language, as well as
+   the new Apple Desktop Bus mouse and keyboard that had first appeared on
+   the Apple IIGS some months earlier.
+
+   With the new Motorola 68030 processor came the Macintosh IIx in 1988,
+   which had benefited from internal improvements, including an on-board
+   MMU. It was followed in 1989 by a more compact version with fewer slots
+   (the Macintosh IIcx) and a version of the Mac SE powered by the 16 MHz
+   68030 (the Macintosh SE/30). Later that year, the Macintosh IIci,
+   running at 25 MHz, was the first Mac to be “ 32-bit clean,” allowing it
+   to natively support more than 8 MiB of RAM, unlike its predecessors,
+   which had “32-bit dirty” ROMs (8 of the 32 bits available for
+   addressing were used for OS level flags). System 7 was the first
+   Macintosh operating system to support 32-bit addressing. Apple also
+   introduced the Macintosh Portable, a 16 MHz 68000 machine with an
+   active matrix flat panel display. The following year the 40 MHz
+   Macintosh IIfx, starting at about US$9,900, was unveiled. Apart from
+   its fast processor, it had significant internal architectural
+   improvements, including faster memory and a pair of dedicated 6502 CPUs
+   for I/O processing.
+
+1990 to 1998: Growth and decline
+
+   The Macintosh Classic, Apple's early 1990s budget model.
+   The Macintosh Classic, Apple's early 1990s budget model.
+
+   Microsoft Windows 3.0, which began to approach the Mac in both
+   performance and feature set, was released in May 1990 and was a usable,
+   less expensive alternative to the Macintosh platform. Apple's response
+   was to introduce a range of relatively inexpensive Macs in October
+   1990. The Macintosh Classic, essentially a less expensive version of
+   the Macintosh SE, sold for US$999, making it the least expensive Mac
+   until the re-release (and subsequent price cut) of the 400 MHz iMac in
+   February 2001. The 68020-powered Macintosh LC, in its distinctive
+   “pizza box” case, was available for US$1800; it offered colour graphics
+   and was accompanied by a new, low-cost 512×384-pixel monitor. The
+   Macintosh IIsi, essentially a 20 MHz IIci with only one expansion slot,
+   cost US$2500. All three machines sold well, although Apple’s profit
+   margin was considerably lower than on earlier machines.
+
+   1991 saw the much-anticipated release of System 7, a 32-bit rewrite of
+   the Macintosh operating system that improved its handling of colour
+   graphics, memory addressing, networking, and co-operative multitasking,
+   and introduced virtual memory. Later that year, Apple introduced the
+   Macintosh Quadra 700 and 900, the first Macs to employ the faster
+   Motorola 68040 processor. They were joined by improved versions of the
+   previous year’s hits, the Macintosh Classic II and Macintosh LC II. The
+   latter was upgraded to use a 16 MHz 68030 CPU.
+
+   At the same time, the first three models in Apple’s enduring PowerBook
+   range were introduced—the PowerBook 100, a miniaturized Macintosh
+   Portable; the 16 MHz 68030 PowerBook 140; and the 25 MHz 68030
+   PowerBook 170. They were the first portable computers with the keyboard
+   behind a palm rest, and with a built-in pointing device (a trackball)
+   in front of the keyboard.
+
+   In 1992, Apple started to sell a low-end Mac, the Performa, through
+   nontraditional dealers. At Apple dealers, a mid-range version of the
+   Quadra series called the Macintosh Centris was offered, only to be
+   quickly renamed Quadra when buyers became confused by the range of
+   Classics, LCs, IIs, Quadras, Performas, and Centrises. Apple also
+   unveiled the miniaturized PowerBook Duo range. It was intended to be
+   docked to a base station for desktop-like functionality in the
+   workplace. The PowerBook Duo was dropped from the Apple product line in
+   early 1997.
+
+   The next evolutionary step in Macintosh CPUs was a switch to the RISC
+   PowerPC architecture developed by the AIM alliance of Apple Computer,
+   IBM, and Motorola. Since its introduction, the Power Macintosh line
+   proved to be highly successful, with over a million units sold by late
+   1994, three months ahead of Apple’s one-year goal. In the same year,
+   Apple released the second-generation PowerBook models, the PowerBook
+   500 series, which introduced the novel trackpad.
+
+   Despite these technical and commercial successes, Microsoft and Intel
+   began to rapidly erode Apple's market share with the Windows 95
+   operating system and Pentium processors respectively. These
+   significantly enhanced the multimedia capability and performance of the
+   PC, and brought Windows still closer to the Mac GUI. In response, Apple
+   started the Macintosh clone program to regain its foothold in the
+   desktop computer market. This succeeded in increasing the Macintosh's
+   market share somewhat, but at the cost of undermining Apple's bottom
+   line. The company saw regular losses over the period when clones were
+   manufactured. As a result, when Steve Jobs returned to Apple in 1997 he
+   pulled the plug on the whole operation, reasoning that despite the
+   machines often providing more value to the consumer, Apple was losing a
+   lot of money in the clone market. This decision caused significant
+   financial losses for companies like Motorola which had invested
+   substantial resources in starting up their own Mac-compatible lines.
+
+1998 to the present: New beginnings
+
+   In 1998, a year after Steve Jobs had returned to the company, Apple
+   introduced an all-in-one Macintosh that was similar to the original
+   Macintosh 128K: the iMac, a new design that did away with most Apple
+   standard connections, such as SCSI and ADB, in favour of two USB ports.
+   It featured an innovative new design; its translucent plastic case,
+   originally Bondi blue, and later many other colors, is considered an
+   industrial design hallmark of the late 1990s. The iMac proved to be
+   phenomenally successful, with 800,000 units sold in 1998, making the
+   company an annual profit of US$309 million — Apple's first profitable
+   year since Michael Spindler took over as CEO in 1995. At MacWorld 2000,
+   San Francisco, Steve Jobs stated that they had sold over 1.35 million
+   iMacs the previous quarter; one every six seconds. The Power Macintosh
+   was redesigned with a similar 'blue and white' aesthetic.
+
+   In 1999, Apple introduced a new operating system, Mac OS X Server 1.0
+   (codenamed Rhapsody), with a new GUI and powerful Unix underpinnings.
+   Its NeXT-like GUI left many Mac users disappointed, and wondering what
+   the next generation of the Mac OS GUI would look like. Mac OS X was
+   based on OPENSTEP, the operating system developed by Steve Jobs’
+   post-Apple company, NeXT. Mac OS X was not released to the public until
+   September 2000, as the Mac OS X Public Beta, with an Aqua interface,
+   much different from Mac OS X Server 1.x. It cost US$29.99 and allowed
+   adventurous Mac users to sample Apple’s new operating system and
+   provide feedback to the company on what they wanted to see in the
+   actual release. The final release of OS X, 10.0 (nicknamed Cheetah),
+   was released on March 24, 2001. Subsequent releases were 10.1 Puma,
+   (September 25, 2001), 10.2 Jaguar, (August 24, 2002), 10.3 Panther,
+   (October 24, 2003), and 10.4 Tiger, (April 29, 2005). Version 10.5
+   Leopard is scheduled to be released to the public October 2007.
+   The MacBook Pro is the first Mac notebook to use an Intel processor. It
+   was released at Macworld 2006.
+   The MacBook Pro is the first Mac notebook to use an Intel processor. It
+   was released at Macworld 2006.
+
+   In mid-1999, Apple introduced the iBook, a new consumer-level, portable
+   Mac that was designed to be similar in appearance to the iMac that had
+   been introduced a year earlier. Six weeks after the iBook’s unveiling,
+   more than 140,000 orders had been placed, and by October the computer
+   was as much a sales hit as the iMac. Apple continued to add new
+   products to their lineup, such as the eMac and PowerBook G4, as well as
+   make two major upgrades of the iMac. On January 11, 2005, Apple
+   announced the release of the Mac mini priced at US$499, the least
+   expensive Mac to date.
+
+   In recent years, Apple has seen a significant boost in sales of Macs.
+   Many claim that this is due, in part, to the success of the iPod, a
+   halo effect whereby satisfied iPod owners purchase more Apple
+   equipment. The iPod digital audio players have recaptured a brand
+   awareness of the Mac line that had not been seen since its original
+   release in 1984. From 2001 to 2005, Mac sales increased continuously on
+   an annual basis. On October 11, 2005, Apple released its fourth quarter
+   results, reporting shipment of 1,236,000 Macs— a 48% increase from the
+   same quarter the previous year. Starting with the introduction of the
+   iMac Core Duo and the MacBook Pro on January 10, 2006, Apple has
+   gradually switched from PowerPC microprocessors to microprocessors
+   manufactured by Intel. Apple completed that transition on August 7,
+   2006 at the Apple Worldwide Developers Conference, with the
+   introduction of the Mac Pro, which is based on Intel's Xeon
+   microprocessor.
+
+Timeline of Macintosh models
+
+   [USEMAP:32305.png]
+
+Current product line
+
+   Image Name Type Market Description
+   The Mac mini Mac mini Desktop Consumer The Mac mini is the least
+   expensive Mac currently in production. It ships without a monitor,
+   keyboard, or mouse. It comes in two versions, both with Core Duo
+   processors.
+   The iMac iMac Desktop Consumer The iMac is Apple’s current flagship
+   consumer desktop computer, powered by the mobile version of the Intel
+   Core 2 Duo CPU. It is an all-in-one unit with screen sizes available at
+   17", 20", and 24".
+   The Mac Pro Mac Pro Desktop Professional The Mac Pro, Apple’s most
+   expensive, high-end workstation computer, replaces the Power Mac G5.
+   The current models feature two dual-core Intel Xeon ('Woodcrest') CPUs
+   or two quad core Intel Xeon ('Clovertown') CPUs. They do not include
+   displays.
+   The white MacBook MacBook Portable Consumer The MacBook is Apple’s
+   consumer portable. It uses an Intel Core 2 Duo processor running at
+   slightly slower speeds (2.0 GHz or 2.16 GHz) than the CPUs in the
+   MacBook Pro line. It replaces both the iBook G4 and the 12-inch
+   PowerBook, which used PowerPC G4 processors.
+   The MacBook Pro MacBook Pro Portable Professional The MacBook Pro is a
+   high-end portable workstation computer which runs on an Intel Core 2
+   Duo processor at 2.16 GHz, or 2.33 GHz, with 15.4 or 17-inch screens.
+   The 17-inch model only comes at 2.33 GHz.
+   The Xserve Xserve Server Enterprise The Xserve is an enterprise-grade
+   1U rack-mount server, specifically marketed towards mission-critical
+   data centers and enterprise client services, is mostly used in
+   clusters, for distributed computing (e.g., protein analysis). It uses
+   Intel Xeon "Woodcrest" processors.
+
+Hardware
+
+   The current Mac product family uses Intel x86 processors. All Mac
+   models ship with at least 512 MiB RAM as standard. Current Mac
+   computers use an ATI Radeon, nVidia GeForce or Intel GMA graphics
+   processor and include either a Combo Drive, a DVD player and CD burner
+   all-in-one; or the SuperDrive, a dual-function DVD and CD burner. Macs
+   include two standard data transfer ports: USB, standardized in 1998
+   with the iMac; and FireWire, a technology developed by Apple to support
+   higher-performance devices; while USB is ubiquitous today, FireWire is
+   mainly reserved for high-performance devices such as hard drives or
+   video cameras.
+
+   In-keeping with the philosophy of making computing as easy as possible,
+   the majority of Mac computers shipped with a single-button mouse. This
+   changed in August 2005, when Apple released the four-button Mighty
+   Mouse (a wireless version was made available on July 25, 2006) and
+   began to ship it with new desktop Macs. Starting with a new iMac G5
+   released in October 2005, Apple started to include built-in iSight
+   cameras to appropriate models, and a media centre interface called
+   Front Row that can be operated by remote control for accessing media
+   stored on the computer.
+
+   In 2007 a new form-factor development, not supported by Apple, is a Mac
+   turned into a tablet PC by aftermarketers. Axiotron is introducing the
+   ModBook, a tablet PC running Mac OS X that is created by re-engineering
+   a standard MacBook.
+
+Processor architecture
+
+   The original Macintosh used a Motorola 68000, a 16/32-bit (32-bit
+   internal) CISC processor that ran at 8 MHz. The Macintosh Portable and
+   PowerBook 100 both used a 16 MHz version. The Macintosh II featured a
+   full 32-bit Motorola 68020 processor, but the Mac ROMs at the time
+   contained software that only supported 24-bit memory addressing,
+   therefore using only a fraction of the chip's memory addressing
+   capabilities unless a software patch was applied. Macs with this
+   limitation were referred to as not being “32-bit clean.” The successor
+   Macintosh IIx introduced the Motorola 68030 processor, which added a
+   memory management unit. The 68030 did not have a built-in floating
+   point unit (FPU); thus, '030-based Macintoshes incorporated a separate
+   unit—either the 68881 or 68882. Lower-cost models did without, although
+   they incorporated an FPU socket, should the user decide to add one as
+   an option. The first “32-bit clean” Macintosh that could use 32-bit
+   memory addressing without a software patch was the IIci. In 1991, Apple
+   released the first computers containing the Motorola 68040 processor,
+   which contained the floating point unit in the main processor. Again,
+   lower-cost models did not have FPUs, being based on the cut-down
+   Motorola 68LC040 instead.
+
+   After 1994 Apple used the PowerPC line of processors, starting with the
+   PowerPC 601, which were later upgraded to the 603 and 603e and 604,
+   604e, and 604ev. In 1997, Apple introduced its first computer based on
+   the significantly upgraded PowerPC G3 processor; this was followed in
+   1999 with the PowerPC G4. The last generation of PowerPC processor to
+   be introduced was the 64-bit PowerPC 970FX ("G5"), introduced in 2003.
+   During the transition to the PowerPC, Apple’s “Cognac” team wrote a
+   68030-to-PowerPC emulator that booted very early in OS loading.
+   Initially the emulation speed wasn't stellar, but later versions used a
+   dynamic recompilation emulator which boosted performance by caching
+   frequently used sections of translated code. The first version of the
+   OS to ship with the earliest PowerPC systems was estimated to run 95%
+   emulated. Later versions of the operating system increased the
+   percentage of PowerPC native code until OS X brought it to 100% native.
+
+   The PowerPC 604 processor introduced symmetric multiprocessing (SMP) to
+   the Macintosh platform, with dual PowerPC 604e-equipped Power Macintosh
+   9500 and 9600 models. The G3 processor was not SMP-capable, but the G4
+   and G5 were, and Apple introduced many dual-CPU G4 and G5 Power Macs.
+   The top of the range Power Macintosh G5 uses up to two dual core
+   processors, for a total of four cores.
+
+   On June 6, 2005, Steve Jobs announced that the company would begin
+   transitioning the Macintosh line from PowerPC to Intel microprocessors
+   (transition completed as of August 7, 2006) and demonstrated a version
+   of Mac OS X running on a computer powered by an Intel Pentium 4 CPU.
+   Intel-powered Macs are able to run Macintosh software compiled for
+   PowerPC processors using a dynamic translation system known as “
+   Rosetta.” The reason for this switch is believed to be IBM’s apparent
+   inability to deliver a CPU suited for Apple's notebooks.
+
+   The first Macs with Intel processors were the iMac and the 15-inch
+   MacBook Pro, both announced at the Macworld Conference and Expo in
+   January 2006. Throughout the year the Mac mini was transitioned to the
+   Intel architecture, with users having choice of either Core Solo or
+   Core Duo CPUs. The iBook product line was phased out by the MacBook
+   (none pro) and on August 7, 2006, the Power Mac G5 was discontinued in
+   favour of the Mac Pro, based on the new Intel Xeon "Woodcrest". The
+   Xserve was also transitioned to an Intel Xeon "Woodcrest". In the
+   second half of 2006 Apple launched new iMac and MacBook lines using the
+   Core 2 Duo processor, claiming them to be up to 25% faster.
+
+Expandability and connectivity
+
+   A typical Universal Serial Bus ("USB") Type A cable; the USB has become
+   standard on modern Mac computers.
+   A typical Universal Serial Bus ("USB") Type A cable; the USB has become
+   standard on modern Mac computers.
+
+   The earliest form of internal Macintosh expandability was the Processor
+   Direct Slot (PDS), present from the SE onwards. It was basically a
+   shortcut to the CPU socket, not a bus—which also meant that parts for
+   the PDS slot were tied to a specific Macintosh model, with the notable
+   exception of the LC PDS slot, which was standardized across the entire
+   LC line. The PDS slot could be used for processor upgrades, Ethernet
+   cards, the Apple IIe Card, or video cards. The last line of Macintoshes
+   to have PDS slots was the first generation of the Power Macs. The first
+   Macintosh to feature a bus for expansion was the Macintosh II, in the
+   form of six NuBus (parallel 32-bit bus) slots. The NuBus was abandoned
+   in favour of PCI in the second-generation Power Macs, and the G4
+   introduced 64-bit PCI slots as well as an AGP slot for video cards
+   (which later became powered to support Apple's ADC-based displays). The
+   Power Mac G5 quickly introduced PCI-X slots, which were short-lived, as
+   the final G5s and the Mac Pro use PCI Express for graphics and
+   expansion. For memory, Apple has used standard SIMMs (30 and 72-pin),
+   proprietary 168-pin DIMMs, and later industry-standard SDRAM and DDR
+   DIMMs.
+
+   The earliest Macintoshes used a special proprietary serial port (a
+   19-pin D-subminiature connector) for external floppy or hard drives,
+   until SCSI was introduced with the Macintosh Plus. SCSI remained the
+   Macintosh drive medium of choice until the mid 1990s, when less
+   expensive ATA drives were introduced, first on budget models, then
+   across the whole range. Current Macintoshes use Serial ATA for internal
+   hard drives, ATA for internal optical drives, and FireWire or USB 2.0
+   for external drives. For peripherals, the Apple Desktop Bus was
+   introduced with the Macintosh II and Macintosh SE. It was the standard
+   input connector for keyboards and mice until USB was introduced with
+   the iMac. The last Macintosh to have ADB was the Power Macintosh G3
+   (Blue & White), alongside USB. Other legacy Macintosh peripheral
+   connectors include the serial GeoPort and the AAUI port for networking.
+   For external video signals, Apple used a DA-15 connector on all models
+   prior to the blue-and-white G3, which used a VGA connector. The
+   original AGP-based G4 used VGA, complemented by DVI; almost all later
+   G4s, however, used the Apple Display Connector in addition to a VGA or
+   DVI port. On the most recent Macs, Apple has used single- or dual-link
+   DVI connectors, with the Power Mac G5 having two connectors allowing
+   dual displays (early Power Mac G5s had one DVI and one ADC port).
+
+Software
+
+Operating system
+
+   The Macintosh operating system was originally known as the System
+   Software or more simply System. With the release of System 7.6, the
+   official name became Mac OS. From 2001, the “classic” Mac OS was phased
+   out in favour of the new BSD Unix-based Mac OS X. Apple had offered
+   another UNIX system, A/UX, for its Macintosh servers earlier, but
+   without much success. The Mac OS operating system is widely considered
+   one of the main selling points of the Mac platform, and Apple heavily
+   touts its releases with large release-day special events. Apple has
+   generally chosen to stick with some loose user-interface elements in
+   all of its releases, and many similarities can be seen between the
+   legacy Mac OS 9 and the modern Mac OS X.
+
+   Mac OS was the first widely used operating system with a graphical
+   interface. No versions of the “classic” Mac OS featured a command line
+   interface. It was originally a single-tasking OS with limited
+   background execution ability, but optional co-operative multitasking
+   was introduced in System Software 5. The next major upgrade was System
+   7 in 1991, which featured a new full-colour design, built-in
+   multitasking, AppleScript, and more user configuration options. Mac OS
+   continued to evolve up to version 9.2.2, but its dated
+   architecture—though retrofitted a few times (for example, as part of
+   the PowerPC port, a nanokernel was added and later in Mac OS 8.6 was
+   modified to support Multiprocessing Services) —made a replacement
+   necessary.
+
+   In March 2001, Apple introduced Mac OS X, a modern and more secure
+   Unix-based successor, using Darwin, XNU, and Mach as foundations. Mac
+   OS X is directly derived from NeXTSTEP, the operating system developed
+   by Steve Jobs’ company NeXT before Apple bought it. Older Mac OS
+   programs can still run under Mac OS X in a special virtual machine
+   called Classic, but this is only possible using Apple software on Macs
+   using PowerPC processors; Macs using Intel processors need third party
+   software to run older code. A program similar to Classic called
+   “Rosetta” will allow PowerPC programs to run on Intel machines. Mac OS
+   X remains the most common UNIX-based desktop operating system, and even
+   though Mac OS X was never originally certified as a UNIX implementation
+   by The Open Group, Apple is currently working on full UNIX compliance
+   and certification for its next server release. Mac OS X is currently at
+   version 10.4 (released on April 29, 2005), code-named Tiger. The next
+   version, Mac OS X v10.5, code-named Leopard, is scheduled to be
+   released in October of 2007.
+
+   Non-Apple operating systems for today’s Macs include Linux, NetBSD, and
+   OpenBSD. With the release of Intel-based Mac computers, the potential
+   to natively run Windows-based operating systems on Apple hardware
+   without the need for emulation software such as Virtual PC was
+   introduced. In March of 2006, a group of hackers announced that they
+   were able to run Windows XP on an Intel based Mac. The group has
+   released their software as open source and has posted it for download
+   on their website. On April 5, 2006 Apple announced the public beta
+   availability of their own Boot Camp software which will allow owners of
+   Intel-based Macs to install Windows XP on their machines. Boot Camp
+   will be a standard feature in Leopard.
+
+Software history
+
+   Since its introduction, the Mac has been criticized for the lesser
+   range of software titles available for its operating system in
+   comparison to DOS and Windows-based PCs. In 1984 it was apparent that a
+   wider range of software was available for the IBM PC, because it used
+   the most popular operating system of the time, MS-DOS. Apple struggled
+   to encourage software developers to port software titles to the
+   Macintosh; however, Bill Gates at Microsoft realized that the GUI would
+   become an industry standard, and that his software would sell in large
+   quantity if it were available for the Macintosh. In 1984 Microsoft Word
+   and Microsoft MultiPlan were available, and were a large selling point
+   for the Mac. However, it lacked other business software and games. In
+   1985, Lotus Software introduced Lotus Jazz after the success of Lotus
+   1-2-3 for the IBM PC, although it was largely a flop.
+
+   In 1987, Apple spun off its software business as Claris. It was given
+   the code and rights to several programs that had been written within
+   Apple, notably MacWrite, MacPaint, and MacProject. In the late 1980s,
+   Claris released a number of revamped software titles; the result was
+   the “Pro” series, including MacPaint Pro, MacDraw Pro, MacWrite Pro,
+   and FileMaker Pro. To provide a complete office suite, Claris purchased
+   the rights to the Informix Wingz spreadsheet on the Mac, renaming it
+   Claris Resolve, and added the new presentation program Claris Impact.
+   By the early 1990s, Claris programs were shipping with the majority of
+   consumer-level Macintoshes and were extremely popular. In 1991, Claris
+   released ClarisWorks, which soon became their second best-selling
+   program. When Claris was later folded back into Apple, ClarisWorks was
+   renamed AppleWorks beginning with version 5.0 (hence the ".cwk"
+   extension at the end of names of AppleWorks documents to this day).
+
+   All new Macs now come with a suite of consumer-level applications,
+   sometimes known as the "iApps". In 1999, a digital video editing
+   application, iMovie, was released for use on the iMac DV. Next came
+   iTunes, a digital jukebox designed to work with Apple’s iPod digital
+   music player, and on January 7, 2002, Apple released iPhoto, an
+   easy-to-use digital photo organizer. In 2004, Apple began to market
+   these applications, along with iDVD and GarageBand, as a US$49 suite
+   called iLife which also comes packaged with every new Apple computer.
+   It is intended to make the Mac versatile out of the box by providing
+   several high-value consumer media applications. The most popular tool
+   in the suite, iTunes, now has a Windows version, and has spawned the
+   most popular online music store, the iTunes Store. iLife '05 was
+   notable for the addition of support for High Definition video and the
+   RAW image format, and for its price increase to US$79. In January 2006,
+   iLife '06 was released; iWeb, a new website creation application, was
+   added to the suite.
+
+   To complement the Mac, Apple has built up a portfolio of digital media
+   applications, as well as three applications that are geared towards
+   productivity (the iWork suite and FileMaker Pro).
+
+Advertising
+
+   Ever since the introduction of the Macintosh in 1984 with the 1984
+   Super Bowl commercial, Apple has been recognized for its efforts
+   towards effective advertising and marketing for the Macintosh. A
+   “Macintosh Introduction” 18-page brochure was included with various
+   magazines in December 1983, often remembered for the presence of Bill
+   Gates on page 11. For a special post-election edition of Newsweek in
+   November 1984, Apple spent more than US $2.5 million to buy all of the
+   advertising pages in the issue (a total of 39). Apple also ran a “Test
+   Drive a Macintosh” promotion that year, in which potential buyers with
+   a credit card could trial a Macintosh for 24 hours and return it to a
+   dealer afterwards. It began to look like a success with 200,000
+   participants, and Advertising Age magazine named this one of the 10
+   best promotions of 1984. However, dealers disliked the promotion and
+   supply of computers was insufficient for demand, and many computers
+   were returned in such a bad shape that they could no longer be sold.
+
+   In 1985 the “Lemmings” commercial aired at the Super Bowl; Apple went
+   as far as to create a newspaper advertisement stating “If you go to the
+   bathroom during the fourth quarter, you'll be sorry.” It was a large
+   failure and did not capture nearly as much attention as the 1984
+   commercial did. Many more brochures for new models like the Macintosh
+   Plus and the Performa followed. In the 1990s Apple started the “What's
+   on your PowerBook?” campaign, with print ads and television commercials
+   featuring celebrities describing how the PowerBook helps them in their
+   businesses and everyday lives.
+
+   In 1995, Apple responded to the introduction of Windows 95 with both
+   several print ads and a television commercial demonstrating its
+   disadvantages and lack of innovation. In 1997 the Think Different
+   campaign introduced Apple’s new slogan, and in 2002 the Switch campaign
+   followed. The most recent advertising strategy by Apple is the Get a
+   Mac campaign, with North American, UK and Japanese variants.
+
+   Today, Apple focuses much of its advertising efforts around “special
+   events,” and keynotes at conferences like the MacWorld Expo and the
+   Apple Expo. The events typically draw a large gathering of media
+   representatives and spectators. In the past, special events have been
+   used to unveil its desktop and notebook computers such as the iMac and
+   MacBook, and other consumer electronic devices like the iPod, Apple TV,
+   and iPhone.
+
+Effects on the technology industry
+
+   Apple has introduced a number of innovations in direct relation to the
+   Macintosh 128K that were later adopted by the rest of industry as a
+   standard for the design of computers. Possibly Apple's number-one
+   achievement was the first large-scale use of a graphical user interface
+   in operating system software. Developed first by Xerox, the Macintosh
+   introduced innovations to the graphical user interface, such as the use
+   of the “double click” and “drag and drop”, which are still in use in
+   many operating systems. The Macintosh 128K also introduced software
+   which allowed WYSIWYG (“what you see is what you get,” pronounced
+   “whizzy-wig”) text and graphics editing alongside significant technical
+   improvements such as: long file names permitting whitespace, not
+   requiring a file extension, 3.5" floppy disk drives, 8-bit mono audio,
+   built-in speakers, and an output jack as standard features.
+
+   The Macintosh platform has introduced many innovations and ideas which
+   have had significant effects on the computer industry, especially in
+   the area of communications standards. One of the first was the
+   Macintosh Plus, which successfully introduced the SCSI interface in
+   1986. The Macintosh IIsi and the Macintosh LC introduced standard audio
+   in and out ports in 1990—today these ports are standard on the large
+   majority of computers. Beginning with the iMac in 1998, Apple made the
+   Universal Serial Bus standard and introduced FireWire, a high-speed
+   data transfer bus now popular in media-editing computers and almost all
+   digital video cameras. Apple also innovated in the area of networking,
+   with heavy marketing and early implementation of the existing wireless
+   networking standard IEEE 802.11b ( AirPort) in the Macintosh portable
+   lines in 1999. The iMac, debuting in 1998, was one of the earlier
+   computers to have no floppy disk drive; today, almost no new computers
+   come with one. The Macintosh was able to support multiple monitors as
+   far back as 1988 - a full ten years before Windows 98 supported dual
+   monitors. When Apple developed the iMac with dual monitors, it heavily
+   influenced Bobby H. Green's development of the "DSDS" (Dual screen duo
+   system). The Macintosh was also the first personal computer to have
+   virtual memory, in 1989 using 'Virtual', a Connectix product.
+
+   Apple has also contributed heavily to the field of mobile computing,
+   and many features of its mobile computers have become the norm. The
+   PowerBook 100, 140, and 170 set the ergonomic standard for the
+   placement of the keyboard in 1991 by moving the keyboard behind a palm
+   rest, rather than right at the bottom of the laptop. In 1991, the
+   PowerBook 100 series featured the first built-in pointing device on a
+   laptop: a trackball. The PowerBook Duo also introduced the idea of a
+   dock/port replicator in 1992. One of the most important features ever
+   added to the Macintosh PowerBook lineup was the first true touchpad as
+   a pointing device on the PowerBook 500 in 1994; today, most laptops
+   rely on it as their pointing device. More recently, the PowerBook G4
+   became the first full-size laptop computer to feature a widescreen
+   display, in 2003 it became the first laptop computer with a 17-inch
+   display, and in 2004 it became the first laptop computer to provide
+   dual-link DVI. Apple was first to deliver Wi-Fi internet access using
+   the Wi-Fi Alliance's 802.11x standard in their AirPort product line.
+
+Market share and demographics
+
+   Ever since the introduction of the Macintosh, Apple has struggled to
+   gain a significant share of the personal computer market. At first, the
+   Macintosh 128K suffered from a dearth of available software compared to
+   IBM's PC, resulting in disappointing sales in 1984 and 1985. Only
+   500,000 Macs had been sold by September 1985. Jobs had originally
+   predicted that five million units would be sold within two years; sales
+   eventually crossed the one million mark in March 1987 and the two
+   million mark in 1988, and three years later, the installed base finally
+   reached five million. Mac computers are most widely used in the
+   creative professional market, including in journalism and desktop
+   publishing, video editing and audio editing, but have also made inroads
+   into the educative and scientific research sectors .
+
+   By 1997, there were more than 20 million Mac users, compared to an
+   installed base of around 340 million Windows PCs. Statistics from late
+   2003 indicate that Apple had 2.06% of the desktop share in the United
+   States, which had increased to 2.88% by Q4 2004. As of October, 2006,
+   research firms IDC and Gartner reported that Apple's market share in
+   the U.S. had increased to about 6%. The latest figures, from December
+   2006, showing a market share around 6% (IDC) and 6.1% (Gartner) are
+   based on a >30% increase in unit sale from 2005 to 2006.
+
+   The actual installed base of Mac computers is extremely hard to
+   determine, with numbers ranging from a conservative 3% to an optimistic
+   16%.
+
+   Whether the size of the Mac’s market share and installed base is
+   actually relevant, and to whom, is a hotly debated issue. Industry
+   pundits have often called attention to the Mac’s relatively small
+   market share to predict Apple's impending doom, particularly in the
+   late 1990s when the company’s future seemed bleakest. Others argue that
+   market share is the wrong way to judge the Mac’s success, citing the
+   following reasons:
+     * Apple has positioned the Mac as a higher-end personal computer, and
+       so it is misleading to compare a Mac with a low-budget (equally
+       capable) PC.
+     * Only within the computer industry does market share seem to be such
+       a major concern. Rarely is the topic raised in the automobile or
+       television industries, for example.
+     * Too much emphasis is placed on the Mac’s worldwide market share at
+       the expense of its United States market share, which as of 2006
+       stands at almost twice the corresponding worldwide figure.
+     * Because the overall market for personal computers has grown so much
+       and so rapidly, the Mac’s increasing sales numbers are effectively
+       swallowed by the industry’s numbers as a whole. Apple’s small
+       market share, then, gives the false impression that fewer people
+       are using Macs than did (for example) ten years ago.
+     * Market share numbers ignore the total installed base of a
+       particular platform, a statistic which is difficult to accurately
+       determine. For example, if one platform is replaced less often than
+       others, the number in use at any given moment would be higher than
+       indicated by sales alone.
+     * Regardless of the Mac’s market share, Apple has remained profitable
+       ever since Steve Jobs’ return and the company’s subsequent
+       reorganization.
+
+   Market research indicates that Apple draws its customer base from a
+   higher-income demographic than the mainstream PC market. Higher income
+   correlates with greater artistic, creative, and well-educated social
+   behaviors, which may explain the platform’s visibility within certain
+   youthful, avant-garde subcultures. Steve Jobs speculates that “maybe a
+   little less” than half of Apple’s customers are Republicans, “maybe
+   more Dell than ours.” This perception may or may not be
+   accurate—-several prominent conservatives, including George W. Bush and
+   Rush Limbaugh, are Mac users—-but it can only be reinforced by the
+   company's pattern of political donations, by Al Gore’s membership on
+   its board, and surely not least by Jobs’ own personal history.
+
+Advantages, disadvantages and criticisms
+
+     * The Macintosh differs in several ways from other x86-based personal
+       computers, especially those that run the Windows operating system.
+       Apple controls and supplies its own operating system and directly
+       sub-contracts hardware production to Asian OEM laptop manufacturers
+       such as Asus, maintaining a high degree of control over the end
+       product. In contrast, Microsoft supplies its software to original
+       equipment manufacturers, including Dell, HP/ Compaq, and Lenovo,
+       who make the hardware using a wider range of components. This
+       less-common operating system means that a much smaller range of
+       third-party software is available, although suitable applications,
+       such as Microsoft Office, are available in most areas. However,
+       following the release of intel-based Mac, third-party
+       virtualization software such as Parallels Desktop and Crossover Mac
+       began to emerge, allowing users to run any previously Windows-only
+       software on a Mac. Apple also released a public beta version of
+       Boot Camp, which allows users to run Microsoft Windows natively on
+       any intel-based Macs.
+     * The design of the Macintosh operating system has contributed to the
+       near-absence of the types of malware and spyware that plague
+       Microsoft Windows users. This is also due to the small user base,
+       which deters the attention of malware designers. However, a virus
+       as well as a potential vulnerability was noted in February 2006,
+       which led some industry analysts and anti-virus companies to issue
+       warnings that Apple's Mac OS X is not immune to viruses.
+     * Apple has a history of innovation and making bold changes that is
+       met by a strong uptake of software upgrades. The Classic
+       application allowed users to run “old” (Mac OS 9) applications on
+       Mac OS X computers, though without the advantages of a native Mac
+       OS X application. The Apple Intel transition started in 2006 does
+       not support Classic on new Intel Macs, and purchasers of these
+       computers who are still using Classic applications have to either
+       replace, upgrade this software, or run it in a PowerPC emulator
+       such as SheepShaver. The transition involved the recompilation of
+       most Mac OS X software to maximize performance; in the interim,
+       unmodified Mac OS X applications can run on the Intel chip under
+       the emulation software Rosetta.” Applications do not run as fast
+       under Rosetta as a normal application. Many analysts have stated
+       that certain high-profile programs, such as those from Adobe
+       Systems, should not be used under Rosetta until native versions are
+       released. This has not stopped other analysts from fully
+       recommending Apple computers, as can be seen in reviews for the
+       recent MacBook.
+     * Early in its history, up until the PCI-based Power Macs, Macintosh
+       hardware was notoriously closed. Connectors were often proprietary,
+       requiring specialized peripherals or adapter cables. However, since
+       the introduction of the original iMac in 1997, Apple computers have
+       used standard USB and FireWire connections, which allow users a
+       greatly expanded choice of peripherals.
+     * Originally, the hardware architecture was so closely tied to the
+       Mac OS that it was impossible to boot an alternative operating
+       system; the most common workaround, used even by Apple for its A/UX
+       Unix implementation, was to boot into Mac OS and then to hand over
+       control to a program that took over the system and acted as a boot
+       loader. This technique is not necessary on Open Firmware-based PCI
+       Macs, though it was formerly used for convenience on many Old World
+       ROM systems due to bugs in the firmware implementation. Modern Mac
+       hardware boots directly from Open Firmware or EFI-compliant
+       firmware, and is not limited to the Mac OS. In 2006 Apple
+       introduced Boot Camp, which allows owners of Intel-based Macs to
+       install and boot any Legacy BIOS based OS (like Windows), without
+       the use of emulation software.
+     * It is a misconception that, because Macintosh computers can
+       integrate many peripherals into one unit, repair or
+       parts-replacement is more costly and difficult compared to other
+       Intel-based computers. In reality, the higher-quality components
+       used in Macintoshes typically outlast their commodity-PC
+       counterparts. Further, not all repairs need be done by recognized
+       Apple service centers, which means that users can often correct
+       problems themselves.
+
+Litigation
+
+   The user interface of the GEM 1.1 desktop was an almost direct copy of
+   the Macintosh's; Apple sued on charges of “look and feel,” and
+   eventually won.
+   The user interface of the GEM 1.1 desktop was an almost direct copy of
+   the Macintosh's; Apple sued on charges of “look and feel,” and
+   eventually won.
+
+   There have been many lawsuits centered around the Macintosh. These
+   generally involve copyright infringement of the computer’s look and
+   feel. After the Macintosh was released, several companies began to
+   imitate it. Apple had some success in early lawsuits, making Digital
+   Research alter basic components in its Graphical Environment Manager
+   (pictured), the user interface of which was almost a direct copy of the
+   Macintosh’s.
+
+   The most notable case of this sort, however, was Apple Computer, Inc.
+   v. Microsoft Corp.. In 1988, Apple sued Microsoft and Hewlett-Packard
+   on the grounds that they infringed Apple’s copyrighted GUI, citing
+   (among other things) the use of rectangular, overlapping, and resizable
+   windows. After four years, Apple lost — the decision was under appeal
+   for several years and litigation did not end until Microsoft bought a
+   10% stock share in Apple in the late '90s — in part because of a
+   vaguely worded contract they had signed with Microsoft when Bill Gates
+   threatened to stop development of Microsoft Office for the Mac. Apple’s
+   actions were criticized by some in the software community, including
+   the Free Software Foundation (FSF), makers of the free GNU operating
+   system. The FSF characterized the lawsuits as an attempt by Apple
+   Computer to prevent anyone from making a user interface similar to the
+   Macintosh, and called for a boycott of GNU software for the Macintosh
+   platform. (The FSF ended its boycott in 1995, and current versions of
+   the Mac ship with some GNU tools installed, and the GNU compiler gcc is
+   an integral part of Apple's XCode development platform.)
+
+   In 1999, Apple successfully sued eMachines, whose eOne resembled the
+   then-new iMac very closely.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Macintosh"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

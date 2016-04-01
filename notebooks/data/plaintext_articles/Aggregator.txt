@@ -1,0 +1,96 @@
+   #copyright
+
+Aggregator
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   An aggregator or news aggregator or feed reader is client software that
+   uses a web feed to retrieve syndicated web content such as weblogs,
+   podcasts, vlogs, and mainstream mass media websites, or in the case of
+   a search aggregator, a customized set of search results.
+
+Functions
+
+   Aggregators reduce the time and effort needed to regularly check
+   websites for updates, creating a unique information space or "personal
+   newspaper." Once subscribed to a feed, an aggregator is able to check
+   for new content at user-determined intervals and retrieve the update.
+   The content is sometimes described as being "pulled" to the subscriber,
+   as opposed to "pushed" with email or IM. Unlike recipients of some
+   "pushed" information, the aggregator user can easily unsubscribe from a
+   feed.
+
+   Aggregator features are being built into portal sites such as My Yahoo!
+   and Google; modern web browsers; e-mail programs like Mozilla
+   Thunderbird; Apple's iTunes, which serves as a podcast aggregator and
+   other applications. Devices such as mobile phones and Tivo video
+   recorders (already aggregating television programs) also incorporate
+   XML aggregators.
+
+   The aggregator provides a consolidated view of the content in a single
+   browser display or desktop application. Such applications are also
+   referred to as RSS readers, feed readers, feed aggregators, news
+   readers or search aggregators.
+
+   The syndicated content an aggregator will retrieve and interpret is
+   usually supplied in the form of RSS or other XML-formatted data, such
+   as RDF/XML or Atom.
+
+Clouds
+
+   A small number of news aggregators have the ability to register to
+   clouds, a web service that notifies the aggregator of updates to a
+   feed, eliminating the need for periodic pulling. This approach attempts
+   to produce a more efficient use of bandwidth, though the overhead
+   associated with registering a cloud can mean no net savings. It also
+   introduces issues of scalability and a single point of failure among
+   others. In the time since the cloud concept was introduced in 2000,
+   very few sources have implemented it.
+
+Categories
+
+Online version
+
+   Online versions of this type of software are websites selling or
+   providing aggregation services for free; these sites are typically
+   provided by ISPs and internet portals. The RSS feeds allow users to
+   check recently changed versions in comparison to previous updates. This
+   allows only 'fresh data' to be viewed, reducing bandwidth demands on
+   the provider's hardware and users. Because the aggregator is online, it
+   can be accessed anywhere by any user who is connected to the internet.
+   More advanced ways of integrating feeds are provided by Ajax desktops,
+   which allow users to aggregate OPML files, email services and documents
+   in Google Docs & Spreadsheets as well as feeds in a single interface.
+
+   Lately, a large number of online news aggregators made their way on our
+   Internet search results. The success of the technology comes from two
+   perspectives:
+     * first - a large amount of online content can be put together in a
+       short period of time and that is what most of search engines out
+       there like;
+     * second – the advertising capabilities can be enormous as the ad
+       content can be delivered more targeted and “by the second”.
+
+Computer version
+
+   The desktop version of this type of software is designed to satisfy the
+   task of controlling subscriptions and supervising the RSS feeds that
+   the user has selected. The GUI of this type of software is normally a
+   three-panel composition-like communication software like for instance
+   an e-mail client, but browser versions are available -- normally run on
+   a LAN. Publication is made through web-servers so that global access is
+   possible. Additional facilities may be integrated into aggregators such
+   as audio players, blog editors, internet browsers and e-mail clients.
+
+OEM/Meta news feeds
+
+   These services (e.g. All Headline News (AHN) and Moreover) provide
+   aggregate content to news portals and search engines, not necessarily
+   direct to end users. Usually, to integrate feeds to a HTML page a
+   combination of JavaScript/ XML/AJAX technology is used.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Aggregator"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

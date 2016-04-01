@@ -1,0 +1,880 @@
+   #copyright
+
+Energy
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In general, the word energy refers to a concept that can be paraphrased
+   as "the potential for causing changes", and therefore one can say that
+   energy is the cause of any change. The word is used in several
+   different contexts. The use of the word in mainstream science has a
+   precise, well-defined meaning, which is not the case, most often, with
+   many other usages.
+
+   The most common definition of energy is work that a certain force
+   (gravitational, electromagnetic, etc) can do. Due to a variety of
+   forces, energy has many different forms (gravitational, electric, heat,
+   etc.) that can be grouped into two major categories: kinetic energy and
+   potential energy. According to this definition, energy has the same
+   units as work; a force applied through a distance. The SI unit of
+   energy, the joule, equals one newton applied through one meter, for
+   example. Energy has no direction in space, and is therefore considered
+   a scalar quantity.
+
+   Energy is a conserved quantity, meaning that it cannot be created or
+   destroyed, but only converted from one form into another. Thus, the
+   total energy of the universe always remains constant.
+   Lightning is a highly visible form of energy transfer.
+   Enlarge
+   Lightning is a highly visible form of energy transfer.
+
+Etymology
+
+   The etymology of the term is from Greek ενέργεια, εν- means "in" and
+   έργον means "work"; the -ια suffix forms an abstract noun. The compound
+   εν-εργεια in Epic Greek meant "divine action" or "magical operation";
+   it was later used by Aristotle in a meaning of "activity, operation" or
+   "vigour", and by Diodorus Siculus for "force of an engine."
+
+Historical perspective
+
+   The concept of energy, in the distant past, was used to explain easily
+   observable phenomena, such as the effects observed on the properties of
+   objects or any other changes. It was generally construed that all
+   changes could in fact be explained through some sort of energy. Soon
+   the idea that energy could be stored in objects took its roots in
+   scientific thought and the concept of energy came to embrace the idea
+   of the potential for change as well as change itself. Such effects
+   (both potential and realized) come in many different forms. While in
+   spiritualism they were reflected in changes in a person, in physical
+   sciences it is reflected in different forms of energy itself, for
+   example, electrical energy stored in a battery, the chemical energy
+   stored in a piece of food (along with the oxygen needed to burn it),
+   the thermal energy of a water heater, or the kinetic energy of a moving
+   train. In 1807, Thomas Young was the first to use the term "energy"
+   instead of vis viva to refer to the product of the mass of an object
+   and its velocity squared. Gustave-Gaspard Coriolis described " kinetic
+   energy" in 1829 in its modern sense, and in 1853, William Rankine
+   coined the term " potential energy."
+
+   The development of steam engines required engineers to develop concepts
+   and formulas that would allow them to describe the mechanical and
+   thermal efficiencies of their systems. Engineers such as Sadi Carnot
+   and James Prescott Joule, mathematicians such as Émile Clapeyron and
+   Hermann von Helmholtz , and amateurs such as Julius Robert von Mayer
+   all contributed to the notion that the ability to perform certain
+   tasks, called work, was somehow related to the amount of energy in the
+   system. The nature of energy was elusive, however, and it was argued
+   for some years whether energy was a substance (the caloric) or merely a
+   physical quantity, such as momentum.
+
+   William Thomson ( Lord Kelvin) amalgamated all of these laws into the
+   laws of thermodynamics, which aided in the rapid development of
+   explanations of chemical processes using the concept of energy by
+   Rudolf Clausius, Josiah Willard Gibbs and Walther Nernst. It also led
+   to a mathematical formulation of the concept of entropy by Ludwig
+   Boltzmann, and to the introduction of laws of radiant energy by Jožef
+   Stefan,
+
+   During a 1961 lecture for undergraduate students at the California
+   Institute of Technology, Richard Feynman, a celebrated physics teacher
+   and a Nobel Laureate, said this about the concept of energy:
+
+
+   Energy
+
+     There is a fact, or if you wish, a law, governing natural phenomena
+   that are known to date. There is no known exception to this law—it is
+     exact so far we know. The law is called conservation of energy [it
+   states that there is a certain quantity, which we call energy that does
+   not change in manifold changes which nature undergoes]. That is a most
+     abstract idea, because it is a mathematical principle; it says that
+     there is a numerical quantity, which does not change when something
+   happens. It is not a description of a mechanism, or anything concrete;
+    it is just a strange fact that we can calculate some number, and when
+      we finish watching nature go through her tricks and calculate the
+                        number again, it is the same.
+
+
+   Energy
+
+   — The Feynman Lectures on Physics, Vol. 1.
+
+Energy in Natural Sciences
+
+   The concepts of energy and its transformations are useful in explaining
+   natural phenomena. The law of conservation of energy is equally useful.
+   The direction of transformations explained with the help of energy is
+   often influenced by entropy considerations also.
+
+   The exact context of various natural phenomena and transformations
+   varies from one natural science to another. Some examples are:
+
+Physics
+
+   The transformation that constitutes the context of energy in physics,
+   is the change in position or movement of an object which is brought
+   about through the action of a force. Thus in the context of physics,
+   energy is said to be the ability to do work. Work is said to be done,
+   in physics, when an object (howsoever small in size and mass) is moved
+   across a distance, howsoever short, by the action of a force.
+
+   Mathematically, work is equal to the force multiplied by a distance
+   (more accurately, force integrated over a certain path).
+
+          W = \int \mathbf{F} \cdot \mathrm{d}\mathbf{s}
+
+   The equation above says that the work (W) is equal to the integral of
+   the dot product of the force ( \mathbf{F} ) on a body and the
+   infinitesimal of the body's translation ( \mathbf{s} ).
+
+   Depending on the kind of force F involved, work of this force results
+   in a change of the corresponding kind of energy (gravitational,
+   electrostatic, kinetic, etc).
+   An instrument used by physicists to measure energy
+   Enlarge
+   An instrument used by physicists to measure energy
+
+   Units of energy are thus exactly the same as units of work ( joules in
+   the SI). Because work is frame dependent (i.e., can only be defined
+   relative to certain initial state or reference state of the system),
+   energy also becomes frame dependent. For example, although a speeding
+   bullet has kinetic energy in the reference frame of a non-moving
+   observer, it has zero kinetic energy in its proper (co-moving)
+   reference frame -- because it takes zero work to accelerate a bullet
+   from zero speed to zero speed. Of course, the selection of a reference
+   state (or reference frame) is completely arbitrary - and usually is
+   dictated to maximally simplify the problem to be dealt with. However,
+   when the total energy of a system cannot be decreased by simple choice
+   of reference frame, then the (minimal) energy remaining in the system
+   is associated with an invariant mass of the system. In this special
+   frame, called the center-of-momentum frame or centre-of-mass frame,
+   total energy of the system E and both its invariant mass and
+   relativistic mass m are related by Einstein's famous equation E = mc².
+
+   The concept of quantized energy is a product of quantum mechanics. Any
+   system can be described by an Schrodinger equation, and for bound
+   systems the solution of this equation leads to certain permitted
+   states, each characterized by an energy level. In the realm of wave
+   mechanics the energy is related to the frequency of an electromagnetic
+   radiation by the Planck equation E = hν (where h is the Planck's
+   constant and ν the frequency)
+
+   According to Einstein's theory of special relativity, mass and energy
+   are equivalent. For example, there are processes, such as electron-
+   positron annihilation, in which mass is converted completely into
+   energy, and energy also participates in gravitational interactions. The
+   relationship between the two is:
+
+          \!E = {\Delta m c^2}
+
+   where
+
+          Δm is the amount of rest mass released into the surroundings as
+          active energy (heat, light, kinetic energy),
+          c is the speed of light in a vacuum.
+
+Chemistry
+
+   Atoms and molecules, the central concepts of chemistry, are made up of
+   electrons and protons, and therefore coulombic forces are at work
+   during the rearrangement of atoms (during formation or decomposition of
+   molecules). The energy associated with this movement of charge is what
+   we call "chemical energy".
+
+   A chemical reaction invariably absorbs or releases heat or light.
+   According to chemical thermodynamics a chemical transformation is
+   possible only if so-called free energy decreases. The concept of free
+   energy is a synthesis of energy and entropy. Free energy is a useful
+   concept in chemistry, because energy considerations alone are not
+   sufficient to decide the possibility of a chemical reaction. According
+   to the second law of thermodynamics, the entropy of the universe must
+   increase in all processes (including chemical processes), and energy is
+   transformed from one form to another (including from heat to any other
+   form) so long as the second law is not violated. For example, a gas may
+   expand and thus allow some of its heat to do work, but this is only
+   possible because the net entropy of the universe increases due to the
+   gas expansion, more than it decreases due to the disappearance of heat.
+
+   The concept of energy levels finds application in various kinds of
+   spectroscopy, in which elucidation of atomic and molecular structure is
+   based on the phenomenon of the presence of certain "lines" in
+   absorption or emission spectra.
+   Emission spectrum of Iron
+   Emission spectrum of Iron
+
+   These lines (so called because they appear as linear features in
+   dispersion spectra (see example above), such as might be produced by a
+   prism or diffraction grating) are postulated to be due to a certain
+   specific amount of energy involved in the transition of atoms or
+   molecules, from one state to another. Because a charactistic magnitude
+   of energy is associated with a characteristic frequency (and
+   wavelength) of light (or other electromagnetic radiation), such lines
+   in spectra are direct clues to energetic changes which are permitted to
+   happen only at certain energies, and not others.
+
+   The speed of a chemical reaction (at given temperature T) is related to
+   a yet another concept, activation energy. The activation energy E, of a
+   chemical reaction, can be visualized as the height of a barrier of
+   energy separating two minima of the energy of the chemically reacting
+   system (the energy of reactants and the energy of products). Thus,
+   according to statistical mechanics the rate of chemical reactions is
+   proportional to the Boltzmann's population factor e ^− E / kT, that is
+   the population of molecules having energy greater than or equal to E at
+   thr temperature T. This exponential dependence of a reaction rate on
+   temperature is known as the Arrhenius equation.
+
+Biology
+
+   Growth, development and metabolism are some of the central phenomena in
+   the study of biology. They cannot be explained without invoking the
+   energy concept. Indeed sustenance of life itself is critically
+   dependent on energy transformations; living organisms survive because
+   of exchange of energy within and without. In a living organism chemical
+   bonds are constantly broken and made to make the exchange and
+   transformation of energy possible. These chemical bonds are most often
+   bonds in carbohydrates, including sugars.
+   Flowchart of cellular respiration
+
+   Other chemical bonds include bonds in chemical compounds that are
+   important for the cell metabolism, for example, those in a molecule of
+   ATP or fats and oils. These molecules, along with oxygen, are common
+   stores of concentrated energy for the biological processes. One can
+   therefore assert that transformation of energy from a more to a less
+   concentrated form is the driving force of all biological processes or
+   chemical processes that are responsible for the life of a biological
+   organism. Molecular biology and biochemistry are in fact scientific
+   studies concerning the making and breaking of chemical bonds in the
+   molecules found in biological organisms.
+
+   As with other natural phenomena, the exchange of metabolic energy in
+   biological organisms also increases the entropy of the universe. Nearly
+   all energy transformations studied in biology are due to the chemical
+   synthesis and decompositions ultimately brought about by the energy
+   absorbed from photons in sunlight through insolation and
+   photosynthesis. The total energy captured by photosynthesis in green
+   plants from the solar radiation is about 2 x 10^23 joules of energy per
+   year . This is about 4% of the total sunlight energy which reaches
+   Earth.
+
+   The predator-prey relationships, food chains, are in effect energy
+   transformations within ecosystems that are studied in ecology.
+
+Meteorology
+
+   Meteorological phenomena like wind, rain, hail, snow, lightning,
+   tornados and hurricanes, are all a result of energy transformations
+   brought about by solar energy on the planet Earth. It has been
+   estimated that the average total solar incoming radiation (or
+   insolation) is about 1350 watts per square meter incident to the summit
+   of the atmosphere, at the equator at midday, a figure known as the
+   solar constant. Although this amount varies a little each year, as a
+   result of solar flares, prominences and the sunspot cycle. Some 34% of
+   this is immediately reflected by the planetary albedo, as a result of
+   clouds, snowfields, and even reflected light from water, rock or
+   vegetation. As more energy is received in the tropics than is
+   re-radiated, while more energy is radiated at the poles than is
+   received, climatic homeostasis is only maintained by a transfer of
+   energy from the tropics to the poles. This transfer of energy is what
+   drives the winds and the ocean currents. Like biological processes, all
+   meteorological processes involve transformation of energy from a
+   concentrated form such as sunlight into a less concentrated form, such
+   as far infrared radiation (i.e., heat radiation at the much smaller
+   characteristic temperatures that occur on Earth, and thus is diffused
+   into many photons). However, energy may be temporarily locally stored
+   during this process, and the sudden release of such stored sources is
+   responsible for the dramatic processes mentioned above. For example,
+   the kinetic energy of a snow-avalanche or hurricane is due to the
+   sudden release of energy previously captured from solar radiations.
+   A volcano is the release of stored energy from below the surface of
+   Earth originating in radioactive decay and gravitational sorting in the
+   Earth's core and mantle of energies left over from its formation
+   Enlarge
+   A volcano is the release of stored energy from below the surface of
+   Earth originating in radioactive decay and gravitational sorting in the
+   Earth's core and mantle of energies left over from its formation
+
+Geology
+
+   Continental drift, mountain ranges, volcanos, and earthquakes are
+   phenomena that are a result of energy transformations in the Earth's
+   crust. Recent studies suggest that the Earth transforms about 6.18 x
+   10^-12 J/s (joules per second) per kilogram. Given the Earth's mass of
+   about 5.97 x 10^24 kilograms, this means that the rate of energy
+   transformations inside the Earth is about 37 x 10^12 J/s (37
+   terawatts).
+
+   From the study of neutrinos radiated from the Earth (see KamLAND),
+   scientists have recently estimated that about 24 terawatts of this rate
+   of energy transformation is due to radioactive decay (principally of
+   potassium 40, thorium 232 and uranium 238) and the remaining 13
+   terawatts is from the continuous gravitational sorting of the core and
+   mantle of the earth, energies left over from the formation of the
+   Earth, about 4.57 billion years ago (this sorting represents continuing
+   gravitational collapse of the Earth into the maximally compact object
+   which is consistent with its composition-- a process which releases
+   gravitational potential energy). The magnitude of both of these energy
+   sources decline over time, and based on half-life alone, it has been
+   estimated that the current radioactive energy of the planet represents
+   less than 1% of that which was available at the time the planet was
+   formed.
+
+   As a result, geological forces of continental accretion, subduction and
+   sea floor spreading, account for 90% of the Earth's energy. The
+   remaining 10% of geological tectonic energy comes through hotspots
+   produced by mantle plumes, resulting in shield volcanoes like Hawaii,
+   geyser activity like Yellowstone or flood basalts like Iceland.
+
+   Tectonic process are driven by heat from the Earth's interior. The
+   process is a simple heat engine which works via the upward
+   buoyancy-induced motion of hot, low density magma after expansion by
+   heat. The processes metamorphose weathered rocks, and (more importantly
+   from the energy view) during orogeny periods, lift them up into
+   mountain ranges. The potential energy represented by the mountain
+   range's weight and height thus represents heat from the core of the
+   Earth which has been partly transformed into gravitational potential
+   energy. This potential energy may be suddenly released in landslides or
+   tsunamis. Similarly, the energy release which drives an earthquake
+   represents stresses in rocks that are mechanical potential energy which
+   has been similarly stored from tectonic processes. An earthquake thus
+   ultimately represents kinetic energy which is being released from
+   elastic potential energy in rocks, which in turn has been stored from
+   heat energy released by radioactive decay and gravitational collapse in
+   the Earth's interior.
+
+   The energy which is responsible for the geological processes of erosion
+   and deposition is a result of the interaction of solar energy and
+   gravity. An estimated 23% of the total insolation is used to drive the
+   water cycle. When water vapour condenses to fall as rain, it dissolves
+   small amounts of carbon dioxide, making a weak acid. This acid acting
+   upon the metallic silicates that form most rocks produces chemical
+   weathering, removing the metals, and leading to the production of rocks
+   and sand, carried by wind and water downslope through gravity to be
+   deposited at the edge of continents in the sea. Physical weathering of
+   rocks is produced by the expansion of ice crystals, left by water in
+   the joint planes of rocks. A geologic cycle is continued when these
+   eroded rocks are later uplifted into mountains.
+
+Astronomy and cosmology
+
+   The phenomona of stars, nova, supernova, quasars and gamma ray bursts
+   are the universe's highest-output energy transformations of matter. All
+   stellar phenomena (including of course solar activity) are driven by
+   various kinds of energy transformations. Energy in such transformations
+   is either from gravitational collapse of matter (usually molecular
+   hydrogen) into various classes of astronomical objects (stars, black
+   holes, etc.), or from nuclear fusion (of lighter elements, primarily
+   hydrogen).
+   Dark energy is believed to make up 70% of the universe
+   Enlarge
+   Dark energy is believed to make up 70% of the universe
+
+   Light elements, primarily hydrogen and helium, were created in the Big
+   Bang. These light elements were spread too fast and too thinly in the
+   Big Bang process (see nucleosynthesis) to form the most stable
+   medium-sized atomic nuclei, like iron and nickel. This fact allows for
+   later energy release, as such intermediate-sized elements are formed in
+   our era. The formation of such atoms powers the steady energy-releasing
+   reactions in stars, and also contributes to sudden energy releases,
+   such as in novae. Gravitational collapse of matter into black holes is
+   also thought to power the very most energetic processes, generally seen
+   at the centers of galaxies (see quasars and in general active
+   galaxies).
+
+   Cosmologists are still unable to explain all cosmological phenomena
+   purely on the basis of known conventional forms of energy, for example
+   those related to the accelerating expansion of the universe, and
+   therefore invoke a yet unexplored form of energy called dark energy to
+   account for certain cosmological observations.
+
+Methods of Measurement
+
+   The methods for the measurement of energy often deploy methods for the
+   measurement of still more fundamental concepts of science, viz. mass,
+   distance, radiation, temperature, time, electric charge and electric
+   current. Conventionally the technique most often employed are
+   calorimetry, in thermodynamics that relies on the measurement of
+   temperature: a thermometer or a bolometer for measurement of intensity
+   of a radiation.
+
+Different forms of energy and their inter-relations
+
+   Heat, a form of energy, is partly potential energy and partly kinetic
+   energy.
+   Enlarge
+   Heat, a form of energy, is partly potential energy and partly kinetic
+   energy.
+
+   In the context of natural sciences, energy can be in any of several
+   different forms: thermal, chemical, electrical, radiant, nuclear etc.
+   Some basic textbooks broadly groups all these forms of energy into two
+   broad categories : kinetic energy and potential energy. However, some
+   forms of energy resist such easy classification, as is the case with
+   light energy. Other familiar types of energy (such as heat in most
+   circumstances) are a varying mix of both potential and kinetic energy.
+
+Kinetic
+
+   Kinetic energy is energy due to motion of a body or particles within
+   it.
+
+   Thermal energy, often referred to as heat is a kind of kinetic energy
+   because it is partly because of the motion of atoms or molecules within
+   a solid, liquid or gas. The case of an ideal gas is perhaps one that
+   has been analyzed mathematically in maximum detail. The kinetic
+   energy,ε of the particles that comprise an ideal gas is expressed by
+   the equipartition theorem to be equal to \!{\frac{1}{2} k T} , so the
+   energy per particle is proportional to temperature. For a monatomic gas
+   having N particles each with three degrees of freedom, the internal
+   energy is:
+
+                \overline{E_{kT}}= {3\over{2}} NkT
+
+   where k is the Boltzmann constant and T is absolute temperature.
+   Whereas all internal energy is kinetic in an ideal gas at low
+   temperatures, at higher temperatures in gases, and in liquids and
+   solids, there is more energy in vibrations within the molecules. Thus,
+   whenever there is energy due to vibrations, half of it is stored as
+   kinetic energy and the other half in electromagnetic potential energy
+   between particles.
+
+   Similarly, radiation energy, also commonly known as light energy, is
+   often portrayed as being carried by moving photons and electrical
+   energy is portrayed as being transferred from one place to another
+   through movement of electrons. However, close examination reveals that
+   this is not really true. Radiation energy cannot be neatly categorized
+   as classical kinetic energy, since photons have no invariant mass and
+   thus the energy required to accelerate them to their velocity (and thus
+   which is associated with their motion) cannot be calculated using other
+   kinetic equations.
+
+   The electrical energy of an electric current is not due to the motion
+   of electrons from one end of the conducting wire to another - simply
+   because speed of electrons on both ends of wire is the same (thus their
+   kinetic energy is the same and can not be the sourse of energy
+   delivered to a load in between). An electric current is in fact induced
+   motion of charges at one end of a wire, by introduction of an electric
+   field at the other. The electric field and the wave of current it
+   drives are established over a conductor with a speed v almost equal to
+   the speed of light (v=c/sqrt(με)≈c/1.83=1.6x10^8 m/sec in household
+   copper or aluminium wires with polyvinil chloride insulation), but
+   conduction electrons move at a tiny fraction of that speed (~0.1 mm/sec
+   at current I ~ 1 A). The energy of an electric current is carried in
+   the electric field and magnetic field of the current - as given by the
+   Poynting vector. If a wire is made of a good conductor, then
+   practically all electric energy flows outside the wire (because
+   electric field and thus Poynting vector flux inside conductive wire are
+   negligible), and it enters low conductive load (where Poynting vector
+   tilts inward). This electric energy flux can be transformed in the load
+   into heat, light, kinetic energy or other forms of energy.
+
+Potential
+
+   Potential energy is the energy due to the position of an object
+   relative to other objects. It is analogous to the concept of wealth
+   that indicates the capacity of an individual or an organization to
+   influence people in the society. This form of energy can be positive or
+   negative because it can be either work done on an object by a force, or
+   work done by the object against a force. Negative energy is a thus a
+   mathematical construct in reference to another system. Each of the
+   fundamental interactions of nature can be linked to a kind of potential
+   energy:
+
+Gravitational potential energy
+
+   Gravitational potential energy is the work of gravitational force
+   during rearrangement of mutual positions of interacting masses - say,
+   when masses are moved apart (such as when a crate is lifted), or closer
+   together (as when a meteorite falls to Earth). If the masses of the
+   objects are considered to be point masses, this work (thus the
+   gravitational potential energy) is equal to:
+
+          E_{pG} = - {GmM \over r}
+
+   where
+
+          m and M are the two masses in question,
+          r is the distance between them,
+          G is the gravitational constant.
+
+   In case of small displacement h << r near the Earth's surface where
+   GM/r = g, the above formula results in the widely used E = mgh
+   approximation for gravitational potential energy.
+
+Electric potential energy
+
+   Electric potential energy is the work of electric forces during
+   rearrangement of positions of charges, and also includes the common
+   chemical potential energies (energy required to break chemical bonds,
+   or obtained from forming them). The energy released in lightning, from
+   burning a litre of fuel oil, or from using an amount of electrical
+   power from an electrical-wiring system, are all common examples of
+   electromagnetic potential energy. Quantitatively, electromagnetic
+   potential energy is:
+
+          E_{pE} = {q Q \over 4\pi\epsilon_0 r}
+
+   where
+
+          q and Q are the electric charges on the objects in question,
+          r is the distance between them,
+          ε[0] is the electric constant of a vacuum.
+
+   In use of electrical energy from an electrical wiring system, the
+   electric potential energy available is represented by the electrical
+   potential difference (measured in volts) between the conductors, and
+   the amount of charge which is to be transferred between them. Released
+   energy in joules is given by voltage multiplied by coulombs of charge
+   transferred.
+
+Magnetic potential energy
+
+   Energy can also be stored in a magnetic field. Such fields are
+   intrinsic properties of certain particles, but they also often result
+   from relative motion of electric charges in an electrical current; for
+   example, superconducting magnetic energy storage works via the
+   mechanism of magnetic potential energy. Magnetic potential energy is
+   closely related to electric potential energy, since both types of
+   potential are mediated by the electromagnetic field. High power
+   application of magnetic potential energy is perhaps most familar as the
+   type of energy storage which allows transfer of power within an
+   electrical transformer.
+
+Thermal potential energy
+
+   Potential thermal energy is the part of thermal energy which is not
+   made up of kinetic thermal energy, and is thus stored as electric
+   potential energy. This potential electrical part of thermal energy is
+   stored in "deformation" of atomic bonds during thermal motion of atoms
+   (as atoms oscillate around their position of equilibrium, they not only
+   have kinetic energy of motion but also a potential energy of
+   displacement from equilibrium). This energy is a significant portion
+   (about half) of thermal energy for strongly-bonded systems (=solids and
+   liquids), with the rest of thermal energy being the kinetic energy of
+   the atoms. However, the potential part of thermal energy is a smaller
+   fraction of thermal energy in gasses, which carry more than half of
+   their thermal energy as various kinds of kinetic energies of the gas
+   atoms.
+
+Chemical potential energy
+
+   Potential chemical energy is the energy which may potentially be
+   liberated, when the bonds of chemical structures are rearranged. Energy
+   is never stored in chemical bonds except as a negative quantity (i.e.,
+   it always requires energy to break a bond), but net energy may be
+   released when weak chemical bonds are broken so that stonger bonds can
+   be made. The mixture of a fuel and oxygen is an example: this stores
+   chemical energy as compared to the products of combustion, i.e., the
+   energy is not stored in the fuel, but rather exists as a potential
+   energy to be converted to heat when the fuel combines with oxygen.
+   Other common examples of chemical potential are a rechargable battery,
+   or a food item (where again the energy is not stored in the item
+   itself, but actually in the system of item-plus-oxygen). Some chemical
+   fuels or explosives (for example, nitroglycerine) do not require a
+   second reactant substance to release potential energy, but even in
+   these cases, the energy released does not come from the bonds of the
+   molecule, but rather is released from the stronger bonds of the
+   products into which it decomposes (in the case of nitroglycerine, from
+   the powerful bond in the new N[2] produced when it explodes).
+
+Elastic potential energy
+
+   Potential elastic energy is the energy stored in the elastic nature of
+   objects. Elastic energy is actually of several types: it is sometimes a
+   kind of electric potential energy (as in metal springs), and in these
+   cases energy is released as charged atoms which have been compressed
+   are allowed to move apart. However, in other cases (such as compressed
+   ideal gases or rubber bands) the potential energy is not stored as
+   electrical potential, but rather is stored as a low-entropy arrangement
+   of atoms which can allow rapid conversion of thermal energy into work,
+   when they are rearranged into higher-entropy structures.
+
+   In the ideal case of a metal spring described by Hooke's Law, the
+   stored elastic energy is equal to:
+
+          \!E_{pE} = {\frac{1}{2} k x^2}
+
+   where
+
+          k is the spring constant, dependent on the individual spring,
+          x is the deformation of the object.
+
+Nuclear potential energy
+
+   Nuclear potential energy, along with electric potential energy,
+   provides the energy released from nuclear fission and nuclear fusion
+   processes. In both cases strong nuclear forces bind nuclear particles
+   more strongly and closely, after the reaction has completed. Weak
+   nuclear forces (different from strong forces) provide the potential
+   energy for certain kinds of radioactive decay, such as beta decay. The
+   energy released in nuclear processes is so large that the relativistic
+   change in mass can be as much as several parts per thousand.
+
+   Nuclear particles like protons and neutrons are not destroyed in
+   fission and fusion processes, but collections of them have less mass
+   than if they were individually free, and this mass difference is
+   liberated as heat and radiation in nuclear reactions (the heat and
+   radiation have the missing mass, but it often escapes from the system,
+   where it is not measured). The energy from the Sun, also called solar
+   energy, is an example of this form of energy conversion. In the Sun,
+   the process of hydrogen fusion converts about 4 million metric tons of
+   solar matter per second into light, which is radiated into space.
+
+Transformations of energy
+
+   One form of energy can often be readily transformed into another with
+   the help of a device- for instance, a battery, from chemical energy to
+   electrical energy; a dam: gravitational potential energy to kinetic
+   energy of moving water (and the blades of a turbine) and ultimately to
+   electric energy through a electrical generator. Similarly in the case
+   of a chemical explosion chemical potential energy, is transformed to
+   kinetic energy and thermal energy in a very short time. Yet another
+   example is that of a pendulum. At its highest points the kinetic energy
+   is zero and the gravitational potential energy is at maximum. At its
+   lowest point the kinetic energy is at maximum and is equal to the
+   decrease of potential energy. If one (unrealistically) assumes that
+   there is no friction, the conversion of energy between these processes
+   is perfect, and the pendulum will continue swinging forever.
+
+   Energy can be converted into matter and vice versa, although both
+   energy and matter continue to exhibit rest mass throughout any such
+   process (thus in a closed system, conversion of matter to energy or
+   energy to matter makes no difference in the system mass). The equation
+   E=mc^2, mathematically derived independently by Albert Einstein and
+   Henri Poincaré reflects the equivalence between mass and energy. This
+   equation states that the liberated active energy (light, heat,
+   radiation) that is equivalent to a unit of inactive matter is enormous.
+   This can be witnessed in the tremendous energies liberated by a nuclear
+   bomb. Conversely, the mass equivalent of a unit of energy is miniscule,
+   which is why loss of energy from most systems is difficult to measure
+   by weight, unless the energy loss is very large. Examples of energy
+   transformation into matter (particles) are found in high energy nuclear
+   physics. However, all energy in any form exhibits rest mass, even if it
+   has not been converted into new particles.
+
+Law of conservation of energy
+
+   Energy, in the context of natural sciences, is subject to the law of
+   conservation of energy. According to this law it can neither be created
+   (produced) nor destroyed. It can only be transformed.
+
+   According to the first law of thermodynamics the total inflow of energy
+   into a system must equal the total outflow of energy from the system,
+   plus the change in the energy contained within the system. This law is
+   used in all branches of physics, but frequently violated for short
+   enough periods of time during which energy can not be mathematically
+   defined yet (see quantum electrodynamics and off shell concept).
+   Noether's theorem relates the conservation of energy to the time
+   invariance of physical laws.
+
+   This law is a fundamental principle of physics. It follows from the
+   translational symmetry of time, a property of most phenomena below the
+   cosmic scale that makes them independent of their locations on the time
+   coordinate. Put differently, yesterday, today, and tomorrow are
+   physically indistinguishable. The fact that energy can not be defined
+   for arbitrary short periods of time in quantum mechanics follows from
+   the definition of energy operator which results mathematically in the
+   mutual uncertainty of time and energy known as the uncertainty
+   principle:
+
+          \Delta E \Delta t \ge \frac {h} {4 \pi}
+
+   Despite being seemingly insignificant, this principle has made profound
+   impact on our understanding many phenomena in the realm of particle
+   physics. It led to the introduction of the concept of virtual particles
+   which carry momentum, exchange by which with real particles is
+   responsible for creation of all known fundamental forces (more
+   accurately known as fundamental interactions). Virtual photons (which
+   are simply lowest quantum mechanical energy state of photons) are also
+   responsible for spontaneous radiative decay of exited atomic and
+   nuclear states, for the Casimir force, for Van der Waals bond forces
+   and some other observable phenomena.
+
+Energy in Society
+
+   In the context of society the word energy is synonymous to energy
+   resources, it most often refers to substances like fuels, petroleum
+   products and electric power installations. This difference vis a vis
+   energy in natural sciences can lead to some confusion, because energy
+   resources (which represent usable energy) are not conserved in nature
+   in the same way as energy is conserved in the context of physics.
+   People often talk about energy crisis and the need to conserve energy,
+   something contrary to the principle of energy conservation in natural
+   sciences. Efforts, normally referred to as energy conservation, are
+   actually efforts that are targeted at conserving currently available
+   energy resources that can be applied to do useful work.
+
+Economics
+
+   Energy consumption per capita per country (2001). Red hues indicate
+   increase, green hues decrease of consumption during the 1990s.
+   Enlarge
+   Energy consumption per capita per country (2001). Red hues indicate
+   increase, green hues decrease of consumption during the 1990s.
+
+   Production and consumption of energy resources is very important to the
+   global economy. All economic activity requires energy resources,
+   whether to manufacture goods, provide transportation, run computers and
+   other machines, or to grow food to feed workers, or even to harvest new
+   fuels. Thus the way in which a human society uses its existing energy
+   resources, develops means of their production or acquisition is a
+   defining characteristic of its economy. The progression from animal
+   power to steam power, then the internal combustion engine and
+   electricity, are key elements in the development of modern
+   civilization. The cost of energy resources depends on its demand and
+   production at any particular time. Scarcity of cheap fuels is a key
+   concern in future energy development.
+
+   Some attempts have been made to define " embodied energy" - the sum
+   total of energy expended to deliver a good or service as it travels
+   through the economy.
+
+Environment
+
+   Consumption of energy resources, (e.g. turning on a light) is
+   apparently harmless. However, producing that energy requires resources
+   and contributes to air and water pollution. Many electric power plants
+   burn coal oil or natural gas in order to generate electricity for
+   energy needs. While burning these fossil fuels produces a readily
+   available and instantaneous supply of electricity, it also generates
+   air pollutants including carbon dioxide (CO2), sulfur dioxide and
+   trioxide (SOx) and nitrogen oxides (NOx). Carbon dioxide is an
+   important greenhouse gas which is thought to be responsible for some
+   fraction of the rapid increase in global warming seen especially
+   temperature records in the 19th century, as compared with tens of
+   thousands of years worth of temperature records which can be read from
+   ice cores taken in artic regions.
+
+   Burning fossil fuels for electricity generation also releases trace
+   metals such as beryllium, cadmium, chromium, copper, manganese,
+   mercury, nickel, and silver into the environment, which also act as
+   pollutants. Certain renewable energy technologies do not pollute the
+   environment in the same ways, and therefore can help contribute to a
+   cleaner energy future for the world. Renewable energy technologies
+   available for electricity production include biofuels, solar power,
+   tidal power, wind turbines, hydroelectric power etc. However, serious
+   environmental concerns have been articulated by several environmental
+   activists regarding these modes of electricity generation. According to
+   them, some pollution is invariably produced during the manufacture and
+   retirement of the materials associated with the machinery used in these
+   technologies. A central way to avoid downsides of expanding energy
+   production is energy conservation.
+
+Exploration and research
+
+   Scientists have realized that the known energy resources may not
+   suffice forever, there is thus an urgent need to explore new avenues,
+   which include prospecting for newer territories rich in oil or gas or
+   methods for producing energy resources using methods that have been
+   explored very little.While some scientists are busy in exploring the
+   possibility of cold fusion many countries are diverting significant
+   economic resources towards space exploration . Space exploration of
+   long duration demands compact energy resources because the huge
+   consumption of energy resources by a large size spacecraft cannot be
+   met by chemical portable energy resources carried on board from the
+   Earth. For missions to the outer solar system, compact nuclear power
+   sources (in the form of nuclear reactors or radioisotope thermoelectric
+   generators) are a necessity. It has been proposed to explore
+   annihilation of matter for this purpose, although no practical way of
+   producing significant amounts of antimatter, or storing them is
+   presently known. Yet another field of research to explore a future
+   source of energy is through artificial photosynthesis, a process being
+   actively researched to convert the carbon dioxide into useful fuel,
+   other than biomass without the intervention of plants.
+
+Management
+
+   Since the cost of energy has become a significant factor in the
+   performance of economy of societies, management of energy resources has
+   become very crucial.Energy management involves utilizing the available
+   energy resources more effectively that is with minimum incremental
+   costs. Many times it is possible to save expenditure on energy without
+   incorporating fresh technology by simple management techniques. Most
+   often energy management is the practice of using energy more
+   efficiently by eliminating energy wastage or to balance justifiable
+   energy demand with appropriate energy supply. The process couples
+   energy awareness with energy conservation.
+
+Politics
+
+   Since energy plays an essential role in industrial societies, the
+   ownership and control of energy resources plays an increasing role in
+   politics at the national level. Governments may seek to influence the
+   sharing (distribution) of energy resources among various sections of
+   the society through pricing mechanisms; or even who owns resources
+   within their borders. They may also seek to influence the use of energy
+   by individuals and business in an attempt to tackle environmental
+   issues.
+
+   The most recent international political controversy regarding energy
+   resources is in the context of Iraq wars. Some political analysts
+   maintain that the hidden reason for both 1991 and 2003 wars can be
+   traced to strategic control of international energy resources. Others
+   counter this analysis with the numbers related to its economics.
+   According to the latter group of analysts, U.S. has spent about $336
+   billion in Iraq as compared with a background current value of $25
+   billion per year budget for the entire U.S. oil import dependence See
+   Energy wars
+
+Production
+
+   Producing energy to sustain human needs is an essential social
+   activity, and a great deal of effort goes into the activity. While most
+   of such effort is limited towards increasing the production of
+   electricity and oil, newer ways of producing usable energy resources
+   from the available energy resources are being explored. One such effort
+   is to explore means of producing hydrogen from water. Though hydrogen
+   use is environmentally friendly, its production requires energy and
+   existing technologies to make it, are not very efficient. Research is
+   underway to explore enzymatic decomposition of biomass. See hydrogen
+   economy.
+
+   Other forms of conventional energy resources are also being used in new
+   ways. Coal gasification and liquefaction are recent technologies that
+   are becoming attractive after the realization that oil reserves, at
+   present consumption rates, may be rather short lived. See alternative
+   fuels.
+
+Transportation
+
+   While energy resources are an essential ingredient for all modes of
+   transportation in society, the transportation of energy resources is
+   becoming equally important. Energy resources are invariably located far
+   from the place where they are consumed. Therefore their transportation
+   is always in question. Some energy resources like liquid or gaseous
+   fuels are transported using tankers or pipelines, while electricity
+   transportation invariably requires a network of grid cables. The
+   transportation of energy, whether by tanker, pipeline, or transmission
+   line, poses challenges for scientists and engineers, policy makers, and
+   economists to make it more riskfree and efficient.
+
+Usage
+
+   Ever since humanity discovered various energy resources available in
+   nature, it has been busy in inventing devices, commonly known as
+   machines, that make life more comfortable by using one or the other
+   energy resource. Thus, although the primitive man knew the utility of
+   fire to cook food, the invention of very many devices like gas burners
+   and microwave ovens have increased the usage of energy for this purpose
+   alone manifold. The trend is the same in any other field of social
+   activity, be it construction of social infrastructure, manufacturing of
+   fabrics for covering; porting; printing; decorating for example,
+   textiles), air conditioning; communication of information or for moving
+   people and/or goods( automobiles)
+
+Other links
+
+   Look up Energy in Wiktionary, the free dictionary. Look up Energy in
+   Wikinews, the free news. Look up Energy in Wikiquote, the free
+   quotations. Look up Energy in Wikibooks, the free books. Look up Energy
+   in Wikisource, the free source. Look up Energy in Commons, the free
+   repository. Look up Energy in Wikispecies, directory of species.
+     * Principles of energetics
+     * List of energy topics
+     * Orders of magnitude (energy)
+
+   Retrieved from " http://en.wikipedia.org/wiki/Energy"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

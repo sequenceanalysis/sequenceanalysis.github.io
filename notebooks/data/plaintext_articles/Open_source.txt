@@ -1,0 +1,359 @@
+   #copyright
+
+Open source
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   Open source describes practices in production and development that
+   promote access to the end product's source materials—typically, their
+   source code. Some consider it as a philosophy, and others consider it
+   as a pragmatic methodology. Before open source became widely adopted,
+   developers and producers used a variety of phrases to describe the
+   concept; the term open source gained popularity with the rise of the
+   Internet and its enabling of diverse production models, communication
+   paths, and interactive communities. Subsequently, open source software
+   became the most prominent face of open source practices.
+
+   The open source model can allow for the concurrent use of different
+   agendas and approaches in production, in contrast with more centralized
+   models of development such as those typically used in commercial
+   software companies. "Open source" as applied to culture defines a
+   culture in which fixations are made generally available. Participants
+   in such a culture are able to modify those products and redistribute
+   them back into the community.
+
+History
+
+   The "open source" label came out of a strategy session held at Palo
+   Alto, California, in reaction to Netscape's January 1998 announcement
+   of a source code release for Navigator. The group of individuals at the
+   session included Christine Peterson who suggested "open source" and
+   also included Todd Anderson, Larry Augustin, Jon Hall, Sam Ockman, and
+   Eric S. Raymond. They used the opportunity before the release of
+   Navigator's source code to free themselves of the ideological and
+   confrontational connotations of the term free software. Netscape
+   listened and released their code as open source under the name of
+   Mozilla.
+
+   The term was given a big boost at an event organized in April 1998 by
+   technology publisher Tim O'Reilly. Originally titled the "Freeware
+   Summit" and later known as the "Open Source Summit", the event brought
+   together the leaders of many of the most important free and open source
+   projects, including Linus Torvalds, Larry Wall, Brian Behlendorf, Eric
+   Allman, Guido van Rossum, Michael Tiemann, Paul Vixie, Jamie Zawinski
+   of Netscape, and Eric Raymond. At that meeting, the confusion caused by
+   the name "free software" was brought up. Tiemann argued for
+   "sourceware" as a new term, while Raymond argued for "open source." The
+   assembled developers took a vote, and the winner was announced at a
+   press conference that evening.
+
+   This milestone may be commonly seen as the birth of the open source
+   movement. However, earlier researchers with access to the Advanced
+   Research Projects Agency Network (ARPANET) used a process called
+   Request for Comments, which is similar to open standards, to develop
+   telecommunication network protocols. Characterized by contemporary open
+   source work, this collaborative process led to the birth of the
+   Internet in 1969. An early use of open source was in the 1950s, when
+   IBM distributed operating systems in source format and the SHARE user
+   group was formed to facilitate the exchange of source code.
+
+   The Open Source Initiative formed in February 1998 by Eric S. Raymond
+   and Bruce Perens. With about 20 years of evidence from case histories
+   of closed development versus open development already provided by the
+   Internet, the OSI continued to present the 'open source' case to
+   commercial businesses. They sought to bring a higher profile to the
+   practical benefits of freely available source code, and they wanted to
+   bring major software businesses and other high-tech industries into
+   open source. Bruce Perens adapted Debian's Free Software Guidelines to
+   make the Open Source Definition.
+
+   Critics have said that the term "open source" fosters an ambiguity of a
+   different kind, in that it confuses the mere availability of the source
+   with the freedom to use, modify, and redistribute it. Developers have
+   used the term Free/Open-Source Software ( FOSS), or
+   Free/Libre/Open-Source Software ( FLOSS), consequently, to describe
+   open-source software that is freely available and free of charge.
+
+Markets
+
+   Software is not the only field affected by open source; many fields of
+   study and social and political views have been affected by the growth
+   of the concept of open source. Advocates in one field will often
+   support the expansion of open source in other fields, including Linus
+   Torvalds who is quoted as saying, "the future is open source
+   everything."
+
+   Eric Raymond and other founders of the open source movement have
+   sometimes publicly tried to put the brakes on speculation about
+   applications outside of software, arguing that strong arguments for
+   software openness should not be weakened by overreaching into areas
+   where the story is less compelling. The broader impacts of the open
+   source movement, and the extent of its role in the development of new
+   information sharing procedures, remains to be seen.
+
+   The open source movement has been the inspiration for increased
+   transparency and liberty in other fields, including the release of
+   biotechnology research by CAMBIA, Wikipedia, and other projects. The
+   open-source concept has also been applied to media other than computer
+   programs, e.g., by Creative Commons. It also constitutes an example of
+   user innovation (see for example the book Democratizing Innovation).
+   Often, open source is an expression where it simply means that a system
+   is available to all who wish to work on it.
+
+   Most economists would agree that open source candidates have a public
+   goods aspect to them. In general, this suggests that the original work
+   involves a great deal of time, money, and effort. However, the cost of
+   reproducing the work is very low so that additional users may be added
+   at zero or near zero cost - this is referred to as the marginal cost of
+   a product. At this point, it is necessary to consider a copyright. The
+   idea of copyright for works of authorship is to protect the incentive
+   of making these original works. Copyright restriction then creates
+   access costs on consumers who value the original more than making an
+   additional copy but value the original less than its price. Thus, they
+   will pay an access cost of this difference. Access costs also pose
+   problems for authors who wish to create something based on another work
+   yet are not willing to pay the copyright holder for the rights to the
+   copyrighted work. The second type of cost incurred with a copyright
+   system is the cost of administration and enforcement of the copyright.
+
+   The idea of open source is then to eliminate the access costs of the
+   consumer and the creator by reducing the restrictions of copyright.
+   This will lead to creation of additional works, which build upon
+   previous work and add to greater social benefit. Additionally, some
+   proponents argue that open source also relieves society of the
+   administration and enforcement costs of copyright. Organizations such
+   as Creative Commons have websites where individuals can file for
+   alternative "licenses", or levels of restriction, for their works.
+   These self-made protections free the general society of the costs of
+   policing copyright infringement. Thus, on several fronts, there is an
+   efficiency argument to be made on behalf of open sourced goods.
+
+   Others argue that society loses through open sourced goods. Because
+   there is a loss in monetary incentive to the creation of new goods,
+   some argue that new products will not be created. This argument seems
+   to apply particularly to the business model where extensive research
+   and development is done, e.g. pharmaceuticals. However, others argue
+   that visual art and other works of authorship should be free. These
+   proponents of extensive open source ideals argue that there should be
+   no monetary incentive for artists.
+
+Agriculture
+
+     * Beverages
+          + OpenCola — An idea inspired by the open source movement. Soft
+            drink giants like Coke and Pepsi hold their formulas as
+            closely guarded secrets. Now volunteers have posted the recipe
+            for a similar cola drink on the Internet. The taste is said to
+            be comparable to that of the standard beverages.
+          + Beer — A beer recipe called Vores Øl. The beer was created by
+            students at the IT-University in Copenhagen together with
+            Superflex, a Copenhagen-based artist collective, to illustrate
+            how open source concepts might be applied outside the digital
+            world. The concept expands upon a statement found in the Free
+            Software Definition: "Free software is a matter of liberty,
+            not price. To understand the concept, you should think of
+            'free' as in 'free speech' not as in 'free beer.'" Following
+            its release, an article in Wired magazine commented that "as
+            open source spreads beyond software to online encyclopedias
+            like Wikipedia and biological research, it was only a matter
+            of time before somebody created an open-source beer".
+          + But before that In 2002 a beer company in Australia,
+            Brewtopia, started an open source brewery which invited the
+            general population to be involved in the development and
+            ownership of the brewery, but asking them to vote on the
+            development of every aspect of their beer, Blowfly, and its
+            road to market. In return for their feedback and input, they
+            received shares in the company, which is now publicly traded
+            on one of the Stock Exchanges in Australia. The company has
+            always adhered to its Open Source roots and is the only beer
+            company in the world that allows the public to design,
+            customise and develop their own beers online.
+          + Coffee - It has been pointed out that capsule-based beverage
+            systems such as Nestle's Nespresso or Krups' Tassimo turn
+            home-brewed coffee from an inherently "open-source" beverage
+            into a product limited by the specific range of capsules made
+            available by the system manufacturers.
+
+Content
+
+     * 'Open Source' is sometimes used to describe content. This is
+       arguable; no open source licenses are used; rather, Open Content
+       licenses are used. Such content is properly called 'Open Content'
+       or 'Free Content', as applicable.
+
+Health and science
+
+     * Medicine
+          + Pharmaceuticals — There have been several proposals for
+            open-source pharmaceutical development, which led to the
+            establishment of the Tropical Disease Initiative. There are
+            also a number of not-for-profit "virtual pharmas" such as the
+            Institute for One World Health and the Drugs for Neglected
+            Diseases Initiative.
+     * Science
+          + Research — The Science Commons was created as an alternative
+            to the expensive legal costs of sharing and reusing scientific
+            works in journals etc.
+
+Technology
+
+   MediaWiki logo
+   Enlarge
+   MediaWiki logo
+     * Computer software
+          + Open source software — software whose source code is published
+            and made available to the public, enabling anyone to copy,
+            modify and redistribute the source code without paying
+            royalties or fees. Open source code evolves through community
+            cooperation. These communities are composed of individual
+            programmers as well as very large companies. Examples of
+            open-source software products are:
+               o Linux kernel - operating system based on Unix
+               o Eclipse - software framework for "rich-client
+                 applications"
+               o Apache - HTTP web server
+               o Tomcat web server - web container
+               o Blender - 3D graphics application
+               o Moodle - course management system
+               o Mozilla Firefox - web browser
+               o Mozilla Thunderbird - e-mail client
+               o OpenOffice.org - office suite
+               o OpenSolaris - Unix Operating System from Sun Microsystems
+               o Mediawiki - wiki server software, the software that runs
+                 Wikipedia
+               o Drupal - content management system
+               o GNU Compiler Collection - Programming language compiler
+                 for C, C++, Java and other languages.
+
+     * Computer hardware
+          + Open source hardware — hardware whose initial specification,
+            usually in a software format, are published and made available
+            to the public, enabling anyone to copy, modify and
+            redistribute the hardware and source code without paying
+            royalties or fees. Open source hardware evolves through
+            community cooperation. These communities are composed of
+            individual hardware/software developers, hobbyists, as well as
+            very large companies. Examples of open source hardware
+            initiatives are:
+               o Sun Microsystem's OpenSPARC T1 Multicore processor. Sun
+                 has released it under GPL.
+               o Arduino, a microcontroller platform for hobbyists,
+                 artists and designers.
+
+     * Open design — which involves applying open source methodologies to
+       the design of artifacts and systems in the physical world. Very
+       nascent but has huge potential.
+
+     * Teaching - which involves applying the concepts of open source to
+       instruction using a shared web space as a platform to improve upon
+       learning, organizational, and management challenges. An example of
+       an Open Source Courseware is the Java Education & Development
+       Initiative (JEDI).
+
+   Open source principles can also be applied to technical areas other
+   than computer software, such as digital communication protocols and
+   data storage formats (for instance the Indian development simputer).
+
+Society and culture
+
+   Open source as applied to culture defines a culture in which fixations
+   are made generally available. Participants in such an open source
+   culture are able to modify those products, if needed, and redistribute
+   them back into the community or other organizations.
+
+Government
+
+     * Open source government — primarily refers to use of open source
+       software technologies in traditional government organizations and
+       government operations such as voting.
+     * Open source politics — is a term used to describe a political
+       process that uses Internet technologies such as blogs, email and
+       polling to provide for a rapid feedback mechanism between political
+       organizations and their supporters. There is also an alternative
+       conception of the term which relates to the development of public
+       policy under a set of rules and processes similar to the Open
+       Source Software movement.
+     * Open source governance — is similar to open source politics, but it
+       applies more to the democratic process and promotes the freedom of
+       information.
+
+Education
+
+   Within the academic community, there is discussion about expanding what
+   could be called the "intellectual commons" (analogous to the creative
+   commons). Proponents of this view have hailed the OpenCourseWare
+   project at MIT, Eugene Thacker's article on " Open Source DNA", the
+   "Open Source Cultural Database", openwebschool, and Wikipedia as
+   examples of applying open source outside the realm of computer
+   software.
+
+   Open Source Curriculum are instructional resources whose digital source
+   can be freely used, distributed and modified, typically by classroom
+   educators. The open source curriculum development process invites the
+   feedback and participation in a community of educational practitioners
+   working to create a course or unit of study. Such development
+   communities can form ad-hoc, within the same subject area or around a
+   common student need, and allow for a variety of editing and workflow
+   structures. OpenEducator, a non-profit organization launched in March
+   2006 using the open source Drupal CMS, aims to support an open source
+   curriculum development community for K-12 educators. Another project
+   the Open Source Learning Project is an open source curriculum project
+   initiated by Oaks Institute of Technology and Career Development-
+   Public Safety Services.This project is focused on curriculum and
+   training materials for emergency services and developing a resource for
+   emergency services related research.
+
+Innovation communities
+
+   The principle of sharing predates the open source movement; for
+   example, the free sharing of information has been institutionalized in
+   the scientific enterprise since at least the 19th century. Open source
+   principles have always been part of the scientific community. The
+   sociologist Robert K. Merton described the four basic elements of the
+   community - universalism (an international perspective), communism
+   (sharing information), disinterestedness (removing one's personal views
+   from the scientific inquiry) and organized skepticism (requirements of
+   proof and review) that accurately describe the scientific community
+   today. These principles are, in part, complemented by US law's focus on
+   protecting expression and method but not the ideas themselves. There is
+   also a tradition of publishing research results to the scientific
+   community instead of keeping all such knowledge proprietary. One of the
+   recent initiatives in scientific publishing has been open access - the
+   idea that research should be published in such a way that it is free
+   and available to the public. There are currently many open access
+   journals where the information is available for free online, however
+   most journals do charge a fee (either to users or libraries for
+   access). The Budapest Open Access Initiative is an international effort
+   with the goal of making all research articles available for free on the
+   internet. The National Institutes of Health has recently proposed a
+   policy on "Enhanced Public Access to NIH Research Information." This
+   policy would provide a free, searchable resource of NIH-funded results
+   to the public and with other international repositories six months
+   after its initial publication. The NIH's move is an important one
+   because there is significant amount of public funding in scientific
+   research. Many of the questions have yet to be answered - the balancing
+   of profit vs. public access, and ensuring that desirable standards and
+   incentives do not diminish with a shift to open access.
+
+   Benjamin Franklin was an early contributor donating all his inventions
+   including the Franklin stove, bifocals and the lightning rod to the
+   public domain.
+
+   At Bootstrap Austin, an open source community, entrepreneurs provide
+   negotiated products/services at no cost to the group. The entrepreneur
+   benefits by gaining reputation in the community, experience and an
+   improved product. The community is at once a customer and Evangelist
+   for the product/service. The entrepreneur monetizes their product or
+   service outside the Bootstrap community.
+
+Arts and recreation
+
+   Copyright protection is used in the performing arts and even in
+   athletic activities. Groups have attempted to protect such practices
+   from being fettered by copyright.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Open_source"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

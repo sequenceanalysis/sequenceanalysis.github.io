@@ -1,0 +1,166 @@
+   #copyright
+
+Hawking radiation
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+   In physics, Hawking radiation is thermal radiation thought to be
+   emitted by black holes due to quantum effects. It is named after
+   British physicist Stephen Hawking who worked out the theoretical
+   argument for its existence in 1974. Hawking's discovery became the
+   first convincing insight into quantum gravity. However, the existence
+   of Hawking radiation remains controversial. .
+
+Overview
+
+   Black holes are sites of immense gravitational attraction into which
+   surrounding matter is drawn by gravitational forces. Classically, the
+   gravitation is so powerful that nothing, not even radiation or light
+   (hence why it is black as no light is reflecting from it), can escape
+   from the black hole. However, by doing a calculation in the framework
+   of quantum field theory in curved spacetimes, Hawking showed that
+   quantum effects allow black holes to emit radiations in a thermal
+   spectrum.
+
+   Physical insight on the process may be gained by imagining that
+   particle antiparticle radiation is emitted from just beyond the event
+   horizon. This radiation does not come directly from the black hole
+   itself, but rather is a result of virtual particles being "boosted" by
+   the black hole's gravitation into becoming real particles.
+
+   A more precise, but still much simplified view of the process is that
+   vacuum fluctuations cause a particle-antiparticle pair to appear close
+   to the event horizon of a black hole. One of the pair falls into the
+   black hole whilst the other escapes. In order to fill the energy 'hole'
+   left by the pair's spontaneous creation, energy tunnels out of the
+   black hole and across the event horizon. By this process the black hole
+   loses mass, and to an outside observer it would appear that the black
+   hole has just emitted a particle.
+
+An example
+
+   A black hole of one solar mass has a temperature of only 60
+   nanokelvins; in fact, such a black hole would absorb far more cosmic
+   microwave background radiation than it emits. A black hole of
+   4.5 × 10²² kg (about the mass of the Moon) would be in equilibrium at
+   2.7 kelvins, absorbing as much radiation as it emits. Yet smaller
+   primordial black holes would emit more than they absorb, and thereby
+   lose mass.
+
+Problems with the theory
+
+   The trans-Planckian problem may raise doubts on the physical validity
+   of Hawking's result. Hawking's original derivation employed field modes
+   of arbitrarily high frequency near the black hole horizon, although
+   these do not appear in the final result. In particular, he used modes
+   of frequency higher than the inverse Planck time, and at these scales
+   the physical laws are unknown. A number of alternative approaches to
+   the Hawking radiation have appeared in order to try to overcome or
+   address this problem. Some of these are in connection with the Unruh
+   effect.
+
+   The Hawking Radiation shows that the laws of black hole thermodynamics
+   have a complete physical meaning.
+
+Emission process
+
+   A black hole emits thermal radiation at a temperature
+
+          T_H = \frac{\kappa}{2 \pi} ,
+
+   in natural units with G, c, \hbar and k equal to 1, and where κ is the
+   surface gravity of the horizon.
+
+   In particular, the radiation from a Schwarzschild black hole is
+   black-body radiation with temperature:
+
+          T={\hbar\,c^3\over8\pi G M k}
+
+   where \hbar is the reduced Planck constant, c is the speed of light, k
+   is the Boltzmann constant, G is the gravitational constant, and M is
+   the mass of the black hole.
+
+Black hole evaporation
+
+   When particles escape, the black hole loses a small amount of its
+   energy and therefore of its mass (recall that mass and energy are
+   related by Einstein's famous equation E = mc²).
+
+   The power emitted by a black hole in the form of Hawking radiation can
+   easily be estimated for the simplest case of a nonrotating, non-charged
+   Schwarzschild black hole of mass M. Combining the formulae for the
+   Schwarzschild radius of the black hole, the Stefan-Boltzmann law of
+   black-body radiation, the above formula for the temperature of the
+   radiation, and the formula for the surface area of a sphere (the black
+   hole's event horizon) we get:
+
+          P={\hbar\,c^6\over15360\,\pi\,G^2M^2}
+
+   where P is the energy outflow, \hbar is the reduced Planck constant, c
+   is the speed of light, and G is the gravitational constant. It is worth
+   mentioning that the above formula has not yet been derived in the
+   framework of semiclassical gravity.
+
+   The power in the Hawking radiation from a solar mass black hole turns
+   out to be a minuscule 10^−28 watts. It is indeed an extremely good
+   approximation to call such an object 'black'.
+
+   Under the assumption of an otherwise empty universe, so that no matter
+   or cosmic microwave background radiation falls into the black hole, it
+   is possible to calculate how long it would take for the black hole to
+   evaporate. The black hole's mass is now a function M(t) of time t. The
+   time that the black hole takes to evaporate is:
+
+          t_{\operatorname{ev}}={5120\,\pi\,G^2M_0^{\,3}\over\hbar\,c^4}
+
+   For a black hole of one solar mass (about 2 \times 10^30 kg), we get an
+   evaporation time of 10^67 years—much longer than the current age of the
+   universe. But for a black hole of 10^11 kg, the evaporation time is
+   about 3 billion years. This is why some astronomers are searching for
+   signs of exploding primordial black holes.
+
+   In common units,
+
+          P = 3.563\,45 \times 10^{32}
+          \left[\frac{\mathrm{kg}}{M}\right]^2 \mathrm{W}
+
+          t_\mathrm{ev} = 8.407\,16 \times 10^{-17}
+          \left[\frac{M_0}{\mathrm{kg}}\right]^3 \mathrm{s} \ \ \approx\
+          2.66 \times 10^{-24} \left[\frac{M_0}{\mathrm{kg}}\right]^3
+          \mathrm{yr}
+
+          M_0 = 2.282\,71 \times 10^5
+          \left[\frac{t_\mathrm{ev}}{\mathrm{s}}\right]^{1/3} \mathrm{kg}
+          \ \ \approx\ 7.2 \times 10^7
+          \left[\frac{t_\mathrm{ev}}{\mathrm{yr}}\right]^{1/3} \mathrm{kg}
+
+   So, for instance, a 1 second-lived black hole has a mass of 2.28 × 10^5
+   kg, equivalent to an energy of 2.05 × 10^22 J that could be released by
+   5 × 10^6 megatons of TNT. The initial power is 6.84 × 10^21 W.
+
+   Black hole evaporation has several significant consequences:
+     * Black hole evaporation produces a more consistent view of black
+       hole thermodynamics, by showing how black holes interact thermally
+       with the rest of the universe.
+     * Unlike most objects, a black hole's temperature increases as it
+       radiates away mass. The rate of temperature increase is
+       exponential, with the most likely endpoint being the dissolution of
+       the black hole in a violent burst of gamma rays. A complete
+       description of this dissolution requires a model of quantum gravity
+       however, as it occurs when the black hole approaches Planck mass
+       and Planck radius.
+     * The simplest models of black hole evaporation lead to the black
+       hole information paradox. The information content of a black hole
+       appears to be lost when it evaporates, as under these models the
+       Hawking radiation is random (containing no information). A number
+       of solutions to this problem have been proposed, including
+       suggestions that Hawking radiation is perturbed to contain the
+       missing information, that the Hawking evaporation leaves some form
+       of remnant particle containing the missing information, and that
+       information is allowed to be lost under these conditions.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Hawking_radiation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

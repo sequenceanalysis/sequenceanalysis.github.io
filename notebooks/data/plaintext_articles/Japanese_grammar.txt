@@ -1,0 +1,1577 @@
+   #copyright
+
+Japanese grammar
+
+2007 Schools Wikipedia Selection. Related subjects: Linguistics
+
+   日本語文法 (Japanese grammar)
+
+   The Japanese language has a highly regular agglutinative verb
+   morphology, with both productive and fixed elements. Typologically, its
+   most prominent feature is topic creation: Japanese is neither
+   topic-prominent, nor subject-prominent; indeed, it is common for
+   sentences to have distinct topics and subjects. Grammatically, Japanese
+   is an SOV dependent-marking language, with verbs always constrained to
+   the sentence-final position, except in some rhetorical and poetic
+   usage. The word order is fairly free as long as the order of
+   dependent-head is maintained among all constituents: the modifier or
+   relative clause precedes the modified noun, the adverb precedes the
+   modified verb, the genitive nominal precedes the possessed nominal, and
+   so forth. Thus, Japanese is a strongly left- branching language; to
+   contrast, Romance languages like Spanish are strongly right-branching,
+   and Germanic languages like English are weakly right-branching.
+
+   For simplicity, this article presents examples in plain informal and
+   non-literary style. The reader must keep the general grammatical
+   principles of politeness and respect in mind.
+
+Textual classifications
+
+   Text (文章 bunshō) is composed of sentences (文 bun), which are in turn
+   composed of phrases (文節 bunsetsu), which are its smallest coherent
+   components. Like Chinese and classical Korean, written Japanese does
+   not typically demarcate words with spaces; its agglutinative nature
+   further makes the concept of a word rather different from words in
+   English. Word divisions are informed by semantic cues and a knowledge
+   of phrase structure. Phrases have a single meaning-bearing word,
+   followed by a string of suffixes, auxiliary verbs and particles to
+   modify its meaning and designate its grammatical role. In the following
+   example, bunsetsu are indicated by vertical bars:
+
+          太陽が｜東の｜空に｜昇る。
+          taiyō ga | higashi no | sora ni | noboru
+          sun SUBJECT | east POSSESSIVE | sky LOCATIVE | rise
+          The sun rises in the eastern sky.
+
+   Some scholars romanize Japanese sentences by inserting spaces only at
+   phrase boundaries (i.e., "taiyō-ga higashi-no sora-ni noboru"), in
+   effect treating an entire phrase as the equivalent of an English word.
+   There is a good reason for this: phonologically, the postpositional
+   particles are part of the word they follow, and within a phrase the
+   pitch accent can fall at-most once. Traditionally, however, a more
+   basic concept of word (単語 tango) forms the atoms of sentences. Words,
+   unlike phrases, need not have intrinsic meaning, therefore admitting
+   particles and auxiliary verbs. It must be noted that some classical
+   auxiliary verbs such as -ta (which might have developed as a
+   contraction of -te ari) are grammaticalized as conjugations or verb
+   endings in modern Japanese, not individual words.
+
+          私｜は｜毎日｜学校｜へ｜歩いて｜行く。
+          watashi | wa | mainichi | gakkō | e | aruite | iku
+          first-person | TOPIC | everyday | school | TOWARDS |
+          walk-CONTINUATIVE | go
+          Every day I walk to school.
+
+   Subjects are de-emphasized in Japanese: they are most commonly found at
+   introductions of topics, or in situations where an ambiguity might
+   result with their omission. Thus, the following sentence has more than
+   one possible translation
+
+          日本に行きました
+          nihon ni ikimashita
+          Japan LOCATIVE go-POLITE-PERFECT
+
+   The words translate literally to "went to Japan", but the meaning
+   depends on context: if the topic is the first person, then it means "I
+   went to Japan"; for a third person, "he/she went to Japan", and so
+   forth. The closest analogue in Japanese of the subject-predicate
+   structure of Western languages is the so-called topic construction.
+   Consider the following pair of sentences:
+
+          太陽が昇る。
+          taiyō ga noboru
+          sun SUBJECT rise
+          太陽は昇る。
+          taiyō wa noboru
+          sun TOPIC rise
+
+   Both sentences mean "the sun rises", but the sun (太陽 taiyō) in the
+   first sentence is the subject, and in the second the topic. The
+   difference is a matter of context and focus. As a subject—indicated by
+   the particle が (ga)—the sentence is a specific observation that the sun
+   rises. For instance, one might say the following (surprising)
+   statement:
+
+          今夜は、太陽が昇る。
+          kon'ya wa, taiyō ga noboru
+          tonight TOPIC sun SUBJECT rise
+          The sun rises tonight.
+
+   When the sun is a topic—using the particle は (wa)—the statement is less
+   focused on the sun, and is a general statement of fact. It is often a
+   description of a state or a judgement, rather than a particular
+   observation.
+
+Word classification
+
+   The structure of this article will mirror the following classification
+   of words. There are two broad categories: independent words (自立語
+   jiritsugo) having internal meaning, and ancillary words (付属語 fuzokugo)
+   which are meaning modifiers.
+
+   Independent words divide into a conjugable (活用語 katsuyōgo) class
+   containing verbs (動詞 dōshi), i-type adjectives (形容詞 keiyōshi), and
+   na-type adjectives (形容動詞 keiyōdōshi), and a non-conjugable (非活用語
+   hikatsuyōgo or 無活用語 mukatsuyōgo) class containing nouns (名詞 meishi),
+   pronouns (代名詞 daimeishi), adverbs (副詞 fukushi), conjunctions (接続詞
+   setsuzokushi), interjections (感動詞 kandōshi) and prenominals (連体詞
+   rentaishi).
+
+   Ancillary words also divide into a non-conjugable class, containing
+   grammatical particles (助詞 joshi) and counter words (助数詞 josūshi), and a
+   conjugable class consisting of auxiliary verbs (助動詞 jodōshi). There is
+   not wide agreement among linguists as to the English translations of
+   the above terms.
+
+Nouns and other deictics
+
+   CAPTION: respectful forms of nouns
+
+   meaning   plain         respectful
+   rice    飯 meshi   ご飯 go-han
+   money   金 kane    お金 o-kane
+   body    体 karada  お体 o-karada
+                     御身 onmi
+   word(s) 言葉 kotoba お言葉 o-kotoba
+                     詔 mikotonori
+
+   Japanese nouns are non- inflecting and have neither gender nor number;
+   in addition, Japanese lacks articles. Thus, 猫 (neko) can be translated
+   as "cat", "cats", "a cat", "the cat", "some cats" and so forth,
+   depending on context. Unlike conjugating words, nouns do not inflect to
+   show politeness or respect. Generally, the prefix o- for native nouns,
+   and go- for Sino-Japanese nouns, serve to make the noun polite. A few
+   examples are in the adjoining table. Note that while these prefixes are
+   almost always in Hiragana–that is, as お (o-) or ご (go)– the kanji 御 is
+   used for both o and go prefixes in formal writing. Many common nouns
+   have unpredictable polite or respectful forms not governed by this
+   general principle. (See also: Japanese honorifics.)
+
+   Lacking number, Japanese does not differentiate between count and mass
+   nouns. (An English speaker learning Japanese would be well advised to
+   treat Japanese nouns as mass nouns.) A small number of nouns have
+   collectives formed by reduplication (possibly accompanied by rendaku);
+   for example: 人 (hito, person) and 人々 (hitobito, people). Reduplication
+   is not productive and though they always refer to more than one, these
+   words are not true plurals. Hitobito, for example, means "a lot of
+   people" or "people in general". It is never used to mean "two people".
+   A phrase like edo no hitobito would be taken to mean "the people of
+   Edo", or "the population of Edo", not "two people from Edo" or even "a
+   few people from Edo". Similarly, 山々 yamayama, the duplication of yama,
+   mountain, means "many mountains".
+
+   A limited number of nouns have collective forms that refer to groups of
+   people. Examples include 私達 (watashi-tachi, we), あなたたち (anata-tachi,
+   you (plural)), 僕等 (bokura, we (informal male)). One uncommon personal
+   noun, 我 (ware, I, or in some cases, you) has a much more common
+   reduplicative collective form 我々 (wareware, we).
+
+   The suffixes 達 (-tachi) and 等 (-ra) are by far the most common
+   collectivizing suffixes. These are, again, not pluralizing suffixes:
+   太郎達 (tarō-tachi) does not mean "some number of people named Taro", but
+   instead indicates the group including Taro. Depending on context,
+   tarō-tachi might be translated into "Taro and his friends", "Taro and
+   his siblings", "Taro and his family", or any other logical grouping
+   that has Taro as the representative. Some words with collectives have
+   become fixed phrases and (commonly) refer to one person. Specifically,
+   子供 (kodomo, child) and 友達 (tomodachi, friend) can be singular, even
+   though -[t]omo and -[t]achi were originally collectivizing in these
+   words; to unambiguously refer to groups of them, add an additional
+   collectivizing suffix: 子供たち (kodomotachi, children) and 友達たち
+   (tomodachitachi, friends), though tomodachitachi is somewhat uncommon.
+   Tachi is sometimes applied to inanimate objects, 車 (kuruma, car) and 車達
+   (kuruma-tachi, cars), for example, but this usage is not generally
+   accepted as standard.
+
+Pronouns
+
+   CAPTION: some common pronouns
+
+   person plain, informal polite respectful
+   first 僕 (boku, male)
+   あたし (atashi, female),俺(ore,male)etc.. 私 (watashi) 私 (watakushi)
+   second 君 (kimi,)お前(omae,)貴様(kisama)etc.. 貴方 (anata), そちら (sochira) 貴方様
+   (anata-sama)
+   third 彼 (kare, male)
+   彼女 (kanojo, female)
+
+   Although many grammars and textbooks mention pronouns (代名詞 daimeishi),
+   Japanese lacks true pronouns. (Daimeishi can be considered a subset of
+   nouns.) Strictly speaking, pronouns do not take modifiers, but Japanese
+   daimeishi do: 背の高い彼 (se no takai kare, lit. tall he) is valid in
+   Japanese. Also, unlike true pronouns, Japanese daimeishi are not
+   closed-class: new daimeishi are introduced and old ones go out of use
+   relatively quickly.
+
+   A large number of daimeishi referring to people are translated as
+   pronouns in their most common uses. Examples: 彼 (kare, he); 彼女 (kanojo,
+   she); 私 (watashi, I); see also the adjoining table or a longer list.
+   Some of these "personal nouns" such as 己 (onore, I (exceedingly
+   humble)) or 僕 (boku, I (young male)) also have second-person uses:
+   onore in second-person is an extremely rude "you", and boku in
+   second-person is a diminutive "you" used for young boys. This further
+   differentiates daimeishi from pronouns, which cannot change their
+   person. Kare and kanojo also mean "boyfriend" and "girlfriend"
+   respectively, and this usage of the words is possibly more common than
+   the use as pronouns.
+
+   Like other subjects, Japanese de-emphasizes personal daimeishi, which
+   are seldom used. This is partly because Japanese sentences do not
+   always require explicit subjects, and partly because names or titles
+   are often used where pronouns would appear in a translation:
+
+          「木下さんは、背が高いですね。」
+          Kinoshita-san wa, se ga takai desu ne.
+          (addressing Mr. Kinoshita) "You're pretty tall, aren't you?"
+          「専務、明日福岡市西区の山本商事の社長に会っていただけますか？」
+          Semmu, asu Fukuoka-shi nishi-ku no Yamamoto-shōji no shachō ni
+          atte itadakemasuka?
+          (addressing the managing director) "Would it be possible for you
+          to meet the president of Yamamoto Trading Co. of Fukuoka's West
+          Ward tomorrow?"
+
+   While there is no lexical difference between nouns and daimeishi, the
+   possible referrents of daimeishi can be constrained depending on the
+   order of occurrence. The following pair of examples (due to Bart
+   Mathias) illustrates one such constraint.
+
+          ホンダ君にあって、彼の本を返した。
+          honda-kun ni atte, kare no hon wo kaeshita
+          (I) met Honda and returned his book. ("His" here can refer to
+          Honda.)
+          彼に会って、ホンダ君の本を返した。
+          kare ni atte, honda-kun no hon wo kaeshita
+          (I) met him and returned Honda's book. (Here, "him" cannot refer
+          to Honda.)
+
+Reflexive pronouns
+
+   Reflexive pronouns are an important class of pronouns in a language
+   like English, containing a large variety (himself, herself, itself,
+   themselves, etc.); Japanese, in contrast, has one main reflexive
+   daimeishi, 自分 (jibun), which can also mean "I". The uses of the
+   reflexive (pro)nouns in the two languages are very different, as
+   demonstrated by the following incorrect literal translations
+   (*=impossible, ??=ambiguous):
+   English Japanese reason
+   History repeats itself. *歴史は自分を繰り返す。
+   *Rekishi wa jibun wo kurikaesu. the target of jibun must be animate
+    ??Hiroshi talked to Kenji about himself. ひろしは硯児に自分のことを話した。
+   Hiroshi wa Kenji ni jibun no koto wo hanashita.
+   Hiroshi talked to Kenji about himself (=Hiroshi) jibun refers
+   unambiguously to the subject.
+   *Nobu expects that Shizuko will take good care of himself.
+   *誠は靜子が自分を大事にすることを期待している。
+   ??Nobu wa Shizoko ga jibun wo daiji ni suru koto wo kitai shite iru.
+   either "Nobu expects that Shizuko will take good care of him", or "Nobu
+   expects that Shizuko will take good care of herself." jibun can be in a
+   different sentence or dependent clause, but its target is ambiguous
+
+   If the sentence has more than one grammatical or semantic subject, then
+   the target of jibun is the subject of the primary or most prominent
+   action; thus in the following sentence jibun refers unambiguously to
+   Shizuko (even though Nobu is the grammatical subject) because the
+   primary action is Shizuko's reading.
+
+          誠は靜子に自分の家で本を読ませた。
+          Nobu ga Shizuko ni jibun no uchi de hon wo yomaseta.
+          Nobu made Shizuko read book(s) in her house.
+
+   In practice the main action is not always discernible, in which case
+   such sentences are ambiguous. The use of jibun in complex sentences
+   follows non-trivial rules.
+
+   There are also equivalents to jibun such as mizukara. Other uses of the
+   reflexive pronoun in English are covered by adverbs like hitorideni
+   which is used in the sense of "by oneself". For example
+
+          機械がひとりでに動き出した
+          kikai ga hitorideni ugokidashita
+          "The machine started operating by itself."
+
+Demonstratives
+
+   CAPTION: demonstratives
+
+        ko-            so-                 a-                  do-
+   kore
+   this one       sore
+                  that one       are
+                                 that one over there    dore
+                                                        which one?
+   kono
+   (of) this      sono
+                  (of) that      ano
+                                 (of) that over there   dono
+                                                        (of) what?
+   konna
+   like this      sonna
+                  like that      anna
+                                 like that over there   donna
+                                                        how? what sort of?
+   koko
+   here           soko
+                  there          asoko *
+                                 over there             doko
+                                                        where?
+   kochira
+   this way       sochira
+                  that way       achira
+                                 that way over there    dochira
+                                                        which way?
+   kō
+   in this manner sō
+                  in that manner ā *
+                                 in that (other) manner dō
+                                                        in what manner?
+
+          * irregular formation
+
+   Demonstratives occur in the ko-, so-, and a- series. The ko- (proximal)
+   series refers to things closer to the speaker than the hearer, the so-
+   (mesial) series for things closer to the hearer, and the a- (distal)
+   series for things distant to both the speaker and the hearer. With do-,
+   demonstratives turn into the corresponding question form.
+   Demonstratives can also be used to refer to people, for example
+
+          「こちらは林さんです。」
+          Kochira wa Hayashi-san desu.
+          "This is Mr. Hayashi."
+
+   Demonstratives limit, and therefore precede, nouns; thus この本 (kono hon)
+   for "this/my book", and その本 (sono hon) for "that/your book".
+
+   When demonstratives are used to refer to things not visible to the
+   speaker or the hearer, or to (abstract) concepts, they fulfil a related
+   but different anaphoric role. The anaphoric distals are used for shared
+   information between the speaker and the listener.
+
+          A：先日、札幌に行って来ました。
+          A: Senjitsu, Sapporo ni itte kimashita.
+          A: I visited Sapporo recently.
+          B：あそこ(*そこ)はいつ行ってもいい所ですね。
+          B: Asoko (*Soko) wa itsu itte mo ii tokoro desu ne.
+          B: Yeah, that's a great place to visit whenever you go.
+
+   Soko instead of asoko would imply that B doesn't share this knowledge
+   about Sapporo, which is inconsistent with the meaning of the sentence.
+   The anaphoric mesials are used to refer to experience or knowledge that
+   is not shared between the speaker and listener.
+
+          佐藤：田中という人が昨日死んだって...
+          Satō : Tanaka to iu hito ga kinō shinda tte...
+          Sato: I heard that a man called Tanaka died yesterday...
+          森：えっ、本当?
+          Mori: E', hontō?
+          Mori: Oh, really?
+          佐藤：だから、その(*あの)人、森さんの昔の隣人じゃなかったっけ？
+          Satō : Dakara, sono (*ano) hito, Mori-san no mukashi no rinjin
+          ja nakatta 'kke?
+          Sato: It's why I asked... wasn't he an old neighbour of yours?
+
+   Again, ano is inappropriate here because Sato doesn't (didn't) know
+   Tanaka personally. The proximal demonstratives do not have clear
+   anaphoric uses. They can be used in situations where the distal series
+   sound too disconnected:
+
+          一体何ですか、これ(*あれ)は?
+          Ittai nan desu ka, kore (*are) wa?
+          What on earth is this?
+
+Conjugable words
+
+Stem forms
+
+   Prior to discussing the conjugable words, a brief note about stem
+   forms. Conjugative suffixes and auxiliary verbs are attached to the
+   stem forms of the affixee. In modern Japanese there are the following
+   six stem forms.
+
+   Imperfective form (未然形 mizenkei)
+          is used for plain negative (of verbs), causative and passive
+          constructions. The most common use of this form is with the -nai
+          auxiliary that turns verbs into their negative (predicate) form.
+          (See Verbs below.)
+
+   Continuative form (連用形 ren'yōkei)
+          is used in a linking role. This is the most productive stem
+          form, taking on a variety of endings and auxiliaries, and can
+          even occur independently in a sense similar to the -te ending.
+          This form is also used to negate adjectives.
+
+   Terminal form (終止形 shūshikei)
+          is used at the ends of clauses in predicate positions. This form
+          is also variously known as plain form (基本形 kihonkei) or
+          dictionary form (辞書形 jishokei).
+
+   Attributive form (連体形 rentaikei)
+          in modern Japanese is practically identical to the terminal form
+          (but see Adjectives, below), but differs in use: it is prefixed
+          to nominals and is used to define or classify the noun. In this
+          function, the root of this stem form is called a prenominal
+          adjective (連体詞 rentaishi).
+
+   Hypothetical form (仮定形 kateikei)
+          is used for conditional and subjunctive forms, using the -ba or
+          -domo ending.
+
+   Imperative form (命令形 meireikei)
+          is used to turn verbs into commands. Adjectives do not have an
+          imperative stem form.
+
+   The application of conjugative suffixes to stem forms follow certain
+   euphonic principles (音便 onbin), which is discussed below.
+
+Verbs
+
+   Verbs in Japanese are rigidly constrained to the ends of clauses in
+   what is known as the predicate position.
+   猫　   は     魚      を      食べる。
+   neko wa    sakana o      taberu
+   Cats TOPIC fish   OBJECT eat
+   Cats eat fish.
+
+   The subject and objects of the verb are indicated by means of particles
+   (see the section below), and the grammatical functions of the
+   verb—primarily tense and voice—are indicated by means of conjugation.
+   When the subject and the dissertative topic coincide, the subject is
+   often omitted; if the verb is intransitive, the entire sentence may
+   consist of a single verb. Verbs have two tenses indicated by
+   conjugation — past and nonpast. The semantic difference between present
+   and future is not indicated by means of conjugation. Usually there is
+   no ambiguity because few verbs can operate in both uses. Voice and
+   aspect are also indicated by means of conjugation, and possibly
+   agglutinating auxiliary verbs. For example, the continuative aspect is
+   formed by means of the continuative conjugation known as the gerundive
+   or -te form, and the auxiliary verb iru; to illustrate, 見る (miru, to
+   see) → 見ている (mite-iru, is seeing).
+
+   Verbs can be semantically classified based on certain conjugations.
+
+   Stative verbs
+          indicate existential properties, such as to be (いる iru), can do
+          (出来る dekiru), need (要る iru), etc. These verbs generally don't
+          have a continuative conjugation with -iru because they are
+          semantically continuative already.
+
+   Continual verbs
+          conjugate with the auxiliary -iru to indicate the progressive
+          aspect. Examples: to eat (食べる taberu), to drink (飲む nomu), to
+          think (考える kangaeru). To illustrate the conjugation, 食べる
+          (taberu, to eat) → 食べている (tabete-iru, is eating).
+
+   Punctual verbs
+          conjugate with -iru to indicate a repeated action, or a
+          continuing state after some action. Example: 知る (shiru, to know)
+          → 知っている (shitte iru, am knowing); 打つ (utsu, to hit) → 打っている
+          (utte iru, is hitting (repeatedly)).
+
+   Non-volitional verb
+          indicate uncontrollable action or emotion. These verbs generally
+          have no volitional, imperative or potential conjugation.
+          Examples: 好む (konomu, to like, emotive), 見える (mieru, to be
+          visible, non-emotive).
+
+   Movement verbs
+          indicate motion. Examples: 歩く (aruku, to walk), 帰る (kaeru, to
+          return). In the continuative form (see below) they take the
+          particle ni to indicate a purpose.
+
+   There are other possible classes, and a large amount of overlap between
+   the classes.
+
+Conjugation
+
+   Lexically, nearly every verb in Japanese is a member of exactly one of
+   the following three regular conjugation groups.
+
+   Group 2a (上一段 kami ichidan, lit. upper 1-row group)
+          verbs with terminal stem form rhyming with -iru. Examples: 見る
+          (miru, to see), 着る (kiru, to wear).
+
+   Group 2b (下一段 shimo ichidan, lit. lower 1-row group)
+          verbs with terminal stem form rhyming with -eru. Examples: 食べる
+          (taberu, to eat), くれる (kureru, to give).
+
+   Group 1 (五段 godan, lit. 5-row group)
+          verbs with terminal form rhyming with -u. This description has a
+          slight ambiguity -- certain verbs like 帰る (kaeru, to return) are
+          group 1 instead of group 2. (See Miscellaneous section, below.)
+          In modern Japanese the ending -fu is impossible, though it was
+          common in classical Japanese; it is spelled with -u in modern
+          Japanese.
+
+   Historical note: classical Japanese had upper and lower 1- and 2-row
+   groups and a 4-row group (上／下一段 kami/shimo ichidan, 上／下二段 kami/shimo
+   nidan, and 四段 yodan), the nidan verbs becoming most of today's ichidan
+   verbs (there were only a handful of kami ichidan verbs and only one
+   single shimo ichidan verb in classical Japanese), and the yodan group,
+   due to the writing reform in 1946 to write Japanese as it is
+   pronounced, naturally became the modern godan verbs. Since verbs have
+   migrated across groups in the history of the language, conjugation of
+   classical verbs is not predictable from a knowledge of modern Japanese
+   alone.
+
+   Of the irregular classes, there are two:
+
+   sa-group
+          which has only one member, する (suru, to do). In Japanese
+          grammars these words are classified as サ変 (sa-hen), an
+          abbreviation of サ行変格活用 (sa-gyou henkaku katsuyō, sa-row
+          irregular conjugation).
+
+   ka-group
+          which also has one member, 来る (kuru, to come). The Japanese name
+          for this class is カ行変格活用 (ka-gyou henkaku katsuyō) or simply カ変
+          (ka-hen).
+
+   Classical Japanese had two further irregular classes, the na-group,
+   which contained 死ぬ (shinu, to die) and 往ぬ (inu, to go, to die), the
+   ra-group, which included such verbs as あり (ari, the equivalent of
+   modern aru), as well as quite a number of extremely irregular verbs
+   that cannot be classified.
+
+   The following table illustrates the stem forms of the above conjugation
+   groups, with the root indicated with dots. For example, to find the
+   hypothetical form of the group 1 verb 書く (kaku), look in the second row
+   to find its root, ka, then in the hypothetical row to get the ending
+   ke, giving the stem form kake. When there are multiple possibilities,
+   they are listed in the order of increasing rarity.
+   group/
+   example 1 2a 2b sa ka
+   使・ (tsuka.) 書・ (ka.) 見・ (mi.) 食べ・ (tabe.)
+   Imperfective form
+   (未然形 mizenkei) 使わ (.wa)¹
+   使お (.o)¹ 書か (.ka)
+   書こ (.ko) 見 (.) 食べ (.) さ (sa)
+   し (shi)
+   せ (se) 来 (ko)
+   Continuative form
+   (連用形 ren'youkei) 使い (.i) 書き (.ki) 見 (.) 食べ (.) し (shi) 来 (ki)
+   Terminal form
+   (終止形 shūshikei) 使う (.u) 書く (.ku) 見る (.ru) 食べる (.ru) する (suru) 来る (kuru)
+   Attributive form
+   (連体形 rentaikei) same as terminal form
+   Hypothetical form
+   (仮定形 kateikei) 使え (.e) 書け (.ke) 見れ (.re) 食べれ (.re) すれ (sure) 来れ (kure)
+   Imperative form
+   (命令形 meireikei) 使え (.e) 書け (.ke) 見ろ (.ro)
+   見よ (.yo) 食べろ (.ro)
+   食べよ (.yo) しろ (shiro)
+   せよ (seyo)
+   せい (sei) 来い (koi)
+    1. the unexpected ending is due to the verb classically conjugating as
+       -ha, phonemic drift moving -ha to -wa, and finally modern spelling
+       reform reuniting pronunciation with spelling.
+
+   The above are only the stem forms of the verbs; to these one must add
+   various verb endings in order to get the fully conjugated verb. The
+   following table lists the most common conjugations. See Japanese verb
+   conjugations for a full list. In cases where the form is different
+   based on the conjugation group of the verb, arrows point to the correct
+   formation rule.
+     formation rule group 1
+   書く (kaku) group 2a
+   見る (miru) group 2b
+   食べる (taberu) sa-group
+   する (suru) ka-group
+   来る (kuru)
+   plain
+   polite
+   nonpast cont. + ます (masu) 書き・ます
+   kaki.masu 見・ます
+   mi.masu 食べ・ます
+   tabe.masu し・ます
+   shi.masu 来・ます
+   ki.masu
+   informal
+   past cont. + た (ta) 書い・た
+   kai.ta* 見・た
+   mi.ta 食べ・た
+   tabe.ta し・た
+   shi.ta 来・た
+   ki.ta
+   informal
+   negative
+   nonpast imperf. + ない (nai) 書か・ない
+   kaka.nai 見・ない
+   mi.nai 食べ・ない
+   tabe.nai し・ない
+   shi.nai 来・ない
+   ko.nai
+   informal
+   negative
+   past imperf.
+   + なかった (nakatta) 書か・なかった
+   kaka.nakatta 見・なかった
+   mi.nakatta 食べ・なかった
+   tabe.nakatta し・なかった
+   shi.nakatta 来・なかった
+   ko.nakatta
+   -te form (gerundive) cont. + て (-te) 書いて
+   kai.te* 見て
+   mi.te 食べて
+   tabe.te して
+   shi.te 来て
+   ki.te
+   conditional^1 hyp. + ば (ba) 書け・ば
+   kake.ba 見れ・ば
+   mire.ba 食べれ・ば
+   tabere.ba すれ・ば
+   sure.ba 来れ・ば
+   kure.ba
+   provisional^1 cont. + たら (tara) 書いたら
+   kai.tara* 見たら
+   mi.tara 食べたら
+   tabe.tara したら
+   si.tara 来たら
+   ki.tara
+   volitional imperf. + う(u) 書こ・う
+   kak.ō* ↓
+   imperf. + よう (-yō) ↑ 見・よう
+   mi.yō 食べ・よう
+   tabe.yō し・よう
+   shi.yō 来・よう
+   ko.yō
+   passive imperf. + れる (reru) 書か・れる
+   kaka.reru ↓ さ・れる
+   sa.reru ↓
+   imperf. + られる (-rareru) ↑ 見・られる
+   mi.rareru 食べ・られる
+   tabe.rareru ↑ 来・られる
+   ko.rareru
+   causative imperf. + せる (seru) 書か・せる
+   kaka.seru ↓ さ・せる
+   sa.seru ↓
+   imperf. + させる (-saseru) ↑ 見・させる
+   mi.saseru 食べ・させる
+   tabe.saseru ↑ 来・させる
+   ko.saseru
+   potential hyp. + る (ru) 書け・る
+   kake.ru ↓ 出来る
+   dekiru² ↓
+   imperf. + られる (-rareru) ↑ 見・られる
+   mi.rareru 食べ・られる
+   tabe.rareru ↑ 来・られる
+   ko.rareru
+    1. See the note on hypothetical forms below.
+    2. Note that this is an entirely different verb; する (suru) has no
+       potential form.
+
+   The polite ending -masu conjugates as a group 1 verb. The passive and
+   potential endings -reru and -rareru, and the causative endings -seru
+   and -saseru all conjugate as group 2b verbs. Multiple verbal endings
+   can therefore agglutinate. For example, a common formation is the
+   causative-passive ending, -sase-rareru.
+
+          僕は姉に納豆を食べさせられた。
+          boku wa ane ni nattō o tabesaserareta.
+          I was made to eat natto by my (elder) sister.
+
+   As should be expected, the vast majority of lexically legal
+   combinations of conjugative endings are not semantically meaningful.
+
+Adjectives
+
+   Japanese has two main classes of adjectives.
+
+   i-type adjectives (形容詞 keiyōshi)
+          these are very similar to verbs, having roots and conjugating
+          stem forms, and are often classified as stative verbs.
+
+   na-type adjective (形容動詞 keiyōdōshi, lit. "adjectival verb")
+          most of these are nouns that are affixed with -na or -no (or in
+          rare cases without an affix) to form the adjective.
+
+   Unlike adjectives in languages like English, adjectives in Japanese
+   inflect for aspect and mood, like verbs. Japanese adjectives do not
+   have comparative or superlative inflections, which have to be marked
+   periphrastically using adverbs like もっと (motto, more) and 一番 (ichiban,
+   most). Nearly every Japanese adjective can be used in a predicative
+   position; this differs from English where there are many common
+   adjectives such as "major", as in "a major question", that cannot be
+   used to in the predicate position (that is, *"The question is major" is
+   not grammatical English). The handful of Japanese adjectives that
+   cannot predicate—大きな (ookina, big), 小さな (chīsana, small), おかしな
+   (okashina, strange) —are all stylistic na-type variants of normal
+   i-type adjectives. Every adjective in Japanese can be used in an
+   attributive position.
+
+   All i-type adjectives except for いい (ii, good) have regular
+   conjugations, and ii is irregular only in the fact that it is a changed
+   form of the regular adjective 良い (yoi). All na-type adjectives
+   conjugate regularly.
+
+   CAPTION: stem forms for adjectives
+
+                         i-type adjectives      na-type adjectives
+                     安・い (yasu.)    い・い (i.)      静か- (shizuka-)
+   Imperfective form
+   (未然形 mizenkei)    安かろ (.karo) 良かろ (yo.karo)* 静かだろ (-daro)
+   Continuative form
+   (連用形 ren'youkei)  安く (.ku)    良く (yo.ku)*    静かで (-de)
+    Terminal form¹
+   (終止形 shūshikei)   安い (.i)     いい (.i)        静かだ (-da)
+   Attributive form¹
+   (連体形 rentaikei)   安い (.i)     いい (.i)        静かな (-na)
+   Hypothetical form
+   (仮定形 kateikei)    安けれ (.kere) 良けれ (yo.kere)* 静かなら (-nara)
+   Imperative form²
+   (命令形 meireikei)   安かれ (.kare) 良かれ (yo.kare)  静かなれ (-nare)
+    1. The attributive and terminal forms were formerly 安き (.ki) and 安し
+       (.shi), respectively; in modern Japanese these are used
+       productively for stylistic reasons only, although many set phrases
+       such as 名無し (nanashi, anonymous) and よし (yoshi, sometimes written
+       yosh', general positive interjection) derive from them.
+    2. The imperative form is extremely rare in modern Japanese,
+       restricted to set patterns like 遅かれ早かれ (osokare hayakare, sooner or
+       later), where they are treated as adverbial phrases! It is
+       impossible for an imperative form to be in a predicate position.
+
+   Like verbs, we can enumerate some common conjugations of adjectives.
+   Also, ii isn't special-cased, because all conjugations are identical to
+   yoi.
+     i-type adjectives
+   安い (yasui) na-type adjectives
+   静か (shizuka)
+   plain
+   polite
+   nonpast term. + copula です (desu) 安いです
+   yasui desu root + copula です (desu) 静かです
+   shizuka desu
+   informal
+   past cont. + あった (atta)
+   (u + a collapse) 安かった
+   yasuk.atta cont. + あった (atta)
+   (e + a collapse) 静かだった
+   shizuka d.atta
+   informal
+   negative
+   nonpast cont. + (は)ない ((wa) nai)¹ 安く(は)ない
+   yasuku(wa)nai cont. + (は)ない ((wa) nai) 静かで(は)ない
+   shizuka de (wa) nai
+   informal
+   negative
+   past cont. + (は)なかった ((wa) nakatta)¹ 安く(は)なかった
+   yasuku(wa)nakatta cont. + (は)なかった ((wa) nakatta) 静かで(は)なかった
+   shizuka de (wa) nakatta
+   polite
+   negative
+   non past inf. neg. non-past + ありません(arimasen)¹ 安くありません
+   yasuku arimasen inf. cont + (は)ありません ((wa) arimasen) 静かではありません
+   shizuka de wa arimasen
+   inf. neg. non-past + naiない + copula です (desu)¹ 安くないです
+   yasukunai desu inf. cont + (は)ないです ((wa) nai desu) 静かではないです
+   shizuka de wa nai desu
+   polite
+   negative
+   past inf. neg. past + ありませんでした (arimasen　deshita) 安くありませんでした
+   yasuku arimasen deshita inf. cont + (は)ありませんでした ((wa) arimasen deshita)
+   静かではありませんでした
+   shizuka de wa arimasen deshita
+   inf. neg. past + copula です (desu)¹ 安くなかったです
+   yasukunakatta desu inf. neg. past + なかったです (nakatta desu) ¹ 静かではなかったです
+   shizuka de wa nakatta desu
+   -te form cont. + て (te) 安くて
+   yasuku.te cont. 静かで
+   shizuka de
+   conditional² hyp. + ば (ba) 安ければ
+   yasukere.ba hyp. (+ ば (ba)) 静かなら(ば)
+   shizuka nara(ba)
+   provisional² inf. past + ら (ra) 安かったら
+   yasukatta.ra inf. past + ら (ra) 静かだったら
+   shizuka datta.ra
+   volitional³ imperf. + う (u) 安かろう (yasukarō) imperf. + う (u)
+   = root + だろう (darō) 静かだろう (shizuka darō)
+   adverbial cont. 安く
+   yasuku. root + に (ni) 静かに
+   shizuka ni
+   degree (-ness) root + さ (sa) 安さ
+   yasu-sa root + sa 静かさ
+   shizuka-sa
+    1. note that these are just forms of the i-type adjective ない (nai)
+    2. see the note on hypothetical forms below.
+    3. since most adjectives describe non-volitional conditions, the
+       volitional form is interpreted as "it is possible", if sensible. In
+       some rare cases it is semi-volitional: 良かろう (yokarō, OK (lit: let
+       it be good)) in response to a report or request.
+
+   Adjectives too are governed by euphonic rules in certain cases, as
+   noted in the section on it below. For the polite negatives of na-type
+   adjectives, see also the section below on the copula だ (da).
+
+The copula (だ da)
+
+   The copula da behaves very much like a verb or an adjective in terms of
+   conjugation.
+
+   CAPTION: stem forms of the copula
+
+   Imperfective form
+   (未然形 mizenkei)   では (de wa)
+   Continuative form
+   (連用形 ren'youkei) で (de)
+     Terminal form
+   (終止形 shūshikei)  だ (da, informal)
+                    です (desu, polite)
+                    でございます (de gozaimasu, respectful)
+   Attributive form
+   (連体形 rentaikei)  である (de aru)
+   Hypothetical form
+   (仮定形 kateikei)   なら (nara)
+    Imperative form
+   (命令形 meireikei)  impossible
+
+   Note that there are no potential, causative, or passive forms of the
+   copula, just as with adjectives. The following are some examples.
+
+          ジョンは学生だ。
+          JON wa gakusei da
+          John is a student.
+          明日も晴れなら、ピクニックしよう。
+          ashita mo hare nara, PIKUNIKKU shiyō
+          If tomorrow is clear too, let's have a picnic.
+
+   In continuative conjugations, では (de wa) is often contracted in speech
+   to じゃ (ja); for some kinds of informal speech ja is preferable to de
+   wa, or is the only possibility.
+
+   CAPTION: conjugations of the copula
+
+      nonpast    informal  だ (da)
+                  polite   です (desu)
+                respectful でございます (de gozaimasu)
+       past      informal  cont. + あった (atta)
+                           だった (datta)
+                  polite   でした (deshita)
+                respectful でございました (de gozaimashita)
+     negative
+   nonpast       informal  cont. + はない (wa nai)
+                  polite   cont. + はありません (wa arimasen)
+                  polite   cont. + はございません (wa gozaimasen)
+     negative
+   past          informal  cont. + はなかった (wa nakatta)
+                  polite   cont. + はありませんでした (wa arimasen deshita)
+                  polite   cont. + はございませんでした (wa gozaimasen deshita)
+    conditional  informal  hyp. + ば (ba)
+                  polite   cont. + あれば (areba)
+                respectful
+    provisional  informal  なら (nara)
+                  polite   same as conditional
+                respectful
+    volitional   informal  だろう (darō)
+                  polite   でしょう (deshō)
+                respectful でございましょう (de gozaimashō)
+   adverbial and
+   -te forms     informal  cont.
+                  polite   cont. + ありまして (arimashite)
+                respectful cont. + ございまして (gozaimashite)
+
+Euphonic changes (音便 onbin)
+
+   CAPTION: spelling changes
+
+                  archaic                             modern
+   あ＋う (a + u)
+   あ＋ふ (a + fu)                           おう (ō)
+   い＋う (i + u)
+   い＋ふ (i + fu)                           ゆう (yū)(*)
+   う＋ふ (u + fu)                           うう (ū)
+   え＋う (e + u)
+   え＋ふ (e + fu)                           よう (yō)
+   お＋ふ (o + fu)
+   お＋ほ (o + ho)
+   お＋を (o + wo)                           おう (ō)
+   auxiliary verb む (mu)                  ん (n)
+   medial or final は (ha)                 わ (wa)
+   medial or final ひ (hi), へ (he), ほ (ho) い (i), え (e), お (o)
+                                          (via wi, we, wo, see below)
+   any ゐ (wi), ゑ (we), を (wo)             い (i), え (e), お (o)
+
+   (*) usu. not reflected in spelling
+
+   Modern pronunciation is a result of a long history of phonemic drift
+   that can be traced back to written records of the thirteenth century,
+   and possibly earlier. However, it was only in 1946 that the Japanese
+   ministry of education modified existing kana usage to conform to the
+   standard dialect (共通語 kyōtsūgo). All earlier texts used the archaic
+   orthography, now referred to as historical kana usage. The adjoining
+   table is a nearly exhaustive list of these spelling changes. Unlike the
+   tradition found in English-speaking countries, where people learn that
+   Middle English (e.g., Chaucer) was pronounced differently from the
+   modern language, it is not generally understood that the historical
+   kana spellings were, at one point, reflective of pronunciation. For
+   example, えふ (lit. efu) for "leaf" (葉, modern ha) was pronounced
+   something like [epu] by the Japanese at the time it was borrowed.
+   However, a modern reader of a classical text would still read this as
+   [yoo], the modern pronunciation.
+
+   As mentioned above, conjugations of some verbs and adjectives differ
+   from the prescribed formation rules because of euphonic changes. Nearly
+   all of these euphonic changes are themselves regular. For verbs the
+   exceptions are all in the ending of the continuative form of group when
+   the following auxiliary has a ta-sound, i.e., た (ta), て (te), たり
+   (tari), etc.
+   continuative ending changes to example
+   ひ hi, ち chi or り ri っ (double consonant) *買ひて *kahite → 買って katte
+   *打ちて *uchite → 打って utte
+   *知りて *shirite → 知って shitte
+   び bi, みmi or に ni ん (syllabic n), with the following タ t sound voiced
+   *遊びて *asobite → 遊んで asonde
+   *住みて *sumite → 住んで sunde
+   *死にて *shinite → 死んで shinde
+   き ki い i *書きて *kakite → 書いて kaite
+   ぎ gi い i, with the following タ t sound voiced *泳ぎて *oyogite → 泳いで
+   oyoide
+
+   There is one other irregular change: 行く iku (to go), for which there is
+   an exceptional continuative form: 行き iki + て te → 行って itte, 行き iki + た
+   ta → 行った itta, etc.
+
+   The continuative form of proper adjectives, when followed by polite
+   forms such as ございます (gozaimasu, to be) or 存じます (zonjimasu, to know),
+   undergo a transformation.
+   continuative ending description examples
+   [not し] + く う, possibly also combining with the previous syllable
+   according to the spelling reform chart *寒くございます *samuku gozaimasu →
+   寒うございます samū gozaimasu
+   *おはやくございます ohayaku gozaimasu → おはようございます ohayō gozaimasu
+   しく しゅう *涼しくございます *suzushiku gozaimasu → 涼しゅうございます suzushū gozaimasu
+
+   Respectful verbs such as くださる (kudasaru, to get), なさる (nasaru, to do),
+   ござる (gozaru, to be), いらっしゃる (irassharu, to be/come/go), おっしゃる (ossharu,
+   to say), etc. behave like group 1 verbs, except in the continuative and
+   imperative forms.
+   change examples
+   continuative ーり changed to ーい *ござります *gozarimasu → ございます gozaimasu
+   *いらっしゃりませ *irassharimase → いらっしゃいませ irasshaimase
+   imperative ーれ changed to ーい *くだされ *kudasare → ください kudasai
+   *なされ *nasare → なさい nasai
+
+   In speech, common combinations of conjugation and auxiliary verbs are
+   contracted in a fairly regular manner.
+
+   CAPTION: Colloquial contractions
+
+   full form colloquial example
+   -てしまう
+   -te shimau -ちゃう/-ちまう
+   -chau/-chimau
+   group 1 負けてしまう (makete shimau, lose) → 負けちゃう/負けちまう
+   (makechau/makechimau)
+   -でしまう
+   -de shimau -じゃう/-じまう
+   -jau/-jimau
+   group 1 死んでしまう (shinde shimau, die) → 死んじゃう (shinjau) or
+   死んじまう　(shinjimau)
+   -ては
+   -te wa -ちゃ
+   -cha 食べてはいけない (tabete wa ikenai, must not eat) → 食べちゃいけない (tabecha
+   ikenai)
+   -ている
+   -te iru -てる
+   -teru
+   group 2b 寝ている (nete iru, is sleeping) → 寝てる (neteru)
+   -ておく
+   -te oku -とく
+   -toku
+   group 1 しておく (shite oku, will do it so) → しとく (shitoku)
+   -て行く
+   -te iku -てく
+   -teku
+   group 1 出て行け (dete ike, get out!) → 出てけ (deteke)
+   -るの
+   -ru no -んの
+   -nno 何しているの (nani shite iru no, what are you doing?) → 何してんの (nani
+   shitenno)
+   -りなさい
+   -rinasai -んなさい
+   -nnasai やりなさい (yarinasai, do it!) → やんなさい (yannasai)
+   -るな
+   -runa -んな
+   -nna やるな (yaruna, don't do it!) → やんな (yanna)
+
+Other independent words
+
+Adverbs
+
+   Adverbs in Japanese are not as tightly integrated into the morphology
+   as in many other languages. Indeed, adverbs are not an independent
+   class of words, but rather a role played by other words. For example,
+   every adjective in the continuative form can be used as an adverb;
+   thus, 弱い (yowai, weak, adj) → 弱く (yowaku, weakly, adv). The primary
+   distinguishing characteristic of adverbs is that they cannot occur in a
+   predicate position, just as it is in English. The following
+   classification of adverbs is not intended to be authoritative or
+   exhaustive.
+
+   Verbal adverbs
+          are verbs in the continuative form with the particle ni. Eg. 見る
+          (miru, to see) → 見に (mi ni, for the purpose of seeing), used for
+          instance as: 見に行く (mi ni iku, go to see (sth.)).
+
+   Adjectival adverbs
+          are adjectives in the continuative form, as mentioned above.
+
+   Nominal adverbs
+          are grammatical nouns that function as adverbs. Examples: あまり
+          (amari, a little/not a lot), どう (dō, how), 一番 (ichiban, most
+          highly), etc.
+
+   Sound Symbolism
+          are words that mimic sounds or concepts. Examples: きらきら
+          (kirakira, sparklingly), ぽっくり (pokkuri, suddenly), するする
+          (surusuru, smoothly (sliding)), etc.
+
+   Often, especially for sound symbolism, the particle to ("as if") is
+   used. See the article on Japanese sound symbolism.
+
+Conjunctions and interjections
+
+   These parts of speech are much as in English.
+
+   Examples of conjunctions: そうして (sōshite, and then), また (mata, and
+   then/again), etc.
+
+   Examples of interjections: はい (hai, yes/OK/uh), へえ (hē, wow!), いいえ (īe,
+   no/no way), おい (oi, hey!), etc.
+
+Ancillary words
+
+Particles
+
+   Particles in Japanese are postpositional—they immediately follow the
+   modified component. A full listing of particles is beyond the scope of
+   this article, so only a few prominent particles are listed here. Keep
+   in mind that the pronunciation and spelling differ for the particles wa
+   (は), e (へ) and o (を): This article follows the Hepburn-style of
+   romanizing them according to the pronunciation rather than spelling.
+
+Topic, theme, and subject: は (wa) and が (ga)
+
+   The complex distinction between the so-called topic (は wa) and subject
+   (が ga) particles has been the theme of many doctoral dissertations and
+   scholarly disputes. Two major scholarly surveys of Japanese linguistics
+   in English, (Shibatani 1990) and (Kuno 1973), clarify the distinction.
+   To simplify matters, the referrents of wa and ga in this section are
+   called the topic and subject respectively, with the understanding that
+   if either is absent, the grammatical topic and subject may coincide.
+
+   As an abstract and rough approximation, the difference between wa and
+   ga is a matter of focus: wa gives focus to the action of the sentence,
+   i.e., to the verb or adjective, whereas ga gives focus to the subject
+   of the action. However, a more useful description must proceed by
+   ennumerating uses of these particles.
+
+   See Topic marker#Japanese: は.
+
+Thematic wa
+
+   The use of wa to introduce a new theme of discourse is directly linked
+   to the notion of grammatical theme. Opinions differ on the structure of
+   discourse theme, though it seems fairly uncontroversial to imagine a
+   first-in-first-out hierarchy of themes that is threaded through the
+   discourse. Of course, human limitations restrict the scope and depth of
+   themes, and later themes may cause earlier themes to expire. In these
+   sorts of sentences, the steadfast translation into English uses
+   constructs like "speaking of X" or "on the topic of X", though such
+   translations tend to be bulky as they fail to use the thematic
+   mechanisms of English. For lack of a best strategy, many teachers of
+   Japanese emphasize the "speaking of X" pattern without sufficient
+   warning.
+
+          ジョンは学生である。
+          JON wa gakusei de aru
+          (On the topic of John), John is a student.
+
+   A common linguistic joke shows the insufficiency of rote translation
+   with the sentence 僕は鰻だ (boku wa unagi da), which per the pattern would
+   translate as "(Speaking of me), I am an eel." Yet, in a restaurant this
+   sentence can reasonably be used to say "I'd like an order of eel", with
+   no intended humor. This is because the sentence should be literally
+   read, "As for me, it is an eel," with "it" referring to the speaker's
+   order. The topic of the sentence is clearly not its subject. (As a side
+   note, the separation of grammatical topic and subject is sometimes
+   transported by native Japanese speakers to other languages; for
+   example, a Japanese with a shaky grasp of English might say "I am an
+   eel" in a restaurant in an attempt to order eel.)
+
+Contrastive wa
+
+   Related to the role of wa in introducing themes is its use in
+   contrasting the current topic and its aspects from other possible
+   topics and their aspects. The suggestive pattern is "X, but ..." or "as
+   for X, ...".
+
+          雨は降っていますが・・・
+          ame wa futte imasu ga...
+          It is raining, but...
+
+   Because of its contrastive nature, the topic cannot be undefined.
+
+          *誰かは本を読んでいる。
+          *dareka wa hon o yonde iru
+          *Someone is reading the book.
+
+   In this situation ga is forced.
+
+   In practice, the distinction between thematic and contrastive wa is not
+   that useful. Suffice it to say that there can be at most one thematic
+   wa in a sentence, and it has to be the first wa if one exists, and the
+   remaining was are contrastive. For completeness, the following sentence
+   (due to Kuno) illustrates the difference.
+
+          僕が知っている人は誰も来なかった。
+          boku ga shitte iru hito wa daremo konakatta
+          (1) Of all the people I know, none came.
+          (2) (People came but), there wasn't any of the people I know.
+
+   The first interpretation is the thematic wa, treating "the people I
+   know" (boku ga shitte iru hito) as the theme of the predicate "none
+   came" (dare mo konakatta). That is, if I know A, B, ..., Z, then none
+   of the people who came were A, B, ..., Z. The second interpretation is
+   the contrastive wa. If the likely attendees were A, B, ..., Z, and of
+   them I know P, Q and R, then the sentence says that P, Q and R did not
+   come. The sentence says nothing about A', B', ..., Z', all of whom I
+   know, but none of whom were likely to come. The sentence is ambiguous
+   up to this difference. (In practice the first interpretation is the
+   likely one.)
+
+Exhaustive ga
+
+   Unlike wa, the subject particle ga nominates its referent as the sole
+   satisfier of the predicate. This distinction is famously illustrated by
+   the following pair of sentences.
+
+          ジョンは学生です。
+          JON wa gakusei desu
+          John is a student. (There may be other students among the people
+          we're talking about.)
+          ジョンが学生です。
+          JON ga gakusei desu
+          (Of all the people we are talking about), it is John who is the
+          student.
+
+   It may be useful to think of the distinction in terms of the question
+   each statement could answer, e.g.:
+
+          ジョンの仕事は何ですか。
+          JON no shigoto wa nan desu ka
+          What is John's occupation?
+
+   for the first statement, versus
+
+          どちらの方が学生ですか。
+          Dochira no kata ga gakusei desu ka
+          Which one (of them) is the student?
+
+   for the second.
+
+   Similarly, in a restaurant, if the waitress asks who has ordered the
+   eel, the customer who ordered it can specify himself with
+
+          僕がうなぎだ
+          boku ga unagi da
+          The eel is for me (not these other people).
+
+Objective ga
+
+   For stative transitive verbs, ga instead of o is typically used to mark
+   the object, although it is sometimes acceptable to use o.
+
+          ジョンはフランス語が出来る。
+          JON wa FURANSU-go ga dekiru
+          John knows French
+
+Objects, locatives, instrumentals: を (o), に (ni), で (de), へ (e)
+
+   The direct object of non-stative transitive verbs is indicated by the
+   object particle を (o).
+
+          ジョンは青いセーターを着ている。
+          JON wa aoi SE-TA- o kite iru
+          John is wearing a blue sweater.
+
+   This particle can also mean "through" or "along" or "out of" when used
+   with motion verbs.
+
+          メアリが細い道を歩いていた。
+          MEARI ga hosoi michi o aruite ita
+          Mary was walking along a narrow road.
+          国境の長いトンネルを抜けると雪国であった
+          kokkyō no nagai TONNERU o nukeru to yukiguni de atta
+          The train came out of the long tunnel into the snow country
+
+   The general instrumental particle is で (de), which can be translated as
+   "using" or "by":
+
+          肉はナイフで切ること。
+          niku wa NAIFU de kiru koto
+          Meat must be cut with a knife.
+          電車で行きましょう.
+          densha de ikimashō
+          Let's go by train
+
+   This particle also has other uses: "at" (temporary location):
+
+          町角で先生に会った。
+          machikado de sensei ni atta
+          (I) met my teacher at the street corner.
+
+   "In":
+
+          海で泳ぐのは難しい。
+          umi de oyogu no wa muzukashii
+          Swimming in the sea is hard.
+
+   "With" or "in (the span of)":
+
+          劇は主人公の死で終る。
+          geki wa shujinkō no shi de owaru
+          The play ends with the protagonist's death.
+          俺は二秒で勝つ。
+          ore wa nibyō de katsu
+          I'll win in two seconds.
+
+   The general locative particle is に (ni).
+
+          東京に行きましょう。
+          tōkyō ni ikimashō
+          Let's go to Tokyo
+
+   In this function it is interchangeable with へ (e). However, ni has
+   additional uses: "at (prolonged)":
+
+          私はグロスター通り99番に住んでいます。
+          watashi wa GUROSUTA- tōri 99 ban ni sunde imasu
+          I live at 99 Gloucester road
+
+   "On":
+
+          氷は水に浮く。
+          kōri wa mizu ni uku
+          Ice floats on water.
+
+   "In (some year)", "at (some point in time)":
+
+          春の夕暮れに。。。
+          haru no yūgure ni...
+          On a spring eve...
+
+Quantity and extents: と (to), も (mo), か (ka), や (ya), から (kara), まで (made)
+
+   To conjoin nouns, と (to) is used.
+
+          かばんには、教科書三冊と漫画本五冊を入れています。
+          Kaban ni wa kyōkasho san-satsu to mangahon go-satsu wo irete
+          imasu
+          I have three textbooks and five comic books in the bag.
+
+   The additive particle も (mo) can be used to conjoin larger nominals and
+   clauses.
+
+          ヨーハンはドイツ人だ。ブリゲータもドイツ人だ。
+          YO-HAN wa DOITSU-jin da. BURIGE-TA mo DOITSU-jin da
+          Johan is a German. Brigette is a German too.
+
+          彼は映画スターであり、政治家でもある。
+          kare wa eiga SUTA- de ari, seijika de mo aru
+          He is a movie star and also a politician.
+
+   For an incomplete list of conjuncts, や (ya) is used.
+
+          ボリスやアイバンを呼べ。
+          BORISU ya AIBAN wo yobe
+          Call Boris, Ivan, etc.
+
+   When only one of the conjuncts is necessary, the disjunctive particle か
+   (ka) is used.
+
+          スシかサシミか、何かを注文してね。
+          SUSHI ka SASHIMI ka, nanika wo chūmon shite ne
+          Order sushi or sashimi or something.
+
+   Quantities are listed between から (kara, from) and まで (made, to).
+
+          92度から96度までの熱は心配するものではない。
+          92 do kara 96 do made no netsu wa shinpai suru mono de wa nai
+          A temperature between 92 F and 96 F is not worrisome.
+
+   This pair can also be used to indicate time or space.
+
+          朝8時から11時まで授業があるんだ。
+          asa hachi-ji kara jūichi-ji made jugyō ga aru n da
+          You see, I have classes between 8 a.m. and 11 a.m.
+
+   Because kara indicates starting point or origin, it has a related use
+   as "because":
+
+          スミスさんは強引な人ですから、いつも頼まれているかもしれない。
+          SUMISU-san wa gōin na hito desu kara, itsumo tanomarete iru
+          kamoshirenai
+          Mr. Smith, I think it's because you're so assertive that you're
+          always asked to do everything.
+
+   The particle kara and a related particle yori are used to indicate
+   lowest extents: prices, business hours, etc.
+
+          我々は7時より営業して居ります。
+          wareware wa shichi-ji yori eigyō shite orimasu
+          We are open for business from 7 onwards.
+
+   Yori is also used in the sense of "than".
+
+          お前は姉ちゃんよりうるさいんだ!
+          omae wa nē-chan yori urusai n da
+          You are louder/more talkative than my sister!
+
+Coordinating: と (to), に (ni), よ (yo)
+
+   The particle と (to) is used to set off quotations.
+
+          「殺して。。。殺して」とあの子は言ってたの。
+          "koroshite... koroshite" to ano ko wa itte'ta no
+          The girl was saying, "Kill... kill."
+          猫はニャー、ニャーと鳴く。
+          neko wa NYA- NYA- to naku
+          The cat says: meaow, meaow.
+
+   It is also used to indicate a manner of similarity, "as if" or "like".
+
+          彼は「愛してるよ」と言って、ぽっくりと死んだ。
+          kare wa "aishite'ru yo" to itte, pokkuri to shinda
+          He said "I love you," and dropped dead.
+
+   In a related conditional use, it functions like "after", or "upon".
+
+          雨が上がると、子ども達はもう学習を忘れて、太陽に表を向ける水溜りの誘惑を従う。
+          ame ga agaru to, kodomo-tachi wa mou gakushū o wasurete, taiyō
+          ni omote wo mukeru mizu-tamari no yūwaku o shitagau
+          Rain stops and then: children, forgetting their lessons, give in
+          to the temptation of sun-faced puddles.
+
+   Finally it is used with verbs like to meet (with) (会う au) or to speak
+   (with) (話す hanasu).
+
+          ジョンはメアリと初めて会ったのは、1942年の春の夕暮れだった。
+          JON ga MEARI to hajimete atta no wa, 1942 nen no haru no yūgure
+          datta
+          John met Mary for the first time on a dusky spring afternoon in
+          1942.
+
+   This last use is also a function of the particle に (ni), but to
+   indicates reciprocation which ni does not.
+
+          ジョンがメアリと恋愛している。
+          JON ga MEARI to ren'ai shite iru
+          John and Mary are in love.
+          ジョンがメアリに恋愛している。
+          JON ga MEARI ni ren'ai shite iru
+          John loves Mary (but Mary might not love John back).
+
+   Finally, the particle よ (yo) is used in a hortative or vocative sense.
+
+          可愛い娘よ、顔をしかめて私を見るな。
+          kawaii musume yo, kao o shikamete watashi wo miruna
+          O my beloved daughter, don't frown at me so!
+
+Final: か (ka), ね (ne), よ (yo) and related
+
+   The sentence-final particle か (ka) turns a declarative sentence into a
+   question.
+
+          そちらはアメリカ人でしょうか?
+          sochira wa amerika-jin deshō ka?
+          Are you perchance an American?
+
+   Other sentence-final particles add emotional or emphatic impact to the
+   sentence. The particle ね (ne) softens a declarative sentence, similar
+   to English "you know?", "eh?" or "I tell you!".
+
+          彼に電話しなかったのね。
+          kare ni denwa shinakatta no ne
+          You didn't call him up, did you?
+          近々ロンドンに引っ越されるそうですね。
+          chikajika rondon ni hikkosareru sou desu ne.
+          I hear you're moving to London soon. Is that true?
+
+   A final よ (yo) is used for emphasis or a stronger way to say "you
+   know".
+
+          嘘吐いてないよ！
+          uso tsuite nai yo!
+          I'm not lying!
+
+   There are many such emphatic particles; some examples: ぜ (ze) and ぞ
+   (zo) usually used by males; な (na) a less formal form of ne; わ (wa)
+   used by females (and males in the Kansai region) like yo, etc. They are
+   essentially limited to speech or transcribed dialogue.
+
+Compound particles
+
+   Compound particles are formed with at least one particle together with
+   other words including, other particles. The commonly seen forms are:
+     * particle + verb (term. or cont. or -te form)
+     * particle + noun + particle
+     * noun + particle
+
+   Other structures are rarer, though of course possible. A few examples:
+
+          その件に関して知っている限りのことを教えてもらいたい。
+          sono ken ni kan-shite shitte-iru kagiri no koto wo oshiete
+          moraitai
+          Kindly tell me everything you know concerning that case.
+          (particle + verb in cont.)
+          外国語を学習する上で大切なことは毎日の努力がものを言うということである。
+          gaikokugo wo gakushū suru ue de taisetsu na koto wa mainichi no
+          doryoku ga mono wo iu to iu koto de aru
+          In studying a foreign language, daily effort gives the most
+          rewards. (noun + particle)
+          兄は両親の心配をよそに、大学をやめてしまった。
+          ani wa ryōshin no shinpai wo yoso ni, daigaku wo yamete shimatta
+          Ignoring my parents' worries, my brother dropped out of college.
+          (particle + noun + particle)
+
+Auxiliary verbs
+
+   All auxiliary verbs attach to a verbal or adjectival stem form and
+   conjugate as verbs, but they differ from normal verbs in having no
+   independent meaning. In modern Japanese there are two distinct classes
+   of auxiliary verbs:
+
+   Pure auxiliaries (助動詞 jodōshi)
+          are usually just called verb endings or conjugated forms. These
+          auxiliaries cannot possibly function as an independent verb.
+
+   Helper auxiliaries (補助動詞 hojodōshi)
+          are normal verbs that lose their independent meaning when used
+          as auxiliaries.
+
+   In classical Japanese which was more purely agglutinating than modern
+   Japanese, the category of auxiliary verb included every possible verb
+   ending after the stem form, and most of these endings were themselves
+   active participants in composition. In modern Japanese, however, some
+   auxiliaries have stopped being productive. The most classic example is
+   the classical auxiliary たり (-tari) whose forms た (-ta), て (-te), etc.
+   are now no longer viewed as verbal endings, i.e., they can take no
+   further affixes.
+
+   CAPTION: some pure auxiliary verbs
+
+   auxiliary group attaches to meaning modification example
+   ます (masu) irregular^1 continuative makes V polite 書く (kaku, to write) →
+   書きます (kakimasu)
+   られる (rareru)² 2b cont. of grp. 2 makes V passive/polite/potential 見る
+   (miru, to see) → 見られる (mirareru, to be able to see)
+   増える (fueru, to increase) → 増えられる (fuerareru, to have the ability to
+   increase)
+   る (ru)³ hyp. of grp. 1 飲む (nomu, to drink/swallow) → 飲める (nomeru, to be
+   able to drink)
+   させる (saseru)^4 2b cont. of grp. 2 makes V causative 考える (kangaeru, to
+   think) → 考えさせる (kangaesaseru, to cause to think)
+   せる (seru) imperf. of grp. 1 思い知る (omoishiru, to realize) → 思い知らせる
+   (omoishiraseru, to cause to realize/to teach a lesson)
+
+          ^1 ます (masu) has stem forms: imperfective ませ and ましょ,
+          continuative まし, terminal ます, attributive ます, hypothetical ますれ,
+          imperative ませ.
+          ² られる (rareru) in potential usage is sometimes shortened to れる
+          (reru, grp. 2); thus 食べれる (tabereru, to be able to eat) instead
+          of 食べられる (taberareru). But it is considered non-standard.
+          ³ Technically, such an auxiliary verb る, ru, denoting the
+          potential form, does not exist, as for example 飲める (nomeru) is
+          thought to actually come from the contraction of 飲み得る (nomieru)
+          (see below). However, textbooks tend to teach it this way. (飲める
+          in old texts would have been the attributive past tense form of
+          飲む instead of the potential meaning.)
+          ^4 させる (saseru) is sometimes shortened to さす (sasu, grp. 1), but
+          this usage is somewhat literary.
+
+   Much of the agglutinative flavour of Japanese stems from helper
+   auxiliaries, however. The following table contains a small selection of
+   an abundant store of such auxiliary verbs.
+
+   CAPTION: some helper auxiliary verbs
+
+   auxiliary group attaches to meaning modification example
+   ある (aru, to be (inanimate)) 1 -te form
+   only for trans. indicates state modification 開く (aku, to open) → 開いてある
+   (aite-aru, opened and is still open)
+   いる (iru, to be (animate)) 2a -te form
+   for trans. progressive aspect 寝る (neru, to sleep) → 寝ている (nete-iru, is
+   sleeping)
+   2a -te form
+   for intrans. indicates state modification 閉まる (shimaru, (intransitive)
+   to close) → 閉まっている (shimatte-iru, is closed)
+   行く (iku, to go) 1 -te form "goes on V-ing" 歩く (aruku, to walk) → 歩いて行く
+   (aruite-iku, keep walking)
+   くる (kuru, to come) ka -te form inception, "start to V" 降る (furu, fall)
+   → 降ってくる (futte-kuru, start to fall)
+   perfection, "have V-ed" (only past-tense) 死ぬ (shinu, die) → 死んできた
+   (shinde-kita, have died)
+   conclusion, "come to V" 異なる (kotonaru, change) → 異なってくる
+   (kotonatte-kuru, come to change)
+   始める (hajimeru, to begin) 2b continuative
+   non-punctual "V begins", "begin to V" 書く (kaku, to write) → 書き始める
+   (kaki-hajimeru, start to write)
+   continuative
+   punctual & subj. must be plural 着く (tsuku, to arrive) → 着き始める
+   (tsuki-hajimeru, have all started to arrive)
+   出す (dasu, to emit) 1 continuative "start to V" 輝く (kagayaku, to shine)
+   → 輝き出す (kagayaki-dasu, to start shining)
+   みる (miru, to see) 1 -te form "try to V" する (suru, do) → してみる
+   (shite-miru, try to do)
+   なおす (naosu, to correct/heal) 1 continuative "do V again, correcting
+   mistakes" 書く (kaku, to write) → 書きなおす (kaki-naosu, rewrite)
+   あがる (agaru, to rise) 1 continuative "do V thoroughly" / "V happens
+   upwards" 立つ (tatsu, to stand) → 立ち上がる (tachi-agaru, stand up)
+
+   出来る (dekiru, to come out) → 出来上がる (deki-agaru, be completed)
+   得る (eru/uru, to be able) (see note at bottom) continuative indicates
+   potential ある (aru, to be) → あり得る (ariuru, is possible)
+   かかる (kakaru, to hang/catch/obtain) 1 continuative
+   only for intrans., non-volit. "about to V", "almost V" 溺れる (oboreru,
+   drown) → 溺れかかる (obore-kakaru, about to drown)
+   きる (kiru, to cut) 1 continuative "do V completely" 食べる (taberu, to eat)
+   → 食べきる (tabe-kiru, to eat it all)
+   消す (kesu, to erase) 1 continuative "cancel by V"
+   "deny with V" 揉む (momu, to rub) → 揉み消す (momi-kesu, to rub out, to
+   extinguish)
+   込む (komu, to enter deeply/plunge) 1 continuative "V deep in", "V into"
+   話す (hanasu, to speak) → 話し込む (hanashi-komu, to be deep in conversation)
+   下げる (sageru, to lower) 2b continuative "V down" 引く (hiku, to pull) →
+   引き下げる (hiki-sageru, to pull down)
+   過ぎる (sugiru, to exceed) 2a continuative "overdo V" 言う (iu, to say) →
+   言いすぎる (ii-sugiru, to say too much, to overstate)
+   付ける (tsukeru, to attach) 2b continuative "become accustomed to V" 行く
+   (iku, to go) → 行き付ける (iki-tsukeru, be used to (going))
+   続ける (tsuzukeru, to continue) 2b continuative "keep on V" 降る (furu, to
+   fall (eg. rain)) → 降り続ける (furi-tsuzukeru, to keep falling)
+   通す (tōsu, to show/thread/lead) 1 continuative "finish V-ing" 読む (yomu,
+   to read) → 読み通す (yomi-tōsu, to finish reading)
+   抜ける (nukeru, to shed/spill/desert) 2b continuative
+   only for intrans. "V through" 走る (hashiru, to run) → 走り抜ける
+   (hashiri-nukeru, to run through (swh))
+   残す (nokosu, to leave behind) 1 continuative by doing V, leave sth
+   behind 思う (omou, to think) → 思い残す (omoi-nokosu, to regret (lit: to have
+   sth left to think about))
+   残る (nokoru, to be left behind) 1 continuative
+   for intrans. only be left behind, doing V 生きる (ikiru, live) → 生き残る
+   (iki-nokoru, to survive (lit: to be left alive))
+   分ける (wakeru, to divide/split/classify) 2b continuative the proper way
+   to V. 使う (tsukau, use) → 使い分ける (tsukai-wakeru, to indicate the proper
+   way to use)
+   忘れる (wasureru, to forget) 2b continuative to forget to V 聞く (kiku, to
+   ask) → 聞き忘れる (kiki-wasureru, to forget to ask)
+     * Note: 得る eru/uru is the only modern verb of shimo nidan type (and
+       it is different from the shimo nidan type of classical Japanese),
+       with conjugations: imperfective え, continuative え, terminal える or
+       うる, attributive うる, hypothetical うれ, imperative えろ or えよ.
+       Additionally, by convention, the terminal form ありえる arieru is not
+       used; it is always ありうる ariuru.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Japanese_grammar"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

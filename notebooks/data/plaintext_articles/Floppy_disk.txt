@@ -1,0 +1,1359 @@
+   #copyright
+
+Floppy disk
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   Floppy Disk Drive
+   A 3.5 inch diskette, removed from its casing.
+   Date Invented: 1969
+   Invented By:   David Noble
+   Connects to:
+     * Motherboard via Proprietary Connector
+
+   Disk Types:
+     * High Density
+     * Double Density
+     * Old
+
+   A floppy disk is a data storage device that is composed of a disk of
+   thin, flexible ("floppy") magnetic storage medium encased in a square
+   or rectangular plastic shell. Floppy disks are read and written by a
+   floppy disk drive or FDD, the latter initialism not to be confused with
+   "fixed disk drive", which is an old IBM term for a hard disk drive.
+
+Background
+
+   Floppy disks, also known as floppies or diskettes (a name chosen in
+   order to be similar to the word "cassette"), were ubiquitous in the
+   1980s and 1990s, being used on home and personal computer ("PC")
+   platforms such as the Apple II, Macintosh, Commodore 64, Amiga, and IBM
+   PC to distribute software, transfer data between computers, and create
+   small backups. Before the popularization of the hard drive for PCs,
+   floppy disks were often used to store a computer's operating system
+   (OS), application software, and other data. Many home computers had
+   their primary OS kernels stored permanently in on-board ROM chips, but
+   stored the disk operating system on a floppy, whether it be a
+   proprietary system, CP/M, or, later, DOS.
+
+   By the early 1990s, the increasing size of software meant that many
+   programs were distributed on sets of floppies. Toward the end of the
+   1990s, software distribution gradually switched to CD-ROM, and
+   higher-density backup formats were introduced (e.g. the Iomega Zip
+   disk). With the arrival of mass Internet access, cheap Ethernet and USB
+   keys, the floppy was no longer necessary for data transfer either, and
+   the floppy disk was essentially superseded. Mass backups were now made
+   to high capacity tape drives such as DAT or streamers, or written to
+   CDs or DVDs. One financially unsuccessful attempt in the late 1990s to
+   continue the floppy was the SuperDisk (LS-120), with a capacity of 120
+   MB (actually 120.375 MiB), while the drive was backward compatible with
+   standard 3½-inch floppies.
+
+   Nonetheless, manufacturers were reluctant to remove the floppy drive
+   from their PCs, for backward compatibility, and because many companies'
+   IT departments appreciated a built-in file transfer mechanism that
+   always worked and required no device driver to operate properly. Apple
+   Computer was the first mass-market computer manufacturer to drop the
+   floppy drive from a computer model altogether with the release of their
+   iMac model in 1998, and Dell made the floppy drive optional in some
+   models starting in 2003. To date, however, these moves have still not
+   marked the end of the floppy disk as a mainstream means of data storage
+   and exchange.
+
+   External USB-based floppy disk drives are available for computers
+   without floppy drives, and they work on any machine that supports USB.
+
+   Floppy disk sizes are almost universally referred to in imperial
+   measurements, even in countries where metric is the standard, and even
+   when the size is in fact defined in metric (for instance the 3½-inch
+   floppy which is actually 9 cm). Formatted capacities are generally set
+   in terms of binary kilobytes (as 1 sector is generally 512 bytes).
+   However, recent sizes of floppy are often referred to in a strange
+   hybrid unit, i.e. a "1.44 megabyte" floppy is 1.44×1000×1024 bytes, not
+   1.44×1024×1024 bytes nor 1.44×1000×1000.
+
+   CAPTION: Historical sequence of floppy disk formats, including the last
+   format to be generally adopted — the "1.44 MB" 3½-inch HD floppy,
+   introduced 1987.
+
+   Floppy disk format Year introduced Formatted
+   Storage capacity
+   ( binary kilobytes if not stated) Marketed
+   capacity¹
+   8-inch - IBM 23FD (read-only) 1969 81.664 kilobytes ←
+   8-inch - Memorex 650 1972 175.000 kilobytes 1.5 megabits unformatted
+   8-inch - SSSD
+
+   IBM 33FD / Shugart 901
+   1973 256.256 kilobytes 3.1 megabits unformatted
+   8-inch - DSSD
+
+   IBM 43FD / Shugart 850
+   1976 512.512 kilobytes 6.2 megabits unformatted
+   5¼-inch (35 track) 1976 89.6 110 kB
+   8-inch DSDD
+
+   IBM 53FD / Shugart 850
+   1977 1200 1.2 MB
+   5¼-inch DD 1978 360 360 kB
+   3½-inch
+   HP single sided 1982 280 264 kB
+   3-inch 1982 360 ←
+   3½-inch (DD at release) 1984 720 720 kB
+   5¼-inch QD 1984 1200 1.2 MB
+   3-inch DD 1984 720 ←
+   3-inch
+   Mitsumi Quick Disk 1985 128 to 256 ←
+   2-inch 1985 720 ←
+   5¼-inch Perpendicular 1986 100 MiB ←
+   3½-inch HD 1987 1440 1.44 MB
+   3½-inch ED 1991 2880 2.88 MB
+   3½-inch LS-120 1996 120.375 MiB 120 MB
+   3½-inch LS-240 1997 240.75 MiB 240 MB
+   3½-inch HiFD 1998/99 150/200 MiB 150/200 MB
+   Acronyms:  DD = Double Density; QD = Quad Density; HD = High Density ED
+   = Extended Density; LS = Laser Servo; HiFD = High capacity Floppy Disk
+
+   SS = Single Sided; DS = Double Sided
+   ¹The formatted capacities of floppy disks frequently corresponded only
+   vaguely to their capacities as marketed by drive and media companies,
+   primarily due to differences between formatted and unformatted
+   capacities and also due to the non-standard use of binary prefixes in
+   labeling and advertising floppy media. The 1.44 MB value for the
+   3½-inch HD floppies is the most widely known example. See reported
+   storage capacity.
+   Dates and capacities marked ? are of unclear origin and need source
+   information; other listed capacities refer to:
+
+   Formatted Storage Capacity is total size of all sectors on the disk:
+     * For 8-inch see Table of 8-inch floppy formats IBM 8" formats. Note
+       that spare, hidden and otherwise reserved sectors are included in
+       this number.
+     * For 5¼- and 3½-inch capacities quoted are from subsystem or system
+       vendor statements.
+
+   Marketed Capacity is the capacity, typically unformatted, by the
+   original media OEM vendor or in the case of IBM media, the first OEM
+   thereafter. Other formats may get more or less capacity from the same
+   drives and disks.
+
+History
+
+Origins, the 8-inch disk
+
+   An 8-inch disk drive with a half-inserted floppy disk.
+   Enlarge
+   An 8-inch disk drive with a half-inserted floppy disk.
+
+   In 1967 IBM gave their San Jose, California storage development centre
+   a new task: develop a simple and inexpensive system for loading
+   microcode into their System/370 mainframes. The 370s were the first IBM
+   machines to use semiconductor memory, and whenever the power was turned
+   off the microcode had to be reloaded ( 'magnetic core' memory, used in
+   the 370s' predecessors, the System/360 line, did not lose its contents
+   when powered down). Normally this task would be left to various tape
+   drives which almost all 370 systems included, but tapes were large and
+   slow. IBM wanted something faster and more purpose-built that could
+   also be used to send out updates to customers for $5.
+
+   David Noble, working under the direction of Alan Shugart, tried a
+   number of existing solutions to see if he could develop a new-style
+   tape for the purpose, but eventually gave up and started over. The
+   result was a read-only, 8-inch (20 cm) floppy they called the "memory
+   disk", holding 80 kilobytes. The original versions were simply the disk
+   itself, but dirt became a serious problem and they enclosed it in a
+   plastic envelope lined with fabric that would pick up the dirt. The new
+   device, developed under the code name Minnow, became a standard part of
+   the 370 in 1969.
+
+   A Japanese inventor, Yoshiro Nakamatsu (aka Dr. NakaMats), claims he
+   independently came up with the floppy disk principle back in 1950, and
+   so a sales license had to be acquired by IBM when they started
+   manufacturing their floppy disk systems.
+
+   Alan Shugart left IBM, moved to Memorex where his team in 1972 shipped
+   the Memorex 650, the first read-write floppy disk drive.
+
+   In 1973 IBM released a new version of the floppy, this time on the 3740
+   Data Entry System. The new system used a different recording format
+   that stored up to 250¼ kB on the same disks, and was read-write. These
+   drives became common, and soon were being used to move smaller amounts
+   of data around, almost completely replacing magnetic tapes.
+
+   The IBM standard soft-sectored disk format was designed to hold just as
+   much data as one box of punch cards. The disk was divided into 77
+   tracks of 26 sectors, each holding 128 bytes. Note that 77×26 = 2002
+   sectors, whereas a box of punch cards held 2000 cards.
+
+   When the first microcomputers were being developed in the 1970s, the
+   8-inch floppy found a place on them as one of the few "high speed, mass
+   storage" devices that were even remotely affordable to the target
+   market (individuals and small businesses). The first microcomputer
+   operating system, CP/M, originally shipped on 8-inch disks. However,
+   the drives were still expensive, typically costing more than the
+   computer they were attached to in early days, so most machines of the
+   era used cassette tape instead.
+
+   This began to change with the acceptance of the first standard for the
+   floppy disk, ECMA-59, authored by Jim O'Reilly of Burroughs, Helmuth
+   Hack of BASF and others. O'Reilly set a record for maneuvering this
+   document through ECMA's approval process, with the standard
+   sub-committee being formed in one meeting of ECMA and approval of a
+   draft standard in the next meeting three months later. This standard
+   later formed the basis for the ANSI standard too. Standardization
+   brought together a variety of competitors to make media to a single
+   interchangeable standard, and allowed rapid quality and cost
+   improvement.
+
+   Shugart moved on in 1973 to found Shugart Associates. They started
+   working on improvements to the existing 8-inch format, eventually
+   creating a new 800 kB system. However, profits were hard to find, and
+   in 1974 he was forced out of his own company.
+
+   Burroughs Corporation, meanwhile, was developing a high-performance
+   dual-sided 8-inch drive at their Glenrothes, Scotland factory. With a
+   capacity of 1 MB (MiB), this unit exceeded IBM's drive capacity by 4
+   times, and was able to provide enough space to run all the software and
+   store data on the new Burrough's B80 data entry system, which
+   incidentally had the first VLSI disk controller in the industry. The
+   dual-sided 1MB floppy entered production in 1975, but was plagued by an
+   industry problem, poor media quality. There were few tools available to
+   test media for 'bit-shift' on the inner tracks, which made for high
+   error rates, and the result was a substantial investment by Burroughs
+   in a media tester designed by Dr Nigel Mackintosh (who later made
+   important contributions to the science of Phase Margin Analysis) that
+   they then gave to media makers as a quality control tool, leading to a
+   vast improvement in yields.
+
+The 5¼-inch minifloppy (5.25-inch floppy)
+
+   A 5¼-inch disk with a partly exposed magnetic medium spun about a
+   central hub for reading. The flexible plastic cover contains a cloth
+   inner liner to brush dust from the medium. Note the "write-enable slot"
+   to the upper right (confusingly also called a "write-protect notch").
+   Enlarge
+   A 5¼-inch disk with a partly exposed magnetic medium spun about a
+   central hub for reading. The flexible plastic cover contains a cloth
+   inner liner to brush dust from the medium. Note the "write-enable slot"
+   to the upper right (confusingly also called a "write-protect notch").
+
+   In 1975, Burroughs' plant in Glenrothes developed a prototype 5¼-inch
+   drive, stimulated both by the need to overcome the larger 8-inch
+   floppy's asymmetric expansion properties with changing humidity, and to
+   reflect the knowledge that IBM's audio recording products division was
+   demonstrating a dictation machine using 5¼-inch disks. In one of the
+   industry's historic gaffes, Burroughs corporate management decided it
+   would be "too inexpensive" to make enough money, and shelved the
+   program.
+
+   In 1976 two of Shugart Associates's employees, Jim Adkisson and Don
+   Massaro, were approached by An Wang of Wang Laboratories, who felt that
+   the 8-inch format was simply too large for the desktop word processing
+   machines he was developing at the time. After meeting in a bar in
+   Boston, Adkisson asked Wang what size he thought the disks should be,
+   and Wang pointed to a napkin and said "about that size". Adkisson took
+   the napkin back to California, found it to be 5¼-inches (13 cm) wide,
+   and developed a new drive of this size storing 98.5 kB later increased
+   to 110 kB by adding 5 tracks. This is believed to be the first standard
+   computer medium that was not promulgated by IBM.
+
+   The 5¼-inch drive was considerably less expensive than 8-inch drives
+   from IBM, and soon started appearing on CP/M machines. At one point
+   Shugart was producing 4,000 drives a day. By 1978 there were more than
+   10 manufacturers producing 5¼-inch floppy drives, in competing physical
+   disk formats: hard-sectored (90 kB) and soft-sectored (110 kB). The
+   5¼-inch formats quickly displaced the 8-inch from most applications,
+   and the 5¼-inch hard-sectored disk format eventually disappeared. These
+   early drives read only one side of the disk, leading to the popular
+   budget approach of cutting a second write-enable slot and index hole
+   into the carrier envelope and flipping it over (thus, the " flippy
+   disk") to use the other side for additional storage. This method was
+   risky because, when flipped, the disk would spin in the opposite
+   direction inside its cover, so some of the dirt that had been collected
+   by the fabric lining in the previous rotations would be picked up by
+   the disk and dragged past the read/write head.
+   Floppy disk write protect tabs. These sticky paper tabs are folded over
+   the notch in the side of a 5¼-inch disk to prevent the computer from
+   writing data to the disk. Later disks, such as the 3½-inch disk, had a
+   built-in slideable plastic tab to implement write-protection.
+   Enlarge
+   Floppy disk write protect tabs. These sticky paper tabs are folded over
+   the notch in the side of a 5¼-inch disk to prevent the computer from
+   writing data to the disk. Later disks, such as the 3½-inch disk, had a
+   built-in slideable plastic tab to implement write-protection.
+
+   Tandon introduced a double-sided drive in 1978, doubling the capacity,
+   and a new "double density" format increased it again, to 360 kB.
+
+   For most of the 1970s and 1980s the floppy drive was the primary
+   storage device for microcomputers. Since these micros had no hard
+   drive, the OS was usually booted from one floppy disk, which was then
+   removed and replaced by another one containing the application. Some
+   machines using two disk drives (or one dual drive) allowed the user to
+   leave the OS disk in place and simply change the application disks as
+   needed. In the early 1980s, 96 track-per-inch drives appeared,
+   increasing the capacity from 360 to 720 kB. These did not see
+   widespread use, as they were not supported by IBM in its PCs. (Another
+   oddball format was used by Digital Equipment Corporation's Rainbow-100,
+   DECmate-II and Pro-350. It held 400 kB on a single side by using 96
+   tracks-per-inch and cramming 10 sectors per track.)
+   Front and back of a floppy with a write-protect tab
+
+   Despite the available capacity of the disks, support on the most
+   popular operating system of the early 80's— PC-DOS and MS-DOS—lagged
+   slightly behind. In fact, the original IBM PC did not include a floppy
+   drive at all as standard equipment—you could either buy the optional
+   5¼-inch floppy drive or rely upon the cassette port. With version 1.0
+   of DOS (1981) only single sided 160 kB floppies were supported. Version
+   1.1 the next year saw support expand to double-sided, 320 kB disks.
+   Finally in 1983 DOS 2.0 supported 9 sectors per track rather than 8,
+   for a total of 360 kB of disk space. Along with this change came
+   support for different directories on the disk (now commonly called
+   folders), which came in handy when organizing the greater number of
+   files possible in this increased space.
+
+   In 1984, along with the IBM PC/AT, the quad density disk appeared,
+   which used 96 tracks per inch combined with a higher density magnetic
+   media to provide 1200 kiB of storage (formerly referred to as 1.2
+   megabytes). Since the usual (very expensive) hard disk held 10–20
+   megabytes at the time, this was considered quite spacious.
+
+   By the end of the 1980s, the 5¼-inch disks had been superseded by the
+   3½-inch disks. Though 5¼-inch drives were still available, as were
+   disks, they faded in popularity as the 1990s began. The main community
+   of users was primarily those who still owned '80s legacy machines
+   running MS-DOS that had no 3½-inch drive; the advent of Windows 95 (not
+   even sold in stores in a 5¼-inch version; a coupon had to be obtained
+   and mailed in) and subsequent phaseout of standalone MS-DOS with
+   version 6.22 forced many of them to upgrade their hardware. On most new
+   computers the 5¼-inch drives were optional equipment. By the mid-1990s
+   the drives had virtually disappeared as the 3½-inch disk became the
+   preeminent floppy disk.
+
+The "Twiggy" disk
+
+   During the development of the Apple Lisa, Apple developed a disk format
+   codenamed Twiggy. While basically similar to a standard 5.25in disk,
+   the Twiggy disk had an additional set of write windows on the top of
+   the disk with the label running down the side. The drive was also
+   present in prototypes of the original Apple Macintosh computer, but was
+   removed in both the Mac and later versions of the Lisa in favour of the
+   3.5in floppy disk from Sony. The drives were notoriously unreliable and
+   Apple was criticized for needlessly diverging from industry standards.
+
+New formats, no standard
+
+   Throughout the early 1980s the limitations of the 5¼-inch format were
+   starting to become clear. Originally designed to be a smaller and more
+   practical 8-inch, the 5¼-inch system was itself too large, and as the
+   quality of the recording media grew, the same amount of data could be
+   placed on a smaller surface. Another problem was that the 5¼-inch disks
+   were simply copies of the 8-inch physical format, which had never
+   really been engineered for ease of use. The thin folded-plastic shell
+   allowed the disk to be easily damaged through bending, and allowed dirt
+   to get onto the disk surface through the opening.
+
+   A number of solutions were developed, with drives at 2-inch, 2½-inch,
+   3-inch and 3½-inch (50, 60, 75 and 90 mm) all being offered by various
+   companies. They all shared a number of advantages over the older
+   format, including a small form factor and a rigid case with a slideable
+   write protect catch. The almost-universal use of the 5¼-inch format
+   made it very difficult for any of these new formats to gain any
+   significant market share.
+
+   Standard 3-inch and 3½-inch disks used the same spin speed and basic
+   hardware interface as standard 5¼-inch drives, allowing them to be used
+   with existing controllers and formats, although new formats were later
+   developed that relied on the higher quality hardware in the new drive
+   types (the IBM PC in particular never officially shared a format
+   between the two drive types, though it was possible to misidentify the
+   drive to the OS if desired).
+
+The 3-inch compact floppy disk
+
+   The CF has a harder casing than a 3½-inch floppy; the metal door is
+   opened by a sliding plastic tab on the right side.
+   Enlarge
+   The CF has a harder casing than a 3½-inch floppy; the metal door is
+   opened by a sliding plastic tab on the right side.
+
+   Original concept of the 3-inch hard case floppy disk was developed in
+   1973 by Marcell Jánosi, a hungarian inventor of Budapest Radiotechnic
+   Company (Budapesti Rádiótechnikai Gyár - BRG). The system was the BRG
+   MCD-1, which was patented but later the patent was not extended,
+   therefore the protection lost and Amdek released the AmDisk-3
+   Micro-Floppy-disk cartridge system in December 1982. Originally
+   designed for use with the Apple II Disk II interface card, it has also
+   been connected to other computers successfully.
+
+   The drive itself was originally designed in 1973 by BRG (MCD-1), and
+   later in the 80's by Hitachi, Matsushita and Maxell. Only Teac outside
+   this "network" is known to have produced drives. Similarly, only three
+   manufacturers of media ( Maxell, Matsushita and Tatung) are known
+   (sometimes also branded Yamaha, Amsoft, Panasonic, Tandy, Godexco and
+   Dixons), but "no-name" disks with questionable quality have been seen
+   in the wild.
+
+   Amstrad incorporated a 3-inch single-sided drive into their CPC and PCW
+   lines, and this format and the drive mechanism was later "inherited" by
+   the ZX Spectrum +3 computer after Amstrad bought Sinclair. Later models
+   of the PCW featured double-sided, double density drives.
+
+   While all 3-inch media were double-sided in nature, single-sided drive
+   owners were able to flip the disk over to use the other side. The sides
+   were termed "A" and "B" and were completely independent, but
+   single-sided drive units could only access the upper side at one time.
+
+   The disk format itself had no more capacity than the more popular (and
+   cheap) 5¼-inch floppies. Each side held 180 kiB for a total of 360 kiB
+   per disk, and later 720 kiB for the PCW range. Unlike 5¼-inch or
+   3½-inch disks, the 3-inch disks were designed to be reversible and
+   sported two independent write-protect switches. It was also more
+   reliable thanks to its hard casing (some reviews at the time reported
+   driving over them with no problems).
+
+   3-inch drives were also used on a number of exotic and obscure CP/M
+   systems such as the Tatung Einstein and occasionally on MSX systems in
+   some regions. Other computers to have used this format are the more
+   unknown Gavilan Mobile Computer and Matsushita's National Mybrain 3000.
+   The Yamaha MDR-1 also used 3-inch drives.
+
+   The main problems with this format was the high price, due to the quite
+   elaborate and complex case mechanisms. However, the tip on the weight
+   was when Sony in 1984 convinced Apple Computer to use the 3½-inch
+   drives in the Macintosh 128K model, effectively making the 3½-inch
+   drive a de-facto standard.
+
+Mitsumi's "Quick Disk" 3-inch floppies
+
+   A Smith Corona DataDisk 2.8-inch actually measures about 3 1/32-inch
+   square. This disk is one of the few different Mitsumi Quick Disk
+   packages, which vary in storage capacity and casing size. The Quick
+   Disk uses a 2.8-inch magnetic media, break-off write-protection tabs
+   (one for each side), and contains a see-through hole near center
+   spindle (probably used for indexing or to ensure spindle clamping).
+   Note the label "A" to indicate disk side. The backside has a "B" label.
+   Enlarge
+   A Smith Corona DataDisk 2.8-inch actually measures about 3 1/32-inch
+   square. This disk is one of the few different Mitsumi Quick Disk
+   packages, which vary in storage capacity and casing size. The Quick
+   Disk uses a 2.8-inch magnetic media, break-off write-protection tabs
+   (one for each side), and contains a see-through hole near centre
+   spindle (probably used for indexing or to ensure spindle clamping).
+   Note the label "A" to indicate disk side. The backside has a "B" label.
+
+   Another 3-inch format was Mitsumi's Quick Disk format. The Quick Disk
+   format is referred to in various size references: 2.8-inch,
+   3-inch×3-inch and 3-inch×4-inch. Confusing when trying to categorize
+   the disk but perhaps not when understood that Mitsumi offered this as
+   OEM equipment, expecting their VAR customers to customize the packaging
+   for their own particular use. Nintendo packaged the 2.8-inch magnetic
+   media in a 3-inch×4-inch housing, while others packaged the same media
+   in a 3″×3″ housing. This explains the different numbering labels, while
+   here we generically call the Mitsumi Quick Disk a 3-inch format.
+
+   The Quick Disk's most successful use was in Nintendo's Famicom Disk
+   System. The FDS package of Mitsumi's Quick Disk used a 3-inch×4-inch
+   plastic housing called the "Disk System Card". Most FDS disks did not
+   have cover protection to prevent media contamination, but a later
+   special series of five games did include a protective shutter.
+
+   Mitsumi's "3-inch" Quick Disk media was also used in a 3-inch×3-inch
+   housing for many Smith Corona word processors. The Smith Corona disks
+   are confusingly labeled "DataDisk 2.8 inch", presumably referring to
+   the size of the media inside the hard plastic case.
+
+   The Quick Disk was also used in several MIDI keyboards and MIDI
+   samplers of the mid 1980s. A non-inclusive list includes: the Roland
+   S-10 and MT-100 samplers, the Korg SQD8 MIDI sequencer, Akai's 1985
+   model MD280 drive for the S-612 MIDI Sampler, Akai's X7000 and X3700,
+   the Roland S-220, and the Yamaha MDF1 MIDI disk drive (intended for
+   their DX7/21/100/TX7 synthesizers, RX11/21/21L drum machines, and QX1,
+   QX21 and QX5 MIDI sequencers).
+
+   As the cost in the 1980s to add 5.25-inch drives was still quite high,
+   the Mitsumi Quick Disk was competing as a lower cost alternative
+   packaged in several now obscure 8-bit computer systems. Another
+   non-inclusive list of Quick Disk versions: QDM-01, in the Casio QD-7
+   drive, in a peripheral for the Sharp MZ-700 & MZ-800 system, in the
+   DPQ-280 Quickdisk for the Daewoo/Dynadata MSX1 DPC-200, in a Dragon
+   machine, in the Crescent Quick Disk 128, 128i and 256 peripherals for
+   the ZX Spectrum, and in the Triton Quick Disk peripherial also for the
+   ZX Spectrum and ZX Spectrum.
+
+   The World of Spectrum FAQ reveals that the drives did come in different
+   sizes: 128 to 256 kB in Cresent's incarnation, and in the Triton
+   system, with a density of 4410 bpi, data transmission rate of 101.6
+   kb/s, a 2.8-inch double sided disk type and a capacity of up to 20
+   sectors per side at 2.5 kB per sector, up to 100 kB per disk. Quick
+   Disk as used in the Famicom Disk System holds 64 kB of data per side,
+   requiring a manual turn-over to access the second side.
+
+   It is significant to note that the Quick Disk utilizes "a continuous
+   linear tracking of the head and thus creates a single spiral track
+   along the disk similar to a record groove." This has led some to
+   compare it more to a "tape-stream" unit than typically what is thought
+   of as a random-access disk drive.
+
+The 3½-inch microfloppy diskette
+
+   The non-ferromagnetic metal sliding door protects the 3½-inch floppy
+   disk's recording medium.
+   Enlarge
+   The non- ferromagnetic metal sliding door protects the 3½-inch floppy
+   disk's recording medium.
+   Close up macro photograph of the back of a 3½-inch disk
+   Enlarge
+   Close up macro photograph of the back of a 3½-inch disk
+   The basic internal components of a 3½-inch floppy disk:1. Write-protect
+   tab2. Hub3. Shutter4. Plastic housing5. Paper ring6. Magnetic disk7.
+   Disk sector.
+   Enlarge
+   The basic internal components of a 3½-inch floppy disk:
+   1. Write-protect tab
+   2. Hub
+   3. Shutter
+   4. Plastic housing
+   5. Paper ring
+   6. Magnetic disk
+   7. Disk sector.
+
+   Sony introduced their own small-format 90.0 × 94.0 mm disk, similar to
+   the others but somewhat simpler in construction than the AmDisk. The
+   first computer to use this format was the HP-150 of 1983, and Sony also
+   used them fairly widely on their line of MSX computers. Other than this
+   the format suffered from a similar fate as the other new formats; the
+   5¼-inch format simply had too much market share. Things changed
+   dramatically in 1984 when Apple Computer selected the format for their
+   new Macintosh computers. By 1988 the 3½-inch was outselling the
+   5¼-inch.
+
+   The 3½-inch disks had, by way of their rigid case's slide-in-place
+   metal cover, the significant advantage of being much better protected
+   against unintended physical contact with the disk surface than 5¼-inch
+   disks when the disk was handled outside the disk drive. When the disk
+   was inserted, a part inside the drive moved the metal cover aside,
+   giving the drive's read/write heads the necessary access to the
+   magnetic recording surfaces. Adding the slide mechanism resulted in a
+   slight departure from the previous square outline. The irregular,
+   rectangular shape had the additional merit that it made it impossible
+   to insert the disk sideways by mistake as had indeed been possible with
+   earlier formats.
+
+   The shutter mechanism was not without its problems, however. On old or
+   roughly treated disks the shutter could bend away from the disk. This
+   made it vulnerable to being ripped off completely (which does not
+   damage the disk itself but does leave it much more vulnerable to dust),
+   or worse, catching inside a drive and possibly either getting stuck
+   inside or damaging the drive. On disks with the cover bending away the
+   best option is to rip the cover off (to make sure it does not catch in
+   the drive) and then immediately copy the data off it. Most modern
+   floppies have a springy plastic cover that does not tend to bend away
+   from the disk.
+
+   Like the 5¼-inch, the 3½-inch disk underwent an evolution of its own.
+   When Apple introduced the Macintosh in 1984, it used single-sided
+   3½-inch disk drives with an advertised capacity of 400 kB. The encoding
+   technique used by these drives was known as GCR, or Group Code
+   Recording. Somewhat later, PC-compatible machines began using
+   single-sided 3½-inch disks with an advertised capacity of 360 kB (the
+   same as a single-sided 5¼-inch disk), and a different, incompatible
+   recording format called MFM ( Modified Frequency Modulation). GCR and
+   MFM drives (and their formatted disks) were incompatible, although the
+   physical disks were the same. In 1986, Apple introduced double-sided,
+   800 kB disks, still using GCR, and around the same time, 720 kB
+   double-sided double-density MFM disks began to appear on
+   PC-compatibles.
+
+   A newer "high-density" format, displayed as "HD" on the disks
+   themselves and storing 1440 kB of data, was introduced in 1987. These
+   HD disks had an extra hole in the case on the opposite side of the
+   write-protect notch. IBM used this format on their PS/2 series
+   introduced in 1987. Apple started using "HD" in 1988, on the Macintosh
+   IIx, and the HD floppy drive soon became universal on virtually all
+   Macintosh and PC hardware. Apple's HD drive was capable of reading and
+   writing both GCR and MFM formatted disks, and thus made it relatively
+   easy to exchange files with PC users. Apple marketed this drive as the
+   "SuperDrive." Interestingly, Apple began using the SuperDrive brand
+   name again around 2003 to denote their all-formats CD/DVD
+   reader/writer.
+
+   Another advance in the oxide coatings allowed for a new
+   "extended-density" ("ED") format at 2880 kB introduced on the second
+   generation NeXT Computers in 1991, and on IBM PS/2 model 57 also in
+   1991, but by the time it was available it was already too small in
+   capacity to be a useful advance over the HD format and never became
+   widely used. The 3½-inch drives sold more than a decade later still use
+   the same 1.44 MB HD format that was standardized in 1989, in ISO
+   9529-1,2.
+
+Reported 3.5" DSHD FDD storage capacity
+
+   The unformatted capacity of 3½-inch double sided high density floppy
+   disk is 2.0 megabytes; in its most common format it has a capacity of
+   1,474,560 bytes or 1.47 MB (simply dividing by 1,000,000). In the
+   binary prefix numbering system this is 1.41 MiB.
+
+   Neither of these numbers is generally used, however. The number most
+   frequently printed on these floppies is 1.44 MB. This value was
+   apparently reached by doubling (in the decimal system) the capacity of
+   the prior generation 720 "KB" [actually KiB] double sided double
+   density floppy disk and dividing by 1,000, to arrive at 1.44 kiloKibi
+   bytes and mis-labeling such as "MB". A person expecting the 1.44 "MB"
+   number to be either binary prefix or decimal would always miscalculate
+   the number of floppies needed.
+
+Floppy Replacements
+
+   Through the early 1990s a number of attempts were made by various
+   companies to introduce newer floppy-like formats based on the
+   now-universal 3½-inch physical format. Most of these systems provided
+   the ability to read and write standard DD and HD disks, while at the
+   same time introducing a much higher-capacity format as well. There were
+   a number of times where it was felt that the existing floppy was just
+   about to be replaced by one of these newer devices, but a variety of
+   problems ensured this never took place. None of these ever reached the
+   point where it could be assumed that every current PC would have one,
+   and they have now largely been replaced by CD and DVD burners and USB
+   flash drives.
+
+   The main technological change was the addition of tracking information
+   on the disk surface to allow the read/write heads to be positioned more
+   accurately. Normal disks have no such information, so the drives use
+   the tracks themselves with a feedback loop in order to centre
+   themselves. The newer systems generally used marks burned onto the
+   surface of the disk to find the tracks, allowing the track width to be
+   greatly reduced.
+
+Flextra
+
+   As early as 1988, Brier Technology introduced the Flextra BR 3020,
+   which boasted 21.4 MB (marketing, true size was 21,040 kiB, 25 MiB
+   unformatted). Later the same year it introduced the BR3225, which
+   doubled the capacity. This model could also read standard 3½-inch
+   disks.
+
+   Apparently it used 3½-inch standard disks which had servo information
+   embedded on them for use with the Twin Tier Tracking technology.
+
+Floptical
+
+   In 1991, Insite Peripherals introduced the " Floptical", which used an
+   infra-red LED to position the heads over marks in the disk surface. The
+   original drive stored 21 MiB, while also reading and writing standard
+   DD and HD floppies. In order to improve data transfer speeds and make
+   the high-capacity drive usefully quick as well, the drives were
+   attached to the system using a SCSI connector instead of the normal
+   floppy controller. This made them appear to the operating system as a
+   hard drive instead of a floppy, meaning that most PCs were unable to
+   boot from them. This again adversely affected adoption rates.
+
+   Insite licenced their technology to a number of companies, who
+   introduced compatible devices as well as even larger-capacity formats.
+   Most popular of these, by far, was the LS-120, mentioned below.
+
+Zip drive
+
+   In 1994, Iomega introduced the Zip drive. Not true to the 3½-inch form
+   factor, hence not compatible with the standard 1.44 MB floppies (which
+   may have actually been a good thing for the drives as it removed a big
+   potential source of problems), it became the most popular of the "super
+   floppies". It boasted 100 MB, later 250 MB, and then 750 MB of storage
+   and came to market at just the right time, with Zip drives gaining in
+   popularity for several years. It never reached the same market
+   penetration as floppy drives, as only a few new computers were sold
+   with Zip drives. Eventually the falling prices of CD-R and CD-RW media
+   and flash drives, and notorious hardware failures (the so-called "
+   click of death") reduced the popularity of the the Zip drive.
+
+   A major reason for the failure of the Zip Drives is also attributed to
+   the higher pricing they carried. However hardware vendors such as
+   Hewlett Packard, Dell and Compaq had promoted the same at a very high
+   level. Zip drive media was primarily popular for the excellent
+   compression ratio and drive speed they carried, but was always
+   overshadowed by the price.
+
+LS-120
+
+   Announced in 1995, the " SuperDisk" drive, often seen with the brand
+   names Matsushita (Panasonic) and Imation, had an initial capacity of
+   120 MB (120.375 MiB) using even higher density "LS-120" disks.
+
+   It was upgraded ("LS-240") to 240 MB (240.75 MiB). Not only could the
+   drive read and write 1440 kB disks, but the last versions of the drives
+   could write 32 MB onto a normal 1440 kB disk (see note below).
+   Unfortunately, popular opinion held the Super Disk disks to be quite
+   unreliable, though no more so than the Zip drives and SyQuest
+   Technology offerings of the same period and there were also many
+   reported problems moving standard floppies between LS-120 drives and
+   normal floppy drives. This again, true or otherwise, crippled adoption.
+
+Sony HiFD
+
+   Sony introduced their own floptical-like system in 1997 as the 150 MiB
+   Sony HiFD. Although by this time the LS-120 had already garnered some
+   market penetration, industry observers nevertheless confidently
+   predicted the HiFD would be the real floppy-killer and finally replace
+   floppies in all machines.
+
+   After only a short time on the market the product was pulled as it was
+   discovered there were a number of performance and reliability problems
+   that made the system essentially unusable. Sony then re-engineered the
+   device for a quick re-release, but then extended the delay well into
+   1998 instead and increased the capacity to 200 MiB while they were at
+   it. By this point the market was already saturated by the Zip disk so
+   it never gained much market share.
+
+Caleb Technology’s UHD144
+
+   Little is known about this device except that it surfaced early in 1998
+   as the it drive, and provided 144 MB of storage while also being
+   compatible with the standard 1.44 MB floppies. The drive was slower
+   than its competitors but the media was cheaper, running about $8 at
+   introduction and $5 soon after.
+
+Structure
+
+   A user inserts the floppy disk, medium opening first, into a 5¼-inch
+   floppy disk drive (pictured, an internal model) and moves the lever
+   down (by twisting on this model) to close the drive and engage the
+   motor and heads with the disk.
+   Enlarge
+   A user inserts the floppy disk, medium opening first, into a 5¼-inch
+   floppy disk drive (pictured, an internal model) and moves the lever
+   down (by twisting on this model) to close the drive and engage the
+   motor and heads with the disk.
+
+   The 5¼-inch disk had a large circular hole in the centre for the
+   spindle of the drive and a small oval aperture in both sides of the
+   plastic to allow the heads of the drive to read and write the data. The
+   magnetic medium could be spun by rotating it from the middle hole. A
+   small notch on the right hand side of the disk would identify whether
+   the disk was read-only or writable, detected by a mechanical switch or
+   photo transistor above it. Another LED/phototransistor pair located
+   near the centre of the disk could detect a small hole once per
+   rotation, called the index hole, in the magnetic disk. It was used to
+   detect the start of each track, and whether or not the disk rotated at
+   the correct speed; some operating systems, such as Apple DOS, did not
+   use index sync, and often the drives designed for such systems lacked
+   the index hole sensor. Disks of this type were said to be soft sector
+   disks. Very early 8-inch and 5¼-inch disks also had physical holes for
+   each sector, and were termed hard sector disks. Inside the disk were
+   two layers of fabric designed to reduce friction between the media and
+   the outer casing, with the media sandwiched in the middle. The outer
+   casing was usually a one-part sheet, folded double with flaps glued or
+   spot-melted together. A catch was lowered into position in front of the
+   drive to prevent the disk from emerging, as well as to raise or lower
+   the spindle.
+
+   The 3½-inch disk is made of two pieces of rigid plastic, with the
+   fabric-medium-fabric sandwich in the middle to remove dust and dirt.
+   The front has only a label and a small aperture for reading and writing
+   data, protected by a spring-loaded metal cover, which is pushed back on
+   entry into the drive.
+   The 3½-inch floppy disk drive automatically engages when the user
+   inserts a disk, and disengages and ejects with the press of the eject
+   button. On older Macintosh hardware, the disk is lowered into the
+   carriage and ejected by a motor (similar to a VCR). To eject a disk on
+   a Mac running OS X one would traditionally drag the icon of the
+   floppy-disk over the Trash until it turns into an eject icon, then
+   release.
+   Enlarge
+   The 3½-inch floppy disk drive automatically engages when the user
+   inserts a disk, and disengages and ejects with the press of the eject
+   button. On older Macintosh hardware, the disk is lowered into the
+   carriage and ejected by a motor (similar to a VCR). To eject a disk on
+   a Mac running OS X one would traditionally drag the icon of the
+   floppy-disk over the Trash until it turns into an eject icon, then
+   release.
+
+   The reverse has a similar covered aperture, as well as a hole to allow
+   the spindle to connect into a metal plate glued to the media. Two
+   holes, bottom left and right, indicate the write-protect status and
+   high-density disk correspondingly, a hole meaning protected or high
+   density, and a covered gap meaning write-enabled or low density.
+   (Incidentally, the write-protect and high-density holes on a 3½-inch
+   disk are spaced exactly as far apart as the holes in punched A4 paper
+   (8 cm), allowing write-protected floppies to be clipped into European
+   ring binders.) A notch top right ensures that the disk is inserted
+   correctly, and an arrow top left indicates the direction of insertion.
+   The drive usually has a button that, when pressed, will spring the disk
+   out at varying degrees of force. Some would barely make it out of the
+   disk drive; others would shoot out at a fairly high speed. In a
+   majority of drives, the ejection force is provided by the spring that
+   holds the cover shut, and therefore the ejection speed is dependent on
+   this spring. In PC-type machines, a floppy disk can be inserted or
+   ejected manually at any time (evoking an error message or even lost
+   data in some cases), as the drive is not continuously monitored for
+   status and so programs can make assumptions that do not match actual
+   status (i.e., disk 123 is still in the drive and has not been altered
+   by any other agency). With Apple Macintosh computers, disk drives are
+   continuously monitored by the OS; a disk inserted is automatically
+   searched for content and one is ejected only when the software agrees
+   the disk should be ejected. This kind of disk drive (starting with the
+   slim "Twiggy" drives of the late Apple "Lisa") does not have an eject
+   button, but uses a motorized mechanism to eject disks; this action is
+   triggered by the OS software (e.g. the user dragged the "drive" icon to
+   the "trash can" icon). Should this not work (as in the case of a power
+   failure or drive malfunction), one can insert a straight-bent paperclip
+   into a small hole at the drive's front, thereby forcing the disk to
+   eject (similar to that found on CD/DVD drives).
+
+   The 3-inch disk bears much similarity to the 3½-inch type, with some
+   unique and somehow curious features. One example is the
+   rectangular-shaped plastic casing, almost taller than a 3½-inch disk,
+   but narrower, and more than twice as thick, almost the size of a
+   standard compact audio cassette. This made the disk look more like a
+   greatly oversized present day memory card or a standard PCMCIA notebook
+   expansion card rather than a floppy disk. Despite the size, the actual
+   3-inch magnetic-coated disk occupied less than 50% of the space inside
+   the casing, the rest being used by the complex protection and sealing
+   mechanisms implemented on the disks. Such mechanisms were largely
+   responsible for the thickness, length and high costs of the 3-inch
+   disks. On the Amstrad machines the disks were typically flipped over to
+   use both sides, as opposed to being truly double-sided. Double-sided
+   mechanisms were available but rare.
+
+Current situation
+
+   An example of a modern usb floppy disk drive.
+   Enlarge
+   An example of a modern usb floppy disk drive.
+
+   The 8-inch, 5¼-inch and 3-inch formats can be considered almost
+   completely obsolete. 3½-inch drives and disks are still widely
+   available. As of 2006 3½-inch drives are still available on many
+   desktop PC systems, although it is usually now an optional extra or has
+   to be bought and installed separately. HP has recently dropped
+   supplying floppy drives as standard on business desktops. The majority
+   of ATX and Micro-ATX PC cases are still designed to accommodate at
+   least one 3.5" drive that can be accessed from the front of the PC
+   (although this can be used for other devices than just floppy drives).
+   As of 2006, HD floppy disks are still quite commonly available in most
+   computer and stationery shops, although selection is usually very
+   limited.
+
+   Floppy disks still maintain a stronghold when it comes to emergency
+   boots, BIOS updates and as maintenance program carriers, in general, as
+   many BIOS and firmware update/restore programs are still designed to be
+   executed from a bootable floppy disk, and the legacy support for
+   alternate bootable media such as CD-ROMs and USB devices is still
+   problematic in some configurations.
+
+   However, the advent of other portable storage options, such as USB
+   storage devices and recordable or rewritable CDs, and the rise of
+   multi- megapixel digital photography have encouraged the creation and
+   use of files larger than most 3½-inch disks can hold. In addition, the
+   increasing availability of broadband and wireless Internet connections
+   is decreasing the utility of removable storage devices overall. The
+   3½-inch floppy is growing as obsolete as its larger cousin became a
+   decade before. However, the 3½-inch floppy has been in continued use
+   longer than the 5¼-inch floppy.
+
+   Some manufacturers have stopped offering 3½-inch drives on new
+   computers as standard equipment. The Apple Macintosh, which popularized
+   the format in 1984, began to move away from it in 1998 with the iMac
+   model—possibly prematurely, since the basic model iMac of the time only
+   had a CD-ROM drive, giving users no easy access to removable media.
+   This made USB-connected floppy drives a popular accessory for the early
+   iMacs. In February 2003, Dell, Inc. announced that they would no longer
+   include floppy drives on their Dell Dimension home computers as
+   standard equipment, although they are available as a selectable option
+   for around $20 and can be purchased as an aftermarket OEM addon
+   anywhere between $5 and $25.
+
+Compatibility
+
+   In general, different physical sizes of floppy disks are incompatible
+   by definition, and disks can be loaded only on the correct size of
+   drive. There were some drives available with both 3½-inch and 5¼-inch
+   slots that were popular in the transition period between the sizes.
+
+   However, there are many more subtle incompatibilities within each form
+   factor. Consider, for example, the following Apple/IBM 'schism': Apple
+   Macintosh computers can read, write and format IBM PC-format 3½-inch
+   diskettes, provided suitable software is installed (it is standard on
+   MacOS versions after 7.5). However, many IBM-compatible computers use
+   floppy disk drives that are unable to read (or write) Apple-format
+   disks. For details on this, see the section More on floppy disk
+   formats. In addition, older MFS disks used on early system releases are
+   incompatible with later HFS drives used on later Mac models.
+
+   Within the world of IBM-compatible computers, the three densities of
+   3½-inch floppy disks are partially compatible. Higher density drives
+   are built to read, write and even format lower density media without
+   problems, provided the correct media is used for the density selected.
+   However, if by whatever means a diskette is formatted at the wrong
+   density, the result is a substantial risk of data loss due to magnetic
+   mismatch between oxide and the drive head's writing attempts. Still, a
+   fresh diskette that has been manufactured for high density use can
+   theoretically be formatted as double density, but only if no
+   information has ever been written on the disk using high density mode
+   (for example, HD diskettes that are pre-formatted at the factory are
+   out of the question). The magnetic strength of a high density record is
+   stronger and will "overrule" the weaker lower density, remaining on the
+   diskette and causing problems. However, in practice there are people
+   who use downformatted (ED to HD, HD to DD) or even overformatted (DD to
+   HD) without apparent problems; see the Floppy trivia section. Doing so
+   always constitutes a data risk, so one should weigh out the benefits
+   (e.g. increased space and/or interoperability) versus the risks (data
+   loss, permanent disk damage).
+
+   The situation was even more complex with 5¼-inch diskettes. The head
+   gap of an 80 track (1200 kB in the PC world) drive is shorter than that
+   of a 40 track (360 kB in the PC world) drive, but will format, read and
+   write 40 track diskettes with apparent success provided the controller
+   supports double stepping (or the manufacturer fitted a switch to do
+   double stepping in hardware). A blank 40 track disk formatted and
+   written on an 80 track drive can be taken to a 40 track drive without
+   problems, similarly a disk formatted on a 40 track drive can be used on
+   an 80 track drive. But a disk written on a 40 track drive and updated
+   on an 80 track drive becomes permanently unreadable on any 360 kB
+   drive, owing to the incompatibility of the track widths (special, very
+   slow programs could have been used to overcome this problem). There are
+   several other 'bad' scenarios.
+
+   Prior to the problems with head and track size, there was a period when
+   just trying to figure out which side of a "single sided" diskette was
+   the right side was a problem. Both Radio Shack and Apple used 360 kB
+   single sided 5¼-inch disks, and both sold disks labeled "single sided"
+   were certified for use on only one side, even though they in fact were
+   coated in magnetic material on both sides. The irony was that the disks
+   would work on both Radio Shack and Apple machines, yet the Radio Shack
+   TRS-80 Model I computers used one side and the Apple II machines used
+   the other, regardless of whether there was software available which
+   could make sense of the other format.
+   "Sub Battle Simulator" for the Tandy Color Computer 3 was released in a
+   flippy disk
+   Enlarge
+   "Sub Battle Simulator" for the Tandy Colour Computer 3 was released in
+   a flippy disk
+
+   For quite a while in the 1980s, users could purchase a special tool
+   called a "disk notcher" which would allow them to cut a second "write
+   unprotect" notch in these diskettes and thus use them as "flippies"
+   (either inserted as intended or upside down): both sides could now be
+   written on and thereby the data storage capacity was doubled. Other
+   users made do with a steady hand and a hole punch or scissors. For
+   re-protecting a disk side, one would simply place a piece of opaque
+   tape over the notch or hole in question. These "flippy disk procedures"
+   were followed by owners of practically every home-computer single sided
+   disk drives. Proper disk labels became quite important for such users.
+   Flippies were eventually adopted by some manufacturers, with a few
+   programs being sold in this media (they were also widely used for
+   software distribution on systems that could be used with both 40 track
+   and 80 track drives but lacked the software to read a 40 track disk in
+   an 80 track drive).
+
+More on floppy disk formats
+
+Using the disk space efficiently
+
+   In general, data is written to floppy disks in a series of sectors,
+   angular blocks of the disk, and in tracks, concentric rings at a
+   constant radius, e.g. the HD format of 3½-inch floppy disks uses 512
+   bytes per sector, 18 sectors per track, 80 tracks per side and two
+   sides, for a total of 1,474,560 bytes per disk. (Some disk controllers
+   can vary these parameters at the user's request, increasing the amount
+   of storage on the disk, although these formats may not be able to be
+   read on machines with other controllers; e.g. Microsoft applications
+   were often distributed on Distribution Media Format (DMF) disks, a hack
+   that allowed 1.68 MB (1680 kiB) to be stored on a 3½-inch floppy by
+   formatting it with 21 sectors instead of 18, while these disks were
+   still properly recognized by a standard controller.) On the IBM PC and
+   also on the MSX, Atari ST, Amstrad CPC, and most other microcomputer
+   platforms, disks are written using a Constant Angular Velocity
+   (CAV)—Constant Sector Capacity format. This means that the disk spins
+   at a constant speed, and the sectors on the disk all hold the same
+   amount of information on each track regardless of radial location.
+
+   However, this is not the most efficient way to use the disk surface,
+   even with available drive electronics. Because the sectors have a
+   constant angular size, the 512 bytes in each sector are packed into a
+   smaller length near the disk's centre than nearer the disk's edge. A
+   better technique would be to increase the number of sectors/track
+   toward the outer edge of the disk, from 18 to 30 for instance, thereby
+   keeping constant the amount of physical disk space used for storing
+   each 512 byte sector (see zone bit recording). Apple implemented this
+   solution in the early Macintosh computers by spinning the disk slower
+   when the head was at the edge while keeping the data rate the same,
+   allowing them to store 400 kB per side, amounting to an extra 160 kB on
+   a double-sided disk. This higher capacity came with a serious
+   disadvantage, however: the format required a special drive mechanism
+   and control circuitry not used by other manufacturers, meaning that Mac
+   disks could not be read on any other computers. Apple eventually gave
+   up on the format and used standard HD floppy drives on their later
+   machines.
+
+The Commodore 64/128
+
+   Commodore started its tradition of special disk formats with the
+   5¼-inch disk drives accompanying its PET/CBM, VIC-20 and Commodore 64
+   home computers, like the 1540 and (better-known) 1541 drives used with
+   the latter two machines. The standard Commodore Group Code Recording
+   scheme used in 1541 and compatibles employed four different data rates
+   depending upon track position (see zone bit recording). Tracks 1 to 17
+   had 21 sectors, 18 to 24 had 19, 25 to 30 had 18, and 31 to 35 had 17,
+   for a disk capacity of 170 kB (170.75 kiB).
+
+   Eventually Commodore gave in to disk format standardization, and made
+   its last 5¼-inch drives, the 1570 and 1571, compatible with Modified
+   Frequency Modulation (MFM), to enable the Commodore 128 to work with
+   CP/M disks from several vendors. Equipped with one of these drives, the
+   C128 was able to access both C64 and CP/M disks, as it needed to, as
+   well as MS-DOS disks (using third-party software), which was a crucial
+   feature for some office work.
+
+   Commodore also offered its 8-bit machines a 3½-inch 800 kB disk format
+   with its 1581 disk drive.
+
+The Commodore Amiga
+
+   The Commodore Amiga computers used an 880 kB format (eleven 512-byte
+   sectors per track) on a 3½-inch floppy. Because the entire track was
+   written at once, inter-sector gaps could be eliminated, saving space.
+   The Amiga floppy controller was much more flexible than the one on the
+   PC: it did not impose arbitrary format restrictions, and foreign
+   formats such as the IBM PC could also be handled (by use of CrossDos,
+   which was included in later versions of Workbench). With the correct
+   filesystem software, an Amiga could theoretically read any arbitrary
+   format on the 3.5-inch floppy, including those recorded at a
+   differential rotation rate. On the PC, however, there is no way to read
+   an Amiga disk without special hardware or a second floppy drive, which
+   is also a crucial reason for an emulator being technically unable to
+   access real Amiga disks inserted in a standard PC floppy disk drive.
+
+   Commodore never upgraded the Amiga chip set to support high-density
+   floppies, but sold a custom drive (made by Chinon) that spun at half
+   speed (150 RPM) when a high-density floppy was inserted, enabling the
+   existing floppy controller to be used. This drive was introduced with
+   the launch of the Amiga 3000, although the later Amiga 1200 was only
+   fitted with the standard DD drive. The Amiga HD disks could handle 1760
+   kB, but using special software programs it could hold even more data. A
+   company named Kolff Computer Supplies also made an external HD floppy
+   drive (KCS Dual HD Drive) available which could handle HD format
+   diskettes on all Amiga computer systems. They were also famous for the
+   KCS Power Cartridge.
+
+   Because of storage reasons, the use of emulators and preserving data,
+   many disks were packed into disk-images. Currently popular formats are
+   .ADF ( Amiga Disk File), .DMS ( DiskMasher) and .IPF ( Interchangeable
+   Preservation Format) files. The DiskMasher format is
+   copyright-protected and has problems storing particular sequences of
+   bits due to bugs in the compression algorithm, but was widely used in
+   the pirate and demo scenes. ADF has been around for almost as long as
+   the Amiga itself though it was not initially called by that name. Only
+   with the advent of the Internet and Amiga emulators has it become a
+   popular way of distributing disk images. IPF files were created to
+   allow preservation of commercial games which have copy protection,
+   which is something that ADF and DMS unfortunately cannot do.
+
+The Acorn Archimedes
+
+   Another machine using a similar "advanced" disk format was the British
+   Acorn Archimedes, which could store 800 kB on a 3½-inch DD floppy using
+   the ADFS D and E formats. Later Archimedes models and the Risc PC could
+   also store 1600 kB on a 3½-inch HD floppy using ADFS's F format. It
+   could also read and write disk formats from other machines, for example
+   the Atari ST and the IBM PC. It was also capable of reading and writing
+   the 640 kB format of earlier versions of ADFS for the BBC model B, B+,
+   Master and the Acorn Electron. With third party software it could even
+   read the BBC Micro's original single density DFS disks. The Amiga's
+   disks could not be read as they used a non-standard sector size and
+   unusual sector gap markers.
+
+12-inch floppy disks
+
+   In the late 1970s some IBM mainframes also used a 12-inch (30 cm)
+   floppy disk, but little information is currently available about their
+   internal format or capacity.
+
+4-inch floppies
+
+   IBM in the mid-80s developed a 4-inch floppy. This program was driven
+   by aggressive cost goals, but missed the pulse of the industry. The
+   prospective users, both inside and outside IBM, preferred
+   standardization to what by release time were small cost reductions, and
+   were unwilling to retool packaging, interface chips and applications
+   for a proprietary design. The product never appeared in the light of
+   day, and IBM wrote off several hundred million dollars of development
+   and manufacturing facility.
+
+Auto-loaders
+
+   IBM developed, and several companies copied, an autoloader mechanism
+   that could load a stack of floppies one at a time into a drive unit.
+   These were very bulky systems, and suffered from media hangups and
+   chew-ups more than anyone liked, but they were a partial answer to
+   replication and large removable storage needs. The smaller 5¼- and
+   3½-inch floppy made this a much easier technology to perfect.
+
+Floppy mass storage
+
+   A number of companies, including IBM and Burroughs, experimented with
+   using large numbers of unenclosed disks to create massive amounts of
+   storage. The Burroughs system used a stack of 256 12-inch disks,
+   spinning at high speed. The disk to be accessed was selected by using
+   air jets to part the stack, and then a pair of heads flew over the
+   surface as in any standard hard disk drive. This approach in some ways
+   anticipated the Bernoulli disk technology implemented in the Iomega
+   Bernoulli Box, but head crashes or air failures were spectacularly
+   messy. The program did not reach production.
+
+2-inch floppy disks
+
+   2-inch Video Floppy Disk from Canon.
+   Enlarge
+   2-inch Video Floppy Disk from Canon.
+
+   A small floppy disk was also used in the late 1980s to store video
+   information for still video cameras such as the Sony Mavica (not to be
+   confused with current Digital Mavica models) and the Ion and Xapshot
+   cameras from Canon. It was officially referred to as a Video Floppy (or
+   VF for short).
+
+   VF was not a digital data format; each track on the disk stored one
+   video field in the analog interlaced composite video format in either
+   the North American NTSC or European PAL standard. This yielded a
+   capacity of 25 images per disk in frame mode and 50 in field mode.
+
+   The same media was used digitally formatted - 720 kB double-sided,
+   double-density - in the Zenith Minisport laptop computer circa 1989.
+   Although the media exhibited nearly identical performance to the
+   3½-inch disks of the time, it was not successful.
+
+Ultimate capacity, speed
+
+   It is not easy to provide an answer for data capacity, as there are
+   many factors involved, starting with the particular disk format used.
+   The differences between formats and encoding methods can result in data
+   capacities ranging from 720 kB or less up to 1.72 megabytes (MB) or
+   even more on a standard 3½-inch high-density floppy, just from using
+   special floppy disk software, such as the fdformat utility, which
+   enables "standard" 3½-inch HD floppy drives to format HD disks at 1.62,
+   1.68 or 1.72 MB, though reading them back on another machine is another
+   story. These techniques require much tighter matching of drive head
+   geometry between drives; this is not always possible and cannot be
+   relied upon. The LS-240 drive supports a (rarely used) 32 MB capacity
+   on standard 3½-inch HD floppies—it is, however, a write-once technique,
+   and cannot be used in a read/write/read mode. All the data must be read
+   off, changed as needed and rewritten to the disk. The format also
+   requires an LS-240 drive to read.
+
+   Sometimes, however, manufacturers provide an "unformatted capacity"
+   figure, which is roughly 2.0 MB for a standard 3½-inch HD floppy, and
+   should imply that data density cannot (or should not) exceed a certain
+   amount. There are, however, some special hardware/software tools, such
+   as the CatWeasel floppy disk controller and software, which claim up to
+   2.23 MB of formatted capacity on a HD floppy. Such formats are not
+   standard, hard to read in other drives and possibly even later with the
+   same drive, and are probably not very reliable. It is probably true
+   that floppy disks can surely hold an extra 10–20% formatted capacity
+   versus their "nominal" values, but at the expense of reliability or
+   hardware complexity.
+
+   3½-inch HD floppy drives typically have a transfer rate of 500 kilo
+   baud. While this rate cannot be easily changed, overall performance can
+   be improved by optimizing drive access times, shortening some BIOS
+   introduced delays (especially on the IBM PC and compatible platforms),
+   and by changing the sector:shift parameter of a disk, which is,
+   roughly, the numbers of sectors that are skipped by the drive's head
+   when moving to the next track.
+
+   This happens because sectors are not typically written exactly in a
+   sequential manner but are scattered around the disk, which introduces
+   yet another delay. Older machines and controllers may take advantage of
+   these delays to cope with the data flow from the disk without having to
+   actually stop it.
+
+   By changing this parameter, the actual sector sequence may become more
+   adequate for the machine's speed. For example, an IBM format 1440 kB
+   disk formatted with a sector:shift ratio of 3:2 has a sequential
+   reading time (for reading all of the disk in one go) of just 1 minute,
+   versus 1 minute and 20 seconds or more of a "normally" formatted disk.
+   It is interesting to note that the "specially" formatted disk is
+   very—if not completely—compatible with all standard controllers and
+   BIOS, and generally requires no extra software drivers, as the BIOS
+   generally "adapts" well to this slightly modified format.
+
+Usability
+
+   One of the chief usability problems of the floppy disk is its
+   vulnerability. Even inside a closed plastic housing, the disk medium is
+   still highly sensitive to dust, condensation and temperature extremes.
+   As with any magnetic storage, it is also vulnerable to magnetic fields.
+   Blank floppies have usually been distributed with an extensive set of
+   warnings, cautioning the user not to expose it to conditions which can
+   endanger it.
+
+   Users damaging floppy disks (or their contents) were once a staple of
+   "stupid user" folklore among computer technicians. These stories poked
+   fun at users who stapled floppies to papers, made faxes or photocopies
+   of them when asked to "copy a disk", or stored floppies by holding them
+   with a magnet to a file cabinet. The flexible 5¼-inch disk could also
+   (folklorically) be abused by rolling it into a typewriter to type a
+   label, or by removing the disk medium from the plastic enclosure used
+   to store it safely.
+
+   On the other hand, the 3½-inch floppy has also been lauded for its
+   mechanical usability by HCI expert Donald Norman:
+
+     A simple example of a good design is the 3½-inch magnetic diskette
+     for computers, a small circle of "floppy" magnetic material encased
+     in hard plastic. Earlier types of floppy disks did not have this
+     plastic case, which protects the magnetic material from abuse and
+     damage. A sliding metal cover protects the delicate magnetic surface
+     when the diskette is not in use and automatically opens when the
+     diskette is inserted into the computer. The diskette has a square
+     shape: there are apparently eight possible ways to insert it into
+     the machine, only one of which is correct. What happens if I do it
+     wrong? I try inserting the disk sideways. Ah, the designer thought
+     of that. A little study shows that the case really isn't square:
+     it's rectangular, so you can't insert a longer side. I try backward.
+     The diskette goes in only part of the way. Small protrusions,
+     indentations, and cutouts, prevent the diskette from being inserted
+     backward or upside down: of the eight ways one might try to insert
+     the diskette, only one is correct, and only that one will fit. An
+     excellent design.
+
+The floppy as a metaphor
+
+   For more than two decades, the floppy disk was the primary external
+   writable storage device used. Also, in a non-network environment,
+   floppies have been the primary means of transferring data between
+   computers (sometimes jokingly referred to as Sneakernet or Frisbeenet).
+   Floppy disks are also, unlike hard disks, handled and seen; even a
+   novice user can identify a floppy disk (although this may change as
+   they become less common). Because of all these factors, the image of
+   the floppy disk has become a metaphor for saving data, and the floppy
+   disk symbol is often seen in programs on buttons and other user
+   interface elements related to saving files.
+
+Floppy trivia
+
+     * In some places, especially South Africa and Zimbabwe, 3½-inch
+       floppy disks have commonly been called stiffies or stiffy disks,
+       because of their "stiff" (rigid) cases, which are contrasted with
+       the flexible "floppy" cases of 5¼-inch floppies. In Finnish, the
+       term is korppu (rusk, crumpet, biscuit) due to its rigidity
+       compared to 5¼-inch lerppu (floppy).
+     * Even if such a format was hardly officially supported on any
+       system, it is possible to "force" a 3½-inch floppy disk drive to be
+       recognized by the system as a 5¼-inch 360 kB or 1200 kB one (on PCs
+       and compatibles, this can be done by simply changing the CMOS BIOS
+       settings) and thus format and read non-standard disk formats, such
+       as a double sided 360 kB 3½-inch disk. Possible applications
+       include data exchange with obsolete CP/M systems, for example with
+       an Amstrad CPC.
+     * If the cable for a 3½-inch floppy disk drive is incorrectly
+       connected to the floppy drive controller with a 180°-twist, the
+       floppy drive LED will remain on.
+     * In the early days, manufacturers of "single sided" floppy disks
+       would advise consumers that they "certified" only one side (hence
+       the name single-sided), and if the user wanted to use the other
+       side of the diskette, they should buy the more expensive
+       "double-sided" variety of floppy disks. Consumers quickly found
+       that since some single-head floppy drives had their read/write
+       heads on the bottom and some had them on the top, that the
+       manufacturers ended up certifying both sides anyway, thereby making
+       the single-sided diskettes usable on both sides regardless.
+     * On the disk drives of the old Atari 8-bit family of computers, the
+       drive activity indicator LEDs were actually part of the power
+       circuit. If they burned out, the drive would stop working.
+     * Atari developed a 3.5" 360k drive for their 8-bit line, the XF351.
+       However the Tramiel's in their marketing wisdom chose to avoid
+       confusion with their ST line and it was never released, much to the
+       chagrin of many 8-bit users to this day.
+     * On the disk drives of the Atari ST, Commodore computers, and
+       possibly others as well, the drive activity indicator LEDs were
+       software controllable. This was put to use in some games, for
+       example in the ST version of Lemmings, where the LED would blink as
+       the three last building bricks were used by the bridge builder
+       lemming. In the absence of audio cues (e.g., when not listening to
+       the in-game sound), this was critical to prevent the builder
+       lemming from falling down after completing a bridge.
+     * The " Elk Cloner" virus of 1982 exploited a security hole in the
+       booting from a floppy disk to contaminate other floppy disks
+       inserted into the computer since bootup.
+     * Certain software companies used tracking outside the standard track
+       designations for copy protection. One notable game that used this
+       technique was the popular game by Brøderbund Lode Runner which used
+       quarter tracks written on the original disk as a form of copy
+       protection. Because many disk copying programs did not attempt to
+       copy the secret quarter read/write head increment tracks this kind
+       of protection was mostly successful to the average backup program.
+       Because disk drives were unable to reliably write quarter track
+       increments this provided a somewhat reliable protection in general.
+     * It was possible with the Commodore 1541 and 1571 disk drives to
+       vibrate the head carriage against a "Track-0" head stop at varying
+       frequencies to create simple musical melodies.
+     * There is an urban myth that it is safe to view a solar eclipse
+       through the film of a floppy removed from its case. Despite some
+       anecdotal support, this is in fact dangerous and can lead to
+       retinal damage and even blindness. Moreover, it produces poor image
+       quality compared to filters designed for this purpose.
+     * 3½-inch disks were frequently advertised in Europe as "88,9 mm
+       disks"—an accurate, if overly precise, conversion, but the disks
+       are actually 90 mm wide.
+     * The holes on the right side of a 3½-inch disk can be altered as to
+       'fool' some disk drives or operating systems (others such as the
+       Acorn Archimedes simply do not care about the holes) into treating
+       the disk as a higher or lower density one, for backward
+       compatibility or economical reasons. Popular modifications include:
+          + Drilling or cutting an extra hole into the right-lower side of
+            a 3½-inch DD disk (symmetrical to the write-protect hole) in
+            order to format the DD disk into a HD one. This was a popular
+            practice during the early 1990s, as most people switched to HD
+            from DD during those days and some of them "converted" some or
+            all of their DD disks into HD ones, for gaining an extra
+            "free" 720 kiB of disk space. The success ratio was very high,
+            especially as late DD disks used the same materials as HD
+            ones, so they had no problem supporting the higher density. In
+            general, only very old (made before 1989) DD disks were likely
+            to exhibit faults and read/write errors.
+          + Vice versa, taping the right hole on a HD 3½-inch disk enables
+            it to be 'downgraded' to DD format. This may sound
+            counterproductive at first, but there are practical scenarios,
+            e.g. compatibility issues with older computers, drives or
+            devices that use DD floppies, like some electronic keyboard
+            instruments and samplers where a 'downgraded' disk can be
+            useful, as factory-made DD disks have become hard to find
+            after the mid-1990s. See the section "Compatibility" above. It
+            is important to note that due to read/write voltage
+            differences in the heads of DD vs. HD disks, writing to an HD
+            floppy with a DD drive (or an HD drive in DD mode) is widely
+            considered to be a highly unreliable method of storing data.
+               o Note: By default, many older HD drives will recognize ED
+                 disks as DD ones, since they lack the HD-specific holes
+                 and the drives lack the sensors to detect the ED-specific
+                 hole. Most DD drives will also handle ED (and some even
+                 HD) disks as DD ones.
+          + Similarly, drilling an HD-like hole (under the ED one) into an
+            ED (2880 kiB) disk for 'downgrading' it to HD (1440 kiB)
+            format. This can turn useful if there are many unusable ED
+            disks due to the lack of a specific ED drive, which can now be
+            used as normal HD disks. In general, they work pretty well.
+          + Finally, it is possible to "upgrade" a HD disk into an ED one
+            by drilling an ED-positioned hole above the HD one, although
+            the considerations made for DD vs HD disk material are
+            probably not valid for HD vs ED, and such "upgraded" disks are
+            probably not reliable.
+          + Double disk 'upgrades' or 'downgrades' are possible by
+            drilling ED holes into DD disks or taping ED disks.
+     * New Order's classic dance track " Blue Monday" owes some of its
+       popularity to the 12-inch version of the single initially being
+       shipped in a sleeve designed to resemble a 5¼-inch floppy. Legend
+       has it that it was so expensive to produce the sleeve that Factory
+       Records lost money despite the single's runaway success. Fatboy
+       Slim's 1995 album Better Living Through Chemistry features a
+       3½-inch floppy with the track names on its label as the main album
+       art in homage to Blue Monday.
+     * In Marvel's Transformers comics continuity, Optimus Prime's
+       personality was downloaded onto a floppy disk after his death.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Floppy_disk"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

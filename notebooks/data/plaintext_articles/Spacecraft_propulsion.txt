@@ -1,0 +1,619 @@
+   #copyright
+
+Spacecraft propulsion
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics; Space
+transport
+
+   A remote camera captures a close-up view of a Space Shuttle Main Engine
+   during a test firing at the John C. Stennis Space Center in Hancock
+   County, Mississippi
+   Enlarge
+   A remote camera captures a close-up view of a Space Shuttle Main Engine
+   during a test firing at the John C. Stennis Space Centre in Hancock
+   County, Mississippi
+
+   Propulsion means to add speed or acceleration to an object, by an
+   engine or other similar device. The word 'propulsion' can be used with
+   many other words (such as jet, rocket, spacecraft) to become-'jet
+   propulsion', 'rocket propulsion', or 'space craft propulsion' etc.
+
+   Spacecraft propulsion is used to change the velocity of spacecraft and
+   artificial satellites. There are many different methods. Each method
+   has drawbacks and advantages, and spacecraft propulsion is an active
+   area of research. Most spacecraft today are propelled by heating the
+   reaction mass and allowing it to EJECT out from the back/rear of the
+   vehicle. This sort of engine is called a rocket engine.
+
+   All current spacecraft use chemical rockets ( bipropellant or
+   solid-fuel) for launch, though some (such as the Pegasus rocket and
+   SpaceShipOne) have used air-breathing engines on their first stage.
+   Most satellites have simple reliable chemical rockets (often
+   monopropellant rockets) or resistojet rockets to keep their station,
+   although some use momentum wheels for attitude control. Newer
+   geo-orbiting spacecraft are starting to use electric propulsion for
+   north-south stationkeeping. Interplanetary vehicles mostly use chemical
+   rockets as well, although a few have experimentally used ion thrusters
+   (a form of electric propulsion) with some success.
+
+The necessity for propulsion systems
+
+   Artificial satellites must be launched into orbit, and once there they
+   must be placed in their nominal orbit. Once in the desired orbit, they
+   often need some form of attitude control so that they are correctly
+   pointed with respect to the Earth, the Sun, and possibly some
+   astronomical object of interest. They are also subject to drag from the
+   thin atmosphere, so that to stay in orbit for a long period of time
+   some form of propulsion is occasionally necessary to make small
+   corrections ( orbital stationkeeping). Many satellites need to be moved
+   from one orbit to another from time to time, and this also requires
+   propulsion. When a satellite has exhausted its ability to adjust its
+   orbit, its useful life is over.
+
+   Spacecraft designed to travel further also need propulsion methods.
+   They need to be launched out of the Earth's atmosphere just as
+   satellites do. Once there, they need to leave orbit and move around.
+
+   For interplanetary travel, a spacecraft must use its engines to leave
+   Earth orbit. Once it has done so, it must somehow make its way to its
+   destination. Current interplanetary spacecraft do this with a series of
+   short-term orbital adjustments. In between these adjustments, the
+   spacecraft simply falls freely along its orbit. The simplest
+   fuel-efficient means to move from one circular orbit to another is with
+   a Hohmann transfer orbit: the spacecraft begins in a roughly circular
+   orbit around the Sun. A short period of thrust in the direction of
+   motion accelerates or decelerates the spacecraft into an elliptical
+   orbit around the Sun which is tangential to its previous orbit and also
+   to the orbit of its destination. The spacecraft falls freely along this
+   elliptical orbit until it reaches its destination, where another short
+   period of thrust accelerates or decelerates it to match the orbit of
+   its destination. Special methods such as aerobraking are sometimes used
+   for this final orbital adjustment.
+   Artist's conception of a solar sail
+   Enlarge
+   Artist's conception of a solar sail
+
+   Some spacecraft propulsion methods such as solar sails provide very low
+   but inexhaustible thrust; an interplanetary vehicle using one of these
+   methods would follow a rather different trajectory, either constantly
+   thrusting against its direction of motion in order to decrease its
+   distance from the Sun or constantly thrusting along its direction of
+   motion to increase its distance from the Sun.
+
+   Spacecraft for interstellar travel also need propulsion methods. No
+   such spacecraft has yet been built, but many designs have been
+   discussed. Since interstellar distances are very great, a tremendous
+   velocity is needed to get a spacecraft to its destination in a
+   reasonable amount of time. Acquiring such a velocity on launch and
+   getting rid of it on arrival will be a formidable challenge for
+   spacecraft designers.
+
+Effectiveness of propulsion systems
+
+   The earth is situated fairly deep in the gravity well and it takes a
+   velocity of 11.2 metres/second ( escape velocity) or more to jump out
+   of it! As we are in the habit of living in the gravitational field of
+   1g (9.8 m/second square), an ideal propulsion system would be one that
+   provides a continuous acceleration of 1g (though human bodies can
+   tolerate accelerations up to 15g in few cases).
+
+   The rocket or spaceship having such a propulsion system will quickly
+   (as compared with time involved in journeys made by existing rockets)
+   accelerate to near the speed of light plus the occupants will be free
+   from all the ill effects of free fall, such as nausea, muscular
+   weakness, reduced sense of taste, or leaching of calcium from their
+   bones.
+
+   When in space, the purpose of a propulsion system is to change the
+   velocity v of a spacecraft. Since this is more difficult for more
+   massive spacecraft, designers generally discuss momentum, mv. The
+   amount of change in momentum is called impulse. So the goal of a
+   propulsion method in space is to create an impulse.
+
+   When launching a spacecraft from the Earth, a propulsion method must
+   overcome a higher gravitational pull to provide a net positive
+   acceleration. In orbit, the spacecraft tangential velocity provides a
+   centrifugal force that counterweighs the gravity pull at a given path
+   (which is actually the orbit path) so that any additional impulse, even
+   very tiny, will result in a change in the orbit path.
+
+   The rate of change of velocity is called acceleration, and the rate of
+   change of momentum is called force. To reach a given velocity, one can
+   apply a small acceleration over a long period of time, or one can apply
+   a large acceleration over a short time. Similarly, one can achieve a
+   given impulse with a large force over a short time or a small force
+   over a long time. This means that for maneuvering in space, a
+   propulsion method that produces tiny accelerations but runs for a long
+   time can produce the same impulse as a propulsion method that produces
+   large accelerations for a short time. When launching from a planet,
+   tiny accelerations cannot overcome the planet's gravitational pull and
+   so cannot be used.
+
+   The law of conservation of momentum means that in order for a
+   propulsion method to change the momentum of a space craft it must
+   change the momentum of something else as well. A few designs take
+   advantage of things like magnetic fields or light pressure in order to
+   change the spacecraft's momentum, but in free space the rocket must
+   bring along some mass to accelerate away in order to push itself
+   forward. Such mass is called reaction mass.
+
+   In order for a rocket to work, it needs two things: reaction mass and
+   energy. The impulse provided by launching a particle of reaction mass
+   having mass m at velocity v is mv. But this particle has kinetic energy
+   mv^2/2, which must come from somewhere. In a conventional solid,
+   liquid, or hybrid rocket, the fuel is burned, providing the energy, and
+   the reaction products are allowed to flow out the back, providing the
+   reaction mass. In an ion thruster, electricity is used to accelerate
+   ions out the back. Here some other source must provide the electrical
+   energy (perhaps a solar panel or a nuclear reactor), while the ions
+   provide the reaction mass.
+
+   When discussing the efficiency of a propulsion system, designers often
+   focus on effectively using the reaction mass. Reaction mass must be
+   carried along with the rocket and is irretrievably consumed when used.
+   One way of measuring the amount of impulse that can be obtained from a
+   fixed amount of reaction mass is the specific impulse, the impulse per
+   unit weight-on-Earth (typically designated by I[sp]). The unit for this
+   value is seconds. Since the weight on Earth of the reaction mass is
+   often unimportant when discussing vehicles in space, specific impulse
+   can also be discussed in terms of impulse per unit mass. This alternate
+   form of specific impulse uses the same units as velocity (e.g. m/s),
+   and in fact it is equal to the effective exhaust velocity of the engine
+   (typically designated v[e]). Confusingly, both values are sometimes
+   called specific impulse. The two values differ by a factor of g, the
+   acceleration due to gravity on the Earth's surface (I[sp]g = v[e]).
+
+   A rocket with a high exhaust velocity can achieve the same impulse with
+   less reaction mass. However, the energy required for that impulse is
+   proportional to the square of the exhaust velocity, so that more
+   mass-efficient engines require much more energy. This is a problem if
+   the engine is to provide a large amount of thrust. To generate a large
+   amount of impulse per second, it must use a large amount of energy per
+   second. So highly efficient engines require enormous amounts of energy
+   per second to produce high thrusts. As a result, most high-efficiency
+   engine designs also provide very low thrust.
+
+Calculations
+
+   Burning the entire usable propellant of a spacecraft through the
+   engines in a straight line in free space would produce a net velocity
+   change to the vehicle; this number is termed ' delta-v'.
+
+   The total Δv of a vehicle can be calculated using the rocket equation,
+   where M is the mass of fuel (or rather the mass of propellant), P is
+   the mass of the payload (including the rocket structure), and v[e] is
+   the velocity of the rocket exhaust. This is known as the Tsiolkovsky
+   rocket equation:
+
+          \Delta V = -v_e \ln \left(\frac{M+P}{P}\right)
+
+   For historical reasons, as discussed above, v[e] is sometimes written
+   as
+
+          v[e] = I[sp]g[o]
+
+   where I[sp] is the specific impulse of the rocket, measured in seconds,
+   and g[o] is the gravitational acceleration at sea level.
+
+   For a long voyage, the majority of the spacecraft's mass may be
+   reaction mass. Since a rocket must carry all its reaction mass with it,
+   most of the first reaction mass goes towards accelerating reaction mass
+   rather than payload. If we have a payload of mass P, the spacecraft
+   needs to change its velocity by Δv, and the rocket engine has exhaust
+   velocity v[e], then the mass M of reaction mass which is needed can be
+   calculated using the rocket equation and the formula for I[sp]
+
+          M = P \left(e^{\Delta v/v_e}-1\right)
+
+   For Δv much smaller than v[e], this equation is roughly linear, and
+   little reaction mass is needed. If Δv is comparable to v[e], then there
+   needs to be about twice as much fuel as combined payload and structure
+   (which includes engines, fuel tanks, and so on). Beyond this, the
+   growth is exponential; speeds much higher than the exhaust velocity
+   require very high ratios of fuel mass to payload and structural mass.
+
+   In order to achieve this, some amount of energy must go into
+   accelerating the reaction mass. Every engine will waste some energy,
+   but even assuming 100% efficiency, the engine will need energy
+   amounting to
+
+          \begin{matrix} \frac{1}{2} \end{matrix} Mv_e^2
+
+   Comparing the rocket equation (which shows how much energy ends up in
+   the final vehicle) and the above equation (which shows the total energy
+   required) shows that even with 100% engine efficiency, certainly not
+   all energy supplied ends up in the vehicle - some of it, indeed usually
+   most of it, ends up as kinetic energy of the exhaust.
+
+   For a mission, for example, when launching from or landing on a planet,
+   the effects of gravitational attraction and any atmospheric drag must
+   be overcome by using fuel. It is typical to combine the effects of
+   these and other effects into an effective mission delta-v. For example
+   a launch mission to low Earth orbit requires about 9.3-10 km/s delta-v.
+   These mission delta-vs are typically numerically integrated on a
+   computer.
+
+   Suppose we want to send a 10,000 kg space probe to Mars. The required
+   Δv from LEO is approximately 3000 m/s, using a Hohmann transfer orbit.
+   (A manned probe would need to take a faster route and use more fuel).
+   For the sake of argument, let us say that the following thrusters may
+   be used:
+   Engine Effective Exhaust Velocity
+   (m/s) Specific impulse
+   (s) Fuel mass
+   (kg) Energy required
+   (GJ) Energy per kg
+   of propellant minimum power
+   per N of thrust
+   Solid rocket
+   1,000 100 190,000 95 500 kJ 0.5 kW
+   Bipropellant rocket
+   5,000 500 8,200 103 12.6 MJ 2.5 kW
+   Ion thruster 50,000 5,000 620 775 1.25 GJ 25 kW
+
+   Observe that the more fuel-efficient engines can use far less fuel; its
+   mass is almost negligible (relative to the mass of the payload and the
+   engine itself) for some of the engines. However, note also that these
+   require a large total amount of energy. For earth launch engines
+   require a thrust to weight ratio of much more than unity. To do this
+   they would have to be supplied with Gigawatts of power — equivalent to
+   a major metropolitan generating station. This would need to be carried
+   on the vehicle, which is clearly impractical.
+
+   Instead, a much smaller, less powerful generator may be included which
+   will take much longer to generate the total energy needed. This lower
+   power is only sufficient to accelerate a tiny amount of fuel per
+   second, but over long periods the velocity will be finally achieved.
+   For example. it took the Smart 1 more than a year to reach the Moon,
+   while with a chemical rocket it takes a few days. Because the ion drive
+   needs much less fuel, the total launched mass is usually lower, which
+   typically results in a lower overall cost.
+
+   Interestingly, for a mission delta-v, there is a fixed I[sp] that
+   minimises the overall energy used by the rocket. This comes to an
+   exhaust velocity of about ⅔ of the mission delta-v (see the energy
+   computed from the rocket equation). Drives with a specific impulse that
+   is both high and fixed such as Ion thrusters have exhaust velocities
+   that can be enormously higher than this ideal, and thus end up
+   powersource limited and give very low thrust. Where the vehicle
+   performance is power limited, e.g. if solar power or nuclear power is
+   used, then in the case of a large v[e] the maximum acceleration is
+   inversely proportional to it. Hence the time to reach a required
+   delta-v is proportional to v[e]. Thus the latter should not be too
+   large.
+
+   On the other hand if the exhaust velocity can be made to vary so that
+   at each instant it is equal and opposite to the vehicle velocity then
+   the absolute minimum energy usage is achieved. When this is achieved,
+   the exhaust stops in space ↑  and has no kinetic energy; and all the
+   energy ends up in the vehicle (in principle such a drive would be 100%
+   efficient, in practice there would be thermal losses from within the
+   drive system and residual heat in the exhaust). However in most cases
+   this uses an impractical quantity of propellant, but is a useful
+   theoretical consideration.
+
+   Some drives (such as VASIMR) actually can significantly vary their
+   exhaust velocity. This can help reduce propellant usage and improve
+   acceleration at different stages of the flight. However the best
+   energetic performance and acceleration is still obtained when the
+   exhaust velocity is close to the vehicle speed. Proposed ion and plasma
+   drives usually have exhaust velocities enormously higher than that
+   ideal (in the case of VASIMR the lowest quoted speed is around 15000
+   m/s compared to a mission delta-v from high Earth orbit to Mars of
+   about 4000m/s).
+
+Propulsion methods
+
+   Propulsion methods can be classified based on their means of
+   accelerating the reaction mass. There are also some special methods for
+   launches, planetary arrivals, and landings.
+
+Rocket engines
+
+   A "cold" (un-ignited) rocket engine test at NASA
+   Enlarge
+   A "cold" (un-ignited) rocket engine test at NASA
+
+   Most rocket engines are internal combustion heat engines (although non
+   combusting forms exist). Rocket engines generally produce a high
+   temperature reaction mass, as a hot gas. This is achieved by combusting
+   a solid, liquid or gaseous fuel with an oxidiser within a combustion
+   chamber. The extremely hot gas is then allowed to escape through a
+   high-expansion ratio nozzle. This bell-shaped nozzle is what gives a
+   rocket engine its characteristic shape. The effect of the nozzle is to
+   dramatically accelerate the mass, converting most of the thermal energy
+   into kinetic energy. Exhaust speeds as high as 10 times the speed of
+   sound at sea level are not uncommon.
+
+   Rockets emitting plasma can potentially carry out reactions inside a
+   magnetic bottle and release the plasma via a magnetic nozzle, so that
+   no solid matter need come in contact with the plasma. Of course, the
+   machinery to do this is complex, but research into nuclear fusion has
+   developed methods, some of which have been used in speculative
+   propulsion systems.
+
+   See rocket engine for a listing of various kinds of rocket engines
+   using different heating methods, including chemical, electrical, solar,
+   and nuclear.
+
+Airbreathing engines for launch
+
+   Studies generally show that conventional air-breathing engines, such as
+   ramjets or turbojets are basically too heavy (have too low a
+   thrust/weight ratio) to give any significant performance improvement
+   when installed on a launch vehicle. However, they can be air launched
+   from a separate lift vehicle (e.g. X-1, Pegasus and SS1). On the other
+   hand, very lightweight or very high speed engines have been proposed
+   that take advantage of the air during ascent:
+     * SABRE - a lightweight hydrogen fuelled turbojet with precooler
+     * ATREX - a lightweight hydrogen fuelled turbojet with precooler
+     * Liquid air cycle engine - a hydrogen fuelled jet engine that
+       liquifies the air before burning it in a rocket engine
+     * Scramjet - jet engines that use supersonic combustion
+
+Electromagnetic acceleration of reaction mass
+
+   This test engine accelerates ions using electrostatic forces
+   Enlarge
+   This test engine accelerates ions using electrostatic forces
+
+   Rather than relying on high temperature and fluid dynamics to
+   accelerate the reaction mass to high speeds, there are a variety of
+   methods that use electrostatic or electromagnetic forces to accelerate
+   the reaction mass directly. Usually the reaction mass is a stream of
+   ions. Such an engine requires electric power to run, and high exhaust
+   velocities require large amounts of energy.
+
+   For these drives it turns out that to a reasonable approximation fuel
+   use, energetic efficiency and thrust are all inversely proportional to
+   exhaust velocity. Their very high exhaust velocity means they require
+   huge amounts of energy and thus with practical powersources provide low
+   thrust, but use hardly any fuel.
+
+   For some missions, solar energy may be sufficient, and has very often
+   been used, but for others nuclear energy will be necessary; engines
+   drawing their power from a nuclear source are called nuclear electric
+   rockets.
+
+   With any current source of power, chemical, nuclear or solar, the
+   maximum amount of power that can be generated greatly limits the
+   maximum amount of thrust that can be produced to a small value. Power
+   generation also adds significant mass to the spacecraft, and ultimately
+   the weight of the power source limits the performance of the vehicle.
+   Current nuclear power generators are approximately half the weight of
+   solar panels per watt of energy supplied, at terrestrial distances from
+   the Sun. Chemical power generators are not used due to the far lower
+   total available energy. Beamed power to the spacecraft shows potential.
+
+   The dissipation of waste heat from the powerplant may make any
+   propulsion system requiring a separate power source infeasible for
+   interstellar travel.
+
+   Some electromagnetic methods:
+     * Ion thruster
+          + Electrostatic ion thruster
+          + Field Emission Electric Propulsion
+          + Hall effect thruster
+          + Helicon Double Layer Thruster
+          + Electrodeless plasma thruster (acceleration by electromagnetic
+            forces; emits plasma)
+          + Pulsed inductive thruster
+     * Magnetoplasmadynamic thruster
+     * Variable specific impulse magnetoplasma rocket
+     * Mass drivers (for propulsion)
+
+Systems without reaction mass carried within the spacecraft
+
+   NASA study of a solar sail. The sail would be half a kilometer wide.
+   Enlarge
+   NASA study of a solar sail. The sail would be half a kilometer wide.
+
+   The law of conservation of momentum states that any engine which uses
+   no reaction mass cannot move the centre of mass of a spaceship
+   (changing orientation, on the other hand, is possible). But space is
+   not empty, especially space inside the Solar System; there are
+   gravitation fields, magnetic fields, solar wind and solar radiation.
+   Various propulsion methods try to take advantage of these. However,
+   since these phenomena are diffuse in nature, corresponding propulsion
+   structures need to be proportionately large.
+
+   Space drives that need no (or little) reaction mass:
+     * Tether propulsion
+     * Solar sails
+     * Magnetic sails
+     * Mini-magnetospheric plasma propulsion
+
+   For changing the orientation of a satellite or other space vehicle,
+   conservation of angular momentum does not pose a similar constraint.
+   Thus many satellites use momentum wheels to control their orientations.
+   These cannot be the only system for controlling satellite orientation,
+   as the angular momentum built up due to torques from external forces
+   such as solar, magnetic or tidal forces eventually needs to be "bled
+   off" using a secondary system.
+
+Launch mechanisms
+
+   An artist's conception of an electromagnetic catapult on the Moon
+   Enlarge
+   An artist's conception of an electromagnetic catapult on the Moon
+
+   High thrust is of vital importance for Earth launch, thrust has to be
+   greater than weight (see also gravity drag). Many of the propulsion
+   methods above give a thrust/weight ratio of much less than 1, and so
+   cannot be used for launch.
+
+   Exhaust toxicity or other side effects can also have detrimental
+   effects on the environment the spacecraft is launching from, ruling out
+   other propulsion methods, such as most nuclear engines, at least for
+   use from the Earths surface.
+
+   Therefore, all current spacecraft use chemical rocket engines (
+   bipropellant or solid-fuel) for launch.
+
+   One advantage that spacecraft have in launch is the availability of
+   infrastructure on the ground to assist them. Proposed ground-assisted
+   launch mechanisms include:
+     * Space elevator
+     * Orbital airship
+     * Space fountain
+     * Hypersonic skyhook
+     * Electromagnetic catapult ( railgun, coilgun)
+     * Space gun ( Project HARP, ram accelerator)
+     * Laser propulsion ( Lightcraft)
+
+Planetary arrival and landing
+
+   A test version of the MARS Pathfinder airbag system
+   Enlarge
+   A test version of the MARS Pathfinder airbag system
+
+   When a vehicle is to enter orbit around its destination planet, or when
+   it is to land, it must adjust its velocity. This can be done using all
+   the methods listed above (provided they can generate a high enough
+   thrust), but there are a few methods that can take advantage of
+   planetary atmospheres and/or surfaces.
+     * Aerobraking allows a spacecraft to reduce the high point of an
+       elliptical orbit by repeated brushes with the atmosphere at the low
+       point of the orbit. This can save a considerable amount of fuel
+       since it takes much less delta-V to enter an elliptical orbit
+       compared to a low circular orbit. Since the braking is done over
+       the course of many orbits, heating is comparatively minor, and a
+       heat shield is not required. This has been done on several Mars
+       missions such as Mars Global Surveyor, Mars Odyssey and Mars
+       Reconnaissance Orbiter, and at least one Venus mission, Magellan.
+     * Aerocapture is a much more aggressive manoeuver, converting an
+       incoming hyperbolic orbit to an elliptical orbit in one pass. This
+       requires a heat shield and much trickier navigation, since it must
+       be completed in one pass through the atmosphere, and unlike
+       aerobraking no preview of the atmosphere is possible. If the intent
+       is to remain in orbit, then at least one more propulsive maneuver
+       is required after aerocapture—otherwise the low point of the
+       resulting orbit will remain in the atmosphere, resulting in
+       eventual re-entry. Aerocapture has not yet been tried on a
+       planetary mission, but the re-entry skip by Zond 6 and Zond 7 upon
+       lunar return were aerocapture maneuvers, since they turned a
+       hyperbolic orbit into an elliptical orbit. On these missions, since
+       there was no attempt to raise the perigee after the aerocapture,
+       the resulting orbit still intersected the atmosphere, and re-entry
+       occurred at the next perigee.
+     * Parachutes can land a probe on a planet with an atmosphere, usually
+       after the atmosphere has scrubbed off most of the velocity, using a
+       heat shield.
+     * Airbags can soften the final landing.
+     * Lithobraking, or stopping by simply smashing into the target, is
+       usually done by accident. However, it may be done deliberately with
+       the probe expected to survive (see, for example, Deep Space 2).
+       Very sturdy probes and low approach velocities are required.
+
+   Gravitational slingshots can also be used to carry a probe onward to
+   other destinations.
+
+Methods that may require breaking the laws of physics
+
+   Artist's conception of a warp drive design
+   Enlarge
+   Artist's conception of a warp drive design
+
+   In addition, a variety of hypothetical propulsion techniques have been
+   considered that would require entirely new principles of physics to
+   realize. To date, such methods are highly speculative and include:
+     * Diametric drive
+     * Pitch drive
+     * Bias drive
+     * Disjunction drive
+     * Alcubierre drive (Warp drive)
+     * Differential sail
+     * Wormholes - theoretically possible, but impossible in practice with
+       current technology
+     * Antigravity - requires the concept of antigravity; theoretically
+       impossible
+     * Reactionless drives - breaks the law of conservation of momentum;
+       theoretically impossible
+     * EmDrive - again, breaks the law of conservation of momentum;
+       theoretically impossible
+
+Table of methods and their specific impulse
+
+   Below is a summary of some of the more popular, proven technologies,
+   followed by increasingly speculative methods.
+
+   Three numbers are shown. The first is the effective exhaust velocity:
+   the equivalent speed that the propellant leaves the vehicle. This is
+   not necessarily the most important characteristic of the propulsion
+   method, thrust and power consumption and other factors can be, however:
+     * if the delta-v is much more than the exhaust velocity, then
+       exorbitant amounts of fuel are necessary (see the section on
+       calculations, above)
+     * if it is much more than the delta-v, then, proportionally more
+       energy is needed; if the power is limited, as with solar energy,
+       this means that the journey takes a proportionally longer time
+
+   The second and third are the typical amounts of thrust and the typical
+   burn times of the method. Outside a gravitational potential small
+   amounts of thrust applied over a long period will give the same effect
+   as large amounts of thrust over a short period. (This result does not
+   apply when the object is significantly influenced by gravity.)
+
+   CAPTION: Propulsion methods
+
+   Method Effective Exhaust Velocity
+   (m/s) Thrust
+   (N) Duration
+   Propulsion methods in current use
+   Solid rocket 1,000 - 4,000 10^3 - 10^7 minutes
+   Hybrid rocket 1,500 - 4,200 <0.1 - 10^7 minutes
+   Monopropellant rocket 1,000 - 3,000 0.1 - 100 milliseconds - minutes
+   Bipropellant rocket 1,000 - 4,700 0.1 - 10^7 minutes
+   Tripropellant rocket 2,500 - 4,500 minutes
+   Resistojet rocket 2,000 - 6,000 10^-2 - 10 minutes
+   Arcjet rocket 4,000 - 12,000 10^-2 - 10 minutes
+   Hall effect thruster (HET) 8,000 - 50,000 10^-3 - 10 months
+   Electrostatic ion thruster 15,000 - 80,000 10^-3 - 10 months
+   Field Emission Electric Propulsion (FEEP) 100,000 - 130,000 10^-6 -
+   10^-3 weeks
+   Magnetoplasmadynamic thruster (MPD) 20,000 - 100,000 100 weeks
+   Pulsed plasma thruster (PPT)
+   Pulsed inductive thruster (PIT) 50,000 20 months
+   Nuclear electric rocket As electric propulsion method used
+   Currently feasible propulsion methods
+   Solar sails N/A 9 per km²
+   (at 1 AU) Indefinite
+   Tether propulsion N/A 1 - 10^12 minutes
+   Mass drivers (for propulsion) 30,000 - ? 10^4 - 10^8 months
+   Orion Project (Near term nuclear pulse propulsion) 20,000 - 100,000
+   10^9 - 10^12 several days
+   Variable specific impulse magnetoplasma rocket (VASIMR) 10,000 -
+   300,000 40 - 1,200 days - months
+   Nuclear thermal rocket 9,000 10^5 minutes
+   Solar thermal rocket 7,000 - 12,000 1 - 100 weeks
+   Radioisotope rocket 7,000-8,000 months
+   Air-augmented rocket 5,000 - 6,000 0.1 - 10^7 seconds-minutes
+   Liquid air cycle engine 4,500 1000 - 10^7 seconds-minutes
+   SABRE 30,000/4,500 0.1 - 10^7 minutes
+   Dual mode propulsion rocket
+   Technologies requiring further research
+   Magnetic sails N/A Indefinite Indefinite
+   Mini-magnetospheric plasma propulsion 200,000 ~1 N/kW months
+   Nuclear pulse propulsion ( Project Daedalus' drive) 20,000 - 1,000,000
+   10^9 - 10^12 half hour
+   Gas core reactor rocket 10,000 - 20,000 10^3 - 10^6
+   Antimatter catalyzed nuclear pulse propulsion 20,000 - 400,000
+   days-weeks
+   Nuclear salt-water rocket 100,000 10^3 - 10^7 half hour
+   Beam-powered propulsion As propulsion method powered by beam
+   Fission sail
+   Fission-fragment rocket 1,000,000
+   Nuclear photonic rocket 300,000,000 10^-5 - 1 years-decades
+   Space Elevator N/A N/A days
+   Significantly beyond current engineering
+   Fusion rocket 1,300,000-36,000,000
+   Bussard ramjet
+   Antimatter rocket 10,000,000-100,000,000
+   Redshift rocket
+   gravitoelectromagnetic toroidal launchers
+
+   Retrieved from " http://en.wikipedia.org/wiki/Spacecraft_propulsion"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

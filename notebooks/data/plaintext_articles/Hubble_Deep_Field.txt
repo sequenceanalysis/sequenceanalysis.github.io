@@ -1,0 +1,330 @@
+   #copyright
+
+Hubble Deep Field
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+   The Hubble Deep Field
+   Enlarge
+   The Hubble Deep Field
+
+   The Hubble Deep Field (HDF) is an image of a small region in the
+   constellation Ursa Major, based on the results of a series of
+   observations by the Hubble Space Telescope. It covers an area 144
+   arcseconds across, equivalent in angular size to a tennis ball at a
+   distance of 100 metres. The image was assembled from 342 separate
+   exposures taken with the Space Telescope's Wide Field and Planetary
+   Camera 2 over ten consecutive days between December 18 and December 28,
+   1995.
+
+   The field is so small that only a few foreground stars in the Milky Way
+   lie within it; thus, almost all of the 3,000 objects in the image are
+   galaxies, some of which are among the youngest and most distant known.
+   By revealing such large numbers of very young galaxies, the HDF has
+   become a landmark image in the study of the early universe, and it has
+   been the source of almost 400 scientific papers since it was created.
+
+   Three years after the HDF observations were taken, a region in the
+   south celestial hemisphere was imaged in a similar way and named the
+   Hubble Deep Field South. The similarities between the two regions
+   strengthened the belief that the universe is uniform over large scales
+   and that the Earth occupies a typical region in the universe (the
+   cosmological principle). In 2004 a deeper image, known as the Hubble
+   Ultra Deep Field, was constructed from a total of eleven days of
+   observations. This image is the deepest (most sensitive) astronomical
+   image ever made at visible wavelengths.
+
+Conception
+
+   The dramatic improvement in Hubble's imaging capabilities after
+   corrective optics were installed encouraged attempts to obtain very
+   deep images of distant galaxies
+   Enlarge
+   The dramatic improvement in Hubble's imaging capabilities after
+   corrective optics were installed encouraged attempts to obtain very
+   deep images of distant galaxies
+
+   One of the key aims of the astronomers who designed the Hubble Space
+   Telescope was to use its high optical resolution to study distant
+   galaxies to a level of detail that was not possible from the ground.
+   Positioned above the atmosphere, Hubble avoids atmospheric airglow
+   allowing it to take more sensitive visible and ultraviolet light images
+   than can be obtained with seeing-limited ground-based telescopes (when
+   good adaptive optics correction becomes available in the visible, 10m
+   ground-based telescopes may become competitive). Although the
+   telescope's mirror suffered from spherical aberration when the
+   telescope was launched in 1990, it could still be used to take images
+   of more distant galaxies than had previously been obtainable. Because
+   light takes billions of years to reach Earth from very distant
+   galaxies, we see them as they were billions of years ago; thus,
+   extending the scope of such research to increasingly distant galaxies
+   allows a better understanding of how they evolve.
+
+   After the spherical aberration was corrected during Space Shuttle
+   mission STS-61 in 1993, the now excellent imaging capabilities of the
+   telescope were used to study increasingly distant and faint galaxies.
+   The Medium Deep Survey (MDS) used the WFPC2 to take deep images of
+   random fields while other instruments were being used for scheduled
+   observations. At the same time, other dedicated programs focused on
+   galaxies that were already known through ground-based observation. All
+   of these studies revealed substantial differences between the
+   properties of galaxies today and those that existed several billion
+   years ago.
+
+   Up to 10% of the HST's observation time is designated as Director's
+   Discretionary (DD) Time, and is typically awarded to astronomers who
+   wish to study unexpected transient phenomena, such as supernovae. Once
+   Hubble's corrective optics were shown to be performing well, Robert
+   Williams, the then director of the Space Telescope Science Institute,
+   decided to devote a substantial fraction of his DD time during 1995 to
+   the study of distant galaxies. A special Institute Advisory Committee
+   recommended that the WFPC2 be used to image a "typical" patch of sky at
+   a high galactic latitude, using several optical filters. A working
+   group was set up to develop and implement the project.
+
+Target selection
+
+   The HDF field is at the centre of this image, one degree across, which
+   shows the unremarkable nature of this patch of sky.
+   Enlarge
+   The HDF field is at the centre of this image, one degree across, which
+   shows the unremarkable nature of this patch of sky.
+
+   The field selected for the observations needed to fulfil several
+   criteria. It had to be at a high galactic latitude, because dust and
+   obscuring matter in the plane of the Milky Way's disc prevents
+   observations of distant galaxies. The target field had to avoid known
+   bright sources of visible light (such as foreground stars), and
+   infrared, ultraviolet and X-ray emissions, to facilitate later studies
+   at many wavelengths of the objects in the deep field, and also needed
+   to be in a region with a low background infrared ' cirrus', the
+   diffuse, wispy infrared emission believed to be caused by warm dust
+   grains in cool clouds of hydrogen gas ( H I regions).
+
+   These criteria considerably restricted the field of potential target
+   areas. It was further decided that the target should be in Hubble's
+   'continuous viewing zones' (CVZs)—the areas of sky which are not
+   occulted by the Earth or the moon during Hubble's orbit. The working
+   group decided to concentrate on the northern CVZ, so that
+   northern-hemisphere telescopes, such as the Keck telescopes and the
+   Very Large Array, could conduct follow-up observations.
+
+   Twenty fields satisfying all of these criteria were initially
+   identified, from which three optimal candidate fields were selected,
+   all within the constellation of Ursa Major. Radio snapshot observations
+   ruled out one of these fields because it contained a bright radio
+   source, and the final decision between the other two was made on the
+   basis of the availability of guide stars near the field: Hubble
+   observations normally require a pair of nearby stars on which the
+   telescope's Fine Guidance Sensors can lock during an exposure, but
+   given the importance of the HDF observations, the working group
+   required a second set of back-up guide stars. The field that was
+   eventually selected is located at a right ascension of 12h 36m 49.4s
+   and a declination of +62° 12′ 48″ ^.
+
+Observations
+
+   The HDF was located in Hubble's northern Continuous Viewing Zone, as
+   shown by this diagram
+   Enlarge
+   The HDF was located in Hubble's northern Continuous Viewing Zone, as
+   shown by this diagram
+
+   Once a field had been selected, an observing strategy had to be
+   developed. An important decision was to determine which filters the
+   observations would use; WFPC2 is equipped with forty-eight filters,
+   including narrowband filters isolating particular emission lines of
+   astrophysical interest, and broadband filters useful for the study of
+   the colours of stars and galaxies. The choice of filters to be used for
+   the HDF depended on the ' throughput' of each filter— the total
+   proportion of light that it allows through— and the spectral coverage
+   available. Filters with bandpasses overlapping as little as possible
+   were desirable.
+
+   In the end, four broadband filters were chosen, centred at wavelengths
+   of 300 nm (near-ultraviolet), 450 nm (blue light), 606 nm (red light)
+   and 814 nm (near- infrared). Because the quantum efficiency of Hubble's
+   detectors is quite low at 300 nm, the noise in observations at this
+   wavelength is primarily due to CCD noise rather than sky background;
+   thus, these observations could be conducted at times when high
+   background noise would have harmed the efficiency of observations in
+   other passbands.
+
+   Images of the target area in the chosen filters were taken over ten
+   consecutive days, during which Hubble orbited the Earth about 150
+   times. The total exposure times at each wavelength were 42.7 hours (300
+   nm), 33.5 hours (450 nm), 30.3 hours (606 nm) and 34.3 hours (814 nm),
+   divided into 342 individual exposures to prevent significant damage to
+   individual images by cosmic rays, which cause bright streaks to appear
+   when they strike CCD detectors.
+
+Data processing
+
+   A section of the HDF about 14 arcseconds across in each of the four
+   wavelengths used to construct the final version: 300 nm (top left), 450
+   nm (top right), 606 nm (bottom left) and 814 nm (bottom right).
+   Enlarge
+   A section of the HDF about 14 arcseconds across in each of the four
+   wavelengths used to construct the final version: 300 nm (top left), 450
+   nm (top right), 606 nm (bottom left) and 814 nm (bottom right).
+
+   The production of a final combined image at each wavelength was a
+   complex process. Bright pixels caused by cosmic ray impacts during
+   exposures were removed by comparing exposures of equal length taken one
+   after the other, and identifying pixels that were affected by cosmic
+   rays in one exposure but not the other. Trails of space debris and
+   artificial satellites were present in the original images, and were
+   carefully removed.
+
+   Scattered light from the Earth was evident in about a quarter of the
+   data frames. This was removed by taking an image affected by scattered
+   light, aligning it with an unaffected image, and subtracting the
+   unaffected image from the affected one. The resulting image was
+   smoothed, and could then be subtracted from the bright frame. This
+   procedure removed almost all of the scattered light from the affected
+   images.
+
+   Once the 342 individual images were cleaned of cosmic-ray hits and
+   corrected for scattered light, they had to be combined. Scientists
+   involved in the HDF observations pioneered a technique called '
+   drizzling', in which the pointing of the telescope was varied minutely
+   between sets of exposures. Each pixel on the WFPC2 CCD chips recorded
+   an area of sky 0.09 arcseconds in diameter, but by changing the
+   direction in which the telescope was pointing by less than that between
+   exposures, the resulting images were combined using sophisticated
+   image-processing techniques to yield a final angular resolution better
+   than this value. The HDF images produced at each wavelength had final
+   pixel sizes of 0.03985 arcseconds.
+
+   The data processing yielded four monochrome images, one at each
+   wavelength. The combining of these into the full colour images released
+   to the public was a fairly arbitrary process, with one image designated
+   as each of red, green and blue, and the three images combined to give a
+   colour image. Because the wavelengths at which the images were taken do
+   not correspond to the wavelengths of red, green and blue light, the
+   colours in the final image only give an approximate representation of
+   the actual colours of the galaxies in the image; the choice of filters
+   for the HDF (and the majority of Hubble images) was primarily designed
+   to maximize the scientific utility of the observations rather than to
+   create colours corresponding to what the human eye would actually
+   perceive.
+
+Contents of the Deep Field
+
+   The final images revealed a plethora of distant, faint galaxies. About
+   3,000 distinct galaxies could be identified in the images, with both
+   irregular and spiral galaxies clearly visible, although some galaxies
+   in the field are only a few pixels across. In all, the HDF is thought
+   to contain fewer than ten galactic foreground stars; by far the
+   majority of objects in the field are distant galaxies.
+
+   There are about fifty blue point-like objects in the HDF. Many seem to
+   be associated with nearby galaxies, which together form chains and
+   arcs: these are likely to be regions of intense star formation. Others
+   may be distant quasars. Astronomers initially ruled out the possibility
+   that some of the point-like objects are white dwarfs, because they are
+   too blue to be consistent with theories of white dwarf evolution
+   prevalent at the time. However, more recent work has found that many
+   white dwarfs become bluer as they age, lending support to the idea that
+   the HDF might contain white dwarfs .
+
+Scientific results
+
+   Details from the HDF illustrate the wide variety of galaxy shapes,
+   sizes and colours found in the distant universe
+   Enlarge
+   Details from the HDF illustrate the wide variety of galaxy shapes,
+   sizes and colours found in the distant universe
+
+   The HDF data provided extremely rich material for cosmologists to
+   analyse and as of 2005, almost 400 papers based on the HDF have
+   appeared in the astronomical literature. One of the most fundamental
+   findings was the discovery of large numbers of galaxies with high
+   redshift values.
+
+   As the universe expands, more distant objects recede from the Earth
+   faster, in what is called the Hubble Flow. The light from very distant
+   galaxies is significantly affected by doppler shifting, which reddens
+   the radiation that we receive from them. While quasars with high
+   redshifts were known, very few galaxies with redshifts greater than 1
+   were known before the HDF images were produced. The HDF, however,
+   contained many galaxies with redshifts as high as 6, corresponding to
+   distances of about 12 billion light years . (Due to redshift the most
+   distant objects in the HDF are not actually visible in the Hubble
+   images; they can only be detected in images of the HDF taken at longer
+   wavelengths by ground-based telescopes.)
+
+   The HDF galaxies contained a considerably larger proportion of
+   disturbed and irregular galaxies than the local universe; galaxy
+   collisions and mergers were more common in the young universe as it was
+   much smaller than today. It is believed that giant elliptical galaxies
+   form when spirals and irregular galaxies collide.
+
+   The wealth of galaxies at different stages of their evolution also
+   allowed astronomers to estimate the variation in the rate of star
+   formation over the lifetime of the universe. While estimates of the
+   redshifts of HDF galaxies are somewhat crude, astronomers believe that
+   star formation was occurring at its maximum rate 8–10 billion years
+   ago, and has decreased by a factor of about 10 since then .
+
+   Another important result from the HDF was the very small number of
+   foreground stars present. For years astronomers had been puzzling over
+   the nature of so-called dark matter, mass which seems to be
+   undetectable but which observations implied made up about 90% of the
+   mass of the universe. One theory was that dark matter might consist of
+   Massive Astrophysical Compact Halo Objects ( MACHOs) — faint but
+   massive objects such as red dwarfs and planets in the outer regions of
+   galaxies. The HDF showed, however, that there were not significant
+   numbers of red dwarfs in the outer parts of our galaxy.
+
+Subsequent observations
+
+   The Hubble Deep Field South looks very similar to the original HDF,
+   demonstrating the Cosmological Principle.
+   Enlarge
+   The Hubble Deep Field South looks very similar to the original HDF,
+   demonstrating the Cosmological Principle.
+   The Hubble Ultra Deep Field further corroborates this. The smallest,
+   redest galaxies, about 100, are some of the most distant to have been
+   imaged in an optical telescope.
+   Enlarge
+   The Hubble Ultra Deep Field further corroborates this. The smallest,
+   redest galaxies, about 100, are some of the most distant to have been
+   imaged in an optical telescope.
+
+   The HDF is a landmark in observational cosmology and much still remains
+   to be learned from it. Since 1995, the field has been observed by many
+   ground-based telescopes as well as some further space telescopes, at
+   wavelengths from radio to X-ray.
+
+   Very-high redshift objects were discovered within the HDF using a
+   number of groundbased telescopes, in particular via the James Clerk
+   Maxwell Telescope. The high redshift of these objects means that they
+   cannot be seen in visible light and generally are detected in infrared
+   or submillimetre wavelength surveys of the HDF instead.
+
+   Important space-based observations have included those by the Chandra
+   X-ray Observatory and the Infrared Space Observatory (ISO). X-ray
+   observations revealed six sources in the HDF, which were found to
+   correspond to three elliptical galaxies: one spiral galaxy, one active
+   galactic nucleus and one extremely red object, thought to be a distant
+   galaxy containing a large amount of dust absorbing its blue light
+   emissions .
+
+   ISO observations indicated infrared emission from 13 galaxies visible
+   in the optical images, attributed to large quantities of dust
+   associated with intense star formation. Ground-based radio images taken
+   using the VLA revealed seven radio sources in the HDF, all of which
+   correspond to galaxies visible in the optical images.
+
+   1998 saw the creation of an HDF counterpart in the southern celestial
+   hemisphere: the HDF-South. Created using a similar observing strategy,
+   the HDF-S was very similar in appearance to the original HDF. This
+   supports the cosmological principle that at its largest scale the
+   universe is homogenous.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Hubble_Deep_Field"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,573 @@
+   #copyright
+
+Internet
+
+2007 Schools Wikipedia Selection. Related subjects: Media; Websites and the
+Internet
+
+   The Internet is the worldwide, publicly accessible network of
+   interconnected computer networks that transmit data by packet switching
+   using the standard Internet Protocol (IP). It is a "network of
+   networks" that consists of millions of smaller domestic, academic,
+   business, and government networks, which together carry various
+   information and services, such as electronic mail, online chat, file
+   transfer, and the interlinked Web pages and other documents of the
+   World Wide Web.
+   Visualization of the various routes through a portion of the Internet.
+   Enlarge
+   Visualization of the various routes through a portion of the Internet.
+
+Terminology: Internet vs. Web
+
+   The Internet and the World Wide Web are not synonymous: the Internet is
+   a collection of interconnected computer networks, linked by copper
+   wires, fibre-optic cables, wireless connections, etc.; the Web is a
+   collection of interconnected documents and other resources, linked by
+   hyperlinks and URLs. The World Wide Web is accessible via the Internet,
+   as are many other services including e-mail, file sharing, and others
+   described below.
+
+   The best way to define and distinguish between these terms is to
+   understand the Internet protocol suite. This collection of protocols is
+   organized into layers such that each layer provides the foundation and
+   the services required by the layer above. In this conception, the term
+   Internet refers to computer networks that all communicate with IP
+   (Internet protocol) and TCP (transfer control protocol). Once this
+   networking structure is established, then other protocols can run “on
+   top.” These other protocols are sometimes called services or
+   applications. Hypertext transfer protocol, or HTTP, is an application
+   layer protocol that links billions of files together into the World
+   Wide Web.
+
+Creation of the Internet
+
+   The Internet is the worldwide, publicly accessible network of
+   interconnected computer networks that transmit data by packet switching
+   using the standard Internet Protocol (IP). It is a "network of
+   networks" that consists of millions of smaller domestic, academic,
+   business, and government networks, which together carry various
+   information and services, such as electronic mail, online chat, file
+   transfer, and the interlinked Web pages and other documents of the
+   World Wide Web.
+
+   The USSR's launch of Sputnik spurred the United States to create the
+   Advanced Research Projects Agency (ARPA, later known as the Defense
+   Advanced Research Projects Agency, or DARPA) in February 1958 to regain
+   a technological lead. ARPA created the Information Processing
+   Technology Office (IPTO) to further the research of the Semi Automatic
+   Ground Environment (SAGE) program, which had networked country-wide
+   radar systems together for the first time. J. C. R. Licklider was
+   selected to head the IPTO, and saw universal networking as a potential
+   unifying human revolution.
+
+   In 1950, Licklider moved from the Psycho-Acoustic Laboratory at Harvard
+   University to MIT where he served on a committee that established MIT
+   Lincoln Laboratory. He worked on the SAGE project. In 1957 he became a
+   Vice President at BBN, where he bought the first production PDP-1
+   computer and conducted the first public demonstration of time-sharing.
+
+   Licklider recruited Lawrence Roberts to head a project to implement a
+   network, and Roberts based the technology on the work of Paul Baran who
+   had written an exhaustive study for the U.S. Air Force that recommended
+   packet switching (as opposed to Circuit switching) to make a network
+   highly robust and survivable. After much work, the first node went live
+   at UCLA on October 29, 1969 on what would be called the ARPANET, one of
+   the "eve" networks of today's Internet. Following on from this, the
+   British Post Office, Western Union International and Tymnet
+   collaborated to create the first international packet switched network,
+   referred to as the International Packet Switched Service (IPSS), in
+   1978. This network grew from Europe and the US to cover Canada, Hong
+   Kong and Australia by 1981.
+
+   The first TCP/IP wide area network was operational by 1 January 1983,
+   when the United States' National Science Foundation (NSF) constructed a
+   university network backbone that would later become the NSFNet. (This
+   date is held by some to be technically that of the birth of the
+   Internet.) It was then followed by the opening of the network to
+   commercial interests in 1985. Important, separate networks that offered
+   gateways into, then later merged with, the NSFNet include Usenet,
+   Bitnet and the various commercial and educational X.25 Compuserve and
+   JANET. Telenet (later called Sprintnet), was a large privately-funded
+   national computer network with free dialup access in cities throughout
+   the U.S. that had been in operation since the 1970s. This network
+   eventually merged with the others in the 1990s as the TCP/IP protocol
+   became increasingly popular. The ability of TCP/IP to work over these
+   pre-existing communication networks, especially the international X.25
+   IPSS network, allowed for a great ease of growth. Use of the term
+   "Internet" to describe a single global TCP/IP network originated around
+   this time.
+
+   The network gained a public face in the 1990s. On August 6th, 1991
+   CERN, which straddles the border between France and Switzerland
+   publicized the new World Wide Web project, two years after Tim
+   Berners-Lee had begun creating HTML, HTTP and the first few Web pages
+   at CERN.
+
+   An early popular Web browser was ViolaWWW based upon HyperCard. It was
+   eventually replaced in popularity by the Mosaic Web Browser. In 1993
+   the National Centre for Supercomputing Applications at the University
+   of Illinois at Urbana-Champaign released version 1.0 of Mosaic and by
+   late 1994 there was growing public interest in the previously
+   academic/technical Internet. By 1996 the word "Internet" was coming
+   into common daily usage, frequently misused to refer to the World Wide
+   Web.
+
+   Meanwhile, over the course of the decade, the Internet successfully
+   accommodated the majority of previously existing public computer
+   networks (although some networks such as FidoNet have remained
+   separate). This growth is often attributed to the lack of central
+   administration, which allows organic growth of the network, as well as
+   the non-proprietary open nature of the Internet protocols, which
+   encourages vendor interoperability and prevents any one company from
+   exerting too much control over the network.
+
+Today's Internet
+
+   Server Hosting the My Opera Community on the Internet
+   Enlarge
+   Server Hosting the My Opera Community on the Internet
+
+   Aside from the complex physical connections that make up its
+   infrastructure, the Internet is facilitated by bi- or multi-lateral
+   commercial contracts (e.g., peering agreements), and by technical
+   specifications or protocols that describe how to exchange data over the
+   network. Indeed, the Internet is essentially defined by its
+   interconnections and routing policies.
+
+   As of September 18, 2006, 1.09 billion people use the Internet
+   according to Internet World Stats.
+
+Internet protocols
+
+   In this context, there are three layers of protocols:
+     * At the lowest level is IP (Internet Protocol), which defines the
+       datagrams or packets that carry blocks of data from one node to
+       another. The vast majority of today's Internet uses version four of
+       the IP protocol (i.e. IPv4), and although IPv6 is standardised, it
+       exists only as "islands" of connectivity, and there are many ISPs
+       who don't have any IPv6 connectivity at all.
+     * Next come TCP (Transmission Control Protocol) and UDP (User
+       Datagram Protocol) - the protocols by which one host sends data to
+       another. The former makes a virtual 'connection', which gives some
+       level of guarantee of reliability. The latter is a best-effort,
+       connectionless transport, in which data packets that are lost in
+       transit will not be re-sent.
+     * On top comes the application protocol. This defines the specific
+       messages and data formats sent and understood by the applications
+       running at each end of the communication.
+
+Internet structure
+
+   There have been many analyses of the Internet and its structure. For
+   example, it has been determined that the Internet IP routing structure
+   and hypertext links of the World Wide Web are examples of scale-free
+   networks.
+
+   Similar to the way the commercial Internet providers connect via
+   Internet exchange points, research networks tend to interconnect into
+   large subnetworks such as:
+     * GEANT
+     * GLORIAD
+     * Internet2
+     * JANET (the UK's Joint Academic Network aka UKERNA)
+
+   These in turn are built around relatively smaller networks. See also
+   the list of academic computer network organizations
+
+   In network schematic diagrams, the Internet is often represented by a
+   cloud symbol, into and out of which network communications can pass.
+
+ICANN
+
+   The Internet Corporation for Assigned Names and Numbers (ICANN) is the
+   authority that coordinates the assignment of unique identifiers on the
+   Internet, including domain names, Internet protocol addresses, and
+   protocol port and parameter numbers. A globally unified namespace
+   (i.e., a system of names in which there is one and only one holder of
+   each name) is essential for the Internet to function. ICANN is
+   headquartered in Marina del Rey, California, but is overseen by an
+   international board of directors drawn from across the Internet
+   technical, business, academic, and non-commercial communities. The US
+   government continues to have the primary role in approving changes to
+   the root zone file that lies at the heart of the domain name system.
+   Because the Internet is a distributed network comprising many
+   voluntarily interconnected networks, the Internet, as such, has no
+   governing body. ICANN's role in coordinating the assignment of unique
+   identifiers distinguishes it as perhaps the only central coordinating
+   body on the global Internet, but the scope of its authority extends
+   only to the Internet's systems of domain names, Internet protocol
+   addresses, and protocol port and parameter numbers.
+
+   On Nov. 16, 2005, the World Summit on the Information Society, held in
+   Tunis, established the Internet Governance Forum (IGF) to discuss
+   Internet-related issues.
+   Graphic representation of a very small part of the WWW, representing
+   some of the hyperlinks
+   Enlarge
+   Graphic representation of a very small part of the WWW, representing
+   some of the hyperlinks
+
+Language
+
+   The most prevalent language for communication on the Internet is
+   English. This may be a result of the Internet's origins, as well as
+   English's role as the lingua franca. It may also be related to the poor
+   capability of early computers to handle characters other than those in
+   the basic Latin alphabet.
+
+   After English (30% of Web visitors) the most-requested languages on the
+   World Wide Web are Chinese 14%, Japanese 8%, Spanish 8%, German 6%, and
+   French 4% (from Internet World Stats, updated June 30, 2006).
+
+   By continent, 37% of the world's Internet users are based in Asia, 28%
+   in Europe, and 22% in North America ( updated June 30, 2006).
+
+   The Internet's technologies have developed enough in recent years that
+   good facilities are available for development and communication in most
+   widely used languages. However, some glitches such as mojibake
+   (incorrect display of foreign language characters, also known as
+   krakozyabry) still remain.
+
+Internet and the workplace
+
+   The Internet is allowing greater flexibility in working hours and
+   location, especially with the spread of unmetered high-speed
+   connections and Web applications.
+
+Common uses of the Internet
+
+The World Wide Web
+
+   Through keyword-driven Internet research using search engines, like
+   Google, millions worldwide have easy, instant access to a vast and
+   diverse amount of online information. Compared to encyclopedias and
+   traditional libraries, the World Wide Web has enabled a sudden and
+   extreme decentralization of information and data.
+
+   Many individuals and some companies and groups have adopted the use of
+   "Web logs" or blogs, which are largely used as easily-updatable online
+   diaries. Some commercial organizations encourage staff to fill them
+   with advice on their areas of specialization in the hope that visitors
+   will be impressed by the expert knowledge and free information, and be
+   attracted to the corporation as a result. One example of this practice
+   is Microsoft, whose product developers publish their personal blogs in
+   order to pique the public's interest in their work.
+
+   For more information on the distinction between the World Wide Web and
+   the Internet itself — as in everyday use the two are sometimes confused
+   — see Dark internet where this is discussed in more detail.
+
+Remote access
+
+   The Internet allows computer users to connect to other computers and
+   information stores easily, wherever they may be across the world. They
+   may do this with or without the use of security, authentication and
+   encryption technologies, depending on the requirements.
+
+   This is encouraging new ways of working from home, collaboration and
+   information sharing in many industries. An accountant sitting at home
+   can audit the books of a company based in another country, on a server
+   situated in a third country that is remotely maintained by IT
+   specialists in a fourth. These accounts could have been created by
+   home-working book-keepers, in other remote locations, based on
+   information e-mailed to them from offices all over the world. Some of
+   these things were possible before the widespread use of the Internet,
+   but the cost of private, leased lines would have made many of them
+   infeasible in practice.
+
+   An office worker away from his desk, perhaps the other side of the
+   world on a business trip or a holiday, can open a remote desktop
+   session into his normal office PC using a secure Virtual Private
+   Network (VPN) connection via the Internet. This gives him complete
+   access to all his normal files and data, including e-mail and other
+   applications, while he is away.
+
+   This concept is also referred to by some network security people as the
+   Virtual Private Nightmare, because it extends the secure perimeter of a
+   corporate network into its employees' homes; this has been the source
+   of some notable security breaches, but also provides security for the
+   workers.
+
+Collaboration
+
+   The low-cost and nearly instantaneous sharing of ideas, knowledge, and
+   skills has made collaborative work dramatically easier. Not only can a
+   group cheaply communicate and test, but the wide reach of the Internet
+   allows such groups to easily form in the first place, even among niche
+   interests. An example of this is the Free/Libre/Open-Source Software
+   (FLOSS) movement in software development, such as Linux, Mozilla, and
+   OpenOffice.org. Cooperation has been greatly eased in other fields, as
+   well.
+
+   Internet 'chat', whether in the form of IRC 'chat rooms' or channels,
+   or via instant messaging systems allow colleages to stay in touch in a
+   very convenient way when working at their computers during the day.
+   Messages can be send and viewed even more quickly and conveniently than
+   via e-mail. Extension to these systems may allow files to be exchanged,
+   'whiteboard' drawings to be shared as well as voice and video contact
+   between team members.
+
+   Version control systems allow collaborating teams to work on shared
+   sets of documents without either accidentally overwriting each other's
+   work or having members wait until they get 'sent' documents to be able
+   to add their thoughts and changes.
+
+File sharing
+
+   A computer file can be e-mailed to customers, colleagues and friends as
+   an attachment. It can be uploaded to a Web site or FTP server for easy
+   download by others. It can be put into a "shared location" or onto a
+   file server for instant use by colleagues. The load of bulk downloads
+   to many users can be eased by the use of " mirror" servers or
+   peer-to-peer networks. In any of these cases, access to the file may be
+   controlled by user authentication; the transit of the file over the
+   Internet may be obscured by encryption and money may change hands
+   before or after access to the file is given. The price can be paid by
+   the remote charging of funds from, for example a credit card whose
+   details are also passed - hopefully fully encrypted - across the
+   Internet. The origin and authenticity of the file received may be
+   checked by digital signatures or by MD5 or other message digests.
+
+   These simple features of the Internet, over a world-wide basis, are
+   changing the basis for the production, sale, and distribution of
+   anything that can be reduced to a computer file for transmission. This
+   includes all manner of office documents, publications, software
+   products, music, photography, video, animations, graphics and the other
+   arts. This in turn is causing seismic shifts in each of the existing
+   industry associations, such as the RIAA and MPAA in the United States,
+   that previously controlled the production and distribution of these
+   products in that country.
+
+VoIP
+
+   VoIP stands for Voice over IP, where IP refers to the Internet Protocol
+   that underlies all Internet communication. This phenomenon began as an
+   optional two-way voice extension to some of the Instant Messaging
+   systems that took off around the year 2000. In recent years many VoIP
+   systems have become as easy to use and as convenient as a normal
+   telephone. The benefit is that, as the Internet carries the actual
+   voice traffic, VoIP can be free or cost much less than a normal
+   telephone call, especially over long distances and especially for those
+   with always-on ADSL or DSL Internet connections.
+
+   Thus VoIP is maturing into a viable alternative to traditional
+   telephones. Interoperability between different providers has improved
+   and the ability to call or receive a call from a traditional telephone
+   is available. Simple inexpensive VoIP modems are now available that
+   eliminate the need for a PC.
+
+   Voice quality can still vary from call to call but is often equal to
+   and can even exceed that of traditional calls.
+
+   Remaining problems for VoIP include emergency telephone number dialing
+   and reliability. Currently a few VoIP providers provide some 911
+   dialing but it is not universally available. Traditional phones are
+   line powered and operate during a power failure, VoIP does not do so
+   without a backup power source for the electronics.
+
+   Most VoIP providers offer unlimited national calling but the direction
+   in VoIP is clearly toward global coverage with unlimited minutes for a
+   low monthly fee.
+
+   VoIP has also become increasingly popular within the gaming world, as a
+   form of communication between players. Popular gaming VoIP clients
+   include Ventrilo and Teamspeak, and there are others available also.
+
+Censorship
+
+   Some governments, such as those of Iran and the People's Republic of
+   China restrict what people in their countries can access on the
+   Internet, especially political and religious content. This is
+   accomplished through software that filters domains and content so that
+   they may not be easily accessed or obtained without elaborate
+   circumvention.
+
+   Many countries have enacted laws making the possession or distribution
+   of certain material, such as child pornography, illegal, but do not use
+   filtering software.
+
+   There are many free and commercially available software programs with
+   which a user can choose to block offensive Web sites on individual
+   computers or networks, such as to limit a child's access to pornography
+   or violence. See Content-control software.
+
+Internet access
+
+   Internet public access point in Brazil, 2004.
+   Enlarge
+   Internet public access point in Brazil, 2004.
+
+   Common methods of home access include dial-up, landline broadband (over
+   coaxial cable, fibre optic or copper wires), Wi-Fi, satellite and cell
+   phones.
+
+   Public places to use the Internet include libraries and Internet cafes,
+   where computers with Internet connections are available. There are also
+   Internet access points in many public places such as airport halls and
+   coffee shops, in some cases just for brief use while standing. Various
+   terms are used, such as "public Internet kiosk", "public access
+   terminal", and "Web payphone". Many hotels now also have public
+   terminals, though these are usually fee based.
+
+   Wi-Fi provides wireless access to computer networks, and therefore can
+   do so to the Internet itself. Hotspots providing such access include
+   Wi-Fi-cafes, where a would-be user needs to bring their own
+   wireless-enabled devices such as a laptop or PDA. These services may be
+   free to all, free to customers only, or fee-based. A hotspot need not
+   be limited to a confined location. The whole campus or park, or even
+   the entire city can be enabled. Grassroots efforts have led to wireless
+   community networks. Commercial WiFi services covering large city areas
+   are in place in London, Vienna, San Francisco, Philadelphia, Chicago,
+   Pittsburgh and other cities, including Toronto by the end of 2006. The
+   Internet can then be accessed from such places as a park bench.
+
+   Apart from Wi-Fi, there have been experiments with proprietary mobile
+   wireless networks like Ricochet, various high-speed data services over
+   cellular phone networks, and fixed wireless services.
+
+   High-end mobile phones such as smartphones generally come with Internet
+   access through the phone network. Web browsers such as Opera are
+   available on these advanced handsets, which can also run a wide variety
+   of other Internet software. More mobile phones have Internet access
+   than PCs, though this is not as widely used. An internet access
+   provider and protocol matrix differentiates the methods used to get
+   online.
+
+Leisure
+
+   The Internet has been a major source of leisure since before the World
+   Wide Web, with entertaining social experiments such as MUDs and MOOs
+   being conducted on university servers, and humor-related Usenet groups
+   receiving much of the main traffic. Today, many Internet forums have
+   sections devoted to games and funny videos; short cartoons in the form
+   of Flash movies are also popular. Over 6 million people use blogs or
+   message boards as a means of communication and for the sharing of
+   ideas.
+
+   The pornography and gambling industries have both taken full advantage
+   of the World Wide Web, and often provide a significant source of
+   advertising revenue for other Web sites. Although many governments have
+   attempted to put restrictions on both industries' use of the Internet,
+   this has generally failed to stop their widespread popularity. A song
+   in the Broadway musical show Avenue Q is titled " The Internet is for
+   Porn" and refers to the popularity of this aspect of the internet.
+
+   One main area of leisure on the Internet is multiplayer gaming. This
+   form of leisure creates communities, bringing people of all ages and
+   origins to enjoy the fast-paced world of multiplayer games. These range
+   from MMORPG to first-person shooters, from role-playing games to online
+   gambling. This has revolutionized the way many people interact and
+   spend their free time on the Internet.
+
+   While online gaming has been around since the 1970s, modern modes of
+   online gaming began with services such as GameSpy and MPlayer, which
+   players of games would typically subscribe to. Non-subscribers were
+   limited to certain types of gameplay or certain games.
+
+   Many use the Internet to access and download music, movies and other
+   works for their enjoyment and relaxation. As discussed above, there are
+   paid and unpaid sources for all of these, using centralised servers and
+   distributed peer-to-peer technologies. Discretion is needed as some of
+   these sources take more care over the original artists' rights and over
+   copyright laws than others.
+
+   Many use the World Wide Web to access news, weather and sports reports,
+   to plan and book holidays and to find out more about their random ideas
+   and casual interests.
+
+   People use chat, messaging and email to make and stay in touch with
+   friends worldwide, sometimes in the same way as some previously had pen
+   pals. Social networking Web sites like Friends Reunited and many others
+   like them also put and keep people in contact for their enjoyment.
+
+   Cyberslacking has become a serious drain on corporate resources; the
+   average UK employee spends 57 minutes a day surfing the Web at work,
+   according to a study by Peninsula Business Services .
+
+Complex architecture
+
+   Many computer scientists see the Internet as a "prime example of a
+   large-scale, highly engineered, yet highly complex system". The
+   Internet is extremely heterogeneous. (For instance, data transfer rates
+   and physical characteristics of connections vary widely.) The Internet
+   exhibits "emergent phenomena" that depend on its large-scale
+   organization. For example, data transfer rates exhibit temporal
+   self-similarity.
+
+Marketing
+
+   The Internet has also become a large market for companies; some of the
+   biggest companies today have grown by taking advantage of the efficient
+   nature of low-cost advertising and commerce through the Internet; also
+   known as e-commerce. It is the fastest way to spread information to a
+   vast amount of people simultaneously. The Internet has also
+   subsequently revolutionized shopping—for example; a person can order a
+   CD online and receive it in the mail within a couple of days, or
+   download it directly in some cases. The Internet has also greatly
+   facilitated personalized marketing which allows a company to market a
+   product to a specific person or a specific group of people more so than
+   any other advertising medium.
+
+   Examples of personalized marketing include online communities such as
+   Myspace, Friendster, and others which thousands of Internet users join
+   to advertise themselves and make friends online. Many of these users
+   are young teens and adolescents ranging from 13 to 25 years old. In
+   turn, when they advertise themselves they advertise interests and
+   hobbies, which online marketing companies can use as information as to
+   what those users will purchase online, and advertise their own
+   companies' products to those users.
+
+   A very ineffective way of advertising on the internet is through
+   spamming an email with advertisements. This is ineffective because,
+   now, most email providers offer protection against email spam. Most
+   spam messages are sent automatically to everybody in the email database
+   of the company/person that is spamming. This way of advertising is
+   almost like using adware.
+
+   Adware is another ineffective way of advertising because most people
+   simply close a popup window when it shows up, not bothering to read it.
+
+The name Internet
+
+   Internet is traditionally written with a capital first letter, as it is
+   a proper noun. The Internet Society, the Internet Engineering Task
+   Force, the Internet Corporation for Assigned Names and Numbers, the
+   World Wide Web Consortium, and several other Internet-related
+   organizations use this convention in their publications.
+
+   Many newspapers, newswires, periodicals, and technical journals
+   capitalize the term. Examples include the New York Times, the
+   Associated Press, Time, The Times of India, Hindustan Times, and
+   Communications of the ACM.
+
+   Others assert that the first letter should be written in lower case
+   (internet). A significant number of publications use this form,
+   including The Economist, the Canadian Broadcasting Corporation, the
+   Financial Times, The Guardian, The Times, and The Sydney Morning
+   Herald. As of 2005, many publications using internet appear to be
+   located outside of North America—although one U.S. news source, Wired
+   News, has adopted the lower case spelling.
+
+   Historically, Internet and internet have had different meanings, with
+   internet being a contraction of internetwork or internetworking and
+   Internet referring to the worldwide network. Under this distinction,
+   the Internet is a particular internet, but the reverse does not apply.
+   The distinction was evident in many RFCs, books, and articles from the
+   1980s and early 1990s (some of which, such as RFC 1918, refer to
+   "internets" in the plural), but has recently fallen into disuse.
+
+Significant Internet events
+
+Malfunctions and attacks
+
+     * SQL Slammer worm — January 24, 2003
+     * 2002 DNS Backbone DDoS — October 22, 2002
+     * UUNet/Worldcom backbone difficulties — October 3, 2002
+     * Predicted Y2K Bug - January 1, 2000
+     * Morris worm — November 2, 1988
+
+   Retrieved from " http://en.wikipedia.org/wiki/Internet"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

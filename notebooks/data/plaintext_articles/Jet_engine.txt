@@ -1,0 +1,1238 @@
+   #copyright
+
+Jet engine
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   A Pratt & Whitney F100 turbofan engine for the F-15 Eagle is tested at
+   Robins Air Force Base, Georgia, USA. The tunnel behind the engine
+   muffles noise and allows exhaust to escape. The mesh cover at the front
+   of the engine (left of photo) prevents foreign objects (including
+   people) from being pulled into the engine by the huge volume of air
+   rushing into the inlet.
+   Enlarge
+   A Pratt & Whitney F100 turbofan engine for the F-15 Eagle is tested at
+   Robins Air Force Base, Georgia, USA. The tunnel behind the engine
+   muffles noise and allows exhaust to escape. The mesh cover at the front
+   of the engine (left of photo) prevents foreign objects (including
+   people) from being pulled into the engine by the huge volume of air
+   rushing into the inlet.
+
+   A jet engine is an engine that discharges a fast moving jet of fluid to
+   generate thrust in accordance with Newton's third law of motion. This
+   broad definition of jet engines includes turbojets, turbofans, rockets
+   and ramjets and water jets, but in common usage, the term generally
+   refers to a gas turbine Brayton cycle engine used to produce a jet of
+   high speed exhaust gases for special propulsive purposes. Jet engines
+   are so familiar to the modern world that gas turbines are sometimes
+   mistakenly referred to as a particular application of a jet engine,
+   rather than the other way around.
+
+History
+
+   Jet engines can be dated back to the first century AD, when Hero of
+   Alexandria invented the aeolipile. This used steam power directed
+   through two jet nozzles so as to cause a sphere to spin rapidly on its
+   axis. So far as is known, it was never used for supplying mechanical
+   power, and the potential practical applications of Hero's invention of
+   the jet engine were not recognized. It was simply considered a
+   curiosity.
+
+   Jet propulsion only literally and figuratively took off with the
+   invention of the rocket by the Chinese in the 11th century. Rocket
+   exhaust was initially used in a modest way for fireworks but gradually
+   progressed to propel some quite fearsome weaponry; and there the
+   technology stalled for hundreds of years.
+
+   The problem was that rockets are simply too inefficient to be useful
+   for general aviation. Instead, by the 1930s, the piston engine in its
+   many different forms (rotary and static radial, aircooled and
+   liquid-cooled inline) was the only type of powerplant available to
+   aircraft designers. This was acceptable as long as only low performance
+   aircraft were required, and indeed all that were available.
+
+   However, engineers were beginning to realize conceptually that the
+   piston engine was self-limiting in terms of the maximum performance
+   which could be attained; the limit was essentially one of propeller
+   efficiency. This seemed to peak as blade tips approached the speed of
+   sound. If engine, and thus aircraft, performance were ever to increase
+   beyond such a barrier, a way would have to be found to radically
+   improve the design of the piston engine, or a wholly new type of
+   powerplant would have to be developed. This was the motivation behind
+   the development of the gas turbine engine, commonly called a "jet"
+   engine, which would become almost as revolutionary to aviation as the
+   Wright brothers' first flight.
+
+   The earliest attempts at jet engines were hybrid designs in which an
+   external power source supplied the compression. In this system (called
+   a thermojet by Secondo Campini) the air is first compressed by a fan
+   driven by a conventional piston engine, then it is mixed with fuel and
+   burned for jet thrust. The examples of this type of design were the
+   Henri Coandă's Coandă-1910 aircraft, and the much later Campini Caproni
+   CC.2, and the Japanese Tsu-11 engine intended to power Ohka kamikaze
+   planes towards the end of World War II. None were entirely successful
+   and the CC.2 ended up being slower than the same design with a
+   traditional engine and propeller combination.
+   Jet engine airflow simulation
+   Enlarge
+   Jet engine airflow simulation
+
+   The key to a practical jet engine was the gas turbine, used to extract
+   energy to drive the compressor from the engine itself. The gas turbine
+   was not an idea developed in the 1930s: the patent for a stationary
+   turbine was granted to John Barber in England in 1791. The first gas
+   turbine to successfully run self-sustaining was built in 1903 by
+   Norwegian engineer Ægidius Elling. The first patents for jet propulsion
+   were issued in 1917. Limitations in design and practical engineering
+   and metallurgy prevented such engines reaching manufacture. The main
+   problems were safety, reliability, weight and, especially, sustained
+   operation.
+   The W2/700 engine flew in the Gloster E.28/39, the first British
+   aircraft to fly with a turbojet engine, and the Gloster Meteor.
+   Enlarge
+   The W2/700 engine flew in the Gloster E.28/39, the first British
+   aircraft to fly with a turbojet engine, and the Gloster Meteor.
+
+   In 1929, Aircraft apprentice Frank Whittle formally submitted his ideas
+   for a turbo-jet to his superiors. On 16 January 1930 in England,
+   Whittle submitted his first patent (granted in 1932). The patent showed
+   a two-stage axial compressor feeding a single-sided centrifugal
+   compressor. Whittle would later concentrate on the simpler centrifugal
+   compressor only, for a variety of practical reasons.
+
+   In 1935 Hans von Ohain started work on a similar design in Germany,
+   seemingly unaware of Whittle's work.
+
+   Whittle had his first engine running in April 1937. It was
+   liquid-fuelled, and included a self-contained fuel pump. Von Ohain's
+   engine, as well as being 5 months behind Whittle's, relied on gas
+   supplied under external pressure, so was not self-contained. Whittle's
+   team experienced near-panic when the engine would not stop, even after
+   the fuel was switched off. It turned out that fuel had leaked into the
+   engine and accumulated in pools. So the engine would not stop till all
+   the leaked fuel had burned off. Whittle unfortunately failed to secure
+   proper backing for his project, and so fell behind Von Ohain in the
+   race to get a jet engine into the air.
+
+   Ohain approached Ernst Heinkel, one of the larger aircraft
+   industrialists of the day, who immediately saw the promise of the
+   design. Heinkel had recently purchased the Hirth engine company, and
+   Ohain and his master machinist Max Hahn were set up there as a new
+   division of the Hirth company. They had their first HeS 1 engine
+   running by September 1937. Unlike Whittle's design, Ohain used hydrogen
+   as fuel, supplied under external pressure. Their subsequent designs
+   culminated in the gasoline-fuelled HeS 3 of 1,100 lbf (5 kN), which was
+   fitted to Heinkel's simple and compact He 178 airframe and flown by
+   Erich Warsitz in the early morning of August 27, 1939, from Marienehe
+   aerodrome, an impressively short time for development. The He 178 was
+   the world's first jet plane.
+
+   Meanwhile, Whittle's engine was starting to look useful, and his Power
+   Jets Ltd. started receiving Air Ministry money. In 1941 a flyable
+   version of the engine called the W.1, capable of 1000 lbf (4 kN) of
+   thrust, was fitted to the Gloster E28/39 airframe specially built for
+   it, and first flew on May 15, 1941 at RAF Cranwell.
+   A picture of an early centrifugal engine (the DH Goblin II) sectioned
+   to show its internal components
+   Enlarge
+   A picture of an early centrifugal engine (the DH Goblin II) sectioned
+   to show its internal components
+
+   One problem with both of these early designs, which are called
+   centrifugal-flow engines, was that the compressor worked by "throwing"
+   (accelerating) air outward from the central intake to the outer
+   periphery of the engine, where the air was then compressed by a
+   divergent duct setup, converting its velocity into pressure. An
+   advantage of this design was that it was already well understood,
+   having been implemented in centrifugal superchargers. However, given
+   the early technological limitations on the shaft speed of the engine,
+   the compressor needed to have a very large diameter to produce the
+   power required. A further disadvantage was that the air flow had to be
+   "bent" to flow rearwards through the combustion section and to the
+   turbine and tailpipe.
+
+   Austrian Anselm Franz of Junkers' engine division (Junkers Motoren or
+   Jumo) addressed these problems with the introduction of the axial-flow
+   compressor. Essentially, this is a turbine in reverse. Air coming in
+   the front of the engine is blown towards the rear of the engine by a
+   fan stage (convergent ducts), where it is crushed against a set of
+   non-rotating blades called stators (divergent ducts). The process is
+   nowhere near as powerful as the centrifugal compressor, so a number of
+   these pairs of fans and stators are placed in series to get the needed
+   compression. Even with all the added complexity, the resulting engine
+   is much smaller in diameter and thus, more aerodynamic. Jumo was
+   assigned the next engine number, 4, and the result was the Jumo 004
+   engine. After many lesser technical difficulties were solved, mass
+   production of this engine started in 1944 as a powerplant for the
+   world's first jet-fighter aircraft, the Messerschmitt Me 262 (and later
+   the worlds first jet-bomber aircraft, the Arado Ar 234). Because Hitler
+   insisted the Me 262 be designated a bomber, this delay caused the
+   fighter version to arrive too late to decisively impact Germany's
+   position in World War II. Nonetheless, it will be remembered as the
+   first use of jet engines in service. Following the end of the war the
+   German jet aircraft and jet engines were extensively studied by the
+   victorious allies and contributed to work on early Soviet and US jet
+   fighters. The legacy of the axial-flow engine is seen in the fact that
+   practically all jet engines on fixed wing aircraft have had some
+   inspiration from this design.
+   A cutaway of the Junkers Jumo 004 engine.
+   Enlarge
+   A cutaway of the Junkers Jumo 004 engine.
+
+   Centrifugal-flow engines have improved since their introduction. With
+   improvements in bearing technology, the shaft speed of the engine was
+   increased, greatly reducing the diameter of the centrifugal compressor.
+   The short engine length remains an advantage of this design,
+   patricularly for use in helicopters. Also, its engine components are
+   robust; axial-flow compressors are more liable to foreign object
+   damage.
+
+   British engines also were licensed widely in the US (see Tizard
+   Mission). Their most famous design, the Nene would also power the
+   USSR's jet aircraft after a technology exchange. American designs would
+   not come fully into their own until the 1960s.
+
+Types
+
+   There are a large number of different types of jet engines, all of
+   which get propulsion from a high speed exhaust jet.
+   Type Description Advantages Disadvantages
+   Water jet Squirts water out the back of a boat Can run in shallow
+   water, powerful, less harmful to wildlife Can be less efficient than a
+   propeller, more vulnerable to debris
+   Thermojet Most primitive airbreathing jet engine. Essentially a
+   supercharged piston engine with a jet exhaust. Heavy, inefficient and
+   underpowered
+   Turbojet Generic term for simple turbine engine Simplicity of design,
+   efficient at supersonic speeds (~M2) Basic design, misses many
+   improvements in efficiency and power for subsonic flight, relatively
+   noisy.
+   Turbofan First stage compressor greatly enlarged to provide bypass
+   airflow around engine core Quieter due to greater mass flow and lower
+   total exhaust speed, more efficient for a useful range of subsonic
+   airspeeds for same reason, cooler exhaust temperature Greater
+   complexity (additional ducting, usually multiple shafts), large
+   diameter engine, need to contain heavy blades. More subject to FOD and
+   ice damage. Top speed is limited due to the potential for shockwaves to
+   damage engine. Most common form of jet engine in use today. Used in
+   airliners like the Boeing 747 and military jets, where an afterburner
+   is often added for supersonic flight.
+   Rocket Carries all propellants onboard, emits jet for propulsion Very
+   few moving parts, Mach 0 to Mach 25+, efficient at very high speed (>
+   Mach 10.0 or so), thrust/weight ratio over 100, no complex air inlet,
+   high compression ratio, very high speed ( hypersonic) exhaust, good
+   cost/thrust ratio, fairly easy to test, works in a vacuum-indeed works
+   best exoatmospheric which is kinder on vehicle structure at high speed.
+   Needs lots of propellant- very low specific impulse — typically 100-450
+   seconds. Extreme thermal stresses of combustion chamber can make reuse
+   harder. Typically requires carrying oxidiser onboard which increases
+   risks. Extraordinarily noisy.
+   Ramjet Intake air is compressed entirely by speed of oncoming air and
+   duct shape (divergent) Very few moving parts, Mach 0.8 to Mach 5+,
+   efficient at high speed (> Mach 2.0 or so), lightest of all
+   airbreathing jets (thrust/weight ratio up to 30 at optimum speed) Must
+   have a high initial speed to function, inefficient at slow speeds due
+   to poor compression ratio, difficult to arrange shaft power for
+   accessories, usually limited to a small range of speeds, intake flow
+   must be slowed to subsonic speeds, noisy, fairly difficult to test,
+   finicky to keep lit.
+   Turboprop ( Turboshaft similar) Strictly not a jet at all — a gas
+   turbine engine is used as powerplant to drive propeller shaft (or Rotor
+   in the case of a Helicopter) High efficiency at lower subsonic
+   airspeeds(300 knots plus), high shaft power to weight Limited top speed
+   (aeroplanes), somewhat noisy, complex transmission
+   Propfan/Unducted Fan Turboprop engine drives one or more propellers.
+   Similar to a turbofan without the fan cowling. Higher fuel efficiency,
+   potentially less noisy than turbofans, could lead to higher-speed
+   commercial aircraft, popular in the 1980s during fuel shortages
+   Development of propfan engines has been very limited, typically more
+   noisy than turbofans, complexity
+   Pulsejet Air is compressed and combusted intermittently instead of
+   continuously. Some designs use valves. Very simple design, commonly
+   used on model aircraft Noisy, inefficient (low compression ratio),
+   works poorly on a large scale, valves on valved designs wear out
+   quickly
+   Pulse detonation engine Similar to a pulsejet, but combustion occurs as
+   a detonation instead of a deflagration, may or may not need valves
+   Maximum theoretical engine efficiency Extremely noisy, parts subject to
+   extreme mechanical fatigue, hard to start detonation, not practical for
+   current use
+   Air-augmented rocket Essentially a ramjet where intake air is
+   compressed and burnt with the exhaust from a rocket Mach 0 to Mach 4.5+
+   (can also run exoatmospheric), good efficiency at Mach 2 to 4 Similar
+   efficiency to rockets at low speed or exoatmospheric, inlet
+   difficulties, a relatively undeveloped and unexplored type, cooling
+   difficulties, very noisy.
+   Scramjet Similar to a ramjet without a diffuser; airflow through the
+   entire engine remains supersonic Few mechanical parts, can operate at
+   very high Mach numbers (Mach 8 to 15) with good efficiencies Still in
+   development stages, must have a very high initial speed to function
+   (Mach >6), cooling difficulties, very poor thrust/weight ratio (~2),
+   extreme aerodynamic complexity, airframe difficulties, testing
+   difficulties/expense
+   Turborocket A turbojet where an additional oxidizer such as oxygen is
+   added to the airstream to increase max altitude Very close to existing
+   designs, operates in very high altitude, wide range of altitude and
+   airspeed Airspeed limited to same range as turbojet engine, carrying
+   oxidizer like LOX can be dangerous
+   Precooled jets / LACE Intake air is chilled to very low temperatures at
+   inlet before passing through a ramjet or turbojet engine Easily tested
+   on ground. Very high thrust/weight ratios are possible (~14) together
+   with good fuel efficiency over a wide range of airspeeds, mach 0-5.5+;
+   this combination of efficiencies may permit launching to orbit, single
+   stage, or very rapid intercontinental travel. Exists only at the lab
+   prototyping stage. Examples include RB545, SABRE, ATREX
+
+Type comparison
+
+   Comparative suitability for (left to right) turboshaft, low bypass and
+   turbojet to fly at 10 km attitude in various speeds. Horizontal axis -
+   speed, m/s. Vertical axis carries only logical meaning.
+   Enlarge
+   Comparative suitability for (left to right) turboshaft, low bypass and
+   turbojet to fly at 10 km attitude in various speeds. Horizontal axis -
+   speed, m/s. Vertical axis carries only logical meaning.
+   Efficiency as a function of speed of different Jet types. Although
+   efficiency plummets with speed, greater distances are covered, it turns
+   out that efficiency per unit distance (per km or mile) is roughly
+   independent of speed for Jet engines as a group; however airframes
+   become inefficient at supersonic speeds
+   Enlarge
+   Efficiency as a function of speed of different Jet types. Although
+   efficiency plummets with speed, greater distances are covered, it turns
+   out that efficiency per unit distance (per km or mile) is roughly
+   independent of speed for Jet engines as a group; however airframes
+   become inefficient at supersonic speeds
+   Dependence of the energy eficiency (η) from the exhaust speed/airplane
+   speed ratio (c/v)
+   Enlarge
+   Dependence of the energy eficiency (η) from the exhaust speed/airplane
+   speed ratio (c/v)
+
+   The motion impulse of the engine is equal to the air mass, multiplied
+   by the speed that the engine emits this mass:
+
+          I = m c
+
+   where m is the air mass per second and c is the exhaust speed. In other
+   words, the plane will fly faster if the engine emits the air mass with
+   a higher speed or if it emits more air per second with the same speed.
+   However, when the plane flies with certain velocity v, the air moves
+   towards it, creating the opposing ram drag at the air intake:
+
+          m v
+
+   Most types of jet engine have an air intake, which provides the bulk of
+   the gas exiting the exhaust. Conventional rocket motors, however, do
+   not have an air intake, the oxidizer and fuel both being carried within
+   the airframe. Therefore, rocket motors do not have ram drag; the gross
+   thrust of the nozzle is the net thrust of the engine. Consequently, the
+   thrust characteristics of a rocket motor are completely different from
+   that of an air breathing jet engine.
+
+   The air breathing engine is only useful if the velocity of the gas from
+   the engine, c, is greater than the airplane velocity, v. The net engine
+   thrust is the same as if the gas were emitted with the velocity c-v. So
+   the pushing moment is actually equal to
+
+          S = m (c-v)
+
+   The turboprop has a wide rotating fan that takes and accelerates the
+   large mass of air but only till the limited speed of any propeller
+   driven airplane. When the plane speed exceeds this limit, propellers no
+   longer provide any thrust (c-v < 0).
+
+   The turbojets and other similar engines accelerate much smaller mass of
+   the air and burned fuel, but they emit it at the much higher speeds
+   possible with a de Laval nozzle. This is why they are suitable for
+   supersonic and higher speeds.
+
+   From the other side, the energy efficiency is higher when the engine
+   pushes as large as possible mass of air at the speed, comparable to the
+   airplane velocity. The exact formula, given in the literature, is
+
+          \eta = \frac{2}{1 + \frac{c}{v}}
+
+   The low bypass turbofans have the mixed exhaust of the two air flows,
+   running at different speeds (c1 and c2). The pushing moment of such
+   engine is
+
+          S = m1 (c1 - v) + m2 (c2 - v)
+
+   where m1 and m2 are the air masses, being blown from the both exhausts.
+   Such engines are effective at lower speeds, than the pure jets, but at
+   higher speeds than the turboshafts and propellers in general. For
+   instance, at the 10 km attitude, turboshafts are most effective at
+   about 0.4 mach, low bypass turbofans become more effective at about
+   0.75 mach and true jets become more effective as mixed exaust engines
+   when the speed approaches 1 mach - the speed of sound.
+
+   Rocket engines are best suited for high speeds and altitudes. At any
+   given throttle, the thrust and efficiency of a rocket motor improves
+   slightly with increasing altitude (because the back-pressure falls thus
+   increasing net thrust at the nozzle exit plane), whereas with a
+   turbojet (or turbofan) the falling density of the air entering the
+   intake (and the hot gases leaving the nozzle) causes the net thrust to
+   decrease with increasing altitude.
+
+Turbojet engines
+
+   A turbojet engine, in its simplest form is simply a gas turbine with a
+   nozzle attached
+   Enlarge
+   A turbojet engine, in its simplest form is simply a gas turbine with a
+   nozzle attached
+
+   A turbojet engine is a type of internal combustion engine often used to
+   propel aircraft. Air is drawn into the rotating compressor via the
+   intake and is compressed, through successive stages, to a higher
+   pressure before entering the combustion chamber. Fuel is mixed with the
+   compressed air and ignited by flame in the eddy of a flame holder. This
+   combustion process significantly raises the temperature of the gas. Hot
+   combustion products leaving the combustor expand through the turbine,
+   where power is extracted to drive the compressor. Although this
+   expansion process reduces both the gas temperature and pressure at exit
+   from the turbine, both parameters are usually still well above ambient
+   conditions. The gas stream exiting the turbine expands to ambient
+   pressure via the propelling nozzle, producing a high velocity jet in
+   the exhaust plume. If the jet velocity exceeds the aircraft flight
+   velocity, there is a net forward thrust upon the airframe.
+
+   Under normal circumstances, the pumping action of the compressor
+   prevents any backflow, thus facilitating the continuous-flow process of
+   the engine. Indeed, the entire process is similar to a four-stroke
+   cycle, but with induction, compression, ignition, expansion and exhaust
+   taking place simultaneously, but in different sections of the engine.
+   The efficiency of a jet engine is strongly dependent upon the overall
+   pressure ratio (combustor entry pressure/intake delivery pressure) and
+   the turbine inlet temperature of the cycle.
+
+   It is also perhaps instructive to compare turbojet engines with
+   propeller engines. Turbojet engines take a relatively small mass of air
+   and accelerate it by a large amount, whereas a propeller takes a large
+   mass of air and accelerates it by a small amount. The high-speed
+   exhaust of a turbojet engine makes it efficient at high speeds
+   (especially supersonic speeds) and high altitudes. On slower aircraft
+   and those required to fly short stages, a gas turbine-powered propeller
+   engine, commonly known as a turboprop, is more common and much more
+   efficient. Very small aircraft generally use conventional piston
+   engines to drive a propeller but small turboprops are getting smaller
+   as engineering technology improves.
+
+   The turbojet described above is a single-spool design, in which a
+   single shaft connects the turbine to the compressor. Higher overall
+   pressure ratio designs often have two concentric shafts, to improve
+   compressor stability during engine throttle movements. The outer high
+   pressure (HP) shaft connects the HP compressor to the HP turbine. This
+   HP Spool, with the combustor, forms the core or gas generator of the
+   engine. The inner shaft connects the low pressure (LP) compressor to
+   the LP Turbine to create the LP Spool. Both spools are free to operate
+   at their optimum shaft speed. (Concorde used this type).
+
+Turbofan engines
+
+   Most modern jet engines are actually turbofans, where the low pressure
+   compressor acts as a fan, supplying supercharged air to not only the
+   engine core, but to a bypass duct. The bypass airflow either passes to
+   a separate 'cold nozzle' or mixes with low pressure turbine exhaust
+   gases, before expanding through a 'mixed flow nozzle'.
+
+   Forty years ago there was little difference between civil and military
+   jet engines, apart from the use of afterburning in some (supersonic)
+   applications.
+
+   Civil turbofans today have a low specific thrust (net thrust divided by
+   airflow) to keep jet noise to a minimum and to improve fuel efficiency.
+   Consequently the bypass ratio (bypass flow divided by core flow) is
+   relatively high (ratios from 4:1 up to 8:1 are common). Only a single
+   fan stage is required, because a low specific thrust implies a low fan
+   pressure ratio.
+
+   Today's military turbofans, however, have a relatively high specific
+   thrust, to maximize the thrust for a given frontal area, jet noise
+   being of less concern in military uses relative to civil uses.
+   Multistage fans are normally needed to reach the relatively high fan
+   pressure ratio needed for high specific thrust. Although high turbine
+   inlet temperatures are often employed, the bypass ratio tends to be
+   low, usually significantly less than 2.0.
+
+   An approximate equation for calculating the net thrust of a jet engine,
+   be it a turbojet or a mixed turbofan, is:
+
+   F_n = \dot{m}(V_{jfe} - V_a)\,
+
+   where:
+
+   \dot{m} = \, intake mass flow rate
+
+   V_{jfe} =\, fully expanded jet velocity (in the exhaust plume)
+
+   V_a =\, aircraft flight velocity
+
+   While the \dot{m}.V_{jfe}\, term represents the gross thrust of the
+   nozzle, the \dot{m}. V_a\, term represents the ram drag of the intake.
+
+Major components
+
+   The major components of a jet engine are similar across the major
+   different types of engines, although not all engine types have all
+   components. The major parts include:
+     * Air intake (Inlet)
+       The standard reference frame for a jet engine is the aircraft
+       itself. For subsonic aircraft, the air intake to a jet engine
+       presents no special difficulties, and consists essentially of an
+       opening which is designed to minimise drag, as with any other
+       aircraft component. However, the air reaching the compressor of a
+       normal jet engine must be travelling below the speed of sound, even
+       for supersonic aircraft, to sustain the flow mechanics of the
+       compressor and turbine blades. At supersonic flight speeds,
+       shockwaves form in the intake system and reduce the recovered
+       pressure at inlet to the compressor. So some supersonic intakes use
+       devices, such as a cone or ramp, to increase pressure recovery, by
+       making more efficient use of the shock wave system.
+     * Compressor or Fan
+       The compressor is made up of stages. Each stage consists of vanes
+       which rotate, and stators which remain stationary. As air is drawn
+       deeper through the compressor, its heat and pressure increases.
+       Energy is derived from the turbine (see below), passed along the
+       shaft.
+     * Shaft
+       This carries power from the turbine to the compressor, and runs
+       most of the length of the engine. There may be as many as three
+       concentric shafts, rotating at independent speeds, with as many
+       sets of turbines and compressors. Other services, like a bleed of
+       cool air, may also run down the shaft.
+     * Combustor or Can or Flameholders or Combustion Chamber
+       This is a chamber where fuel is continuously burned in the
+       compressed air.
+     * Turbine
+       The turbine acts like a windmill, extracting energy from the hot
+       gases leaving the combustor. This energy is used to drive the
+       compressor through the shaft, or bypass fans, or props, or even
+       (for a gas turbine-powered helicopter) converted entirely to
+       rotational energy for use elsewhere. Relatively cool air, bled from
+       the compressor, may be used to cool the turbine blades and vanes,
+       to prevent them from melting.
+     * Afterburner or reheat (chiefly UK)
+       (mainly military) Produces extra thrust by burning extra fuel,
+       usually inefficiently, to significantly raise Nozzle Entry
+       Temperature at the exhaust. Owing to a larger volume flow (i.e.
+       lower density) at exit from the afterburner, an increased nozzle
+       flow area is required, to maintain satisfactory engine matching,
+       when the afterburner is alight.
+     * Exhaust or Nozzle
+       Hot gases leaving the engine exhaust to atmospheric pressure via a
+       nozzle, the objective being to produce a high velocity jet. In most
+       cases, the nozzle is convergent and of fixed flow area.
+     * Supersonic nozzle
+       If the Nozzle Pressure Ratio (Nozzle Entry Pressure/Ambient
+       Pressure) is very high, to maximize thrust it may be worthwhile,
+       despite the additional weight, to fit a convergent-divergent (de
+       Laval) nozzle. As the name suggests, initially this type of nozzle
+       is convergent, but beyond the throat (smallest flow area), the flow
+       area starts to increase to form the divergent portion. The
+       expansion to atmospheric pressure and supersonic gas velocity
+       continues downstream of the throat, whereas in a convergent nozzle
+       the expansion beyond sonic velocity occurs externally, in the
+       exhaust plume. The former process is more efficient than the
+       latter.
+
+   The various components named above have constraints on how they are put
+   together to generate the most efficiency or performance. The
+   performance and efficiency of an engine can never be taken in
+   isolation; for example fuel/distance efficiency of a supersonic jet
+   engine maximises at about mach 2, whereas the drag for the vehicle
+   carrying it is increasing as a square law and has much extra drag in
+   the transonic region. The highest fuel efficiency for the overall
+   vehicle is thus typically at Mach ~0.85.
+
+   For the engine optimisation for its intended use, important here is air
+   intake design, overall size, number of compressor stages (sets of
+   blades), fuel type, number of exhaust stages, metallurgy of components,
+   amount of bypass air used, where the bypass air is introduced, and many
+   other factors. For instance, let us consider design of the air intake.
+
+Air intakes
+
+Subsonic inlets
+
+   Pitot intake operating modes
+   Enlarge
+   Pitot intake operating modes
+
+   Pitot intakes are the dominant type for subsonic applications. A
+   subsonic pitot inlet is little more than a tube with an aerodynamic
+   fairing around it.
+
+   At zero airspeed (i.e., rest), air approaches the intake from a
+   multitude of directions: from directly ahead, radially, or even from
+   behind the plane of the intake lip.
+
+   At low airspeeds, the streamtube approaching the lip is larger in
+   cross-section than the lip flow area, whereas at the intake design
+   flight Mach number the two flow areas are equal. At high flight speeds
+   the streamtube is smaller, with excess air spilling over the lip.
+
+   Beginning around 0.85 Mach, shock waves can occur as the air
+   accelerates through the intake throat.
+
+   Careful radiusing of the lip region is required to optimize intake
+   pressure recovery (and distortion) throughout the flight envelope.
+
+Supersonic inlets
+
+   Supersonic intakes exploit shock waves to decelerate the airflow to a
+   subsonic condition at compressor entry.
+
+   There are basically two forms of shock waves:
+
+   1) Normal shock waves lie perpendicular to the direction of the flow.
+   These form sharp fronts and shock the flow to subsonic speeds.
+   Microscopically the air molecules smash into the subsonic crowd of
+   molecules like alpha rays. Normal shock waves tend to cause a large
+   drop in stagnation pressure. Basically, the higher the supersonic entry
+   Mach number to a normal shock wave, the lower the subsonic exit Mach
+   number and the stronger the shock (i.e. the greater the loss in
+   stagnation pressure across the shock wave).
+
+   2) Conical (3-dimensional) and oblique shock waves (2D) are angled
+   rearwards, like the bow wave on a ship or boat, and radiate from a flow
+   disturbance such as a cone or a ramp. For a given inlet Mach number,
+   they are weaker than the equivalent normal shock wave and, although the
+   flow slows down, it remains supersonic throughout. Conical and oblique
+   shock waves turn the flow, which continues in the new direction, until
+   another flow disturbance is encountered downstream.
+
+   Note: Comments made regarding 3 dimensional conical shock waves,
+   generally also apply to 2D oblique shock waves.
+
+   A sharp-lipped version of the pitot intake, described above for
+   subsonic applications, performs quite well at moderate supersonic
+   flight speeds. A detached normal shock wave forms just ahead of the
+   intake lip and 'shocks' the flow down to a subsonic velocity. However,
+   as flight speed increases, the shock wave becomes stronger, causing a
+   larger percentage decrease in stagnation pressure (i.e. poorer pressure
+   recovery). An early US supersonic fighter, the F-100 Super Sabre, used
+   such an intake.
+   An unswept lip generate a shock wave, which is reflected multiple times
+   in the inlet. The more reflections before the flow gets subsonic, the
+   better pressure recovery
+   Enlarge
+   An unswept lip generate a shock wave, which is reflected multiple times
+   in the inlet. The more reflections before the flow gets subsonic, the
+   better pressure recovery
+
+   More advanced supersonic intakes, excluding pitots:
+
+   a) exploit a combination of conical shock wave/s and a normal shock
+   wave to improve pressure recovery at high supersonic flight speeds.
+   Conical shock wave/s are used to reduce the supersonic Mach number at
+   entry to the normal shock wave, thereby reducing the resultant overall
+   shock losses.
+
+   b) have a design shock-on-lip flight Mach number, where the
+   conical/oblique shock wave/s intercept the cowl lip, thus enabling the
+   streamtube capture area to equal the intake lip area. However, below
+   the shock-on-lip flight Mach number, the shock wave angle/s are less
+   oblique, causing the streamline approaching the lip to be deflected by
+   the presence of the cone/ramp. Consequently, the intake capture area is
+   less than the intake lip area, which reduces the intake airflow.
+   Depending on the airflow characteristics of the engine, it may be
+   desirable to lower the ramp angle or move the cone rearwards to refocus
+   the shockwaves onto the cowl lip to maximise intake airflow.
+
+   c) are designed to have a normal shock in the ducting downstream of
+   intake lip, so that the flow at compressor/fan entry is always
+   subsonic. However, if the engine is throttled back, there is a
+   reduction in the corrected airflow of the LP compressor/fan, but (at
+   supersonic conditions) the corrected airflow at the intake lip remains
+   constant, because it is determined by the flight Mach number and intake
+   incidence/yaw. This discontinuity is overcome by the normal shock
+   moving to a lower cross-sectional area in the ducting, to decrease the
+   Mach number at entry to the shockwave. This weakens the shockwave,
+   improving the overall intake pressure recovery. So, the absolute
+   airflow stays constant, whilst the corrected airflow at compressor
+   entry falls (because of a higher entry pressure). Excess intake airflow
+   may also be dumped overboard or into the exhaust system, to prevent the
+   conical/oblique shock waves being disturbed by the normal shock being
+   forced too far forward by engine throttling.
+
+   Many second generation supersonic fighter aircraft featured an inlet
+   cone, which was used to form the conical shock wave. This type of inlet
+   cone is clearly seen at the very front of the English Electric
+   Lightning and MiG-21 aircraft, for example.
+
+   The same approach can be used for air intakes mounted at the side of
+   the fuselage, where a half cone serves the same purpose with a
+   semicircular air intake, as seen on the F-104 Starfighter and BAC
+   TSR-2.
+
+   Some intakes are biconic; that is they feature two conical surfaces:
+   the first cone is supplemented by a second, less oblique, conical
+   surface, which generates an extra conical shockwave, radiating from the
+   junction between the two cones. A biconic intake is usually more
+   efficient than the equivalent conical intake, because the entry Mach
+   number to the normal shock is reduced by the presence of the second
+   conical shock wave.
+
+   A very sophisticated conical intake was featured on the SR-71's Pratt &
+   Whitney J58s that could move a conical spike fore and aft within the
+   engine nacelle, preventing the shockwave formed on the spike from
+   entering the engine and stalling the engine, while keeping it close
+   enough to give good compression. Movable cones are uncommon.
+
+   A more sophisticated design than cones is to angle the intake so that
+   one of its edges forms a ramp. An oblique shockwave will form at the
+   start of the ramp. The Century series of US jets featured several
+   variants of this approach, usually with the ramp at the outer vertical
+   edge of the intake, which was then angled back inward towards the
+   fuselage. Typical examples include the Republic F-105 Thunderchief and
+   F-4 Phantom.
+   Concorde intake operating modes
+   Enlarge
+   Concorde intake operating modes
+
+   Later this evolved so that the ramp was at the top horizontal edge
+   rather than the outer vertical edge, with a pronounced angle downwards
+   and rearwards. This design simplified the construction of intakes and
+   allowed use of variable ramps to control airflow into the engine. Most
+   designs since the early 1960s now feature this style of intake, for
+   example the F-14 Tomcat, Panavia Tornado and Concorde.
+
+   From another point of view, like in a supersonic nozzle the corrected
+   (or non-dimensional) flow has to be the same at the intake lip, at the
+   intake throat and at the turbine. One of this three can be fixed. For
+   inlets the throat is made variable and some air is bypassed around the
+   turbine and directly fed into the afterburner. Unlike in a nozzle the
+   inlet is either instable or ineffiecient, because a normal shock wave
+   in the throat will suddenly move to the lip, thereby increasing the
+   pressure at the lip, leading to drag and reducing the pressure
+   recovery, leading to turbine surge and the loss of one SR-71.
+
+Compressors
+
+   Compressor stage GE J79
+   Enlarge
+   Compressor stage GE J79
+
+   Axial compressors rely on spinning blades that have aerofoil sections,
+   similar to aeroplane wings. As with aeroplane wings in some conditions
+   the blades can stall. If this happens, the airflow around the stalled
+   compressor can reverse direction violently. Each design of a compressor
+   has an associated operating map of airflow versus rotational speed for
+   characteristics peculiar to that type (see compressor map).
+
+   At a given throttle condition, the compressor operates somewhere along
+   the steady state running line. Unfortunately, this operating line is
+   displaced during transients. Many compressors are fitted with
+   anti-stall systems in the form of bleed bands or variable geometry
+   stators to decrease the likelihood of surge. Another method is to split
+   the compressor into two or more units, operating on separate concentric
+   shafts.
+
+   Another design consideration is the average stage loading. This can be
+   kept at a sensible level either by increasing the number of compression
+   stages (more weight/cost) or the mean blade speed (more blade/disc
+   stress).
+
+   Although large flow compressors are usually all-axial, the rear stages
+   on smaller units are too small to be robust. Consequently, these stages
+   are often replaced by a single centrifugal unit. Very small flow
+   compressors often employ two centrifugal compressors, connected in
+   series. Although in isolation centrifugal compressors are capable of
+   running at quite high pressure ratios (e.g. 10:1), impeller stress
+   considerations (i.e. T3, NH implications) limit the pressure ratio that
+   can be employed in high overall pressure ratio engine cycles.
+
+   Increasing overall pressure ratio implies raising the high pressure
+   compressor exit temperature (i.e. T3). This implies a higher high
+   pressure shaft speed, to maintain the datum blade tip Mach number on
+   the rear compressor stage. Stress considerations, however, may limit
+   the shaft speed increase, causing the original compressor to
+   throttle-back aerodynamically to a lower pressure ratio than datum.
+   Combustion chamber GE J79
+   Enlarge
+   Combustion chamber GE J79
+
+Combustors
+
+   Great care must be taken to keep the flame burning in a moderately fast
+   moving airstream, at all throttle conditions, as efficiently as
+   possible. Since the turbine cannot withstand stoichiometric
+   temperatures, resulting from the optimum combustion process, some of
+   the compressor air is used to quench the exit temperature of the
+   combustor to an acceptable level. Air used for combustion is considered
+   to be primary airflow, while excess air used for cooling is called
+   secondary airflow. Combustor configurations include can, annular, and
+   can-annular.
+
+Turbines
+
+   Turbine Stage GE J79
+   Enlarge
+   Turbine Stage GE J79
+
+   Because a turbine expands from high to low pressure, there is no such
+   thing as turbine surge or stall. The turbine needs fewer stages than
+   the compressor, mainly because the higher inlet temperature reduces the
+   deltaT/T (and thereby the pressure ratio) of the expansion process. The
+   blades have more curvature and the gas stream velocities are higher.
+
+   Designers must, however, prevent the turbine blades and vanes from
+   melting in a very high temperature and stress environment. Consequently
+   bleed air extracted from the compression system is often used to cool
+   the turbine blades/vanes internally. Other solutions are improved
+   materials and/or special insulating coatings. The discs must be
+   specially shaped to withstand the huge stresses imposed by the rotating
+   blades. They take the form of impulse, reaction, or combination
+   impulse-reaction shapes. Improved materials help to keep disc weight
+   down.
+
+Turbopumps
+
+   Turbopumps are used to raise the fuel pressure above the pressure in
+   the combustion chamber so that it can be injected. Turbopumps are very
+   commonly used with rockets, but ramjets also have been known to use
+   them. The turbopump is usually driven by a gas turbine.
+
+Nozzles
+
+   Afterburner GE J79
+   Enlarge
+   Afterburner GE J79
+
+   The primary object of a nozzle is to expand the exhaust stream to
+   atmospheric pressure, thereby producing a high velocity jet, relative
+   to the vehicle. If the fully expanded jet velocity exceeds the flight
+   velocity, there will be a forward thrust on the airframe.
+
+   Simple convergent nozzles are used on many jet engines. If the nozzle
+   pressure ratio is above the critical value (about 1.8:1) a convergent
+   nozzle will choke, resulting in some of the expansion to atmospheric
+   pressure taking place downstream of the throat (i.e. smallest flow
+   area), in the jet wake. Although much of the gross thrust produced will
+   still be from the jet momentum, additional (pressure) thrust will come
+   from the imbalance between the throat static pressure and atmospheric
+   pressure.
+
+   Many military combat engines incorporate an afterburner (or reheat) in
+   the engine exhaust system. When the system is lit, the nozzle throat
+   area must be increased, to accommodate the extra exhaust volume flow,
+   so that the turbomachinery is unaware that the afterburner is lit. A
+   variable throat area is achieved by moving a series of overlapping
+   petals, which approximate the circular nozzle cross-section.
+
+   At high nozzle pressure ratios, much of the expansion will take place
+   downstream of a convergent nozzle, which is somewhat inefficient.
+   Consequently, some jet engines incorporate a convergent-divergent
+   nozzle, to allow most of the expansion to take place within the nozzle
+   to maximise thrust. However, unlike the con-di nozzle used on a
+   conventional rocket motor, when such a device is used on a jet engine
+   it has to be a complex variable geometry device, to cope with the wide
+   variation in nozzle pressure ratio encountered in flight and engine
+   throttling. This further increases the weight and cost of such an
+   installation.
+   Afterburner nozzle
+   Enlarge
+   Afterburner nozzle
+
+   The simpler of the two is the ejector nozzle, which creates an
+   effective nozzle through a secondary airflow and spring-loaded petals.
+   At subsonic speeds, the airflow constricts the exhaust to a convergent
+   shape. As the aircraft speeds up, the two nozzles dilate, which allows
+   the exhaust to form a convergent-divergent shape, speeding the exhaust
+   gasses past Mach 1. More complex engines can actually use a tertiary
+   airflow to reduce exit area at very low speeds. Advantages of the
+   ejector nozzle are relative simplicity and reliability. Disadvantages
+   are average performance (compared to the other nozzle type) and
+   relatively high drag due to the secondary airflow. Notable aircraft to
+   have utilized this type of nozzle include the SR-71, Concorde, F-111,
+   and Saab Viggen
+
+   For higher performance, it is necessary to use an iris nozzle. This
+   type uses overlapping "petals" which mechanically adjusts the petals
+   with hydraulics. Although more complex than the ejector nozzle, it has
+   significantly higher performance and smoother airflow. As such, it is
+   employed primarily on high-performance fighters such as the F-14, F-15,
+   F-16, though is also used in high-speed bombers such as the B-1B. Some
+   modern iris nozzle additionally have the ability to change the angle of
+   the thrust.
+   Iris vectored thrust nozzle
+   Enlarge
+   Iris vectored thrust nozzle
+
+   Rocket motors also employ convergent-divergent nozzles, but these are
+   usually of fixed geometry, to minimize weight. Because of the much
+   higher nozzle pressure ratios experienced, rocket motor con-di nozzles
+   have a much greater area ratio (exit/throat) than those fitted to jet
+   engines.
+
+   At the other extreme, some high bypass ratio civil turbofans use an
+   extremely low area ratio (less than 1.01 area ratio),
+   convergent-divergent, nozzle on the bypass (or mixed exhaust) stream,
+   to control the fan working line. The nozzle acts as if it has variable
+   geometry. At low flight speeds the nozzle is unchoked (less than a Mach
+   number of unity), so the exhaust gas speeds up as it approaches the
+   throat and then slows down slightly as it reaches the divergent
+   section. Consequently, the nozzle exit area controls the fan match and,
+   being larger than the throat, pulls the fan working line slightly away
+   from surge. At higher flight speeds, the ram rise in the intake
+   increases nozzle pressure ratio to the point where the throat becomes
+   choked (M=1.0). Under these circumstances, the throat area dictates the
+   fan match and being smaller than the exit pushes the fan working line
+   slightly towards surge. This is not a problem, since fan surge margin
+   is much better at high flight speeds.
+
+Cooling systems
+
+   All jet engines require high temperature gas for good efficiency,
+   typically achieved by combusting hydrocarbon or hydrogen fuel.
+   Combustion temperatures can be as high as 3500K (5000F), above the
+   melting point of most materials.
+
+   Cooling systems are employed to keep the temperature of the solid parts
+   below the failure temperature.
+
+Air systems
+
+   A complex air system is built into most turbine based jet engines,
+   primarily to cool the turbine blades, vanes and discs.
+
+   Air, bled from the compressor exit, passes around combustor and is
+   injected into the rim of the rotating turbine disc. The cooling air
+   then passes through complex passages within the turbine blades. After
+   removing heat from the blade material, the air (now fairly hot) is
+   vented, via cooling holes, into the main gas stream. Cooling air for
+   the turbine vanes undergoes a similar process.
+
+   Cooling the leading edge of the blade can be difficult, because the
+   pressure of the cooling air just inside the cooling hole may not be
+   much different from that of the oncoming gas stream. One solution is to
+   incorporate a cover plate on the disc. This acts as a centrifugal
+   compressor to pressurize the cooling air before it enters the blade.
+   Another solution is to use an ultra-efficient turbine rim seal to
+   pressurize the area where the cooling air passes across to the rotating
+   disc.
+
+   Seals are used to prevent oil leakage, control air for cooling and
+   prevent stray air flows into turbine cavities.
+
+   A series of (e.g. labyrinth) seals allow a small flow of bleed air to
+   wash the turbine disc to extract heat and, at the same time, pressurize
+   the turbine rim seal, to prevent hot gases entering the inner part of
+   the engine. Other types of seals are hydraulic, brush, carbon etc.
+
+   Small quantities of compressor bleed air are also used to cool the
+   shaft, turbine shrouds, etc. Some air is also used to keep the
+   temperature of the combustion chamber walls below critical. This is
+   done using primary and secondary airholes which allow a thin layer of
+   air to cover the inner walls of the chamber preventing excessive
+   heating.
+
+   Exit temperature is dependent on the turbine upper temperature limit
+   depending on the material. Reducing the temperature will also prevent
+   thermal fatigue and hence failure. Accesories may also need their own
+   cooling systems using air from the compressor or outside air.
+
+   Air from compressor stages is also used for heating of the fan,
+   airframe anti-icing and for cabin heat. Which stage is bled from
+   depends on the atmospheric conditions at that altitude.
+
+Rocket engines
+
+   Rocket engines have extreme cooling requirements, due to the
+   simultaneous combination of both high pressures (typically 10-200 bar)
+   and high temperatures (~3500 K) typically found in the combustion
+   chamber.
+
+   Rocket engines often use liquid coolant, typically the propellant is
+   passed around the hot parts of the engine ( regenerative cooling); but
+   other techniques such as radiative cooling or dump cooling can be used.
+
+   In addition, the chamber is normally designed so that the injectors
+   provide for cooler gas at the circumference (curtain cooling) or cool
+   liquid: film cooling however these techniques reduce performance
+   somewhat due to incompletely burnt propellant being ejected, but are
+   nevertherless used by many engines.
+
+Fuel system
+
+   Apart from providing fuel to the engine, the fuel system is also used
+   to control propeller speeds, compressor airflow and cool lubrication
+   oil. Fuel is usually introduced by an atomized spray, the amount of
+   which is controlled automatically depending on the rate of airflow.
+
+   So the sequence of events for increasing thrust is, the throtttle opens
+   and fuel spray pressure is increased, increasing the amount of fuel
+   being burned. This means that exhaust gases are hotter and so are
+   ejected at higher acceleration, which means they exert higher forces
+   and therefore increase the engine thrust directly. It also increases
+   the energy extracted by the turbine which drives the compressor even
+   faster and so there is an increase in air flowing into the engine as
+   well.
+
+   Obviously, it is the rate of the mass of the airflow that matters since
+   it is the change in momentum (mass x velocity) that produces the force.
+   However, density varies with altitude and hence inflow of mass will
+   also vary with altitude, temperature etc. which means that throttle
+   values will vary according to all these parameters without changing
+   them manually.
+
+   This is why fuel flow is controlled automatically. Usually there are 2
+   systems, one to control the pressure and the other to control the flow.
+   The inputs are usually from pressure and temperature probes from the
+   intake and at various points through the engine. Also throttle inputs,
+   engine speed etc are required. These affect the high pressure fuel
+   pump.
+
+Fuel control unit (FCU)
+
+   This element is something like a mechanical computer. It determines the
+   output of the fuel pump by a system of valves which can change the
+   pressure used to cause the pump stroke, thereby varying the amount of
+   flow.
+
+   Take the possibility of increased altitude where there will be reduced
+   air intake pressure. In this case, the chamber within the FCU will
+   expand which causes the spill valve to bleed more fuel. This causes the
+   pump to deliver less fuel until the opposing chamber pressure is
+   equivalent to the air pressure and the spill valve goes back to its
+   position.
+
+   And when the throttle is opened, it releases i.e. lessens the pressure
+   which lets the throttle valve fall. The pressure is transmitted
+   (because of a back-pressure valve i.e. no air gaps in fuel flow) which
+   closes the FCU spill valves (as they are commonly called) which then
+   increases the pressure and causes a higher flow rate.
+
+   The engine speed governor is used to prevent the engine from
+   over-speeding. It has the capability of disregarding the FCU control.
+   It does this by use of a diaphragm which senses the engine speed in
+   terms of the centrifugal pressure caused by the rotating rotor of the
+   pump. At a critical value, this diaphragm causes another spill valve to
+   open and bleed away the fuel flow.
+
+   There are other ways of controlling fuel flow for example with the
+   dash-pot throttle lever. The throttle has a gear which meshes with the
+   control valve (like a rack and pinion) causing it to slide along a
+   cylinder which has ports at various positions. Moving the throttle and
+   hence sliding the valve along the cylinder, opens and closes these
+   ports as designed. There are actually 2 valves viz. the throttle and
+   the control valve. The control valve is used to control pressure on one
+   side of the throttle valve such that it gives the right opposition to
+   the throttle control pressure. It does this by controlling the fuel
+   outlet from within the cylinder.
+
+   So for example, if the throttle valve is moved up to let more fuel in,
+   it will mean that the throttle valve has moved into a position which
+   allows more fuel to flow through and on the other side, the required
+   pressure ports are opened to keep the pressure balance so that the
+   throttle lever stays where it is.
+
+   At initial acceleration, more fuel is required and the unit is adapted
+   to allow more fuel to flow by opening other ports at a particular
+   throttle position. Changes in pressure of outside air i.e. altitude,
+   speed of aircraft etc are sensed by an air capsule.
+
+Fuel pump
+
+   Fuel pumps are used to raise the fuel pressure above the pressure in
+   the combustion chamber so that the fuel can be injected. Fuel pumps are
+   usually driven by the main shaft, via gearing.
+
+   Turbopumps are very commonly used with liquid-fuelled rockets and rely
+   on the expansion of an onboard gas through a turbine.
+
+   Ramjet turbopumps use ram air expanding through a turbine.
+
+Engine starting system
+
+   The fuel system as explained above, is one of the 2 systems required
+   for starting the engine. The other is the actual ignition of the
+   air/fuel mixture in the chamber. Usually, an auxiliary power unit is
+   used to start the engines. It has a starter motor which has a high
+   torque transmitted to the compressor unit. When the optimum speed is
+   reached, i.e. the flow of gas through the turbine is sufficient, the
+   turbines take over. There are a number of different starting methods
+   such as electric, hydraulic, pneumatic etc.
+
+   The electric starter works with gears and clutch plate linking the
+   motor and the engine. The clutch is used to disengage when optimum
+   speed is achieved. This is usually done automatically. The electric
+   supply is used to start the motor as well as for ignition. The voltage
+   is usually built up slowly as starter gains speed.
+
+   Some military aircraft need to be started quicker than the electric
+   method permits and hence they use other methods such as a turbine
+   starter. This is an impulse turbine impacted by burning gases from a
+   cartridge. It is geared to rotate the engine and also connected to an
+   automatic disconnect system. The cartidge is set alight electrically
+   and used to turn the turbine.
+
+   Another turbine starter system is almost exactly like a little engine.
+   Again the turbine is connected to the engine via gears. However, the
+   turbine is turned by burning gases - usually the fuel is
+   iso-propyl-nitrate stored in a tank and sprayed into a combustion
+   chamber. Again, it is ignited with a spark plug. Everything is
+   electrically controlled, such as speed etc.
+
+   Commercial aircraft usually use what is called an auxiliary power unit
+   or APU. It is normally a small gas turbine. Thus, one could say that
+   using such an APU is using a small jet engine to start a larger one.
+   High pressure air from the compressor section of the APU is bled off
+   through a system of pipes to the engines where it is directed into the
+   starting system. This "bleed air" is directed into a mechanism to start
+   the engine turning and begin pulling in air. When the rotating speed of
+   the engine is sufficient to pull in enough air to support combustion,
+   fuel is introduced and ignited. Once the engine ignites and reaches
+   idle speed, the bleed air is shut off.
+
+   The APUs on Boeing or Airbus aircraft such as (respectively) the 737
+   and A320 can be seen at the extreme rear of the aircraft. This is the
+   typical location for an APU on most commercial airliners although some
+   may be within the wing root ( 727) or the aft fuselage ( DC-9/ MD80) as
+   examples and some military transports carry their APU's in one of the
+   main landing gear pods ( C-141).
+
+   The APUs also provide enough power to keep the cabin lights, pressure
+   and other systems on while the engines are off. The valves used to
+   control the airflow are usually electrically controlled. They
+   automatically close at a pre-determined speed. As part of the starting
+   sequence on some engines fuel is combined with the supplied air and
+   burned instead of using just air. This usually produces more power per
+   unit weight.
+
+   Usually an APU is started by its own electric starter motor which is
+   switched off at the proper speed automatically. When the main engine
+   starts up and reaches the right conditions, this auxiliary unit is then
+   switched off and disengages slowly.
+
+   Hydraulic pumps can also be used to start some engines through gears.
+   The pumps are electrically controlled on the ground.
+
+Ignition
+
+   Usually there are 2 igniter plugs in different positions in the
+   combustion system. A high voltage spark is used to ignite the gases.
+   The voltage is stored up from a low voltage supply provided by the
+   starter system. It builds up to the right value and is then released as
+   a high energy spark. Depending on various conditions, the igniter
+   continues to provide sparks to prevent combustion from failing if the
+   flame inside goes out.
+
+   Of course, in the event that the flame does go out, there must be
+   provision to relight. There is a limit of altitude and air speed at
+   which an engine can obtain a satisfactory relight.
+
+Lubrication system
+
+   A lubrication system serves to ensure lubrication of the bearings and
+   to maintain sufficiently cool temperatures, mostly by eliminating
+   friction.
+
+   The lubrication system as a whole should be able to prevent foreign
+   material from entering the plane, and reaching the bearings, gears, and
+   other moving parts. The lubricant must be able to flow easily at
+   relatively low temperatures and not disintegrate or break down at very
+   high temperatures.
+
+   Usually the lubrication system has subsystems that deal individually
+   with the pressure of an engine, scavenging, and a breather.
+
+   The pressure system components are an oil tank and de-aerator, main oil
+   pump, main oil filter/filter bypass valve, pressure regulating valve
+   (PRV), oil cooler/by pass valve and tubing/jets.
+   Usually the flow is from the tank to the pump inlet and PRV, pumped to
+   main oil filter or it's bypass valve and oil cooler, then through some
+   more filters to jets in the bearings.
+
+   Using the PRV method of control, means that the pressure of the feed
+   oil must be below a critical value (usually controlled by other valves
+   which can leak out excess oil back to tank if it exceeds the critical
+   value). The valve opens at a certain pressure and oil is kept moving at
+   a constant rate into the bearing chamber.
+
+   If the engine speed increases, the pressure within the bearing chamber
+   also increases, which means the pressure difference between the
+   lubricant feed and the chamber reduces which could reduce slow rate of
+   oil when it is needed even more. As a result, some PRVs can adjust
+   their spring force values using this pressure change in the bearing
+   chamber proportionally to keep the lubricant flow constant.
+
+Advanced designs
+
+J-58 combined ramjet/turbojet
+
+   The SR-71's Pratt & Whitney J58 engines were rather unusual. They could
+   convert in flight from being largely a turbojet to being largely a
+   compressor-assisted ramjet. At high speeds (above Mach 2.4), the engine
+   used variable geometry vanes to direct excess air through 6 bypass
+   pipes from downstream of the fourth compressor stage into the
+   afterburner. 80% of the SR-71's thrust at high speed was generated in
+   this way, giving much higher thrust, improving specific impulse by
+   10-15%, and permitting continuous operation at Mach 3.2. The name
+   coined for this configuration is turbo-ramjet.
+
+Pre-cooled turbojets
+
+   Engines that may need to operate at low hypersonic speeds could
+   theoretically have much higher performance if a heat exchanger is used
+   to cool the incoming air. The low temperature allows lighter materials
+   to be used and combustors to inject more fuel (ordinarily, fuel flow
+   must be reduced at high speed to prevent the turbines from melting, but
+   doing so greatly reduces thrust- precooling the air avoids this.)
+
+   This idea leads to plausible designs like SABRE, that might permit
+   single-stage-to-orbit, and ATREX, that might permit jet engines to be
+   used as boosters for space vehicles.
+
+Nuclear-powered ramjet
+
+   Project Pluto was a nuclear-powered ramjet, intended for use in a
+   cruise missile. Rather than combusting fuel as in regular jet engines,
+   air was heated using a high-temperature, unshielded nuclear reactor.
+   This raised the specific impulse of the engine by stupendous amounts,
+   and the ramjet was predicted to be able to fly for months at supersonic
+   speeds (Mach 3 at tree-top height). However, there was no obvious way
+   to stop it once it had taken off, which is a great disadvantage.
+   Unfortunately, because the reactor was unshielded, it was dangerous to
+   be in or around the flight path of the vehicle (although the exhaust
+   itself wasn't radioactive).
+
+Scramjets
+
+   Main article: scramjet
+
+   Scramjets are an evolution of the ramjet that are able to operate at
+   much higher speeds than ramjets (or any other kind of airbreathing
+   engine) are capable of reaching. They share a similar structure with
+   ramjets, being a specially-shaped tube that compresses air with no
+   moving parts through ram-air compression. Scramjets, however, operate
+   with supersonic airflow through the entire engine. Thus, scramjets do
+   not have the diffuser required by ramjets to slow the incoming airflow
+   to subsonic speeds.
+
+   Scramjets start working at speeds of at least Mach 4, and have a
+   theoretical maximum speed of Mach 17. Due to aerodynamic heating at
+   these high speeds, scramjets are expected to be very heavy. Cooling, as
+   a result, poses a challenge to engineers.
+
+Trivia
+
+     * A Scrapheap Challenge team once made a big truck's turbocharger
+       into a crude but working turbojet engine.
+     * The J-58 engines were believed to be capable of about Mach 4.5, but
+       the SR-71 airframe they were attached to got too hot to exceed Mach
+       3.2.
+     * Jet-engined aircraft appear to be cooling the earth down slightly (
+       global dimming) in the short term, but heating it up in the long
+       term (global warming).
+     * In the severe winter of 1946-1947 in Britain, there were instances
+       of jet engines (blowing forwards) mounted on railway trucks being
+       used for snow clearance.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Jet_engine"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

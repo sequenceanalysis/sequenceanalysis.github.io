@@ -1,0 +1,362 @@
+   #copyright
+
+Quantum computer
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   The Bloch sphere is a representation of a qubit, the fundamental
+   building block of quantum computers.
+   Enlarge
+   The Bloch sphere is a representation of a qubit, the fundamental
+   building block of quantum computers.
+
+   A quantum computer is any device for computation that makes direct use
+   of distinctively quantum mechanical phenomena, such as superposition
+   and entanglement, to perform operations on data. In a classical (or
+   conventional) computer, the amount of data is measured by bits; in a
+   quantum computer, the data is measured by qubits. The basic principle
+   of quantum computation is that the quantum properties of particles can
+   be used to represent and structure data, and that quantum mechanisms
+   can be devised and built to perform operations with these data.
+
+   Though quantum computing is still in its infancy, experiments have been
+   carried out in which quantum computational operations were executed on
+   a very small number of qubits. Research in both theoretical and
+   practical areas continues at a frantic pace, and many national
+   government and military funding agencies support quantum computing
+   research to develop quantum computers for both civilian and national
+   security purposes, such as cryptanalysis. (See Timeline of quantum
+   computing for details on current and past progress.)
+
+   It is widely believed that if large-scale quantum computers can be
+   built, they will be able to solve certain problems asymptotically
+   faster than any classical computer. Quantum computers are different
+   from other computers such as DNA computers and computers based on
+   transistors, even though these may ultimately use some kind of quantum
+   mechanical effect (for example covalent bonds). Some computing
+   architectures such as optical computers may use classical superposition
+   of electromagnetic waves, but without some specifically quantum
+   mechanical resource such as entanglement, they do not share the
+   potential for computational speed-up of quantum computers.
+
+The basis of quantum computing
+
+   Unsolved problems in physics: Is it possible to construct a practical
+   computer that performs calculations on qubits (quantum bits)?
+
+   In quantum mechanics, the state of a physical system (such as an
+   electron or a photon) is described by a vector in a mathematical object
+   called a Hilbert space. The realisation of the Hilbert space depends on
+   the particular system. For instance, in the case of a single particle
+   system in three dimensions, the state can be described by a
+   complex-valued function defined on R^3 (three- dimensional space)
+   called a wave function. As described in the article on quantum
+   mechanics, this function has a probabilistic interpretation; of
+   particular significance is that quantum states can be in a
+   superposition of the basis states. The time evolution of the system
+   state vector is assumed to be unitary, meaning that it is reversible.
+
+   A classical computer has a memory made up of bits, where each bit holds
+   either a one or a zero. The device computes by manipulating those bits,
+   i.e. by transporting these bits from memory to (possibly a suite of)
+   logic gates and back. A quantum computer maintains a vector of qubits.
+   A qubit can hold a one, or a zero, or a superposition of these. A
+   quantum computer operates by manipulating those qubits, i.e. by
+   transporting these bits from memory to (possibly a suite of) quantum
+   logic gates and back.
+
+   Qubits for a quantum computer can be implemented using particles with
+   two spin states: "up" and "down" (typically written |0\rangle and
+   |1\rangle ); in fact, any system possessing an observable quantity A
+   which is conserved under time evolution and such that A has at least
+   two discrete and sufficiently spaced consecutive eigenvalues, is a
+   suitable candidate for implementing a qubit, since any such system can
+   be mapped onto an effective spin-1/2.
+
+   For discussion of foundational aspects of quantum computing, see the
+   article on quantum circuits.
+
+Bits vs qubits
+
+   Consider first a classical computer that operates on a 3 bit register.
+   At any given time, the bits in the register are in a definite state,
+   such as 101. In a quantum computer, however, the qubits can be in a
+   superposition of all the classically allowed states. In fact, the
+   register is described by a wavefunction:
+
+          |\psi \rangle = \alpha|000\rangle + \beta|001\rangle +
+          \gamma|010\rangle + \ldots
+
+   where the coefficients α, β, γ,... are complex numbers whose amplitudes
+   squared are the probabilities to measure the qubits in each state.
+   Consequently, | γ | ^2 is the probability to measure the register in
+   the state 010. That these numbers are complex is important because the
+   phases of the numbers can constructively and destructively interfere
+   with one another, an important feature for quantum algorithms.
+
+   For an n qubit quantum register, recording the state of the register
+   requires 2^n complex numbers (the 3-qubit register requires 2^3 = 8
+   numbers). Consequently, the number of classical states encoded in a
+   quantum register grows exponentially with the number of qubits. For
+   n=300, this is roughly 10^90, more states than there are atoms in the
+   known universe. Note that the coefficients are not all independent,
+   since the probabilities must sum to 1. The representation is also (for
+   most practical cases) non-unique, since there is no way to physically
+   distinguish between a particular quantum register and a similar one
+   where all of the amplitudes have been multiplied by the same phase such
+   as −1, i, or in general any number on the complex unit circle. One can
+   show the dimension of the set of states of an n qubit register is
+   2^n+1 − 2. See Bloch sphere.
+
+Initialization, execution and termination
+
+   In our example, the contents of the qubit registers can be thought of
+   as an 8-dimensional complex vector. An algorithm for a quantum computer
+   must initialize this vector in some specified form (dependent on the
+   design of the quantum computer). In each step of the algorithm, that
+   vector is modified by multiplying it by a unitary matrix. The matrix is
+   determined by the physics of the device. The unitary character of the
+   matrix ensures the matrix is invertible (so each step is reversible).
+
+   Upon termination of the algorithm, the 8-dimensional complex vector
+   stored in the register must be somehow read off from the qubit register
+   by a quantum measurement. However, by the laws of quantum mechanics,
+   that measurement will yield a random 3 bit string (and it will destroy
+   the stored state as well). This random string can be used in computing
+   the value of a function because (by design) the probability
+   distribution of the measured output bitstring is skewed in favour of
+   the correct value of the function. By repeated runs of the quantum
+   computer and measurement of the output, the correct value can be
+   determined, to a high probability, by majority polling of the outputs.
+   See quantum circuit for a more precise formulation. In brief, quantum
+   computations are probabilistic.
+
+   A quantum algorithm is implemented by an appropriate sequence of
+   unitary operations. Note that for a given algorithm, the operations
+   will always be done in exactly the same order. There is no "IF THEN"
+   statement to vary the order, since there is no way to read the state of
+   a qubit before the final measurement. There are, however, conditional
+   gate operations such as the controlled NOT gate, or CNOT.
+
+   For more details on the sequences of operations used for various
+   algorithms, see universal quantum computer, Shor's algorithm, Grover's
+   algorithm, Deutsch-Jozsa algorithm, quantum Fourier transform, quantum
+   gate, quantum adiabatic algorithm and quantum error correction. Also
+   refer to the growing field of quantum programming.
+
+The power of quantum computers
+
+   Integer factorization is believed to be computationally infeasible with
+   an ordinary computer for large numbers that are the product of two
+   prime numbers of roughly equal size (e.g., products of two 300-digit
+   primes). By comparison, a quantum computer could solve this problem
+   relatively easily. If a number has n bits (is n digits long when
+   written in the binary numeral system), then a quantum computer with
+   just over 2n qubits can use Shor's algorithm to find its factors. It
+   can also solve a related problem called the discrete logarithm problem.
+   This ability would allow a quantum computer to "break" many of the
+   cryptographic systems in use today, in the sense that there would be a
+   relatively fast ( polynomial time in n) algorithm for solving the
+   problem. In particular, most of the popular public key ciphers could be
+   much more quickly broken, including forms of RSA, ElGamal and
+   Diffie-Hellman. These are used to protect secure Web pages, encrypted
+   email, and many other types of data. Breaking these would have
+   significant ramifications for electronic privacy and security. The only
+   way to increase the security of an algorithm like RSA would be to
+   increase the key size and hope that an adversary does not have the
+   resources to build and use a powerful enough quantum computer. It seems
+   plausible that it will always be possible to build classical computers
+   that have more bits than the number of qubits in the largest quantum
+   computer. If that's true, then algorithms like RSA could be made secure
+   by ensuring that keylengths exceed the storage capacities of quantum
+   computers.
+
+   There are some digital signature schemes that are believed to be secure
+   against quantum computers. See for instance Lamport signatures.
+
+   Perhaps not as surprisingly, quantum computers could also be useful for
+   running simulations of quantum mechanics. This idea goes back to
+   Richard Feynman (1982) who observed that there is no known algorithm
+   for simulating quantum systems on a classical computer and suggested to
+   study the use of quantum computer for this purpose. The speedup
+   achieved by quantum computers could be just as large as for factoring.
+   This could be a great boon to physics, chemistry, materials science,
+   nanotechnology, biology and medicine, all of which are limited today by
+   the slow speed of quantum mechanical simulations. For example, some
+   modern simulations that are taking IBM's Blue Gene supercomputer years,
+   would take a quantum computer only a matter of seconds.
+
+   This dramatic advantage of quantum computers is currently known to
+   exist for only those three problems: factoring, discrete logarithm, and
+   quantum physics simulations. However, there is no proof that the
+   advantage is real: an equally fast classical algorithm may still be
+   discovered (though some consider this unlikely). There is one other
+   problem where quantum computers have a smaller, though significant
+   (quadratic) advantage. It is quantum database search, and can be solved
+   by Grover's algorithm. In this case the advantage is provable. This
+   establishes beyond doubt that (ideal) quantum computers are superior to
+   classical computers for at least one problem.
+
+   Consider a problem that has these four properties:
+    1. The only way to solve it is to guess answers repeatedly and check
+       them,
+    2. There are n possible answers to check,
+    3. Every possible answer takes the same amount of time to check, and
+    4. There are no clues about which answers might be better: generating
+       possibilities randomly is just as good as checking them in some
+       special order.
+
+   An example of this is a password cracker that attempts to guess the
+   password for an encrypted file (assuming that the password has a
+   maximum possible length).
+
+   For problems with all four properties, it will take an average of
+   (n + 1)/2 guesses to find the answer using a classical computer. The
+   time for a quantum computer to solve this will be proportional to the
+   square root of n. That can be a very large speedup, reducing some
+   problems from years to seconds. It can be used to attack symmetric
+   ciphers such as Triple DES and AES by attempting to guess the secret
+   key. But it is also easy to defend against, by doubling the size of
+   this key. There are also more complicated methods for secure
+   communication, such as using quantum cryptography.
+
+   Regardless of whether any of these problems can be shown to have an
+   advantage on a quantum computer, they nonetheless will always have the
+   advantage of being an excellent tool for studying quantum mechanical
+   interactions, which of itself is an enormous value to the scientific
+   community.
+
+   There are currently no other practical problems known where quantum
+   computers give a large speedup over classical computers. Research is
+   continuing, and more problems may yet be found.
+
+Problems and practicality issues
+
+   There are a number of practical difficulties in building a quantum
+   computer, and thus far quantum computers have only solved trivial
+   problems. David DiVincenzo, of IBM, listed the following requirements
+   for a practical quantum computer:
+     * scalable physically to increase the number of qubits
+     * qubits can be initialized to arbitrary values
+     * quantum gates faster than decoherence time
+     * Turing-complete gate set
+     * qubits can be read easily
+
+   To summarize the problem from the perspective of an engineer, one needs
+   to solve the challenge of building a system which is isolated from
+   everything except the measurement and manipulation mechanism.
+   Furthermore, one needs to be able to turn off the coupling of the
+   qubits to the measurement so as to not decohere the qubits while
+   performing operations on them.
+
+Quantum decoherence
+
+   One major problem is keeping the components of the computer in a
+   coherent state, as the slightest interaction with the external world
+   would cause the system to decohere. This effect causes the unitary
+   character (and more specifically, the invertibility) of quantum
+   computational steps to be violated. Decoherence times for candidate
+   systems, in particular the transverse relaxation time T[2] (terminology
+   used in NMR and MRI technology, also called the dephasing time),
+   typically range between nanoseconds and seconds at low temperature. The
+   issue for optical approaches are more difficult as these timescales are
+   orders of magnitude lower and an often cited approach to overcome it
+   uses optical pulse shaping approach. Error rates are typically
+   proportional to the ratio of operating time to decoherence time, hence
+   any operation must be completed much quicker than the decoherence time.
+   If the error rate is small enough, it is possible to use quantum error
+   correction, which corrects errors due to decoherence, thereby allowing
+   the total calculation time to be longer than the decoherence time. An
+   often cited (but rather arbitrary) figure for required error rate in
+   each gate is 10^−4. This implies that each gate must be able to perform
+   its task 10,000 times faster than the decoherence time of the system.
+
+   Meeting this scalability condition is possible for a wide range of
+   systems. However the use of error correction brings with it the cost of
+   a greatly increased number of required qubits. The number required to
+   factor integers using Shor's algorithm is still polynomial, and thought
+   to be between L^4 and L^6, where L is the number of bits in the number
+   to be factored. For a 1000 bit number, this implies a need for 10^12 to
+   10^18 qubits. Fabrication and control of this large number of qubits is
+   non-trivial for any of the proposed designs.
+
+   One approach to the stability-decoherence problem is to create a
+   topological quantum computer with anyons, quasi-particles used as
+   threads and relying on knot theory to form stable logic gates.
+
+Candidates
+
+   There are a number of quantum computing candidates, among those:
+    1. Superconductor-based quantum computers (including SQUID-based
+       quantum computers)
+    2. Trapped ion quantum computer
+    3. Electrons on helium quantum computers
+    4. " Nuclear magnetic resonance on molecules in solution"-based
+    5. " Quantum dot on surface"-based
+    6. " Cavity quantum electrodynamics" ( CQED)-based
+    7. " Molecular magnet"-based
+    8. Fullerene-based ESR quantum computer
+    9. Solid state NMR Kane quantum computers
+   10. Optic-based quantum computers ( Quantum optics)
+   11. Topological quantum computer
+
+   In 2005, researchers at the University of Michigan built a
+   semiconductor chip which functioned as an ion trap. Such devices,
+   produced by standard lithography techniques, may point the way to
+   scalable quantum computing tools. An improved version was made in 2006.
+
+Quantum computing in computational complexity theory
+
+   This section surveys what is currently known mathematically about the
+   power of quantum computers. It describes the known results from
+   computational complexity theory and the theory of computation dealing
+   with quantum computers.
+
+   The class of problems that can be efficiently solved by quantum
+   computers is called BQP, for "bounded error, quantum, polynomial time".
+   Quantum computers only run randomized algorithms, so BQP on quantum
+   computers is the counterpart of BPP on classical computers. It is
+   defined as the set of problems solvable with a polynomial-time
+   algorithm, whose probability of error is bounded away from one quarter
+   (Nielsen & Chuang 2000). A quantum computer is said to "solve" a
+   problem if, for every instance, its answer will be right with high
+   probability. If that solution runs in polynomial time, then that
+   problem is in BQP.
+
+   BQP is suspected to be disjoint from NP-complete and a strict superset
+   of P, but that is not known. Both integer factorization and discrete
+   log are in BQP. Both of these problems are NP problems suspected to be
+   outside BPP, and hence outside P. Both are suspected to not be
+   NP-complete. There is a common misconception that quantum computers can
+   solve NP-complete problems in polynomial time. That is not known to be
+   true, and is generally suspected to be false.
+
+   An operator for a quantum computer can be thought of as changing a
+   vector by multiplying it with a particular matrix. Multiplication by a
+   matrix is a linear operation. It has been shown that if a quantum
+   computer could be designed with nonlinear operators, then it could
+   solve NP-complete problems in polynomial time. It could even do so for
+   #P-complete problems. It is not yet known whether such a machine is
+   possible.
+
+   Although quantum computers are sometimes faster than classical
+   computers, ones of the types described above can't solve any problems
+   that classical computers can't solve, given enough time and memory
+   (albeit possibly an amount that could never practically be brought to
+   bear). A Turing machine can simulate these quantum computers, so such a
+   quantum computer could never solve an undecidable problem like the
+   halting problem. The existence of "standard" quantum computers does not
+   disprove the Church-Turing thesis (Nielsen and Chuang 2000).
+
+   Very recently, Debabrata Goswami and others have begun to investigate
+   the possibility of using quantum mechanics for hypercomputation - that
+   is, solving undecidable problems. Such claims have been met with very
+   considerable skepticism as to whether it is even theoretically
+   possible; see the hypercomputation article for more details.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Quantum_computer"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

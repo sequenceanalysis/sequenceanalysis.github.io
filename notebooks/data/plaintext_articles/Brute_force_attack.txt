@@ -1,0 +1,137 @@
+   #copyright
+
+Brute force attack
+
+2007 Schools Wikipedia Selection. Related subjects: Cryptography
+
+   The EFF's US$250,000 DES cracking machine contained over 1,800 custom
+   chips and could brute force a DES key in a matter of days — the
+   photograph shows a DES Cracker circuit board fitted with several Deep
+   Crack chips
+   Enlarge
+   The EFF's US$250,000 DES cracking machine contained over 1,800 custom
+   chips and could brute force a DES key in a matter of days — the
+   photograph shows a DES Cracker circuit board fitted with several Deep
+   Crack chips
+
+   In cryptanalysis, a brute force attack is a method of defeating a
+   cryptographic scheme by trying a large number of possibilities; for
+   example, exhaustively working through all possible keys in order to
+   decrypt a message. In most schemes, the theoretical possibility of a
+   brute force attack is recognized, but it is set up in such a way that
+   it would be computationally infeasible to carry out. Accordingly, one
+   definition of "breaking" a cryptographic scheme is to find a method
+   faster than a brute force attack.
+
+   The selection of an appropriate key length depends on the practical
+   feasibility of performing a brute force attack. By obfuscating the data
+   to be encoded, brute force attacks are made less effective as it is
+   more difficult to determine when one has succeeded in breaking the
+   code.
+
+Symmetric ciphers
+
+   For symmetric-key ciphers, a brute force attack typically means a
+   brute-force search of the key space; that is, testing all possible keys
+   in order to recover the plaintext used to produce a particular
+   ciphertext.
+
+   In a brute force attack, the expected number of trials before the
+   correct key is found is equal to half the size of the key space. For
+   example, if there are 2^64 possible keys, a brute force attack would,
+   on average, be expected to find a key after 2^63 trials.
+
+   For each trial of a candidate key the attacker needs to be able to
+   recognise when he has found the correct key. The most straightforward
+   way is to obtain a few corresponding plaintext and ciphertext pairs,
+   that is, a known-plaintext attack. Alternatively, a ciphertext-only
+   attack is possible by decrypting ciphertext using each candidate key,
+   and testing the result for similarity to plaintext language — for
+   example, English encoded in ASCII.
+
+   In general, a symmetric key cipher is considered secure if there is no
+   method less expensive (in time, memory requirements, etc) than brute
+   force; Claude Shannon used the term "work factor" for this.
+   The COPACOBANA machine is a reprogrammable and cost-optimized hardware
+   for cryptanalytical applications such as exhaustive key search. It was
+   built for US$10,000 by the Universities of Bochum and Kiel and contains
+   120 low-cost FPGAs.
+   Enlarge
+   The COPACOBANA machine is a reprogrammable and cost-optimized hardware
+   for cryptanalytical applications such as exhaustive key search. It was
+   built for US$10,000 by the Universities of Bochum and Kiel and contains
+   120 low-cost FPGAs.
+
+   Symmetric ciphers with keys of length up to 64 bits have been broken by
+   brute force attacks. DES, a widely-used block cipher which uses 56-bit
+   keys, was broken by custom hardware in 1998 (see EFF DES cracker), and
+   a message encrypted with RC5 using a 64-bit key was broken more
+   recently by Distributed.net. More recently, the COPACOBANA
+   (Cost-Optimized Parallel COde Breaker) was built, which is a
+   reconfigurable code breaker that is suited for key searching of many
+   different algorithms, including DES. In addition, it is commonly
+   speculated that government intelligence agencies (such as the U.S. NSA)
+   can successfully attack a symmetric key cipher with long key lengths,
+   such as a 64-bit key, using brute force. For applications requiring
+   long term security, 128 bits is, as of 2004, currently thought a
+   sufficient key length for new systems using symmetric key algorithms.
+   NIST has recommended that 80-bit designs be phased out by 2015.
+
+   If keys are generated in a weak way, for example, derived from a
+   guessable- password, it is possible to exhaustively search over a much
+   smaller set, for example, keys generated from passwords in a
+   dictionary. See password cracking and passphrase for more information.
+
+   Ciphers with proven perfect secrecy, such as the one-time pad, can not
+   be broken using brute force.
+
+Theoretical limits
+
+   There is a physical argument that a 128 bit key is secure against brute
+   force attack. It is argued that, by the laws of physics, in order to
+   simply flip through the possible values for a 128-bit key (ignoring
+   doing the actual computing to check it), one would need a device
+   consuming at a minimum 10 gigawatts (about the equivalent of eight
+   large, dedicated nuclear reactors) running continuously for 100 years.
+   The full actual computation—checking each key to see if you have found
+   a solution—would consume many times this amount.
+
+   However, this argument assumes that the register values are changed
+   using conventional set and clear operations which inevitably generate
+   entropy. It has been shown that computational hardware can be designed
+   not to encounter this theoretical obstruction: see reversible
+   computing.
+
+   A more pragmatic approach to increasing the computational efficiency
+   per unit of power utilized involves the recent trends toward multi-core
+   processor technologies. Multi-core processors are able to boost
+   computational performance for many types of computations while
+   minimizing power utilization. (which would include the kind of
+   computations required for cryptanalysis using brute force techniques)
+   Though the current state of this technology is far from providing the
+   reversible computatitive capability that would be required to make a
+   brute force attack of a 128 bit key feasible, future innovations may
+   significantly improve the estimated crack time and power requirements.
+   This becomes more likely as multi-core processors are combined into
+   innovative SMP (symetrically multi processor) architectures that by
+   using well designed algorithms, optimize utilization of each core per
+   unit of power across a massive array of processors.
+
+Some codes are provably unbreakable by brute force
+
+   Certain types of encryption, by their mathematical properties, cannot
+   be defeated by brute force. An example of this is one-time pad
+   cryptography, where every bit has a corresponding key bit. A brute
+   force attack would eventually reveal the correct decoding, but also
+   every other possible combination of bits, and would have no way of
+   distinguishing one from the other.
+
+   A small 100 byte one-time pad encoded string given to brute force would
+   eventually reveal every 100 byte string possible, including famous
+   quotes, peoples names, and undiscovered wisdom, but mostly nonsense.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Brute_force_attack"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

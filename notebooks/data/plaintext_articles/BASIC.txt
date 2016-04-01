@@ -1,0 +1,456 @@
+   #copyright
+
+BASIC
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   In computer programming, BASIC (an acronym for Beginner's All-purpose
+   Symbolic Instruction Code) refers to a family of high-level programming
+   languages. It was originally designed in 1963, by John George Kemeny
+   and Thomas Eugene Kurtz at Dartmouth College, to provide access for
+   non-science students to computers. At the time, nearly all computer use
+   required writing custom software, which was something only scientists
+   and mathematicians tended to do. The language (in one variant or
+   another) became widespread on home microcomputers in the 1980s, and
+   remains popular to this day in a handful of heavily evolved dialects.
+
+History
+
+   Prior to the mid-1960s, computers were extremely expensive tools used
+   only for special-purpose tasks. A simple batch processing arrangement
+   ran only a single "job" at a time, one after another. During the 1960s,
+   however, faster and more affordable computers became available. With
+   this extra processing power, computers would sometimes sit idle,
+   without jobs to run.
+
+   Programming languages in the batch programming era tended to be
+   designed, like the machines on which they ran, for specific purposes
+   (such as scientific formula calculations or business data processing or
+   eventually for text editing). Since even the newer less expensive
+   machines were still major investments, there was strong tendency to
+   consider efficiency (ie, execution speed, and such) to be the most
+   important feature of a language. In general, these specialized
+   languages were difficult to use and had widely disparate syntax.
+
+   As prices decreased, the possibility of sharing computer access began
+   to move from research labs to commercial use. Newer computer systems
+   supported time-sharing, a system which allows multiple users or
+   processes to use the CPU and memory. In such a system the operating
+   system alternates between running processes, giving each one running
+   time on the CPU before switching to another. The machines had become
+   fast enough that most users could feel they had the machine all to
+   themselves. In theory, timesharing reduced the cost of computing
+   tremendously, as a single machine could be shared among (up to)
+   hundreds of users.
+
+Early years — the mini computer era
+
+   The original BASIC language was designed in 1963 by John Kemeny and
+   Thomas Kurtz and implemented by a team of Dartmouth students under
+   their direction. BASIC was designed to allow students to write programs
+   for the Dartmouth Time-Sharing System. It intended to address the
+   complexity issues of older languages with a new language design
+   specifically for the new class of users time-sharing systems allowed —
+   that is, a less technical user who did not have the mathematical
+   background of the more traditional users and was not interested in
+   acquiring it. Being able to use a computer to support teaching and
+   research was quite attractive enough. In the following years, as other
+   dialects of BASIC appeared, Kemeny and Kurtz' original BASIC dialect
+   became known as Dartmouth BASIC.
+
+   The eight design principles of BASIC were:
+    1. Be easy for beginners to use.
+    2. Be a general-purpose programming language.
+    3. Allow advanced features to be added for experts (while keeping the
+       language simple for beginners).
+    4. Be interactive.
+    5. Provide clear and friendly error messages.
+    6. Respond quickly for small programs.
+    7. Not require an understanding of computer hardware.
+    8. Shield the user from the operating system.
+
+   The language was based partly on FORTRAN II and partly on ALGOL 60,
+   with additions to make it suitable for timesharing. (The features of
+   other time-sharing systems such as JOSS and CORC, and to a lesser
+   extent LISP, were also considered). It had been preceded by other
+   teaching-language experiments at Dartmouth such as the DARSIMCO (1956)
+   and DOPE (1962 implementations of SAP and DART (1963) which was a
+   simplified FORTRAN II). Initially, BASIC concentrated on supporting
+   straightforward mathematical work, with matrix arithmetic support from
+   its initial implementation as a batch language and full string
+   functionality being added by 1965. BASIC was first implemented on the
+   GE-265 mainframe which supported multiple terminals. Contrary to
+   popular belief, it was a compiled language at the time of its
+   introduction. It was also quite efficient, beating FORTRAN II and ALGOL
+   60 implementations on the 265 at several fairly computationally
+   intensive programming problems such as maximization Simpson's Rule.
+
+   The designers of the language decided to make the compiler available
+   without charge so that the language would become widespread. They also
+   made it available to high schools in the Dartmouth area and put a
+   considerable amount of effort into promoting the language. As a result,
+   knowledge of BASIC became relatively widespread (for a computer
+   language) and BASIC was implemented by a number of manufacturers,
+   becoming fairly popular on newer minicomputers like the DEC PDP series
+   and the Data General Nova. In these instances the language tended to be
+   implemented as an interpreter, instead of (or in addition to) a
+   compiler.
+
+   Several years after its release, highly-respected computer
+   professionals, notably Edsger W. Dijkstra, expressed their opinions
+   that the use of GOTO statements, which existed in many languages
+   including BASIC, promoted poor programming practices. Some have also
+   derided BASIC as too slow (most interpreted versions are slower than
+   equivalent compiled versions) or too simple (many versions, especially
+   for small computers left out important features and capabilities).
+
+Explosive growth — the home computer era
+
+   Notwithstanding the language's use on several minicomputers, it was the
+   introduction of the MITS Altair 8800 microcomputer in 1975 that
+   provided BASIC a path to universality. Most programming languages
+   required more memory (and/or disk space) than were available on the
+   small computers most users could afford. With the slow memory access
+   that tapes provided and the lack of suitable text editors, a language
+   like BASIC which could satisfy these constraints was attractive. BASIC
+   also had the advantage that it was fairly well known to the young
+   designers who took an interest in microcomputers. Kemeny and Kurtz's
+   earlier proselytizing paid off in this respect. One of the first to
+   appear for the 8080 machines like the Altair was Tiny BASIC, a simple
+   BASIC implementation originally written by Dr. Li-Chen Wang, and then
+   ported onto the Altair by Dennis Allison at the request of Bob Albrecht
+   (who later founded Dr. Dobb's Journal). The Tiny BASIC design and the
+   full source code were published in 1976 in DDJ.
+
+   In 1975, MITS released Altair BASIC, developed by Bill Gates and Paul
+   Allen as Micro-Soft. The first Altair version was co-written by Gates,
+   Allen and Monte Davidoff. Versions of Microsoft BASIC soon started
+   appearing on other platforms under license, and millions of copies and
+   variants were soon in use; it became one of the standard languages on
+   the Apple II (based on the quite different 6502 MPU). By 1979,
+   Microsoft was talking with several microcomputer vendors, including
+   IBM, about licensing a BASIC interpreter for their computers. A version
+   was included in the IBM PC ROM chips and PCs without floppy disks
+   automatically booted into BASIC just like many other small computers.
+
+   Newer companies attempted to follow the successes of MITS, IMSAI, North
+   Star and Apple, thus creating a home computer industry; meanwhile,
+   BASIC became a standard feature of all but a very few home computers.
+   Most came with a BASIC interpreter in ROM, thus avoiding the
+   unavailable, or too expensive, disk problem. Soon there were many
+   millions of machines running BASIC variants around the world, likely a
+   far greater number than all the users of all other languages put
+   together.
+
+   There are more dialects of BASIC than there are of any other
+   programming language. Most of the home computers of the 1980s had a
+   ROM-resident BASIC interpreter.
+
+   The BBC published BBC BASIC, developed for them by Acorn Computers Ltd,
+   incorporating many extra structuring keywords, as well as comprehensive
+   and versatile direct access to the operating system. It also featured a
+   fully integrated assembler. BBC BASIC was a very well-regarded dialect,
+   and made the transition from the original BBC Micro computer to more
+   than 30 other platforms.
+
+   During this growth time for BASIC, many magazines were published such
+   as Creative Magazine that included complete source codes for games,
+   utilities, and other programs. Given BASIC's straightforward nature, it
+   was considered a simple matter to type in the code from the magazine
+   and execute the program. Different magazines were published featuring
+   programs for specific computers, though some BASIC programs were
+   universal and could be input into any BASIC-using machine.
+
+Maturity — the personal computer era
+
+   Many newer BASIC versions were created during this period. Microsoft
+   sold several versions of BASIC for MS-DOS/ PC-DOS including BASICA,
+   GW-BASIC (a BASICA-compatible version that did not need IBM's ROM) and
+   QuickBASIC. Turbo Pascal-publisher Borland published Turbo BASIC 1.0 in
+   1985 (successor versions are still being marketed by the original
+   author under the name PowerBASIC).
+
+   These languages introduced many extensions to the original home
+   computer BASIC, such as improved string manipulation and graphics
+   support, access to the file system and additional data types. More
+   important were the facilities for structured programming, including
+   additional control structures and proper subroutines supporting local
+   variables.
+
+   However, by the latter half of the 1980s newer computers were far more
+   capable with more resources. At the same time, computers had progressed
+   from a hobbyist interest to tools used primarily for applications
+   written by others, and programming became less important for most
+   users. BASIC started to recede in importance, though numerous versions
+   remained available. Compiled BASIC or CBASIC is still used in many IBM
+   4690 OS point of sale systems.
+
+   BASIC's fortunes reversed once again with the introduction of Visual
+   Basic by Microsoft. It is somewhat difficult to consider this language
+   to be BASIC, because of the major shift in its orientation towards an
+   object-oriented and event-driven perspective. While this could be
+   considered an evolution of the language, few of the distinctive
+   features of early Dartmouth BASIC, such as line numbers and the INPUT
+   keyword, remain.
+
+   Many BASIC dialects have also sprung up in the last few years,
+   including Bywater BASIC and True BASIC (the direct successor to
+   Dartmouth BASIC from a company controlled by Kurtz). Recently, the
+   remaining community using Microsoft's pre-Visual Basic products have
+   begun to switch wholesale to FreeBASIC, a GPLed compiler which has
+   moved BASIC onto a GCC backend. Many other BASIC variants and
+   adaptations have been written by hobbyists, equipment developers, and
+   others, as it is a relatively simple language to develop translators
+   for. An example of an open source interpreter, written in C, is
+   MiniBasic.
+
+   The ubiquity of BASIC interpreters on personal computers was such that
+   textbooks once included simple TRY IT IN BASIC exercises that
+   encouraged students to experiment with mathematical and computational
+   concepts on classroom or home computers. Futurist and sci-fi writer
+   David Brin mourns the loss of ubiquitous BASIC in a recent Salon
+   article Why Johnny Can't Code.
+
+The language
+
+Syntax
+
+   Basic statements are terminated by line endings unless there is a line
+   continuation character. A very minimal BASIC syntax only needs the LET,
+   PRINT, IF and GOTO commands.
+
+   Line numbers were a very distinctive aspect of classic home computer
+   BASIC. Due to the limitations of static line numbering, BASIC
+   interpreters later introduced a built-in RENUMBER command which allowed
+   for more interactive programming. Some (but not all) modern BASIC
+   dialects have abandoned line numbers altogether in favour of line
+   labels, and support advanced control structures and data declaration
+   constructs available in other languages such as C and Pascal (note also
+   that some versions of BASIC that used line numbers implemented these
+   constructs as well):
+     * for loops
+     * while loops
+     * switch statements
+     * subroutines and functions
+
+   Recent variants such as Visual Basic have introduced features such as
+   the For Each...Loop construct for looping through collections and
+   arrays in VBA and Visual Basic 4 and later, and even Object-oriented
+   programming with inheritance in the latest version. Memory management
+   is easier than in many other procedural programming languages because
+   of the commonly included garbage collector.
+
+   This wealth of variants shows that the language user and developer
+   communities are active, and that BASIC may be seen as a subculture
+   dealing with computer programming rather than as a fixed set of
+   syntactic rules. This applies as well to other "old" computer languages
+   like COBOL and FORTRAN, although the BASIC movement is by far the
+   largest; this may be explained by the large number of IT professionals
+   who learned to program in BASIC during the home computer era in the
+   1980s.
+
+Procedures and flow control
+
+   Most BASICs do not use an external library for common operations like
+   other languages such as C. Instead, the interpreter (or compiler)
+   contains an extensive built-in library of intrinsic procedures, rather
+   like most Pascals. These procedures include most of the tools a
+   programmer needs to learn programming and write simple applications,
+   including functions for math, strings, console input/output, graphics
+   and file manipulation.
+
+   Some BASIC dialects do not provide built-in structuring facilities,
+   such as the Procedure construct. In these, programmers must write their
+   programs using GOSUB statements and ad hoc argument transmission to
+   emulate these structures. When not done by an expert, this produces
+   poorly-structured unmaintainable programs, commonly referred to as
+   spaghetti code. GOSUB statements branch to simple kinds of subroutines
+   without (though sometimes with) parameters or local variables. Most
+   modern versions of BASIC such as Microsoft QuickBASIC have added
+   support for full subroutines and functions. Most BASICs, like FORTRAN,
+   ALGOL or Pascal, make a distinction between a procedure which returns a
+   value (called a function) and a procedure which does not (called a
+   subroutine).
+
+   While functions, in the larger sense of subroutines returning values,
+   were a latecomer to BASIC dialects, many early systems supported the
+   definition of one-line mathematical functions by DEF FN ("DEFine
+   FunctioN"). The original Dartmouth BASIC also supported Algol-like
+   functions and subroutines from the late 1960s, as did the BASIC09
+   variant from about 1979.
+
+Data types
+
+   BASIC is known for good string manipulation functions. Early dialects
+   already had a set of fundamental functions (LEFT$, MID$, RIGHT$) for
+   string operations. Because strings are often used in everyday
+   applications, this was a considerable convenience advantage over many
+   other languages at the time of its introduction.
+
+   The original Dartmouth BASIC supported only numeric and string data
+   types. There was no integer type, leaving all numeric variables as
+   floating point. Strings were dynamic, and could change their length.
+   Arrays of both numbers and strings were supported, as well as simple
+   matrices (ie, two dimensional arrays).
+
+   Every modern BASIC dialect at least has a numeric and a string data
+   type. Data types are usually distinguished by a sigil, or suffixed
+   character; typically, string identifiers end with '$', whereas integer
+   numerics usually end with a '%'. In some dialects, variables must be
+   declared (using the DIM statement) on their first usage; other dialects
+   do not require it, but can optionally enforce it—typically using a
+   directive such as Option Explicit, In Visual Basic it is off by default
+   but can be turned on using Option Explicit On. Many dialects also
+   support such additional types as 16- and 32-bit integers and
+   floating-point numbers. Some have "polynomial", "complex", "list" and
+   specialized types designed to support particular end users' needs.
+   Additionally, some allow user-defined types in a manner similar to
+   Pascal " records" or C "structs".
+
+   Most BASIC dialects beyond the most primitive also support arrays of
+   numerics or of other types. In some, arrays must be pre-declared (ie,
+   allocated with the DIM statement) before they can be used. Support for
+   two- and higher-dimensional arrays, as well as arrays of non-numeric
+   types, is common in advanced BASICs.
+DIM myIntArray(100) AS INTEGER   — some versions will only allow: DIM myIntArray
+%(100)
+DIM myStringArray(50) AS STRING  — some versions will only allow: DIM myStringAr
+ray$(50)
+
+   Depending on the dialect of BASIC, arrays are 0-based (ie, the first
+   element has subscript '0'), while others are 1-based (the first element
+   is subscripted '1'). So, in some, commands like the first in the
+   example will define a 101-element array of integers with elements from
+   0 to 100, others may define a 100-element array of integers with
+   elements from 1 to 100 or, rarely, from 0 to 99. It may also be
+   possible to set a default beginning element number other than 0 or 1
+   with an additional command such as Option Base. The Microsoft BASIC
+   example above will create an array with elements numbered from 0 to
+   100.
+
+   When working with strings, commands like the second may allocate a
+   50-element array of variable-length strings, or may allocate a single
+   string of 50 characters. Note that they are also subject to the basing
+   differences mentioned above.
+
+   These non-standard and, to some, less than intuitive dimensioning
+   examples often confuse the novice (and even the advanced) programmer.
+   Newer dialects offer specific dimensioning, such as DIM myIntArray (10
+   TO 20) AS INTEGER which would be an 11-element array with elements
+   numbered from 10 to 20.
+
+Relational, logical operators
+
+ =  equal           <=  less than or equal       NOT  logical negation
+<>  not equal       >=  greater than or equal    AND  logical conjunction
+ <  less than                                    OR   logical disjunction
+ >  greater than
+
+   Note that there is no lexical distinction between the assignment
+   operator and the equality operator in BASIC; a single equal sign is
+   used for both. There is, however, a method available to the programmer
+   if a visible difference between the two is wanted: the optional LET
+   keyword allows for assignments to be clearly and unambiguously
+   distinguished from the use of the equality operator. Example: IF X=7
+   THEN LET Y=3.
+
+   Also note that the AND, OR, NOT operators are actually bitwise
+   arithmetic operations. They can also be used as logical operations,
+   because most BASIC dialects represent the boolean values by -1 (true)
+   and 0 (false). However, they resemble the C bitwise arithmetic
+   operators &, | and ~ respectively, more than the C logical operators
+   &&, || and !: for example, AND and OR always evaluate both their
+   arguments (they are not short-circuiting operators).
+
+Examples
+
+A first program
+
+   New BASIC programmers on a home computer might start with a simple
+   program similar to the Hello world program made famous by Kernighan and
+   Ritchie. This generally involves a simple use of the language's PRINT
+   statement to display the a message (such as the programmer's name) to
+   the screen. Often an infinite loop was used to fill the display with
+   the message.
+
+Classic BASIC
+
+   Note that this example is actually well structured, demonstrating that
+   use of the GOTO statement need not necessarily lead to an unstructured
+   program.
+ 10 INPUT "What is your name: "; U$
+ 20 PRINT "Hello "; U$
+ 30 REM
+ 40 INPUT "How many stars do you want: "; N
+ 50 S$ = ""
+ 60 FOR I = 1 TO N
+ 70 S$ = S$ + "*"
+ 80 NEXT I
+ 90 PRINT S$
+ 100 REM
+ 110 INPUT "Do you want more stars? "; A$
+ 120 IF LEN(A$) = 0 THEN GOTO 110
+ 130 A$ = LEFT$(A$, 1)
+ 140 IF (A$ = "Y") OR (A$ = "y") THEN GOTO 40
+ 150 PRINT "Goodbye ";
+ 160 FOR I = 1 TO 200
+ 170 PRINT U$; " ";
+ 180 NEXT I
+ 190 PRINT
+
+Modern BASIC
+
+   "Modern" structured BASICs (for example, QuickBASIC, FreeBasic,
+   PureBasic, BlitzMax, PowerBASIC, and TrueBASIC) support classic
+   commands such as GOTO statements to varying degrees, while adding many
+   more modern keywords.
+
+   The previous example in QuickBASIC:
+INPUT "What is your name"; UserName$
+PRINT "Hello "; UserName$
+DO
+   INPUT "How many stars do you want"; NumStars
+   Stars$ = ""
+   Stars$ = REPEAT$("*", NumStars)   ' <- ANSI BASIC
+   --or--
+   Stars$ = STRING$(NumStars, "*")   ' <- MS   BASIC
+   PRINT Stars$
+   DO
+      INPUT "Do you want more stars";  Answer$
+   LOOP UNTIL Answer$ <> ""
+   Answer$ = LEFT$(Answer$, 1)
+LOOP WHILE  UCASE$(Answer$) = "Y"
+PRINT "Goodbye ";
+FOR I = 1 TO 200
+   PRINT UserName$; " ";
+NEXT I
+PRINT
+
+   For comparison, the same program in the more modern PureBasic:
+OpenConsole()
+Print("What is your name ")
+UserName$ = Input()
+PrintN("Hello " + UserName$)
+Repeat
+   Print("How many stars do you want ")
+   NumStars = Val(Input())
+   Stars$ = RSet("", NumStars, "*")
+   PrintN(Stars$)
+   Repeat
+      Print("Do you want more stars ")
+      Answer$ = Input()
+   Until Answer$ <> ""
+   Answer$ = Left(Answer$, 1)
+Until UCase(Answer$) <> "Y"
+Print("Goodbye ")
+For I = 1 To 200
+   Print(UserName$ + " ")
+Next I
+PrintN("")
+CloseConsole()
+
+   Retrieved from " http://en.wikipedia.org/wiki/BASIC"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

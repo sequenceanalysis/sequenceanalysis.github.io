@@ -1,0 +1,411 @@
+   #copyright
+
+StarCraft
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+   StarCraft
+   Front cover of the StarCraft installation CD
+   Developer(s) Blizzard Entertainment
+   Publisher(s) (Win), (Mac)
+   United States Blizzard Entertainment
+   European Union Sierra Entertainment
+   (N64)
+   United States Australia Nintendo
+   Designer(s) Blizzard Entertainment
+   Latest version 1.14 ( 2006- 07-31)
+   Release date(s) (Win)
+   United States European Union April 1, 1998
+   (Mac)
+   United States 1999
+   (N64)
+   United States Australia 2000
+   Genre(s) Real-time strategy
+   Mode(s) Single player, multiplayer
+   Rating(s) ESRB: T (Teen)
+   USK: 12+
+   OFLC: M15+
+   ELSPA: 15+
+   PEGI: 16+
+   OFLC/NZ: R16+
+   Platform(s) Windows, Mac OS, Mac OS X, Nintendo 64
+   Media CD-ROM, Nintendo 64 Cartridge
+   System requirements Win: Windows 95 or better, 90 MHz Pentium, 16 MB
+   RAM, DirectX-compatible, 2x CD-ROM drive, 640x480 8-bit display. Mac:
+   System 7.6 or better, PowerPC 601 or better, 16 MB RAM.
+
+   StarCraft is a real-time strategy computer game by Blizzard
+   Entertainment. It was initially released for the PC platform in 1998; a
+   Macintosh version of the game was released in 1999. Starcraft was also
+   later ported to the Nintendo 64.
+
+   The main storyline follows a war among three galactic species: the
+   strong, stable human Terrans, the hive mind arthropodic Zerg, and the
+   psychic humanoid Protoss warriors.
+
+   It was the best-selling computer game of 1998 and won the Origins Award
+   for Best Strategy Computer Game of that year. Nine million copies of
+   StarCraft and its expansion pack, StarCraft: Brood War have been sold
+   since its release. It is especially popular in South Korea, where
+   professional players and teams participate in matches, earn
+   sponsorships, and compete in televised matches.
+
+Gameplay
+
+   Starcraft's gameplay centers on the acquisition and control of two
+   resources, minerals and Vespene gas, which are necessary to construct
+   combat units and buildings. Minerals, which are required for all normal
+   units, appear as blue crystalline formations protruding from the
+   ground. They are 'harvested' or 'mined' by worker units ( SCV for
+   Terran, Drone for Zerg, Probe for Protoss). Vespene gas, which is
+   required for advanced units and upgrades, appears as a geyser with
+   green clouds erupting from it. A particular structure (Refinery for
+   Terrans, Extractor for Zerg, Assimilator for Protoss) must be
+   constructed before worker units can harvest the Vespene gas.
+
+   Players can have only a limited number of units at a time, each of
+   which has a "supply/support" rating roughly correlated with that unit's
+   combat strength. Players must maintain enough unit-supporters (Supply
+   Depots for Terrans, Pylons for the Protoss, and Overlords for the Zerg)
+   to support their forces.
+
+   Players use their resources to construct buildings. Some buildings
+   morph, train, or "warp in" units, while others upgrade the players'
+   forces or allow more advanced units or structures. Resource management,
+   expansion to control resource locations, and effective offensive and
+   defensive combat tactics are key to victory. The unit types available
+   to each species define its racial identity. Protoss marshal powerful
+   and expensive warriors and machinery, while Zerg rely on sheer numbers
+   and speed to overwhelm their opponents. Terrans are the versatile and
+   flexible alternative to both races, providing a compromise between
+   specialization and combined arms. No species has a net advantage over
+   the others.
+
+Multiplayer
+
+   Blizzard's Internet service Battle.net granted online multiplayer
+   gaming at no additional charge. Many fans, especially casual players,
+   enjoy playing in groups against computer-controlled opponents in
+   skirmish games called "comp stomp". Since experienced players generally
+   do not find the artificial intelligence of the game challenging, fans
+   have also created maps that are advantageous to the computer and can be
+   extremely hard to win. Up to eight spots can be filled in a game when
+   played on Battle.net, 4 with Direct Cable Connection, and 2 players
+   with Modem connections. In cooperative play, several people can play on
+   the same team, controlling the same units, or on different teams that
+   are "allied" so they do not harm each other. Clans gather groups of
+   people for competitive team play. Players usually attach a "tag" to
+   their online name to indicate their clan allegiance, so that the name
+   [XYZ]JohnSmith shows that JohnSmith belongs to Clan XYZ. Clan
+   involvement ranges from casual friendship to mandatory meetings and
+   tournaments. In multiplayer gameplay, some players use modified or
+   "hacked" versions of the StarCraft client to gain an unfair advantage.
+   People also use programs called "bots" to gain other unfair advantages.
+   Some "bots" allow you to cheat in ways such as: invulnerability, no fog
+   of war, infinite resources, and other unfair ways of winning. The
+   infamous MapHack allows the player to see the whole map, ignoring the "
+   fog of war". Blizzard attempts to detect and ban "hackers," and several
+   third-party "anti-hack" programs are under constant development to
+   prevent these hacks. In 2003, Battle.net banned over 400,000 accounts
+   for cheating and hacking.
+
+   Most competitive, high-level gaming outside of the Korean professional
+   scene takes place on "private" ladders such as "PGTour" (Pro Gamers
+   Tour) or " WGTour" (World Gamers Tour). These ladders use specific sets
+   of maps (mostly taken from Korean pro leagues like MSL and OSL),
+   hack-preventing third-party programs, teams of administrators, and
+   sometimes even a private server (such as the PGTour's Bnet-X) to
+   enforce fair play. Since the end of July 2006, with the release of
+   patch 1.14, Blizzard has removed the Ladder option on all gateways,
+   save the European gateway, whose Ladder is now held in cooperation with
+   "WGTour".
+
+   Beginning with version 1.08, StarCraft enables the player to record a
+   game and save it as a replay, which can then be viewed with any other
+   copy of StarCraft, displaying the entire course of gameplay. Replays
+   allow for the studying of game players tactics, and thus pro-level
+   replays are rarely released to protect team secrecy and to comply with
+   the policies of pro leagues. Fans have developed applications such as
+   BWChart and Lasgo's Observer Pack to analyze replays in detail and
+   compute statistics such as the number of actions per minute ( APM).
+   Some replays are accompanied by an audio commentary recorded by the
+   player or an experienced observer in real time or during later viewing.
+   When the audio files are produced using third-party recording and
+   playback tools, the viewer must manually synchronize the audio with the
+   replay. Alternatively, auxiliary applications such as RWA can ensure
+   synchronization. VODs (from "Video On Demand") are videos showing a
+   commentator or player during a pro-level game. They are sometimes
+   illegally ripped from Korean television or Internet streams. They
+   usually come in the ASF video file format for Windows Media Player or
+   in the WMV format. Because they are compressed with an MPEG-4 codec
+   into a small file, their video quality is poorer than replays.
+
+StarCraft Campaign Editor
+
+   The game is packaged with the StarCraft Campaign Editor (also known as
+   StarEdit). The editor's trigger system allows users to change maps
+   radically and create custom map scenarios. The StarCraft community has
+   constructed new editors and functionalities that grant users even more
+   power to modify the game. The company Microstar sold a CD with new
+   levels created with the StarEdit feature, but was forced to stop when
+   Blizzard won their court case against its distribution.
+
+   Scenarios are generally either melee or Use Map Settings (UMS) games.
+   Melee games start all players at a random location with only their main
+   base building (command centre, hatchery, or nexus) and four mining
+   units. This is the most popular type of game, used in tournaments and
+   ladder games. Most casual melee games are played on "money" maps, maps
+   with extremely large amounts of immediately available resources.
+   Initial mineral and gas deposits are often set to cap of 50,000 or more
+   units to eliminate the need for expansion sites. "Money maps" have been
+   criticized for failing to challenge players to develop key skills such
+   as order-building and expansion-taking, favoring weaker players.
+   Defenders of money maps claim that the game still requires strategy and
+   skill.
+
+   Use Map Settings games are less structured and often incorporate
+   liberal use of specialized triggers and setups to change gameplay.
+   Scenarios based on 'genres' have surfaced, including Defense maps,
+   StarCraft Diplomacy, RPG's, and Maddness. Single-player "campaigns,"
+   long scenarios played out over several maps that have been edited
+   together with StarEdit, have gained prominence. Following the lead of
+   the Antioch Chronicles, many campaigns include modifications that add
+   new "heroes." Mapmakers create new art files, creating completely new
+   units and characters, which StarEdit can't do. Popular campaigns
+   include Campaign Creations' The Fenix, Legacy of the Confederation,
+   Life of a Marine, and StarCraft.org's official campaigns, The Shifters
+   and Fields of Ash.
+
+   More powerful, third-party editors, including the StarCraft X-tra
+   Editor, StarForge, and SCMDraft, allow users to "stack" multiple
+   mineral fields and buildings on top of each other, change player
+   colors, use hidden AI scripts, protect maps from common theft, run
+   size-less sounds directly from the StarCraft disc, change the colour of
+   text, and compress their map. In more advanced areas, users can place
+   raw sprites, sprite-units and disabled units. Some custom maps and
+   campaigns, including StarCraft: Insurrection and StarCraft:
+   Retribution, were released commercially via third parties. These
+   add-ons were criticized for poor mission designs and did not sell well.
+
+Plot and setting
+
+Setting
+
+   In the distant future, human exiles fight for survival on the edge of
+   the galaxy, and a unified Terran government has formed through
+   espionage, deceit and military might. Their resources have begun to run
+   out, and they begin to look toward the worlds of their mysterious
+   neighbors, the Protoss. In the midst of these events, the Zerg have
+   begun a total war against Protoss planets, destroying everything in
+   their path.
+
+Plot
+
+   Spoiler warning: Plot and/or ending details follow.
+
+   The plot of the original StarCraft game revolves around the Terran
+   civilization in the Koprulu Sector, which was founded by former
+   prisoners exiled from Earth. The most powerful Terran faction is the
+   Terran Confederacy. It is opposed by other factions, such as the
+   terrorist organization " Sons of Korhal". The arrival of the Zerg, led
+   by the Overmind and its Cerebrates, greatly complicates matters for the
+   Terrans. The Zerg Swarm is itself closely followed by a Protoss fleet,
+   led by High Templar Executor Tassadar, which burns all worlds the Zerg
+   infest.
+
+   The player assumes the role of a colonial magistrate of the Terran
+   Confederacy, and soon meets Jim Raynor, a marshal of Mar Sara. After
+   being arrested by the Confederacy for destroying Confederate property
+   (even though it was infested by the Zerg), the player joins the Sons of
+   Korhal, who free Raynor from prison. Raynor also joins the Sons and
+   frequently goes on missions. After the Protoss destroy the
+   Zerg-infested Confederate colony on Chau Sara, the leader of the Sons,
+   Arcturus Mengsk, uses psi-emitters to lure the Zerg to Confederate
+   installations and further his own goals. Mengsk acquires the services
+   of General Edmund Duke, a Confederate general, and sacrifices his
+   right-hand woman, the psychic Sarah Kerrigan, to the Zerg after she
+   objects to his morals and tactics. Raynor, outraged over Mengsk
+   abandoning Kerrigan, flees from Mengsk with a small number of soldiers,
+   accompanied by the player. After the Confederacy falls through the use
+   of psi-emitters on the Confederate homeworld of Tarsonis, Mengsk
+   reorganizes the Terran worlds under his control into the Terran
+   Dominion, crowning himself Emperor.
+
+   In the second episode, the player assumes the role of a Zerg Cerebrate
+   and is entrusted to the care of the Chrysalis which contains Kerrigan,
+   who is being infested and prepared for rebirth into the Swarm. She soon
+   awakes, and adds great power to the Zerg, effortlessly destroying her
+   enemies. Meanwhile, Tassadar discovers that the Zerg Cerebrates can be
+   killed permanently (otherwise they are near-immediately reincarnated by
+   the Overmind) by the Dark Templar. He allies with them, and while
+   Tassadar distracts Kerrigan, the Dark Templar Zeratul assassinates the
+   Cerebrate Zasz. This disrupts the Overmind's control over the Garm
+   Brood, but also makes the minds of Zeratul and the Overmind one for a
+   brief second, allowing the Overmind to know the location of the Protoss
+   homeworld of Aiur. The Zerg soon invade, despite heavy Protoss
+   resistance, allowing the Overmind to embed itself into the crust of the
+   planet.
+
+   The player then takes the role of the Protoss fleet Executor, who at
+   first serves the Conclave to fight the Zerg on Aiur, but soon rebels
+   and joins Tassadar. This results in a Protoss civil war with Tassadar,
+   Tassadar's unlikely Templar allies, and the Dark Templar, pitted
+   against the Conclave and the Khala. However, Tassadar and the Dark
+   Templar prove themselves to the Conclave by having Zeratul slay two
+   Zerg Cerebrates. The Conclave then ally with Tassadar and the Dark
+   Templar, along with the Terrans led by Jim Raynor, who all launch an
+   offensive against the Overmind, destroying its nearly impervious shell.
+   Tassadar then channels many Dark Templar energies into the hull of his
+   ship, the Gantrithor, before crashing it into the vulnerable form of
+   the Overmind, killing it and sacrificing himself in the process.
+   Spoilers end here.
+
+Characters
+
+     * Sarah Kerrigan voiced by Glynnis Talken Campbell.
+     * Tassadar voiced by Michael Gough.
+     * Jim Raynor voiced by Robert Clotworthy.
+     * Aldaris voiced by Paul Eiding.
+     * Zeratul voiced by James Harper.
+     * Fenix voiced by Bill Roper.
+
+Development
+
+   Warcraft II, an earlier Blizzard production, had been criticized for
+   the similarity between its two races, which had only minor differences
+   in spells and upgrade costs. Following a concept pioneered by the
+   Strategic Simulations game War Wind, StarCraft implemented decisive
+   asymmetries among its races. Further improvements included pre-rendered
+   sprites and backgrounds using 3D Studio Max. An isometric view was
+   used, unlike Warcraft IIs top down perspective. CD quality music and
+   professional voice acting were also utilized.
+
+   Operation CWAL (Can't Wait Any Longer) formed in 1997 as a writers'
+   group in the StarCraft Suggestions Forum to try to "liberate" an early,
+   unauthorized final copy of StarCraft, which appeared obviously
+   completed despite numerous delays on the part of Blizzard
+   Entertainment. Blizzard Entertainment went so far as to give special
+   thanks to this group in the StarCraft manual and use their name as a
+   cheat code.
+
+   The Brood War expansion released by Blizzard in 1998 provided several
+   new units and a new campaign for each race, continuing the original
+   StarCraft storyline and changing the gameplay. Brood War allowed the
+   production of units, such as Dark Templar, which StarCraft had only
+   made available at the beginning of single-player missions, and created
+   exclusive unit upgrades for all three species. Though the three races
+   in StarCraft were slightly unequal in power when the game was first
+   released, the expansion pack and twenty two patches, four of which
+   affected the gameplay are thought by most players to have fixed this.
+
+Versions and sequels
+
+   In 2000, StarCraft 64 was released for the Nintendo 64. The game
+   featured all of the maps from the original game and the Brood War
+   expansion, as well as some exclusive missions, such as two different
+   tutorials and StarCraft Resurrection IV. The game also required the use
+   of an Expansion Pak. The game was not as popular as the PC version,
+   perhaps because of the difficulty controlling the cursor compared to a
+   mouse, and the lack of online multiplayer games. (Split-screen games
+   were available, however.) Also, speech during mission briefings was
+   omitted and the cut scenes were shortened. Blizzard had previously
+   considered a PlayStation port of the game, but it was finally decided
+   that the game would be instead released on the Nintendo 64.
+
+   Blizzard had been working on a first-person shooter/ third-person
+   shooter, StarCraft: Ghost, originally slated for a 2003 release, but
+   repeatedly postponed through to 2006, and eventually delayed
+   indefinitely. Although some players welcomed the concept, the change in
+   genre from real-time strategy to third-person shooter, and the absence
+   of a PC version aroused protests among fans. In March of 2006,
+   StarCraft: Ghost development was put on hold indefinitely, while the
+   producers considered next-gen consoles.
+
+   Blizzard has indicated interest in a sequel. Blizzard officials have
+   posted on the Battle.net forums, asking for suggestions for such a
+   game. Many Easter eggs can be unlocked during and after completion of
+   Warcraft III which relate to StarCraft, leading many to sequel
+   speculation. There was also a leak about a 2007 release from
+   HanbitSoft, the Korean publisher of StarCraft. Job advertisements on
+   Blizzard.com looking for a "Game Balance Designer" with experience in
+   StarCraft and Warcraft III, and the fact that there are several
+   unannounced titles also being developed, suggest that Blizzard is
+   working on another RTS, possibly StarCraft II, although a fourth
+   Warcraft game or a new franchise remain possibilities. Development of a
+   sequel has not yet been officially announced. Over 14,500 players have
+   signed an online petition in support of a sequels creation. A group of
+   fans operating under the name Snowflake Entertainment are creating a
+   mod to make StarCraft using the WarCraft III game engine, titled
+   Project Revolution. Although not a sequel, Project Revolution will
+   transfer the game from two to three dimensions.
+
+Reception
+
+   StarCraft was the number-one selling PC Game of 1998, selling over 1.5
+   million copies worldwide. As of 2006, over a third of total sales, or
+   3.5 million copies, have been sold in South Korea. Blizzard's
+   Battle.net online gameplaying service grew over 800 percent after
+   StarCraft's release. StarCraft remains one of the most popular online
+   games in the world, with over half a million Koreans alone playing
+   nightly.
+
+   StarCraft received a star on the floor of the Metreon as part of the
+   Walk of Game in San Francisco in early 2006. IGN rated the game as the
+   7th best on its Top Games of All Time in both 2003 and 2005 edition,
+   calling it the "best real time strategy game ever made". It also placed
+   #2 among PC games, behind Sid Meier's Civilization II. Gamespot named
+   StarCraft the greatest game of all time.
+
+   Not without criticism, the game suffers from "coarse resolution". It
+   was also noted at release for the problem of " rushing" during
+   multi-player mode, or allowing players to swiftly conquer one another
+   by attacking first instead of allowing time to build up forces, though
+   rushing has since developed as a normal feature of game play and
+   strategy.
+
+Legacy
+
+   In the late 1990s, the game grew popular among South Korean online
+   gamers, establishing a successful professional scene. Most active
+   StarCraft players now come from South Korea, where professional game
+   players are starred on some TV networks. Their games are broadcast over
+   three television channels dedicated to professional computer game
+   matches. A few top players have gained wealth as professional players
+   from television contracts, sponsorships, and tournament prizes allowing
+   the most famous player, Lim Yo-Hwan (known in-game as SlayerS_`BoxeR`)
+   to gain a fanclub of over half a million people. Professional gamers
+   dedicate nearly all their waking hours to playing StarCraft to prepare
+   for the highly competitive leagues. Lee Yunyeol, a Terran player known
+   in game as [RED]NaDa, reported earnings in 2005 of $200,000 USD.
+
+   The immense influence that video games including StarCraft have on
+   Korean youths has raised concerns. Lee Seung Seop (known as b0f1000 in
+   StarCraft), a 28-year-old from Daegu, South Korea, died from exhaustion
+   on 10 August 2005 after playing a 49-hour marathon session of StarCraft
+   in an Internet cafe, sparking a new discussion about video game
+   addiction, though StarCraft is notably less dangerous since its matches
+   do not last hours like many popular MMORPGs.
+
+Merchandise
+
+   In addition to numerous fan fiction works taking place in the StarCraft
+   universe, it has spawned several official novels and eBooks including
+   StarCraft: Uprising, StarCraft: Liberty's Crusade, StarCraft: Shadow of
+   the Xel'Naga, StarCraft: Speed of Darkness, StarCraft: Queen of Blades
+   and the forthcoming StarCraft Ghost: Nova to be released in the fall of
+   2006.
+
+   Blizzard Entertainment authorized two short stories in Amazing Stories
+   magazine, entitled StarCraft: Hybrid and StarCraft: Revelations.
+   Blizzard also licensed Wizards of the Coast to publish StarCraft
+   Adventures, a supplement for the role-playing game Alternity set in the
+   StarCraft universe. Even manga comics and action figures have been done
+   in the StarCraft universe. A CD was also released of 2 game tracks and
+   11 original works by Korean musicians. A StarCraft board game entitled
+   StarCraft the Board Game is in development.
+
+   Retrieved from " http://en.wikipedia.org/wiki/StarCraft"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

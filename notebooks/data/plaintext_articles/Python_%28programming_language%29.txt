@@ -1,0 +1,485 @@
+   #copyright
+
+Python (programming language)
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   CAPTION: Python
+
+         Paradigm:        Multi-paradigm
+        Appeared in:      1991
+        Designed by:      Guido van Rossum
+         Developer:       Python Software Foundation
+      Latest release:     2.5.1 / April 18, 2007
+     Typing discipline:   Strong, dynamic (" duck typing")
+   Major implementations: CPython, Jython, IronPython, PyPy
+         Dialects:        Stackless Python
+       Influenced by:     ABC, ALGOL 68, C, Haskell, Icon, Lisp, Modula-3, Perl,
+                          Java
+        Influenced:       Ruby, Boo
+            OS:           Cross-platform
+          License:        Python Software Foundation License
+          Website:        http://www.python.org/
+
+   Python is a high-level programming language first released by Guido van
+   Rossum in 1991. Python is designed around a philosophy which emphasizes
+   the importance of programmer effort over computer effort, and it
+   rejects more arcane language features, prioritizing readability over
+   speed or expressiveness. Python is often characterized as minimalist,
+   although this only applies to the core language's syntax and semantics;
+   the standard library provides the language with a large number of
+   additional libraries and extensions.
+
+   Python is a multi-paradigm programming language which has a fully
+   dynamic type system and uses automatic memory management; it is thus
+   similar to Perl, Ruby, Scheme, Smalltalk, and Tcl.
+
+   The language has an open, community-based development model managed by
+   the non-profit Python Software Foundation. While various parts of the
+   language have formal specifications and standards, the language as a
+   whole is not formally specified. The de facto standard for the language
+   is the CPython implementation.
+
+History
+
+   Python was conceived in the late 1980s by Guido van Rossum at CWI in
+   the Netherlands as a successor of the ABC programming language capable
+   of exception handling and interfacing with the Amoeba operating system.
+   Van Rossum is Python's principal author, and his continuing central
+   role in deciding the direction of Python is acknowledged by referring
+   to him as its Benevolent Dictator for Life (BDFL).
+
+   In 1991, van Rossum published the code (labelled version 0.9.0) to
+   alt.sources. Already present at this stage in development were classes
+   with inheritance, exception handling, functions, and the core datatypes
+   of list, dict, str and so on. Also in this initial release was a module
+   system borrowed from Modula-3; van Rossum describes the module as "one
+   of Python's major programming units". Python's exception model also
+   resembles Modula-3's, with the addition of an else clause. In 1994,
+   comp.lang.python, the primary discussion forum for Python, was formed,
+   marking a milestone in the growth of Python's userbase.
+
+   Python reached version 1.0 in January 1994. A major set of features
+   included in this release were the functional programming tools lambda,
+   map, filter and reduce. Van Rossum states that "Python acquired lambda,
+   reduce(), filter() and map(), courtesy of (I believe) a Lisp hacker who
+   missed them and submitted working patches." The actual contributor was
+   Amrit Prem; no specific mention of any Lisp heritage is mentioned in
+   the release notes at the time.
+
+   The last version released from CWI was Python 1.2. In 1995, van Rossum
+   continued his work on Python at the Corporation for National Research
+   Initiatives (CNRI) in Reston, Virginia where he released several
+   versions of the software.
+
+   By version 1.4, Python had acquired several new features. Notable among
+   these are the Modula-3 inspired keyword arguments (which are also
+   similar to Common Lisp's keyword arguments), and built-in support for
+   complex numbers. Also included is a basic form of data hiding by name
+   mangling, though this is easily bypassed.
+
+   During van Rossum's stay at CNRI, he launched the Computer Programming
+   for Everybody (CP4E) initiative, intending to make programming more
+   accessible to more people, with a basic 'literacy' in programming
+   languages, similar to the basic English literacy and mathematics skills
+   required by most employers. Python served a central role in this:
+   because of its focus on clean syntax, it was already suitable, and
+   CP4E's goals bore similarities to its predecessor, ABC. The project was
+   funded by DARPA. As of 2007, the CP4E project is inactive, and while
+   Python attempts to be easily learnable and not too arcane in its syntax
+   and semantics, reaching out to non-programmers is not an active
+   concern.
+
+   In 2000, the Python core development team moved to BeOpen.com to form
+   the BeOpen PythonLabs team. CNRI requested that a version 1.6 be
+   released, summarising Python's development up to the point where the
+   development team left CNRI. Consequently, the release schedules for 1.6
+   and 2.0 had a significant amount of overlap. Python 2.0 was the first
+   and only release from BeOpen.com. After Python 2.0 was released by
+   BeOpen.com, Guido van Rossum and the other PythonLabs developers joined
+   Digital Creations.
+
+   Python 2.0 borrowed a major feature from the functional programming
+   language Haskell: list comprehensions. Python's syntax for this
+   construct is very similar to Haskell's, apart from Haskell's preference
+   for punctuation characters and Python's preference for alphabetic
+   keywords. Python 2.0 also introduced a garbage collection system
+   capable of collecting reference cycles.
+
+   Following this double release, and after van Rossum left CNRI to work
+   with commercial software developers, it became clear that the ability
+   to use Python with software available under the GPL was very desirable.
+   The license used at that time, the Python License, included a clause
+   stating that the license was governed by the State of Virginia, which
+   made it, in the view of the Free Software Foundation's (FSF) lawyers,
+   incompatible with the GNU GPL. CNRI and the FSF interacted to develop
+   enabling wording changes to Python's free software license that would
+   make it GPL-compatible. That year (2001), van Rossum was awarded the
+   FSF Award for the Advancement of Free Software.
+
+   Python 1.6.1 is essentially the same as Python 1.6, with a few minor
+   bug fixes, and with the new GPL-compatible license.
+   Syntax-highlighted Python code.
+   Syntax-highlighted Python code.
+
+   Python 2.1 was a derivative work of Python 1.6.1, as well as of Python
+   2.0. Its license was renamed Python Software Foundation License. All
+   code, documentation and specifications added, from the time of Python
+   2.1's alpha release on, is owned by the Python Software Foundation
+   (PSF), a non-profit organisation formed in 2001, modelled after the
+   Apache Software Foundation. Included in this release (though off by
+   default and not mandatory until several versions later) was an
+   implementation of scoping more similar to static scoping (of which
+   Scheme is the originator) rules.
+
+   A major innovation in Python 2.2 was the unification of Python's types
+   (types written in C), and classes (types written in Python) into one
+   hierarchy. This single unification made Python's object model purely
+   and consistently object oriented. Also added were generators which were
+   inspired by Icon.
+
+   Python's standard library additions and syntactical choices were
+   strongly influenced by Java in some cases: the logging package,
+   introduced in version 2.3, the SAX parser, introduced in 2.0, and the
+   decorator pattern syntax that uses @, added in version 2.4
+
+Future development
+
+   A Python Enhancement Proposal (or "PEP") is a standardised design
+   document providing general information related to Python, including
+   proposals, descriptions, and explanations for language features. PEPs
+   are intended as the primary channel for proposing new features, and for
+   documenting the underlying design rationale for all major elements of
+   Python. Outstanding PEPs are reviewed and commented by the BDFL.
+
+   Python developers have an ongoing discussion of a future version called
+   Python 3.0 (the project is called "Python 3000" or "Py3K") that will
+   break backwards compatibility with the 2.x series in order to repair
+   perceived flaws in the language. The guiding principle is to "reduce
+   feature duplication by removing old ways of doing things". There is no
+   definite schedule for Python 3.0, but a PEP (Python Enhancement
+   Proposal) that details planned changes exists.
+
+Usage
+
+   Some of the largest projects that use Python are the Zope application
+   server, the Mnet distributed file store, and the original BitTorrent
+   client. It is also extensively used by Google and NASA.
+
+   Python has been successfully embedded in a number of software products
+   as a scripting language. It is commonly used in 3D animation packages,
+   as in Maya (software), Softimage XSI and Blender (software). It also
+   used in Paint Shop Pro. ESRI is now promoting Python as the best choice
+   for writing scripts in ArcGIS
+
+   For some operating systems, Python is a standard component. Gentoo uses
+   it extensively in its package management system, Portage, and the
+   standard tool to access it, emerge.
+
+   Python is also an integral component of the popular LAMP solution stack
+   (Linux, Apache, MySQL, Python/Perl/ PHP) for web development.
+
+Syntax and semantics
+
+   Python was designed to be a highly readable language. It aims toward an
+   uncluttered visual layout, uses English keywords frequently where other
+   languages use punctuation. Python requires less boilerplate than
+   traditional statically-typed structured languages such as C or Pascal,
+   and has a smaller number of syntactic exceptions and special cases than
+   either of these. Python uses indentation/whitespace, rather than curly
+   braces or keywords, to delimit statement blocks. An increase in
+   indentation comes after certain statements; a decrease in indentation
+   signifies the end of the current block. Python's statements include:
+     * The if statement, which conditionally executes a block of code,
+       along with else and elif (a contraction of else-if).
+     * The while statement, which runs a block of code until a condition
+       is False.
+     * The for statement, which iterates over an iterable, capturing each
+       element to a local variable for use by the attached block.
+     * The class statement, which executes a block of code and attaches
+       its local namespace to a class, for use in object oriented
+       programming.
+     * The def statement, which defines a function.
+
+   Each statement has its own semantics: for example, the def statement
+   does not execute its block immediately, unlike most other statements.
+
+   CPython does not support continuations, and according to Guido van
+   Rossum, never will. However, better support for coroutine-like
+   functionality is provided in 2.5, by extending Python's generators.
+   Prior to 2.5, generators were lazy iterators — information was passed
+   monodirectionally out of the generator. As of Python 2.5, it is
+   possible to pass information back into a generator function.
+
+   Python uses duck typing, also known as latent typing. Type constraints
+   are not checked at compile time; rather, operations on an object may
+   fail, signifying that the given object is not of a suitable type.
+   Despite not enforcing static typing, Python is strongly typed,
+   forbidding operations which make little sense (for example, adding a
+   number to a string) rather than silently attempting to make sense of
+   them.
+
+   Python includes a number of built-in types used for a variety of
+   purposes:
+   Type Kind Notes Syntax Example
+   str, unicode String Immutable 'Wikipedia', u'Wikipedia'
+   list Sequence Mutable, can contain mixed types [4.0, 'string', True]
+   tuple Sequence Immutable, can contain mixed types (4.0, 'string', True)
+   set Set Unordered, contains no duplicates set([4.0, 'string', True])
+   dict Mapping Group of key and value pairs {'key1': 1.0, 'key2': False}
+   int Integer A fixed precision number (may be transparently expanded to
+   long, which is arbitrary precision) 42
+   float Number Floating point 3.1415927
+   complex complex Number A complex number with real number and imaginary
+   unit 3+2j
+   bool Boolean The empty list, dict, set, and 0, are also considered
+   False True or False
+
+   Python also allows programmers to define their own types. This is in
+   the form of classes, most often used for an object-oriented style of
+   programming. New instances of classes are constructed by calling the
+   class (ie, like FooClass()), and the classes themselves are instances
+   of class type (itself an instance of itself), allowing metaprogramming
+   and reflection.
+
+   Methods on objects are functions attached to the object's class; the
+   syntax instance.method(argument) is, for normal methods and functions,
+   syntactic sugar for Class.method(instance, argument). This is why
+   Python methods must have an explicit self parameter to access instance
+   data, in contrast to the implicit self in some other object-oriented
+   programming languages (for example, Java or Ruby).
+
+Implementations
+
+   The mainstream Python implementation, also known as CPython, is written
+   in C compliant to the C89 standard, and is distributed with a large
+   standard library written in a mixture of C and Python. CPython ships
+   for a large number of supported platforms, including Microsoft Windows
+   and most modern Unix-like systems. CPython was intended from almost its
+   very conception to be cross-platform; its use and development on
+   esoteric platforms such as Amoeba alongside more conventional ones like
+   Unix or Macintosh has greatly helped in this regard.
+
+   Stackless Python is a significant fork of CPython that implements
+   microthreads. It can be expected to run on approximately the same
+   platforms that CPython runs on.
+
+   There are two other major implementations: Jython for the Java
+   platform, and IronPython for the .NET platform. PyPy is an experimental
+   self-hosting implementation of Python, in Python, that can output a
+   variety of types of bytecode, object code and intermediate languages.
+
+   Several programs exist to package Python programs into standalone
+   executables, including py2exe, PyInstaller, cx_Freeze and py2app.
+
+   Many Python programs can run on different Python implementations, on
+   such disparate operating systems and execution environments, without
+   change. In the case of the implementations running on top of the Java
+   virtual machine or the Common Language Runtime, the
+   platform-independence of these systems is harnessed by their respective
+   Python implementation.
+
+   Many third-party libraries for Python (and even some first-party ones)
+   are only available on Windows, Linux, BSD, and Mac OS X.
+
+Interpretational semantics
+
+   Most Python implementations (including CPython, the dominant
+   implementation) can function as a command-line interpreter, where the
+   user enters statements sequentially and receives the results
+   immediately; in short, acting as a shell. While the semantics of the
+   other modes of execution (bytecode compilation, or compilation to
+   native code) preserve the sequential semantics, they offer a speed
+   boost at the cost of interactivity, so they are only used outside of a
+   command-line interaction (for example, importing a module).
+
+   Other shells add capabilities beyond those in the basic interpreter,
+   including IDLE and IPython. While generally following the visual style
+   of the Python shell, they implement features like auto-completion,
+   retention of session state, and syntax highlighting.
+
+   Some implementations are able to compile to not only bytecode, but to
+   turn Python code into machine code. So far, this has only been done for
+   restricted subsets of Python. PyPy takes this approach, naming its
+   restricted compilable version of Python RPython. There is also Psyco,
+   which is a specialising just in time compiler, which transforms
+   bytecode to machine code at runtime. The produced code is specialised
+   for certain data types (for example, there may be a version for
+   integers smaller than 2^32 which uses the CPU's operations directly,
+   and there may be a version which goes through the normal machinery for
+   Python objects). This is done at runtime, based on the values the
+   program actually manipulates, and works on any Python code, not just a
+   subset.
+
+Standard library
+
+   Python has a large standard library, commonly cited as one of Python's
+   greatest strengths, providing tools suited to many disparate tasks.
+   This comes from a so-called "batteries included" philosophy for Python
+   modules. The modules of the standard library can be augmented with
+   custom modules written in either C or Python. Recently, Boost C++
+   Libraries includes a library, python, to enable interoperability
+   between C++ and Python. Because of the wide variety of tools provided
+   by the standard library combined with the ability to use a lower-level
+   language such as C and C++, which is already capable of interfacing
+   between other libraries, Python can be a powerful glue language between
+   languages and tools.
+
+   The standard library is particularly well tailored to writing
+   Internet-facing applications, with a large number of standard formats
+   and protocols (such as MIME and HTTP) supported. Modules for creating
+   graphical user interfaces, connecting to relational databases,
+   arithmetic with arbitrarily precise decimals, and manipulating regular
+   expressions are also included. Python also includes a unit testing
+   framework for creating exhaustive test suites.
+
+   Some parts of the standard library are covered by specifications (for
+   example, the WSGI implementation wsgiref follows PEP 333), but the
+   majority of modules are defined by nothing other than their code,
+   documentation and test suite. However, because most of the standard
+   library is cross-platform Python code, there are only a small number of
+   modules which must be altered or completely rewritten by alternative
+   implementations.
+
+Programming philosophy
+
+   Python is a multi-paradigm programming language. This means that,
+   rather than forcing programmers to adopt a particular style of
+   programming, it permits several styles: object orientation and
+   structured programming are fully supported, and there are a number of
+   language features which support functional programming and
+   aspect-oriented programming. Many other paradigms are supported using
+   extensions, such as pyDBC and Contracts for Python which allow Design
+   by Contract. Python uses dynamic typing and reference counting for
+   memory management. An important feature of Python is dynamic name
+   resolution, which binds method and variable names during program
+   execution.
+
+   Another target of the language's design is ease of extensibility,
+   rather than having everything built into the language core. New
+   built-in modules are easily written in C or C++. Python can also be
+   used as an extension language for existing modules and applications
+   that need a programmable interface. This design, of a small core
+   language with a large standard library and an easily-extensible
+   interpreter, was intended by van Rossum from the very start, due to his
+   frustrations with ABC, which espoused the opposite mindset.
+
+   Though the design of Python is somewhat hostile to functional
+   programming and the Lisp tradition (no tail-call elimination nor good
+   support for anonymous closures), there are significant parallels
+   between the philosophy of Python and that of minimalist Lisp-family
+   languages such as Scheme.
+
+   While offering choice in coding methodology, the Python philosophy
+   rejects exuberant syntax, such as in Perl, in favour of a sparser, less
+   cluttered one. As with Perl, Python's developers expressly promote a
+   particular "culture" or ideology based on what they want the language
+   to be, favoring language forms they see as "beautiful", "explicit" and
+   "simple". As Alex Martelli put it in his Python Cookbook (2nd ed.,
+   p.230): "To describe something as clever is NOT considered a compliment
+   in the Python culture." Python's philosophy rejects the Perl " there is
+   more than one way to do it" approach to language design in favour of
+   advocating a single "right" approach to problem solving.
+
+   Like nearly all other languages and their communities, Python does not
+   advocate premature optimisation, and actively eschews patches to
+   non-critical parts of CPython which would offer a marginal increase in
+   speed at the cost of clarity. Because of this, Python is sometimes
+   labelled as 'slow', and while the community accepts this, it is not
+   commonly seen as a problem, because the majority of a program is not
+   critical to speed, and the bottlenecks can be optimised greatly (a
+   15-fold optimisation of a naive algorithm is recorded without recoding
+   into C), but premature optimisation is warned against strongly .
+
+Neologisms
+
+   A common neologism in the Python community is pythonic, which can have
+   a wide range of meanings related to program style. To say that a piece
+   of code is pythonic is to say that it uses Python idioms well; that it
+   is natural or shows fluency in the language. Likewise, to say of an
+   interface or language feature that it is pythonic is to say that it
+   works well with Python idioms; that its use meshes well with the rest
+   of the language. Some people also use the word pythonesque as a synonym
+   of 'pythonic'.
+
+   In contrast, a mark of unpythonic code is that it attempts to "write
+   C++ (or Lisp, or Perl) code in Python"—that is, provides a rough
+   transcription rather than an idiomatic translation of forms from
+   another language. The concept of pythonicity is tightly bound to
+   Python's minimalist philosophy of readability. Unreadable code or
+   incomprehensible idioms are unpythonic.
+
+   Users and admirers of Python—most especially those considered
+   knowledgeable or experienced—are often referred to as Pythonists,
+   Pythonistas, and Pythoneers.
+
+   The prefix Py- can be used to show that something is related to Python.
+   Examples of the use of this prefix in names of Python applications or
+   libraries include Pygame, a binding of SDL to Python (commonly used to
+   create games); PyQt and PyGTK, which bind Qt and GTK, respectively, to
+   Python; and PyPy, a Python implementation written in Python. The prefix
+   is also used outside of naming software packages: the major Python
+   conference is named PyCon.
+
+   An important goal of the Python developers is making Python fun to use.
+   This is reflected in the origin of the name (after the television
+   series Monty Python's Flying Circus), in the common practice of using
+   Monty Python references in example code, and in an occasionally playful
+   approach to tutorials and reference materials. For example, the
+   metasyntactic variables often used in Python literature are spam and
+   eggs, instead of the traditional foo and bar.
+
+Influences on other languages
+
+   Python's design and philosophy have influenced several programming
+   languages:
+     * Boo's Python heritage is more explicit — it also uses indentation,
+       a similar syntax, and a similar object model. Boo, however, uses
+       static typing and is closely integrated with the .NET framework.
+     * ECMAScript borrowed iterators, generators and list comprehensions
+       from Python's implementation.
+     * Ruby is influenced by Python. Specifically, Matz wished to have a
+       language closer to the classical message passing object-oriented
+       model than Python.
+     * Groovy was motivated by the desire to bring the Python design
+       philosophy to Java.
+
+   Python's development practices have also been emulated by other
+   languages. The system of requiring a document describing the rationale
+   for and issues surrounding a change to the language (ie, a PEP) is also
+   used in Tcl directly due to Python's influence.
+
+Additional Reading
+
+     * The Python Language Reference Manual by Guido van Rossum and Fred
+       L. Drake, Jr. ( ISBN 0-9541617-8-5)
+     * How to Think Like a Computer Scientist: Learning with Python is an
+       introduction to function-based programming constructs using Python
+       - free download available or hardcopy may be purchased. ( ISBN
+       0-9716775-0-6)
+     * Text Processing in Python by David Mertz is an intermediate Python
+       book, available both online for free and for money from
+       Addison-Wesley. ( ISBN 0-321-11254-7)
+     * A Byte of Python is a beginner's book on Python. Also available
+       online as a wiki.
+     * Dive into Python demonstrates clever and useful Python paradigms
+       for readers who know how to program already. It is available
+       online, or hardcopy may be purchased.
+     * Core Python Programming, 2nd Edition by Wesley Chun ( ISBN
+       0-13-226993-7)
+     * Py, "The Python Online Technical Journal".
+     * Learning Python by Mark Lutz and David Ascher, 2nd edition, Dec.
+       2003 ( ISBN 0596002815)
+     * Programming Python by Mark Lutz, 3rd edition Aug. 2006 ( ISBN
+       0596009259)
+     * Python Pocket Reference by Mark Lutz, 1st edition Feb. 2005 ( ISBN
+       0596009402)
+     * Computing in Science & Engineering, a peer-reviewed technical
+       magazine, recently devoted a special issue to Python.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Python_%28programming_language%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,526 @@
+   #copyright
+
+Data Encryption Standard
+
+2007 Schools Wikipedia Selection. Related subjects: Cryptography
+
+
+   This is a featured article. Click here for more information.
+
+   CAPTION: Data Encryption Standard
+
+   The Feistel function (F function) of DES
+     Designer(s):   IBM
+   First published: 1975 (standardized on January 1977)
+    Derived from:   Lucifer
+    Successor(s):   Triple DES, G-DES, DES-X, LOKI89, ICE
+     Key size(s):   56 bits
+    Block size(s):  64 bits
+      Structure:    Feistel network
+       Rounds:      16
+                         Best public cryptanalysis:
+   DES is now considered insecure because a brute force attack is possible
+   (see EFF DES cracker). As of 2004, the best analytical attack is linear
+   cryptanalysis, which requires 2^43 known plaintexts and has a time
+   complexity of 2^39-43 (Junod, 2001); under a chosen-plaintext
+   assumption, the data complexity can be reduced by a factor of four
+   (Knudsen and Mathiassen, 2000).
+
+   The Data Encryption Standard (DES) is a cipher (a method for encrypting
+   information) selected as an official Federal Information Processing
+   Standard (FIPS) for the United States in 1976, and which has
+   subsequently enjoyed widespread use internationally. The algorithm was
+   initially controversial, with classified design elements, a relatively
+   short key length, and suspicions about a National Security Agency (NSA)
+   backdoor. DES consequently came under intense academic scrutiny, and
+   motivated the modern understanding of block ciphers and their
+   cryptanalysis.
+
+   DES is now considered to be insecure for many applications. This is
+   chiefly due to the 56-bit key size being too small; DES keys have been
+   broken in less than 24 hours. There are also some analytical results
+   which demonstrate theoretical weaknesses in the cipher, although they
+   are infeasible to mount in practice. The algorithm is believed to be
+   practically secure in the form of Triple DES, although there are
+   theoretical attacks. In recent years, the cipher has been superseded by
+   the Advanced Encryption Standard (AES).
+
+   In some documentation, a distinction is made between DES as a standard,
+   and the algorithm, which is referred to as the DEA (the Data Encryption
+   Algorithm). When spoken, "DES" is either spelled out (dee-ee-ess) or
+   pronounced as a single syllable (dez or dess).
+
+History of DES
+
+   The origins of DES go back to the early 1970s. In 1972, after
+   concluding a study on the US government's computer security needs, the
+   US standards body NBS (National Bureau of Standards) — now named NIST
+   (National Institute of Standards and Technology) — identified a need
+   for a government-wide standard for encrypting unclassified, sensitive
+   information. Accordingly, on 15 May 1973, after consulting with the
+   NSA, NBS solicited proposals for a cipher that would meet rigorous
+   design criteria. None of the submissions, however, turned out to be
+   suitable. A second request was issued on 27 August 1974. This time, IBM
+   submitted a candidate which was deemed acceptable, a cipher developed
+   during the period 1973–1974 based on an earlier algorithm, Horst
+   Feistel's Lucifer cipher. The team at IBM involved in cipher design and
+   analysis included Feistel, Walter Tuchman, Don Coppersmith, Alan
+   Konheim, Carl Meyer, Mike Matyas, Roy Adler, Edna Grossman, Bill Notz,
+   Lynn Smith, and Bryant Tuckerman.
+
+NSA's involvement in the design
+
+   On March 17, 1975, the proposed DES was published in the Federal
+   Register. Public comments were requested, and in the following year two
+   open workshops were held to discuss the proposed standard. There was
+   some criticism from various parties, including from public-key
+   cryptography pioneers Martin Hellman and Whitfield Diffie, citing a
+   shortened key length and the mysterious " S-boxes" as evidence of
+   improper interference from the NSA. The suspicion was that the
+   algorithm had been covertly weakened by the intelligence agency so that
+   they -- but no-one else -- could easily read encrypted messages. Alan
+   Konheim (one of the designers of DES) commented, "We sent the S-boxes
+   off to Washington. They came back and were all different." The United
+   States Senate Select Committee on Intelligence reviewed the NSA's
+   actions to determine whether there had been any improper involvement.
+   In the unclassified summary of their findings, published in 1978, the
+   Committee wrote:
+
+          "In the development of DES, NSA convinced IBM that a reduced key
+          size was sufficient; indirectly assisted in the development of
+          the S-box structures; and certified that the final DES algorithm
+          was, to the best of their knowledge, free from any statistical
+          or mathematical weakness."
+
+   However, it also found that
+
+          "NSA did not tamper with the design of the algorithm in any way.
+          IBM invented and designed the algorithm, made all pertinent
+          decisions regarding it, and concurred that the agreed upon key
+          size was more than adequate for all commercial applications for
+          which the DES was intended."
+
+   Another member of the DES team, Walter Tuchman, is quoted as saying,
+   "We developed the DES algorithm entirely within IBM using IBMers. The
+   NSA did not dictate a single wire!"
+
+   Some of the suspicions about hidden weaknesses in the S-boxes were
+   allayed in 1990, with the independent discovery and open publication by
+   Eli Biham and Adi Shamir of differential cryptanalysis, a general
+   method for breaking block ciphers. The S-boxes of DES were much more
+   resistant to the attack than if they had been chosen at random,
+   strongly suggesting that IBM knew about the technique back in the
+   1970s. This was indeed the case--in 1994, Don Coppersmith published the
+   original design criteria for the S-boxes. According to Steven Levy, IBM
+   Watson researchers discovered differential cryptanalytic attacks in
+   1974 and were asked by the NSA to keep the technique secret.
+   Coppersmith explains, "that was because [differential cryptanalysis]
+   can be a very powerful tool, used against many schemes, and there was
+   concern that such information in the public domain could adversely
+   affect national security." Levy quotes Walter Tuchman: "[t]hey asked us
+   to stamp all our documents confidential... We actually put a number on
+   each one and locked them up in safes, because they were considered U.S.
+   government classified. They said do it. So I did it". Shamir himself
+   commented, "I would say that, contrary to what some people believe,
+   there is no evidence of tampering with the DES so that the basic design
+   was weakened."
+
+   The other criticism--that the key length was too short--was supported
+   by the fact that the reason given by the NSA for reducing the key
+   length from 64 bits to 56 was that the other 8 bits could serve as
+   parity bits, which seemed somewhat specious. It was widely believed
+   that NSA's decision was motivated by the possibility that they would be
+   able to brute force attack a 56 bit key several years before the rest
+   of the world would.
+
+The algorithm as a standard
+
+   Despite the criticisms, DES was approved as a federal standard in
+   November 1976, and published on 15 January 1977 as FIPS PUB 46,
+   authorized for use on all unclassified data. It was subsequently
+   reaffirmed as the standard in 1983, 1988 (revised as FIPS-46-1), 1993
+   (FIPS-46-2), and again in 1998 (FIPS-46-3), the latter prescribing "
+   Triple DES" (see below). On 26 May 2002, DES was finally superseded by
+   AES, the Advanced Encryption Standard, following a public competition
+   (see AES process). Even as of 2004, however, DES remains in widespread
+   use. On 19 May 2005, FIPS 46-3 was officially withdrawn, but NIST has
+   approved Triple DES through the year 2030 for sensitive government
+   information.
+
+   Another theoretical attack, linear cryptanalysis, was published in
+   1994, but it was a brute force attack in 1998 that demonstrated that
+   DES could be attacked very practically, and highlighted the need for a
+   replacement algorithm. These and other methods of cryptanalysis are
+   discussed in more detail later in the article.
+
+   The introduction of DES is considered to have been a catalyst for the
+   academic study of cryptography, particularly of methods to crack block
+   ciphers. According to a NIST retrospective about DES,
+
+          The DES can be said to have "jump started" the nonmilitary study
+          and development of encryption algorithms. In the 1970s there
+          were very few cryptographers, except for those in military or
+          intelligence organizations, and little academic study of
+          cryptography. There are now many active academic cryptologists,
+          mathematics departments with strong programs in cryptography,
+          and commercial information security companies and consultants. A
+          generation of cryptanalysts has cut its teeth analyzing (that is
+          trying to "crack") the DES algorithm. In the words of
+          cryptographer Bruce Schneier , "DES did more to galvanize the
+          field of cryptanalysis than anything else. Now there was an
+          algorithm to study." An astonishing share of the open literature
+          in cryptography in the 1970s and 1980s dealt with the DES, and
+          the DES is the standard against which every symmetric key
+          algorithm since has been compared.
+
+Chronology
+
+   Date Year Event
+   15 May 1973 NBS publishes a first request for a standard encryption
+   algorithm
+   27 August 1974 NBS publishes a second request for encryption algorithms
+   17 March 1975 DES is published in the Federal Register for comment
+   August 1976 First workshop on DES
+   September 1976 Second workshop, discussing mathematical foundation of
+   DES
+   November 1976 DES is approved as a standard
+   15 January 1977 DES is published as a FIPS standard FIPS PUB 46
+   1983 DES is reaffirmed for the first time
+   1986 Videocipher II, a TV satellite scrambling system based upon DES
+   begins use by HBO
+   22 January 1988 DES is reaffirmed for the second time as FIPS 46-1,
+   superseding FIPS PUB 46
+   1992 Biham and Shamir publish the first theoretical attack with less
+   complexity than brute force: differential cryptanalysis. However, it
+   requires an unrealistic 2^47 chosen plaintexts (Biham and Shamir,
+   1992).
+   30 December 1993 DES is reaffirmed for the third time as FIPS 46-2
+   1994 The first experimental cryptanalysis of DES is performed using
+   linear cryptanalysis (Matsui, 1994).
+   June 1997 The DESCHALL Project breaks a message encrypted with DES for
+   the first time in public.
+   July 1998 The EFF's DES cracker (Deep Crack) breaks a DES key in 56
+   hours.
+   January 1999 Together, Deep Crack and distributed.net break a DES key
+   in 22 hours and 15 minutes.
+   25 October 1999 DES is reaffirmed for the fourth time as FIPS 46-3,
+   which specifies the preferred use of Triple DES, with single DES
+   permitted only in legacy systems.
+   26 November 2001 The Advanced Encryption Standard is published in FIPS
+   197
+   26 May 2002 The AES standard becomes effective
+   26 July 2004 The withdrawal of FIPS 46-3 (and a couple of related
+   standards) is proposed in the Federal Register
+   19 May 2005 NIST withdraws FIPS 46-3
+
+Replacement algorithms
+
+   Concerns about security and the relatively slow operation of DES in
+   software motivated researchers to propose a variety of alternative
+   block cipher designs, which started to appear in the late 1980s and
+   early 1990s; for example RC5, Blowfish, IDEA, NewDES, SAFER, CAST5 and
+   FEAL. Most of these designs kept the 64-bit block size of DES, and
+   could act as a "drop-in" replacement, although they typically used a
+   64-bit or 128-bit key. In the USSR GOST 28147-89 algorithm was
+   introduced, with 64-bit block size and 256-bit key, which was also used
+   in Russia later.
+
+   DES itself can be adapted and reused in a more secure scheme. Many
+   former DES users now use Triple DES (TDES) which was described and
+   analysed by one of DES's patentees (see FIPS Pub 46-3); it involves
+   applying DES three times with two (2TDES) or three (3TDES) different
+   keys. TDES is regarded as adequately secure, although it is quite slow.
+   A less computationally expensive alternative is DES-X, which increases
+   the key size by XORing extra key material before and after DES. GDES
+   was a DES variant proposed as a way to speed up encryption, but it was
+   shown to be susceptible to differential cryptanalysis.
+
+   In 2001, after an international competition, NIST selected a new
+   cipher: the Advanced Encryption Standard (AES), as a replacement. The
+   algorithm which was selected as the AES was submitted by its designers
+   under the name Rijndael. Other finalists in the NIST AES competition
+   included RC6, Serpent, MARS, and Twofish.
+
+Description
+
+   Figure 1 — The overall Feistel structure of DES
+   Enlarge
+   Figure 1 — The overall Feistel structure of DES
+
+          For brevity, the following description omits the exact
+          transformations and permutations which specify the algorithm;
+          for reference, the details can be found in DES supplementary
+          material.
+
+   DES is the archetypal block cipher — an algorithm that takes a
+   fixed-length string of plaintext bits and transforms it through a
+   series of complicated operations into another ciphertext bitstring of
+   the same length. In the case of DES, the block size is 64 bits. DES
+   also uses a key to customize the transformation, so that decryption can
+   only be performed by those who know the particular key used to encrypt.
+   The key ostensibly consists of 64 bits; however, only 56 of these are
+   actually used by the algorithm. Eight bits are used solely for checking
+   parity, and are thereafter discarded. Hence the effective key length is
+   56 bits, and it is usually quoted as such.
+
+   Like other block ciphers, DES must be used in a mode of operation if
+   applied to a message longer than 64 bits. FIPS-81 specifies several
+   modes for use with DES, including one for authentication . Further
+   comments on the usage of DES are contained in FIPS-74 .
+
+Overall structure
+
+   The algorithm's overall structure is shown in Figure 1: there are 16
+   identical stages of processing, termed rounds. There is also an initial
+   and final permutation, termed IP and FP, which are inverses (IP
+   "undoes" the action of FP, and vice versa). IP and FP have almost no
+   cryptographic significance, but were apparently included in order to
+   facilitate loading blocks in and out of mid-1970s hardware. Before the
+   main rounds, the block is divided into two 32-bit halves and processed
+   alternately; this criss-crossing is known as the Feistel scheme.
+
+   The Feistel structure ensures that decryption and encryption are very
+   similar processes — the only difference is that the subkeys are applied
+   in the reverse order when decrypting. The rest of the algorithm is
+   identical. This greatly simplifies implementation, particularly in
+   hardware, as there is no need for separate encryption and decryption
+   algorithms.
+
+   The red \oplus symbol denotes the exclusive-OR (XOR) operation. The
+   F-function scrambles half a block together with some of the key. The
+   output from the F-function is then combined with the other half of the
+   block, and the halves are swapped before the next round. After the
+   final round, the halves are not swapped; this is a feature of the
+   Feistel structure which makes encryption and decryption similar
+   processes.
+
+The Feistel (F) function
+
+   The F-function, depicted in Figure 2, operates on half a block (32
+   bits) at a time and consists of four stages:
+   Figure 2 —The Feistel function (F-function) of DES
+   Enlarge
+   Figure 2 —The Feistel function (F-function) of DES
+    1. Expansion — the 32-bit half-block is expanded to 48 bits using the
+       expansion permutation, denoted E in the diagram, by duplicating
+       some of the bits.
+    2. Key mixing — the result is combined with a subkey using an XOR
+       operation. Sixteen 48-bit subkeys — one for each round — are
+       derived from the main key using the key schedule (described below).
+    3. Substitution — after mixing in the subkey, the block is divided
+       into eight 6-bit pieces before processing by the S-boxes, or
+       substitution boxes. Each of the eight S-boxes replaces its six
+       input bits with four output bits according to a non-linear
+       transformation, provided in the form of a lookup table. The S-boxes
+       provide the core of the security of DES — without them, the cipher
+       would be linear, and trivially breakable.
+    4. Permutation — finally, the 32 outputs from the S-boxes are
+       rearranged according to a fixed permutation, the P-box.
+
+   The alternation of substitution from the S-boxes, and permutation of
+   bits from the P-box and E-expansion provides so-called " confusion and
+   diffusion" respectively, a concept identified by Claude Shannon in the
+   1940s as a necessary condition for a secure yet practical cipher.
+
+Key schedule
+
+   Figure 3 — The key-schedule of DES
+   Enlarge
+   Figure 3 — The key-schedule of DES
+
+   Figure 3 illustrates the key schedule for encryption — the algorithm
+   which generates the subkeys. Initially, 56 bits of the key are selected
+   from the initial 64 by Permuted Choice 1 (PC-1) — the remaining eight
+   bits are either discarded or used as parity check bits. The 56 bits are
+   then divided into two 28-bit halves; each half is thereafter treated
+   separately. In successive rounds, both halves are rotated left by one
+   or two bits (specified for each round), and then 48 subkey bits are
+   selected by Permuted Choice 2 (PC-2) — 24 bits from the left half, and
+   24 from the right. The rotations (denoted by "<<<" in the diagram) mean
+   that a different set of bits is used in each subkey; each bit is used
+   in approximately 14 out of the 16 subkeys.
+
+   The key schedule for decryption is similar — it must generate the keys
+   in the reverse order. Hence the rotations are to the right, rather than
+   the left.
+
+Security and cryptanalysis
+
+   Although more information has been published on the cryptanalysis of
+   DES than any other block cipher, the most practical attack to date is
+   still a brute force approach. Various minor cryptanalytic properties
+   are known, and three theoretical attacks are possible which, while
+   having a theoretical complexity less than a brute force attack, require
+   an unrealistic amount of known or chosen plaintext to carry out, and
+   are not a concern in practice.
+
+   In spite of all the criticism and weaknesses of DES, there is no known
+   example of anyone actually suffering monetary losses because of DES
+   security limitations.
+
+Brute force attack
+
+   For any cipher, the most basic method of attack is brute force — trying
+   every possible key in turn. The length of the key determines the number
+   of possible keys, and hence the feasibility of this approach. For DES,
+   questions were raised about the adequacy of its key size early on, even
+   before it was adopted as a standard, and it was the small key size,
+   rather than theoretical cryptanalysis, which dictated a need for a
+   replacement algorithm. It is known that the NSA encouraged, if not
+   persuaded, IBM to reduce the key size from 128 to 64 bits, and from
+   there to 56 bits; this is often taken as an indication that the NSA
+   possessed enough computer power to break keys of this length even in
+   the mid-1970s.
+   The EFF's US$250,000 DES cracking machine contained 1,536 custom chips
+   and could brute force a DES key in a matter of days — the photo shows a
+   DES Cracker circuit board fitted with several Deep Crack chips.
+   Enlarge
+   The EFF's US$250,000 DES cracking machine contained 1,536 custom chips
+   and could brute force a DES key in a matter of days — the photo shows a
+   DES Cracker circuit board fitted with several Deep Crack chips.
+
+   In academia, various proposals for a DES-cracking machine were
+   advanced. In 1977, Diffie and Hellman proposed a machine costing an
+   estimated US$20 million which could find a DES key in a single day. By
+   1993, Wiener had proposed a key-search machine costing US$1 million
+   which would find a key within 7 hours. However, none of these early
+   proposals were ever implemented, at least no implementations were
+   publicly acknowledged. The vulnerability of DES was practically
+   demonstrated in the late 1990s. In 1997, RSA Security sponsored a
+   series of contests, offering a $10,000 prize to the first team that
+   broke a message encrypted with DES for the contest. That contest was
+   won by the DESCHALL Project, led by Rocke Verser, Matt Curtin, and
+   Justin Dolske, using idle cycles of thousands of computers across the
+   Internet. The feasibility of cracking DES quickly was demonstrated in
+   1998 when a custom DES-cracker was built by the Electronic Frontier
+   Foundation (EFF), a cyberspace civil rights group, at the cost of
+   approximately US$250,000 (see EFF DES cracker). Their motivation was to
+   show that DES was breakable in practice as well as in theory: "There
+   are many people who will not believe a truth until they can see it with
+   their own eyes. Showing them a physical machine that can crack DES in a
+   few days is the only way to convince some people that they really
+   cannot trust their security to DES." The machine brute-forced a key in
+   a little more than 2 days' search; at about the same time at least one
+   attorney from the US Justice Department was announcing that DES was
+   unbreakable.
+   The COPACOBANA machine, built for US$10,000 by the Universities of
+   Bochum and Kiel, contains 120 low-cost FPGAs and can perform an
+   exhaustive key search on DES in 9 days on average. The photo shows the
+   backplane of the machine with the FPGAs.
+   Enlarge
+   The COPACOBANA machine, built for US$10,000 by the Universities of
+   Bochum and Kiel, contains 120 low-cost FPGAs and can perform an
+   exhaustive key search on DES in 9 days on average. The photo shows the
+   backplane of the machine with the FPGAs.
+
+   The only other confirmed DES cracker was the COPACOBANA machine
+   (Cost-Optimized Parallel COde Breaker) built more recently by teams of
+   the Universities of Bochum and Kiel, both in Germany. Unlike the EFF
+   machine, COPACOBANA consist of commercially available, reconfigurable
+   integrated circuits. 120 of these FPGAs of type XILINX Spartan3-1000
+   run in parallel. They are grouped in 20 DIMM modules, each containing 6
+   FPGAs. The use of reconfigurable hardware makes the machine applicable
+   to other code breaking tasks as well. The figure shows a full-sized
+   COPACOBANA. One of the more interesting aspects of COPACOBANA is its
+   cost factor. One machine can be built for approximately $10,000. The
+   cost decrease by roughly a factor of 25 over the EFF machine is an
+   impressive example for the continuous improvement of digital hardware.
+   Interestingly Moore’s law predicts an improvement of about 32, since
+   about 8 years have passed between the design of the two machines, which
+   allows for about five doublings of computer power (or 5 reductions by
+   50% of the cost for doing the same computation).
+
+Attacks faster than brute-force
+
+   There are three attacks known that can break the full sixteen rounds of
+   DES with less complexity than a brute-force search: differential
+   cryptanalysis (DC), linear cryptanalysis (LC), and Davies' attack.
+   However, the attacks are theoretical and are infeasible to mount in
+   practice; these types of attack are sometimes termed certificational
+   weaknesses.
+     * Differential cryptanalysis was discovered in the late 1980s by Eli
+       Biham and Adi Shamir, although it was known earlier to both IBM and
+       the NSA and kept secret. To break the full 16 rounds, differential
+       cryptanalysis requires 2^47 chosen plaintexts. DES was designed to
+       be resistant to DC.
+     * Linear cryptanalysis was discovered by Mitsuru Matsui, and needs
+       2^43 known plaintexts (Matsui, 1993); the method was implemented
+       (Matsui, 1994), and was the first experimental cryptanalysis of DES
+       to be reported. There is no evidence that DES was tailored to be
+       resistant to this type of attack. A generalisation of LC — multiple
+       linear cryptanalysis — was suggested in 1994 (Kaliski and Robshaw),
+       and was further refined by Biryukov et al (2004); their analysis
+       suggests that multiple linear approximations could be used to
+       reduce the data requirements of the attack by at least a factor of
+       4 (i.e. 2^41 instead of 2^43). A similar reduction in data
+       complexity can be obtained in a chosen-plaintext variant of linear
+       cryptanalysis (Knudsen and Mathiassen, 2000). Junod (2001)
+       performed several experiments to determine the actual time
+       complexity of linear cryptanalysis, and reported that it was
+       somewhat faster than predicted, requiring time equivalent to
+       2^39–2^41 DES evaluations.
+     * Improved Davies' attack: while linear and differential
+       cryptanalysis are general techniques and can be applied to a number
+       of schemes, Davies' attack is a specialised technique for DES,
+       first suggested by Davies in the eighties, and improved by Biham
+       and Biryukov (1997). The most powerful form of the attack requires
+       2^50 known plaintexts, has a computational complexity of 2^50, and
+       has a 51% success rate.
+
+   There have also been attacks proposed against reduced-round versions of
+   the cipher, i.e. versions of DES with fewer than sixteen rounds. Such
+   analysis gives an insight into how many rounds are needed for safety,
+   and how much of a "security margin" the full version retains.
+   Differential-linear cryptanalysis was proposed by Langford and Hellman
+   in 1994, and combines differential and linear cryptanalysis into a
+   single attack. An enhanced version of the attack can break 9-round DES
+   with 2^15.8 known plaintexts and has a 2^29.2 time complexity (Biham et
+   al, 2002).
+
+Minor cryptanalytic properties
+
+   DES exhibits the complementation property, namely that
+
+          E_K(P)=C \Leftrightarrow
+          E_\overline{K}(\overline{P})=\overline{C}
+
+   where \overline{x} is the bitwise complement of x. E[K] denotes
+   encryption with key K. P and C denote plaintext and ciphertext blocks
+   respectively. The complementation property means that the work for a
+   brute force attack could be reduced by a factor of 2 (or a single bit)
+   under a chosen-plaintext assumption.
+
+   DES also has four so-called weak keys. Encryption (E) and decryption
+   (D) under a weak key have the same effect (see involution):
+
+          E[K](E[K](P)) = P or equivalently, E[K] = D[K]
+
+   There are also six pairs of semi-weak keys. Encryption with one of the
+   pair of semiweak keys, K[1], operates identically to decryption with
+   the other, K[2]:
+
+          E_{K_1}(E_{K_2}(P)) = P or equivalently, E_{K_2} = D_{K_1}
+
+   It is easy enough to avoid the weak and semiweak keys in an
+   implementation, either by testing for them explicitly, or simply by
+   choosing keys randomly; the odds of picking a weak or semiweak key by
+   chance are negligible. The keys are not really any weaker than any
+   other keys anyway, as they do not give an attack any advantage.
+
+   DES has also been proved not to be a group, or more precisely, the set
+   {E[K]} (for all possible keys K) under functional composition is not a
+   group, nor "close" to being a group (Campbell and Wiener, 1992). This
+   was an open question for some time, and if it had been the case, it
+   would have been possible to break DES, and multiple encryption modes
+   such as Triple DES would not increase the security.
+
+   It is known that the maximum cryptographic security of DES is limited
+   to about 64 bits, even when independently choosing all round subkeys
+   instead of deriving them from a key, which would otherwise permit a
+   security of 768 bits.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Data_Encryption_Standard"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

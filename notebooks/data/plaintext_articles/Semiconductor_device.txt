@@ -1,0 +1,371 @@
+   #copyright
+
+Semiconductor device
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics; Engineering
+
+   Semiconductor devices are electronic components that exploit the
+   electronic properties of semiconductor materials, principally silicon,
+   germanium, and gallium arsenide. Semiconductor devices have replaced
+   thermionic devices (vacuum tubes) in most applications. They use
+   electronic conduction in the solid state as opposed to the gaseous
+   state or thermionic emission in a high vacuum.
+
+   Semiconductor devices are manufactured both as single discrete devices
+   and as integrated circuits (ICs), which consist of a number—from a few
+   to millions—of devices manufactured and interconnected on a single
+   semiconductor substrate.
+
+Semiconductor device fundamentals
+
+   The main reason semiconductor materials are so useful is that the
+   behaviour of a semiconductor can be easily manipulated by the addition
+   of impurities, known as doping. Semiconductor conductivity can be
+   controlled by introduction of an electric field, by exposure to light,
+   and even pressure and heat; thus, semiconductors can make excellent
+   sensors. Current conduction in a semiconductor occurs via mobile or
+   "free" electrons and holes (collectively known as charge carriers).
+   Doping a semiconductor such as silicon with a small amount of impurity
+   atoms, such as phosphorus or boron, greatly increases the number of
+   free electrons or holes within the semiconductor. When a doped
+   semiconductor contains excess holes it is called "p-type", and when it
+   contains excess free electrons it is known as "n-type". The
+   semiconductor material used in devices is doped under highly controlled
+   conditions in a fabrication facility, or fab, to precisely control the
+   location and concentration of p- and n-type dopants. The junctions
+   which form where n-type and p-type semiconductors join together are
+   called p-n junctions.
+
+Diode
+
+   The p-n junction diode is a device made from a p-n junction. At the
+   junction of a p-type and an n-type semiconductor there forms a region
+   called the depletion zone which blocks current conduction from the
+   n-type region to the p-type region, but allows current to conduct from
+   the p-type region to the n-type region. Thus when the device is forward
+   biased, with the p-side at higher electric potential, the diode
+   conducts current easily; but the current is very small when the diode
+   is reverse biased.
+
+   Exposing a semiconductor to light can generate electron–hole pairs,
+   which increases the number of free carriers and its conductivity.
+   Diodes optimized to take advantage of this phenomenon are known as
+   photodiodes. Compound semiconductor diodes can also be used to generate
+   light, as in light-emitting diodes and laser diodes.
+
+Transistor
+
+   Two MOS transistors with common gate (metallic layers and dielectric
+   removed for clarity).
+   Two MOS transistors with common gate (metallic layers and dielectric
+   removed for clarity).
+
+   Bipolar junction transistors are formed from two p-n junctions, in
+   either n-p-n or p-n-p configuration. The middle, or base, region
+   between the junctions is typically very narrow. The other regions, and
+   their associated terminals, are known as the emitter and the collector.
+   A small current injected through the junction between the base and the
+   emitter changes the properties of the base-collector junction so that
+   it can conduct current even though it is reverse biased. This creates a
+   much larger current between the collector and emitter, controlled by
+   the base-emitter current.
+
+   Another type of transistor, the field effect transistor operates on the
+   principle that semiconductor conductivity can be increased or decreased
+   by the presence of an electric field. An electric field can increase
+   the number of free electrons and holes in a semiconductor, thereby
+   changing its conductivity. The field may be applied by a reverse-biased
+   p-n junction, forming a junction field effect transistor, or JFET; or
+   by an electrode isolated from the bulk material by an oxide layer,
+   forming a metal-oxide-semiconductor field effect transistor, or MOSFET.
+   Cross-section through a MOS transistor (metallic layers and dielectric
+   removed for clarity), foreground.
+   Cross-section through a MOS transistor (metallic layers and dielectric
+   removed for clarity), foreground.
+
+   The MOSFET is the most used semiconductor device today. The gate
+   electrode is charged to produce an electric field that controls the
+   conductivity of a "channel" between two terminals, called the source
+   and drain. Depending on the type of carrier in the channel, the device
+   may be an n-channel (for electrons) or a p-channel (for holes) MOSFET.
+   Although the MOSFET is named in part for its "metal" gate, in modern
+   devices polysilicon is typically used instead.
+
+Semiconductor device materials
+
+   By far, silicon (Si) is the most widely used material in semiconductor
+   devices. Its combination of low raw material cost, relatively simple
+   processing, and a useful temperature range make it currently the best
+   compromise among the various competing materials. Silicon used in
+   semiconductor device manufacturing is currently fabricated into boules
+   that are large enough in diameter to allow the production of 300 mm (12
+   in.) wafers.
+
+   Germanium (Ge) was a widely used early semiconductor material but its
+   thermal sensitivity makes it less useful than silicon. Today, germanium
+   is often alloyed with silicon for use in very-high-speed SiGe devices;
+   IBM is a major producer of such devices.
+
+   Gallium arsenide (GaAs) is also widely used in high-speed devices but
+   so far, it has been difficult to form large-diameter boules of this
+   material, limiting the wafer diameter to sizes significantly smaller
+   than silicon wafers thus making mass production of GaAs devices
+   significantly more expensive than silicon.
+
+   Other less common materials are also in use or under investigation.
+
+   Silicon carbide (SiC) has found some application as the raw material
+   for blue light-emitting diodes (LEDs) and is being investigated for use
+   in semiconductor devices that could withstand very high operating
+   temperatures and environments with the presence of significant levels
+   of ionizing radiation. IMPATT diodes have also been fabricated from
+   SiC.
+
+   Various indium compounds (indium arsenide, indium antimonide, and
+   indium phosphide) are also being used in LEDs and solid state laser
+   diodes. Selenium sulfide is being studied in the manufacture of
+   photovoltaic solar cells.
+
+Semiconductor device applications
+
+   All transistor types can be used as the building blocks of logic gates,
+   which are fundamental in the design of digital circuits. In digital
+   circuits like microprocessors, transistors act as on-off switches; in
+   the MOSFET, for instance, the voltage applied to the gate determines
+   whether the switch is on or off.
+
+   Transistors used for analog circuits do not act as on-off switches;
+   rather, they respond to a continuous range of inputs with a continuous
+   range of outputs. Common analog circuits include amplifiers and
+   oscillators.
+
+   Circuits that interface or translate between digital circuits and
+   analog circuits are known as mixed-signal circuits.
+
+   Power semiconductor devices are discrete devices or integrated circuits
+   intended for high current or high voltage applications. Power
+   integrated circuits combine IC technology with power semiconductor
+   technology, these are sometimes referred to as "smart" power devices.
+   Several companies specialize in manufacturing power semiconductors.
+
+Component identifiers
+
+   The type designators of semiconductor devices are often manufacturer
+   specific. Nevertheless, there have been attempts at creating standards
+   for type codes, and a subset of devices follow those. For discrete
+   devices, for example, there are three standards: JEDEC JESD370B in USA,
+   Pro Electron in Europe and JIS in Japan.
+
+History of semiconductor device development
+
+1900s
+
+   Semiconductors had been used in the electronics field for some time
+   before the invention of the transistor. Around the turn of the 20th
+   century they were quite common as detectors in radios, used in a device
+   called a " cat's whisker". These detectors were somewhat troublesome,
+   however, requiring the operator to move a small tungsten filament (the
+   whisker) around the surface of a galena (lead sulfide) or carborundum
+   (silicon carbide) crystal until it suddenly started working. Then, over
+   a period of a few hours or days, the cat's whisker would slowly stop
+   working and the process would have to be repeated. At the time their
+   operation was completely mysterious. After the introduction of the more
+   reliable and amplified vacuum tube based radios, the cat's whisker
+   systems quickly disappeared. The "cat's whisker" is a primitive example
+   of a special type of diode still popular today, called a Schottky
+   diode.
+
+World War II
+
+   During World War II, radar research quickly pushed radar receivers to
+   operate at ever higher frequencies and the traditional tube based radio
+   receivers no longer worked well. The introduction of the cavity
+   magnetron from Britain to the United States in 1940 during the Tizard
+   Mission resulted in a pressing need for a practical high-frequency
+   amplifier.
+
+   On a whim, Russell Ohl of Bell Laboratories decided to try a cat's
+   whisker. By this point they had not been in use for a number of years,
+   and no one at the labs had one. After hunting one down at a used radio
+   store in Manhattan, he found that it worked much better than tube-based
+   systems.
+
+   Ohl investigated why the cat's whisker functioned so well. He spent
+   most of 1939 trying to grow more pure versions of the crystals. He soon
+   found that with higher quality crystals their finicky behaviour went
+   away, but so did their ability to operate as a radio detector. One day
+   he found one of his purest crystals nevertheless worked well, and
+   interestingly, it had a clearly visible crack near the middle. However
+   as he moved about the room trying to test it, the detector would
+   mysteriously work, and then stop again. After some study he found that
+   the behaviour was controlled by the light in the room–more light caused
+   more conductance in the crystal. He invited several other people to see
+   this crystal, and Walter Brattain immediately realized there was some
+   sort of junction at the crack.
+
+   Further research cleared up the remaining mystery. The crystal had
+   cracked because either side contained very slightly different amounts
+   of the impurities Ohl could not remove–about 0.2%. One side of the
+   crystal had impurities that added extra electrons (the carriers of
+   electrical current) and made it a "conductor". The other had impurities
+   that wanted to bind to these electrons, making it (what he called) an
+   "insulator". Because the two parts of the crystal were in contact with
+   each other, the electrons could be pushed out of the conductive side
+   which had extra electrons (soon to be known as the emitter) and
+   replaced by new ones being provided (from a battery, for instance)
+   where they would flow into the insulating portion and be collected by
+   the whisker filament (named the collector). However, when the voltage
+   was reversed the electrons being pushed into the collector would
+   quickly fill up the "holes" (the electron-needy impurities), and
+   conduction would stop almost instantly. This junction of the two
+   crystals (or parts of one crystal) created a solid-state diode, and the
+   concept soon became known as semiconduction. The mechanism of action
+   when the diode is off has to do with the separation of charge carriers
+   around the junction. This is called a " depletion region".
+
+Development of the diode
+
+   Armed with the knowledge of how these new diodes worked, a vigorous
+   effort began in order to learn how to build them on demand. Teams at
+   Purdue University, Bell Labs, MIT, and the University of Chicago all
+   joined forces to build better crystals. Within a year germanium
+   production had been perfected to the point where military-grade diodes
+   were being used in most radar sets.
+
+Development of the transistor
+
+   After the war, William Shockley decided to attempt the building of a
+   triode-like semiconductor device. He secured funding and lab space, and
+   went to work on the problem with Brattain and John Bardeen.
+
+   The key to the development of the transistor was the further
+   understanding of the process of the electron mobility in a
+   semiconductor. It was realized that if there was some way to control
+   the flow of the electrons from the emitter to the collector of this
+   newly discovered diode, one could build an amplifier. For instance, if
+   you placed contacts on either side of a single type of crystal the
+   current would not flow through it. However if a third contact could
+   then "inject" electrons or holes into the material, the current would
+   flow.
+
+   Actually doing this appeared to be very difficult. If the crystal were
+   of any reasonable size, the number of electrons (or holes) required to
+   be injected would have to be very large -– making it less than useful
+   as an amplifier because it would require a large injection current to
+   start with. That said, the whole idea of the crystal diode was that the
+   crystal itself could provide the electrons over a very small distance,
+   the depletion region. The key appeared to be to place the input and
+   output contacts very close together on the surface of the crystal on
+   either side of this region.
+
+   Brattain started working on building such a device, and tantalizing
+   hints of amplification continued to appear as the team worked on the
+   problem. Sometimes the system would work but then stop working
+   unexpectedly. In one instance a non-working system started working when
+   placed in water. Ohl and Brattain eventually developed a new branch of
+   quantum mechanics known as surface physics to account for the
+   behaviour. The electrons in any one piece of the crystal would migrate
+   about due to nearby charges. Electrons in the emitters, or the "holes"
+   in the collectors, would cluster at the surface of the crystal where
+   they could find their opposite charge "floating around" in the air (or
+   water). Yet they could be pushed away from the surface with the
+   application of a small amount of charge from any other location on the
+   crystal. Instead of needing a large supply of injected electrons, a
+   very small number in the right place on the crystal would accomplish
+   the same thing.
+
+   Their understanding solved the problem of needing a very small control
+   area to some degree. Instead of needing two separate semiconductors
+   connected by a common, but tiny, region, a single larger surface would
+   serve. The emitter and collector leads would both be placed very close
+   together on the top, with the control lead placed on the base of the
+   crystal. When current was applied to the "base" lead, the electrons or
+   holes would be pushed out, across the block of semiconductor, and
+   collect on the far surface. As long as the emitter and collector were
+   very close together, this should allow enough electrons or holes
+   between them to allow conduction to start.
+
+The first transistor
+
+   A stylized replica of the first transistor
+   A stylized replica of the first transistor
+
+   The Bell team made many attempts to build such a system with various
+   tools, but generally failed. Setups where the contacts were close
+   enough were invariably as fragile as the original cat's whisker
+   detectors had been, and would work briefly, if at all. Eventually they
+   had a practical breakthrough. A piece of gold foil was glued to the
+   edge of a plastic wedge, and then the foil was sliced with a razor at
+   the tip of the triangle. The result was two very closely spaced
+   contacts of gold. When the plastic was pushed down onto the surface of
+   a crystal and voltage applied to the other side (on the base of the
+   crystal), current started to flow from one contact to the other as the
+   base voltage pushed the electrons away from the base towards the other
+   side near the contacts. The point-contact transistor had been invented.
+
+   While the device was constructed a week earlier, Brattain's notes
+   describe the first demonstration to higher-ups at Bell Labs on the
+   afternoon of 23 December 1947, often given as the birthdate of the
+   transistor. The "PNP point-contact germanium transistor" operated as a
+   speech amplifier with a power gain of 18 in that trial. Known generally
+   as a point-contact transistor today, John Bardeen, Walter Houser
+   Brattain, and William Bradford Shockley were awarded the Nobel Prize in
+   physics for their work in 1956.
+
+Origin of the term "transistor"
+
+   Bell Telephone Laboratories needed a generic name for their new
+   invention: "Semiconductor Triode", "Solid Triode", "Surface States
+   Triode" [sic], "Crystal Triode" and "Iotatron" were all considered, but
+   "transistor", coined by John R. Pierce, won an internal ballot. The
+   rationale for the name is described in the following extract from the
+   company's Technical Memoranda ( May 28, 1948) calling for votes:
+
+     Transistor. This is an abbreviated combination of the words
+     "transconductance" or "transfer", and "varistor". The device
+     logically belongs in the varistor family, and has the
+     transconductance or transfer impedance of a device having gain, so
+     that this combination is descriptive.
+
+Improvements in transistor design
+
+   Shockley was upset about the device being credited to Brattain and
+   Bardeen, who he felt had built it "behind his back" to take the glory.
+   Matters became worse when Bell Labs lawyers found that some of
+   Shockley's own writings on the transistor were close enough to those of
+   an earlier 1925 patent by Julius Edgar Lilienfeld that they thought it
+   best that his name be left off the patent application.
+
+   Shockley was incensed, and decided to demonstrate who was the real
+   brains of the operation. Only a few months later he invented an
+   entirely new type of transistor with a layer or 'sandwich' structure.
+   This new form was considerably more robust than the fragile
+   point-contact system, and would go on to be used for the vast majority
+   of all transistors into the 1960s. It would evolve into the bipolar
+   junction transistor.
+
+   With the fragility problems solved, a remaining problem was purity.
+   Making germanium of the required purity was proving to be a serious
+   problem, and limited the number of transistors that actually worked
+   from a given batch of material. Germanium's sensitivity to temperature
+   also limited its usefulness. Scientists theorized that silicon would be
+   easier to fabricate, but few bothered to investigate this possibility.
+   Gordon K. Teal was the first to develop a working silicon transistor,
+   and his company, the nascent Texas Instruments, profited from its
+   technological edge. Germanium disappeared from most transistors by the
+   late 1960s.
+
+   Within a few years, transistor-based products, most notably radios,
+   were appearing on the market. A major improvement in manufacturing
+   yield came when a chemist advised the companies fabricating
+   semiconductors to use distilled water rather than tap water: calcium
+   ions were the cause of the poor yields. " Zone melting", a technique
+   using a moving band of molten material through the crystal, further
+   increased the purity of the available crystals.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Semiconductor_device"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

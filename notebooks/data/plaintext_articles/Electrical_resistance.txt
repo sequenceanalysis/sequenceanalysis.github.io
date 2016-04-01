@@ -1,0 +1,233 @@
+   #copyright
+
+Electrical resistance
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   A 750-kΩ resistor, as identified by its electronic color code. A
+   multimeter could be used to verify this value.
+   A 750-kΩ resistor, as identified by its electronic colour code. A
+   multimeter could be used to verify this value.
+
+   Electrical resistance is a measure of the degree to which an object
+   opposes an electric current through it. The SI unit of electrical
+   resistance is the ohm. Its reciprocal quantity is electrical
+   conductance measured in siemens. Electrical resistance shares some
+   conceptual parallels with the mechanical notion of friction.
+
+   The resistance of an object determines the amount of current through
+   the object for a given voltage across the object.
+
+          I = \frac{V}{R}
+
+   where
+
+          R is the resistance of the object, usually measured in ohms,
+          equivalent to J·s/C^2
+          V is the voltage across the object, usually measured in volts
+          I is the current through the object, usually measured in amperes
+
+   For a wide variety of materials and conditions, the electrical
+   resistance does not depend on the amount of current through or the
+   amount of voltage across the object such that the resistance R is a
+   constant.
+
+Resistive loss
+
+   When there is a current I through an object with resistance, R,
+   electrical energy is converted to heat at a rate ( power) equal to
+
+          P = {I^{2} \cdot R} \,
+
+   where
+
+          P is the power measured in watts
+
+          I is the current measured in amperes
+
+          R is the resistance measured in ohms
+
+   This energy conversion is useful in applications such as incandescent
+   lighting and electric heating but is considered a loss in other
+   applications such as power transmission. Ideally, the conductors used
+   to connect electrical devices together should have zero resistance but
+   in reality, only superconductors achieve this ideal. Common ways to
+   combat resistive loss in conductors include using thicker wire and
+   higher voltages.
+
+Resistance of a conductor
+
+DC resistance
+
+   As long as the current density is totally uniform in the conductor, the
+   DC resistance R of a conductor of regular cross section can be computed
+   as
+
+          R = {l \cdot \rho \over A} \,
+
+   where
+
+          l is the length of the conductor, measured in meters
+
+          A is the cross-sectional area, measured in square meters
+
+          ρ (Greek: rho) is the electrical resistivity (also called
+          specific electrical resistance) of the material, measured in ohm
+          · meter. Resistivity is a measure of the material's ability to
+          oppose the flow of electric current.
+
+   For practical reasons, almost any connections to a real conductor will
+   almost certainly mean the current density is not totally uniform.
+   However, this formula still provides a good approximation for long thin
+   conductors such as wires.
+
+AC resistance
+
+   If a wire conducts high-frequency alternating current then the
+   effective cross sectional area of the wire is reduced. This is because
+   of the skin effect.
+
+   This formula applies to isolated conductors. In a conductor close to
+   others, the actual resistance is higher because of the proximity
+   effect.
+
+Causes of resistance
+
+In metals
+
+   A metal consists of a lattice of atoms, each with a shell of electrons.
+   This can also be known as a positive ionic lattice. The outer electrons
+   are free to dissociate from their parent atoms and travel through the
+   lattice, creating a 'sea' of electrons, making the metal a conductor.
+   When an electrical potential difference (a voltage) is applied across
+   the metal, the electrons drift from one end of the conductor to the
+   other under the influence of the electric field.
+
+   In a metal, the thermal motion of ions is the primary source of
+   scattering of electrons (due to destructive interference of free
+   electron wave on non-correlating potentials of ions) - thus the prime
+   cause of metal resistance. Imperfections of lattice also contribute
+   into resistance, although their contribution in pure metals is
+   negligible.
+
+   The larger the cross-sectional area of the conductor, the more
+   electrons are available to carry the current, so the lower the
+   resistance. The longer the conductor, the more scattering events occur
+   in each electron's path through the material, so the higher the
+   resistance.
+
+In semiconductors and insulators
+
+   In metals, the fermi level lies in the conduction band giving rise to
+   free conduction electrons. However, in semiconductors the position of
+   the fermi level is within the band gap, exactly half way between the
+   conduction band minimum and valence band maximum for intrinsic
+   (undoped) semiconductors. This means that at 0 Kelvin, there are no
+   free conduction electrons and the resistance is infinite. However, the
+   resistance will continue to decrease as the charge carrier density in
+   the conduction band increases. In extrinsic (doped) semiconductors,
+   dopant atoms increase the majority charge carrier by donating electrons
+   to the conduction band or accepting holes in the valence band. For both
+   types of donor or acceptor atoms, increasing the dopant density leads
+   to a reduction in the resistance. Highly doped semiconductors hence
+   behave metallic. At very high temperatures, the contribution of
+   thermally generated carriers will dominate over the contribution from
+   dopant atoms and the resistance will decrease exponentially with
+   temperature.
+
+In ionic liquids/electrolytes
+
+   In electrolytes, electrical conduction happens not by band electrons or
+   holes, but by full atomic species ( ions) traveling, each carrying an
+   electrical charge. The resistivity of ionic liquids varies tremendously
+   by the salt concentration - while distilled water is almost an
+   insulator, salt water is a very efficient electrical conductor. In
+   biological membranes, currents are carried by ionic salts. Small holes
+   in the membranes, called ion channels, are selective to specific ions
+   and determine the membrane resistance.
+
+Resistance of various materials
+
+   Material       Resistivity, ρ
+                  ohm-meter
+   Metals         10 ^- 8
+   Semiconductors variable
+   Electrolytes   variable
+   Insulators     10^16
+
+Band theory
+
+   Electron energy levels in an insulator.
+   Electron energy levels in an insulator.
+
+   Quantum mechanics states that the energy of an electron in an atom
+   cannot be any arbitrary value. Rather, there are fixed energy levels
+   which the electrons can occupy, and values in between these levels are
+   impossible. The energy levels are grouped into two bands: the valence
+   band and the conduction band (the latter is generally above the
+   former). Electrons in the conduction band may move freely throughout
+   the substance in the presence of an electrical field.
+
+   In insulators and semiconductors, the atoms in the substance influence
+   each other so that between the valence band and the conduction band
+   there exists a forbidden band of energy levels, which the electrons
+   cannot occupy. In order for a current to flow, a relatively large
+   amount of energy must be furnished to an electron for it to leap across
+   this forbidden gap and into the conduction band. Thus, large voltages
+   yield relatively small currents.
+
+Differential resistance
+
+   When resistance may depend on voltage and current, differential
+   resistance, incremental resistance or slope resistance is defined as
+   the slope of the U-I graph at a particular point, thus:
+
+          R = \frac {\mathrm{d}U} {\mathrm{d}I} \,
+
+   This quantity is sometimes called simply resistance, although the two
+   definitions are equivalent only for an ohmic component such as an ideal
+   resistor. If the U-I graph is not monotonic (i.e. it has a peak or a
+   trough), the differential resistance will be negative for some values
+   of voltage and current. This property is often known as negative
+   resistance, although it is more correctly called negative differential
+   resistance, since the absolute resistance U/I is still positive.
+
+Temperature-dependence
+
+   Near room temperature, the electric resistance of a typical metal
+   conductor increases linearly with the temperature:
+
+          R = R_0(1 + aT) \, ,
+
+   where a is the thermal resistance coefficient.
+
+   The electric resistance of a typical intrinsic (non doped)
+   semiconductor decreases exponentially with the temperature:
+
+          R= R_0 e^{a/T}\,
+
+   Extrinsic (doped) semiconductors have a far more complicated
+   temperature profile. As temperature increased starting from absolute
+   zero they first decrease steeply in resistance as the carriers leave
+   the donors or acceptors. After most of the donors or acceptors have
+   lost their carriers the resistance starts to increase again slightly
+   due to the reducing mobility of carriers (much as in a metal). At
+   higher temperatures it will behave like intrinsic semiconductors as the
+   carriers from the donors/acceptors become insignificant compared to the
+   thermally generated carriers.
+
+   The electric resistance of electrolytes and insulators is highly
+   nonlinear, and case by case dependent, therefore no generalized
+   equations are given.
+
+Frequency Dependent Resistance
+
+   Wire resistance increases at a rate of 10dB/decade for wire radius much
+   greater than skin depth.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electrical_resistance"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

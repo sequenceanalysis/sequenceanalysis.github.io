@@ -1,0 +1,202 @@
+   #copyright
+
+Mechanical work
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   In physics, mechanical work is the amount of energy transferred by a
+   force. Like energy, it is a scalar quantity, with SI units of joules.
+   Heat conduction is not considered to be a form of work, since there is
+   no macroscopically measurable force, only microscopic forces occurring
+   in atomic collisions. In the 1830s, the French mathematician
+   Gaspard-Gustave Coriolis, coined the term work for the product of force
+   and distance.
+
+   Positive and negative signs of work indicate whether the object
+   exerting the force is transferring energy to some other object, or
+   receiving it. A baseball pitcher, for example, does positive work on
+   the ball, but the catcher does negative work on it. Work can be zero
+   even when there is a force. The centripetal force in uniform circular
+   motion, for example, does zero work because the kinetic energy of the
+   moving object doesn't change. Likewise, when a book sits on a table,
+   the table does no work on the book, because no energy is transferred
+   into or out of the book.
+
+   When the force is constant and along the same line as the motion, the
+   work can be calculated by multiplying the force by the distance, W = Fd
+   (letting both F and d have positive or negative signs, according to the
+   coordinate system chosen). When the force does not lie along the same
+   line as the motion, this can be generalized to the scalar product of
+   force and displacement vectors.
+   The baseball pitcher does work on the ball by transferring energy into
+   it.
+   Enlarge
+   The baseball pitcher does work on the ball by transferring energy into
+   it.
+
+Calculation
+
+   In the simplest case, that of a body moving in a steady direction, and
+   acted on by a constant force parallel to that direction, the work is
+   given by the formula
+
+          W = F D \,\!
+
+   where
+
+          F is the force and
+          D is the distance travelled by the object.
+
+   The work is taken to be negative when the force opposes the motion.
+   More generally, the force and distance are taken to be vector
+   quantities, and combined using the dot product:
+
+          W = \vec F \cdot \vec \mathbf{D} = |\mathbf{F}| |\mathbf{D}|
+          \cos\phi \,\!
+
+   where \phi \, is the angle between the force and the displacement
+   vector. This formula holds true even when the object changes its
+   direction of travel throughout the motion.
+
+   To further generalize the formula to situations in which the force
+   changes over time, it is necessary to use differentials to express the
+   infinitesimal work done by the force over an infinitesimal
+   displacement, thus:
+
+          dW = \vec F \cdot d\vec{s} \,\!
+
+   The integration of both sides of this equation yields the following
+   line integral:
+
+          W = \int_{C} \vec F \cdot d\vec{s} \,\!
+
+   where:
+
+          C is the path or curve traversed by the object;
+          \vec F is the force vector;
+          \vec s is the position vector.
+
+   This formula readily explains how a nonzero force can do zero work. The
+   simplest case is where the force is always perpendicular to the
+   direction of motion, making the integrand always zero (viz. circular
+   motion). However, even if the integrand sometimes takes nonzero values,
+   it can still integrate to zero if it is sometimes negative and
+   sometimes positive.
+
+   The possibility of a nonzero force doing zero work exemplifies the
+   difference between work and a related quantity: impulse (the integral
+   of force over time). Impulse measures change in a body's momentum, a
+   vector quantity sensitive to direction, whereas work considers only the
+   magnitude of the velocity. For instance, as an object in uniform
+   circular motion traverses half of a revolution, its centripetal force
+   does no work, but it transfers a nonzero impulse.
+
+Units
+
+   The SI derived unit of work is the joule (J), which is defined as the
+   work done by a force of one newton acting over a distance of one meter.
+   This definition is based on Sadi Carnot's 1824 definition of work as
+   "weight lifted through a height", which is based on the fact that early
+   steam engines were principally used to lift buckets of water, though a
+   gravitational height, out of flooded ore mines. The dimensionally
+   equivalent newton-meter (N·m) is sometimes used instead; however, it is
+   also sometimes reserved for torque to distinguish its units from work
+   or energy.
+
+   Non-SI units of work include the erg, the foot-pound, the foot-poundal,
+   and the liter-atmosphere.
+
+Types of work
+
+   Forms of work that are not evidently mechanical in fact represent
+   special cases of this principle. For instance, in the case of
+   "electrical work", an electric field does work on charged particles as
+   they move through a medium.
+
+   One mechanism of heat conduction is collisions between fast-moving
+   atoms in a warm body with slow-moving atoms in a cold body. Although
+   colliding atoms do work on each other, the force averages to nearly
+   zero in bulk, so conduction is not considered to be mechanical work.
+
+PV work
+
+   Chemical thermodynamics studies PV work, which occurs when the volume
+   of a fluid changes. PV work is represented by the following
+   differential equation:
+
+          dW = -P dV \,
+
+   where:
+     * W = work done on the system
+     * P = external pressure
+     * V = volume
+
+   Therefore, we have:
+
+          W=-\int_{V_i}^{V_f} P\,dV
+
+   Like all work functions, PV work is path-dependent. (The path in
+   question is a curve in the Euclidean space specified by the fluid's
+   pressure and volume, and infinitely many such curves are possible.)
+   From a thermodynamic perspective, this fact implies that PV work is not
+   a state function. This means that the differential dW is an inexact
+   differential; to be more rigorous, it should be written đW (with a line
+   through the d).
+
+   From a mathematical point of view, that is to say, dW is not an exact
+   one-form. This line through is merely a flag to warn us there is
+   actually no function ( 0-form) W which is the potential of dW. If there
+   were, indeed, this function W, we should be able to just use Stokes
+   Theorem, and evaluate this putative function, the potential of dW, at
+   the boundary of the path, that is, the initial and final points, and
+   therefore the work would be a state function. This impossibility is
+   consistent with the fact that it does not make sense to refer to the
+   work on a point; work presupposes a path.
+
+   PV work is often measured in the (non-SI) units of litre-atmospheres,
+   where 1 L·atm = 101.3 J.
+
+Mechanical energy
+
+   The mechanical energy of a body is that part of its total energy which
+   is subject to change by mechanical work. It includes kinetic energy and
+   potential energy. Some notable forms of energy that it does not include
+   are thermal energy (which can be increased by frictional work, but not
+   easily decreased) and rest energy (which is constant so long as the
+   rest mass remains the same).
+
+The relation between work and kinetic energy
+
+   If an external work W acts upon a body, causing its kinetic energy to
+   change from E[k1] to E[k2], then:
+
+          W = \Delta E_k = E_{k2} - E_{k1}\,
+
+   Also, if we substitute the equation for kinetic energy that states E[k]
+   = 1 / 2mv^2, we then get:
+
+          W = \Delta (1/2 mv^2) = 1/2 mv_2 ^2 - 1/2 mv_1 ^2
+
+Conservation of mechanical energy
+
+   The principle of conservation of mechanical energy states that, if a
+   system is subject only to conservative forces (e.g. only to a
+   gravitational force), its mechanical energy remains constant.
+
+   For instance, if an object with constant mass is in free fall, the
+   total energy of position 1 will equal that of position 2.
+
+          (E_k + E_p)_1 = (E_k + E_p)_2 \,\!
+
+   where
+     * E[k] is the kinetic energy, and
+     * E[p] is the potential energy.
+
+   The external work will usually be done by the friction force between
+   the system on the motion or the internal-non conservative force in the
+   system or loss of energy due to heat transfer.
+   Retrieved from " http://en.wikipedia.org/wiki/Mechanical_work"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

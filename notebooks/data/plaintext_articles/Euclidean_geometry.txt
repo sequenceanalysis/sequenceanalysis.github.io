@@ -1,0 +1,273 @@
+   #copyright
+
+Euclidean geometry
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Euclid
+   Enlarge
+   Euclid
+
+   Euclidean geometry is a mathematical well-known system attributed to
+   the Greek mathematician Euclid of Alexandria. Euclid's text Elements
+   was the first systematic discussion of geometry. It has been one of the
+   most influential books in history, as much for its method as for its
+   mathematical content. The method consists of assuming a small set of
+   intuitively appealing axioms, and then proving many other propositions
+   ( theorems) from those axioms. Although many of Euclid's results had
+   been stated by earlier Greek mathematicians, Euclid was the first to
+   show how these propositions could be fitted together into a
+   comprehensive deductive and logical system.
+
+   The Elements begin with plane geometry, still often taught in secondary
+   school as the first axiomatic system and the first examples of formal
+   proof. The Elements goes on to the solid geometry of three dimensions,
+   and Euclidean geometry was subsequently extended to any finite number
+   of dimensions. Much of the Elements states results of what is now
+   called number theory, proved using geometrical methods.
+
+   For over two thousand years, the adjective "Euclidean" was unnecessary
+   because no other sort of geometry had been conceived. Euclid's axioms
+   seemed so intuitively obvious that any theorem proved from them was
+   deemed true in an absolute sense. Many other consistent formal
+   geometries are now known, the first ones being discovered in the early
+   19th century. It also is no longer taken for granted that Euclidean
+   geometry describes physical space. An implication of Einstein's theory
+   of general relativity is that Euclidean geometry is only a good
+   approximation to the properties of physical space if the gravitational
+   field is not too strong.
+
+Axiomatic approach
+
+   Following a precedent set in the Elements, Euclidean geometry has been
+   exposited as an axiomatic system, in which all theorems ("true
+   statements") are derived from a finite number of axioms. Near the
+   beginning of the first book of the Elements, Euclid gives five
+   postulates (axioms):
+    1. Any two points can be joined by a straight line.
+    2. Any straight line segment can be extended indefinitely in a
+       straight line.
+    3. Given any straight line segment, a circle can be drawn having the
+       segment as radius and one endpoint as centre.
+    4. All right angles are congruent.
+    5. Parallel postulate. If two lines intersect a third in such a way
+       that the sum of the inner angles on one side is less than two right
+       angles, then the two lines inevitably must intersect each other on
+       that side if extended far enough.
+
+   These axioms invoke the following concepts: point, straight line
+   segment and line, side of a line, circle with radius and centre, right
+   angle, congruence, inner and right angles, sum. The following verbs
+   appear: join, extend, draw, intersect. The circle described in
+   postulate 3 is tacitly unique. Postulates 3 and 5 hold only for plane
+   geometry; in three dimensions, postulate 3 defines a sphere.
+   A proof from Euclid's elements that, given a line segment, an
+   equilateral triangle exists that includes the segment as one of its
+   sides. The proof is by construction: an equilateral triangle ΑΒΓ is
+   made by drawing circles Δ and Ε centered on the points Α and Β, and
+   taking one intersection of the circles as the third vertex of the
+   triangle.
+   Enlarge
+   A proof from Euclid's elements that, given a line segment, an
+   equilateral triangle exists that includes the segment as one of its
+   sides. The proof is by construction: an equilateral triangle ΑΒΓ is
+   made by drawing circles Δ and Ε centered on the points Α and Β, and
+   taking one intersection of the circles as the third vertex of the
+   triangle.
+
+   Postulate 5 leads to the same geometry as the following statement,
+   known as Playfair's axiom, which also holds only in the plane:
+
+          Through a point not on a given straight line, one and only one
+          line can be drawn that never meets the given line.
+
+   Postulates 1, 2, 3, and 5 assert the existence and uniqueness of
+   certain geometric figures, and these assertions are of a constructive
+   nature: that is, we are not only told that certain things exist, but
+   are also given methods for creating them with no more than a compass
+   and an unmarked straightedge. In this sense, Euclidean geometry is more
+   concrete than many modern axiomatic systems such as set theory, which
+   often assert the existence of objects without saying how to construct
+   them, or even assert the existence of objects that probably cannot be
+   constructed within the theory.
+
+   The Elements also include the following five "common notions":
+    1. Things that equal the same thing also equal one another.
+    2. If equals are added to equals, then the wholes are equal.
+    3. If equals are subtracted from equals, then the remainders are
+       equal.
+    4. Things that coincide with one another equal one another.
+    5. The whole is greater than the part.
+
+   Euclid also invoked other properties pertaining to magnitudes. 1 is the
+   only part of the underlying logic that Euclid explicitly articulated. 2
+   and 3 are "arithmetical" principles; note that the meanings of "add"
+   and "subtract" in this purely geometric context are taken as given. 1
+   through 4 operationally define equality, which can also be taken as
+   part of the underlying logic or as an equivalence relation requiring,
+   like "coincide," careful prior definition. 5 is a principle of
+   mereology. "Whole," "part," and "remainder" beg for precise
+   definitions.
+
+   In the 19th century, it was realized that Euclid's ten axioms and
+   common notions do not suffice to prove all of theorems stated in the
+   Elements. For example, Euclid assumed implicitly that any line contains
+   at least two points, but this assumption cannot be proved from the
+   other axioms, and therefore needs to be an axiom itself. The very first
+   geometric proof in the Elements, shown in the figure on the right, is
+   that any line segment is part of a triangle; Euclid constructs this in
+   the usual way, by drawing circles around both endpoints and taking
+   their intersection as the third vertex. His axioms, however, do not
+   guarantee that the circles actually intersect, because they are
+   consistent with discrete, rather than continuous, space. Starting with
+   Moritz Pasch in 1882, many improved axiom systems for geometry have
+   been proposed, the best known being those of Hilbert, George Birkhoff,
+   and Tarski.
+
+   To be fair to Euclid, the first formal logic capable of supporting his
+   geometry was that of Frege's 1879 Begriffsschrift, little read until
+   the 1950s. We now see that Euclidean geometry should be embedded in
+   first-order logic with identity, a formal system first set out in
+   Hilbert and Wilhelm Ackermann's 1928 Principles of Theoretical Logic.
+   Formal mereology began only in 1916, with the work of Lesniewski and A.
+   N. Whitehead. Tarski and his students did major work on the foundations
+   of elementary geometry as recently as between 1959 and his 1983 death.
+
+The parallel postulate
+
+   To the ancients, the parallel postulate seemed less obvious than the
+   others; verifying it physically would require us to inspect two lines
+   to check that they never intersected, even at some very distant point,
+   and this inspection could potentially take an infinite amount of time.
+   Euclid himself seems to have considered it as being qualitatively
+   different from the others, as evidenced by the organization of the
+   Elements: the first 28 propositions he presents are those that can be
+   proved without it.
+
+   Many geometers tried in vain to prove the fifth postulate from the
+   first four. By 1763 at least 28 different proofs had been published,
+   but all were found to be incorrect. In fact the parallel postulate
+   cannot be proved from the other four: this was shown in the 19th
+   century by the construction of alternative ( non-Euclidean) systems of
+   geometry where the other axioms are still true but the parallel
+   postulate is replaced by a conflicting axiom. One distinguishing aspect
+   of these systems is that the three angles of a triangle do not add to
+   180°: in hyperbolic geometry the sum of the three angles is always less
+   than 180° and can approach zero, while in elliptic geometry it is
+   greater than 180°. If the parallel postulate is dropped from the list
+   of axioms without replacement, the result is the more general geometry
+   called absolute geometry.
+
+Treatment using analytic geometry
+
+   The development of analytic geometry provided an alternative method for
+   formalizing geometry. In this approach, a point is represented by its
+   Cartesian (x,y) coordinates, a line is represented by its equation, and
+   so on. In the 20th century, this fit into David Hilbert's program of
+   reducing all of mathematics to arithmetic, and then proving the
+   consistency of arithmetic using finitistic reasoning. In Euclid's
+   original approach, the Pythagorean theorem follows from Euclid's
+   axioms. In the Cartesian approach, the axioms are the axioms of
+   algebra, and the equation expressing the Pythagorean theorem is then a
+   definition of one of the terms in Euclid's axioms, which are now
+   considered to be theorems. The equation
+
+          |PQ|=\sqrt{(p-r)^2+(q-s)^2}
+
+   defining the distance between two points P = (p,q) and Q = (r,s) is
+   then known as the Euclidean metric, and other metrics define
+   non-Euclidean geometries.
+   A disproof of Euclidean geometry as a description of physical space. In
+   a 1919 test of the general theory of relativity, stars (marked with
+   lines) were photographed during a solar eclipse. The rays of starlight
+   were bent by the Sun's gravity on their way to the earth. This is
+   interpreted as evidence in favor of Einstein's prediction that gravity
+   would cause deviations from Euclidean geometry.
+   Enlarge
+   A disproof of Euclidean geometry as a description of physical space. In
+   a 1919 test of the general theory of relativity, stars (marked with
+   lines) were photographed during a solar eclipse. The rays of starlight
+   were bent by the Sun's gravity on their way to the earth. This is
+   interpreted as evidence in favour of Einstein's prediction that gravity
+   would cause deviations from Euclidean geometry.
+
+As a description of physical reality
+
+   Euclid believed that his axioms were self-evident statements about
+   physical reality. However, Einstein's theory of general relativity
+   shows that the true geometry of spacetime is non-Euclidean. For
+   example, if a triangle is constructed out of three rays of light, then
+   in general the interior angles do not add up to 180 degrees due to
+   gravity. A relatively weak gravitational field, such as the Earth's or
+   the sun's, is represented by a metric that is approximately, but not
+   exactly, Euclidean. Until the 20th century, there was no technology
+   capable of detecting the deviations from Euclidean geometry, but
+   Einstein predicted that such deviations would exist. They were later
+   verified by observations such as the observation of the slight bending
+   of starlight by the Sun during a solar eclipse in 1919, and
+   non-Euclidean geometry is now, for example, an integral part of the
+   software that runs the GPS system. It is possible to object to the
+   non-Euclidean interpretation of general relativity on the grounds that
+   light rays might be improper physical models of Euclid's lines, or that
+   relativity could be rephrased so as to avoid the geometrical
+   interpretations. However, one of the consequences of Einstein's theory
+   is that there is no possible physical test that can do any better than
+   a beam of light as a model of geometry. Thus, the only logical
+   possibilities are to accept non-Euclidean geometry as physically real,
+   or to reject the entire notion of physical tests of the axioms of
+   geometry, which can then be imagined as a formal system without any
+   intrinsic real-world meaning.
+
+Logical status
+
+   Euclidean geometry is a first-order theory. That is, it allows
+   statements that begin as "for all triangles ...," but it is incapable
+   of forming statements such as "for all sets of triangles ..."
+   Statements of the latter type are deemed to be outside the scope of the
+   theory.
+
+   We owe much of our present understanding of the properties of the
+   logical and metamathematical properties of Euclidean geometry to the
+   work of Alfred Tarski and his students, beginning in the 1920s. Tarski
+   used his axiomatic formulation of Euclidean geometry to prove it
+   consistent, and also complete in a certain sense: every proposition of
+   Euclidean geometry can be shown to be either true or false. Gödel's
+   theorem showed the futility of Hilbert's program of proving the
+   consistency of all of mathematics using finitistic reasoning. Tarski's
+   findings do not violate Gödel's theorem, because Euclidean geometry
+   cannot describe a sufficient amount of arithmetic for the theorem to
+   apply. Although Hilbert thought Euclidean geometry could be put on a
+   firmer foundation by rewriting it in terms of arithmetic, in fact
+   Euclidean geometry is complete and consistent in a way that Godel's
+   theorem tells us arithmetic can never be.
+
+   Although complete in the formal sense used in modern logic, there are
+   things that Euclidean geometry cannot accomplish. For example, the
+   problem of trisecting an angle with a compass and straightedge is one
+   that naturally occurs within the theory, since the axioms refer to
+   constructive operations that can be carried out with those tools.
+   However, centuries of efforts failed to find a solution to this
+   problem, until Pierre Wantzel published a proof in 1837 that such a
+   construction was impossible.
+
+   Absolute geometry, formed by removing the parallel postulate, is also a
+   consistent theory, as is non-Euclidean geometry, formed by alterations
+   of the parallel postulate. Non-Euclidean geometries are consistent
+   because there are Euclidean models of non-Euclidean geometry. For
+   example, geometry on the surface of a sphere is a model of an
+   elliptical geometry, carried out within a self-contained subset of a
+   three-dimensional Euclidean space.
+
+Classical theorems
+
+     * Ceva's theorem
+     * Heron's formula
+     * Nine-point circle
+     * Pythagorean theorem
+     * Tartaglia's formula
+
+   Retrieved from " http://en.wikipedia.org/wiki/Euclidean_geometry"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

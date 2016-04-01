@@ -1,0 +1,629 @@
+   #copyright
+
+Natural selection
+
+2007 Schools Wikipedia Selection. Related subjects: Evolution and
+reproduction
+
+   The Galápagos Islands hold 13 species of finches that are closely
+   related and differ most markedly in the shape of their beaks. The beak
+   of each species is suited to its preferred food, suggesting that beak
+   shapes evolved by natural selection. See also character displacement,
+   adaptive radiation, divergent evolution.
+   Enlarge
+   The Galápagos Islands hold 13 species of finches that are closely
+   related and differ most markedly in the shape of their beaks. The beak
+   of each species is suited to its preferred food, suggesting that beak
+   shapes evolved by natural selection. See also character displacement,
+   adaptive radiation, divergent evolution.
+
+   Natural selection is the process by which individual organisms with
+   favorable traits are more likely to survive and reproduce than those
+   with unfavorable traits. It works on the whole individual, but only the
+   heritable component of a trait will be passed on to the offspring, with
+   the result that favorable, heritable traits become more common in the
+   next generation. Given enough time, this passive process results in
+   adaptations and speciation (see evolution).
+
+   Natural selection is one of the cornerstones of modern biology. The
+   term was introduced by Charles Darwin in his 1859 book The Origin of
+   Species, by analogy with artificial selection, by which a farmer
+   selects his breeding stock.
+
+An example: antibiotic resistance
+
+   Figure 1: Schematic representation of how antibiotic resistance is
+   enhanced by natural selection. The top section represents a population
+   of bacteria before exposure to an antibiotic. The middle section shows
+   the population directly after exposure, the phase in which selection
+   took place. The last section shows the distribution of resistance in a
+   new generation of bacteria. The legend indicates the resistance levels
+   of individuals.
+   Enlarge
+   Figure 1: Schematic representation of how antibiotic resistance is
+   enhanced by natural selection. The top section represents a population
+   of bacteria before exposure to an antibiotic. The middle section shows
+   the population directly after exposure, the phase in which selection
+   took place. The last section shows the distribution of resistance in a
+   new generation of bacteria. The legend indicates the resistance levels
+   of individuals.
+
+   A well-known example of natural selection in action is the development
+   of antibiotic resistance in microorganisms. Antibiotics have been used
+   to fight bacterial diseases since the discovery of penicillin in 1928
+   by Alexander Fleming. However, the widespread use and especially misuse
+   of antibiotics has led to increased microbial resistance against
+   antibiotics, to the point that the methicillin-resistant Staphylococcus
+   aureus (MRSA) has been described as a ' superbug' because of the threat
+   it poses to health and its relative invulnerability to existing drugs.
+
+   Natural populations of bacteria contain, among their vast numbers of
+   individual members, considerable variation in their genetic material,
+   primarily as the result of mutations. When exposed to antibiotics, most
+   bacteria die quickly, but some may have mutations that make them a
+   little less susceptible. If the exposure to antibiotics is short, these
+   individuals will survive the treatment. This selective elimination of
+   maladapted individuals from a population is natural selection.
+
+   These surviving bacteria will then reproduce again, producing the next
+   generation. Due to the elimination of the maladapted individuals in the
+   past generation, this population contains more bacteria that have some
+   resistance against the antibiotic. At the same time, new mutations
+   occur, contributing new genetic variation to the existing genetic
+   variation. Spontaneous mutations are very rare, very few have any
+   effect at all, and usually any effect is deleterious. However,
+   populations of bacteria are enormous, and so a few individuals will
+   have beneficial mutations. If a new mutation reduces their
+   susceptibility to an antibiotic, these individuals are more likely to
+   survive when next confronted with that antibiotic. Given enough time,
+   and repeated exposure to the antibiotic, a population of
+   antibiotic-resistant bacteria will emerge.
+
+   Recently, several new strains of MRSA have emerged that are resistant
+   to vancomycin and teicoplanin. This is an example of what is sometimes
+   called an ' arms race', in which bacteria continue to develop strains
+   that are less susceptible to antibiotics, while medical researchers
+   continue to develop new antibiotics that can kill them. A similar
+   situation occurs with pesticide resistance in plants and insects.
+
+General principles
+
+   Natural selection acts on the phenotype. The phenotype is the overall
+   result of an individual's genetic make-up ( genotype), the environment,
+   and the interactions between genes and between genes and the
+   environment. Often, natural selection acts on specific traits of an
+   individual, and the terms phenotype and genotype are sometimes used
+   narrowly to indicate these specific traits.
+
+   Some traits are determined by just a single gene, but most are affected
+   by many different genes. Variation in most of these genes has only a
+   small effect on the phenotypic value of a trait, and the study of the
+   genetics of these quantitative traits is called quantitative genetics.
+
+   The key element in understanding natural selection is the concept of
+   fitness. Natural selection acts on individuals, but its average effect
+   on all individuals with a particular genotype is the fitness of that
+   genotype. Fitness is measured as the proportion of progeny that
+   survives, multiplied by the average fecundity, and it is equivalent to
+   the reproductive success of a genotype. A fitness value of greater than
+   one indicates that the frequency of that genotype in the population
+   increases, while a value of less than one indicates that it decreases.
+   The relative fitness of a genotype is estimated as the proportion of
+   the fitness of a reference genotype. Related to relative fitness is the
+   selection coefficient, which is the difference between the relative
+   fitness of two genotypes. The larger the selection coefficient, the
+   stronger natural selection will act against the genotype with the
+   lowest fitness.
+
+   Natural selection can act on any phenotypic trait, and any aspect of
+   the environment, including mates and conspecifics, can produce
+   selective pressure. However, this does not imply that natural selection
+   is always directional and results in adaptive evolution; natural
+   selection often results in the maintenance of the status quo through
+   purifying selection. The unit of selection is not limited to the level
+   of individuals, but includes other levels within the hierarchy of
+   biological organisation, such as genes, cells and relatives. There is
+   still debate, however, about whether natural selection acts at the
+   level of groups or species, (i.e. selection for adaptations that
+   benefit the group or species, rather than the individual). Selection at
+   a different level than the individual, for example the gene, can result
+   in an increase in fitness for that gene, while at the same time
+   reducing the fitness of the individuals carrying that gene (see
+   intragenomic conflict for more details). Overall, the combined effect
+   of all selection pressures at various levels determines the overall
+   fitness of an individual, and hence the outcome of natural selection.
+   Figure 2: The life cycle of a sexually reproducing organism. Various
+   components of natural selection are indicated for each life stage.
+   Enlarge
+   Figure 2: The life cycle of a sexually reproducing organism. Various
+   components of natural selection are indicated for each life stage.
+
+   Natural selection occurs at every life stage of an individual (see
+   Figure 2), and selection at any of these stages can affect the
+   likelihood that an individual will survive and reproduce. After an
+   individual is born, it has to survive until adulthood before it can
+   reproduce, and selection of those that reach this stage is called
+   viability selection. In many species, adults must compete with each
+   other for mates ( sexual selection), and success in this competition
+   determines who will parent the next generation. When species reproduce
+   more than once, a longer survival in the reproductive phase increases
+   the number of offspring ( survival selection). The fecundity of both
+   females (e.g. how many eggs a female bird produces) and males (e.g.
+   giant sperm in certain species of Drosophila) can be limited (
+   fecundity selection). The viability of produced gametes can differ,
+   while intragenomic conflict (meiotic drive) between the haploid gametes
+   can result in gametic or genic selection. Finally, the union of some
+   combinations of eggs and sperm might be more compatible than others
+   (compatibility selection).
+
+Ecological selection and sexual selection
+
+   It is also useful to make a mechanistic distinction between ecological
+   selection and sexual selection. Ecological selection covers any
+   mechanism of selection as a result of the environment (including
+   relatives, e.g. kin selection, and conspecifics, e.g. competition,
+   infanticide), while sexual selection refers specifically to competition
+   between conspecifics for mates. Sexual selection includes mechanisms
+   such as mate choice and male-male competition although the two forms
+   can act in combination in some species, when females choose the winners
+   of the male-male competition. Mate choice, or intersexual selection,
+   typically involves female choice, as it is usually the females who are
+   most choosy, but in some sex-role reversed species it is the males that
+   choose. Some features that are confined to one sex only of a particular
+   species can be explained by selection exercised by the other sex in the
+   choice of a mate, e.g. the extravagant plumage of some male birds.
+   Aggression between members of the same sex (intrasexual selection) is
+   typically referred to as male-male competition, and is sometimes
+   associated with very distinctive features, such as the antlers of
+   stags, which are used in combat with other stags. More generally,
+   intrasexual selection is often associated with sexual dimorphism,
+   including differences in body size between males and females of a
+   species.
+
+Nomenclature and usage
+
+   Scientists use several, slightly different definitions of the term
+   "natural selection" in different contexts. In each generation, only
+   some individuals will produce offspring themselves, and of those that
+   reproduce, some will leave more offspring than others. This is seen as
+   the "natural" process of reproductive selection. Individuals with
+   beneficial traits are more likely to be 'selected' - that is, to have
+   more offspring - than individuals with other, less beneficial traits.
+   When those traits have a heritable component, they tend to become more
+   common in the next generation. The mechanism of selection of
+   individuals in a population does not "know" which traits are heritable;
+   in this sense, the mechanisms of selection are "blind". However, the
+   term natural selection is often used to encompass the consequence of
+   blind selection as well as the mechanisms that describe the process
+   resulting in the enrichment of the beneficial characteristics in the
+   next generation.
+
+   It is helpful to distinguish clearly between the mechanisms of
+   selection and the effects of selection. When this distinction is
+   important, scientists define "natural selection" specifically as "those
+   mechanisms that contribute to the selection of individuals that
+   reproduce," without regard to whether the basis of the selection is
+   heritable. This is sometimes referred to as 'phenotypic natural
+   selection.'
+
+   Of particular importance is selection according to traits by which
+   individuals differ from each other, and the effects of this selective
+   process on the genetic characteristics of a population when some
+   aspects of beneficial traits are heritable.
+
+   Selection targets specific traits of an individual, and if such a trait
+   has a heritable component, the trait will tend to become more common in
+   the next generation. This trait is said to be "selected for". Selection
+   for a specific trait therefore results in the selection of specific
+   individuals. Selection for a trait can also result in the indirect
+   selection of other traits ("free riders") when two or more traits are
+   genetically linked through mechanisms such as pleiotropy (single gene
+   that affects multiple traits) and linkage disequilibrium (non-random
+   association of two genes).
+
+Genetical theory of natural selection
+
+   Natural selection by itself is a simple concept, in which fitness
+   differences between phenotypes play a crucial role.
+
+   However, the interplay of the actual selection mechanism with the
+   underlying genetics is where the explanatory power of natural selection
+   comes from.
+
+Directionality of selection
+
+   When some component of a trait is heritable, selection will alter the
+   frequencies of the different alleles (variants of a gene) involved.
+   Selection can be divided into three classes, on the basis of their
+   effect on the allele frequencies.
+
+   Positive or directional selection occurs when a certain allele has a
+   greater fitness than others, resulting in an increase in frequency of
+   that allele until it is fixed and the entire population expresses the
+   fitter phenotype.
+
+   Far more common is purifying or stabilizing selection, which lowers the
+   frequency of alleles which have a deleterious effect on the phenotype
+   (that is, lower fitness), until they are eliminated from the
+   population. Purifying selection results in functional genetic features
+   (e.g. protein-coding sequences or regulatory sequences) being conserved
+   over time because of selective pressure against deleterious variants.
+
+   Finally, a number of forms of balancing selection exist, which do not
+   result in fixation, but maintain an allele at intermediate frequencies
+   in a population. This can occur in diploid species (with two pair of
+   chromosomes) when individuals with a combination of two different
+   alleles at a single position at the chomosome ( heterozygote) have a
+   higher fitness than individuals that have two of the same alleles (
+   homozygote). This is called heterozygote advantage or overdominance.
+   Maintenance of allelic variation can also occur through disruptive or
+   diversifying selection, which favors genotypes that depart from the
+   average in either direction (that is, the opposite of overdominance),
+   and can result in a bimodal distribution of trait values. Finally, it
+   can occur through frequency-dependent selection, where the fitness of
+   one particular phenotype depends on the distribution of other
+   phenotypes in the population (see also Game theory).
+
+Selection and genetic variation
+
+   A portion of all genetic variation is functionally neutral; i.e., it
+   produces no phenotypic effect or significant differences in fitness.
+   Previously, this was thought to encompass most of the genetic variation
+   in non-coding DNA, but recent studies have shown that large parts of
+   those sequences are highly conserved and under strong purifying
+   selection; i.e. they do not vary as much from individual to individual,
+   indicating that mutations in these regions have deleterious
+   consequences). When genetic variation does not result in differences in
+   fitness, selection cannot directly affect the frequency of such
+   variation. As a result, the genetic variation at those sites will be
+   higher than at sites where selection does have a result.
+
+Genetic linkage
+
+   Genetic linkage occurs when two alleles are in close proximity to each
+   other. During the formation of the gametes, recombination of the
+   genetic material results in reshuffling of the alleles. However, the
+   chance that such a reshuffle occurs between two alleles depends on the
+   distance between those alleles; the closer the alleles are to each
+   other, the less likely it is that such a reshuffle will occur.
+   Consequently, when selection targets one allele, this automatically
+   results in selection of the other allele as well; through this
+   mechanism, selection can have a strong influence on patterns of
+   variation in the genome.
+
+Mutation-selection balance
+
+   Natural selection results in the reduction of genetic variation through
+   the elimination of maladapted individuals and, through that, of the
+   mutations that causes the maladaptation. At the same time, new
+   mutations occur, resulting in a mutation-selection balance. The exact
+   outcome of the two processes depends both on the rate at which new
+   mutations occurs and on the strength of the natural selection.
+   Consequently, changes in the mutation rate or the selection pressure
+   will result in a different mutation-selection balance.
+
+Selective sweep
+
+   Selective sweeps occur when an allele becomes more common in a
+   population as a result of positive selection. As the prevalence of one
+   allele increases, linked alleles (those nearby on the chromosome) can
+   also become more common, whether they are neutral or even slightly
+   deleterious. This is called genetic hitchhiking. A strong selective
+   sweep results in a region of the genome where the positively selected
+   haplotype (the allele and its neighbours) are essentially the only ones
+   that exist in the population.
+
+   Whether a selective sweep has occurred or not can be investigated by
+   measuring linkage disequilibrium, i.e., whether a given haplotype is
+   overrepresented in the population. Normally, genetic recombination
+   results in a reshuffling of the different alleles within a haplotype,
+   and none of the haplotypes will dominate the population. However,
+   during a selective sweep, selection for a specific allele will also
+   result in selection of neighbouring alleles. Therefore, the presence of
+   strong linkage disequilibrium might indicate that there has been a
+   'recent' selective sweep, and this can be used to identify sites
+   recently under selection.
+
+Background selection
+
+   Background selection is the opposite of a selective sweep. If a
+   specific site experiences strong and persistent purifying selection
+   (perhaps as a result of mutation-selection balance), linked variation
+   will tend to be weeded out along with it. Background selection,
+   however, acts as a result of new mutations, which can occur randomly in
+   any haplotype. It therefore produces no linkage disequilibrium, though
+   it reduces the amount of variation in the region.
+
+Evolution by means of natural selection
+
+   A prerequisite for natural selection to result in adaptive evolution,
+   novel traits and speciation, is the presence of heritable genetic
+   variation that results in fitness differences. Genetic variation is the
+   result of mutations, recombinations and alterations in the karyotype
+   (the number, shape, size and internal arrangement of the chromosomes).
+   Any of these changes might have an effect that is highly advantageous
+   or highly disadvantageous, but large effects are very rare. In the
+   past, most changes in the genetic material were considered neutral or
+   close to neutral because they occurred in noncoding DNA or resulted in
+   a synonymous substitution. However, recent research suggests that many
+   mutations in non-coding DNA do have slight deleterious effects.
+   Overall, of those mutations that do affect the fitness of the
+   individual, most are slightly deleterious, some reduce the fitness
+   dramatically and some increase the fitness.
+   The exuberant tail of the peacock is thought to be the result of sexual
+   selection by females. This peacock is an albino - it carries a mutation
+   that makes it unable to produce melanin. Selection against albinos in
+   nature is intense because they are easily spotted by predators or are
+   unsuccessful in competition for mates, and so these mutations are
+   usually rapidly eliminated by natural selection
+   Enlarge
+   The exuberant tail of the peacock is thought to be the result of sexual
+   selection by females. This peacock is an albino - it carries a mutation
+   that makes it unable to produce melanin. Selection against albinos in
+   nature is intense because they are easily spotted by predators or are
+   unsuccessful in competition for mates, and so these mutations are
+   usually rapidly eliminated by natural selection
+
+   By the definition of fitness, individuals with greater fitness are more
+   likely to contribute offspring to the next generation, while
+   individuals with lesser fitness are more likely to die early or they
+   fail to reproduce. As a result, alleles which on average result in
+   greater fitness become more abundant in the next generation, while
+   alleles which generally reduce fitness become rarer. If the selection
+   forces remain the same for many generations, beneficial alleles become
+   more and more abundant, until they dominate the population, while
+   alleles with a lesser fitness disappear. In every generation, new
+   mutations and recombinations arise spontaneously, producing a new
+   spectrum of phenotypes. Therefore, each new generation will be enriched
+   by the increasing abundance of alleles that contribute to those traits
+   that were favored by selection, enhancing these traits over successive
+   generations.
+   X-ray of the left hand of a ten year old boy with polydactyly
+   Enlarge
+   X-ray of the left hand of a ten year old boy with polydactyly
+
+   Some mutations occur in so-called regulatory genes. Changes in these
+   can have large effects on the phenotype of the individual because they
+   regulate the function of many other genes. Most, but not all, mutations
+   in regulatory genes result in non-viable zygotes. For example,
+   mutations in some HOX genes in humans result in an increase in the
+   number of fingers or toes or a cervical rib. When such mutations result
+   in a higher fitness, natural selection will favour these phenotypes and
+   the novel trait will spread in the population.
+
+   Established traits are not immutable: an established trait may lose its
+   fitness if environmental conditions change. In these circumstances, in
+   the absence of natural selection to preserve the trait, the trait will
+   become more variable and will deteriorate over time. The power of
+   natural selection will also inevitably depend upon prevailing
+   environmental factors; in general, the number of offspring is (far)
+   greater than the number of individuals that can survive to the next
+   generation, and there will be intense selection of the best adapted
+   individuals for the next generation.
+
+Speciation
+
+   Speciation requires selective mating, which result in a reduced gene
+   flow. Selective mating can be the result of, for example, a change in
+   the physical environment (physical isolation by an extrinsic barrier),
+   or by sexual selection resulting in assortative mating. Over time,
+   these subgroups might diverge radically to become different species,
+   either because of differences in selection pressures on the different
+   subgroups, or because different mutations arise spontaneously in the
+   different populations, or because of founder effects - some potentially
+   beneficial alleles may, by chance, be present in only one or other of
+   two subgroups when they first become separated. When the genetic
+   changes result in increasing incompatibility between the genotypes of
+   the two subgroups, gene flow between the groups will be reduced even
+   more, and will stop altogether as soon as the mutations become fixed in
+   the respective subgroups. As few as two mutations can result in
+   speciation: if each mutation has a neutral or positive effect on
+   fitness when they occur separately, but a negative effect when they
+   occur together, then fixation of these genes in the respective
+   subgroups will lead to two reproductively isolated populations.
+   According to the biological species concept, these will be two
+   different species.
+
+Historical development
+
+   The modern theory of natural selection derives from the work of Charles
+   Darwin in the nineteenth century.
+   Enlarge
+   The modern theory of natural selection derives from the work of Charles
+   Darwin in the nineteenth century.
+
+Pre-Darwinian theories
+
+   General concepts of biological evolution and species change date to
+   ancient times; the Ionian physician Empedocles said that many races
+   "must have been unable to beget and continue their kind. For in the
+   case of every species that exists, either craft or courage or speed has
+   from the beginning of its existence protected and preserved it".
+   Several eighteenth-century thinkers wrote about similar theories,
+   including Pierre Louis Moreau de Maupertuis in 1745, Lord Monboddo in
+   his theories of species alteration, and Darwin's grandfather Erasmus
+   Darwin in 1794–1796. However, these 'precursors' had little influence
+   on the trajectory of evolutionary thought after Darwin.
+
+   Until the early 19th century, the established view in Western societies
+   was that differences between individuals of a species were
+   uninteresting departures from their Platonic ideal (or typus) of
+   created kinds. However, growing awareness of the fossil record led to
+   the recognition that species that lived in the distant past were often
+   very different from those that exist today. Naturalists of the time
+   tried to reconcile this with the emerging ideas of uniformitarianism in
+   geology - the notion that simple, weak forces, acting continuously over
+   very long periods of time could have radical consequences, shaping the
+   landscape as we know it today. Most importantly perhaps, these notions
+   led to the awareness of the immensity of geological time, which makes
+   it possible for slight causes to produce dramatic consequences. This
+   opened the door to the notion that species might have arisen by descent
+   with modification from ancestor species.
+
+   In the early years of the 19th century, radical evolutionists such as
+   Jean Baptiste Lamarck had proposed that characteristics (adaptations)
+   acquired by individuals might be inherited by their progeny, causing,
+   in enough time, transmutation of species (see Lamarckism).
+
+Darwin's hypothesis
+
+   Between 1842 and 1844, Charles Darwin outlined his theory of evolution
+   by natural selection as an explanation for adaptation and speciation.
+   He defined natural selection as the "principle by which each slight
+   variation [of a trait], if useful, is preserved". The concept was
+   simple but powerful: individuals best adapted to their environments are
+   more likely to survive and reproduce. As long as there is some
+   variation between them, there will be an inevitable selection of
+   individuals with the most advantageous variations. If the variations
+   are inherited, then differential reproductive success will lead to a
+   progressive evolution of particular populations of a species, and
+   populations that evolve to be sufficiently different might eventually
+   become different species.
+
+   For Darwin, natural selection was synonymous with evolution by natural
+   selection; other mechanisms of evolution such as evolution by genetic
+   drift were not explicitly formulated at that time, and Darwin realised
+   that: "I am convinced that [it] has been the main, but not exclusive
+   means of modification."  Today, scientists use natural selection mainly
+   to describe the mechanism. In this sense, natural selection includes
+   any selection by a natural agent, including sexual selection and kin
+   selection. Sometimes, sexual selection is distinguished from natural
+   selection, but a more useful distinction is between sexual selection
+   and ecological selection.
+
+   Darwin thought of natural selection by analogy to how farmers select
+   crops or livestock for breeding ( artificial selection); in his early
+   manuscripts he referred to a 'Nature' which would do the selection. In
+   the next twenty years, he shared these theories with just a few
+   friends, while gathering evidence and trying to address all possible
+   objections. In 1858, Alfred Russel Wallace, a young naturalist,
+   independently conceived the principle and described it in a letter to
+   Darwin. Not wanting to be scooped, Darwin contacted scientific friends
+   to find an honorable way to handle this potentially embarrassing
+   situation, and two short papers by the two were read at the Linnean
+   Society announcing co-discovery of the principle. The following year,
+   Darwin published The Origin of Species, along with his evidence and
+   detailed discussion. This became a topic of great dispute; evolutionary
+   theories became the primary way of talking about speciation, but
+   natural selection did not predominate as the mechanism by which it
+   happened. What made natural selection controversial was doubt about
+   whether it was powerful enough to result in speciation, and that it was
+   'unguided' rather than 'progressive', something that even Darwin's
+   supporters balked at.
+
+   Darwin's ideas were inspired by the observations that he had made on
+   the Voyage of the Beagle, and by the economic theories of Thomas
+   Malthus, who noted that population (if unchecked) increases
+   exponentially whereas the food supply grows only arithmetically; thus
+   inevitable limitations of resources would have demographic
+   implications, leading to a "struggle for existence", in which only the
+   fittest would survive. In the 6th edition of The Origin of Species
+   Darwin acknowledged that others — notably William Charles Wells in
+   1813, and Patrick Matthew in 1831 — had proposed similar theories, but
+   had not presented them fully or in notable scientific publications.
+   Wells presented his hypothesis to explain the origin of human races in
+   person at the Royal Society, and Matthew published his as an appendix
+   to his book on arboriculture. Edward Blyth had also proposed a method
+   of natural selection as a mechanism of keeping species constant.
+
+   Within a decade of The Origin of Species, most educated people had
+   begun to accept that evolution had occurred in some form or another.
+   However, of the many ideas of evolution that emerged, only August
+   Weismann's saw natural selection as the main evolutionary force. Even
+   T.H. Huxley believed that there was more "purpose" in evolution than
+   natural selection afforded, and neo- Lamarckism was also popular. After
+   reading Darwin, Herbert Spencer introduced the term survival of the
+   fittest, which became a popular summary of the theory. Although the
+   phrase is still often used by non-biologists, modern biologists avoid
+   it because it is tautological if fittest is read to mean functionally
+   superior. Survival of the fittest can actually be rephrased as "That
+   which is mostly observed, is that which replicates the most", showing
+   it as a tautology to the fullest extent. Such a statement, arguably,
+   makes natual selection even more persuasive. In a letter to Charles
+   Lyell in September 1860, Darwin regrets the use of the term 'Natural
+   Selection', preferring the term 'Natural Preservation'.
+
+Modern evolutionary synthesis
+
+   Only after the integration of a theory of evolution with a complex
+   statistical appreciation of Mendel's 're-discovered' laws of
+   inheritance did natural selection become generally accepted by
+   scientists. The work of Ronald Fisher (who first attempted to explain
+   natural selection in terms of the underlying genetic processes), J.B.S.
+   Haldane (who introduced the concept of the 'cost' of natural
+   selection), Sewall Wright (one of the founders of population genetics),
+   Theodosius Dobzhansky (who established the idea that mutation, by
+   creating genetic diversity, supplied the raw material for natural
+   selection), William Hamilton (who conceived of kin selection), Ernst
+   Mayr (who recognised the key importance of reproductive isolation for
+   speciation) and many others formed the modern evolutionary synthesis.
+   This propelled natural selection to the forefront of evolutionary
+   theories, where it remains today.
+
+Impact of the idea
+
+   Darwin's ideas, along with those of Adam Smith and Karl Marx, had a
+   profound influence on 19th-century thought. Perhaps the most radical
+   claim of the theory of evolution through natural selection is that
+   "elaborately constructed forms, so different from each other, and
+   dependent on each other in so complex a manner" evolved from the
+   simplest forms of life by a few simple principles. This claim inspired
+   some of Darwin's most ardent supporters—and provoked the most profound
+   opposition. The radicalism of natural selection, according to Stephen
+   Jay Gould, lay in its power to "dethrone some of the deepest and most
+   traditional comforts of Western thought". In particular, it challenged
+   beliefs in nature's benevolence, order, and good design, the belief
+   that humans occupy a summit of power and excellence, belief in an
+   omnipotent, benevolent creator, and belief that nature has any
+   meaningful direction, or that humans fit into any sensible pattern.
+
+Social theory
+
+   The social implications of the theory of evolution by natural selection
+   also became the source of continuing controversy. Engels in 1872 wrote
+   that "Darwin did not know what a bitter satire he wrote on mankind when
+   he showed that free competition, the struggle for existence, which the
+   economists celebrate as the highest historical achievement, is the
+   normal state of the animal kingdom". That natural selection had
+   apparently led to 'advancement' in intelligence and civilisation also
+   became used as a justification for colonialism and policies of eugenics
+   —see Social Darwinism. Konrad Lorenz won the Nobel Prize in 1973 for
+   his analysis of animal behaviour in terms of the role of natural
+   selection (particularly group selection). However, in Germany in 1940,
+   in writings that he subsequently disowned, he used the theory as a
+   justification for policies of the Nazi state. He wrote "... selection
+   for toughness, heroism, and social utility...must be accomplished by
+   some human institution, if mankind, in default of selective factors, is
+   not to be ruined by domestication-induced degeneracy. The racial idea
+   as the basis of our state has already accomplished much in this
+   respect." Others have developed ideas that human societies and culture
+   evolve by mechanisms that are analogous to those that apply to
+   evolution of species. (see article on Sociocultural evolution).
+
+Energetic theory
+
+   In 1922, Alfred Lotka proposed that natural selection might be
+   understood as a physical principle which can be energetically
+   quantified. Through the work of Howard T. Odum this became known as the
+   maximum power principle whereby evolutionary systems with selective
+   advantage maximise the rate of useful energy transformation.
+
+Information theory
+
+   Natural selection need not apply only to biological organisms. In
+   computer-based systems (e.g., artificial life), simulating natural
+   selection can be very effective in 'adapting' entities to their
+   environments. By combining this with simulated reproduction and random
+   variation it is possible for instance to 'evolve' problem-solving
+   abilities of computer-based systems. However, whether such systems show
+   that evolution by means of natural selection per se can generate
+   complexity is contested. The mathematician and science fiction writer
+   Rudy Rucker explored the use of natural selection to create artificial
+   intelligence in his best-known work, The Ware Tetralogy, and in his
+   novel The Hacker and the Ants.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Natural_selection"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

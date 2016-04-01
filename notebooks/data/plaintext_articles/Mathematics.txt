@@ -1,0 +1,482 @@
+   #copyright
+
+Mathematics
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Euclid, Greek mathematician, 3rd century BC, known today as the father
+   of geometry; shown here in a detail of The School of Athens by Raphael.
+   Enlarge
+   Euclid, Greek mathematician, 3rd century BC, known today as the father
+   of geometry; shown here in a detail of The School of Athens by Raphael.
+
+   Mathematics ( colloquially, maths, or math in American English) is the
+   body of knowledge centered on concepts such as quantity, structure,
+   space, and change, and the academic discipline which studies them;
+   Benjamin Peirce called it "the science that draws necessary
+   conclusions". It evolved, through the use of abstraction and logical
+   reasoning, from counting, calculation, measurement, and the study of
+   the shapes and motions of physical objects. Mathematicians explore such
+   concepts, aiming to formulate new conjectures and establish their truth
+   by rigorous deduction from appropriately chosen axioms and definitions.
+
+   Knowledge and use of basic mathematics have always been an inherent and
+   integral part of individual and group life. Refinements of the basic
+   ideas are visible in ancient mathematical texts originating in ancient
+   Egypt, Mesopotamia, Ancient India, and Ancient China, with increased
+   rigour later introduced by the ancient Greeks. From this point on, the
+   development continued in short bursts until the Renaissance period of
+   the 16th century where mathematical innovations interacted with new
+   scientific discoveries leading to an acceleration in understanding that
+   continues to the present day.
+
+   Today, mathematics is used throughout the world in many fields,
+   including science, engineering, medicine and economics. The application
+   of mathematics to such fields, often dubbed applied mathematics,
+   inspires and makes use of new mathematical discoveries and has
+   sometimes led to the development of entirely new disciplines.
+   Mathematicians also engage in pure mathematics for its own sake without
+   having any practical application in mind, although applications for
+   what begins as pure mathematics are often discovered later.
+
+Etymology
+
+   The word "mathematics" (Greek: μαθηματικά) comes from the Greek μάθημα
+   (máthēma), which means learning, study, science, and additionally came
+   to have the narrower and more technical meaning "mathematical study",
+   even in Classical times. Its adjective is μαθηματικός (mathēmatikós),
+   related to learning, or studious, which likewise further came to mean
+   mathematical. In particular, μαθηματικὴ τέχνη (mathēmatikḗ tékhnē), in
+   Latin ars mathematica, meant the mathematical art. The apparent plural
+   form in English, like the French plural form les mathématiques (and the
+   less commonly used singular derivative la mathématique), goes back to
+   the Latin neuter plural mathematica ( Cicero), based on the Greek
+   plural τα μαθηματικά (ta mathēmatiká), used by Aristotle, and meaning
+   roughly "all things mathematical".
+
+   Despite the form and etymology, the word mathematics, like the names of
+   arts and sciences in general, is used as a singular mass noun in
+   English today. The colloquial English-language shortened forms
+   perpetuate this singular/plural idiosyncrasy, as the word is shortened
+   to math in North American English, while it is maths elsewhere
+   (including Britain, Ireland, Australia and other Commonwealth
+   countries).
+
+History
+
+   A quipu, a counting device used by the Inca.
+   Enlarge
+   A quipu, a counting device used by the Inca.
+
+   The evolution of mathematics might be seen to be an ever-increasing
+   series of abstractions, or alternatively an expansion of subject
+   matter. The first abstraction was probably that of numbers. The
+   realization that two apples and two oranges have something in common
+   was a breakthrough in human thought. In addition to recognizing how to
+   count physical objects, prehistoric peoples also recognized how to
+   count abstract quantities, like time — days, seasons, years. Arithmetic
+   ( addition, subtraction, multiplication and division), naturally
+   followed. Monolithic monuments testify to knowledge of geometry.
+
+   Further steps need writing or some other system for recording numbers
+   such as tallies or the knotted strings called quipu used by the Inca
+   empire to store numerical data. Numeral systems have been many and
+   diverse.
+
+   From the beginnings of recorded history, the major disciplines within
+   mathematics arose out of the need to do calculations relating to
+   taxation and commerce, to understand the relationships among numbers,
+   to measure land, and to predict astronomical events. These needs can be
+   roughly related to the broad subdivision of mathematics, into the
+   studies of quantity, structure, space, and change.
+
+   Mathematics has since been greatly extended, and there has been a
+   fruitful interaction between mathematics and science, to the benefit of
+   both. Mathematical discoveries have been made throughout history and
+   continue to be made today. According to Mikhail B. Sevryuk, in the
+   January 2006 issue of the Bulletin of the American Mathematical
+   Society, "The number of papers and books included in the Mathematical
+   Reviews database since 1940 (the first year of operation of MR) is now
+   more than 1.9 million, and more than 75 thousand items are added to the
+   database each year. The overwhelming majority of works in this ocean
+   contain new mathematical theorems and their proofs."
+
+Inspiration, pure and applied mathematics, and aesthetics
+
+   Sir Isaac Newton (1643-1727), an inventor of infinitesimal calculus.
+   Enlarge
+   Sir Isaac Newton (1643-1727), an inventor of infinitesimal calculus.
+
+   Mathematics arises wherever there are difficult problems that involve
+   quantity, structure, space, or change. At first these were found in
+   commerce, land measurement and later astronomy; nowadays, all sciences
+   suggest problems studied by mathematicians, and many problems arise
+   within mathematics itself. Newton was one of the infinitesimal calculus
+   inventors, Feynman invented the Feynman path integral using a
+   combination of reasoning and physical insight, and today's string
+   theory also inspires new mathematics. Some mathematics is only relevant
+   in the area that inspired it, and is applied to solve further problems
+   in that area. But often mathematics inspired by one area proves useful
+   in many areas, and joins the general stock of mathematical concepts.
+   The remarkable fact that even the "purest" mathematics often turns out
+   to have practical applications is what Eugene Wigner has called " the
+   unreasonable effectiveness of mathematics."
+
+   As in most areas of study, the explosion of knowledge in the scientific
+   age has led to specialization in mathematics. One major distinction is
+   between pure mathematics and applied mathematics. Several areas of
+   applied mathematics have merged with related traditions outside of
+   mathematics and become disciplines in their own right, including
+   statistics, operations research, and computer science.
+
+   Many mathematicians talk about the elegance of mathematics, its
+   intrinsic aesthetics and inner beauty. Simplicity and generality are
+   valued. There is beauty also in a clever proof, such as Euclid's proof
+   that there are infinitely many prime numbers, and in a numerical method
+   that speeds calculation, such as the fast Fourier transform. G. H.
+   Hardy in A Mathematician's Apology expressed the belief that these
+   aesthetic considerations are, in themselves, sufficient to justify the
+   study of pure mathematics.
+
+Notation, language, and rigor
+
+   In modern notation, simple expressions can describe complex concepts.
+   This image is generated by a single equation.
+   Enlarge
+   In modern notation, simple expressions can describe complex concepts.
+   This image is generated by a single equation.
+
+   Most of the mathematical notation we use today was not invented until
+   the 16th century. Before that, mathematics was written out in words, a
+   painstaking process that limited mathematical discovery. Modern
+   notation makes mathematics much easier for the professional, but
+   beginners often find it daunting. It is extremely compressed: a few
+   symbols contain a great deal of information. Like musical notation,
+   modern mathematical notation has a strict syntax and encodes
+   information that would be difficult to write in any other way.
+
+   Mathematical language also is hard for beginners. Words such as or and
+   only have more precise meanings than in everyday speech. Also confusing
+   to beginners, words such as open and field have been given specialized
+   mathematical meanings. Mathematical jargon includes technical terms
+   such as homeomorphism and integrable. It was said that Henri Poincaré
+   was only elected to the Académie française so that he could tell them
+   how to define automorphe in their dictionary. But there is a reason for
+   special notation and technical jargon: mathematics requires more
+   precision than everyday speech. Mathematicians refer to this precision
+   of language and logic as "rigor".
+
+   Rigor is fundamentally a matter of mathematical proof. Mathematicians
+   want their theorems to follow from axioms by means of systematic
+   reasoning. This is to avoid mistaken " theorems", based on fallible
+   intuitions, of which many instances have occurred in the history of the
+   subject. The level of rigor expected in mathematics has varied over
+   time: the Greeks expected detailed arguments, but at the time of Isaac
+   Newton the methods employed were less rigorous. Problems inherent in
+   the definitions used by Newton would lead to a resurgence of careful
+   analysis and formal proof in the 19th century. Today, mathematicians
+   continue to argue among themselves about computer-assisted proofs.
+   Since large computations are hard to verify, such proofs may not be
+   sufficiently rigorous.
+
+   Axioms in traditional thought were "self-evident truths", but that
+   conception is problematic. At a formal level, an axiom is just a string
+   of symbols, which has an intrinsic meaning only in the context of all
+   derivable formulas of an axiomatic system. It was the goal of Hilbert's
+   program to put all of mathematics on a firm axiomatic basis, but
+   according to Gödel's incompleteness theorem every (sufficiently
+   powerful) axiomatic system has undecidable formulas; and so a final
+   axiomatization of mathematics is impossible. Nonetheless mathematics is
+   often imagined to be (as far as its formal content) nothing but set
+   theory in some axiomatization, in the sense that every mathematical
+   statement or proof could be cast into formulas within set theory.
+
+Mathematics as science
+
+   Carl Friedrich Gauss, while known as the "prince of mathematicians",
+   did not believe that mathematics was worthy of study in its own
+   right[citation needed].
+   Enlarge
+   Carl Friedrich Gauss, while known as the "prince of mathematicians",
+   did not believe that mathematics was worthy of study in its own right.
+
+   Carl Friedrich Gauss referred to mathematics as "the Queen of the
+   Sciences". In the original Latin Regina Scientiarum, as well as in
+   German Königin der Wissenschaften, the word corresponding to science
+   means (field of) knowledge. Indeed, this is also the original meaning
+   in English, and there is no doubt that mathematics is in this sense a
+   science. The specialization restricting the meaning to natural science
+   is of later date. If one considers science to be strictly about the
+   physical world, then mathematics, or at least pure mathematics, is not
+   a science. Albert Einstein has stated that "as far as the laws of
+   mathematics refer to reality, they are not certain; and as far as they
+   are certain, they do not refer to reality."
+
+   Many philosophers believe that mathematics is not experimentally
+   falsifiable, and thus not a science according to the definition of Karl
+   Popper. However, in the 1930s important work in mathematical logic
+   showed that mathematics cannot be reduced to logic, and Karl Popper
+   concluded that "most mathematical theories are, like those of physics
+   and biology, hypothetico-deductive: pure mathematics therefore turns
+   out to be much closer to the natural sciences whose hypotheses are
+   conjectures, than it seemed even recently." Other thinkers, notably
+   Imre Lakatos, have applied a version of falsificationism to mathematics
+   itself.
+
+   An alternative view is that certain scientific fields (such as
+   theoretical physics) are mathematics with axioms that are intended to
+   correspond to reality. In fact, the theoretical physicist, J. M. Ziman,
+   proposed that science is public knowledge and thus includes
+   mathematics. In any case, mathematics shares much in common with many
+   fields in the physical sciences, notably the exploration of the logical
+   consequences of assumptions. Intuition and experimentation also play a
+   role in the formulation of conjectures in both mathematics and the
+   (other) sciences. Experimental mathematics continues to grow in
+   importance within mathematics, and computation and simulation are
+   playing an increasing role in both the sciences and mathematics,
+   weakening the objection that mathematics does not use the scientific
+   method. In his 2002 book A New Kind of Science, Stephen Wolfram argues
+   that computational mathematics deserves to be explored empirically as a
+   scientific field in its own right.
+
+   The opinions of mathematicians on this matter are varied. While some in
+   applied mathematics feel that they are scientists, those in pure
+   mathematics often feel that they are working in an area more akin to
+   logic and that they are, hence, fundamentally philosophers. Many
+   mathematicians feel that to call their area a science is to downplay
+   the importance of its aesthetic side, and its history in the
+   traditional seven liberal arts; others feel that to ignore its
+   connection to the sciences is to turn a blind eye to the fact that the
+   interface between mathematics and its applications in science and
+   engineering has driven much development in mathematics. One way this
+   difference of viewpoint plays out is in the philosophical debate as to
+   whether mathematics is created (as in art) or discovered (as in
+   science). It is common to see universities divided into sections that
+   include a division of Science and Mathematics, indicating that the
+   fields are seen as being allied but that they do not coincide. In
+   practice, mathematicians are typically grouped with scientists at the
+   gross level but separated at finer levels. This is one of many issues
+   considered in the philosophy of mathematics.
+
+   Mathematical awards are generally kept separate from their equivalents
+   in science. The most prestigious award in mathematics is the
+   Fields Medal, established in 1936 and now awarded every 4 years. It is
+   usually considered the equivalent of science's Nobel prize. Another
+   major international award, the Abel Prize, was introduced in 2003. Both
+   of these are awarded for a particular body of work, either innovation
+   in a new area of mathematics or resolution of an outstanding problem in
+   an established field. A famous list of 23 such open problems, called "
+   Hilbert's problems", was compiled in 1900 by German mathematician David
+   Hilbert. This list achieved great celebrity among mathematicians, and
+   at least nine of the problems have now been solved. A new list of seven
+   important problems, titled the " Millennium Prize Problems", was
+   published in 2000. Solution of each of these problems carries a $1
+   million reward, and only one (the Riemann hypothesis) is duplicated in
+   Hilbert's problems.
+
+Fields of mathematics
+
+   Early mathematics was entirely concerned with the need to perform
+   practical calculations, as reflected in this Chinese abacus.
+   Enlarge
+   Early mathematics was entirely concerned with the need to perform
+   practical calculations, as reflected in this Chinese abacus.
+
+   As noted above, the major disciplines within mathematics first arose
+   out of the need to do calculations in commerce, to understand the
+   relationships between numbers, to measure land, and to predict
+   astronomical events. These four needs can be roughly related to the
+   broad subdivision of mathematics into the study of quantity, structure,
+   space, and change (i.e., arithmetic, algebra, geometry, and analysis).
+   In addition to these main concerns, there are also subdivisions
+   dedicated to exploring links from the heart of mathematics to other
+   fields: to logic, to set theory ( foundations), to the empirical
+   mathematics of the various sciences (applied mathematics), and more
+   recently to the rigorous study of uncertainty.
+
+Quantity
+
+   The study of quantity starts with numbers, first the familiar natural
+   numbers and integers ("whole numbers") and arithmetical operations on
+   them, which are characterized in arithmetic. The deeper properties of
+   integers are studied in number theory, whence such popular results as
+   Fermat's last theorem. Number theory also holds two widely-considered
+   unsolved problems: the twin prime conjecture and Goldbach's conjecture.
+
+   As the number system is further developed, the integers are recognised
+   as a subset of the rational numbers ("fractions"). These, in turn, are
+   contained within the real numbers, which are used to represent
+   continuous quantities. Real numbers are generalised to complex numbers.
+   These are the first steps of a hierarchy of numbers that goes on to
+   include quarternions and octonions. Consideration of the natural
+   numbers also leads to the transfinite numbers, which formalise the
+   concept of counting to infinite. Another area of study is size, which
+   leads to the cardinal numbers and then to another conception of
+   infinity: the aleph numbers, which allow meaningful comparison of the
+   size of infinitely large sets.
+
+   1, 2, 3\,\! -2, -1, 0, 1, 2\,\! -2, \frac{2}{3}, 1.21\,\! -e, \sqrt{2},
+   3, \pi\,\! 2, i, -2+3i, 2e^{i\frac{4\pi}{3}}\,\!
+   Natural numbers Integers Rational numbers Real numbers Complex numbers
+
+Structure
+
+   Many mathematical objects, such as sets of numbers and functions,
+   exhibit internal structure. The structural properties of these objects
+   are investigated in the study of groups, rings, fields and other
+   abstract systems, which are themselves such objects. This is the field
+   of abstract algebra. An important concept here is that of vectors,
+   generalized to vector spaces, and studied in linear algebra. The study
+   of vectors combines three of the fundamental areas of mathematics:
+   quantity, structure, and space. Vector calculus expands the field into
+   a fourth fundamental area, that of change.
+
+          Number theory Abstract algebra Group theory Order theory
+
+Space
+
+   The study of space originates with geometry - in particular, Euclidean
+   geometry. Trigonometry combines space and number, and encompasses the
+   well-known Pythagorean theorem. The modern study of space generalizes
+   these ideas to include higher-dimensional geometry, non-Euclidean
+   geometries (which play a central role in general relativity) and
+   topology. Quantity and space both play a role in analytic geometry,
+   differential geometry, and algebraic geometry. Within differential
+   geometry are the concepts of fibre bundles and calculus on manifolds.
+   Within algebraic geometry is the description of geometric objects as
+   solution sets of polynomial equations, combining the concepts of
+   quantity and space, and also the study of topological groups, which
+   combine structure and space. Lie groups are used to study space,
+   structure, and change. Topology in all its many ramifications may have
+   been the greatest growth area in 20th century mathematics, and includes
+   the long-standing Poincaré conjecture and the controversial four colour
+   theorem, whose only proof, by computer, has never been verified by a
+   human.
+
+          Geometry Trigonometry Differential geometry Topology Fractal geometry
+
+Change
+
+   Understanding and describing change is a common theme in the natural
+   sciences, and calculus was developed as a powerful tool to investigate
+   it. Functions arise here, as a central concept describing a changing
+   quantity. The rigorous study of real numbers and real-valued functions
+   is known as real analysis, with complex analysis the equivalent field
+   for the complex numbers. The Riemann hypothesis, one of the most
+   fundamental open questions in mathematics, is drawn from complex
+   analysis. Functional analysis focuses attention on (typically
+   infinite-dimensional) spaces of functions. One of many applications of
+   functional analysis is quantum mechanics. Many problems lead naturally
+   to relationships between a quantity and its rate of change, and these
+   are studied as differential equations. Many phenomena in nature can be
+   described by dynamical systems; chaos theory makes precise the ways in
+   which many of these systems exhibit unpredictable yet still
+   deterministic behaviour.
+   Calculus Vector calculus Differential equations Dynamical systems Chaos
+                                                                     theory
+
+Foundations and philosophy
+
+   In order to clarify the foundations of mathematics, the fields of
+   mathematical logic and set theory were developed.
+
+   Mathematical logic is concerned with setting mathematics on a rigid
+   axiomatic framework, and studying the results of such a framework. As
+   such, it is home to Gödel's second incompleteness theorem, perhaps the
+   most widely celebrated result in logic, which (informally) implies that
+   there are always true theorems which cannot be proven. Modern logic is
+   divided into recursion theory, model theory, and proof theory, and is
+   closely linked to theoretical computer science.
+
+          P \Rightarrow Q \,
+          Mathematical logic Set theory Category theory
+
+Discrete mathematics
+
+   Discrete mathematics is the common name for the fields of mathematics
+   most generally useful in theoretical computer science. This includes
+   computability theory, computational complexity theory, and information
+   theory. Computability theory examines the limitations of various
+   theoretical models of the computer, including the most powerful known
+   model - the Turing machine. Complexity theory is the study of
+   tractability by computer; some problems, although theoretically soluble
+   by computer, are so expensive in terms of time or space that solving
+   them is likely to remain practically unfeasible, even with rapid
+   advance of computer hardware. Finally, information theory is concerned
+   with the amount of data that can be stored on a given medium, and hence
+   concepts such as compression and entropy.
+
+   As a relatively new field, discrete mathematics has a number of
+   fundamental open problems. The most famous of these is the " P=NP?"
+   problem, one of the Millennium Prize Problems. It is widely believed
+   that the answer to this problem is no.
+
+   \begin{matrix} (1,2,3) & (1,3,2) \\ (2,1,3) & (2,3,1) \\ (3,1,2) &
+   (3,2,1) \end{matrix}
+   Combinatorics Theory of computation Cryptography Graph theory
+
+Applied mathematics
+
+   Applied mathematics considers the use of abstract mathematical tools in
+   solving concrete problems in the sciences, business, and other areas.
+   An important field in applied mathematics is statistics, which uses
+   probability theory as a tool and allows the description, analysis, and
+   prediction of phenomena where chance plays a role. Most experiments,
+   surveys and observational studies require the informed use of
+   statistics. (Many statisticians, however, do not consider themselves to
+   be mathematicians, but rather part of an allied group.) Numerical
+   analysis investigates computational methods for efficiently solving a
+   broad range of mathematical problems that are typically too large for
+   human numerical capacity; it includes the study of rounding errors or
+   other sources of error in computation.
+
+          Mathematical physics • Analytical mechanics • Mathematical fluid
+          dynamics • Numerical analysis • Optimization • Probability •
+          Statistics • Mathematical economics • Financial mathematics •
+          Game theory • Mathematical biology • Cryptography • Operations
+          research
+
+Common misconceptions
+
+   Mathematics is not a closed intellectual system, in which everything
+   has already been worked out. There is no shortage of open problems.
+
+   Pseudomathematics is a form of mathematics-like activity undertaken
+   outside academia, and occasionally by mathematicians themselves. It
+   often consists of determined attacks on famous questions, consisting of
+   proof-attempts made in an isolated way (that is, long papers not
+   supported by previously published theory). The relationship to
+   generally-accepted mathematics is similar to that between pseudoscience
+   and real science. The misconceptions involved are normally based on:
+     * misunderstanding of the implications of mathematical rigor;
+     * attempts to circumvent the usual criteria for publication of
+       mathematical papers in a learned journal after peer review, often
+       in the belief that the journal is biased against the author;
+     * lack of familiarity with, and therefore underestimation of, the
+       existing literature.
+
+   The case of Kurt Heegner's work shows that the mathematical
+   establishment is neither infallible, nor unwilling to admit error in
+   assessing 'amateur' work. And like astronomy, mathematics owes much to
+   amateur contributors such as Fermat and Mersenne.
+
+Relationship between mathematics and physical reality
+
+   Mathematical concepts and theorems need not correspond to anything in
+   the physical world. Insofar as a correspondence does exist, while
+   mathematicians and physicists may select axioms and postulates that
+   seem reasonable and intuitive, it is not necessary for the basic
+   assumptions within an axiomatic system to be true in an empirical or
+   physical sense.
+
+   Thus, while most systems of axioms are derived from our perceptions and
+   experiments, they are not dependent on them. Nevertheless, mathematics
+   remains extremely useful for solving real-world problems. This fact led
+   Eugene Wigner to write an essay, The Unreasonable Effectiveness of
+   Mathematics in the Natural Sciences.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Mathematics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,249 @@
+   #copyright
+
+Topology
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   A Möbius strip, an object with only one surface and one edge; such
+   shapes are an object of study in topology.
+   A Möbius strip, an object with only one surface and one edge; such
+   shapes are an object of study in topology.
+
+   Topology ( Greek topos, "place," and logos, "study") is a branch of
+   mathematics that is an extension of geometry. Topology begins with a
+   consideration of the nature of space, investigating both its fine
+   structure and its global structure. Topology builds on set theory,
+   considering both sets of points and families of sets.
+
+   The word topology is used both for the area of study and for a family
+   of sets with certain properties described below. Of particular
+   importance in the study of topology are functions or maps that are
+   homeomorphisms. Informally, these functions can be thought of as those
+   that stretch space without tearing it apart or sticking distinct parts
+   together.
+
+   When the discipline was first properly founded, toward the end of the
+   19th century, it was called geometria situs (Latin geometry of place)
+   and analysis situs (Latin analysis of place). From around 1925 to 1975
+   it was an important growth area within mathematics.
+
+   Topology is a large branch of mathematics that includes many subfields.
+   The most basic division within topology is into point-set topology,
+   which investigates such concepts as compactness, connectedness,
+   countability, and algebraic topology, which investigates such concepts
+   as homotopy, homology, and knot theory.
+
+   See also: topology glossary for definitions of some of the terms used
+   in topology; topological space for a more technical treatment of the
+   subject.
+
+History
+
+   The Seven Bridges of Königsberg is a famous problem in topology.
+   The Seven Bridges of Königsberg is a famous problem in topology.
+
+   The branch of mathematics now called topology began with the
+   investigation of certain questions in geometry. Leonhard Euler's 1736
+   paper on Seven Bridges of Königsberg is regarded as one of the first
+   topological results.
+
+   The term "topologie" was introduced in German in 1847 by Johann
+   Benedict Listing in Vorstudien zur Topologie, Vandenhoeck und Ruprecht,
+   Göttingen, pp. 67, 1848. However, Listing had already used the word for
+   ten years in correspondence. "Topology", its English form, was
+   introduced in 1883 in the journal Nature to distinguish "qualitative
+   geometry from the ordinary geometry in which quantitative relations
+   chiefly are treated". The term topologist in the sense of a specialist
+   in topology was used in 1905 in the magazine Spectator.
+
+   Modern topology depends strongly on the ideas of set theory, developed
+   by Georg Cantor in the later part of the 19th century. Cantor, in
+   addition to setting down the basic ideas of set theory, considered
+   point sets in Euclidean space, as part of his study of Fourier series.
+
+   Henri Poincaré published Analysis Situs in 1895, introducing the
+   concepts of homotopy and homology, which are now considered part of
+   algebraic topology.
+
+   Maurice Fréchet, unifying the work on function spaces of Cantor,
+   Volterra, Arzelà, Hadamard, Ascoli and others, introduced the metric
+   space in 1906. A metric space is now considered a special case of a
+   general topological space. In 1914, Felix Hausdorff coined the term
+   "topological space" and gave the definition for what is now called a
+   Hausdorff space. In current usage, a topological space is a slight
+   generalization of Hausdorff spaces, given in 1922 by Kazimierz
+   Kuratowski.
+
+   For further developments, see point-set topology and algebraic
+   topology.
+
+Elementary introduction
+
+   A continuous deformation (homotopy) of a coffee cup into a doughnut
+   (torus).
+   A continuous deformation ( homotopy) of a coffee cup into a doughnut (
+   torus).
+
+   Topological spaces show up naturally in almost every branch of
+   mathematics. This has made topology one of the great unifying ideas of
+   mathematics. General topology, or point-set topology, defines and
+   studies properties of spaces and maps such as connectedness,
+   compactness and continuity. Algebraic topology uses structures from
+   abstract algebra, especially the group to study topological spaces and
+   the maps between them.
+
+   The motivating insight behind topology is that some geometric problems
+   depend not on the exact shape of the objects involved, but rather on
+   the way they are put together. For example, the square and the circle
+   have many properties in common: they are both one dimensional objects
+   (from a topological point of view) and both separate the plane into two
+   parts, the part inside and the part outside.
+
+   One of the first papers in topology was the demonstration, by Leonhard
+   Euler, that it was impossible to find a route through the town of
+   Königsberg (now Kaliningrad) that would cross each of its seven bridges
+   exactly once. This result did not depend on the lengths of the bridges,
+   nor on their distance from one another, but only on connectivity
+   properties: which bridges are connected to which islands or riverbanks.
+   This problem, the Seven Bridges of Königsberg, is now a famous problem
+   in introductory mathematics, and led to the branch of mathematics known
+   as graph theory.
+
+   Similarly, the hairy ball theorem of algebraic topology says that "one
+   cannot comb the hair on a ball smooth". This fact is immediately
+   convincing to most people, even though they might not recognize the
+   more formal statement of the theorem, that there is no nonvanishing
+   continuous tangent vector field on the sphere. As with the Bridges of
+   Königsberg, the result does not depend on the exact shape of the
+   sphere; it applies to pear shapes and in fact any kind of blob (subject
+   to certain conditions on the smoothness of the surface), as long as it
+   has no holes.
+
+   In order to deal with these problems that do not rely on the exact
+   shape of the objects, one must be clear about just what properties
+   these problems do rely on. From this need arises the notion of
+   topological equivalence. The impossibility of crossing each bridge just
+   once applies to any arrangement of bridges topologically equivalent to
+   those in Königsberg, and the hairy ball theorem applies to any space
+   topologically equivalent to a sphere.
+
+   Intuitively, two spaces are topologically equivalent if one can be
+   deformed into the other without cutting or gluing. A traditional joke
+   is that a topologist can't tell the coffee mug out of which she is
+   drinking from the doughnut she is eating, since a sufficiently pliable
+   donut could be reshaped to the form of a coffee cup by creating a
+   dimple and progressively enlarging it, while shrinking the hole into a
+   handle.
+
+   A simple introductory exercise is to classify the lowercase letters of
+   the English alphabet according to topological equivalence. (The lines
+   of the letters are assumed to have non-zero width.) In most fonts in
+   modern use, there is a class {a, b,d, e,o, p,q} of letters with one
+   hole, a class {c, f,h, k,l, m,n, r,s, t,u, v,w, x,y, z} of letters
+   without a hole, and a class {i, j} of letters consisting of two pieces.
+   g may either belong in the class with one hole, or (in some fonts) it
+   may be the sole element of a class of letters with two holes, depending
+   on whether or not the tail is closed. For a more complicated exercise,
+   it may be assumed that the lines have zero width; one can get several
+   different classifications depending on which font is used. Letter
+   topology is of practical relevance in stencil typography: The font
+   Braggadocio, for instance, can be cut out of a plane without falling
+   apart.
+
+Mathematical definition
+
+   Let X be any set and let T be a family of subsets of X. Then T is a
+   topology on X if
+    1. Both the empty set and X are elements of T.
+    2. Any union of elements of T is an element of T.
+    3. Any intersection of finitely many elements of T is an element of T.
+
+   If T is a topology on X, then X together with T is called a topological
+   space.
+
+   A set in T is called open. The complement of a set in T is called
+   closed. If neither a set nor its complement is in T, then the set is
+   neither open nor closed.
+
+   A function or map from one topological space to another is called
+   continuous if the inverse image of any open set is open. If the
+   function maps the real numbers to the real numbers, then this
+   definition of continuous is equivalent to the definition of continuous
+   in calculus. If a continuous function is one-to-one and onto and if the
+   inverse of the function is also continuous, then the function is called
+   a homeomorphism and the domain of the function is said to be
+   homeomorphic to the range. Another way of saying this is that the
+   function has a natural extension to the topology. If two spaces are
+   homeomorphic, they have identical topological properties, and are
+   considered to be topologically the same. The square and the circle are
+   homeomorphic, as are the coffee cup and the doughnut. But the circle is
+   not homeomorphic to the doughnut.
+
+Some theorems in general topology
+
+     * Every closed interval in R of finite length is compact. More is
+       true: In R^n, a set is compact if and only if it is closed and
+       bounded. (See Heine-Borel theorem).
+     * Every continuous image of a compact space is compact.
+     * Tychonoff's theorem: The (arbitrary) product of compact spaces is
+       compact.
+     * A compact subspace of a Hausdorff space is closed.
+     * Every sequence of points in a compact metric space has a convergent
+       subsequence.
+     * Every interval in R is connected.
+     * The continuous image of a connected space is connected.
+     * A metric space is Hausdorff, also normal and paracompact.
+     * The metrization theorems provide necessary and sufficient
+       conditions for a topology to come from a metric.
+     * The Tietze extension theorem: In a normal space, every continuous
+       real-valued function defined on a closed subspace can be extended
+       to a continuous map defined on the whole space.
+     * The Baire category theorem: If X is a complete metric space or a
+       locally compact Hausdorff space, then the interior of every union
+       of countably many nowhere dense sets is empty.
+     * On a paracompact Hausdorff space every open cover admits a
+       partition of unity subordinate to the cover.
+     * Every path-connected, locally path-connected and semi-locally
+       simply connected space has a universal cover.
+
+Some useful notions from algebraic topology
+
+   See also list of algebraic topology topics.
+     * Homology and cohomology: Betti numbers, Euler characteristic.
+     * Intuitively-attractive applications: Brouwer fixed-point theorem,
+       Hairy ball theorem, Borsuk-Ulam theorem, Ham sandwich theorem.
+     * Homotopy groups (including the fundamental group).
+     * Manifold
+     * Chern classes, Stiefel-Whitney classes, Pontryagin classes.
+
+Outline of the deeper theory
+
+     * Fibre bundle: Puppe sequence
+     * Homotopy groups of spheres
+     * Obstruction theory
+     * K-theory: KO-theory, algebraic K-theory
+     * Stable homotopy theory
+     * Brown's representability theorem
+     * (Co) bordism
+     * Surgery theory
+     * Signature (topology)
+     * Knot theory
+     * Brown-Peterson BP and Morava K-theory
+     * Dehn surgery and obstructions
+     * H-spaces, infinite loop spaces, A[∞] rings
+     * Homotopy theory of affine schemes
+     * Intersection cohomology
+
+Generalizations
+
+   Occasionally, one needs to use the tools of topology but a "set of
+   points" is not available. In pointless topology one considers instead
+   the lattice of open sets as the basic notion of the theory, while
+   Grothendieck topologies are certain structures defined on arbitrary
+   categories which allow the definition of sheaves on those categories,
+   and with that the definition of quite general cohomology theories.
+   Retrieved from " http://en.wikipedia.org/wiki/Topology"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

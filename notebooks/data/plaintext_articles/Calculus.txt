@@ -1,0 +1,289 @@
+   #copyright
+
+Calculus
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Calculus is an important branch of mathematics. The word stems from the
+   ancient Greeks' use of pebbles arranged in patterns to study arithmetic
+   and geometry. The Latin word for " pebble" is "calculus." Two
+   complementary disciplines comprise calculus, both of which rely on the
+   concept of a limit. The first is differential calculus, which is
+   concerned with the instantaneous, as opposed to average, rate of change
+   of a quantity. This can be illustrated by the slope of a function's
+   graph at a particular point. The second is integral calculus, which
+   studies the accumulation of infinitely small quantities, summing to
+   areas under a curve, linear distance travelled, or volume displaced.
+   These two processes act inversely to each other, as shown by the
+   fundamental theorem of calculus.
+
+   Differential calculus typically provides a way to derive the
+   acceleration and velocity of a body at a particular moment while
+   integral calculus problems are used to compute areas and volumes, to
+   find the amount of a liquid pumped by a pump with a set power input but
+   varying conditions of pumping losses and pressure, or to find the
+   amount of parking lot plowed by a snowplow of given power with varying
+   rates of snowfall.
+
+   In Europe, fundamental advances in calculus during the 17th and 18th
+   century had a deep impact on the ensuing development of physics. Today,
+   calculus is used in every branch of the physical sciences, in computer
+   science, in statistics, and in engineering; in economics, business, and
+   medicine; and as a general method whenever the goal is an optimal
+   solution to a problem that can be given in mathematical form.
+
+History
+
+   Historians generally regard integral calculus as going back no further
+   than to the time of the ancient Greeks, circa 200 BC. Modern sources
+   generally credit Hellenic mathematician Eudoxus with the method of
+   exhaustion, which made it possible to compute the areas of regions and
+   the volumes of solids. Archimedes developed this idea further,
+   inventing heuristics which resemble integral calculus. After him, the
+   development of calculus did not advance appreciably for over 500 years.
+
+   In India, the mathematician-astronomer Aryabhata in 499 used
+   infinitesimals and expressed an astronomical problem in the form of a
+   basic differential equation. Manjula, in the 10th century, elaborated
+   on this differential equation in a commentary. This equation eventually
+   led Bhaskara in the 12th century to develop independently a number of
+   fundamental ideas in calculus, perhaps including an early form of the
+   theorem now known as " Rolle's theorem". He was also the first to
+   define the notion of the derivative as a limit. In the 14th century,
+   Madhava, along with other mathematician-astronomers of the Kerala
+   School, studied infinite series, power series, Taylor series,
+   differentiation, integration, and the mean value theorem. Yuktibhasa,
+   which some consider to be the first text on calculus, summarizes these
+   results. These developments would not be duplicated in Europe until
+   much later.
+   Sir Isaac Newton
+   Enlarge
+   Sir Isaac Newton
+   Gottfried Wilhelm Leibniz
+   Enlarge
+   Gottfried Wilhelm Leibniz
+
+   Calculus started making great strides in Europe towards the end of the
+   early modern period and into the first years of the eighteenth century.
+   This was a time of major innovation in Europe. Calculus provided a new
+   method in mathematical physics to solve long-standing problems. Several
+   mathematicians contributed to these breakthroughs, notably John Wallis
+   and Isaac Barrow. James Gregory proved a special case of the second
+   fundamental theorem of calculus in 1668. In Japan at around this time,
+   Seki Kowa expanded further upon Eudoxus's method of exhaustion.
+
+   Leibniz and Newton pulled these ideas together into a coherent whole
+   and they are usually credited with the probably independent and nearly
+   simultaneous "invention" of calculus. Newton was the first to apply
+   calculus to general physics and Leibniz developed much of the notation
+   used in calculus today; he often spent days determining appropriate
+   symbols for concepts. The fundamental insight that both Newton and
+   Leibniz had was the fundamental theorem of calculus. Virtually all
+   modern methods of symbolic integration follow from this theorem, and it
+   proved indispensable in the development of modern mathematics and
+   physics. For example, see Integration by parts and Integration by
+   substitution.
+
+   When Newton and Leibniz first published their results, whether
+   Leibniz's work was independent of Newton's was somewhat controversial.
+   While Newton had derived his results years before Leibniz, Newton
+   published only some time after Leibniz published in 1684. Later, Newton
+   would claim that Leibniz got the idea from Newton's notes on the
+   subject; however examination of the papers of Leibniz and Newton show
+   they arrived at their results independently, with Leibniz starting
+   first with integration and Newton with differentiation. This
+   controversy between Leibniz and Newton divided English-speaking
+   mathematicians from those in Europe for many years, which slowed the
+   development of mathematical analysis. Today, both Newton and Leibniz
+   are given credit for developing calculus independently. It is Leibniz,
+   however, who is credited with giving the new discipline the name it is
+   known by today: "calculus". Newton's name for it was "the science of
+   fluxions". Some others who contributed important ideas are Descartes,
+   Barrow, Fermat, Huygens, and Wallis.
+
+   Since the time of Leibniz and Newton, many mathematicians have
+   contributed to the continuing development of calculus. In the 19th
+   century, calculus was put on a much more rigorous footing by Cauchy,
+   Riemann, Weierstrass, and others. It was also during this time period
+   that the ideas of calculus were generalized to Euclidean space and the
+   complex plane. Calculus continues to be further generalized, such as
+   with the development of the Lebesgue integral in 1900.
+
+Derivatives and Differentiation
+
+   The derivative measures the sensitivity of one variable to small
+   changes in another variable. Consider the formula:
+
+          \mathrm{Speed} = \frac{\mathrm{Distance}}{\mathrm{Time}}
+
+   for an object moving at constant speed. The speed of a car, as measured
+   by the speedometer, is the derivative of the car's distance traveled as
+   a function of time. Calculus is a mathematical tool for dealing with
+   this complex but natural and familiar situation.
+   The derivative of a curve defined by the function f(x) can be thought
+   of as the slope, or angle, of the secant between two points on the
+   curve at x and x+h, then letting the separation h between them shrink
+   to zero.
+   Enlarge
+   The derivative of a curve defined by the function f(x) can be thought
+   of as the slope, or angle, of the secant between two points on the
+   curve at x and x+h, then letting the separation h between them shrink
+   to zero.
+
+   Differential calculus can be used to determine the instantaneous speed
+   at any given instant, while the formula "speed = distance divided by
+   time" only gives the average speed, and cannot be applied to an instant
+   in time because it then gives an undefined quotient zero divided by
+   zero. Calculus avoids division by zero by using the concept of the
+   limit which, roughly speaking, is a method of controlling an otherwise
+   uncontrollable output, such as division by zero or multiplication by
+   infinity. More formally, differential calculus defines the
+   instantaneous rate of change (the derivative) of a mathematical
+   function's value, with respect to changes of the variable. The
+   derivative is defined as a limit of a difference quotient.
+
+   The derivative of a function, if it exists, gives information about its
+   graph. It is useful for finding optimum solutions to problems, called
+   maxima and minima of a function. It is proved mathematically that these
+   optimum solutions exist either where the tangent of the graph is flat,
+   so that the slope is zero; or where the graph has a sharp turn ( cusp)
+   where the derivative does not exist; or at the endpoints of the graph.
+   Another application of differential calculus is Newton's method, a
+   powerful equation solving algorithm. Differential calculus has been
+   applied to many questions that were first formulated in other areas,
+   such as business or medicine.
+
+   The derivative lies at the heart of the physical sciences. Newton's
+   second law of motion expressly uses the term "rate of change" which is
+   the derivative: The rate of change of momentum of a body is equal to
+   the resultant force acting on the body and is in the same direction.
+   Even the common expression of Newton's second law as:
+   Force = Mass × Acceleration, involves differential calculus because
+   acceleration is the derivative of velocity. (See Differential
+   equation.) Maxwell's theory of electromagnetism and Einstein's theory
+   of general relativity are also expressed in the language of
+   differential calculus, as is the basic theory of electrical circuits
+   and much of engineering. It is also applied to problems in biology,
+   economics, and many other areas.
+
+   The derivative of a function y = f(x) with respect to x is usually
+   expressed as either y ′ (read "y-prime"), f ' (x) (read "f-prime of x")
+   or using Leibniz notation to write:
+
+          \frac{d}{dx}(y)
+
+   which is commonly shortened to:
+
+          \frac{dy}{dx}
+
+Integrals and Integration
+
+   There are two types of integral in calculus, the indefinite and the
+   definite. The indefinite integral is simply the antiderivative. That
+   is, F is an antiderivative of f when f is a derivative of F. (This use
+   of capital letters and lower case letters is common in calculus. The
+   lower case letter represents the derivative of the capital letter.)
+
+   The definite integral evaluates the cumulative effect of many small
+   changes in a quantity. The simplest instance is the formula
+
+          \mathrm{Distance} = \mathrm{Speed} \cdot \mathrm{Time}
+
+   for calculating the distance a car moves during a period of time when
+   it is traveling at constant speed. The distance moved is the cumulative
+   effect of the small distances moved in each instant. Calculus is also
+   able to deal with the natural situation in which the car moves with
+   changing speed.
+   Integration can be thought of as measuring the area under a curve,
+   defined by f(x), between two points (here a and b) by subdividing the
+   area into ever-smaller slices and then adding them all up.
+   Enlarge
+   Integration can be thought of as measuring the area under a curve,
+   defined by f(x), between two points (here a and b) by subdividing the
+   area into ever-smaller slices and then adding them all up.
+
+   Integral calculus determines the exact distance traveled during an
+   interval of time by creating a series of better and better
+   approximations, called Riemann sums, that approach the exact distance
+   as a limit. More formally, we say that the definite integral of a
+   function on an interval is a limit of Riemann sum approximations.
+
+   Applications of integral calculus arise whenever the problem is to
+   compute a number that is in principle (approximately) equal to the sum
+   of a large number of small quantities. The classic geometric
+   application is to area computations. In principle, the area of a region
+   can be approximated by chopping it up into many pieces (typically
+   rectangles, or, in polar coordinates, circular sectors), and then
+   adding the areas of those pieces. The length of an arc, the area of a
+   surface, and the volume of a solid can also be expressed as definite
+   integrals. Probability, the basis for statistics, provides another
+   important application of integral calculus.
+
+   The symbol of integration is ∫, a stretched s (which stands for "sum").
+   The precise meanings of expressions involving integrals can be found in
+   the main article Integral. The definite integral, written as:
+
+          \int_a^b f(x)\, dx
+
+   is read "the integral from a to b of f-of-x dx".
+
+Foundations
+
+   There is more than one rigorous approach to the foundation of calculus.
+   The usual one is via the concept of limits defined on the continuum of
+   real numbers. An alternative is nonstandard analysis, in which the real
+   number system is augmented with infinitesimal and infinite numbers. The
+   tools of calculus include techniques associated with elementary
+   algebra, and mathematical induction. The foundations of calculus are
+   included in the field of real analysis, which contains all full
+   definitions and proofs of the theorems of calculus as well as
+   generalisations such as measure theory and distribution theory.
+
+Fundamental theorem
+
+   The fundamental theorem of calculus states that differentiation and
+   integration are, in a certain sense, inverse operations. More
+   precisely, if one defines one function as the integral of another
+   continuous function, then differentiating the newly defined function
+   returns the function you started with. Furthermore, if you want to find
+   the value of a definite integral, you usually do so by evaluating an
+   antiderivative.
+
+   Here is the mathematical formulation of the Fundamental Theorem of
+   Calculus: If a function f is continuous on the interval [a, b] and if F
+   is a function whose derivative is f on the interval [a, b], then
+
+          \int_{a}^{b} f(x)\,dx = F(b) - F(a).
+
+          Also, for every x in the interval [a, b],
+
+          \frac{d}{dx}\int_a^x f(t)\, dt = f(x).
+
+   This realization, made by both Newton and Leibniz, was key to the
+   massive proliferation of analytic results after their work became
+   known. The fundamental theorem provides an algebraic method of
+   computing many definite integrals—without performing limit processes—by
+   finding formulas for antiderivatives. It is also a prototype solution
+   of a differential equation. Differential equations relate an unknown
+   function to its derivatives, and are ubiquitous in the sciences.
+
+Applications
+
+   The development and use of calculus has had wide reaching effects on
+   all areas of modern living. It underlies nearly all of the sciences,
+   especially physics. Virtually all modern developments such as building
+   techniques, aviation, and other technologies make fundamental use of
+   calculus. Many algebraic formulas now used for ballistics, heating and
+   cooling, and other practical sciences were worked out through the use
+   of calculus. In a handbook, an algebraic formula based on calculus
+   methods may be applied without knowing its origins. The success of
+   calculus has been extended over time to differential equations, vector
+   calculus, calculus of variations, complex analysis, and differential
+   topology. Calculus has been used on a broad field of subjects, even
+   linguistics.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Calculus"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

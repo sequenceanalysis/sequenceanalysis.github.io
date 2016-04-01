@@ -1,0 +1,572 @@
+   #copyright
+
+Redshift
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics; Space
+(Astronomy)
+
+   Redshift of spectral lines in the optical spectrum of a supercluster of
+   distant galaxies (right), as compared with that of the Sun (left).
+   Wavelength increases up towards the red and beyond, (frequency
+   decreases)
+   Enlarge
+   Redshift of spectral lines in the optical spectrum of a supercluster of
+   distant galaxies (right), as compared with that of the Sun (left).
+   Wavelength increases up towards the red and beyond, (frequency
+   decreases)
+
+   In physics and astronomy, redshift occurs when the visible light from
+   an object is shifted towards the red end of the spectrum. More
+   generally, redshift is defined as an increase in the wavelength of
+   electromagnetic radiation received by a detector compared with the
+   wavelength emitted by the source. This increase in wavelength
+   corresponds to a decrease in the frequency of the electromagnetic
+   radiation. Conversely, a decrease in wavelength is called blueshift.
+
+   Any increase in wavelength is called "redshift" even if it occurs in
+   electromagnetic radiation of non-optical wavelengths, such as gamma
+   rays, x-rays and ultraviolet. This nomenclature might be confusing
+   since, at wavelengths longer than red (e.g. infrared, microwaves, and
+   radio waves), redshifts shift the radiation away from the red
+   wavelengths.
+
+   A redshift can occur when a light source moves away from an observer,
+   corresponding to the Doppler shift that changes the frequency of sound
+   waves. Although observing such redshifts has several terrestrial
+   applications (e.g. Doppler radar and radar guns), spectroscopic
+   astrophysics uses Doppler redshifts to determine the movement of
+   distant astronomical objects. This Doppler redshift phenomenon was
+   first predicted and observed in the nineteenth century as scientists
+   began to consider the dynamical implications of the wave-nature of
+   light.
+
+   Another redshift mechanism accounts for the famous observation that the
+   spectral redshifts of distant galaxies, quasars, and intergalactic gas
+   clouds are observed to increase proportionally with their distance to
+   the observer. This relation is accounted for by models that predict the
+   universe is expanding, seen in, for example, the Big Bang model. Yet a
+   third type of redshift, the gravitational redshift also known as the
+   Einstein effect, results from the time dilation that occurs in general
+   relativity near massive objects.
+
+History
+
+   Hippolyte Fizeau who first described the Doppler redshift
+   Enlarge
+   Hippolyte Fizeau who first described the Doppler redshift
+
+   The history of the subject begins with the development in the
+   nineteenth century of wave mechanics and the exploration of phenomena
+   associated with the Doppler effect. The effect is named after Christian
+   Andreas Doppler who offered the first known physical explanation for
+   the phenomenon in 1842. The hypothesis was tested and confirmed for
+   sound waves by the Dutch scientist Christoph Hendrik Diederik Buys
+   Ballot in 1845. Doppler correctly predicted that the phenomenon should
+   apply to all waves, and in particular suggested that the varying colors
+   of stars could be attributed to their motion with respect to the Earth.
+   While this attribution turned out to be incorrect (stellar colors are
+   indicators of a star's temperature, not motion), Doppler would later be
+   vindicated by verified redshift observations.
+
+   The first Doppler redshift was described by French physicist
+   Armand-Hippolyte-Louis Fizeau in 1848 who pointed to the shift in
+   spectral lines seen in stars as being due to the Doppler effect. The
+   effect is sometimes called the "Doppler-Fizeau effect". In 1868,
+   British astronomer William Huggins was the first to determine the
+   velocity of a star moving away from the Earth by this method.
+
+   In 1871, optical redshift is confirmed when the phenomenon is observed
+   in Fraunhofer lines using solar rotation, about 0.1 Å in the red. In
+   1901 Aristarkh Belopolsky verified optical redshift in the laboratory
+   using a system of rotating mirrors.
+
+   The earliest occurrence of the term "red-shift" in print (in this
+   hyphenated form), appears to be by American astronomer Walter S. Adams
+   in 1908, where he mentions "Two methods of investigating that nature of
+   the nebular red-shift". The word doesn't appear unhyphenated, perhaps
+   indicating a more common usage of its German equivalent,
+   Rotverschiebung, until about 1934 by Willem de Sitter.
+
+   Beginning with observations in 1912, Vesto Slipher discovered that most
+   spiral nebulae had considerable redshifts. Subsequently, Edwin Hubble
+   discovered an approximate relationship between the redshift of such
+   "nebulae" (now known to be galaxies in their own right) and the
+   distance to them with the formulation of his eponymous Hubble's law.
+   These observations are today considered strong evidence for an
+   expanding universe and the Big Bang theory.
+
+Measurement, characterization, and interpretation
+
+   A redshift can be measured by looking at the spectrum of light that
+   comes from a single source (see idealized spectrum illustration
+   top-right). If there are features in this spectrum such as absorption
+   lines, emission lines, or other variations in light intensity, then a
+   redshift can in principle be calculated. This requires comparing the
+   observed spectrum to a known spectrum with similar features. For
+   example, the atomic element hydrogen, when exposed to light, has a
+   definite signature spectrum that shows features at regular intervals.
+   If the same pattern of intervals is seen in an observed spectrum
+   occurring at shifted wavelengths, then a redshift can be measured for
+   the object. Determining the redshift of an object therefore requires a
+   frequency- or wavelength-range. Redshifts cannot be calculated by
+   looking at isolated features or with a spectrum that is featureless or
+   white noise (random fluctuations in a spectrum).
+
+   Redshift (and blueshift) may be characterized by the relative
+   difference between the observed and emitted wavelengths (or frequency)
+   of an object. In astronomy it is customary to refer to this change
+   using a dimensionless quantity called z. If λ represents wavelength and
+   f represents frequency (note, λf = c where c is the speed of light),
+   then z is defined by the equations:
+
+                     CAPTION: Measurement of redshift, z
+
+                   Based on wavelength Based on frequency
+                   z = \frac{\lambda_{\mathrm{observed}} -
+         \lambda_{\mathrm{emitted}}}{\lambda_{\mathrm{emitted}}} z =
+                        \frac{f_{\mathrm{emitted}} -
+                f_{\mathrm{observed}}}{f_{\mathrm{observed}}}
+    1+z = \frac{\lambda_{\mathrm{observed}}}{\lambda_{\mathrm{emitted}}}
+          1+z = \frac{f_{\mathrm{emitted}}}{f_{\mathrm{observed}}}
+
+   After z is measured, the distinction between redshift and blueshift is
+   simply a matter of whether z is positive or negative. According to the
+   mechanisms section below, there are some basic interpretations that
+   follow when either a redshift or blueshift is observed. For example,
+   Doppler effect blueshifts (z < 0) are associated with objects
+   approaching (moving closer) to the observer with the light shifting to
+   greater energies. Conversely, Doppler effect redshifts (z > 0) are
+   associated with objects receding (moving away) from the observer with
+   the light shifting to lower energies. Likewise, Einstein effect
+   blueshifts are associated with light entering a strong gravitational
+   field while Einstein effect redshifts imply light is leaving the field.
+
+Mechanisms
+
+   A single photon propagated through a vacuum can redshift in several
+   distinct ways. Each of these mechanisms produces a Doppler-like
+   redshift, meaning that z is independent of wavelength. These mechanisms
+   are described with Galilean, Lorentz, or general relativistic
+   transformations between one frame of reference and another.
+
+                          CAPTION: Redshift Summary
+
+      Redshift type Transformation frame Example of a metric Definition
+        Doppler redshift Galilean transformation Euclidean metric z =
+                                 \frac{v}{c}
+      Relativistic Doppler Lorentz transformation Minkowski metric z =
+                   \left(1 + \frac{v}{c}\right) \gamma - 1
+        Cosmological redshift General relativistic tr. FRW metric z =
+               \frac{a_{\mathrm{now}}}{a_{\mathrm{then}}} - 1
+    Gravitational redshift General relativistic tr. Schwarzschild metric
+            z=\frac{1}{\sqrt{1-\left(\frac{2GM}{rc^2}\right)}}-1
+
+Doppler effect
+
+   If a source of the light is moving away from an observer, then redshift
+   (z > 0) occurs; if the source moves towards the observer, then
+   blueshift (z < 0) occurs. This is true for all electromagnetic waves
+   and is explained by the Doppler effect. Consequently, this type of
+   redshift is called the Doppler redshift. If the source moves away from
+   the observer with velocity v, then, ignoring relativistic effects, the
+   redshift is given by
+
+          z \approx \frac{v}{c}     (Since \gamma \approx 1 , see below)
+
+   where c is the speed of light. In the classical Doppler effect, the
+   frequency of the source is not modified, but the recessional motion
+   causes the illusion of a lower frequency.
+
+Relativistic Doppler effect
+
+   A more complete treatment of the Doppler redshift requires considering
+   relativistic effects associated with motion of sources close to the
+   speed of light. A complete derivation of the effect can be found in the
+   article on the relativistic Doppler effect. In brief, objects moving
+   close to the speed of light will experience deviations from the above
+   formula due to the time dilation of special relativity which can be
+   corrected for by introducing the Lorentz factor γ into the classical
+   Doppler formula as follows:
+
+          1 + z = \left(1 + \frac{v}{c}\right) \gamma
+
+   This phenomenon was first observed in a 1938 experiment performed by
+   Herbert E. Ives and G.R. Stilwell, called the Ives-Stilwell experiment.
+
+   Since the Lorentz factor is dependent only on the magnitude of the
+   velocity, this causes the redshift associated with the relativistic
+   correction to be independent of the orientation of the source movement.
+   In contrast, the classical part of the formula is dependent on the
+   projection of the movement of the source into the line of sight which
+   yields different results for different orientations. Consequently, for
+   an object moving at an angle θ to the observer (zero angle is directly
+   away from the observer), the full form for the relativistic Doppler
+   effect becomes:
+
+          1+ z = \frac{1 + v \cos (\theta)/c}{\sqrt{1-v^2/c^2}}
+
+   and for motion solely in the line of sight (θ = 0°), this equation
+   reduces to:
+
+          1 + z = \sqrt{\frac{1 + \frac{v}{c}}{1 - \frac{v}{c}}}
+
+   For the special case that the source is moving at right angles (θ =
+   90°) to the detector, the relativistic redshift is known as the
+   transverse redshift, and a redshift is measured, even though the object
+   is not moving away from the observer. Even if the source is moving
+   towards the observer, if there is a transverse component to the motion
+   then there is some speed at which the dilation just cancels the
+   expected blueshift and at higher speed the approaching source will be
+   redshifted.
+
+Expansion of space
+
+   In the early part of the twentieth century, Slipher, Hubble and others
+   made the first measurements of the redshifts and blueshifts of galaxies
+   beyond the Milky Way. They initially interpreted these redshifts and
+   blueshifts as due solely to the Doppler effect, but later Hubble
+   discovered a rough correlation between the increasing redshifts and the
+   increasing distance of galaxies. Theorists almost immediately realized
+   that these observations could be explained by a different mechanism for
+   producing redshifts. Hubble's law of the correlation between redshifts
+   and distances is required by models of cosmology derived from general
+   relativity that have a metric expansion of space. As a result, photons
+   propagating through the expanding space are stretched, creating the
+   cosmological redshift. This differs from the Doppler effect redshifts
+   described above because the velocity boost (i.e. the Lorentz
+   transformation) between the source and observer is not due to classical
+   momentum and energy transfer, but instead the photons increase in
+   wavelength and redshift as the space through which they are traveling
+   expands. This effect is prescribed by the current cosmological model as
+   an observable manifestation of the time-dependent cosmic scale factor
+   (a) in the following way:
+
+          1+z = \frac{a_{\mathrm{now}}}{a_{\mathrm{then}}}.
+
+   This type of redshift is called the cosmological redshift or Hubble
+   redshift. If the universe were contracting instead of expanding, we
+   would see distant galaxies blueshifted by an amount proportional to
+   their distance instead of redshifted.
+
+   These galaxies are not receding simply by means of a physical velocity
+   in the direction away from the observer; instead, the intervening space
+   is stretching, which accounts for the large-scale isotropy of the
+   effect demanded by the cosmological principle. For cosmological
+   redshifts of z < 0.1 the effects of spacetime expansion are minimal and
+   observed redshifts dominated by the peculiar motions of the galaxies
+   relative to one another that cause additional Doppler redshifts and
+   blueshifts. The difference between physical velocity and space
+   expansion is clearly illustrated by the Expanding Rubber Sheet
+   Universe, a common cosmological analogy used to describe the expansion
+   of space. If two objects are represented by ball bearings and spacetime
+   by a stretching rubber sheet, the Doppler effect is caused by rolling
+   the balls across the sheet to create peculiar motion. The cosmological
+   redshift occurs when the ball bearings are stuck to the sheet and the
+   sheet is stretched. (Obviously there are dimensional problems with the
+   model, as the ball bearings should be in the sheet and cosmological
+   redshift produces higher velocities than Doppler if the distance
+   between two objects is far enough.)
+
+   In spite of the distinction between redshifts caused by the velocity of
+   objects and the redshifts associated with the expanding universe,
+   astronomers (especially professional ones) sometimes refer to
+   "recession velocity" in the context of the redshifting of distant
+   galaxies from the expansion of the Universe, even though it is only an
+   apparent recession. As a consequence, popular literature often uses the
+   expression "Doppler redshift" instead of "cosmological redshift" to
+   describe the motion of galaxies dominated by the expansion of
+   spacetime, despite the fact that a "cosmological recessional speed"
+   when calculated will not equal the velocity in the relativistic Doppler
+   equation. In particular, Doppler redshift is bound by special
+   relativity; thus v > c is impossible while, in contrast, v > c is
+   possible for cosmological redshift because the space which separates
+   the objects (e.g., a quasar from the Earth) can expand faster than the
+   speed of light. More mathematically, the viewpoint that "distant
+   galaxies are receding" and the viewpoint that "the space between
+   galaxies is expanding" are related by changing coordinate systems.
+   Expressing this precisely requires working with the mathematics of the
+   Robertson-Walker metric.
+
+Gravitational redshift
+
+   A graphical representation of the gravitational redshift due to a
+   neutron star.
+   Enlarge
+   A graphical representation of the gravitational redshift due to a
+   neutron star.
+
+   In the theory of general relativity, there is time dilation within a
+   gravitational well. This is known as the gravitational redshift or
+   Einstein Shift. The theoretical derivation of this effect follows from
+   the Schwarzschild solution of the Einstein equations which yields the
+   following formula for redshift associated with a photon traveling in
+   the gravitational field of an uncharged, nonrotating, spherically
+   symmetric mass:
+
+          1+z=\frac{1}{\sqrt{1-\left(\frac{2GM}{rc^2}\right)}} ,
+
+   where
+     * G is the gravitational constant,
+     * M is the mass of the object creating the gravitational field,
+     * r is the radial coordinate of the observer (which is analogous to
+       the classical distance from the centre of the object, but is
+       actually a Schwarzschild coordinate), and
+     * c is the speed of light.
+
+   This gravitational redshift results can be derived from the assumptions
+   of special relativity and the equivalence principle; the full theory of
+   general relativity is not required.
+
+   The effect is very small but measurable on Earth using the Mossbauer
+   effect and was first observed in the Pound-Rebka experiment. However,
+   it is significant near a black hole, and as an object approaches the
+   event horizon the red shift becomes infinite. It is also the dominant
+   cause of large angular-scale temperature fluctuations in the cosmic
+   microwave background radiation (see Sachs-Wolfe effect).
+
+Observations in astronomy
+
+   The redshift observed in astronomy can be measured because the emission
+   and absorption spectra for atoms are distinctive and well known,
+   calibrated from spectroscopic experiments in laboratories on Earth.
+   When the redshift of various absorption and emission lines from a
+   single astronomical object is measured, z is found to be remarkably
+   constant. (See Is the fine structure constant really constant?)
+   Although distant objects may be slightly blurred and lines broadened,
+   it is by no more than can be explained by thermal or mechanical motion
+   of the source. For these reasons and others, the consensus among
+   astronomers is that the redshifts they observe are due to some
+   combination of the three established forms of Doppler-like redshifts.
+   Alternative hypotheses are not generally considered plausible.
+
+   Spectroscopy, as a measurement, is considerably more difficult than
+   simple photometry which measures the brightness of astronomical objects
+   through certain filters. When photometric data is all that is available
+   (for example, the Hubble Deep Field and the Hubble Ultra Deep Field),
+   astronomers rely on a technique for measuring photometric redshifts.
+   Due to the filter being sensitive to a range of wavelengths and the
+   technique relying on making many assumptions about the nature of the
+   spectrum at the light-source, errors for these sorts of measurements
+   can range up to δz = 0.5, and are much less reliable than spectroscopic
+   determinations. However, photometry does allow at least for a
+   qualitative characterization of a redshift. For example, if a sun-like
+   spectrum had a redshift of z = 1, it would be brightest in the infrared
+   rather than at the yellow-green colour associated with the peak of its
+   blackbody spectrum, and the light intensity will be reduced in the
+   filter by a factor of two (1+z) (see K correction for more details on
+   the photometric consequences of redshift).
+
+Local observations
+
+   In nearby objects (within our Milky Way galaxy) observed redshifts are
+   almost always related to the line of sight velocities associated with
+   the objects being observed. Observations of such redshifts and
+   blueshifts have enabled astronomers to measure velocities and
+   parametrize the masses of the orbiting stars in spectroscopic binaries,
+   a method first employed in 1868 by British astronomer William Huggins.
+   Similarly, small redshifts and blueshifts detected in the spectroscopic
+   measurements of individual stars are one way astronomers have been able
+   to diagnose and measure the presence and characteristics of planetary
+   systems around other stars. Measurements of redshifts to fine detail
+   are used in helioseismology to determine the precise movements of the
+   photosphere of the Sun. Redshifts have also been used to make the first
+   measurements of the rotation rates of planets, velocities of
+   interstellar clouds, the rotation of galaxies, and the dynamics of
+   accretion onto neutron stars and black holes which exhibit both Doppler
+   and gravitational redshifts. Additionally, the temperatures of various
+   emitting and absorbing objects can be obtained by measuring Doppler
+   broadening — effectively redshifts and blueshifts over a single
+   emission or absorption line. By measuring the broadening and shifts of
+   the 21-centimeter hydrogen line in different directions, astronomers
+   have been able to measure the recessional velocities of interstellar
+   gas, which in turn reveals the rotation curve of our Milky Way. Similar
+   measurements have been performed on other galaxies, such as Andromeda.
+   As a diagnostic tool, redshift measurements are one of the most
+   important spectroscopic measurements made in astronomy.
+
+Extragalactic observations
+
+          Physical cosmology
+
+     * Age of the universe
+     * Big Bang
+     * Blueshift
+     * Comoving distance
+     * Cosmic microwave background
+     * Dark energy
+     * Dark matter
+     * FLRW metric
+     * Friedmann equations
+     * Galaxy formation
+     * Hubble's law
+     * Inflation
+     * Large-scale structure
+     * Lambda-CDM model
+     * Metric expansion of space
+     * Nucleosynthesis
+     * Observable universe
+     * Redshift
+     * Shape of the universe
+     * Structure formation
+     * Timeline of the Big Bang
+     * Timeline of cosmology
+     * Ultimate fate of the universe
+     * Universe
+
+            Related topics
+     * Astrophysics
+     * General relativity
+     * Particle physics
+     * Quantum gravity
+
+
+   The most distant objects exhibit larger redshifts corresponding to the
+   Hubble flow of the universe. The largest observed redshift,
+   corresponding to the greatest distance and furthest back in time, is
+   that of the cosmic microwave background radiation; the numerical value
+   of its redshift is about z = 1089 (z = 0 corresponds to present time),
+   and it shows the state of the Universe about 13.7 billion years ago,
+   and 379,000 years after the initial moments of the Big Bang.
+
+   The luminous point-like cores of quasars were the first "high-redshift"
+   (z > 0.1) objects discovered before the improvement of telescopes
+   allowed for the discovery of other high-redshift galaxies. Currently,
+   the highest measured quasar redshift is z = 6.4, with the highest
+   confirmed galaxy redshift being z = 7.0 while as-yet unconfirmed
+   reports from a gravitational lens observed in a distant galaxy cluster
+   may indicate a galaxy with a redshift of z = 10.
+
+   For galaxies more distant than the Local Group and the nearby Virgo
+   Cluster, but within a thousand megaparsecs or so, the redshift is
+   approximately proportional to the galaxy's distance. This correlation
+   was first observed by Edwin Hubble and has come to be known as Hubble's
+   law. Vesto Slipher was the first to discover galactic redshifts, in
+   about the year 1912, while Hubble correlated Slipher's measurements
+   with distances he measured by other means to formulate his Law. In the
+   widely accepted cosmological model based on general relativity,
+   redshift is mainly a result of the expansion of space: this means that
+   the farther away a galaxy is from us, the more the space has expanded
+   in the time since the light left that galaxy, so the more the light has
+   been stretched, the more redshifted the light is, and so the faster it
+   appears to be moving away from us. Hubble's law follows in part from
+   the Copernican principle. Because it is usually not known how luminous
+   objects are, measuring the redshift is easier than more direct distance
+   measurements, so redshift is sometimes in practice converted to a crude
+   distance measurement using Hubble's law.
+
+   Gravitational interactions of galaxies with each other and clusters
+   cause a significant scatter in the normal plot of the Hubble diagram.
+   The peculiar velocities associated with galaxies superimpose a rough
+   trace of the mass of virialized objects in the universe. This effect
+   leads to such phenomena as nearby galaxies (such as the Andromeda
+   Galaxy) exhibiting blueshifts as we fall towards a common barycenter,
+   and redshift maps of clusters showing a Finger of God effect due to the
+   scatter of peculiar velocities in a roughly spherical distribution.
+   This added component gives cosmologists a chance to measure the masses
+   of objects independent of the mass to light ratio (the ratio of a
+   galaxy's mass in solar masses to its brightness in solar luminosities),
+   an important tool for measuring dark matter.
+
+   For more distant galaxies, the relationship between current distance
+   and observed redshift becomes more complex. When one sees a distant
+   galaxy, one is seeing the galaxy as it was sometime in the past, when
+   the expansion rate of the Universe was different from what it is now.
+   At these early times, we expect differences in the expansion rate for
+   at least two reasons:
+    1. The gravitational attraction between galaxies has been acting to
+       slow down the expansion of the Universe since then.
+    2. The possible existence of a cosmological constant or quintessence
+       may be changing the expansion rate of the Universe
+
+   Recent observations have suggested the expansion of the Universe is not
+   slowing down, as expected from the first point, but accelerating. It is
+   widely, though not quite universally, believed that this is because
+   there is a form of dark energy dominating the evolution of the
+   universe. Such a cosmological constant implies that the ultimate fate
+   of the Universe is not a Big Crunch, but instead will continue to exist
+   foreseeably (though most physical processes within the Universe will
+   still come to an eventual end).
+
+   The expanding Universe is a central prediction of the Big Bang theory.
+   If extrapolated back in time, the theory predicts a "singularity", a
+   point in time when the Universe had infinite density. The theory of
+   general relativity, on which the Big Bang theory is based, breaks down
+   at this point. It is believed that a yet unknown theory of quantum
+   gravity would take over before the density becomes infinite.
+
+Redshift surveys
+
+   Rendering of the 2dFGRS data
+   Enlarge
+   Rendering of the 2dFGRS data
+
+   With the advent of automated telescopes and improvements in
+   spectroscopes, a number of collaborations have been made to map the
+   universe in redshift space. By combining redshift with angular position
+   data, a redshift survey maps the 3D distribution of matter within a
+   field of the sky. These observations are used to measure properties of
+   the large-scale structure of the universe. The Great Wall, a vast
+   supercluster of galaxies over 500 million light-years wide, provides a
+   dramatic example of a large-scale structure that redshift surveys can
+   detect.
+
+   The first redshift survey was the CfA Redshift Survey, started in 1977
+   with the initial data collection completed in 1982. More recently, the
+   2dF Galaxy Redshift Survey determined the large-scale structure of one
+   section of the Universe, measuring z-values for over 220,000 galaxies;
+   data collection was completed in 2002, and the final data set was
+   released 30 June 2003. (In addition to mapping large-scale patterns of
+   galaxies, 2dF established an upper limit on neutrino mass.) Another
+   notable investigation, the Sloan Digital Sky Survey (SDSS), is ongoing
+   as of 2005 and aims to obtain measurements on around 100 million
+   objects. SDSS has recorded redshifts for galaxies as high as 0.4, and
+   has been involved in the detection of quasars beyond z = 6. The DEEP2
+   Redshift Survey uses the Keck telescopes with the new "DEIMOS"
+   spectrograph; a follow-up to the pilot program DEEP1, DEEP2 is designed
+   to measure faint galaxies with redshifts 0.7 and above, and it is
+   therefore planned to provide a complement to SDSS and 2dF.
+
+Effects due to physical optics or radiative transfer
+
+   The interactions and phenomena summarized in the subjects of radiative
+   transfer and physical optics can result in shifts in the wavelength and
+   frequency of electromagnetic radiation. In such cases the shifts
+   correspond to a physical energy transfer to matter or other photons
+   rather than being due to a transformation between reference frames.
+   These shifts can be due to coherence effects (see Wolf effect) or due
+   to the scattering of electromagnetic radiation whether from charged
+   elementary particles, from particulates, or from fluctuations in a
+   dielectric medium. While such phenomena are sometimes referred to as
+   "redshifts" and "blueshifts", the physical interactions of the
+   electromagnetic radiation field with itself or intervening matter
+   distinguishes these phenomena from the reference-frame effects. In
+   astrophysics, light-matter interactions that result in energy shifts in
+   the radiation field are generally referred to as "reddening" rather
+   than "redshifting" which, as a term, is normally reserved for the
+   effects discussed above.
+
+   In many circumstances scattering causes radiation to redden because
+   entropy results in the predominance of many low energy photons over few
+   high energy ones (while conserving total energy). Except possibly under
+   carefully controlled conditions, scattering does not produce the same
+   relative change in wavelength across the whole spectrum; that is, any
+   calculated z is generally a function of wavelength. Furthermore,
+   scattering from random media generally occurs at many angles, and z is
+   a function of the scattering angle. If multiple scattering occurs, or
+   the scattering particles have relative motion, then there is generally
+   distortion of spectral lines as well.
+
+   In interstellar astronomy, visible spectra can appear redder due to
+   scattering processes in a phenomenon referred to as interstellar
+   reddening — similarly Rayleigh scattering causes the atmospheric
+   reddening of the sun seen in the sunrise or sunset and causes the rest
+   of the sky to have a blue colour. This phenomenon is distinct from
+   redshifting because the spectroscopic lines are not shifted to other
+   wavelengths in reddened objects and there is an additional dimming and
+   distortion associated with the phenomenon due to photons being
+   scattered in and out of the line of sight.
+   Retrieved from " http://en.wikipedia.org/wiki/Redshift"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

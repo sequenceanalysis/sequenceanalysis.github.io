@@ -1,0 +1,816 @@
+   #copyright
+
+Special relativity
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   The special theory of relativity was proposed in 1905 by Albert
+   Einstein in his article " On the Electrodynamics of Moving Bodies".
+   Some three centuries earlier, Galileo's principle of relativity had
+   stated that all uniform motion was relative, and that there was no
+   absolute and well-defined state of rest; a person on the deck of a ship
+   may be at rest in his opinion, but someone observing from the shore
+   would say that he was moving. Einstein's theory combines Galilean
+   relativity with the postulate that all observers will always measure
+   the speed of light to be the same no matter what their state of uniform
+   linear motion is.
+
+   This theory has a variety of surprising consequences that seem to
+   violate common sense, but that have been verified experimentally.
+   Special relativity overthrows Newtonian notions of absolute space and
+   time by stating that distance and time depend on the observer, and that
+   time and space are perceived differently, depending on the observer. It
+   yields the equivalence of matter and energy, as expressed in the famous
+   equation E=mc^2, where c is the speed of light. Special relativity
+   agrees with Newtonian mechanics in their common realm of applicability,
+   in experiments in which all velocities are small compared to the speed
+   of light.
+
+   The theory was called "special" because it applies the principle of
+   relativity only to inertial frames. Einstein developed general
+   relativity to apply the principle generally, that is, to any frame, and
+   that theory includes the effects of gravity. Special relativity doesn't
+   account for gravity, but it can deal with accelerations.
+
+   Although special relativity makes relative some quantities, such as
+   time, that we would have imagined to be absolute based on everyday
+   experience, it also makes absolute some others that we would have
+   thought were relative. In particular, it states that the speed of light
+   is the same for all observers, even if they are in motion relative to
+   one another. Special relativity reveals that c is not just the velocity
+   of a certain phenomenon - light - but rather a fundamental feature of
+   the way space and time are tied together. In particular, special
+   relativity states that it is impossible for any material object to
+   travel as fast as light.
+
+   For history and motivation, see the article: history of special
+   relativity
+
+Postulates
+
+    1. First postulate - Special principle of relativity - The laws of
+       physics are the same in all inertial frames of reference. In other
+       words, there are no privileged inertial frames of reference.
+    2. Second postulate - Invariance of c - The speed of light in a vacuum
+       is a universal constant (c) which is independent of the motion of
+       the light source.
+
+   The power of Einstein's argument stems from the manner in which he
+   derived startling and seemingly implausible results from two simple
+   assumptions that were founded on analysis of observations. An observer
+   attempting to measure the speed of light's propagation will get the
+   same answer no matter how the observer or the system's components are
+   moving.
+
+Consequences
+
+   Einstein has said that all of the consequences of special relativity
+   can be found from examination of the Lorentz transformations.
+
+   These transformations, and hence special relativity, lead to different
+   physical predictions than Newtonian mechanics when relative velocities
+   become comparable to the speed of light. The speed of light is so much
+   larger than anything humans encounter that some of the effects
+   predicted by relativity are initially counter-intuitive:
+     * Time dilation — the time lapse between two events is not invariant
+       from one observer to another, but is dependent on the relative
+       speeds of the observers' reference frames (e.g., the twin paradox
+       which concerns a twin who flies off in a spaceship travelling near
+       the speed of light and returns to discover that his twin has aged
+       much more).
+     * Relativity of simultaneity — two events happening in two different
+       locations that occur simultaneously to one observer, may occur at
+       different times to another observer (lack of absolute
+       simultaneity).
+     * Lorentz contraction — the dimensions (e.g., length) of an object as
+       measured by one observer may be smaller than the results of
+       measurements of the same object made by another observer (e.g., the
+       ladder paradox involves a long ladder travelling near the speed of
+       light and being contained within a smaller garage).
+     * Composition of velocities — velocities (and speeds) do not simply
+       'add', for example if a rocket is moving at ⅔ the speed of light
+       relative to an observer, and the rocket fires a missile at ⅔ of the
+       speed of light relative to the rocket, the missile does not exceed
+       the speed of light relative to the observer. (In this example, the
+       observer would see the missile travel with a speed of 12/13 the
+       speed of light.)
+     * Inertia and momentum — as an object's velocity gets closer to the
+       speed of light, it becomes more and more difficult to accelerate
+       it.
+     * Equivalence of mass and energy, E=mc^2 — mass and energy can be
+       converted to one another, and play equivalent roles (e.g., the
+       gravitational force on a falling apple is partly due to the kinetic
+       energies of the subatomic particles it is made of).
+
+Simultaneity
+
+   From the first equation of the Lorentz transformation in terms of
+   coordinate differences
+
+          \Delta t' = \gamma \left(\Delta t - \frac{v \Delta x}{c^{2}}
+          \right)
+
+   it is clear that two events that are simultaneous in frame S
+   (satisfying \Delta t = 0\, ), are not necessarily simultaneous in
+   another inertial frame S' (satisfying \Delta t' = 0\, ). Only if these
+   events are colocal in frame S (satisfying \Delta x = 0\, ), will they
+   be simultaneous in another frame S'.
+
+Time dilation and length contraction
+
+   Writing the Lorentz Transformation and its inverse in terms of
+   coordinate differences we get
+
+          \Delta t' = \gamma \left(\Delta t - \frac{v \Delta x}{c^{2}}
+          \right)
+          \Delta x' = \gamma (\Delta x - v \Delta t)\,
+
+   and
+
+          \Delta t = \gamma \left(\Delta t' + \frac{v \Delta x'}{c^{2}}
+          \right)
+          \Delta x = \gamma (\Delta x' + v \Delta t')\,
+
+   Suppose we have a clock at rest in the unprimed system S. Two
+   consecutive ticks of this clock are then characterized by Δx = 0. If we
+   want to know the relation between the times between these ticks as
+   measured in both systems, we can use the first equation and find
+
+          \Delta t' = \gamma \Delta t \,
+
+   This shows that the time Δt' between the two ticks as seen in the
+   'moving' frame S' is larger than the time Δt between these ticks as
+   measured in the rest frame of the clock. This phenomenon is called time
+   dilation.
+
+   Similarly, suppose we have a measuring rod at rest in the unprimed
+   system. In this system, the length of this rod is written as Δx. If we
+   want to find the length of this rod as measured in the 'moving' system
+   S', we must make sure to measure the distances x' to the end points of
+   the rod simultaneously in the primed frame S'. In other words, the
+   measurement is characterized by Δt' = 0, which we can combine with the
+   fourth equation to find the relation between the lengths Δx and Δx':
+
+          \Delta x' = \frac{\Delta x}{\gamma}
+
+   This shows that the length Δx' of the rod as measured in the 'moving'
+   frame S' is shorter than the length Δx in its own rest frame. This
+   phenomenon is called length contraction or Lorentz contraction.
+
+   These effects are not merely appearances; they are explicitly related
+   to our way of measuring time intervals between 'colocal' events and
+   distances between simultaneous events.
+
+   See also the twin paradox.
+
+Causality and prohibition of motion faster than light
+
+   Diagram 2. Light cone
+   Enlarge
+   Diagram 2. Light cone
+
+   In diagram 2 the interval AB is 'time-like'; i.e., there is a frame of
+   reference in which event A and event B occur at the same location in
+   space, separated only by occurring at different times. If A precedes B
+   in that frame, then A precedes B in all frames. It is hypothetically
+   possible for matter (or information) to travel from A to B, so there
+   can be a causal relationship (with A the cause and B the effect).
+
+   The interval AC in the diagram is 'space-like'; i.e., there is a frame
+   of reference in which event A and event C occur simultaneously,
+   separated only in space. However there are also frames in which A
+   precedes C (as shown) and frames in which C precedes A. If it was
+   possible for a cause-and-effect relationship to exist between events A
+   and C, then logical paradoxes would result. For example, if A was the
+   cause, and C the effect, then there would be frames of reference in
+   which the effect preceded the cause. Another way of looking at it is
+   that if there were a technology that allowed faster-than-light motion,
+   it would also function as a time machine. Therefore, one of the
+   consequences of special relativity is that (assuming causality is to be
+   preserved as a logical principle), no information or material object
+   can travel faster than light. On the other hand, the logical situation
+   is not as clear in the case of general relativity, so it is an open
+   question whether or not there is some fundamental principle that
+   preserves causality (and therefore prevents motion faster than light)
+   in general relativity.
+
+   Even without considerations of causality, there are other strong
+   reasons why faster-than-light travel is forbidden by special
+   relativity. For example, if a constant force is applied to an object
+   for a limitless amount of time, then integrating F=dp/dt gives a
+   momentum that grows without bound, but this is simply because p = mγv
+   approaches infinity as v approaches c. To an observer who is not
+   accelerating, it appears as though the object's inertia is increasing,
+   so as to produce a smaller acceleration in response to the same force.
+   This behaviour is in fact observed in particle accelerators.
+
+Composition of velocities
+
+   If the observer in S\! sees an object moving along the x\! axis at
+   velocity w\! , then the observer in the S'\! system, a frame of
+   reference moving at velocity v\! in the x\! direction with respect to
+   S\! , will see the object moving with velocity w'\! where
+
+          w'=\frac{w-v}{1-wv/c^2}.
+
+   This equation can be derived from the space and time transformations
+   above. Notice that if the object is moving at the speed of light in the
+   S\! system (i.e. w=c\! ), then it will also be moving at the speed of
+   light in the S'\! system. Also, if both w\! and v\! are small with
+   respect to the speed of light, we will recover the intuitive Galilean
+   transformation of velocities: w' \approx w-v\!.
+
+Mass, momentum, and energy
+
+   In addition to modifying notions of space and time, special relativity
+   forces one to reconsider the concepts of mass, momentum, and energy,
+   all of which are important constructs in Newtonian mechanics. Special
+   relativity shows, in fact, that these concepts are all different
+   aspects of the same physical quantity in much the same way that it
+   shows space and time to be interrelated.
+
+   There are a couple of (equivalent) ways to define momentum and energy
+   in SR. One method uses conservation laws. If these laws are to remain
+   valid in SR they must be true in every possible reference frame.
+   However, if one does some simple thought experiments using the
+   Newtonian definitions of momentum and energy one sees that these
+   quantities are not conserved in SR. One can rescue the idea of
+   conservation by making some small modifications to the definitions to
+   account for relativistic velocities. It is these new definitions which
+   are taken as the correct ones for momentum and energy in SR.
+
+   Given an object of invariant mass m traveling at velocity v the energy
+   and momentum are given (and even defined) by
+
+          E = \gamma m c^2 \,\!
+
+          \vec p = \gamma m \vec v \,\!
+
+   where γ (the Lorentz factor) is given by
+
+          \gamma = \frac{1}{\sqrt{1 - \beta^2}}
+
+   where β is the velocity as a ratio of the speed of light. The term γ
+   occurs frequently in relativity, and comes from the Lorentz
+   transformation equations.
+
+   Relativistic energy and momentum can be related through the formula
+
+          E^2 - (p c)^2 = (m c^2)^2 \,\!
+
+   which is referred to as the relativistic energy-momentum equation.
+
+   For velocities much smaller than those of light, γ can be approximated
+   using a Taylor series expansion and one finds that
+
+          E \approx m c^2 + \begin{matrix} \frac{1}{2} \end{matrix} m v^2
+          \,\!
+
+          \vec p \approx m \vec v \,\!
+
+   Barring the first term in the energy expression (discussed below),
+   these formulas agree exactly with the standard definitions of Newtonian
+   kinetic energy and momentum. This is as it should be, for special
+   relativity must agree with Newtonian mechanics at low velocities.
+
+   Looking at the above formulas for energy, one sees that when an object
+   is at rest (v = 0 and γ = 1) there is a non-zero energy remaining:
+
+          E_{rest} = m c^2 \,\!
+
+   This energy is referred to as rest energy. The rest energy does not
+   cause any conflict with the Newtonian theory because it is a constant
+   and, as far as kinetic energy is concerned, it is only differences in
+   energy which are meaningful.
+
+   Taking this formula at face value, we see that in relativity, mass is
+   simply another form of energy. In 1927 Einstein remarked about special
+   relativity:
+
+   Under this theory mass is not an unalterable magnitude, but a magnitude
+   dependent on (and, indeed, identical with) the amount of energy.
+
+   This formula becomes important when one measures the masses of
+   different atomic nuclei. By looking at the difference in masses, one
+   can predict which nuclei have extra stored energy that can be released
+   by nuclear reactions, providing important information which was useful
+   in the development of the nuclear bomb. The implications of this
+   formula on 20th-century life have made it one of the most famous
+   equations in all of science.
+
+Relativistic mass
+
+   Introductory physics courses and some older textbooks on special
+   relativity sometimes define a relativistic mass which increases as the
+   velocity of a body increases. According to the geometric interpretation
+   of special relativity, this is often deprecated and the term 'mass' is
+   reserved to mean invariant mass and is thus independent of the inertial
+   frame, i.e., invariant.
+
+   Using the relativistic mass definition, the mass of an object may vary
+   depending on the observer's inertial frame in the same way that other
+   properties such as its length may do so. Defining such a quantity may
+   sometimes be useful in that doing so simplifies a calculation by
+   restricting it to a specific frame. For example, consider a body with
+   an invariant mass m moving at some velocity relative to an observer's
+   reference system. That observer defines the relativistic mass of that
+   body as:
+
+          M = \gamma m\!
+
+   "Relativistic mass" should not be confused with the "longitudinal" and
+   "transverse mass" definitions that were used around 1900 and that were
+   based on an inconsistent application of the laws of Newton: those used
+   f=ma for a variable mass, while relativistic mass corresponds to
+   Newton's dynamic mass in which p=Mv and f=dp/dt.
+
+   Note also that the body does not actually become more massive in its
+   proper frame, since the relativistic mass is only different for an
+   observer in a different frame. The only mass that is frame independent
+   is the invariant mass. When using the relativistic mass, the used
+   reference frame should be specified if it isn't already obvious or
+   implied. It also goes almost without saying that the increase in
+   relativistic mass does not come from an increased number of atoms in
+   the object. Instead, the relativistic mass of each atom and subatomic
+   particle has increased.
+
+   Physics textbooks sometimes use the relativistic mass as it allows the
+   students to utilize their knowledge of Newtonian physics to gain some
+   intuitive grasp of relativity in their frame of choice (usually their
+   own!). "Relativistic mass" is also consistent with the concepts "time
+   dilation" and "length contraction".
+
+Force
+
+   The classical definition of ordinary force f is given by Newton's
+   Second Law in its original form:
+
+          \vec f = d\vec p/dt
+
+   and this is valid in relativity.
+
+   Many modern textbooks rewrite Newton's Second Law as
+
+          \vec f = M \vec a
+
+   This form is not valid in relativity or in other situations where the
+   relativistic mass M is varying.
+
+   This formula can be replaced in the relativistic case by
+
+          \vec f = \gamma m \vec a + \gamma^3 m \frac{\vec v \cdot \vec
+          a}{c^2} \vec v
+
+   As seen from the equation, ordinary force and acceleration vectors are
+   not necessarily parallel in relativity.
+
+   However the four-vector expression relating four-force F^\mu\, to
+   invariant mass m and four-acceleration A^\mu\, restors the same
+   equation form
+
+          F^\mu = mA^\mu\,
+
+The geometry of space-time
+
+   SR uses a 'flat' 4-dimensional Minkowski space, which is an example of
+   a space-time. This space, however, is very similar to the standard 3
+   dimensional Euclidean space, and fortunately by that fact, very easy to
+   work with.
+
+   The differential of distance(ds) in cartesian 3D space is defined as:
+
+          ds^2 = dx_1^2 + dx_2^2 + dx_3^2
+
+   where (dx[1],dx[2],dx[3]) are the differentials of the three spatial
+   dimensions. In the geometry of special relativity, a fourth dimension,
+   time, is added, with units of c, so that the equation for the
+   differential of distance becomes:
+
+          ds^2 = dx_1^2 + dx_2^2 + dx_3^2 - c^2 dt^2
+
+   If we wished to make the time coordinate look like the space
+   coordinates, we could treat time as imaginary: x[4] = ict . In this
+   case the above equation becomes symmetric:
+
+          ds^2 = dx_1^2 + dx_2^2 + dx_3^2 + dx_4^2
+
+   This suggests what is in fact a profound theoretical insight as it
+   shows that special relativity is simply a rotational symmetry of our
+   space-time, very similar to rotational symmetry of Euclidean space.
+   Just as Euclidean space uses a Euclidean metric, so space-time uses a
+   Minkowski metric. According to Misner (1971 §2.3), ultimately the
+   deeper understanding of both special and general relativity will come
+   from the study of the Minkowski metric (described below) rather than a
+   "disguised" Euclidean metric using ict as the time coordinate.
+
+   If we reduce the spatial dimensions to 2, so that we can represent the
+   physics in a 3-D space
+
+          ds^2 = dx_1^2 + dx_2^2 - c^2 dt^2
+
+   We see that the null geodesics lie along a dual-cone:
+
+   image:sr1.jpg
+
+   defined by the equation
+
+          ds^2 = 0 = dx_1^2 + dx_2^2 - c^2 dt^2
+
+   or
+
+          dx_1^2 + dx_2^2 = c^2 dt^2
+
+   Which is the equation of a circle with r=c*dt. If we extend this to
+   three spatial dimensions, the null geodesics are the 4-dimensional
+   cone:
+
+   image:sr3.jpg
+
+          ds^2 = 0 = dx_1^2 + dx_2^2 + dx_3^2 - c^2 dt^2
+
+          dx_1^2 + dx_2^2 + dx_3^2 = c^2 dt^2
+
+   This null dual-cone represents the "line of sight" of a point in space.
+   That is, when we look at the stars and say "The light from that star
+   which I am receiving is X years old", we are looking down this line of
+   sight: a null geodesic. We are looking at an event d =
+   \sqrt{x_1^2+x_2^2+x_3^2} meters away and d/c seconds in the past. For
+   this reason the null dual cone is also known as the 'light cone'. (The
+   point in the lower left of the picture below represents the star, the
+   origin represents the observer, and the line represents the null
+   geodesic "line of sight".)
+
+   image:sr1.jpg
+
+   The cone in the -t region is the information that the point is
+   'receiving', while the cone in the +t section is the information that
+   the point is 'sending'.
+
+   The geometry of Minkowski space can be depicted using Minkowski
+   diagrams, which are also useful in understanding many of the
+   thought-experiments in special relativity.
+
+Physics in spacetime
+
+   Here, we see how to write the equations of special relativity in a
+   manifestly invariant form. The position of an event in spacetime is
+   given by a contravariant four vector whose components are:
+
+          x^\nu=\left(t, x, y, z\right)
+
+   That is, x^0 = t and x^1 = x and x^2 = y and x^3 = z. Superscripts are
+   contravariant indices in this section rather than exponents except when
+   they indicate a square. Subscripts are covariant indices which also
+   range from zero to three as with the spacetime gradient of a field φ:
+
+          \partial_0 \phi = \frac{\partial \phi}{\partial t}, \quad
+          \partial_1 \phi = \frac{\partial \phi}{\partial x}, \quad
+          \partial_2 \phi = \frac{\partial \phi}{\partial y}, \quad
+          \partial_3 \phi = \frac{\partial \phi}{\partial z}.
+
+Metric and tranformations of coordinates
+
+   Having recognised the four-dimensional nature of spacetime, we are
+   driven to employ the Minkowski metric, η, given in components (valid in
+   any inertial reference frame) as:
+
+          \eta_{\alpha\beta} = \begin{pmatrix} -c^2 & 0 & 0 & 0\\ 0 & 1 &
+          0 & 0\\ 0 & 0 & 1 & 0\\ 0 & 0 & 0 & 1 \end{pmatrix}
+
+   Its reciprocal is:
+
+          \eta^{\alpha\beta} = \begin{pmatrix} -1/c^2 & 0 & 0 & 0\\ 0 & 1
+          & 0 & 0\\ 0 & 0 & 1 & 0\\ 0 & 0 & 0 & 1 \end{pmatrix}
+
+   Then we recognise that co-ordinate transformations between inertial
+   reference frames are given by the Lorentz transformation tensor Λ. For
+   the special case of motion along the x-axis, we have:
+
+          \Lambda^{\mu'}{}_\nu = \begin{pmatrix} \gamma & -\beta\gamma/c &
+          0 & 0\\ -\beta\gamma c & \gamma & 0 & 0\\ 0 & 0 & 1 & 0\\ 0 & 0
+          & 0 & 1 \end{pmatrix}
+
+   which is simply the matrix of a boost (like a rotation) between the x
+   and t coordinates. Where μ' indicates the row and ν indicates the
+   column. Also, β and γ are defined as:
+
+          \beta = \frac{v}{c},\ \gamma = \frac{1}{\sqrt{1-\beta^2}}.
+
+   More generally, a transformation from one inertial frame (ignoring
+   translations for simplicity) to another must satisfy:
+
+          \eta_{\alpha\beta} = \eta_{\mu'\nu'} \Lambda^{\mu'}{}_\alpha
+          \Lambda^{\nu'}{}_\beta \!
+
+   where there is an implied summation of \mu' \! and \nu' \! from 0 to 3
+   on the right-hand side in accordance with the Einstein summation
+   convention. The Poincaré group is the most general group of
+   transformations which preserves the Minkowski metric and this is the
+   physical symmetry underlying special relativity.
+
+   All proper physical quantities are given by tensors. So to transform
+   from one frame to another, we use the well known tensor transformation
+   law
+
+          T^{\left[i_1',i_2',...i_p'\right]}_{\left[j_1',j_2',...j_q'\righ
+          t]} =
+          \Lambda^{i_1'}{}_{i_1}\Lambda^{i_2'}{}_{i_2}...\Lambda^{i_p'}{}_
+          {i_p}
+          \Lambda_{j_1'}{}^{j_1}\Lambda_{j_2'}{}^{j_2}...\Lambda_{j_q'}{}^
+          {j_q}
+          T^{\left[i_1,i_2,...i_p\right]}_{\left[j_1,j_2,...j_q\right]}
+
+   Where \Lambda_{j_k'}{}^{j_k} \! is the reciprocal matrix of
+   \Lambda^{j_k'}{}_{j_k} \! .
+
+   To see how this is useful, we transform the position of an event from
+   an unprimed co-ordinate system S to a primed system S', we calculate
+
+          \begin{pmatrix} t'\\ x'\\ y'\\ z' \end{pmatrix} =
+          x^{\mu'}=\Lambda^{\mu'}{}_\nu x^\nu= \begin{pmatrix} \gamma &
+          -\beta\gamma/c & 0 & 0\\ -\beta\gamma c & \gamma & 0 & 0\\ 0 & 0
+          & 1 & 0\\ 0 & 0 & 0 & 1 \end{pmatrix} \begin{pmatrix} t\\ x\\
+          y\\ z \end{pmatrix} = \begin{pmatrix} \gamma t- \gamma\beta
+          x/c\\ \gamma x - \beta \gamma ct \\ y\\ z \end{pmatrix}
+
+   which is the Lorentz transformation given above. All tensors transform
+   by the same rule.
+
+   The squared length of the differential of the position four-vector
+   dx^\mu \! constructed using
+
+          \mathbf{dx}^2 = \eta_{\mu\nu}dx^\mu dx^\nu = -(c \cdot
+          dt)^2+(dx)^2+(dy)^2+(dz)^2\,
+
+   is an invariant. Being invariant means that it takes the same value in
+   all inertial frames, because it is a scalar (0 rank tensor), and so no
+   Λ appears in its trivial transformation. Notice that when the line
+   element \mathbf{dx}^2 is negative that d\tau=\sqrt{-\mathbf{dx}^2} / c
+   is the differential of proper time, while when \mathbf{dx}^2 is
+   positive, \sqrt{\mathbf{dx}^2} is differential of the proper distance.
+
+   The primary value of expressing the equations of physics in a tensor
+   form is that they are then manifestly invariant under the Poincaré
+   group, so that we do not have to do a special and tedious calculation
+   to check that fact. Also in constructing such equations we often find
+   that equations previously thought to be unrelated are, in fact, closely
+   connected being part of the same tensor equation.
+
+Velocity and acceleration in 4D
+
+   Recognising other physical quantities as tensors also simplifies their
+   transformation laws. First note that the velocity four-vector U^μ is
+   given by
+
+          U^\mu = \frac{dx^\mu}{d\tau} = \begin{pmatrix} \gamma \\ \gamma
+          v_x \\ \gamma v_y \\ \gamma v_z \end{pmatrix}
+
+   Recognising this, we can turn the awkward looking law about composition
+   of velocities into a simple statement about transforming the velocity
+   four-vector of one particle from one frame to another. U^μ also has an
+   invariant form:
+
+          {\mathbf U}^2 = \eta_{\nu\mu} U^\nu U^\mu = -c^2 .
+
+   So all velocity four-vectors have a magnitude of c. This is an
+   expression of the fact that there is no such thing as being at
+   coordinate rest in relativity: at the least, you are always moving
+   forward through time. The acceleration 4-vector is given by A^\mu =
+   d{\mathbf U^\mu}/d\tau . Given this, differentiating the above equation
+   by τ produces
+
+          2\eta_{\mu\nu}A^\mu U^\nu = 0. \!
+
+   So in relativity, the acceleration four-vector and the velocity
+   4-vector are orthogonal.
+
+Momentum in 4D
+
+   The momentum and energy combine into a covariant 4-vector:
+
+          p_\nu = m \cdot \eta_{\nu\mu} U^\mu = \begin{pmatrix} -E \\
+          p_x\\ p_y\\ p_z\end{pmatrix}.
+
+   where m is the invariant mass.
+
+   The invariant magnitude of the momentum 4-vector is:
+
+          \mathbf{p}^2 = \eta^{\mu\nu}p_\mu p_\nu = -(E/c)^2 + p^2 .
+
+   We can work out what this invariant is by first arguing that, since it
+   is a scalar, it doesn't matter which reference frame we calculate it,
+   and then by transforming to a frame where the total momentum is zero.
+
+          \mathbf{p}^2 = - (E_{rest}/c)^2 = - (m \cdot c)^2 .
+
+   We see that the rest energy is an independent invariant. A rest energy
+   can be calculated even for particles and systems in motion, by
+   translating to a frame in which momentum is zero.
+
+   The rest energy is related to the mass according to the celebrated
+   equation discussed above:
+
+          E_{rest} = m c^2\,
+
+   Note that the mass of systems measured in their centre of momentum
+   frame (where total momentum is zero) is given by the total energy of
+   the system in this frame. It may not be equal to the sum of individual
+   system masses measured in other frames.
+
+Force in 4D
+
+   To use Newton's third law of motion, both forces must be defined as the
+   rate of change of momentum with respect to the same time coordinate.
+   That is, it requires the 3D force defined above. Unfortunately, there
+   is no tensor in 4D which contains the components of the 3D force vector
+   among its components.
+
+   If a particle is not traveling at c, one can transform the 3D force
+   from the particle's co-moving reference frame into the observer's
+   reference frame. This yields a 4-vector called the four-force. It is
+   the rate of change of the above energy momentum four-vector with
+   respect to proper time. The covariant version of the four-force is:
+
+          F_\nu = \frac{d p_{\nu}}{d \tau} = \begin{pmatrix} -{d E}/{d
+          \tau} \\ {d p_x}/{d \tau} \\ {d p_y}/{d \tau} \\ {d p_z}/{d
+          \tau} \end{pmatrix}
+
+   where \tau \, is the proper time.
+
+   In the rest frame of the object, the time component of the four force
+   is zero unless the " invariant mass" of the object is changing in which
+   case it is the negative of that rate of change times c^2. In general,
+   though, the components of the four force are not equal to the
+   components of the three-force, because the three force is defined by
+   the rate of change of momentum with respect to coordinate time, i.e.
+   \frac{d p}{d t} while the four force is defined by the rate of change
+   of momentum with respect to proper time, i.e. \frac{d p} {d \tau} .
+
+   In a continuous medium, the 3D density of force combines with the
+   density of power to form a covariant 4-vector. The spatial part is the
+   result of dividing the force on a small cell (in 3-space) by the volume
+   of that cell. The time component is the negative of the power
+   transferred to that cell divided by the volume of the cell. This will
+   be used below in the section on electromagnetism.
+
+Relativity and unifying electromagnetism
+
+   The Lorentz transformation of the electric field of a moving charge
+   into a non-moving observer's reference frame results in the appearance
+   of a mathematical term commonly called the magnetic field. Conversely,
+   the magnetic field generated by a moving charge disappears and becomes
+   a purely electrostatic field in a comoving frame of reference.
+   Maxwell's equations are thus simply an empirical fit to special
+   relativistic effects in a classical model of the Universe. As electric
+   and magnetic fields are reference frame dependent and thus intertwined,
+   one speaks of electromagnetic fields. Special relativity provides the
+   transformation rules for how an electromagnetic field in one inertial
+   frame appears in another inertial frame.
+
+Electromagnetism in 4D
+
+   Maxwell's equations in the 3D form are already consistent with the
+   physical content of special relativity. But we must rewrite them to
+   make them manifestly invariant.
+
+   The charge density \rho \! and current density [J_x,J_y,J_z] \! are
+   unified into the current-charge 4-vector:
+
+          J^\mu = \begin{pmatrix} \rho \\ J_x\\ J_y\\ J_z\end{pmatrix}
+
+   The law of charge conservation becomes:
+
+          \partial_\mu J^\mu = 0. \!
+
+   The electric field [E_x,E_y,E_z] \! and the magnetic induction
+   [B_x,B_y,B_z] \! are now unified into the (rank 2 antisymmetric
+   covariant) electromagnetic field tensor:
+
+          F_{\mu\nu} = \begin{pmatrix} 0 & -E_x & -E_y & -E_z \\ E_x & 0 &
+          B_z & -B_y \\ E_y & -B_z & 0 & B_x \\ E_z & B_y & -B_x & 0
+          \end{pmatrix}
+
+   The density of the Lorentz force f_\mu \! exerted on matter by the
+   electromagnetic field becomes:
+
+          f_\mu = F_{\mu\nu}J^\nu .\!
+
+   Faraday's law of induction and Gauss's law for magnetism combine to
+   form:
+
+          \partial_\lambda F_{\mu\nu}+ \partial _\mu F_{\nu \lambda}+
+          \partial_\nu F_{\lambda \mu} = 0. \!
+
+   Although there appear to be 64 equations here, it actually reduces to
+   just four independent equations. Using the antisymmetry of the
+   electromagnetic field one can either reduce to an identity (0=0) or
+   render redundant all the equations except for those with λ,μ,ν = either
+   1,2,3 or 2,3,0 or 3,0,1 or 0,1,2.
+
+   The electric displacement [D_x,D_y,D_z] \! and the magnetic field
+   [H_x,H_y,H_z] \! are now unified into the (rank 2 antisymmetric
+   contravariant) electromagnetic displacement tensor:
+
+          \mathcal{D}^{\mu\nu} = \begin{pmatrix} 0 & D_x & D_y & D_z \\
+          -D_x & 0 & H_z & -H_y \\ -D_y & -H_z & 0 & H_x \\ -D_z & H_y &
+          -H_x & 0 \end{pmatrix}
+
+   Ampere's law and Gauss's law combine to form:
+
+          \partial_\nu \mathcal{D}^{\mu \nu} = J^{\mu}. \!
+
+   In a vacuum, the constitutive equations are:
+
+          \mu_0 \mathcal{D}^{\mu\nu} = \eta^{\mu\alpha} \eta^{\nu\beta}
+          F_{\alpha\beta}.
+
+   Antisymmetry reduces these 16 equations to just six independent
+   equations.
+
+   The energy density of the electromagnetic field combines with Poynting
+   vector and the Maxwell stress tensor to form the 4D stress-energy
+   tensor. It is the flux (density) of the momentum 4-vector and as a rank
+   2 mixed tensor it is:
+
+          T_\alpha^\pi = F_{\alpha\beta} \mathcal{D}^{\pi\beta} -
+          \frac{1}{4} \delta_\alpha^\pi F_{\mu\nu} \mathcal{D}^{\mu\nu}
+
+   where \delta_\alpha^\pi is the Kronecker delta. When upper index is
+   lowered with η, it becomes symmetric and is part of the source of the
+   gravitational field.
+
+   The conservation of linear momentum and energy by the electromagnetic
+   field is expressed by:
+
+          f_\mu + \partial_\nu T_\mu^\nu = 0\!
+
+   where f_\mu \! is again the density of the Lorentz force. This equation
+   can be deduced from the equations above (with considerable effort).
+
+Status
+
+   Special relativity is accurate only when gravitational potential is
+   much less than c^2; in a strong gravitational field one must use
+   general relativity (which becomes special relativity at the limit of
+   weak field). At very small scales, such as at the Planck length and
+   below quantum effects must be taken into consideration resulting in
+   quantum gravity. However, at macroscopic scales and in the absence of
+   strong gravitational fields, special relativity is experimentally
+   tested to extremely high degree of accuracy (10^-20) and thus accepted
+   by the physics community. Experimental results which appear to
+   contradict it are not reproducible and are thus widely believed to be
+   due to experimental errors.
+
+   Because of the freedom one has to select how one defines units of
+   length and time in physics, it is possible to make one of the two
+   postulates of relativity a tautological consequence of the definitions,
+   but one cannot do this for both postulates simultaneously, as when
+   combined they have consequences which are independent of one's choice
+   of definition of length and time.
+
+   Special relativity is mathematically self-consistent, and it is an
+   organic part of all modern physical theories, most notably quantum
+   field theory, string theory, and general relativity (in the limiting
+   case of negligible gravitational fields).
+
+   Newtonian mechanics mathematically follows from special relativity at
+   small velocities (compared to the speed of light) - thus Newtonian
+   mechanics can be considered as a special relativity of slow moving
+   bodies. See Status of special relativity for a more detailed
+   discussion.
+
+   A few key experiments can be mentioned that led to special relativity:
+     * The Trouton-Noble experiment showed that the torque on a capacitor
+       is independent on position and inertial reference frame — such
+       experiments led to the first postulate
+     * The famous Michelson-Morley experiment gave further support to the
+       postulate that detecting an absolute reference velocity was not
+       achievable. It should be stated here that, contrary to many
+       alternative claims, it said little about the invariance of the
+       speed of light with respect to the source and observers velocity,
+       as both source and observer were travelling together at the same
+       velocity at all times.
+
+   A number of experiments have been conducted to test special relativity
+   against rival theories. These include:
+     * Kaufman's experiment — electron deflection in exact accordance with
+       Lorentz-Einstein prediction
+     * Hamar experiment — no "ether flow obstruction"
+     * Kennedy-Thorndike experiment — time dilation in accordance with
+       Lorentz transformations
+     * Rossi-Hall experiment — relativistic effects on a fast-moving
+       particle's half-life
+     * Experiments to test emitter theory demonstrated that the speed of
+       light is independent of the speed of the emitter.
+
+   In addition, particle accelerators run almost every day somewhere in
+   the world, and routinely accelerate and measure the properties of
+   particles moving at near lightspeed. Many effects seen in particle
+   accelerators are highly consistent with relativity theory and are
+   deeply inconsistent with the earlier Newtonian mechanics.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Special_relativity"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

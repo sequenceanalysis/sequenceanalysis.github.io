@@ -1,0 +1,209 @@
+   #copyright
+
+Quantity
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Quantity is a kind of property which exists as magnitude or multitude.
+   It is among the basic classes of things along with quality, substance,
+   change, more than one and relation. Quantity was first introduced as
+   quantum, an entity having quantity. Being a fundamental term, quantity
+   is used to refer to any type of quantitative properties or attributes
+   of things. Some quantities are such by their inner nature (as number),
+   while others are functioning as states (properties, dimensions,
+   attributes) of things such as heavy and light, long and short, broad
+   and narrow, small and great, or much and little. A small quantity is
+   sometimes referred to as a quantulum.
+
+   Two basic divisions of quantity, magnitude and multitude (or number),
+   imply the principal distinction between continuity ( continuum) and
+   discontinuity.
+
+   Under the names of multitude come what is discontinuous and discrete
+   and divisible into indivisibles, all cases of collective nouns: army,
+   fleet, flock, government, company, party, people, chorus, crowd, mess,
+   and number. Under the names of magnitude come what is continuous and
+   unified and divisible into divisibles, all cases of non-collective
+   nouns: the universe, matter, mass, energy, liquid, material, animal,
+   plant, tree.
+
+   Along with analyzing its nature and classification, the issues of
+   quantity involve such closely related topics as the relation of
+   magnitudes and multitudes, dimensionality, equality, proportion, the
+   measurements of quantities, the units of measurements, number and
+   numbering systems, the types of numbers and their relations to each
+   other as numerical ratios.
+
+   Thus quantity is a property that exists in a range of magnitudes or
+   multitudes. Mass, time, distance, heat, and angular separation are
+   among the familiar examples of quantitative properties. Two magnitudes
+   of a continuous quantity stand in relation to one another as a ratio,
+   which is a real number.
+
+Background
+
+   The concept of quantity is an ancient one which extends back to the
+   time of Aristotle and earlier. Aristotle regarded quantity as a
+   fundamental ontological and scientific category. In Aristotle's
+   ontology, quantity or quantum was classified into two different types,
+   which he characterized as follows:
+
+          'Quantum' means that which is divisible into two or more
+          constituent parts of which each is by nature a 'one' and a
+          'this'. A quantum is a plurality if it is numerable, a magnitude
+          if it is measurable. 'Plurality' means that which is divisible
+          potentially into non-continuous parts, 'magnitude' that which is
+          divisible into continuous parts; of magnitude, that which is
+          continuous in one dimension is length; in two breadth, in three
+          depth. Of these, limited plurality is number, limited length is
+          a line, breadth a surface, depth a solid. (Aristotle, book v,
+          chapters 11-14, Metaphysics).
+
+   In his Elements, Euclid developed the theory of ratios of magnitudes
+   without studying the nature of magnitudes, as Archimedes, but giving
+   the following significant definitions:
+
+          A magnitude is a part of a magnitude, the less of the greater,
+          when it measures the greater; A ratio is a sort of relation in
+          respect of size between two magnitudes of the same kind.
+
+   For Aristotle and Euclid, relations were conceived as whole numbers
+   (Michell, 1993). John Wallis later conceived of ratios of magnitudes as
+   real numbers as reflected in the following:
+
+          When a comparison in terms of ratio is made, the resultant ratio
+          often [namely with the exception of the 'numerical genus'
+          itself] leaves the genus of quantities compared, and passes into
+          the numerical genus, whatever the genus of quantities compared
+          may have been. (John Wallis, Mathesis Universalis)
+
+   That is, the ratio of magnitudes of any quantity, whether volume, mass,
+   heat and so on, is a number. Following this, Newton then defined
+   number, and the relationship between quantity and number, in the
+   following terms: "By number we understand not so much a multitude of
+   unities, as the abstracted ratio of any quantity to another quantity of
+   the same kind, which we take for unity" (Newton, 1728).
+
+Quantitative structure
+
+   Continuous quantities possess a particular structure which was first
+   explicitly characterized by Hölder (1901) as a set of axioms which
+   define such features as identities and relations between magnitudes. In
+   science, quantitative structure is the subject of empirical
+   investigation and cannot be assumed to exist a priori for any given
+   property. The linear continuum represents the prototype of continuous
+   quantitative structure as characterized by Hölder (1901) (translated in
+   Michell & Ernst, 1996). A fundamental feature of any type of quantity
+   is that the relationships of equality or inequality can in principle be
+   stated in comparisons between particular magnitudes, unlike quality
+   which is marked by likeness, similarity and difference, diversity.
+   Another fundamental feature is additivity. Additivity may involve
+   concatenation, such as adding two lengths A and B to obtain a third A +
+   B. Additivity is not, however, restricted to extensive quantities but
+   may also entail relations between magnitudes that can be established
+   through experiments which permit tests of hypothesized observable
+   manifestations of the additive relations of magnitudes. Another feature
+   is continuity, on which Michell (1999, p. 51) says of length, as a type
+   of quantitative attribute, "what continuity means is that if any
+   arbitrary length, a, is selected as a unit, then for every positive
+   real number, r, there is a length b such that b = ra".
+
+Quantity in mathematics
+
+   Being of two types, magnitude and multitude (or number), quantities are
+   further divided as mathematical and physical. Formally, quantities
+   (numbers and magnitudes), their ratios, proportions, order and formal
+   relationships of equality and inequality, are studied by mathematics.
+   The essential part of mathematical quantities is made up with a
+   collection variables each assuming a set of values and coming as
+   scalar, vectors, or tensors, and functioning as infinitesimal,
+   arguments, independent or dependent variables, or random and stochastic
+   quantities. In mathematics, magnitudes and multitudes are not only two
+   kinds of quantity but they are also commensurable with each other. The
+   topics of the discrete quantities as numbers, number systems, with
+   their kinds and relations, fall into the number theory. Geometry
+   studies the issues of spatial magnitudes: straight lines (their length,
+   and relationships as parallels, perpendiculars, angles) and curved
+   lines (kinds and number and degree) with their relationships (tangents,
+   secants, and asymptotes). Also it encompasses surfaces and solids,
+   their transformations, measurements and relationships.
+
+Quantity in physical science
+
+   Establishing quantitative structure and relationships between different
+   quantities is the cornerstone of modern physical sciences. Physics is
+   fundamentally a quantitative science. Its progress is chiefly achieved
+   due to rendering the abstract qualities of material entities into the
+   primary quantities of physical things, by postulating that all material
+   bodies marked by quantitative properties or physical dimensions, which
+   are subject to some measurements and observations. Setting the units of
+   measurement, physics covers such fundamental quantities as space
+   (length, breadth, and depth) and time, mass and force, temperature,
+   energy and quantum.
+
+   Traditionally, a distinction has also been made between intensive
+   quantity and extensive quantity as two types of quantitative property,
+   state or relation. The magnitude of an intensive quantity does not
+   depend on the size, or extent, of the object or system of which the
+   quantity is a property whereas magnitudes of an extensive quantity are
+   additive for parts of an entity or subsystems. Thus, magnitude does
+   depend on the extent of the entity or system in the case of extensive
+   quantity. Examples of intensive quantities are density and pressure,
+   while examples of extensive quantities are energy, volume and mass.
+
+Quantity in logic and semantics
+
+   In respect to quantity, propositions are grouped as universal and
+   particular, applying to the whole subject or a part of the subject to
+   be predicated. Accordingly, there are existential and universal
+   quantifiers. In relation to the meaning of a construct, quantity
+   involves two semantic dimensions: 1. extension or extent (determining
+   the specific classes or individual instances indicated by the
+   construct) 2. intension (content or comprehension or definition)
+   measuring all the implications (relationships and associations involved
+   in a construct, its intrinsic, inherent, internal, built-in, and
+   constitutional implicit meanings and relations).
+
+Quantity in natural language
+
+   In human languages, including English, number is a syntactic category,
+   along with person and gender. The quantity is expressed by identifiers,
+   definite and indefinite, and quantifiers, definite and indefinite, as
+   well as by three types of nouns: 1. count unit nouns or countables; 2.
+   mass nouns, uncountables, referring to the indefinite, unidentified
+   amounts; 3. nouns of multitude (collective nouns). The word ‘number’
+   belongs to a noun of multitude standing either for a single entity or
+   for the individuals making the whole. An amount in general is expressed
+   by a special class of words called identifiers, indefinite and definite
+   and quantifiers, definite and indefinite. The amount may be expressed
+   by: singular form and plural from, ordinal numbers before a count noun
+   singular (first, second, third…), the demonstratives; definite and
+   indefinite numbers and measurements (hundred/hundreds,
+   million/millions), or cardinal numbers before count nouns. The set of
+   language quantifiers covers ‘’a few, a great number, many, several (for
+   count names); a bit of, a little, less, a great deal (amount) of, much
+   (for mass names); all, plenty of, a lot of, enough, more, most, some,
+   any, both, each, either, neither, every, no’’. For the complex case of
+   unidentified amounts, the parts and examples of a mass are indicated
+   with respect to the following: a measure of a mass (two kilos of rice
+   and twenty bottles of milk or ten pieces of paper); a piece or part of
+   a mass (part, element, atom, item, article, drop); or a shape of a
+   container (a basket, box, case, cup, bottle, vessel, jar).
+
+Further examples
+
+   Some further examples of quantities are:
+     * 1.76 litres (liters) of milk, a continuous quantity
+     * 2πr metres, where r is the length of a radius of a circle expressed
+       in metres (or meters), also a continuous quantity
+     * one apple, two apples, three apples, where the number is an integer
+       representing the count of a denumerable collection of objects
+       (apples)
+     * 500 people (also a count)
+     * a couple conventionally refers to two objects
+
+   Retrieved from " http://en.wikipedia.org/wiki/Quantity"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

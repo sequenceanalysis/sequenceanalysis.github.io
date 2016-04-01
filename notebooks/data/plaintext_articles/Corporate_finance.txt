@@ -1,0 +1,372 @@
+   #copyright
+
+Corporate finance
+
+2007 Schools Wikipedia Selection. Related subjects: Business
+
+   Corporate finance
+
+   Working capital management
+   Cash conversion cycle
+   Return on capital
+   Economic value added
+   Just In Time (business)
+   Economic order quantity
+   Discounts and allowances
+   Factoring (finance)
+
+   Capital budgeting
+   Capital investment decisions
+   The investment decision
+   The financing decision
+   Capital investment decisions
+
+   Sections
+   Managerial finance
+   Management accounting
+   Mergers and acquisitions
+   Balance sheet analysis
+   Business plan
+   Corporate action
+     __________________________________________________________________
+
+   Finance series
+   Financial market
+   Financial market participants
+   Corporate finance
+   Personal finance
+   Public finance
+   Banks and Banking
+   Financial regulation
+   v d e
+
+   Corporate finance is an area of finance dealing with the financial
+   decisions corporations make and the tools and analysis used to make
+   these decisions. The primary goal of corporate finance is to enhance
+   corporate value while reducing the firm's financial risks.
+   Equivalently, the goal is to maximize the corporations' return to
+   capital. Although it is in principle different from managerial finance
+   which studies the financial decisions of all firms, rather than
+   corporations alone, the main concepts in the study of corporate finance
+   are applicable to the financial problems of all kinds of firms.
+
+   The discipline can be divided into long-term and short-term decisions
+   and techniques. Capital investment decisions are long-term choices
+   about which projects receive investment, whether to finance that
+   investment with equity or debt, and when or whether to pay dividends to
+   shareholders. On the other hand, the short term decisions can be
+   grouped under the heading " Working capital management". This subject
+   deals with the short-term balance of current assets and current
+   liabilities; the focus here is on managing cash, inventories, and
+   short-term borrowing and lending (such as the terms on credit extended
+   to customers).
+
+   The terms Corporate finance and Corporate financier are also associated
+   with investment banking. The typical role of an investment banker is to
+   evaluate investment projects for a bank to make investment decisions.
+
+Capital investment decisions
+
+   Capital investment decisions are long-term corporate finance decisions
+   relating to fixed assets and capital structure. Decisions are based on
+   several inter-related criteria. Corporate management seeks to maximize
+   the value of the firm by investing in projects which yield a positive
+   net present value when valued using an appropriate discount rate. These
+   projects must also be financed appropriately. If no such opportunities
+   exist, maximizing shareholder value dictates that management return
+   excess cash to shareholders. Capital investment decisions thus comprise
+   an investment decision, a financing decision, and a dividend decision.
+
+The investment decision
+
+   Management must allocate limited resources between competing
+   opportunities ("projects") in a process known as capital budgeting.
+   Making this capital allocation decision requires estimating the value
+   of each opportunity or project: a function of the size, timing and
+   predictability of future cash flows.
+
+Project valuation
+
+   In general, each project's value will be estimated using a discounted
+   cash flow (DCF) valuation, and the opportunity with the highest value,
+   as measured by the resultant net present value (NPV) will be selected
+   (see Fisher separation theorem). This requires estimating the size and
+   timing of all of the incremental cash flows resulting from the project.
+   These future cash flows are then discounted to determine their present
+   value (see Time value of money). These present values are then summed,
+   and this sum is the NPV.
+
+   The NPV is greatly influenced by the discount rate. Thus selecting the
+   proper discount rate - the project "hurdle rate" - is critical to
+   making the right decision. The hurdle rate is the minimum acceptable
+   return on an investment - i.e. the project appropriate discount rate.
+   The hurdle rate should reflect the riskiness of the investment,
+   typically measured by volatility of cash flows, and must take into
+   account the financing mix. Managers use models such as the CAPM or the
+   APT to estimate a discount rate appropriate for a particular project,
+   and use the weighted average cost of capital (WACC) to reflect the
+   financing mix selected. (A common error in choosing a discount rate for
+   a project is to apply a WACC that applies to the entire firm. Such an
+   approach may not be appropriate where the risk of a particular project
+   differs markedly from that of the firm's existing portfolio of assets.)
+
+   In conjunction with NPV, there are several other measures used as
+   (secondary) selection criteria in corporate finance. These are visible
+   from the DCF and include payback, IRR, Modified IRR, equivalent
+   annuity, capital efficiency, and ROI.
+
+          See also: list of valuation topics, stock valuation, fundamental
+          analysis
+
+Valuing flexibility
+
+   In many cases, for example R&D projects, a project may open (or close)
+   paths of action to the company, but this reality will not typically be
+   captured in a strict NPV approach. Management will therefore
+   (sometimes) employ tools which place an explicit value on these
+   options. So, whereas in a DCF valuation the most likely or average or
+   scenario specific cash flows are discounted, here the “flexibile and
+   staged nature” of the investment is modelled, and hence "all" potential
+   payoffs are considered. The difference between the two valuations is
+   the "option value" inherent in the project.
+
+   The two most common tools are Decision Tree Analysis (DTA) and Real
+   option
+     * The DTA approach attempts to capture flexibility by incorporating
+       likely events and consequent management decisions into the
+       valuation. In the decision tree, each management decision in
+       response to an "event" generates a "branch" or "path" which the
+       company could follow. (For example, management will only proceed
+       with stage 2 of the project given that stage 1 was successful;
+       stage 3, in turn, depends on stage 2. In a DCF model, on the other
+       hand, there is no "branching" - each scenario must be modelled
+       separately.) The highest value path ( probability weighted) is
+       regarded as representative of project value
+
+     The following example shows a portfolio of 7 investment options
+     (projects), but the organization has only $10,000,000 available for
+     the total investment. The calculation uses discounted payoffs (PV:
+     Present values) in a 4 years projection. Bold lines mark the best
+     selection 1, 3, 6 and ,7 which will cost $7,740,000 and create a
+     payoff of 2,710,000. All other combinations would either exceed the
+     budget or yield a lower payoff: Image:Project Investment Portfolio
+     Occam s Tree.gif
+
+     * The real options approach is used when the value of a project is
+       contingent on the value of some other asset or underlying variable.
+       (For example, the viability of a mining project is contingent on
+       the price of gold; if the price is too low, management will abandon
+       the mining rights, if sufficiently high, management will develop
+       the ore body. Again, a DCF valuation would capture only one of
+       these outcomes.) Here, using financial option theory as a
+       framework, the decision to be taken is identified as corresponding
+       to either a call option or a put option - valuation is then via the
+       Binomial model or, less often for this purpose, via Black Scholes;
+       see Contingent claim valuation. The "true" value of the project is
+       then the NPV of the "most likely" scenario plus the option value.
+
+The financing decision
+
+   Achieving the goals of corporate finance requires that any corporate
+   investment be financed appropriately. As above, since both hurdle rate
+   and cash flows (and hence the riskiness of the firm) will be affected,
+   the financing mix can impact the valuation. Management must therefore
+   identify the "optimal mix" of financing – the capital structure that
+   results in maximum value. (See Balance sheet, WACC, Fisher separation
+   theorem; but, see also the Modigliani-Miller theorem.)
+
+   The sources of financing will, generically, comprise some combination
+   of debt and equity. Financing a project through debt results in a
+   liability that must be serviced - and hence there are cash flow
+   implications regardless of the project's success. Equity financing is
+   less risky in the sense of cash flow commitments, but results in a
+   dilution of ownership and earnings. The cost of equity is also
+   typically higher than the cost of debt (see CAPM and WACC), and so
+   equity financing may result in an increased hurdle rate which may
+   offset any reduction in cash flow risk.
+
+   Management must also attempt to match the financing mix to the asset
+   being financed as closely as possible, in terms of both timing and cash
+   flows.
+
+   One of the main theories of how firms make their financing decisions is
+   the Pecking Order Theory, which suggests that firms avoid external
+   financing while they have internal financing available and avoid new
+   equity financing while they can engage in new debt financing at
+   reasonably low interest rates. Another major theory is the Trade-Off
+   Theory in which firms are assumed to trade-off the Tax Benefits of debt
+   with the Bankruptcy Costs of debt when making their decisions. One last
+   theory about this decision is the Market timing hypothesis which states
+   that firms look for the cheaper type of financing regardless of their
+   current levels of internal resources, debt and equity.
+
+The dividend decision
+
+   In general, management must decide whether to invest in additional
+   projects, reinvest in existing operations, or return free cash as
+   dividends to shareholders. The dividend is calculated mainly on the
+   basis of the company's unappropriated profit and its business prospects
+   for the coming year. If there are no NPV positive opportunities, i.e.
+   where returns exceed the hurdle rate, then management must return
+   excess cash to investors - these free cash flows comprise cash
+   remaining after all business expenses have been met. (This is the
+   general case, however there are exceptions. For example, investors in a
+   " Growth stock", expect that the company will, almost by definition,
+   retain earnings so as to fund growth internally. In other cases, even
+   though an opportunity is currently NPV negative, management may
+   consider “investment flexibility” / potential payoffs and decide to
+   retain cash flows; see above and Real options.)
+
+   Management must also decide on the form of the distribution, generally
+   as cash dividends or via a share buyback. There are various
+   considerations: where shareholders pay tax on dividends, companies may
+   elect to retain earnings, or to perform a stock buyback, in both cases
+   increasing the value of shares outstanding; some companies will pay
+   "dividends" from stock rather than in cash. (See Corporate action.)
+   Today it is generally accepted that dividend policy is value neutral
+   (see Modigliani-Miller theorem).
+
+Working capital management
+
+   Decisions relating to working capital and short term financing are
+   referred to as working capital management. These involve managing the
+   relationship between a firm's short-term assets and its short-term
+   liabilities. The goal of Working capital management is to ensure that
+   the firm is able to continue its operations and that it has sufficient
+   cash flow to satisfy both maturing short-term debt and upcoming
+   operational expenses.
+
+Decision criteria
+
+   By definition, Working capital management entails short term decisions
+   - generally, relating to the next one year period - which are
+   "reversible". These decisions are therefore not taken on the same basis
+   as Capital Investment Decisions (NPV or related, as above) rather they
+   will be based on cash flows and / or profitability.
+     * One measure of cash flow is provided by the cash conversion cycle -
+       the net number of days from the outlay of cash for raw material to
+       receiving payment from the customer. As a management tool, this
+       metric makes explicit the inter-relatedness of decisions relating
+       to inventories, accounts receivable and payable, and cash. Because
+       this number effectively corresponds to the time that the firm's
+       cash is tied up in operations and unavailable for other activities,
+       management generally aims at a low net count.
+
+     * In this context, the most useful measure of profitability is Return
+       on capital (ROC). The result is shown as a percentage, determined
+       by dividing relevant income for the 12 months by capital employed;
+       Return on equity (ROE) shows this result for the firm's
+       shareholders. Firm value is enhanced when, and if, the return on
+       capital, which results from working capital management, exceeds the
+       cost of capital, which results from capital investment decisions as
+       above. ROC measures are therefore useful as a management tool, in
+       that they link short-term policy with long-term decision making.
+       See Economic value added (EVA).
+
+Management of working capital
+
+   Guided by the above criteria, management will use a combination of
+   policies and techniques for the management of working capital. These
+   policies aim at managing the current assets (generally cash and cash
+   equivalents, inventories and debtors) and the short term financing,
+   such that cash flows and returns are acceptable.
+     * Cash management. Identify the cash balance which allows for the
+       business to meet day to day expenses, but reduces cash holding
+       costs.
+
+     * Inventory management. Identify the level of inventory which allows
+       for uninterrupted production but reduces the investment in raw
+       materials - and minimizes reordering costs - and hence increases
+       cash flow; see Supply chain management; Just In Time (JIT);
+       Economic order quantity (EOQ); Economic production quantity (EPQ).
+
+     * Debtors management. Identify the appropriate credit policy, i.e.
+       credit terms which will attract customers, such that any impact on
+       cash flows and the cash conversion cycle will be offset by
+       increased revenue and hence Return on Capital (or vice versa); see
+       Discounts and allowances.
+
+     * Short term financing. Identify the appropriate source of financing,
+       given the cash conversion cycle: the inventory is ideally financed
+       by credit granted by the supplier; however, it may be necessary to
+       utilize a bank loan (or overdraft), or to "convert debtors to cash"
+       through " factoring".
+
+Financial risk management
+
+   Risk management is the process of measuring risk and then developing
+   and implementing strategies to manage that risk. Financial risk
+   management focuses on risks that can be managed (" hedged") using
+   traded financial instruments (typically changes in commodity prices ,
+   interest rates, foreign exchange rates and stock prices). Financial
+   risk management will also play an important role in cash management.
+
+   This area is related to corporate finance in two ways. Firstly, firm
+   exposure to business risk is a direct result of previous Investment and
+   Financing decisions. Secondly, both disciplines share the goal of
+   creating, or enhancing, firm value. All large corporations have risk
+   management teams, and small firms practice informal, if not formal,
+   risk management.
+
+   Derivatives are the instruments most commonly used in Financial risk
+   management. Because unique derivative contracts tend to be costly to
+   create and monitor, the most cost-effective financial risk management
+   methods usually involve derivatives that trade on well-established
+   financial markets. These standard derivative instruments include
+   options, futures contracts, forward contracts, and swaps.
+
+          See: Financial engineering; Financial risk; Default (finance);
+          Credit risk; Interest rate risk; Liquidity risk; Market risk;
+          Operational risk; Volatility risk; Settlement risk.
+
+Relationship with other areas in finance
+
+Investment banking
+
+   Use of the term “corporate finance” varies considerably across the
+   world. In the United States it is used, as above, to describe
+   activities, decisions and techniques that deal with many aspects of a
+   company’s finances and capital. In the United Kingdom and Commonwealth
+   countries, the terms “corporate finance” and “corporate financier” tend
+   to be associated with investment banking - i.e. with transactions in
+   which capital is raised for the corporation.
+
+Personal and public finance
+
+   Corporate finance utilizes tools from almost all areas of finance. Some
+   of the tools developed by and for corporations have broad application
+   to entities other than corporations, for example, to partnerships, sole
+   proprietorships, not-for-profit organizations, governments, mutual
+   funds, and personal wealth management. But in other cases their
+   application is very limited outside of the corporate finance arena.
+   Because corporations deal in quantities of money much greater than
+   individuals, the analysis has developed into a discipline of its own.
+   It can be differentiated from personal finance and public finance.
+
+Related Professional Qualifications
+
+   The new internationally recognised Corporate Finance Qualification (CF)
+   is the only directly related professional qualification, although many
+   others traditionally can lead to the field:
+     * Qualified accountant qualifications: Chartered Accountant ( ACA),
+       Certified Public Accountant ( CPA)
+
+     * Other non-statutory accountancy qualifications: Chartered Cost
+       Accountant (CCA Designation from AAFM), Certified Management
+       Accountant (CMA), Chartered Management Accountant (ACMA)
+
+     * Business qualifications: Master of Business Administration ( MBA),
+       Master of Finance & Control ( MFC), Doctor of Business
+       Administration ( DBA)
+
+     * Finance qualifications: Masters degree in Finance (MSF), Corporate
+       Finance Qualification (CF), Chartered Financial Analyst (CFA),
+       Certified International Investment Analyst(CIIA) , Association of
+       Corporate Treasurers (ACT), Certified Market Analyst (CMA/FAD) Dual
+       Designation, Master Financial Manager (MFM).
+
+   Retrieved from " http://en.wikipedia.org/wiki/Corporate_finance"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

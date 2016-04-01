@@ -1,0 +1,393 @@
+   #copyright
+
+Benzene
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+          You may be looking for benzine or Benzin, which are pronounced
+          the same as benzene.
+
+                               Benzene
+                              Benzene
+                               General
+         Systematic name                                      Benzene
+             Other names                                       Benzol
+                                                1,3,5-cyclohexatriene
+       Molecular formula                                     C[6]H[6]
+                  SMILES                                     c1ccccc1
+                                                          C1=CC=CC=C1
+                   InChI                                 InChI=1/C6H6
+                                                /c1-2-4-6-5-3-1/h1-6H
+              Molar mass                                78.1121 g/mol
+              Appearance                             Colorless liquid
+              CAS number                                    [71-43-2]
+                             Properties
+       Density and phase                         0.8786 g/cm³, liquid
+     Solubility in water                             1.79 g/L (25 °C)
+           Melting point                             5.5 °C (278.6 K)
+           Boiling point                            80.1 °C (353.2 K)
+               Viscosity                            0.652 cP at 20 °C
+                              Structure
+         Molecular shape                                       Planar
+          Symmetry group                                        D[6h]
+           Dipole moment                                          0 D
+                               Hazards
+                    MSDS                                External MSDS
+       EU classification              Flammable (F)
+                                            Carc. Cat. 1
+                                            Muta. Cat. 2
+                                                            Toxic (T)
+                NFPA 704
+
+                         3
+                         2
+                         0
+
+               R-phrases                       R45, R46, R11, R36/38,
+                                                    R48/23/24/25, R65
+               S-phrases                                     S53, S45
+             Flash point                                       −11 °C
+Autoignition temperature                                       561 °C
+            RTECS number                                    CY1400000
+                          Related compounds
+                 Related
+            hydrocarbons                                  cyclohexane
+                                                          naphthalene
+       Related compounds                                      toluene
+                                                             borazine
+          Except where noted otherwise, data are given for
+                materials in their standard state (at 25°C, 100 kPa)
+                                    Infobox disclaimer and references
+
+   Benzene, also known as benzol, is an organic chemical compound with the
+   formula C[6]H[6]. It is sometimes abbreviated PhH. Benzene is a
+   colorless and flammable liquid with a sweet smell and a relatively high
+   melting point. It is carcinogenic and its use as additive in gasoline
+   is now limited, but it is an important industrial solvent and precursor
+   in the production of drugs, plastics, synthetic rubber, and dyes.
+   Benzene is a natural constituent of crude oil, but it is usually
+   synthesized from other compounds present in petroleum. Benzene is an
+   aromatic hydrocarbon and the second [n]- annulene (-annulene).
+
+History
+
+   Benzene has been the subject of many studies by many famous scientists
+   ranging from Michael Faraday to Linus Pauling. In 1825 Faraday reported
+   its isolation from oil gas and gave it the name bicarburet of hydrogen.
+   In 1833, Eilhard Mitscherlich produced it via the distillation of
+   benzoic acid (from gum benzoin) and lime. Mitscherlich gave the
+   compound the name benzin. In 1845, Charles Mansfield, working under
+   August Wilhelm von Hofmann, isolated benzene from coal tar. Four years
+   later, Mansfield began the first industrial-scale production of
+   benzene, based on the coal-tar method.
+
+Structure
+
+   The formula of benzene (C[6]H[6]) mystified scientists who could not
+   figure out its structure. Friedrich August Kekulé von Stradonitz was
+   the first to deduce the ring structure of benzene. An often-repeated
+   story claims that after years of studying carbon bonding, benzene and
+   related molecules, he dreamt one night of the Ouroboros, a snake eating
+   its own tail, and that upon waking he was inspired to deduce the ring
+   structure of benzene. Other common tale is he obtained the inspiration
+   from the figure of an hexagon in a tabern sign in Germany. However, the
+   story first appeared in the Berichte der Durstigen Chemischen
+   Gesellschaft (Journal of the Thirsty Chemical Society), a parody of the
+   Berichte der Deutschen Chemischen Gesellschaft, which appeared annually
+   in the late-19th century on the occasion of the congress of German
+   chemists; accordingly, it is probably to be treated with
+   circumspection.
+
+   While his (more formal) claims were well-publicized and accepted, by
+   the early-1920s Kekulé's biographer came to the conclusion that
+   Kekulé's understanding of the tetravalent nature of carbon bonding
+   depended on the previous research of Archibald Scott Couper
+   (1831-1892); furthermore, Josef Loschmidt (1821-1895) had earlier
+   posited a cyclic structure for benzene as early as 1861. The cyclic
+   nature of benzene was finally confirmed by the eminent crystallographer
+   Kathleen Lonsdale.
+
+   Benzene presents a special problem in that, to account for all the
+   bonds, there must be alternating double carbon bonds:
+
+   Benzene with alternating double bonds
+
+   Using X-ray diffraction, researchers discovered that all of the
+   carbon-carbon bonds in benzene are of the same length of 140 picometres
+   (pm). The C-C bond lengths are greater than a double bond (134pm) but
+   shorter than a single bond (147pm). This intermediate distance is
+   explained by electron delocalization: the electrons for C-C bonding are
+   distributed equally between each of the six carbon atoms. One
+   representation is that the structure exists as a superposition of
+   so-called resonance structures, rather than either form individually.
+   This delocalisation of electrons is known as aromaticity, and gives
+   benzene great stability. This enhanced stability is the fundamental
+   property of aromatic molecules that differentiates them from molecules
+   that are non-aromatic. To reflect the delocalised nature of the
+   bonding, benzene is often depicted with a circle inside a hexagonal
+   arrangement of carbon atoms:
+
+   Benzene structure with a circle inside the hexagon
+
+   As is common in organic chemistry, the carbon atoms in the diagram
+   above have been left unlabeled.
+
+   Benzene occurs sufficiently often as a component of organic molecules
+   that there is a Unicode symbol with the code 232C to represent it:
+
+   ⌬
+
+   Many fonts do not have this Unicode character, so a browser may not be
+   able to display it correctly.
+
+Substituted benzene derivatives
+
+   Many important chemicals are derived from benzene, wherein with one or
+   more of the hydrogen atoms is replaced with another functional group.
+   Examples of simple benzene derivatives are phenol, toluene, and
+   aniline, abbreviated PhOH,PhMe, and PhNH[2], respectively. Linking
+   benzene rings gives biphenyl, C[6]H[5]-C[6]H[5]. Further loss of
+   hydrogen gives "fused" aromatic hydrocarbons, such naphthalene and
+   anthracene. The limit of the fusion process is the hydrogen-free
+   material graphite.
+
+   In heterocycles, carbon atoms in the benzene ring are replaced with
+   other elements. The most important derivatives are the rings containing
+   nitrogen. Replacing one CH with N gives the compound pyridine,
+   C[5]H[5]N. Although benzene and pyridine are structurally related,
+   benzene cannot be converted into pyridine. Replacement of a second CH
+   bond with N gives, depending on the location of the second N,
+   pyridazine, pyrimidine, and pyrazine.
+
+Production
+
+   Trace amounts of benzene may result whenever carbon-rich materials
+   undergo incomplete combustion. It is produced in volcanoes and forest
+   fires, and is also a component of cigarette smoke.
+
+   Up until World War II, most benzene was produced as a byproduct of coke
+   production in the steel industry. However, in the 1950s, increased
+   demand for benzene, especially from the growing plastics industry,
+   necessitated the production of benzene from petroleum. Today, most
+   benzene comes from the petrochemical industry, with only a small
+   fraction being produced from coal.
+
+   Three chemical processes contribute equally to industrial benzene
+   production: catalytic reforming, toluene hydrodealkylation, and steam
+   cracking.
+
+Catalytic reforming
+
+   In catalytic reforming, a mixture of hydrocarbons with boiling points
+   between 60-200 °C is blended with hydrogen gas and then exposed to a
+   bifunctional platinum chloride or rhenium chloride catalyst at 500-525
+   °C and pressures ranging from 8-50 atm. Under these conditions,
+   aliphatic hydrocarbons form rings and lose hydrogen to become aromatic
+   hydrocarbons. The aromatic products of the reaction are then separated
+   from the reaction mixture by extraction with any one of a number of
+   solvents, including diethylene glycol or sulfolane, and benzene is then
+   separated from the other aromatics by distillation.
+
+Toluene hydrodealkylation
+
+   Toluene hydrodealkylation converts toluene to benzene. In this process,
+   toluene is mixed with hydrogen, then passed over a chromium,
+   molybdenum, or platinum oxide catalyst at 500-600 °C and 40-60 atm
+   pressure. Sometimes, higher temperatures are used instead of a
+   catalyst. Under these conditions, toluene undergoes dealkylation
+   according to the chemical equation:
+
+          C[6]H[5]CH[3] + H[2] → C[6]H[6] + CH[4]
+
+   This irreversible reaction is accompanied by an equilibrium side
+   reaction that produces biphenyl (aka diphenyl): 2C6H6 ↔ H2 + C12H10
+
+   Typical reaction yields exceed 95%. Sometimes, xylene and heavier
+   aromatics are used in place of toluene, with similar efficiency.
+
+Toluene disproportionation
+
+   Where a chemical complex has similar demands for both benzene and
+   xylene, then toluene disproportionation (TDP) may be an attractive
+   alternative. Broadly speaking 2 toluene molecules are reacted and the
+   methyl groups rearranged from one toluene molecule to the other,
+   yielding one benzene molecule and one xylene molecule.
+
+   Given that demand for para-xylene ( p-xylene) substantially exceeds
+   demand for other xylene isomers, a refinement of the TDP process called
+   Selective TDP (STDP) may be used. In this process, the xylene stream
+   exiting the TDP unit is approximately 90% paraxylene.
+
+Steam cracking
+
+   Steam cracking is the process for producing ethylene and other olefins
+   from aliphatic hydrocarbons. Depending on the feedstock used to produce
+   the olefins, steam cracking can produce a benzene-rich liquid byproduct
+   called pyrolysis gasoline. Pyrolysis gasoline can be blended with other
+   hydrocarbons as a gasoline additive, or distilled to separate it into
+   its components, including benzene.
+
+Uses
+
+Early uses
+
+   In the 19th and early-20th centuries, benzene was used as an
+   after-shave lotion and for douches because of its pleasant smell. Prior
+   to the 1920s, benzene was frequently used as an industrial solvent,
+   especially for degreasing metal. As its toxicity became obvious,
+   benzene has been supplanted by other solvents.
+
+   In 1903, Lugwig Roselius popularized the use of benzene to decaffeinate
+   coffee. This discovery lead to the production of Sanka, -ka for
+   kaffein. This process was later discontinued.
+
+   As a petrol additive, benzene increases the octane rating and reduces
+   knocking. Consequently, petrol often contained several percent benzene
+   before the 1950s, when tetraethyl lead replaced it as the most
+   widely-used antiknock additive. However, with the global phaseout of
+   leaded petrol, benzene has made a comeback as a gasoline additive in
+   some nations. In the United States, concern over its negative health
+   effects and the possibility of benzene entering the groundwater have
+   led to stringent regulation of petrol's benzene content, with values
+   around 1% typical. European petrol specifications now contain the same
+   1% limit on benzene content.
+
+Current uses of benzene
+
+   Today benzene is mainly used as an intermediate to make other
+   chemicals. Its most widely-produced derivatives include styrene, which
+   is used to make polymers and plastics, phenol for resins and adhesives
+   (via cumene), and cyclohexane, which is used in the manufacture of
+   Nylon. Smaller amounts of benzene are used to make some types of
+   rubbers, lubricants, dyes, detergents, drugs, explosives and
+   pesticides.
+
+   In laboratory research, toluene is now often used as a substitute for
+   benzene. The solvent-properties of the two are similar but toluene is
+   less toxic and has a wider liquid range.
+
+   Benzene has been used as a basic research tool in a variety of
+   experiments including analysis of a two-dimensional gas.
+
+Reactions of benzene
+
+   Electrophilic aromatic substitution of benzene
+     * Electrophilic aromatic substitution is a general method of
+       derivatizing benzene. Benzene is sufficiently nucleophilic that it
+       undergoes substitution by acylium ions or alkyl carbocations to
+       afford give substituted derivatives.
+
+   Friedel-Crafts acylation of benzene by acetyl chloride
+     *
+          + The Friedel-Crafts acylation is a specific example of
+            electrophilic aromatic substitution. The reaction involves the
+            acylation of benzene (or many other aromatic rings) with an
+            acyl chloride using a strong Lewis acid catalyst such as
+            aluminium chloride..
+
+   Friedel-Crafts alkylation of benzene with methyl chloride
+     *
+          + Like the Friedel-Crafts acylation, the Friedel-Crafts
+            alkylation involves the alkylation of benzene (and many other
+            aromatic rings) usng an alkyl halide in the presence of a
+            strong Lewis acid catalyst.
+
+     *
+          + sulfonation.
+          + Nitration: Benzene undergoes nitration with nitronioum ions
+            (NO[2]^+) as the electrophile. Thus, warming benzene with a
+            combination of concentrated sulphuric and nitric acid gives
+            nitrobenzene.
+     * Hydrogenation: Benzene and derivatives convert to cyclohexane and
+       derivatives when treated with hydrogen at high hydrogen pressures.
+     * Benzene is an excellent ligand in the organometallic chemistry of
+       low-valent metals. Important examples include the sandwich and
+       half-sandwich complexes respectively Cr(C[6]H[6])[2] and
+       [RuCl[2](C[6]H[6])][2].
+
+Health effects
+
+   Benzene exposure has serious health effects. Breathing high levels of
+   benzene can result in death, while low levels can cause drowsiness,
+   dizziness, rapid heart rate, headaches, tremors, confusion, and
+   unconsciousness. Eating or drinking foods containing high levels of
+   benzene can cause vomiting, irritation of the stomach, dizziness,
+   sleepiness, convulsions, rapid heart rate, and death.
+
+   The major effect of benzene from chronic (long-term) exposure is to the
+   blood. Benzene damages the bone marrow and can cause a decrease in red
+   blood cells, leading to anaemia. It can also cause excessive bleeding
+   and depress the immune system, increasing the chance of infection.
+
+   Some women who breathed high levels of benzene for many months had
+   irregular menstrual periods and a decrease in the size of their
+   ovaries. It is not known whether benzene exposure affects the
+   developing fetus in pregnant women or fertility in men.
+
+   Animal studies have shown low birth weights, delayed bone formation,
+   and bone marrow damage when pregnant animals breathed benzene.
+
+   The US Department of Health and Human Services (DHHS) classifies
+   benzene as a human carcinogen. Long-term exposure to high levels of
+   benzene in the air can cause leukemia, a potentially fatal cancer of
+   the blood-forming organs. In particular, Acute Myeloid Leukemia (AML)
+   may be caused by benzene.
+
+   Several tests can show if you have been exposed to benzene. There is a
+   test for measuring benzene in the breath; this test must be done
+   shortly after exposure. Benzene can also be measured in the blood;
+   however, because benzene disappears rapidly from the blood,
+   measurements are accurate only for recent exposures.
+
+   In the body, benzene is metabolized. Certain metabolites can be
+   measured in the urine. However, this test must be done shortly after
+   exposure and is not a reliable indicator of how much benzene you have
+   been exposed to, since the same metabolites may be present in urine
+   from other sources.
+
+   The US Environmental Protection Agency has set the maximum permissible
+   level of benzene in drinking water at 0.005 milligrams per liter (0.005
+   mg/L). The EPA requires that spills or accidental releases into the
+   environment of 10 pounds (4.5 kg) or more of benzene be reported to the
+   EPA.
+
+   The US Occupational Safety and Health Administration (OSHA) has set a
+   permissible exposure limit of 1 part of benzene per million parts of
+   air (1 ppm) in the workplace during an 8-hour workday, 40-hour
+   workweek. The short term exposure limit for airborne benzene is 5 ppm
+   for 15 minutes.
+
+   In March 2006, the official Food Standards Agency in Britain conducted
+   a survey of 150 brands of soft drinks. It found that four contained
+   benzene levels above World Health Organization limits. The affected
+   batches were removed from sale.
+
+   In recent history there have been many examples of the harmful health
+   effects of benzene and its derivatives. Toxic Oil Syndrome caused
+   localised immune-suppression in Madrid in 1981 from people ingesting
+   benzene-contaminated olive-oil. Chronic Fatigue Syndrome has also been
+   highly correlated with people who eat "denatured" food that use
+   solvents to remove fat or contain benzoic acid.
+
+   Workers in various industries that make or use benzene may be at risk
+   for being exposed to high levels of this carcinogenic chemical.
+   Industries that involve the use of benzene include the rubber industry,
+   oil refineries, chemical plants, shoe manufacturers, and gasoline
+   related industries. In 1987, OSHA estimated that about 237,000 workers
+   in the United States were potentially exposed to benzene, and it is not
+   known if this number has substantially changed since then.
+
+   Water and soil contamination are important pathways of concern for
+   transmission of benzene contact. In the U.S. alone there are
+   approximately 100,000 different sites which have benzene soil or
+   groundwater contamination. In 2005, the water supply to the city of
+   Harbin in China with a population of almost nine million people, was
+   cut off because of a major benzene exposure. Benzene leaked into the
+   Songhua River, which supplies drinking water to the city, after an
+   explosion at a China National Petroleum Corporation (CNPC) factory in
+   the city of Jilin on 13 November.
+   Retrieved from " http://en.wikipedia.org/wiki/Benzene"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

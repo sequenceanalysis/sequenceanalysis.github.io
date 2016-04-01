@@ -1,0 +1,598 @@
+   #copyright
+
+Screw
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   Screws come in a variety of shapes and sizes for different purposes.
+   U.S. Quarter coin (diameter 24mm) shown for scale.
+   Screws come in a variety of shapes and sizes for different purposes.
+   U.S. Quarter coin (diameter 24mm) shown for scale.
+
+   A screw is a shaft with a helical groove or thread formed on its
+   surface. Its main uses are as a threaded fastener used to hold objects
+   together, and as a simple machine used to translate torque into linear
+   force. It can also be defined as an inclined plane wrapped around a
+   shaft.
+
+Threaded fastener
+
+   A screw used as a threaded fastener consists of a shaft, which may be
+   cylindrical or conical, and a head. The shaft has a helical ridge or
+   thread formed on it. The thread is essentially an inclined plane
+   wrapped around a shaft. The thread mates with a complementary helix in
+   the material. The material may be manufactured with the mating helix (
+   taps and dies), or the screw may create it when first driven in (a
+   self-tapping screw). The head is specially shaped to allow a
+   screwdriver or wrench (UK: spanner) to grip the screw when driving it
+   in. It also stops the screw from passing right through the material
+   being fastened and provides compression.
+
+   Screws can normally be removed and reinserted without reducing their
+   effectiveness. They have greater holding power than nails and permit
+   disassembly and reuse.
+
+   A screw that is tightened by turning it clockwise is said to have a
+   right-hand thread. Screws with left-hand threads are used in
+   exceptional cases, when the screw is subject to anticlockwise forces
+   that might undo a right-hand thread. Examples include rotating items
+   such as the left hand grinding wheel on a bench grinder or the left
+   hand pedal on a bicycle (both looking towards the equipment).
+
+   Threaded fasteners are traditionally made by a cutting action such as
+   taps and dies provide, however recent advances in tooling allows them
+   to be made by rolling the blank (a section of rod) between two
+   specially machined dies. The thread form and shape of the fastener are
+   squeezed onto the blank. This method work hardens the threads and saves
+   material. A rolled thread is obvious after manufacture because the
+   outside diameter of the thread is greater than the diameter of the
+   blank material. Bicycle spokes, which are just very long thin bolts,
+   always use rolled threads for strength.
+
+Bolt
+
+   Bolt with nut
+   Enlarge
+   Bolt with nut
+   An 87.5 kg (192.9 lb) nut and bolt, one of sixteen used to join
+   sections of the generator shaft of a 75000 kW generator at Grand Coulee
+   Dam in 1942
+   Enlarge
+   An 87.5 kg (192.9 lb) nut and bolt, one of sixteen used to join
+   sections of the generator shaft of a 75000 kW generator at Grand Coulee
+   Dam in 1942
+
+   A bolt is a cylindrical (as opposed to conical) threaded fastener that
+   passes through the work piece and is held in place by a nut or a
+   threaded hole on the other side. This is a very common way of holding
+   together temporary and permanent constructions. An unthreaded hole is
+   known as a clear hole. The thread on a bolt sometimes occupies only
+   part of the shaft, the remainder of the shaft being clear; if the
+   thread continues up to the head it is known as a 'set'.
+
+   See also the article on the bolt manufacturing process.
+
+Other fastening methods
+
+   When screws and bolts cannot be used, nailing, riveting, roll pins,
+   pinned shafts, welding, soldering, brazing, gluing, and duct tape
+   (taping) are some alternatives.
+
+Materials and strength
+
+   Screws and bolts are made in a wide range of materials, with steel
+   being perhaps the most common, in many varieties. Where great
+   resistance to weather or corrosion is required, stainless steel,
+   titanium, brass or bronze may be used, or a coating such as brass, zinc
+   or chromium applied. Electrolytic action from dissimilar metals can be
+   prevented with aluminium screws for double-glazing tracks, for example.
+   Some types of plastic, such as nylon or Teflon, can be threaded and
+   used for fastening requiring moderate strength and great resistance to
+   corrosion or for the purpose of electrical insulation. Even porcelain
+   and glass can have molded screw threads that are used successfully in
+   applications such as electrical line insulators and canning jars.
+
+   The same type of screw or bolt can be made in many different grades of
+   material. For critical high-tensile-strength applications, low-grade
+   bolts may fail, resulting in damage or injury. On SAE-standard bolts, a
+   distinctive pattern of marking is impressed on the heads to allow
+   inspection and validation of the strength of the bolt. However,
+   low-cost counterfeit fasteners may be found with actual strength far
+   less than indicated by the markings. Such inferior fasteners are a
+   danger to life and property when used in aircraft, automobiles, heavy
+   trucks, and similar critical applications.
+
+Mechanical analysis
+
+   Rotating screw and fixed trough
+   Rotating screw and fixed trough
+
+   A screw is a specialized application of the wedge or inclined plane. It
+   contains a wedge, wound around a cylinder or shaft, that either fits
+   into a corresponding inclined plane in a nut, or forms a corresponding
+   inclined plane in the wood or metal as it is inserted. The technical
+   analysis (see also statics, dynamics) to determine the pitch, thread
+   shape or cross section, coefficient of friction (static and dynamic),
+   and holding power of the screw is very similar to that performed to
+   predict wedge behaviour. Wedges are discussed in the article on simple
+   machines.
+
+   Critical applications of screws and bolts will specify a torque that
+   must be applied when tightening. The main concept is to stretch the
+   bolt, and compress the parts being held together, creating a
+   spring-like assembly. The stretch introduced to the bolt is called a
+   preload. When external forces try to separate the parts, the bolt sees
+   no strain unless the preload force is exceeded.
+
+   As long as the preload is never exceeded, the bolt or nut will never
+   come loose (assuming the full strength of the bolt is used). If the
+   full strength of the bolt is not used (e.g., a steel bolt threaded into
+   aluminium threads), then a thread-locking adhesive may be used.
+
+   If the preload is exceeded during normal use, the joint will eventually
+   fail. The preload is calculated as a percentage of the bolt's yield
+   tensile strength, or the strength of the threads it goes into, or the
+   compressive strength of the clamped layers (plates, washers, gaskets),
+   whichever is least.
+
+Tensile strength
+
+   Screws and bolts are usually in tension when properly fitted. In most
+   applications they are not designed to bear large shear forces. For
+   example, when two overlapping metal bars joined by a bolt are likely to
+   be pulled apart longitudinally, the bolt must be tight enough so that
+   the friction between the two bars can overcome the longitudinal force.
+   If the bars slip, then the bolt may be sheared in half, or friction
+   between the bolt and slipping bars may erode and weaken the bolt
+   (called fretting). For this type of application, high-strength steel
+   bolts are used and these should be tightened with a torque wrench.
+   Rusty hexagonal bolt heads
+   Enlarge
+   Rusty hexagonal bolt heads
+
+   High-strength bolts usually have a hexagonal head with an ISO strength
+   rating (called property class) stamped on the head. The property
+   classes most often used are 8.8 and 10.9. The number before the point
+   is the tensile ultimate strength in MPa divided by 100. The number
+   after the point is 10 times the ratio of tensile yield strength to
+   tensile ultimate strength. For example, a property class 5.8 bolt has a
+   nominal (minimum) tensile ultimate strength of 500 MPa, and a tensile
+   yield strength of 0.8 times tensile ultimate strength or 0.8(500) = 400
+   MPa.
+
+   Tensile yield strength is M10, property class 8.8 bolt can very safely
+   hold a static tensile load of about 15 kN.
+
+Types of screws and bolts
+
+   Typical Phillips head screw used in computers
+   Enlarge
+   Typical Phillips head screw used in computers
+     * A hex cap screw has a protruding hexagonal head, designed to be
+       driven by a spanner or wrench.
+     * A socket cap screw has a hexagonal recessed drive, usually with a
+       cylindrical head, but can also be found with a rounded button head
+       or a countersunk flat head. Socket cap screws can be torqued more
+       tightly than other drives without stripping, and they are usually
+       made from a high strength steel alloy.
+     * A Wood screw has a tapered shaft, allowing it to penetrate
+       undrilled wood, or a wallplug in brickwork etc.
+     * Lag screw, lag bolt or coach screw refers to a large wood screw
+       with a hexagonal head, driven by a wrench rather than a
+       screwdriver.
+     * A Machine screw has a cylindrical shaft, threaded its entire
+       length, and fits into a nut or a tapped hole; a small bolt.
+     * Self-tapping screws or thread cutting screws have sharp threads
+       that cut into a material such as sheet metal or plastic. They are
+       sometimes notched at the tip to aid in chip removal during thread
+       cutting.
+     * A Self-drilling screw is similar to a self-tapping screw, but has a
+       drill-shaped point to cut through the material without prior
+       drilling.
+     * Thread rolling screws have a lobed (usually triangular) cross
+       section. They form threads by pushing outward during installation.
+       They may have tapping threads or machine threads.
+     * A Drywall screw is a specialized self-tapping screw designed to
+       bind drywall to wood or metal studs, but it has proven to be a
+       versatile construction fastener.
+     * A Set screw, used to prevent loosening due to vibration, is
+       available with thumb screw, square head, Hex head (inset socket)
+       and, most commonly, headless (a grub screw in UK parlance, designed
+       to be inserted flush with or below the surface of the work piece).
+       Alternatively defined to be a screw whose thread reaches the head
+       (if any), as opposed to a bolt.
+     * Dowel screw is a wood screw with two pointed ends and no head, used
+       for making hidden joints between two pieces of wood.
+     * A stud is similar to a bolt but without the head. Studs are
+       threaded on both ends. In some cases the entire length of the stud
+       is threaded, while in other cases there will be an unthreaded
+       section in the middle. It may be anchored in concrete, for example,
+       with only the threads on one end exposed. (See also: screw anchor,
+       wedge anchor.)
+     * A carriage bolt or coach bolt has a domed or countersunk head, and
+       the shaft is topped by a short square section under the head. It is
+       used in wood where the square section is pulled into the wood as
+       the nut is tightened, preventing the bolt from turning. The rib
+       neck carriage bolt has several longitudinal ribs instead of the
+       square section, to grip into a metal part being fixed.
+     * A stove bolt is similar to a carriage bolt, but usually used in
+       metal. It requires a square hole in the metal being bolted to
+       prevent the bolt from turning.
+     * The Superbolt is a form of very large fastener where tension in the
+       bolt is developed by a special nut containing individual
+       jackscrews. This is applied in large structural joints where hand
+       tools or portable tools are insufficient to develop the required
+       tension of a simple bolt and nut.
+     * Acme screw form has threads that are stronger and broader than
+       standard V-profile threads, making them much better for load
+       carrying, linear actuating (also see ball screws), and quick
+       threading. It is often used for vise screws.
+
+Shapes of screw head
+
+   Image:Screw head types.png
+   (a) pan, (b) button, (c) round, (d) truss, (e) flat, (f) oval
+     * pan head: a low disc with chamfered outer edge.
+     * button or dome head: cylindrical with a rounded top.
+     * round head: dome-shaped, commonly used for machine screws.
+     * truss head: lower-profile dome designed to prevent tampering.
+     * flat head or countersunk: conical, with flat outer face and
+       tapering inner face allowing it to sink into the material.
+     * oval or raised head: countersunk with a rounded top.
+     * bugle head: similar to countersunk, but there is a smooth
+       progression from the shaft to the angle of the head, similar to the
+       bell of a bugle.
+     * cheese head: disc with cylindrical outer edge, height approximately
+       half the head diameter.
+     * fillister head: cylindrical, but with a slightly convex top
+       surface.
+     * socket head: cylindrical, relatively high, with different types of
+       sockets (hex, square, torx, etc.).
+     * mirror screw head: countersunk head with a tapped hole to receive a
+       separate screw-in chrome-plated cover, used for attaching mirrors.
+     * headless (set or grub screw): has either a socket or slot in one
+       end for driving.
+
+   Some varieties of screw are manufactured with a break-away head, which
+   snaps off when adequate torque is applied. This prevents tampering and
+   disassembly and also provides an easily-inspectable joint to guarantee
+   proper assembly.
+
+Types of screw drive
+
+   Pozidriv compared with other screws: (a) Slotted, (b) Phillips,
+   (c) Pozidriv, (d) Torx, (e)  Hex, (f) Robertson, (g) Tri-Wing,
+   (h) Torq-Set, (i) Spanner
+   Enlarge
+   Pozidriv compared with other screws:
+   (a)  Slotted, (b)  Phillips, (c)  Pozidriv, (d)  Torx, (e)  Hex, (f)
+   Robertson, (g)  Tri-Wing, (h)  Torq-Set, (i) Spanner
+
+   Modern screws employ a wide variety of drive designs, each requiring a
+   different kind of tool to drive in or extract them. The most common
+   screw drives are the slotted and Phillips; hex, Robertson, and TORX are
+   also common in some applications. Some types of drive are intended for
+   automatic assembly in mass-production of such items as automobiles.
+   More exotic screw drive types may be used in situations where tampering
+   is undesirable, such as in electronic appliances that should not be
+   serviced by the home repair person.
+     * Slot head has a single slot, and is driven by a flat-bladed
+       screwdriver. The slotted screw is common in woodworking
+       applications, but is not often seen in applications where a power
+       driver would be used, due to the tendency of a power driver to slip
+       out of the head and potentially damage the surrounding material.
+
+   Phillips vs. Frearson
+   Enlarge
+   Phillips vs. Frearson
+   BNAE driver bit
+   Enlarge
+   BNAE driver bit
+     * Cross-head, cross-point, or cruciform has a "+"-shaped slot and is
+       driven by a cross-head screwdriver, designed originally for use
+       with mechanical screwing machines. There are four types:
+          + The Phillips screw drive has slightly rounded corners in the
+            tool recess, and was designed so the driver will slip out, or
+            cam out, under high torque to prevent over-tightening. The
+            Phillips Screw Company was founded in Oregon in 1933 by Henry
+            F. Phillips, who bought the design from J. P. Thompson.
+            Phillips was unable to manufacture the design, so he passed
+            the patent to the American Screw Company, who was the first to
+            manufacture it.
+          + A Reed & Prince or Frearson screw drive is similar to a
+            Phillips but has a more pointed 75° V shape. It is found
+            mainly in marine hardware. The tool recess is a perfect cross,
+            unlike the Phillips head, which is designed to cam out. It was
+            developed by the Reed & Prince Manufacturing Company of
+            Massachusetts.
+          + A JIS ( Japanese Industrial Standard) head, commonly found in
+            Japanese equipment, looks like a Phillips screw, but is
+            designed not to cam out and will, therefore, be damaged by a
+            Phillips screwdriver if it is too tight. The standard number
+            is JIS B 1012:1985
+          + French Recess, also called BNAE NFL22-070 for Bureau de
+            Normalisation de l'Aéronautique et de l'Espace, a French
+            standards organization.
+     * Pozidriv is patented, similar to cross-head but designed not to
+       slip, or cam out. It has four additional points of contact, and
+       does not have the rounded corners that the Phillips screw drive
+       has. Phillips screwdrivers will usually work in Pozidriv screws,
+       but Pozidriv screwdrivers are likely to slip or tear out the screw
+       head when used in Phillips screws. Pozidriv was jointly patented by
+       the Phillips Screw Company and American Screw Company.
+     * TORX is a star-shaped "hexalobular" drive with six rounded points.
+       It was designed to permit increased torque transfer from the driver
+       to the bit compared to other drive systems. TORX is very popular in
+       the automotive and electronics industries due to resistance to cam
+       out and extended bit life, as well as reduced operator fatigue by
+       minimizing the need to bear down on the drive tool to prevent cam
+       out. TORX screws were found in early Apple Macintosh computers, to
+       discourage home repairs. TORX PLUS is an improved version of TORX
+       which extends tool life even further and permits greater torque
+       transfer compared to TORX. A tamper-resistant TORX head has a small
+       pin inside the recess. The tamper-resistant TORX is also made in a
+       5 lobed variant. These TORX configurations are commonly used in
+       correctional facilities, public facilities and government schools.
+
+   Hex socket screws
+   Enlarge
+   Hex socket screws
+     * Hexagonal (hex) socket head has a hexagonal hole and is driven by a
+       Hex Wrench, sometimes called an Allen key or Hex key, or by a power
+       tool with a hexagonal bit. Tamper-resistant versions with a pin in
+       the recess are available. Hex sockets are increasingly used for
+       modern bicycle parts because Hex Wrenches are very light and easily
+       carried tools.
+     * Robertson head, invented in 1908 by P.L. Robertson, has a square
+       hole and is driven by a special power-tool bit or screwdriver. The
+       screw is designed to maximize torque transferred from the driver,
+       and will not slip, or cam out. It is possible to hold a Robertson
+       screw on a driver bit horizontally or even pendant, due to a slight
+       wedge fit. Commonly found in Canada in carpentry and woodworking
+       applications and in Canadian-manufactured electrical wiring items
+       such as receptacles and switch boxes.
+     * Square-drive head is an American clone of the Robertson that has a
+       square hole without taper. Due to the lack of taper, the hole must
+       be oversize relative to the screwdriver, and is much more likely to
+       strip than the Robertson.
+     * Tri-Wing head has a triangular slotted configuration. They were
+       used by Nintendo on its Game Boys to discourage home repair.
+     * Torq-Set or offset cruciform is an uncommon screw drive that may be
+       confused with Phillips; however, the four legs of the contact area
+       are offset in this drive type.
+     * Spanner drive uses two round holes opposite each other, and is
+       designed to prevent tampering. Commonly seen in elevators in the
+       United States.
+     * Clutch Type A or standard clutch head resembles a bow tie. These
+       were common in GM automobiles of the 1940s and '50s, particularly
+       for body panels.
+     * Clutch Type G head resembles a butterfly. This type of screw head
+       is commonly used in the manufacture of mobile homes and
+       recreational vehicles.
+
+Combination drives
+
+   Some screws have heads designed to accommodate more than one kind of
+   driver. The most common of these is a combination of a slotted and
+   Phillips head. Because of its prevalence, there are now drivers made
+   specifically for this kind of screw head. Other combinations are a
+   Phillips and Robertson, a Robertson and a slotted, and a triple-drive
+   screw which can take a slotted, Phillips or a Robertson. Combination
+   head screws are becoming more and more popular.
+
+Tamper-resistant screws
+
+   Tamper-resistant TORX driver
+   Enlarge
+   Tamper-resistant TORX driver
+
+   Many screw drives, including Phillips, TORX, and Hexagonal, are also
+   manufactured in tamper-resistant form. These typically have a pin
+   protruding in the centre of the screw head, necessitating a special
+   tool for extraction. However, the bits for many tamper-resistant screw
+   heads are now readily available from hardware stores, tool suppliers
+   and through the Internet. What is more, there are many commonly used
+   techniques to extract tamper resistant screws without the correct
+   driver — for example, the use of an alternative driver than can gain
+   enough purchase to turn the screw, modifying the head to accept an
+   alternative driver or forming ones own driver by melting an object into
+   the head to mould a driver. Thus, these special screws offer only
+   modest security.
+   One-way slotted screw
+   Enlarge
+   One-way slotted screw
+
+   The slotted screw drive also comes in a tamper-resistant one-way design
+   with sloped edges; the screw can be driven in, but the bit slips out in
+   the reverse direction.
+
+   There are specialty fastener companies that make unusual, proprietary
+   head designs, featuring matching drivers available only from them, and
+   only supplied to registered owners.
+
+Tools used
+
+   The hand tool used to drive in most screws is called a screwdriver. A
+   power tool that does the same job is a power screwdriver; power drills
+   may also be used with screw-driving attachments. Where the holding
+   power of the screwed joint is critical, torque-measuring and
+   torque-limiting screwdrivers are used to ensure sufficient and not
+   excessive force is developed by the screw. The hand tool for driving
+   cap screws and other types is called a spanner (UK usage) or wrench (US
+   usage).
+
+Mechanics of use
+
+   When driving in a screw, especially when the screw has been removed and
+   is being placed again, the threads can become misaligned and damage, or
+   strip, the threading of the hole. To avoid this, slight pressure is
+   applied and the screw is driven in reverse, until the leading edges of
+   the helices pass each other, at which point a slight click will be felt
+   (and sometimes heard.) When this happens, the screw will often assume a
+   more aligned position with respect to the hole.
+
+   Immediately after the 'click', the screw may be driven in without
+   damage to the threading. This technique is useful for re-seating screws
+   in wood and plastic, and for assuring the proper fit when screwing down
+   plates and covers where alignment is difficult.
+
+Screw measurements
+
+   There are many systems for specifying the dimensions of screws, but in
+   much of the world the ISO metric screw thread preferred series has
+   displaced the many older systems. Other relatively common systems
+   include the British Standard Whitworth, BA system (British
+   Association), and the SAE Unified Thread Standard.
+
+Metric screws
+
+   Metric screws are specified by the ISO 261 and ISO 262 standards. The
+   diameter of an ISO preferred series screw is specified in millimetres
+   (mm) prefixed by the capital letter M, as in "M6" for a 6 mm diameter
+   screw.
+
+   The pitch of metric threads varies according to the diameter, but not
+   absolutely regularly. Some examples: a M3 thread has a 0.5 mm pitch,
+   M4: 0.7 mm, M6: 1 mm, M10-12: 1.5 mm, M14-16: 2 mm, M18-22: 2.5 mm. As
+   the size increases, it is more likely that alternative pitches are in
+   use; M12 is available in at least four different pitches, whereas M5 is
+   only available in two. If a pitch is quoted (e.g. "M12 x 1.75") it
+   usually is because it is one of the non-standard ones.
+
+   The diameter of a metric screw is the outer diameter of the thread. The
+   tapped hole (or nut) into which the screw fits, has an internal
+   diameter which is the size of the screw minus the pitch of the thread.
+   Thus, an M6 screw, which has a pitch of 1 mm, is made by threading a 6
+   mm shaft, and the nut or threaded hole is made by tapping threads in a
+   5 mm hole.
+
+   Metric screw threads are also available in "fine pitch" versions,
+   sometimes several pitches for one diameter (example: M18/fine in 1, 1.5
+   and 2 mm pitches). The fine thread series is deprecated and not
+   recommended for use in new designs. The fine metric threads were once
+   found in equipment made in the Far East, but that has changed with the
+   standardisation of the ISO preferred thread series.
+
+Non-metric screws
+
+   Before the metric system was common, many countries and areas of
+   engineering specialisation had their own standard screw sizes.
+
+Whitworth
+
+   The first person to create a standard (in about 1841) was the English
+   engineer Sir Joseph Whitworth. Whitworth screw sizes are still used,
+   both for repairing old machinery and where a coarser thread than the
+   metric fastener thread is required. Whitworth became British Standard
+   Whitworth abbreviated to BSW (BS 84:1956) and the British Standard Fine
+   (BSF) thread was introduced the in 1908 as Whitworth thread was a bit
+   coarse for some applications. The thread angle was 55°and a depth and
+   pitch of thread that varied with the diameter of the thread (ie: the
+   bigger the bolt, the coarser the thread). The spanner size is
+   determined by the size of the bolt not distance between the flats. The
+   most common use of a Whitworth pitch nowadays is the standard
+   photographic tripod thread, which for small cameras is 1/4" Whitworth
+   (20tpi) and for medium/large format cameras is 3/8" Whitworth (16tpi).
+
+British Association screw threads (BA)
+
+   A later standard established in the United Kingdom was the BA system,
+   named after the British Association for Advancement of Science. Screws
+   were described as "2BA", "4BA" etc., the odd numbers being rarely used.
+   While not related to ISO metric screws, the sizes were actually defined
+   in metric terms, a 0BA thread having a 1 mm pitch. These are still the
+   most common threads in some niche applications. Certain types of fine
+   machinery, such as moving-coil meters, tend to have BA threads wherever
+   they are manufactured.
+
+Unified Thread Standard
+
+   The United States has its own system, usually called the Unified Thread
+   Standard, which is also extensively used in Canada and in many other
+   countries around the world. A version of this standard, called SAE for
+   the Society of Automotive Engineers, was used in the American
+   automobile industry. The SAE is still associated with inch-based
+   fasteners by the public, even though the U.S. auto industry (and other
+   heavy industries relying on SAE) have gradually converted to ISO
+   preferred series fasteners from the 1970s onward, because global parts
+   sourcing and product marketing favour international standardization.
+   However, automobiles sold in the U.S. still contain some inch-based
+   fasteners (for example, lug nuts).
+
+   Machine screws are described as 0-80, 2-56, 3-48, 4-40, 5-40, 6-32,
+   8-32, 10-32, 10-24, etc. up to size 12. The first number can be
+   translated to a diameter, the second is the number of threads per inch.
+   There is a coarse thread and a fine thread for each size, the fine
+   thread being preferred in thin materials or when its slightly greater
+   strength is desired.
+
+   The machine screw number can be converted to its equivalent inch
+   diameter using the formula:
+
+   D = ((N × 0.013) + 0.060)), where N is the machine screw number.
+
+   For example, a #10 screw has a diameter of (10 × 0.013) + 0.060, or
+   0.190".
+
+   Formerly, the number series of machine screws included odd numbers (7,
+   9, etc.) and extended up to #16 or more. Standardization efforts in the
+   late 19th and the early part of the 20th century reduced the range of
+   sizes considerably. Now, it is rare to see machine screws larger than
+   #10 or odd number sizes other than #1 and #3, even though #5 and #12
+   screws are still available.
+
+   Sizes 1/4" diameter and larger are designated as 1/4"-20, 1/4"-28, etc.
+   the first number giving the diameter in inches and the second number
+   being threads per inch. Most thread sizes are available in UNC or UC
+   (Unified Coarse Thread, example 1/4"-20) or UNF (example 1/4"-28 UNF or
+   UF).
+
+Other Standards
+
+   Other thread systems include Acme thread form, BSP ( British standard
+   pipe thread which exits in a taper and non taper variant; used for
+   other purposes as well) and BSC (British Standard Cycle) a 26tpi thread
+   form, CEI (Cycle Engineers Institute, used on bicycles in Britain and
+   possibly elsewhere), British Standard Brass a fixed pitch 26tpi thread,
+   NPT ( National pipe thread) and NPTF (pipe threads), and PG (German:
+   "Panzer-Gewinde"), used in thin plate metal, such as for switches and
+   nipples in electrical equipment housings.
+
+History
+
+   In antiquity, the Greek mathematician Archytas of Tarentum ( 428 – 350
+   BC) was credited with the invention of the screw. By the 1st century
+   BC, wooden screws were commonly used throughout the Mediterranean world
+   in devices such as oil and wine presses. Metal screws used as fasteners
+   did not appear in Europe until the 1400s.
+
+   The metal screw did not become a common woodworking fastener until
+   machine tools for mass producing it were developed at the end of the
+   18th century. The British engineer Henry Maudslay patented a
+   screw-cutting lathe in 1797; a similar device was patented by David
+   Wilkinson in the United States the next year.
+
+   Standardization of screw thread forms accelerated during WWII so that
+   interchangeable parts could be produced by any of the Allied countries.
+
+   Though not screws, perhaps also see cotter or pin bolts, and "clinch
+   bolts" (now called rivets), used in ship building prior to the mid 19th
+   century.
+
+Legal issues
+
+   The difference between a screw and a bolt may not seem something in
+   which governments would be much interested. However, in the United
+   States the two have different import duties. The difference between
+   them is therefore of keen interest to importers and customs
+   authorities.
+
+   This was the subject of a court case Rocknel Fastener, inc v. United
+   States: 34 page PDF. The position is outlined in a current US
+   government document Distinguishing Bolts From Screws: 21 page PDF.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Screw"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

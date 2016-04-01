@@ -1,0 +1,344 @@
+   #copyright
+
+Carl Friedrich Gauss
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematicians
+
+   CAPTION: Johann Carl Friedrich Gauss
+
+   Carl Friedrich Gauss
+   Carl Friedrich Gauss
+         Born        30 April 1777
+                     Brunswick, Germany
+         Died        23 February 1855
+                     Göttingen, Hanover, Germany
+       Residence     Germany
+      Nationality    German
+         Field       Mathematician and physicist
+      Institution    Georg-August University
+      Alma Mater     Helmstedt University
+   Doctoral Advisor  Johann Friedrich Pfaff
+   Doctoral Students Friedrich Bessel
+                     Christoph Gudermann
+       Known for     Number theory
+                     The Gaussian
+                     Magnetism
+
+   Carl Friedrich Gauss (Gauß)  ( 30 April 1777 – 23 February 1855) was a
+   German mathematician and scientist of profound genius who contributed
+   significantly to many fields, including number theory, analysis,
+   differential geometry, geodesy, magnetism, astronomy and optics.
+   Sometimes known as "the prince of mathematicians" and "greatest
+   mathematician since antiquity", Gauss had a remarkable influence in
+   many fields of mathematics and science and is ranked as one of
+   history's most influential mathematicians.
+
+   Gauss was a child prodigy, of whom there are many anecdotes pertaining
+   to his astounding precocity while a mere toddler, and made his first
+   ground-breaking mathematical discoveries while still a teenager. He
+   completed Disquisitiones Arithmeticae, his magnum opus, at the age of
+   twenty-one (1798), though it would not be published until 1801. This
+   work was fundamental in consolidating number theory as a discipline and
+   has shaped the field to the present day.
+
+Biography
+
+Early years
+
+   Statue of Gauss in Brunswick
+   Enlarge
+   Statue of Gauss in Brunswick
+
+   Gauss was born in Brunswick, in the Duchy of Brunswick-Lüneburg (now
+   part of Lower Saxony, Germany), as the only son of uneducated
+   lower-class parents. According to legend, his gifts became very
+   apparent at the age of three when he corrected, in his head, an error
+   his father had made on paper while calculating finances.
+
+   Another famous story, and one that has evolved in the telling, has it
+   that in primary school his teacher, J.G. Büttner tried to occupy pupils
+   by making them add up the integers from 1 to 100. The young Gauss
+   produced the correct answer within seconds by a flash of mathematical
+   insight, to the astonishment of all. Gauss had realized that pairwise
+   addition of terms from opposite ends of the list yielded identical
+   intermediate sums: 1 + 100 = 101, 2 + 99 = 101, 3 + 98 = 101, and so
+   on, for a total sum of 50 × 101 = 5050 (see arithmetic series and
+   summation). (For more information, see for discussion of original
+   Wolfgang Sartorius von Waltershausen source.)
+
+   The Duke of Brunswick awarded Gauss a fellowship to the Collegium
+   Carolinum (now Technische Universität Braunschweig), which he attended
+   from 1792 to 1795, and from there went on to the University of
+   Göttingen from 1795 to 1798. While in college, Gauss independently
+   rediscovered several important theorems; his breakthrough occurred in
+   1796 when he was able to show that any regular polygon with a number of
+   sides which is a Fermat prime (and, consequently, those polygons with
+   any number of sides which is the product of distinct Fermat primes and
+   a power of 2) can be constructed by compass and straightedge. This was
+   a major discovery in an important field of mathematics; construction
+   problems had occupied mathematicians since the days of the Ancient
+   Greeks. Gauss was so pleased by this result that he requested that a
+   regular heptadecagon be inscribed on his tombstone. The stonemason
+   declined, stating that the difficult construction would essentially
+   look like a circle.
+
+   1796 was probably the most productive year for both Gauss and number
+   theory. The construction of the heptadecagon was discovered on March
+   30. He invented modular arithmetic, greatly simplifying manipulations
+   in number theory. He became the first to prove the quadratic
+   reciprocity law on April 8. This remarkably general law (the previous
+   discovery of which by Legendre in 1788 was unknown to Gauss) allows
+   mathematicians to determine the solvability of any quadratic equation
+   in modular arithmetic. The prime number theorem, conjectured on May 31,
+   gives a good understanding of how the prime numbers are distributed
+   among the integers. Gauss also discovered that every positive integer
+   is representable as a sum of at most three triangular numbers on July
+   10 and then jotted down in his diary the famous words, " Heureka! num=
+   Δ + Δ + Δ." On October 1 he published a result on the number of
+   solutions of polynomials with coefficients in finite fields (this
+   ultimately led to the Weil conjectures 150 years later).
+
+Middle years
+
+   Title page of Gauss's Disquisitiones Arithmeticae
+   Enlarge
+   Title page of Gauss's Disquisitiones Arithmeticae
+
+   In his 1799 dissertation, A New Proof That Every Rational Integer
+   Function of One Variable Can Be Resolved into Real Factors of the First
+   or Second Degree, Gauss gave a proof of the fundamental theorem of
+   algebra. This important theorem states that every polynomial over the
+   complex numbers must have at least one root. Other mathematicians had
+   tried to prove this before him, e.g. Jean le Rond d'Alembert. Gauss's
+   dissertation contained a critique of d'Alembert's proof, but his own
+   attempt would not be accepted owing to implicit use of the Jordan curve
+   theorem. Gauss over his lifetime produced three more proofs, probably
+   due in part to this rejection of his dissertation; his last proof in
+   1849 is generally considered rigorous by today's standard. His attempts
+   clarified the concept of complex numbers considerably along the way.
+
+   Gauss also made important contributions to number theory with his 1801
+   book Disquisitiones Arithmeticae, which contained a clean presentation
+   of modular arithmetic and the first proof of the law of quadratic
+   reciprocity. In that same year, Italian astronomer Giuseppe Piazzi
+   discovered the planetoid Ceres, but could only watch it for a few days.
+   Gauss predicted correctly the position at which it could be found
+   again, and it was rediscovered by Franz Xaver von Zach on December 31,
+   1801 in Gotha, and one day later by Heinrich Olbers in Bremen. Zach
+   noted that "without the intelligent work and calculations of Doctor
+   Gauss we might not have found Ceres again." Though Gauss had up to this
+   point been supported by the stipend from the Duke, he doubted the
+   security of this arrangement, and also did not believe pure mathematics
+   to be important enough to deserve support. Thus he sought a position in
+   astronomy, and in 1807 was appointed Professor of Astronomy and
+   Director of the astronomical observatory in Göttingen, a post he held
+   for the remainder of his life.
+
+   The discovery of Ceres by Piazzi on January 1, 1801 led Gauss to his
+   work on a theory of the motion of planetoids disturbed by large
+   planets, eventually published in 1809 under the name Theoria motus
+   corporum coelestium in sectionibus conicis solem ambientum (theory of
+   motion of the celestial bodies moving in conic sections around the
+   sun). Piazzi had only been able to track Ceres for a couple of months,
+   following it for three degrees across the night sky. Then it
+   disappeared temporarily behind the glare of the Sun. Several months
+   later, when Ceres should have reappeared, Piazzi couldn't locate it:
+   the mathematical tools of the time weren't able to extrapolate a
+   position from such a scant amount of data – three degrees represent
+   less than 1% of the total orbit.
+
+   Gauss, who was 23 at the time, heard about the problem and tackled it
+   head-on. After three months of intense work, he predicted a position
+   for Ceres in December 1801 – just about a year after its first sighting
+   – and this turned out to be accurate within a half-degree. In the
+   process, he so streamlined the cumbersome mathematics of 18th century
+   orbital prediction that his work – published a few years later as
+   Theory of Celestial Movement – remains a cornerstone of astronomical
+   computation. It introduced the gaussian gravitational constant, and
+   contained an influential treatment of the method of least squares, a
+   procedure used in all sciences to this day to minimize the impact of
+   measurement error. Gauss was able to prove the method in 1809 under the
+   assumption of normally distributed errors (see Gauss-Markov theorem;
+   see also Gaussian). The method had been described earlier by
+   Adrien-Marie Legendre in 1805, but Gauss claimed that he had been using
+   it since 1795.
+
+   Gauss had been asked in the late 1810s to carry out a geodetic survey
+   of the state of Hanover to link up with the existing Danish grid. Gauss
+   was pleased to accept and took personal charge of the survey, making
+   measurements during the day and reducing them at night, using his
+   extraordinary mental capacity for calculations. He regularly wrote to
+   Schumacher, Olbers and Bessel, reporting on his progress and discussing
+   problems. As part of the survey, Gauss invented the heliotrope which
+   worked by reflecting the Sun's rays using a set of mirrors and a small
+   telescope.
+
+   Gauss also claimed to have discovered the possibility of non-Euclidean
+   geometries but never published it. This discovery was a major paradigm
+   shift in mathematics, as it freed mathematicians from the mistaken
+   belief that Euclid's axioms were the only way to make geometry
+   consistent and non-contradictory. Research on these geometries led to,
+   among other things, Einstein's theory of general relativity, which
+   describes the universe as non-Euclidean. His friend Farkas (Wolfgang)
+   Bolyai (with whom Gauss had sworn "brotherhood and the banner of truth"
+   as a student) had tried in vain for many years to prove the parallel
+   postulate from Euclid's other axioms of geometry. Bolyai's son, János
+   Bolyai, discovered non-Euclidean geometry in 1829; his work was
+   published in 1832. After seeing it, Gauss wrote to Farkas Bolyai: "To
+   praise it would amount to praising myself. For the entire content of
+   the work ... coincides almost exactly with my own meditations which
+   have occupied my mind for the past thirty or thirty-five years." This
+   unproved statement put a strain on his relationship with János Bolyai
+   (who thought that Gauss was "stealing" his idea), but it is nowadays
+   generally taken at face value.
+   Gaussian distribution in statistics.
+   Enlarge
+   Gaussian distribution in statistics.
+
+   The survey of Hanover later led to the development of the Gaussian
+   distribution, also known as the normal distribution, for describing
+   measurement errors. Moreover, it fuelled Gauss's interest in
+   differential geometry, a field of mathematics dealing with curves and
+   surfaces. In this field, he came up with an important theorem, the
+   theorema egregrium (remarkable theorem in Latin) establishing an
+   important property of the notion of curvature. Informally, the theorem
+   says that the curvature of a surface can be determined entirely by
+   measuring angles and distances on the surface; that is, curvature does
+   not depend on how the surface might be embedded in (3-dimensional)
+   space.
+
+Later years, death, and afterwards
+
+   In 1831 Gauss developed a fruitful collaboration with the physics
+   professor Wilhelm Weber; it led to new knowledge in the field of
+   magnetism (including finding a representation for the unit of magnetism
+   in terms of mass, length and time) and the discovery of Kirchhoff's
+   circuit laws in electricity. Gauss and Weber constructed the first
+   electromagnetic telegraph in 1833, which connected the observatory with
+   the institute for physics in Göttingen. Gauss ordered a magnetic
+   observatory to be built in the garden of the observatory and with Weber
+   founded the magnetischer Verein ("magnetic club"), which supported
+   measurements of earth's magnetic field in many regions of the world. He
+   developed a method of measuring the horizontal intensity of the
+   magnetic field which has been in use well into the second half of the
+   20th century and worked out the mathematical theory for separating the
+   inner ( core and crust) and outer ( magnetospheric) sources of Earth's
+   magnetic field.
+
+   Gauss died in Göttingen, Hanover (now part of Lower Saxony, Germany) in
+   1855 and is interred in the cemetery Albanifriedhof there. Two
+   individuals gave eulogies at his funeral, Gauss's son-in-law Heinrich
+   Ewald, and Wolfgang Sartorius von Waltershausen, who was Gauss's close
+   friend and biographer. His brain was preserved and was studied by
+   Robert Wagner who found its weight to be 1,492 grams and the cerebral
+   area equal to 219,588 square centimetres. There were also found highly
+   developed convolutions, which in the early 20th century was suggested
+   as the explanation of his genius (Dunnington, 1927).
+
+Family
+
+   Gauss's personal life was overshadowed by the early death of his first
+   wife, Johanna Osthoff, in 1809, soon followed by the death of one
+   child, Louis. Gauss plunged into a depression from which he never fully
+   recovered. He married again, to a friend of his first wife named
+   Friederica Wilhelmine Waldeck (Minna), but this second marriage does
+   not seem to have been very happy. When his second wife died in 1831
+   after a long illness, one of his daughters, Therese, took over the
+   household and cared for Gauss until the end of his life. His mother
+   lived in his house from 1817 until her death in 1839.
+
+   Gauss had six children, three by each wife. With Johanna (1780–1809),
+   his children were Joseph (1806–1873), Wilhelmina (1808–1846) and Louis
+   (1809–1810). Of all of Gauss's children, Wilhelmina was said to have
+   come closest to his talent, but she died young. With Minna Waldeck he
+   also had three children: Eugene (1811–1896), Wilhelm (1813–1879) and
+   Therese (1816–1864). Eugene immigrated to the United States about 1832
+   after a falling out with his father, eventually settling in St.
+   Charles, Missouri, where he became a well respected member of the
+   community. Wilhelm came to settle in Missouri somewhat later, starting
+   as a farmer and later becoming wealthy in the shoe business in St.
+   Louis. Therese kept house for Gauss until his death, after which she
+   married.
+
+Personality
+
+   Gauss was an ardent perfectionist and a hard worker. There is a famous
+   anecdote of Gauss being interrupted in the middle of a problem and told
+   that his wife was dying. He is purported to have said, "Tell her to
+   wait a moment 'til I'm through". He was never a prolific writer,
+   refusing to publish works which he did not consider complete and above
+   criticism. This was in keeping with his personal motto pauca sed matura
+   (few, but ripe). A study of his personal diaries reveal that he had in
+   fact discovered several important mathematical concepts years or
+   decades before they were published by his contemporaries. Prominent
+   mathematical historian Eric Temple Bell estimated that had Gauss made
+   known all of his discoveries, mathematics would have been advanced by
+   fifty years. (Bell, 1937.)
+
+   Another criticism of Gauss is that he did not support the younger
+   mathematicians who followed him. He rarely, if ever, collaborated with
+   other mathematicians and was considered aloof and austere by many.
+   Though he did take in a few students, Gauss was known to dislike
+   teaching (it is said that he attended only a single scientific
+   conference, which was in Berlin in 1828). However, several of his
+   students turned out to be influential mathematicians, among them
+   Richard Dedekind, Bernhard Riemann, and Friedrich Bessel. Before she
+   died, Sophie Germain was recommended by Gauss to receive her honorary
+   degree.
+
+   Gauss generally did not get along with his male relatives. His father
+   had wanted him to follow in his footsteps, i.e., to become a mason. He
+   was not supportive of Gauss's schooling in mathematics and science.
+   Gauss was primarily supported by his mother in this effort. Likewise,
+   he had conflicts with his sons, two of whom migrated to the United
+   States. He did not want any of his sons to enter mathematics or science
+   for "fear of sullying the family name". His conflict with Eugene was
+   particularly bitter. Gauss wanted Eugene to become a lawyer, but Eugene
+   wanted to study languages. They had an argument over a party Eugene
+   held, which Gauss refused to pay for. The son left in anger and
+   immigrated to the United States, where he was quite successful. It took
+   many years for Eugene's success to counteract his reputation among
+   Gauss's friends and colleagues. See, also the letter from Robert Gauss
+   to Felix Klein on September 3, 1912.
+
+   Unlike modern mathematicians, Gauss usually declined to present the
+   intuition behind his often very elegant proofs--he preferred them to
+   appear "out of thin air" and erased all traces of how he discovered
+   them.
+
+   Gauss was deeply religious and conservative. He supported monarchy and
+   opposed Napoleon whom he saw as an outgrowth of revolution.
+
+Commemorations
+
+   The cgs unit for magnetic induction was named gauss in his honour.
+
+   From 1989 until the end of 2001, his portrait and a normal distribution
+   curve were featured on the German ten-mark banknote. Germany has issued
+   three stamps honoring Gauss, as well. A stamp (no. 725), was issued in
+   1955 on the hundredth anniversary of his death; two other stamps, no.
+   1246 and 1811, were issued in 1977, the 200th anniversary of his birth.
+
+   G. Waldo Dunnington was a lifelong student of Gauss. He wrote many
+   articles, and a biography: Carl Frederick Gauss: Titan of Science. This
+   book was reissued in 2003, after having been out of print for almost 50
+   years.
+
+   In 2007, his bust is going to be introduced to the Walhalla.
+
+   Places, vessels and events named in honour of Gauss:
+     * Gauss crater on the Moon
+     * Asteroid 1001 Gaussia.
+     * The First German Antarctica Expedition's ship Gauss
+     * Gaussberg, an extinct volcano discovered by the above mentioned
+       expedition
+     * Gauss Tower, an observation tower
+     * In Canadian junior high schools, an annual national mathematics
+       competition administered by the Centre for Education in Mathematics
+       and Computing is named in honour of Gauss.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

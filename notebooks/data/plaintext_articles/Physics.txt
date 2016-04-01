@@ -1,0 +1,637 @@
+   #copyright
+
+Physics
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+          This article is currently undergoing a full review. Editors'
+          contributions are welcomed to the process.
+
+   Physics (from the Greek, φύσις (phúsis), "nature" and φυσική (phusiké),
+   "knowledge of nature") is the science concerned with the discovery and
+   understanding of the fundamental laws which govern matter, energy,
+   space and time. That is, physics deals with the elementary constituents
+   of the Universe and their interactions, as well as the analysis of
+   systems which are best understood in terms of these fundamental
+   principles. Physics is a study of the inorganic, physical world, as
+   opposed to the organic world of biology, physiology, etc. Chemistry
+   concerning the electro-chemical interactions of substances overlaps
+   with physics.
+
+Introduction
+
+   Physics attempts to describe the natural world by the application of
+   the scientific method, including modelling by theoreticians. Formerly,
+   physics included the study of natural philosophy, its counterpart which
+   had been called "physics" (earlier physike) from classical times up to
+   the separation of physics from philosophy as a positive science in the
+   19th century, as the study of the changing world by philosophy. Mixed
+   questions, of which solutions can be attempted through the applications
+   of both disciplines (e.g. the divisibility of the atom) can involve
+   natural philosophy in physics (the science) and vice versa .
+
+Connected Studies
+
+   Many other sciences and fields of thought are related to physics.
+
+   Discoveries in physics find connections throughout the other natural
+   sciences as they regard the basic constituents of the Universe. Some of
+   the phenomena studied in physics, such as the phenomenon of
+   conservation of energy, are common to all material systems. These are
+   often referred to as laws of physics. Other phenomena, such as
+   superconductivity, stem from these laws, but are not laws themselves
+   because they only appear in some systems. Physics is often said to be
+   the "fundamental science", because each of the other sciences (biology,
+   chemistry, geology, physiology, archaeology, anthropology, etc.) deals
+   with particular types of material systems that obey the laws of
+   physics. For example, chemistry is the science of matter (such as atoms
+   and molecules) and the chemical substances that they form in the bulk.
+   The structure, reactivity, and properties of a chemical compound are
+   determined by the properties of the underlying molecules, which can be
+   described by areas of physics such as quantum mechanics (called in this
+   case quantum chemistry), thermodynamics, and electromagnetism. (Refer
+   to Branches of physics)
+
+   Physics relies on mathematics, which provides the logical framework in
+   which physical laws can be precisely formulated and their predictions
+   quantified. Physical definitions, models and theories are invariably
+   expressed using mathematical relations. There is a large area of
+   research intermediate between physics and mathematics, known as
+   mathematical physics.
+
+   Physics is also closely related to engineering and technology. For
+   instance, electrical engineering is the study of the practical
+   application of electromagnetism. Statics, a subfield of mechanics, is
+   responsible for the building of bridges. Further, physicists, or
+   practitioners of physics, invent and design processes and devices, such
+   as the transistor, whether in basic or applied research. Experimental
+   physicists design and perform experiments with particle accelerators,
+   nuclear reactors, telescopes, barometers, synchrotrons, cyclotrons,
+   spectrometers, lasers, and other equipment.
+
+   Beyond the known Universe, the field of theoretical physics also deals
+   with hypothetical issues, such as parallel universes, a multiverse, or
+   whether the universe could have expanded as predominantly antimatter
+   rather than matter.
+
+Branches of physics
+
+   Physicists study a wide range of physical phenomena, from quarks to
+   black holes, from individual atoms to the many-body systems of
+   superconductors.
+
+Central theories
+
+   While physics deals with a wide variety of systems, there are certain
+   theories that are used by all physicists. Each of these theories were
+   experimentally tested numerous times and found correct as an
+   approximation of nature (within a certain domain of validity). For
+   instance, the theory of classical mechanics accurately describes the
+   motion of objects, provided they are much larger than atoms and moving
+   at much less than the speed of light. These theories continue to be
+   areas of active research; for instance, a remarkable aspect of
+   classical mechanics known as chaos was discovered in the 20th century,
+   three centuries after the original formulation of classical mechanics
+   by Isaac Newton ( 1642– 1727). These "central theories" are important
+   tools for research into more specialized topics, and any physicist,
+   regardless of his or her specialization, is expected to be literate in
+   them.
+     * Classical mechanics is a model of the physics of forces acting upon
+       bodies. It is often referred to as "Newtonian mechanics" after
+       Newton and his laws of motion. Classical mechanics is subdivided
+       into statics (which models objects at rest), kinematics (which
+       models objects in motion), and dynamics (which models objects
+       subjected to forces). See also mechanics.
+
+     * Electromagnetism, or electromagnetic theory, is the physics of the
+       electromagnetic field: a field, encompassing all of space, which
+       exerts a force on those particles that possess the property of
+       electric charge, and is in turn affected by the presence and motion
+       of such particles. Electromagnetism encompasses various real-world
+       electromagnetic phenomena.
+
+     * Thermodynamics is the branch of physics that deals with the action
+       of heat and the conversions from one to another of various forms of
+       energy. Thermodynamics is particularly concerned with how these
+       affect temperature, pressure, volume, mechanical action, and work.
+       Historically, it grew out of efforts to construct more efficient
+       heat engines — devices for extracting useful work from expanding
+       hot gases.
+
+     * Statistical mechanics, a related theory, is the branch of physics
+       that analyzes macroscopic systems by applying statistical
+       principles to their microscopic constituents and, thus, can be used
+       to calculate the thermodynamic properties of bulk materials from
+       the spectroscopic data of individual molecules.
+
+     * Quantum mechanics is the branch of mathematical physics treating
+       atomic and subatomic systems and their interaction with radiation
+       in terms of observable quantities. It is based on the observation
+       that all forms of energy are released in discrete units or bundles
+       called quanta. Quantum theory typically permits only probable or
+       statistical calculation of the observed features of subatomic
+       particles, understood in terms of wave functions.
+
+     * The theory of relativity, or relativity theory, is:
+
+     *
+          + A physical theory which is based on two postulates (1) that
+            the speed of light in a vacuum is constant and independent of
+            the source or observer and (2) that it is impossible to
+            determine ones absolute velocity in any inertial systems and
+            which leads to the deduction of the equivalence of mass and
+            energy and of change in mass, dimension, and time with
+            increased velocity — called also special relativity, special
+            theory of relativity;
+          + An extension of the theory to include gravitation and related
+            acceleration phenomena — called also general relativity,
+            general theory of relativity.
+
+   Theory Major subtopics Concepts
+   Classical mechanics Newton's laws of motion, Lagrangian mechanics,
+   Hamiltonian mechanics, Kinematics, Statics, Dynamics, Chaos theory,
+   Acoustics, Fluid dynamics, Continuum mechanics Density, Dimension,
+   Gravity, Space, Time, Motion, Length, Position, Velocity, Acceleration,
+   Mass, Momentum, Force, Energy, Angular momentum, Torque, Conservation
+   law, Harmonic oscillator, Wave, Work, Power
+   Electromagnetism Electrostatics, Electrodynamics, Electricity,
+   Magnetism, Maxwell's equations, Optics Capacitance, Electric charge,
+   Current, Electrical conductivity, Electric field, Electric
+   permittivity, Electric potential, Electrical resistance,
+   Electromagnetic field, Electromagnetic induction, Electromagnetic
+   radiation, Gaussian surface, Magnetic field, Magnetic flux, Magnetic
+   monopole, Magnetic permeability
+   Thermodynamics and Statistical mechanics Heat engine, Kinetic theory
+   Boltzmann's constant, Conjugate variables, Enthalpy, Entropy, Equation
+   of state, Equipartition theorem, Free energy, Heat, Ideal gas law,
+   Internal energy, Laws of thermodynamics, Irreversible process, Ising
+   model, Mechanical action, Partition function, Pressure, Reversible
+   process, Spontaneous process, State function, Statistical ensemble,
+   Temperature, Thermodynamic equilibrium, Thermodynamic potential,
+   Thermodynamic processes, Thermodynamic state, Thermodynamic system,
+   Viscosity, Volume, Work
+   Quantum mechanics Path integral formulation, Scattering theory,
+   Schrödinger equation, Quantum field theory, Quantum statistical
+   mechanics Adiabatic approximation, Blackbody radiation, Correspondence
+   principle, Free particle, Hamiltonian, Hilbert space, Identical
+   particles, Matrix Mechanics, Planck's constant, Observer effect,
+   Operators, Quanta, Quantization, Quantum entanglement, Quantum harmonic
+   oscillator, Quantum number, Quantum tunneling, Schrödinger's cat, Dirac
+   equation, Spin, Wavefunction, Wave mechanics, Wave-particle duality,
+   Zero-point energy, Pauli Exclusion Principle, Heisenberg Uncertainty
+   Principle
+   Theory of relativity Special relativity, General relativity, Einstein
+   field equations Covariance, Einstein manifold, Equivalence principle,
+   Four-momentum, Four-vector, General principle of relativity, Geodesic
+   motion, Gravity, Gravitoelectromagnetism, Inertial frame of reference,
+   Invariance, Length contraction, Lorentzian manifold, Lorentz
+   transformation, Mass-energy equivalence, Metric, Minkowski diagram,
+   Minkowski space, Principle of Relativity, Proper length, Proper time,
+   Reference frame, Rest energy, Rest mass, Relativity of simultaneity,
+   Spacetime, Special principle of relativity, Speed of light,
+   Stress-energy tensor, Time dilation, Twin paradox, World line
+
+Major fields of physics
+
+   Contemporary research in physics is divided into several distinct
+   fields that study different aspects of the material world.
+     * Condensed matter physics, by most estimates the largest single
+       field of physics, is concerned with how the properties of bulk
+       matter, such as the ordinary solids and liquids we encounter in
+       everyday life, arise from the properties and mutual interactions of
+       the constituent atoms. A magnet levitating above a high-temperature
+       superconductor (with boiling liquid nitrogen underneath),
+       demonstrating the Meissner effect, is a phenomenon of importance to
+       the field of condensed matter physics.
+
+     * The field of atomic, molecular, and optical physics deals with the
+       behaviour of individual atoms and molecules, and in particular the
+       ways in which they absorb and emit light.
+
+     * The field of particle physics, also known as "high-energy physics",
+       is concerned with the properties of submicroscopic particles much
+       smaller than atoms, including the elementary particles from which
+       all other units of matter are constructed.
+
+     * Finally, the field of astrophysics applies the laws of physics to
+       explain celestial phenomena, ranging from the Sun and the other
+       objects in the solar system to the Universe as a whole.
+
+   Since the 20th century, the individual fields of physics have become
+   increasingly specialized, and nowadays it is not uncommon for
+   physicists to work in a single field for their entire careers.
+   "Universalists" like Albert Einstein ( 1879– 1955) and Lev Landau (
+   1908– 1968), who were comfortable working in multiple fields of
+   physics, are now very rare.
+
+   Many fields and subfields of physics are listed in the table below.
+   Field Subfields Major theories Concepts
+   Astrophysics Cosmology, Gravitation physics, High-energy astrophysics,
+   Planetary astrophysics, Plasma physics, Space physics, Stellar
+   astrophysics Big Bang, Lambda-CDM model, Cosmic inflation, General
+   relativity, Law of universal gravitation Black hole, Cosmic background
+   radiation, Cosmic string, Cosmos, Dark energy, Dark matter, Galaxy,
+   Gravity, Gravitational radiation, Gravitational singularity, Planet,
+   Solar system, Star, Supernova, Universe
+   Atomic, molecular, and optical physics Atomic physics, Molecular
+   physics, Atomic and Molecular astrophysics, Chemical physics, Optics,
+   Photonics Quantum optics, Quantum chemistry, Quantum information
+   science Atom, Molecule, Diffraction, Electromagnetic radiation, Laser,
+   Polarization, Spectral line, Casimir effect
+   Particle physics Nuclear physics, Nuclear astrophysics, Particle
+   astrophysics, Particle physics phenomenology Standard Model, Quantum
+   field theory, Quantum chromodynamics, Electroweak theory, Effective
+   field theory, Lattice field theory, Lattice gauge theory, Gauge theory,
+   Supersymmetry, Grand unification theory, Superstring theory, M-theory
+   Fundamental force ( gravitational, electromagnetic, weak, strong),
+   Elementary particle, Spin, Antimatter, Spontaneous symmetry breaking,
+   Brane, String, Quantum gravity, Theory of everything, Vacuum energy
+   Condensed matter physics Solid state physics, High pressure physics,
+   Low-temperature physics, Nanoscale and Mesoscopic physics, Polymer
+   physics BCS theory, Bloch wave, Fermi gas, Fermi liquid, Many-body
+   theory Phases (gas, liquid, solid, Bose-Einstein condensate,
+   superconductor, superfluid), Electrical conduction, Magnetism,
+   Self-organization, Spin, Spontaneous symmetry breaking
+
+Classical, quantum and modern physics
+
+   Since the construction of quantum mechanics in the early twentieth
+   century, it generally became evident to the physical community that it
+   would be preferable for many known descriptions of nature to be
+   quantized, that is, to follow the postulates of quantum mechanics. To
+   this effect, all results that were not quantized are called classical:
+   this includes the Special Theory and General Theory of Relativity.
+   Simply because a result is classical does not mean that it was
+   discovered before the advent of quantum mechanics. Classical theories
+   are, generally, much easier to work with and much research is still
+   being conducted on them without the express aim of quantization.
+   However, there exist problems in physics in which classical and quantum
+   aspects must be combined to attain some approximation or limit that may
+   acquire several forms as the passage from classical to quantum
+   mechanics is often difficult — such problems are termed semiclassical.
+
+   However, because relativity and quantum mechanics provide the most
+   complete known description of fundamental interactions, and because the
+   changes brought by these two frameworks to the physicist's world view
+   were revolutionary, the term modern physics is used to describe physics
+   which relies on these two theories. Colloquially, modern physics can be
+   described as the physics of extremes: from systems at the extremely
+   small (atoms, nuclei, fundamental particles) to the extremely large
+   (the Universe) and of the extremely fast (relativity).
+
+Theoretical and experimental physics
+
+   The culture of physics research differs from the other sciences in the
+   separation of theory and experiment. Since the 20th century, most
+   individual physicists have specialized in either theoretical physics or
+   experimental physics. The great Italian physicist Enrico Fermi ( 1901–
+   1954), who made fundamental contributions to both theory and
+   experimentation in nuclear physics, was a notable exception. In
+   contrast, almost all the successful theorists in biology and chemistry
+   (e.g. American quantum chemist and biochemist Linus Pauling) have also
+   been experimentalists, though this is changing as of late.
+
+   Roughly speaking, theorists seek to develop through abstractions and
+   mathematical models theories that can both describe and interpret
+   existing experimental results and successfully predict future results,
+   while experimentalists devise and perform experiments to explore new
+   phenomena and test theoretical predictions. Although theory and
+   experiment are developed separately, they are strongly dependent on
+   each other. However, theoretical research in physics may further be
+   considered to draw from mathematical physics and computational physics
+   in addition to experimentation. Progress in physics frequently comes
+   about when experimentalists make a discovery that existing theories
+   cannot account for, necessitating the formulation of new theories.
+   Likewise, ideas arising from theory often inspire new experiments. In
+   the absence of experiment, theoretical research can go in the wrong
+   direction; this is one of the criticisms that has been leveled against
+   M-theory, a popular theory in high-energy physics for which no
+   practical experimental test has ever been devised.
+
+Discredited theories
+
+   Scientific theories sometimes end up being discredited or superseded.
+   In some of these cases the theory was announced prematurely and gained
+   press attention before being discredited. Other times an established
+   theory is overthrown and a new one erected in its place. Some famous
+   examples are:
+     * Dynamic theory of gravity — Announced in a press release by Nikola
+       Tesla in 1937 but never published.
+     * Steady state theory — An established theory of cosmology in the
+       early and middle 20th century, made obsolete by the success of Big
+       Bang theory.
+     * Luminiferous aether — An established theory in the late 19th
+       century, which was contradicted by observations and made
+       "superfluous" by relativity.
+     * Cold fusion — Announced in a press conference in 1989 but never
+       confirmed. Still controversial.
+     * Phlogiston theory — An established theory of the 18th century that
+       attributed combustion to the liberation of phlogiston from a
+       material.
+
+Phenomenology
+
+   Phenomenology is intermediate between experiment and theory. It is more
+   abstract and includes more logical steps than experiment, but is more
+   directly tied to experiment than theory. The boundaries between theory
+   and phenomenology, and between phenomenology and experiment, are
+   somewhat fuzzy and to some extent depend on the understanding and
+   intuition of the scientist describing these. An example is Einstein's
+   1905 paper on the photoelectric effect, " On a Heuristic Viewpoint
+   Concerning the Production and Transformation of Light".
+
+Applied physics
+
+   Applied physics is physics that is intended for a particular
+   technological or practical use, as for example in engineering, as
+   opposed to basic research. This approach is similar to that of applied
+   mathematics. Applied physics is rooted in the fundamental truths and
+   basic concepts of the physical sciences but is concerned with the
+   utilization of scientific principles in practical devices and systems,
+   and in the application of physics in other areas of science. "Applied"
+   is distinguished from "pure" by a subtle combination of factors such as
+   the motivation and attitude of researchers and the nature of the
+   relationship to the technology or science that may be affected by the
+   work.
+                         Branches of Applied Physics
+   Accelerator physics, Acoustics, Agrophysics, Biophysics, Chemical
+   Physics, Communication Physics, Econophysics, Engineering physics,
+   Fluid dynamics, Geophysics, Materials physics, Medical physics,
+   Nanotechnology, Optics, Optoelectronics, Photovoltaics, Physical
+   chemistry, Physics of computation, Plasma physics, Solid-state devices,
+   Quantum chemistry, Quantum electronics, Quantum information science,
+   Vehicle dynamics
+
+History
+
+   Since antiquity, people have tried to understand the behaviour of
+   matter: why unsupported objects drop to the ground, why different
+   materials have different properties, and so forth. The character of the
+   Universe was also a mystery, for instance the Earth and the behaviour
+   of celestial objects such as the Sun and the Moon. Several theories
+   were proposed, most of which were wrong. These first theories were
+   largely couched in philosophical terms, and never verified by
+   systematic experimental testing as is popular today. The works of
+   Ptolemy and Aristotle, however, were also not always found to match
+   everyday observations. There were exceptions and there are anachronisms
+   - for example, Indian philosophers and astronomers gave many correct
+   descriptions in atomism and astronomy, and the Greek thinker Archimedes
+   derived many correct quantitative descriptions of mechanics and
+   hydrostatics.
+
+   The willingness to question previously held truths and search for new
+   answers eventually resulted in a period of major scientific
+   advancements, now known as the Scientific Revolution of the late 17th
+   century. The precursors to the scientific revolution can be traced back
+   to the important developments made in India and Persia, including the
+   elliptical model of the planets based on the heliocentric solar system
+   of gravitation developed by Indian mathematician-astronomer Aryabhata;
+   the basic ideas of atomic theory developed by Hindu and Jaina
+   philosophers; the theory of light being equivalent to energy particles
+   developed by the Indian Buddhist scholars Dignāga and Dharmakirti; the
+   optical theory of light developed by Muslim scientist Ibn al-Haitham
+   (Alhazen); the Astrolabe invented by the Persian astronomer Muhammad
+   al-Fazari; and the significant flaws in the Ptolemaic system pointed
+   out by Persian scientist Nasir al-Din Tusi.
+
+   As the influence of the Arab Empire expanded to Europe, the works of
+   Aristotle preserved by the Arabs, and the works of the Indians and
+   Persians, became known in Europe by the 12th and 13th centuries. This
+   eventually led to the scientific revolution which culminated with the
+   publication of the Philosophiae Naturalis Principia Mathematica in 1687
+   by the mathematician, physicist, alchemist and inventor Sir Isaac
+   Newton ( 1643- 1727).
+
+   The Scientific Revolution is held by most historians (e.g., Howard
+   Margolis) to have begun in 1543, when the first printed copy of
+   Nicolaus Copernicus's De Revolutionibus (most of which had been written
+   years prior but whose publication had been delayed) was brought to the
+   influential Polish astronomer from Nuremberg.
+
+   Further significant advances were made over the following century by
+   Galileo Galilei, Christiaan Huygens, Johannes Kepler, and Blaise
+   Pascal. During the early 17th century, Galileo pioneered the use of
+   experimentation to validate physical theories, which is the key idea in
+   modern scientific method. Galileo formulated and successfully tested
+   several results in dynamics, in particular the Law of Inertia. In 1687,
+   Newton published the Principia, detailing two comprehensive and
+   successful physical theories: Newton's laws of motion, from which arise
+   classical mechanics; and Newton's Law of Gravitation, which describes
+   the fundamental force of gravity. Both theories agreed well with
+   experiment. The Principia also included several theories in fluid
+   dynamics. Classical mechanics was re-formulated and extended by
+   Leonhard Euler, French mathematician Joseph-Louis Comte de Lagrange,
+   Irish mathematical physicist William Rowan Hamilton, and others, who
+   produced new results in mathematical physics. The law of universal
+   gravitation initiated the field of astrophysics, which describes
+   astronomical phenomena using physical theories.
+
+   After Newton defined classical mechanics, the next great field of
+   inquiry within physics was the nature of electricity. Observations in
+   the 17th and 18th century by scientists such as Robert Boyle, Stephen
+   Gray, and Benjamin Franklin created a foundation for later work. These
+   observations also established our basic understanding of electrical
+   charge and current.
+
+   In 1821, the English physicist and chemist Michael Faraday integrated
+   the study of magnetism with the study of electricity. This was done by
+   demonstrating that a moving magnet induced an electric current in a
+   conductor. Faraday also formulated a physical conception of
+   electromagnetic fields. James Clerk Maxwell built upon this conception,
+   in 1864, with an interlinked set of 20 equations that explained the
+   interactions between electric and magnetic fields. These 20 equations
+   were later reduced, using vector calculus, to a set of four equations
+   by Oliver Heaviside.
+
+   In addition to other electromagnetic phenomena, Maxwell's equations
+   also can be used to describe light. Confirmation of this observation
+   was made with the 1888 discovery of radio by Heinrich Hertz and in 1895
+   when Wilhelm Roentgen detected X rays. The ability to describe light in
+   electromagnetic terms helped serve as a springboard for Albert
+   Einstein's publication of the theory of special relativity in 1905.
+   This theory combined classical mechanics with Maxwell's equations. The
+   theory of special relativity unifies space and time into a single
+   entity, spacetime. Relativity prescribes a different transformation
+   between reference frames than classical mechanics; this necessitated
+   the development of relativistic mechanics as a replacement for
+   classical mechanics. In the regime of low (relative) velocities, the
+   two theories agree. Einstein built further on the special theory by
+   including gravity into his calculations, and published his theory of
+   general relativity in 1915.
+
+   One part of the theory of general relativity is Einstein's field
+   equation. This describes how the stress-energy tensor creates curvature
+   of spacetime and forms the basis of general relativity. Further work on
+   Einstein's field equation produced results which predicted the Big
+   Bang, black holes, and the expanding universe. Einstein believed in a
+   static universe and tried (and failed) to fix his equation to allow for
+   this. However, by 1929 Edwin Hubble's astronomical observations
+   suggested that the universe is expanding.
+
+   From the late 17th century onwards, thermodynamics was developed by
+   physicist and chemist Boyle, Young, and many others. In 1733, Bernoulli
+   used statistical arguments with classical mechanics to derive
+   thermodynamic results, initiating the field of statistical mechanics.
+   In 1798, Thompson demonstrated the conversion of mechanical work into
+   heat, and in 1847 Joule stated the law of conservation of energy, in
+   the form of heat as well as mechanical energy. Ludwig Boltzmann, in the
+   19th century, is responsible for the modern form of statistical
+   mechanics.
+
+   In 1895, Röntgen discovered X-rays, which turned out to be
+   high-frequency electromagnetic radiation. Radioactivity was discovered
+   in 1896 by Henri Becquerel, and further studied by Marie Curie, Pierre
+   Curie, and others. This initiated the field of nuclear physics.
+
+   In 1897, Joseph J. Thomson discovered the electron, the elementary
+   particle which carries electrical current in circuits. In 1904, he
+   proposed the first model of the atom, known as the plum pudding model.
+   (The existence of the atom had been proposed in 1808 by John Dalton.)
+
+   These discoveries revealed that the assumption of many physicists that
+   atoms were the basic unit of matter was flawed, and prompted further
+   study into the structure of atoms.
+
+   In 1911, Ernest Rutherford deduced from scattering experiments the
+   existence of a compact atomic nucleus, with positively charged
+   constituents dubbed protons. Neutrons, the neutral nuclear
+   constituents, were discovered in 1932 by Chadwick. The equivalence of
+   mass and energy (Einstein, 1905) was spectacularly demonstrated during
+   World War II, as research was conducted by each side into nuclear
+   physics, for the purpose of creating a nuclear bomb. The German effort,
+   led by Heisenberg, did not succeed, but the Allied Manhattan Project
+   reached its goal. In America, a team led by Fermi achieved the first
+   man-made nuclear chain reaction in 1942, and in 1945 the world's first
+   nuclear explosive was detonated at Trinity site, near Alamogordo, New
+   Mexico.
+
+   In 1900, Max Planck published his explanation of blackbody radiation.
+   This equation assumed that radiators are quantized, which proved to be
+   the opening argument in the edifice that would become quantum
+   mechanics. By introducing discrete energy levels, Planck, Einstein,
+   Niels Bohr, and others developed quantum theories to explain various
+   anomalous experimental results. Quantum mechanics was formulated in
+   1925 by Heisenberg and in 1926 by Schrödinger and Paul Dirac, in two
+   different ways that both explained the preceding heuristic quantum
+   theories. In quantum mechanics, the outcomes of physical measurements
+   are inherently probabilistic; the theory describes the calculation of
+   these probabilities. It successfully describes the behaviour of matter
+   at small distance scales. During the 1920s Schrödinger, Heisenberg, and
+   Max Born were able to formulate a consistent picture of the chemical
+   behaviour of matter, a complete theory of the electronic structure of
+   the atom, as a byproduct of the quantum theory.
+
+   Quantum field theory was formulated in order to extend quantum
+   mechanics to be consistent with special relativity. It was devised in
+   the late 1940s with work by Richard Feynman, Julian Schwinger,
+   Sin-Itiro Tomonaga, and Freeman Dyson. They formulated the theory of
+   quantum electrodynamics, which describes the electromagnetic
+   interaction, and successfully explained the Lamb shift. Quantum field
+   theory provided the framework for modern particle physics, which
+   studies fundamental forces and elementary particles.
+
+   Chen Ning Yang and Tsung-Dao Lee, in the 1950s, discovered an
+   unexpected asymmetry in the decay of a subatomic particle. In 1954,
+   Yang and Robert Mills then developed a class of gauge theories which
+   provided the framework for understanding the nuclear forces (Yang,
+   Mills 1954). The theory for the strong nuclear force was first proposed
+   by Murray Gell-Mann. The electroweak force, the unification of the weak
+   nuclear force with electromagnetism, was proposed by Sheldon Lee
+   Glashow, Abdus Salam and Steven Weinberg and confirmed in 1964 by James
+   Watson Cronin and Val Fitch. This led to the so-called Standard Model
+   of particle physics in the 1970s, which successfully describes all the
+   elementary particles observed to date.
+
+   Quantum mechanics also provided the theoretical tools for condensed
+   matter physics, whose largest branch is solid state physics. It studies
+   the physical behaviour of solids and liquids, including phenomena such
+   as crystal structures, semiconductivity, and superconductivity. The
+   pioneers of condensed matter physics include Felix Bloch, who created a
+   quantum mechanical description of the behaviour of electrons in crystal
+   structures in 1928. The transistor was developed by physicists John
+   Bardeen, Walter Houser Brattain and William Bradford Shockley in 1947
+   at Bell Telephone Laboratories.
+
+   The two themes of the 20th century, general relativity and quantum
+   mechanics, appear inconsistent with each other. General relativity
+   describes the universe on the scale of planets and solar systems while
+   quantum mechanics operates on sub-atomic scales. This challenge is
+   being attacked by string theory, which treats spacetime as composed,
+   not of points, but of one-dimensional objects, strings. Strings have
+   properties like a common string (e.g., tension and vibration). The
+   theories yield promising, but not yet testable results. The search for
+   experimental verification of string theory is in progress.
+
+   The United Nations declared the year 2005, the centenary of Einstein's
+   annus mirabilis, as the World Year of Physics.
+
+Future directions
+
+   Research in physics is progressing constantly on a large number of
+   fronts, and is likely to do so for the foreseeable future.
+
+   In condensed matter physics, the biggest unsolved theoretical problem
+   is the explanation for high-temperature superconductivity. Strong
+   efforts, largely experimental, are being put into making workable
+   spintronics and quantum computers.
+
+   In particle physics, the first pieces of experimental evidence for
+   physics beyond the Standard Model have begun to appear. Foremost
+   amongst these are indications that neutrinos have non-zero mass. These
+   experimental results appear to have solved the long-standing solar
+   neutrino problem in solar physics. The physics of massive neutrinos is
+   currently an area of active theoretical and experimental research. In
+   the next several years, particle accelerators will begin probing energy
+   scales in the TeV range, in which experimentalists are hoping to find
+   evidence for the Higgs boson and supersymmetric particles.
+   Thousands of particles explode from the collision point of two
+   relativistic (100 GeV per nucleon) gold ions in the STAR detector of
+   the Relativistic Heavy Ion Collider; an experiment done in order to
+   investigate the properties of a quark gluon plasma such as the one
+   thought to exist in the ultrahot first few microseconds after the big
+   bang.
+   Enlarge
+   Thousands of particles explode from the collision point of two
+   relativistic (100 GeV per nucleon) gold ions in the STAR detector of
+   the Relativistic Heavy Ion Collider; an experiment done in order to
+   investigate the properties of a quark gluon plasma such as the one
+   thought to exist in the ultrahot first few microseconds after the big
+   bang.
+
+   Theoretical attempts to unify quantum mechanics and general relativity
+   into a single theory of quantum gravity, a program ongoing for over
+   half a century, have not yet borne fruit. The current leading
+   candidates are M-theory, superstring theory and loop quantum gravity.
+
+   Many astronomical and cosmological phenomena have yet to be
+   satisfactorily explained, including the existence of ultra-high energy
+   cosmic rays, the baryon asymmetry, the acceleration of the universe and
+   the anomalous rotation rates of galaxies.
+
+   Although much progress has been made in high-energy, quantum, and
+   astronomical physics, many everyday phenomena, involving complexity,
+   chaos, or turbulence are still poorly understood. Complex problems that
+   seem like they could be solved by a clever application of dynamics and
+   mechanics, such as the formation of sandpiles, nodes in trickling
+   water, the shape of water droplets, mechanisms of surface tension
+   catastrophes, or self-sorting in shaken heterogeneous collections are
+   unsolved. These complex phenomena have received growing attention since
+   the 1970s for several reasons, not least of which has been the
+   availability of modern mathematical methods and computers which enabled
+   complex systems to be modeled in new ways. The interdisciplinary
+   relevance of complex physics has also increased, as exemplified by the
+   study of turbulence in aerodynamics or the observation of pattern
+   formation in biological systems. In 1932, Horace Lamb correctly
+   prophesied the success of the theory of quantum electrodynamics and the
+   near-stagnant progress in the study of turbulence:
+
+     I am an old man now, and when I die and go to heaven there are two
+     matters on which I hope for enlightenment. One is quantum
+     electrodynamics, and the other is the turbulent motion of fluids.
+     And about the former I am rather optimistic.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Physics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

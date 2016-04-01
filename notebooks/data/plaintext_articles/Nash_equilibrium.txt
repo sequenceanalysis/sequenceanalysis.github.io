@@ -1,0 +1,295 @@
+   #copyright
+
+Nash equilibrium
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+                                                               Nash Equilibrium
+                                              A solution concept in game theory
+                                                                  Relationships
+     Subset of:                        Rationalizability, Correlated equilibrium
+   Superset of:       Evolutionary stable strategy, Subgame perfect equilibrium,
+                Perfect Bayesian equilibrium, Trembling hand perfect equilibrium
+                                                                   Significance
+   Proposed by:                                                 John Forbes Nash
+      Used for:                                        All non-cooperative games
+       Example:                                               Prisoner's dilemma
+
+   In game theory, the Nash equilibrium (named after John Forbes Nash, who
+   proposed it) is a kind of solution concept of a game involving two or
+   more players, where no player has anything to gain by changing only his
+   or her own strategy unilaterally. If each player has chosen a strategy
+   and no player can benefit by changing his or her strategy while the
+   other players keep theirs unchanged, then the current set of strategy
+   choices and the corresponding payoffs constitute a Nash equilibrium.
+
+   The concept of the Nash equilibrium (NE) is not exactly original to
+   Nash (e.g., Antoine Augustin Cournot showed how to find what we now
+   call the Nash equilibrium of the Cournot duopoly game). Consequently,
+   some authors refer to it as a Nash-Cournot equilibrium. However, Nash
+   showed for the first time in his dissertation, Non-cooperative games
+   (1950), that Nash equilibria must exist for all finite games with any
+   number of players. Until Nash, this had only been proven for 2-player
+   zero-sum games by John von Neumann and Oskar Morgenstern (1947).
+
+Formal definition
+
+   Let (S, f) be a game, where S is the set of strategy profiles and f is
+   the set of payoff profiles. When each player i \in \{1, ..., n\}
+   chooses strategy x[i] resulting in strategy profile x = (x[1],...,x[n])
+   then player i obtains payoff f[i](x). Note that the payoff depends on
+   the strategy profile chosen, i.e. on the strategy chosen by player i as
+   well as the strategies chosen by all the other players. A strategy
+   profile x^* \in S is a Nash equilibrium (NE) if no deviation in
+   strategy by any single player is profitable, that is, if for all i
+
+          f_i(x^*) \geq f_i(x^*_{1},...,x^*_{i-1},x_i,
+          x^*_{i+1},...,x^*_n).
+
+   A game can have a pure strategy NE or an NE in its mixed extension
+   (that of choosing a pure strategy stochastically with a fixed
+   frequency). Nash proved that, if we allow mixed strategies (players
+   choose strategies randomly according to pre-assigned probabilities),
+   then every n-player game in which every player can choose from finitely
+   many strategies admits at least one Nash equilibrium.
+
+Proof sketch
+
+   Let σ [− i] be a mixed strategy profile of all players except for
+   player i. We can define a best response correspondence for player i,
+   b[i]. b[i] is a relation from the set of all probability distributions
+   over opponent player profiles to a set of player i's strategies, such
+   that each element of
+
+          b[i](σ [− i])
+
+   is a best response to σ [− i]. Define
+
+          b(\sigma) = b_1(\sigma_{-1}) \times b_2(\sigma_{-2}) \times
+          \cdots \times b_n(\sigma_{-n}) .
+
+   One can use the Kakutani fixed point theorem to prove that b has a
+   fixed point. That is, there is a σ ^* such that \sigma^* \in
+   b(\sigma^*) . Since b(σ ^* ) represents the best response for all
+   players to σ ^* , the existence of the fixed point proves that there is
+   some strategy set which is a best response to itself. No player could
+   do any better by deviating, and it is therefore a Nash equilibrium.
+
+Examples
+
+Competition game
+
+   CAPTION: A competition game
+
+   Player 2 chooses '0' Player 2 chooses '1' Player 2 chooses '2' Player 2
+   chooses '3'
+   Player 1 chooses '0' 0, 0 2, -2 2, -2 2, -2
+   Player 1 chooses '1' -2, 2 1, 1 3, -1 3, -1
+   Player 1 chooses '2' -2, 2 -1, 3 2, 2 4, 0
+   Player 1 chooses '3' -2, 2 -1, 3 0, 4 3, 3
+
+   Consider the following two-player game: both players simultaneously
+   choose a whole number from 0 to 3. Both players then win the minimum of
+   the two numbers in points. In addition, if one player chooses a larger
+   number than the other, then s/he has to give up two points to the
+   other. This game has a unique Nash equilibrium: both players choosing
+   0. Any other choice of strategies can be improved if one of the players
+   lowers his number to one less than the other player's number. In the
+   table to the left, for example, when starting at the green square it is
+   in player 1's interest to move to the purple square by choosing a
+   smaller number, and it is in player 2's interest to move to the blue
+   square by choosing a smaller number. If the game is modified so that
+   the two players win the named amount if they both choose the same
+   number, and otherwise win nothing, then there are 3 Nash equilibria.
+
+Coordination game
+
+                                              CAPTION: A coordination game
+
+                           Player 2 adopts strategy 1 Player 2 adopts strategy 2
+Player 1 adopts strategy 1            A, A                       B, C
+Player 1 adopts strategy 2            C, B                       D, D
+
+   The coordination game is a classic ( symmetric) two player, two
+   strategy game, with the payoff matrix shown to the right, where the
+   payoffs are according to A>C and D>B. The players should thus cooperate
+   on either of the two strategies to receive a high payoff. Players in
+   the game have to agree on one of the two strategies in order to receive
+   a high payoff. If the players do not agree, a lower payoff is rewarded.
+   An example of a coordination game is the setting where two technologies
+   are available to two firms with compatible products, and they have to
+   elect a strategy to become the market standard. If both firms agree on
+   the chosen technology, high sales are expected for both firms. If the
+   firms do not agree on the standard technology, few sales result. Both
+   strategies are Nash equilibria of the game.
+
+   Driving on a road, and having to choose either to drive on the left or
+   to drive on the right of the road, is also a coordination game. For
+   example, with payoffs 100 meaning no crash and 0 meaning a crash, the
+   coordination game can be defined with the following payoff matrix:
+
+   CAPTION: The driving game
+
+                      Drive on the Left Drive on the Right
+   Drive on the Left      100, 100             0, 0
+   Drive on the Right       0, 0             100, 100
+
+   In this case there are two pure strategy Nash equilibria, when both
+   choose to either drive on the left or on the right. If we admit mixed
+   strategies (where a pure strategy is chosen at random, subject to some
+   fixed probability), then there are three Nash equilibria for the same
+   case: two we have seen from the pure-strategy form, where the
+   probabilities are (0%,100%) for player one, (0%, 100%) for player two;
+   and (100%, 0%) for player one, (100%, 0%) for player two respectively.
+   We add another where the probabilities for each player is (50%, 50%).
+
+Prisoner's dilemma
+
+          (but watch out for differences in the orientation of the payoff
+          matrix)
+
+   The Prisoner's Dilemma has the same payoff matrix as depicted for the
+   Coordination Game, but now C > A > D > B. Because C > A and D > B, each
+   player improves his situation by switching from strategy #1 to strategy
+   #2, no matter what the other player decides. The Prisoner's Dilemma
+   thus has a single Nash Equilibrium: both players choosing strategy #2
+   ("betraying"). What has long made this an interesting case to study is
+   the fact that D < A ("both betray" is globally inferior to "both remain
+   loyal"). The globally optimal strategy is unstable; it is not an
+   equilibrium.
+
+   As Ian Stewart put it, "sometimes rational decisions aren't sensible!"
+
+Nash equilibria in a payoff matrix
+
+   There is an easy numerical way to identify Nash Equilibria on a Payoff
+   Matrix. It is especially helpful in two person games where players have
+   more than two strategies. In this case formal analysis may become too
+   long. This rule does not apply to the case where mixed (stochastic)
+   strategies are of interest. The rule goes as follows: if the first
+   payoff number, in the duplet of the cell, is the maximum of the column
+   of the cell and if the second number is the maximum of the row of the
+   cell - then the cell represents a Nash equilibrium.
+
+   We can apply this rule to a 3x3 matrix:
+
+   CAPTION: A Payoff Matrix
+
+            Option A Option B Option C
+   Option A   0, 0    25, 40   5, 10
+   Option B  40, 25    0, 0    5, 15
+   Option C  10, 5    15, 5    10, 10
+
+   Using the rule, we can very quickly (much faster than with formal
+   analysis) see that the Nash Equlibria cells are (B,A), (A,B), and
+   (C,C). Indeed, for cell (B,A) 40 is the maximum of the first column and
+   25 is the maximum of the second row. For (A,B) 25 is the maximum of the
+   second column and 40 is the maximum of the first row. Same for cell
+   (C,C). For other cells, either one or both of the duplet members are
+   not the maximum of the corresponding rows and columns.
+
+   This said, the actual mechanics of finding equilibrium cells is
+   obvious: find the maximum of a column and check if the second member of
+   the tuple has maximum of the row. If yes - you've got a Nash
+   Equilibrium. Check all columns this way to find all NE cells. An NxN
+   matrix may have between 0 and N pure strategy Nash equilibria.
+
+Stability
+
+   The concept of stability, useful in the analysis of many kinds of
+   equilibrium, can also be applied to Nash equilibria.
+
+   A Nash equilibrium for a mixed strategy game is stable if a small
+   change (specifically, an infinitesimal change) in probabilities for one
+   player leads to a situation where two conditions hold:
+    1. the player who did not change has no better strategy in the new
+       circumstance
+    2. the player who did change is now playing with a strictly worse
+       strategy
+
+   If these cases are both met, then a player with the small change in his
+   mixed-strategy will return immediately to the Nash equilibrium. The
+   equilibrium is said to be stable. If condition one does not hold then
+   the equilibrium is unstable. If only condition one holds then there are
+   likely to be an infinite number of optimal strategies for the player
+   who changed. John Nash showed that the latter situation could not arise
+   in a range of well-defined games.
+
+   In the "driving game" example above there are both stable and unstable
+   equilibria. The equilibria involving mixed-strategies with 100%
+   probabilities are stable. If either player changes his probabilities
+   slightly, they will be both at a disadvantage, and his opponent will
+   have no reason to change his strategy in turn. The (50%,50%)
+   equilibrium is instability. If either player changes his probabilities,
+   then the other player immediately has a better strategy at either (0%,
+   100%) or (100%, 0%).
+
+   Stability is crucial in practical applications of Nash equilibria,
+   since the mixed-strategy of each player is not perfectly known, but has
+   to be inferred from statistical distribution of his actions in the
+   game. In this case unstable equilibria are very unlikely to arise in
+   practice, since any minute change in the proportions of each strategy
+   seen will lead to a change in strategy and the breakdown of the
+   equilibrium.
+
+   Note that stability of the equilibrium is related to, but distinct
+   from, stability of a strategy.
+
+Occurrence
+
+   If a game has a unique Nash equilibrium and is played among players
+   with certain characteristics, then it is true (by definition of these
+   characteristics) that the NE strategy set will be adopted. Sufficient
+   conditions to be met by the players are:
+    1. The players all will do their utmost to maximize their expected
+       payoff as described by the game.
+    2. The players are flawless in execution.
+    3. The players have sufficient intelligence to deduce the solution.
+    4. There is common knowledge that all players meet these conditions,
+       including this one. So, not only must each player know the other
+       players meet the conditions, but also they must know that they all
+       know that they meet them, and know that they know that they know
+       that they meet them, and so on.
+
+Where the conditions are not met
+
+   Examples of game theory problems in which these conditions are not met:
+    1. The first condition is not met if the game does not correctly
+       describe the quantities a player wishes to maximize. In this case
+       there is no particular reason for that player to adopt an
+       equilibrium strategy. For instance, the prisoner’s dilemma is not a
+       dilemma if either player is happy to be jailed indefinitely.
+    2. Pong has an equilibrium which can be played perfectly by a
+       computer, but to make human vs. computer games interesting the
+       programmers add small errors in execution, violating the second
+       condition.
+    3. In many cases, the third condition is not met because, even though
+       the equilibrium must exist, it is unknown due to the complexity of
+       the game, for instance in Chinese chess. Or, if known, it may not
+       be known to all players, as when playing tic-tac-toe with a small
+       child who desperately wants to win (meeting the other criteria).
+    4. The fourth criterion of common knowledge may not be met even if all
+       players do, in fact, meet all the other criteria. Players wrongly
+       distrusting each other's rationality may adopt counter-strategies
+       to expected irrational play on their opponents’ behalf. This is a
+       major consideration in “ Chicken” or an arms race, for example.
+
+Where the conditions are met
+
+   Due to the limited conditions in which NE can actually be observed,
+   they are rarely treated as a guide to day-to-day behaviour, or observed
+   in practice in human negotiations. However, as a theoretical concept in
+   economics, and evolutionary biology the NE has explanatory power. The
+   payoff in economics is money, and in evolutionary biology gene
+   transmission, both are the fundamental bottom line of survival. Agents
+   failing to maximize these for whatever reason will be competed out of
+   the market or environment, which are ascribed the ability to test all
+   strategies. This conclusion is drawn from the " stability" theory
+   above. In these situations the assumption that the strategy observed is
+   actually a NE has often been borne out by research.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Nash_equilibrium"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,173 @@
+   #copyright
+
+Ultimatum game
+
+2007 Schools Wikipedia Selection. Related subjects: Games
+
+   Extensive Form Representation of a Two Proposal Ultimatum Game
+   Enlarge
+   Extensive Form Representation of a Two Proposal Ultimatum Game
+
+   The ultimatum game is an experimental economics game in which two
+   parties interact anonymously and only once, so reciprocation is not an
+   issue. The first player proposes how to divide a sum of money with the
+   second party. If the second player rejects this division, neither gets
+   anything. If the second accepts, the first gets her demand and the
+   second gets the rest.
+
+Equilibrium analysis
+
+   For illustration, we will suppose there is a smallest division of the
+   good available (say 1 cent). Suppose that the total amount of money
+   available is x.
+
+   The first player chooses some amount in the interval [0,x]. The second
+   player chooses some function f: [0, x] → {"accept", "reject"} (i.e. the
+   second chooses which divisions to accept and which to reject). We will
+   represent the strategy profile as (p, f), where p is the proposal and f
+   is the function. If f(p) = "accept" the first receives p and the second
+   x-p, otherwise both get zero. (p, f) is a Nash equilibrium of the
+   Ultimatum game if f(p) = "accept" and there is no y > p such that f(y)
+   = "accept" (i.e. p is the largest amount the second will accept). The
+   first player would not want to unilaterally increase her demand since
+   the second will reject any higher demand. The second would not want to
+   reject the demand, since he would then get nothing.
+
+   There is one other Nash equilibrium where p = x and f(y) = "reject" for
+   all y>0 (i.e. the second rejects all demands that gives the first any
+   amount at all). Here both players get nothing, but neither could get
+   more by unilaterally changing their strategy.
+
+   However, only one of these Nash equilibria satisfies a more restrictive
+   equilibrium concept, subgame perfection. Suppose that the first demands
+   a large amount that gives the second some (small) amount of money. By
+   rejecting the demand, the second is choosing nothing rather than
+   something. So, it would be better for the second to choose to accept
+   any demand that gives him any amount whatsoever. If the first knows
+   this, she will give the second the smallest (non-zero) amount possible.
+
+Experimental results
+
+   In many cultures, people offer "fair" (e.g., 50:50) splits, and offers
+   of less than 20% are often rejected. These results (along with similar
+   results in the Dictator Game) are taken to be evidence against the Homo
+   economicus model of individual decisions. Since an individual who
+   rejects a positive offer is choosing to get nothing rather than
+   something, individuals must not be acting solely to maximize their
+   economic gain. Several attempts to explain this behaviour are
+   available. Some authors suggest that individuals are maximizing their
+   expected utility, but money does not translate directly into expected
+   utility. Perhaps individuals get some psychological benefit from
+   engaging in punishment or receive some psychological harm from
+   accepting a low offer.
+
+   Based on fMRI studies of the brain during decision-making, different
+   brain regions activate dependent upon whether the participating subject
+   "accepts" or "declines" an offer. Since to "decline" means that neither
+   receives any money, the responder is actually "punishing" the player
+   who makes a low offer. Punishing activates the part of the brain that
+   is associated with the dopamine pathway — i.e. it provides pleasure to
+   punish. Hence, the subjects who refuse and punish in the process,
+   possibly receive more pleasure from punishment than they would from
+   accepting a low offer. This is, therefore, an expected utility argument
+   where the currency is in pleasures received rather than goods or their
+   associated values in money.
+
+Explanations
+
+   The classical explanation of the Ultimatum game as a well-formed
+   experiment approximating general behaviour often leads to a conclusion
+   that the Homo economicus model of economic self-interest is incomplete.
+   However, several competing models suggest ways to bring the cultural
+   preferences of the players within the optimized utility function of the
+   players in such a way as to preserve the utility maximizing agent as a
+   feature of microeconomics. For example, researchers have found that
+   Mongolian proposers tend to offer even splits despite knowing that very
+   unequal splits are almost always accepted. Similar results from other
+   small-scale societies players have led some researchers to conclude
+   that " reputation" is seen as more important than any economic reward.
+   Another way of integrating the conclusion with utility maximization is
+   some form of Inequity aversion model (preference for fairness).
+
+   An explanation which was originally quite popular was the "learning"
+   model, in which it was hypothesized that proposers’ offers would decay
+   towards the sub game perfect NE (almost zero) as they mastered the
+   strategy of the game. (This decay tends to be seen in other iterated
+   games). However, this explanation ( bounded rationality) is less
+   commonly offered now, in light of empirical evidence against it.
+
+   It has been hypothesised (e.g. by James Surowiecki) that very unequal
+   allocations are rejected only because the absolute amount of the offer
+   is low. The concept here is that if the amount to be split were ten
+   million dollars a 90:10 split would probably be accepted rather than
+   spurning a million dollar offer. Essentially, this explanation says
+   that the absolute amount of the endowment is not significant enough to
+   produce strategically optimal behaviour. However, many experiments have
+   been performed where the amount offered was substantial: studies by
+   Cameron and Hoffman et al. have found that the higher the stakes are
+   the closer offers approach an even split, even in a 100 USD game played
+   in Indonesia, where average 1995 per-capita income was 670 USD.
+   Rejections are reportedly independent of the stakes as this level, with
+   30 USD offers being turned down in Indonesia, as in the United States,
+   even though this equates to two week's wages in Indonesia.
+
+Evolutionary game theory
+
+   Other authors have used evolutionary game theory to explain behaviour
+   in the Ultimatum Game. Simple evolutionary models, e.g. the replicator
+   dynamics, cannot account for the evolution of fair proposals or for
+   rejections. These authors have attempted to provide increasingly
+   complex models to explain fair behaviour.
+
+Sociological applications
+
+   The split dollar game is important from a sociological perspective,
+   because it illustrates the human willingness to accept injustice and
+   social inequality.
+
+   The extent to which people are willing to tolerate different
+   distributions of the reward from " cooperative" ventures results in
+   inequality that is, measurably, exponential across the strata of
+   management within large corporations. See also: Inequity Aversion
+   within companies.
+
+   Some see the implications of the Ultimatum game as profoundly relevant
+   to the relationship between society and the free market, with Prof.
+   P.J. Hill, ( Wheaton College (Illinois)) saying:
+
+          “I see the [ultimatum] game as simply providing counter evidence
+          to the general presumption that participation in a market
+          economy (capitalism) makes a person more selfish.”
+
+History
+
+   The first Ultimatum game was developed in 1982 as a stylized
+   representation of negotiation, by Güth, Werner, Schmittberger, and
+   Schwarze. It has since become the most popular of the standard
+   Experiments in economics, and is said to be "catching up with the
+   Prisoner's dilemma as a prime show-piece of apparently irrational
+   behaviour."
+
+Variants
+
+   In the “Competitive Ultimatum game” there are many proposers and the
+   responder can accept at most one of their offers: With more than three
+   (naïve) proposers the responder is usually offered almost the entire
+   endowment (which would be the Nash Equilibrium assuming no collusion
+   among proposers).
+
+   The “Ultimatum Game with tipping” – if a tip is allowed, from responder
+   back to proposer the game includes a feature of the trust game, and
+   splits tend to be (net) more equitable.
+
+   The “Reverse Ultimatum game” gives more power to the responder by
+   giving the proposer the right to offer as many divisions of the
+   endowment as they like. Now the game only ends when the responder
+   accepts an offer or abandons the game, and therefore the proposer tends
+   to receive slightly less than half of the initial endowment.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Ultimatum_game"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

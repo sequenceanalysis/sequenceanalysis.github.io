@@ -1,0 +1,371 @@
+   #copyright
+
+GNOME
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   CAPTION: GNOME
+
+   GNOME 2.16 screenshot showing the Nautilus file manager and the gedit
+   text editor
+   Developer: GNOME developers
+   Latest release: 2.16.2 / 23 November 2006
+   OS: Cross-platform
+   Available language(s): Multilingual (more than 25)
+   Use: Desktop environment
+   License: GNU Lesser General Public License
+   GNU General Public License
+   Website: http://www.gnome.org/
+
+   The GNOME project is an international effort to create an easy-to-use
+   computing platform built entirely from free software. This goal
+   includes creating tools which help developers write new stand-alone
+   application software, selecting applications for inclusion in the
+   official product, and working on what is known as the desktop
+   environment — the programs which manage application launching, file
+   handling, and window and task management.
+
+   A great deal of software is created or hosted under the umbrella of the
+   GNOME project, some of which is collected and released as GNOME. GNOME
+   is used in conjunction with an operating system such as Linux or Sun
+   Microsystems' Solaris, to create a fully functional computer system.
+
+   GNOME is the official desktop of the GNU Project and the official
+   pronunciation of the name is /gəˈnoʊm/ with a hard "G", although /noʊm/
+   (as in the English word " gnome") is also in common usage.
+
+Aims
+
+   According to the GNOME website:
+
+
+GNOME
+
+      The GNOME project provides two things: The GNOME desktop environment,
+          an intuitive and attractive desktop for users, and the GNOME
+     development platform, an extensive framework for building applications
+                  that integrate into the rest of the desktop.
+
+
+                                                                           GNOME
+
+   The GNOME project puts heavy emphasis on simplicity, usability and
+   making things "just work". The other aims of the project are:
+     * Freedom — to create a desktop environment that will always be free
+       of charge, with the source code available for re-use under a Free
+       software license.
+     * Accessibility — ensuring the desktop can be used by anyone,
+       regardless of technical skill or physical disability.
+     * Internationalisation and localisation — making the desktop
+       available in many languages.
+     * Developer-friendliness — ensuring it is easy to write software that
+       integrates smoothly with the desktop, and allow developers a free
+       choice of programming language.
+     * Organisation — a regular release cycle and a disciplined community
+       structure.
+     * Support — ensuring backing from other institutions beyond the GNOME
+       community.
+
+Multilingual
+
+     * Available languages for GNOME 2.16
+     * Available languages for GNOME 2.14
+
+Origin
+
+   GNOME 2.13.3 (development version) using the Japanese language, with
+   Tango Desktop Project pre-release icons.
+   Enlarge
+   GNOME 2.13.3 (development version) using the Japanese language, with
+   Tango Desktop Project pre-release icons.
+
+   The GNOME project was started in August 1997 by Miguel de Icaza and
+   Federico Mena in response to licensing concerns over software used by
+   KDE, a free software desktop environment that relies on the Qt widget
+   toolkit. At the time, Qt did not use a free software license and
+   members of the GNU project became concerned about the use of such a
+   toolkit for building a free software desktop and applications. Two
+   projects were started: the Harmony toolkit, to create a free
+   replacement for the Qt libraries, and GNOME to create a new desktop
+   without Qt and built entirely on top of free software.
+
+   In place of the Qt toolkit, GTK+ was chosen as the base of the GNOME
+   desktop. GTK+ uses the GNU Lesser Public License (LGPL), a free
+   software license that allows software linking to it, such as
+   applications written for GNOME, to use a much wider set of licenses,
+   including proprietary software licenses. The GNOME desktop itself is
+   licensed under the LGPL for its libraries, and the GPL for applications
+   that are part of the GNOME project itself. While Qt is now available
+   under the terms of the GPL, the freedom to link proprietary software
+   with GTK+ freely makes it differ from Qt.
+
+   The name "GNOME" was proposed as an acronym of GNU Network Object Model
+   Environment by Elliot Lee, one of the authors of ORBit and the Object
+   Activation Framework. It refers to GNOME's original intention of
+   creating a distributed object framework similar to Microsoft's OLE.
+   This no longer reflects the core vision of the GNOME project, and the
+   full expansion of the name is now considered obsolete. As such, some
+   members of the project advocate dropping the acronym and re-naming
+   "GNOME" to "Gnome".
+
+Organization
+
+   As with most free software projects, the GNOME project is loosely
+   organised. Discussion chiefly occurs on a number of public mailing
+   lists.
+
+   In August 2000 the GNOME Foundation was set up to deal with
+   administrative tasks, press interest and to act as a contact point for
+   companies interested in developing GNOME software. While not directly
+   involved in technical decisions, the Foundation does coordinate
+   releases and decide which projects will be part of GNOME. Membership is
+   open to anyone who has made a non-trivial contribution to the project.
+   Members of the Foundation elect a board of directors every November,
+   and candidates for the positions must be members themselves.
+
+   Developers and users of GNOME gather at an annual meeting known as
+   GUADEC in order to discuss the current state of the project and its
+   future direction.
+
+Platforms
+
+   GNOME 2.10 screenshot (on Fedora Core 4) showing Rhythmbox (music
+   player), GThumb (image manager), gedit (text editor), and the Nautilus
+   file manager.
+   Enlarge
+   GNOME 2.10 screenshot (on Fedora Core 4) showing Rhythmbox (music
+   player), GThumb (image manager), gedit (text editor), and the Nautilus
+   file manager.
+
+   Originally designed for Linux, GNOME now runs on most Unix-like systems
+   and in particular has been adopted by Sun Microsystems as part of Java
+   Desktop System, replacing the ageing Common Desktop Environment on
+   their Solaris platform. It is the default desktop environment for many
+   modern desktop Linux distributions, including Fedora Core and Ubuntu. A
+   list of Linux distributions that include GNOME is maintained on the
+   GNOME website.
+
+   An official GNOME LiveCD, which allows a computer to boot directly from
+   a Compact Disc without removing or changing existing operating systems,
+   is available for download from the GNOME website.
+
+   Many GNOME components have been ported to Cygwin, allowing GNOME
+   applications to run on Microsoft Windows.
+
+Architecture
+
+   GNOME is built from a large number of different projects. A few of the
+   major ones are listed below:
+     * Bonobo — a compound document technology.
+     * GConf — for storing application settings.
+     * GNOME VFS — a virtual file system.
+     * GNOME Keyring — for storing encryption keys and security
+       information.
+     * GNOME Translation Project — translate documentation and
+       applications into different languages.
+     * GTK+ — a widget toolkit used for constructing graphical
+       applications. The use of GTK+ as the base widget toolkit allows
+       GNOME to benefit from certain features such as theming (the ability
+       to change the look of an application), smooth anti-aliased
+       graphics. Sub-projects of GTK+ provide object oriented programming
+       support (GObjects), extensive support of international character
+       sets and text layout ( Pango) and accessibility ( ATK). GTK+
+       reduces the amount of work required to port GNOME applications to
+       other platforms such as Windows and Mac OS X.
+     * Human Interface Guidelines (HIG) — research and documentation on
+       building easy-to-use GNOME applications.
+     * LibXML — an XML library.
+     * ORBit — a CORBA ORB for software componentry.
+
+   A number of language bindings are available allowing applications to be
+   written in a variety of programming languages, such as C++ ( gtkmm),
+   Java ( Java-GNOME), Ruby ( ruby-gnome2), C# ( Gtk#), Python ( PyGTK),
+   Perl ( gtk2-perl) and many others. The only languages currently used in
+   applications that are part of an official GNOME desktop release are C,
+   C# and Python.
+
+Look and feel
+
+   GNOME is designed around the traditional computing desktop metaphor.
+   Its handling of windows, applications and files is similar to that of
+   contemporary desktop operating systems; The desktop has a launcher menu
+   for quick access to installed programs and file locations, open windows
+   may be accessed by a task bar along the bottom of the screen and the
+   top-right corner features a notification area for programs to display
+   notices while running in the background.
+
+   The appearance of GNOME can be changed by the use of themes, which are
+   sets consisting of an icon set, window manager border and GTK+ theme
+   engine and parameters. Popular GTK+ themes include Bluecurve and
+   Clearlooks (the current default theme).
+
+   GNOME puts emphasis on being easy for everyone to use. The HIG helps
+   guide developers in producing applications which look and behave
+   similarly, in order to provide a cohesive GNOME interface.
+
+Usability
+
+   Since GNOME v2.0, a key focus of the project has been usability. As a
+   part of this, a large effort was put into creating the GNOME Human
+   Interface Guidelines (HIG). The HIG is an extensive guide for creating
+   high quality, consistent, usable GUI programs, covering everything from
+   GUI design to recommended pixel-based layout of widgets.
+
+   GNOME HIG introduction:
+
+
+   GNOME
+
+     This document tells you how to create applications that look right,
+    behave properly, and fit into the GNOME user interface as a whole. It
+      is written for interface designers, graphic artists and software
+     developers who will be creating software for the GNOME environment.
+   Both specific advice on making effective use of interface elements, and
+   the philosophy and general design principles behind the GNOME interface
+                                are covered.
+
+
+   GNOME
+
+   During the v2.0 rewrite, many settings were deemed to be "crack"
+   settings (of little or no value to the majority of users) and were
+   removed. For instance, the preferences section of the Panel were
+   reduced from a sprawling dialog of six large tabs to a much simpler one
+   with two small tabs.
+
+Freedesktop.org and GNOME
+
+   Freedesktop.org is a project to assist interoperability and shared
+   technology between the different X Window desktops such as GNOME, KDE
+   or Xfce. Although it is not a formal standards organization,
+   Freedesktop.org defines certain basic features of an X Desktop,
+   including drag and drop between applications, window manager
+   specifications, menu layouts, recent files lists, copy and pasting
+   between applications and a shared MIME type database, among other
+   things. Following Freedesktop.org specifications allows GNOME
+   applications to appear more integrated into other desktops (and vice
+   versa), and encourages cooperation as well as competition.
+
+   Examples of technologies originated at Freedesktop.org which now form
+   part of GNOME's core technology set include:
+     * Cairo — a sophisticated 2D graphics library.
+     * D-Bus — interprocess communication system.
+     * GStreamer — a multimedia framework.
+     * HAL — a specification and an implementation of a hardware
+       abstraction layer.
+     * Poppler — a PDF rendering library.
+     * Tango Desktop Project, which aims to provide a common visual
+       standard across different platforms.
+
+   These initiatives aim to allow users and developers to choose the
+   technologies and applications they like regardless of which desktop
+   environment they use.
+
+Applications
+
+   Along with those applications bundled with the desktop, a large amount
+   of other applications have been developed for use in GNOME. See List of
+   GNOME applications for a more complete list.
+
+Official applications
+
+   Here is a selection of applications typically supplied as part of a
+   GNOME release:
+     * Ekiga — a phone and video conferencing application using voice over
+       IP.
+     * Epiphany — a web browser.
+     * Evince — a document viewer for PDF and PostScript documents.
+     * Evolution — an email and groupware application.
+     * Eye of GNOME — a simple image viewer.
+     * File Roller — an archive manager.
+     * gedit — a text editor.
+     * gnome-dictionary — a DICT protocol client.
+     * gnome-panel — a desktop panel for launching applications and
+       showing applets.
+     * GNOME Terminal — a terminal emulator.
+     * Metacity — a window manager.
+     * Nautilus — a file manager.
+     * Sound Juicer — a CD ripping tool.
+     * Tomboy — a notetaking tool.
+     * Totem — a media player.
+
+Other applications
+
+   Here is a selection of applications that use technology from the GNOME
+   project and are likely to be used on an average GNOME desktop:
+     * AbiWord — a word processor.
+     * Banshee — a music player.
+     * F-Spot — a digital photo organizer.
+     * Gaim — an instant messaging client.
+     * The GIMP — an advanced bitmap graphics editor.
+     * GnomeBaker — a CD/DVD authoring application.
+     * Gnumeric — a spreadsheeting program.
+     * GnuCash — double-entry book-keeping software.
+     * Inkscape — a vector graphics drawing application.
+     * Rhythmbox — a music-management application similar to iTunes.
+
+Stable releases
+
+   Each of the parts making up the GNOME project has its own version
+   number and release schedule. However, individual module maintainers
+   coordinate their efforts to create a full GNOME stable release on a
+   roughly six-month schedule. The releases listed in the table below are
+   classed as stable. Unstable releases for testers and developers are not
+   listed, nor are bugfix releases for individual modules.
+   Version Date Information
+   August 1997 GNOME development announced
+   1.0 March 1999 First major GNOME release
+   1.0.53 October 1999 "October"
+   1.2 May 2000 "Bongo"
+   1.4 April 2001 "Tranquility"
+   2.0 June 2002 Major upgrade based on GTK2. Introduction of the Human
+   Interface Guidelines.
+   2.2 February 2003 Multimedia and file manager improvements.
+   2.4 September 2003 Epiphany, accessibility support.
+   2.6 March 2004 Nautilus changes to a spatial file manager, and a new
+   GTK+ file dialog is introduced. A short-lived fork of GNOME, GoneME, is
+   created as a response to the changes in this version.
+   2.8 September 2004 Improved removable device support, adds Evolution.
+   2.10 March 2005 Lower memory requirements and performance improvements.
+   Adds: new panel applets (modem control, drive mounter and trashcan);
+   and the Totem and Sound Juicer applications
+   2.12 September 2005 Nautilus improvements; improvements in cut/paste
+   between applications and freedesktop.org integration. Adds: Evince PDF
+   viewer; New default theme: Clearlooks; menu editor; keyring manager and
+   admin tools. Based on GTK+ 2.8 with Cairo support.
+   2.14 March 2006 Performance improvements. Adds: Ekiga video
+   conferencing application; Deskbar search tool; Pessulus lockdown
+   editor; Fast user switching; Sabayon system administration tool.
+   2.16 September 2006 Performance improvements. Adds: Tomboy notetaking
+   application; Baobab disk usage analyser; Orca screen reader;
+   improvements to Totem, Nautilus and GNOME Power Manager; compositing
+   support for Metacity; new icon theme. Based on GTK+ 2.10 with new print
+   dialog.
+
+Future developments
+
+   There are many sub-projects under the umbrella of the GNOME project,
+   and not all of them are currently included in GNOME releases. Some are
+   considered purely experimental concepts, or for testing ideas that will
+   one day migrate into stable GNOME applications; others are code that is
+   being polished for direct inclusion. Some examples include:
+     * GNOME Storage — database filing system for GNOME. Compare with the
+       now-defunct WinFS storage system.
+     * Project Topaz — ideas for GNOME version 3.0.
+     * Project Soylent — making "people" and their interactions
+       first-class objects within the GNOME framework.
+     * Project Ridley — to consolidate several small undermaintained
+       libraries into GTK+, such as libgnome and libgnomeprint.
+     * The use of the Mozilla project's XUL on the GNOME desktop.
+
+   There had been considerable discussion about including software written
+   in C# or Java in GNOME. With GNOME 2.16, Gtk# (the C# bindings for GTK+
+   and GNOME) and Mono have been added to the list of dependencies, and a
+   C# application, Tomboy, has also been included in that release.
+
+   Retrieved from " http://en.wikipedia.org/wiki/GNOME"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

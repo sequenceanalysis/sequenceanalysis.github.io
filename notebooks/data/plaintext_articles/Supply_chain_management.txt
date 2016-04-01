@@ -1,0 +1,419 @@
+   #copyright
+
+Supply chain management
+
+2007 Schools Wikipedia Selection. Related subjects: Business
+
+   Supply chain management (SCM) is the process of planning, implementing,
+   and controlling the operations of the supply chain with the purpose to
+   satisfy customer requirements as efficiently as possible. Supply chain
+   management spans all movement and storage of raw materials,
+   work-in-process inventory, and finished goods from point-of-origin to
+   point-of-consumption. The term supply chain management was coined by
+   consultant Keith Oliver, of strategy consulting firm Booz Allen
+   Hamilton in 1982.
+
+   The definition one America professional association put forward is that
+   Supply Chain Management encompasses the planning and management of all
+   activities involved in sourcing, procurement, conversion, and logistics
+   management activities. Importantly, it also includes coordination and
+   collaboration with channel partners, which can be suppliers,
+   intermediaries, third-party service providers, and customers. In
+   essence, Supply Chain Management integrates supply and demand
+   management within and across companies.
+
+   Supply chain event management (abbreviated as SCEM) is a consideration
+   of all possible occurring events and factors that can cause a
+   disruption in a supply chain. With SCEM possible scenarios can be
+   created and solutions can be planned.
+
+   Some experts distinguish supply chain management and logistics, while
+   others consider the terms to be interchangeable.
+
+   Supply chain management is also a category of software products.
+
+Supply chain management problems
+
+   Supply chain management must address the following problems:
+     * Distribution Network Configuration: Number and location of
+       suppliers, production facilities, distribution centers, warehouses
+       and customers.
+     * Distribution Strategy: Centralized versus decentralized, direct
+       shipment, Cross docking, pull or push strategies, third party
+       logistics.
+     * Information: Integrate systems and processes through the supply
+       chain to share valuable information, including demand signals,
+       forecasts, inventory and transportation etc.
+     * Inventory Management: Quantity and location of inventory including
+       raw materials, work-in-process and finished goods.
+
+   Supply chain execution is managing and coordinating the movement of
+   materials information and funds across the supply chain. The flow is
+   bi-directional.
+
+Activities/functions
+
+   Supply chain management is a cross-functional approach to managing the
+   movement of raw materials into an organization and the movement of
+   finished goods out of the organization toward the end-consumer. As
+   corporations strive to focus on core competencies and become more
+   flexible, they have reduced their ownership of raw materials sources
+   and distribution channels. These functions are increasingly being
+   outsourced to other corporations that can perform the activities better
+   or more cost effectively. The effect has been to increase the number of
+   companies involved in satisfying consumer demand, while reducing
+   management control of daily logistics operations. Less control and more
+   supply chain partners led to the creation of supply chain management
+   concepts. The purpose of supply chain management is to improve trust
+   and collaboration among supply chain partners, thus improving inventory
+   visibility and improving inventory velocity.
+
+   Several models have been proposed for understanding the activities
+   required to manage material movements across organizational and
+   functional boundaries. SCOR is a supply chain management model promoted
+   by the Supply-Chain Management Council. Another model is the SCM Model
+   proposed by the Global Supply Chain Forum (GSCF). Supply chain
+   activities can be grouped into strategic, tactical, and operational
+   levels of activities.
+
+Strategic
+
+     * Strategic network optimization, including the number, location, and
+       size of warehouses, distribution centers and facilities.
+     * Strategic partnership with suppliers, distributors, and customers,
+       creating communication channels for critical information and
+       operational improvements such as cross docking, direct shipping,
+       and third-party logistics.
+     * Product design coordination, so that new and existing products can
+       be optimally integrated into the supply chain, load management
+     * Information Technology infrastructure, to support supply chain
+       operations.
+     * Where to make and what to make or buy decisions
+     * Align overall organizational strategy with supply strategy
+
+Tactical
+
+     * Sourcing contracts and other purchasing decisions.
+     * Production decisions, including contracting, locations, scheduling,
+       and planning process definition.
+     * Inventory decisions, including quantity, location, and quality of
+       inventory.
+     * Transportation strategy, including frequency, routes, and
+       contracting.
+     * Benchmarking of all operations against competitors and
+       implementation of best practices throughout the enterprise.
+     * Milestone payments
+
+Operational
+
+     * Daily production and distribution planning, including all nodes in
+       the supply chain.
+     * Production scheduling for each manufacturing facility in the supply
+       chain (minute by minute).
+     * Demand planning and forecasting, coordinating the demand forecast
+       of all customers and sharing the forecast with all suppliers.
+     * Sourcing planning, including current inventory and forecast demand,
+       in collaboration with all suppliers.
+     * Inbound operations, including transportation from suppliers and
+       receiving inventory.
+     * Production operations, including the consumption of materials and
+       flow of finished goods.
+     * Outbound operations, including all fulfillment activities and
+       transportation to customers.
+     * Order promising, accounting for all constraints in the supply
+       chain, including all suppliers, manufacturing facilities.
+       distribution centers, and other customers.
+
+Supply chain management
+
+   Organizations increasingly find that they must rely on effective supply
+   chains, or networks, to successfully compete in the global market and
+   networked economy. In Peter Drucker's (1998) management's new
+   paradigms, this concept of business relationships extends beyond
+   traditional enterprise boundaries and seeks to organize entire business
+   processes throughout a value chain of multiple companies.
+
+   During the past decades, globalization, outsourcing and information
+   technology have enabled many organizations such as Dell and Hewlett
+   Packard, to successfully operate solid collaborative supply networks in
+   which each specialized business partner focuses on only a few key
+   strategic activities (Scott, 1993). This inter-organizational supply
+   network can be acknowledged as a new form of organization. However,
+   with the complicated interactions among the players, the network
+   structure fits neither "market" nor "hierarchy" categories (Powell,
+   1990). It is not clear what kind of performance impacts different
+   supply network structures could have on firms, and little is known
+   about the coordination conditions and trade-offs that may exist among
+   the players. From a system's point of view, a complex network structure
+   can be decomposed into individual component firms (Zhang and Dilts,
+   2004). Traditionally, companies in a supply network concentrate on the
+   inputs and outputs of the processes, with little concern for the
+   internal management working of other individual players. Therefore, the
+   choice of internal management control structure is known to impact
+   local firm performance (Mintzberg, 1979).
+
+   In the 21st century, there have been few changes in business
+   environment that have contributed to the development of supply chain
+   networks. First, as an outcome of globalization and proliferation of
+   multi-national companies, joint ventures, strategic alliances and
+   business partnerships were found to be significant success factors,
+   following the earlier " Just-In-Time", "Lean Management" and "Agile
+   Manufacturing" practices. Second, technological changes, particularly
+   the dramatic fall in information communication costs, a paramount
+   component of transaction costs, has led to changes in coordination
+   among the members of the supply chain network (Coase, 1998).
+
+   Many researchers have recognized these kinds of supply network
+   structure as a new organization form, using terms such as " Keiretsu",
+   "Extended Enterprise", "Virtual Corporation", Global Production
+   Network", and "Next Generation Manufacturing System". In general, such
+   a structure can be defined as "a group of semi-independent
+   organizations, each with their capabilities, which collaborate in
+   ever-changing constellations to serve one or more markets in order to
+   achieve some business goal specific to that collaboration" (Akkermans,
+   2001).
+
+Supply chain business process integration
+
+   Successful SCM requires a change from managing individual functions to
+   integrating activities into key supply chain processes. An example
+   scenario: the purchasing department places orders as requirements
+   become appropriate. Marketing, responding to customer demand,
+   communicates with several distributors and retailers, and attempts to
+   satisfy this demand. Shared information between supply chain partners
+   can only be fully leveraged through process integration.
+
+   Supply chain business process integration involves collaborative work
+   between buyers and suppliers, joint product development, common systems
+   and shared information. According to Lambert and Cooper (2000)
+   operating an integrated supply chain requires continuous information
+   flows, which in turn assist to achieve the best product flows. However,
+   in many companies, management has reached the conclusion that
+   optimizing the product flows cannot be accomplished without
+   implementing a process approach to the business. The key supply chain
+   processes stated by Lambert (2004) are:
+     * Customer relationship management
+     * Customer service management
+     * Demand management
+     * Order fulfillment
+     * Manufacturing flow management
+     * Supplier relationship management
+     * Product development and commercialization
+     * Returns management
+
+   One could suggest other key critical supply business processes
+   combining these processes stated by Lambert such as:
+    1. Customer service management
+    2. Procurement
+    3. Product development and commercialization
+    4. Manufacturing flow management/support
+    5. Physical distribution
+    6. Outsourcing/partnerships
+    7. Performance measurement
+
+   a) Customer service management process
+
+   Customer Relationship Management concerns the relationship between the
+   organization and its customers.Customer service provides the source of
+   customer information. It also provides the customer with real-time
+   information on promising dates and product availability through
+   interfaces with the company's production and distribution operations.
+   Successful organizations use following steps to build customer
+   relationships:
+     * determine mutually satisfying goals between organization and
+       customers
+     * establish and maintain customer rapport
+     * produce positive feelings in the organization and the customers
+
+   b) Procurement process
+
+   Strategic plans are developed with suppliers to support the
+   manufacturing flow management process and development of new products.
+   In firms where operations extend globally, sourcing should be managed
+   on a global basis. The desired outcome is a win-win relationship, where
+   both parties benefit, and reduction times in the design cycle and
+   product development is achieved. Also, the purchasing function develops
+   rapid communication systems, such as electronic data interchange (EDI)
+   and Internet linkages to transfer possible requirements more rapidly.
+   Activities related to obtaining products and materials from outside
+   suppliers. This requires performing resource planning, supply sourcing,
+   negotiation, order placement, inbound transportation, storage and
+   handling and quality assurance. Also, includes the responsibility to
+   coordinate with suppliers in scheduling, supply continuity, hedging,
+   and research to new sources or programmes.
+
+   c) Product development and commercialization
+
+   Here, customers and suppliers must be united into the product
+   development process, thus to reduce time to market. As product life
+   cycles shorten, the appropriate products must be developed and
+   successfully launched in ever shorter time-schedules to remain
+   competitive. According to Lambert and Cooper (2000), managers of the
+   product development and commercialization process must:
+    1. coordinate with customer relationship management to identify
+       customer-articulated needs;
+    2. select materials and suppliers in conjunction with procurement, and
+    3. develop production technology in manufacturing flow to manufacture
+       and integrate into the best supply chain flow for the
+       product/market combination.
+
+   d) Manufacturing flow management process
+
+   The manufacturing process is produced and supplies products to the
+   distribution channels based on past forecasts. Manufacturing processes
+   must be flexible to respond to market changes, and must accommodate
+   mass customization. Orders are processes operating on a just-in-time
+   (JIT) basis in minimum lot sizes. Also, changes in the manufacturing
+   flow process lead to shorter cycle times, meaning improved
+   responsiveness and efficiency of demand to customers. Activities
+   related to planning, scheduling and supporting manufacturing
+   operations, such as work-in-process storage, handling, transportation,
+   and time phasing of components, inventory at manufacturing sites and
+   maximum flexibility in the coordination of geographic and final
+   assemblies postponement of physical distribution operations.
+
+   e) Physical distribution
+
+   This concerns movement of a finished product/service to customers. In
+   physical distribution, the customer is the final destination of a
+   marketing channel, and the availability of the product/service is a
+   vital part of each channel participant's marketing effort. It is also
+   through the physical distribution process that the time and space of
+   customer service become an integral part of marketing, thus it links a
+   marketing channel with its customers (e.g. links manufacturers,
+   wholesalers, retailers).
+
+   f) Outsourcing/partnerships
+
+   This is not just outsourcing the procurement of materials and
+   components, but also outsourcing of services that traditionally have
+   been provided in-house. The logic of this trend is that the company
+   will increasingly focus on those activities in the value chain where it
+   has a distinctive advantage and everything else it will outsource. This
+   movement has been particularly evident in logistics where the provision
+   of transport, warehousing and inventory control is increasingly
+   subcontracted to specialists or logistics partners. Also, to manage and
+   control this network of partners and suppliers requires a blend of both
+   central and local involvement. Hence, strategic decisions need to be
+   taken centrally with the monitoring and control of supplier performance
+   and day-to-day liaison with logistics partners being best managed at a
+   local level.
+
+   g) Performance measurement
+
+   Experts found a strong relationship from the largest arcs of supplier
+   and customer integration to market share and profitability. By taking
+   advantage of supplier capabilities and emphasizing a long-term supply
+   chain perspective in customer relationships can be both correlated with
+   firm performance. As logistics competency becomes a more critical
+   factor in creating and maintaining competitive advantage, logistics
+   measurement becomes increasingly important because the difference
+   between profitable and unprofitable operations becomes more narrow.
+   A.T. Kearney Consultants (1985) noted that firms engaging in
+   comprehensive performance measurement realized improvements in overall
+   productivity. According to experts internal measures are generally
+   collected and analyzed by the firm including
+    1. Cost
+    2. Customer Service
+    3. Productivity measures
+    4. Asset measurement, and
+    5. Quality.
+
+   External performance measurement is examined through customer
+   perception measures and " best practice" benchmarking, and includes 1)
+   customer perception measurement, and 2) best practice benchmarking.
+
+   Components of supply chain management are 1. Standardisation 2.
+   Postponement 3. Customisation
+
+Supply chain management components integration
+
+   The management components of SCM
+
+   The SCM management components are the third element of the four-square
+   circulation framework. The level of integration and management of a
+   business process link is a function of the number and level, ranging
+   from low to high, of components added to the link (Ellram and Cooper,
+   1990; Houlihan, 1985). Consequently, adding more management components
+   or increasing the level of each component can increase the level of
+   integration of the business process link. The literature on business
+   process reengineering, buyer-supplier relationships, and SCM suggests
+   various possible components that must receive managerial attention when
+   managing supply relationships. Lambert and Cooper (2000) identified the
+   following components which are:
+     * Planning and control
+     * Work structure
+     * Organization structure
+     * Product flow facility structure
+     * Information flow facility structure
+     * Management methods
+     * Power and leadership structure
+     * Risk and reward structure
+     * Culture and attitude
+
+   However, a more careful examination of the existing literature will
+   lead us to a more comprehensive structure of what should be the key
+   critical supply chain components, the "branches" of the previous
+   identified supply chain business processes, that is what kind of
+   relationship the components may have that are related with suppliers
+   and customers accordingly. Bowersox and Closs states that the emphasis
+   on cooperation represents the synergism leading to the highest level of
+   joint achievement (Bowersox and Closs, 1996). A primary level channel
+   participant is a business that is willing to participate in the
+   inventory ownership responsibility or assume other aspects financial
+   risk, thus including primary level components (Bowersox and Closs,
+   1996). A secondary level participant (specialized), is a business that
+   participates in channel relationships by performing essential services
+   for primary participants, thus including secondary level components,
+   which are supporting the primary ones. Also, third level channel
+   participants and components may be included, that will support the
+   primary level channel participants, and which are the fundamental
+   branches of the secondary level components.
+
+   Consequently, Lambert and Cooper's framework of supply chain
+   components, does not lead us to the conclusion about what are the
+   primary or secondary (specialized) level supply chain components ( see
+   Bowersox and Closs, 1996, p.g. 93), that is what supply chain
+   components should be viewed as primary or secondary, and how should
+   these components be structured in order to have a more comprehensive
+   supply chain structure and to examine the supply chain as an
+   integrative one (See above sections 2.1 and 3.1).
+
+   Baziotopoulos reviewed the literature to identify supply chain
+   components. Based on this study, Baziotopoulos (2004) suggests the
+   following supply chain components (Fig.8):
+    1. For customer service management: Includes the primary level
+       component of customer relationship management, and secondary level
+       components such as benchmarking and order fulfillment.
+    2. For product development and commercialization: Includes the primary
+       level component of Product Data Management (PDM), and secondary
+       level components such as market share, customer satisfaction,
+       profit margins, and returns to stakeholders.
+    3. For physical distribution, Manufacturing support and Procurement:
+       Includes the primary level component of enterprise resource
+       planning (ERP), with secondary level components such as warehouse
+       management, material management, manufacturing planning, personnel
+       management, and postponement (order management).
+    4. For performance measurement: This includes the primary level
+       component of logistics performance measurement, which is correlated
+       with the information flow facility structure within the
+       organization. Secondary level components may include four types of
+       measurement such as: variation, direction, decision and policy
+       measurements. More specifically, in accordance with these secondary
+       level components total cost analysis (TCA), customer profitability
+       analysis (CPA), and Asset management could be concerned as well. In
+       general, information flow facility structure is regarded by two
+       important requirements, which are a) planning and Coordination
+       flows, and b)operational requirements.
+    5. For outsourcing: This includes the primary level component of
+       management methods and the company's cutting-edge strategy and its
+       vital strategic objectives that the company will identify and adopt
+       for particular strategic initiatives in key the areas of technology
+       information, operations, manufacturing capabilities, and logistics
+       (secondary level components).
+
+   Retrieved from " http://en.wikipedia.org/wiki/Supply_chain_management"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

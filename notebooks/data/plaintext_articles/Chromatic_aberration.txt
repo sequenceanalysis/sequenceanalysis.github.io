@@ -1,0 +1,123 @@
+   #copyright
+
+Chromatic aberration
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+   Top - Corner detail from a photograph taken with a good quality lens.
+   Bottom - Detail from a similar photograph taken with a wide angle lens
+   showing visible chromatic aberration (especially at the dark edges on
+   the right).
+   Top - Corner detail from a photograph taken with a good quality lens.
+   Bottom - Detail from a similar photograph taken with a wide angle lens
+   showing visible chromatic aberration (especially at the dark edges on
+   the right).
+
+   In optics, chromatic aberration is caused by a lens having a different
+   refractive index for different wavelengths of light (the dispersion of
+   the lens). The term " purple fringing" is commonly used in photography,
+   although not all purple fringing can be attributed to chromatic
+   aberration.
+
+   Longitudinal and lateral chromatic aberration of a lens is seen as
+   "fringes" of color around the image, because each colour in the optical
+   spectrum cannot be focused at a single common point on the optical
+   axis.
+
+   Since the focal length f of a lens is dependent on the refractive index
+   n, different wavelengths of light will be focused on different
+   positions. Chromatic aberration can be both longitudinal, in that
+   different wavelengths are focused at a different distance from the
+   lens; and transverse or lateral, in that different wavelengths are
+   focused at different positions in the focal plane (because the
+   magnification of the lens also varies with wavelength).
+
+Minimizing chromatic aberration
+
+   There exists a point called the circle of least confusion, where
+   chromatic aberration can be minimized. It can be further minimized by
+   using an achromatic lens or achromat, in which materials with differing
+   dispersion are assembled together to form a compound lens. The most
+   common type is an achromatic doublet, with elements made of crown and
+   flint glass. This reduces the amount of chromatic aberration over a
+   certain range of wavelengths, though it does not produce perfect
+   correction. By combining more than two lenses of different composition,
+   the degree of correction can be further increased, as seen in an
+   apochromatic lens or apochromat.
+
+   Many types of glass have been developed to reduce chromatic aberration,
+   most notably, glasses containing fluorite. These hybridized glasses
+   have a very low level of optical dispersion; only two compiled lenses
+   made of these substances can yield a high level of correction.
+   Chromatic aberration of a single lens causes different wavelengths of
+   light to have differing focal lengths.
+   Chromatic aberration of a single lens causes different wavelengths of
+   light to have differing focal lengths.
+   For an achromatic doublet, visible wavelengths have approximately the
+   same focal length.
+   For an achromatic doublet, visible wavelengths have approximately the
+   same focal length.
+   Diffractive optical element with complimentary dispersion properties to
+   that of glass can be used to correct for color aberration.
+   Diffractive optical element with complimentary dispersion properties to
+   that of glass can be used to correct for colour aberration.
+   An achromatic doublet brings two wavelengths to a common focus, leaving
+   ultraviolet and infrared uncorrected and out of focus.
+   An achromatic doublet brings two wavelengths to a common focus, leaving
+   ultraviolet and infrared uncorrected and out of focus.
+
+   The use of achromats was an important step in the development of the
+   optical microscope.
+
+   An alternative to achromatic doublets is the use of diffractive optical
+   elements. Diffractive optical elements have complementary dispersion
+   characteristics to that of optical glasses and plastics. In the visible
+   part of the spectrum, diffractives have an Abbe number of -3.5.
+   Diffractive optical elements can be fabricated using diamond turning
+   techniques.
+
+Mathematics of chromatic aberration minimization
+
+   For a doublet consisting of two thin lenses in contact, the Abbe number
+   of the lens materials is used to calculate the correct focal length of
+   the lenses to ensure correction of chromatic aberration. If the focal
+   lengths of the two lenses for light at the yellow Fraunhofer D-line
+   (589.2 nm) are f[1] and f[2], then best correction occurs for the
+   condition:
+
+          f_1 \cdot V_1 + f_2 \cdot V_2 = 0
+
+   where V[1] and V[2] are the Abbe numbers of the materials of the first
+   and second lenses, respectively. Since Abbe numbers are positive, one
+   of the focal lengths must be negative, i.e. a diverging lens, for the
+   condition to be met.
+
+   The overall focal length of the doublet f is given by the standard
+   formula for thin lenses in contact:
+
+          \frac{1}{f} = \frac{1}{f_1} + \frac{1}{f_2}
+
+   and the above condition ensures this will be the focal length of the
+   doublet for light at the blue and red Fraunhofer F and C lines (486.1
+   nm and 656.3 nm respectively). The focal length for light at other
+   visible wavelengths will be similar but not exactly equal to this.
+
+Image processing to reduce chromatic aberration
+
+   Post-processing to remove chromatic aberration usually involves scaling
+   the fringed colour channel, or subtracting some of a scaled version of
+   the fringed channel.
+
+Black and white photography
+
+   Chromatic aberration also affects black and white photography. Although
+   there are no colors in the photograph, chromatic aberration will blur
+   the image. It can be reduced by using a narrow band colour filter, or
+   by converting a single colour channel to black and white. This will
+   however require longer exposure.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Chromatic_aberration"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

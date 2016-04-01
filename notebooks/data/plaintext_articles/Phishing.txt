@@ -1,0 +1,305 @@
+   #copyright
+
+Phishing
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+
+   This is a featured article. Click here for more information.
+   This phishing attempt, disguised as an official email from a
+   (fictional) bank, attempts to trick the bank's members into giving away
+   their account information by "confirming" it at the phisher's linked
+   website.
+   Enlarge
+   This phishing attempt, disguised as an official email from a
+   (fictional) bank, attempts to trick the bank's members into giving away
+   their account information by "confirming" it at the phisher's linked
+   website.
+
+   In computing, phishing is a criminal activity using social engineering
+   techniques. Phishers attempt to fraudulently acquire sensitive
+   information, such as passwords and credit card details, by masquerading
+   as a trustworthy person or business in an electronic communication.
+   Phishing is typically carried out using email or an instant message,
+   although phone contact has been used as well. Attempts to deal with the
+   growing number of reported phishing incidents include legislation, user
+   training, and technical measures.
+
+   The first recorded mention of phishing is on the
+   alt.online-service.america-online Usenet newsgroup on January 2, 1996,
+   although the term may have appeared even earlier in the print edition
+   of the hacker magazine 2600. The term phishing is a variant of fishing,
+   probably influenced by phreaking, and alludes to the use of
+   increasingly sophisticated lures to "fish" for users' financial
+   information and passwords. The word may also be linked to leetspeak, in
+   which ph is a common substitution for f. The popular theory that it is
+   a portmanteau of password harvesting is an example of folk etymology.
+
+Early phishing on AOL
+
+   Those who would later phish on AOL during the 1990s originally used
+   fake, algorithmically generated credit card numbers to create accounts
+   on AOL, which could last weeks or even months. After AOL brought in
+   measures in late 1995 to prevent this, early AOL crackers resorted to
+   phishing for legitimate accounts.
+
+   Phishing on AOL was closely associated with the warez community that
+   exchanged pirated software. A phisher might pose as an AOL staff member
+   and send an instant message to a potential victim, asking him to reveal
+   his password. In order to lure the victim into giving up sensitive
+   information the message might include text such as "verify your
+   account" or "confirm billing information". Once the victim had
+   submitted his password, the attacker could access and use the victim's
+   account for criminal purposes, such as spamming. Both phishing and
+   warezing on AOL generally required custom-written programs, such as
+   AOHell. Phishing became so prevalent on AOL that they added a line on
+   all instant messages stating: "no one working at AOL will ask for your
+   password or billing information".
+
+   After 1997, AOL's policy enforcement with respect to phishing and warez
+   became stricter and forced pirated software off AOL servers. AOL
+   simultaneously developed a system to promptly deactivate accounts
+   involved in phishing, often before the victims could respond. The
+   shutting down of the warez scene on AOL caused most phishers to leave
+   the service, and many phishers — often young teens — grew out of the
+   habit.
+
+Recent phishing attempts
+
+   A chart showing the increase in phishing reports from October 2004 to
+   June 2005.
+   Enlarge
+   A chart showing the increase in phishing reports from October 2004 to
+   June 2005.
+
+   More recent phishing attempts have targeted the customers of banks and
+   online payment services. E-mails supposedly from the Internal Revenue
+   Service have also been used to glean sensitive data from U.S.
+   taxpayers. While the first such examples were sent indiscriminately in
+   the hope of finding a customer of a given bank or service, recent
+   research has shown that phishers may in principle be able to establish
+   what bank a potential victim has a relationship with, and then send an
+   appropriate spoofed email to this victim.. Targeted versions of
+   phishing have been termed spear phishing. Social networking sites are
+   also a target of phishing, since the personal details in such sites can
+   be used in identity theft. Experiments show a success rate of over 70%
+   for phishing attacks on social networks.
+
+Phishing techniques
+
+   Most methods of phishing use some form of technical deception designed
+   to make a link in an email appear to belong to the spoofed
+   organization. Misspelled URLs or the use of subdomains are common
+   tricks used by phishers, such as this example URL,
+   http://www.yourbank.com.example.com/. Another common trick is to make
+   the anchor text for a link appear to be a valid URL when the link
+   actually goes to the phishers' site.
+
+   One method of spoofing links use web addresses containing the @ symbol,
+   which are used to include a username and password in a web URL
+   (contrary to the standard). For example, the link
+   http://www.google.com@members.tripod.com/ might deceive a casual
+   observer into believing that the link will open a page on
+   www.google.com, whereas the link actually directs the browser to a page
+   on members.tripod.com, using a username of www.google.com; were there
+   no such user, the page would open normally. Such URLs were subsequently
+   disabled in Internet Explorer, with the Mozilla and Opera web browsers
+   opting instead to present a warning message and give users the option
+   of continuing to the site or cancelling.
+
+   Some phishing scams use JavaScript commands in order to alter the
+   address bar. This is done either by placing a picture of the legitimate
+   entity's URL over the address bar, or by closing the original address
+   bar and opening a new one containing the legitimate URL.
+
+   In another popular method of phishing, an attacker uses a bank or
+   service's own scripts against the victim. These types of attacks (known
+   as cross-site scripting) are particularly problematic, because they
+   direct the user to sign in at their bank or service's own web page,
+   where everything from the web address to the security certificates
+   appears correct. In reality, the link to the website is crafted to
+   carry out the attack, although it is very difficult to spot without
+   specialist knowledge. Just such a flaw was used in 2006 against PayPal.
+
+   A further problem with URLs has been found in the handling of
+   Internationalized domain names (IDN) in web browsers, that might allow
+   visually identical web addresses to lead to different, possibly
+   malicious, websites. Despite the publicity surrounding the flaw, known
+   as IDN spoofing or a homograph attack, no known phishing attacks have
+   yet taken advantage of it.
+
+   Not all phishing attacks require a fake website. In an incident in
+   2006, messages that claimed to be from a bank told users to dial a
+   phone number regarding a problem with their bank account. Once the
+   phone number was dialed, prompts told users to enter their account
+   numbers and PIN. The number was provided by a Voice over IP provider.
+
+Phishing examples
+
+   PayPal phishing example
+   An example of a phishing email targeted at PayPal users.
+   Enlarge
+   An example of a phishing email targeted at PayPal users.
+
+   In an example PayPal phish (right), spelling mistakes in the email and
+   the presence of an IP address in the link (visible in the tooltip under
+   the yellow box) are both clues that this is a phishing attempt. Another
+   giveaway is the lack of a personal greeting, although the presence of
+   personal details is not a guarantee of legitimacy.
+
+   SouthTrust Bank example
+
+   In this second example, targeted at SouthTrust Bank users, the phisher
+   has used an image to make it harder for anti-phishing filters to detect
+   by scanning for text commonly used in phishing emails.
+
+          From: SouthTrust <support_id_99583160@southtrust.com>
+          To: john.smith@example.com
+          Subject: SouthTrust Bank: Important Notification
+          Date: Thu, 16 Jun 2005 23:56:30 -0200 (22:56 BRT)
+
+Damage caused by phishing
+
+   The damage caused by phishing ranges from loss of access to email to
+   substantial financial loss. This style of identity theft is becoming
+   more popular, because of the ease with which unsuspecting people often
+   divulge personal information to phishers, including credit card
+   numbers, social security numbers, and mothers' maiden names. There are
+   also fears that identity thieves can obtain some such information
+   simply by accessing public records.
+
+   Once this information is acquired, the phishers may use a person's
+   details to create fake accounts in a victim's name, ruin a victim's
+   credit, or even prevent victims from accessing their own accounts.
+
+   It is estimated that between May 2004 and May 2005, approximately 1.2
+   million computer users in the United States suffered losses caused by
+   phishing, totaling approximately $929 million USD. U.S. businesses lose
+   an estimated $2 billion USD a year as their clients become victims. In
+   the United Kingdom losses from web banking fraud — mostly from phishing
+   — almost doubled to £23.2m in 2005, from £12.2m in 2004, while 1 in 20
+   users claimed to have lost out to phishing in 2005.
+
+Anti-phishing
+
+   There are several different techniques to combat phishing, including
+   legislation and technology created specifically to protect against
+   phishing.
+
+Social responses
+
+   One strategy for combating phishing is to train users to deal with
+   phishing attempts. User education can be promising, especially where
+   training provides direct feedback to the user on his success (or
+   otherwise). One newer phishing tactic, which uses phishing emails
+   targeted at a specific company, known as spear phishing, has been
+   harnessed to train users at various locations, including West Point
+   Military Academy. In a June 2004 experiment with spear phishing, 80% of
+   500 West Point cadets who were sent a fake email were tricked into
+   revealing personal information.
+
+   Users who are contacted about an account needing to be "verified" can
+   take steps to avoid phishing attempts by contacting the company that is
+   the subject of the email to check that the email is legitimate or by
+   typing in a trusted web address for the company's website into the
+   address bar of their browser to bypass the link in the suspected
+   phishing message.
+
+   Nearly all legitimate email messages from companies to their customers
+   will contain an item of information that is not readily available to
+   phishers. Some companies, like PayPal, always address their customers
+   by their username in emails, so if an email addresses a user in a
+   generic fashion ("Dear PayPal customer") it is likely to be an attempt
+   at phishing. Emails from banks and credit card companies will often
+   include partial account numbers. Therefore, one should always be
+   suspicious if the message does not contain specific personal
+   information. Phishing attempts in early 2006, however, used such highly
+   personalized information, making it unsafe to rely on personal
+   information alone as a sign that a message is legitimate. Further,
+   another recent study concluded in part that the presence of this
+   information does not significantly affect the success rate of phishing
+   attacks, suggesting that most users do not pay attention to such
+   details anyway.
+
+   The Anti-Phishing Working Group, an industry and law enforcement
+   association, has suggested that conventional phishing techniques could
+   become obsolete in the future as people are increasingly aware of the
+   social engineering techniques used by phishers. They propose that
+   pharming and other uses of malware will become more common tools for
+   stealing information.
+
+Technical responses
+
+   Anti-phishing software is available that may identify phishing contents
+   on websites, act as a toolbar that displays the real domain name for
+   the visited website, or spot phishing attempts in email. Microsoft's
+   new IE7 browser, Mozilla's Firefox 2, and Opera from version 9.1 will
+   include a form of anti-phishing technology, by which a site may be
+   checked against a list of known phishing sites. If the site is a
+   suspect the software may either warn a user or block the site outright.
+   Firefox 2 uses Google anti-phishing software, which may also be
+   installed under IE6. Spam filters also help protect users from
+   phishers, because they reduce the number of phishing-related emails
+   that users receive. An approach introduced in mid-2006 (similar in
+   principle to using a hosts file to block web adverts) involves
+   switching to using a special DNS service that filters out known
+   phishing domains, which will work with any browser.
+
+   Sites have added verification tools that allow users to see a secret
+   image that the user selected in advance; if the image does not appear,
+   then the site is not legitimate. Bank of America uses this together
+   with challenge questions, which ask the user for information that
+   should be known only to the user and the bank. This feature (and other
+   forms of two-way authentication and two-factor authentication) is still
+   susceptible to attack, such as that suffered by Scandinavian bank
+   Nordea in late 2005.
+
+Monitoring and takedown
+
+   Several companies offer banks and other entities likely to suffer from
+   phishing scams 24/7 services to monitor, analyze and assist in shutting
+   down phishing websites. Individuals can contribute by reporting
+   phishing to both volunteer and industry groups, such as PhishTank.
+
+Legal responses
+
+   On January 26, 2004, the FTC ( Federal Trade Commission) filed the
+   first lawsuit against a suspected phisher. The defendant, a Californian
+   teenager, allegedly created and used a webpage designed to look like
+   the America Online website, so that he could steal credit card numbers.
+   Other countries have followed the lead of the U.S. by tracing and
+   arresting phishers. A phishing kingpin, Valdir Paulo de Almeida, was
+   arrested in Brazil for leading one of the largest phishing crime rings,
+   which in 2 years stole between $18 and $37 million USD. UK authorities
+   jailed two men in June 2005 for their role in a phishing scam, in a
+   case connected to the US Secret Service Operation Firewall, which
+   targeted notorious "carder" websites. In 2006 eight people were
+   arrested by Japanese police on suspicion of phishing fraud by creating
+   bogus Yahoo Japan Web sites, netting themselves 100 million yen ($870
+   thousand USD).
+
+   In the United States, Democratic Senator Patrick Leahy introduced the
+   Anti-Phishing Act of 2005 on March 1, 2005. The federal anti-phishing
+   bill proposes that criminals who create fake web sites and spam bogus
+   emails in order to defraud consumers could receive a fine up to
+   $250,000 and receive jail terms of up to five years.
+
+   Microsoft has also joined the effort to crack down on phishing. On
+   March 31, 2005, Microsoft filed 117 federal lawsuits in the U.S.
+   District Court for the Western District of Washington. The lawsuits
+   accuse " John Doe" defendants of using various methods to obtain
+   passwords and confidential information. March 2005 also saw Microsoft
+   partner with the Australian government to teach law enforcement
+   officials how to combat various cyber crimes, including phishing..
+   Microsoft announced a planned further 100 lawsuits outside the U.S. in
+   March 2006
+
+   AOL reinforced its efforts against phishing in early 2006 with three
+   lawsuits seeking a total of $18 million USD under the 2005 amendments
+   to the Virginia Computer Crimes Act.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Phishing"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

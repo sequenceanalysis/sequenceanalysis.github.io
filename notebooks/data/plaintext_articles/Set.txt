@@ -1,0 +1,308 @@
+   #copyright
+
+Set
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, a set can be thought of as any collection of distinct
+   objects considered as a whole. Although this appears to be a simple
+   idea, sets are one of the most important and fundamental concepts in
+   modern mathematics. The study of the structure of possible sets, set
+   theory, is rich and ongoing.
+
+   Having only been invented at the end of the 19th century, set theory is
+   now a ubiquitous part of mathematics education, being introduced from
+   primary school in many countries. Set theory can be viewed as the
+   foundation upon which nearly all of mathematics can be derived.
+
+Naive set theory
+
+   At the beginning of his work Beiträge zur Begründung der transfiniten
+   Mengenlehre, Georg Cantor, the principal creator of set theory, made
+   the following definition of a set:
+
+   “ By a set we understand any collection M of definite, distinct objects
+          m of our perception or of our thought (which will be called the
+                          elements of M) into a whole.                      ”
+
+   The objects of a set are also called its members. The elements of a set
+   can be anything: numbers, people, letters of the alphabet, other sets,
+   and so on. Sets are conventionally denoted with capital letters, for
+   instance A, B and C. Two sets A and B are said to be equal if every
+   member of A is also a member of B and crucially, every member of B is
+   also a member of A; this is written A = B.
+
+   A set, unlike a multiset, cannot contain two or more identical
+   elements. All set operations preserve the property that each element in
+   the set is unique. Similarly, the order in which the elements of a set
+   are listed is irrelevant, unlike a sequence or tuple.
+
+Axiomatic set theory
+
+   Although initially the naive set theory, which defines a set merely as
+   any well-defined collection, was well accepted, it soon ran into
+   several obstacles. It was found that this definition spawned several
+   paradoxes, most notably:
+     * Russel's paradox - It shows that the "set of all sets which do not
+       contain themselves," i.e. the "set" \left \{ x: x\mbox{ is a set
+       and }x\notin x \right \} is not well-defined.
+     * Cantor's paradox - It shows that "the set of all sets" cannot
+       exist.
+
+   The reason is that the phrase well-defined is not very well-defined. It
+   was important to free set theory of these paradoxes since entire
+   mathematics was being redefined in terms of set theory. In an attempt
+   to avoid these paradoxes, set theory was axiomatized based on
+   first-order logic, and thus the axiomatic set theory was born.
+
+   For most purposes however, the naive set theory is still useful.
+
+Applications
+
+   Set theory is seen as the foundation from which virtually all of
+   mathematics can be derived. For example, structures in abstract
+   algebra, such as groups, fields and rings, are sets closed under one or
+   more operations.
+
+Description of a set
+
+   Not all sets have precise descriptions; they may be arbitrary
+   collections, with no expressible inclusion criteria.
+
+   Some sets may be described in words:
+
+          A is the set whose members are the first four positive whole
+          numbers.
+          B is the set whose members are the colors of the French flag.
+
+   By convention, a set can be defined by explicitly listing its elements
+   between braces (sometimes called curly brackets or curly braces):
+
+          C = {4, 2, 1, 3}
+          D = {red, white, blue}
+
+   Two different descriptions may define the same set. Using the above
+   examples, A and C are identical, since they have precisely the same
+   members. The shorthand A = C is used to express this equality.
+
+   The set described by set builder notation does not depend on the order
+   in which the elements are listed, nor on whether there are repetitions
+   in the list. For example,
+
+          {6, 11} = {11, 6} = {11, 11, 6, 11}.
+
+   This is because the notation { ... } merely indicates that the set
+   being described includes each element listed; if an element is listed
+   more than once, or if two elements are transposed, this has no effect
+   on the resulting set.
+
+   For sets with many elements, an abbreviated list can sometimes be used.
+   The first one thousand positive whole numbers can be described using
+   the symbolic shorthand:
+
+          {1, 2, 3, ..., 1000},
+
+   where the ellipsis (...) indicates the list continues in the same way.
+   Ellipses may also be used where sets extend to infinity; the set of
+   positive even numbers can be described : {2, 4, 6, 8, ... }.
+
+   Sets, particularly more complex ones, can use a different notation. The
+   set F, whose members are the first twenty numbers which are four less
+   than a square integer, can be described:
+
+          F = {n^2 – 4 : n is an integer; and 0 ≤ n ≤ 19}
+
+   In this description, the colon (:) means such that, and the description
+   can be interpreted as "F is the set of numbers of the form n^2 – 4,
+   such that n is a whole number in the range from 0 to 19 inclusive."
+   Sometimes the pipe notation | is used instead of the colon.
+
+Membership
+
+   If something is or is not an element of a particular set then this is
+   symbolised by \in and \notin respectively. So, with respect to the sets
+   defined above:
+
+          + 4 \in A and 285 \in F (since 285 = 17² − 4); but
+          + 9 \notin F and \mathrm{green} \notin B .
+
+Cardinality
+
+   Each of the sets described above has a definite number of members; for
+   example, the set A has four members, while the set B has three members,
+   denoted |A|=4 and |B|=3 respectively.
+
+   A set can have zero members. Such a set is called the empty set (or the
+   null set) and is denoted by the symbol ø. Letting A be the set of all
+   three-sided squares, it has zero members, and thus A = ø. Like the
+   number zero, though seemingly trivial, the empty set turns out to be
+   quite important in mathematics.
+
+   A set can have an infinite number of members; for example, the set of
+   natural numbers is infinite. Some infinite sets have larger cardinality
+   than others; there are more real numbers than natural numbers (in the
+   sense of cardinality).
+
+Subsets
+
+   If every member of set A is also a member of set B, then A is said to
+   be a subset of B, written A \subseteq B (also pronounced A is contained
+   in B). Equivalently, we can write B \supseteq A , read as B is a
+   superset of A, B includes A, or B contains A. The relationship between
+   sets established by \subseteq is called inclusion or containment.
+
+   If A is a subset of, but not equal to, B, then A is called a proper
+   subset of B, written A \subset B (A is a proper subset of B) or B
+   \supset A (B is proper superset of A). However, in some literature
+   these symbols are read the same as \subseteq and \supseteq , so the
+   more explicit symbols \subsetneq and \supsetneq are often used for
+   proper subsets and supersets.
+   A is a subset of B
+
+                             A is a subset of B
+
+   Example:
+
+          + The set of all men is a proper subset of the set of all
+            people.
+          + \{1,3\} \subset \{1,2,3,4\}
+          + \{1, 2, 3, 4\} \subseteq \{1,2,3,4\}
+
+   The empty set is a subset of every set and every set is a subset of
+   itself:
+
+          + \emptyset \subseteq A
+          + A \subseteq A
+
+Power set
+
+   The power set of a set S can be defined as the set of all subsets of S.
+   This includes the subsets formed from the members of S and the empty
+   set. If a finite set S has cardinality n then the power set of S has
+   cardinality 2^n. If S is an infinite (either countable or uncountable)
+   set then the power set of S is always uncountable. The power set can be
+   written as 2^S.
+
+Special sets
+
+   There are some sets which hold great mathematical importance and are
+   referred to with such regularity that they have acquired special names
+   and notational conventions to identify them. One of these is the empty
+   set. Many of these sets are represented using Blackboard bold typeface.
+   Special sets of numbers include:
+     * \mathbb{P} , denoting the set of all primes.
+     * \mathbb{N} , denoting the set of all natural numbers. That is to
+       say, \mathbb{N} = {1, 2, 3, ...}, or sometimes \mathbb{N} = {0, 1,
+       2, 3, ...}.
+     * \mathbb{Z} , denoting the set of all integers (whether positive,
+       negative or zero). So \mathbb{Z} = {..., -2, -1, 0, 1, 2, ...}.
+     * \mathbb{Q} , denoting the set of all rational numbers (that is, the
+       set of all proper and improper fractions). So, \mathbb{Q} = \left\{
+       \begin{matrix}\frac{a}{b} \end{matrix}: a,b \in \mathbb{Z}, b \neq
+       0\right\} . For example, \begin{matrix} \frac{1}{4} \end{matrix}
+       \in \mathbb{Q} and \begin{matrix}\frac{11}{6} \end{matrix} \in
+       \mathbb{Q} . All integers are in this set since every integer a can
+       be expressed as the fraction \begin{matrix} \frac{a}{1}
+       \end{matrix} .
+     * \mathbb{R} , denoting the set of all real numbers. This set
+       includes all rational numbers, together with all irrational numbers
+       (that is, numbers which cannot be rewritten as fractions, such as
+       π, e, and √2).
+     * \mathbb{C} , denoting the set of all complex numbers.
+
+   Each of these sets of numbers has an infinite number of elements, and
+   \mathbb{P} \subset \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q}
+   \subset \mathbb{R} \subset \mathbb{C} . The primes are used less
+   frequently than the others outside of number theory and related fields.
+
+Basic operations
+
+Unions
+
+   There are ways to construct new sets from existing ones. Two sets can
+   be "added" together. The union of A and B, denoted by A U B, is the set
+   of all things which are members of either A or B.
+   A union B
+
+                            The union of A and B
+
+   Examples:
+
+          + {1, 2} U {red, white} = {1, 2, red, white}
+          + {1, 2, green} U {red, white, green} = {1, 2, red, white,
+            green}
+          + {1, 2} U {1, 2} = {1, 2}
+
+   Some basic properties of unions are:
+
+          + A U B   =   B U A
+          + A  ⊆  A U B
+          + A U A   =  A
+          + A U ø   =  A
+
+Intersections
+
+   A new set can also be constructed by determining which members two sets
+   have "in common". The intersection of A and B, denoted by A ∩ B, is the
+   set of all things which are members of both A and B. If A ∩ B  =  ø,
+   then A and B are said to be disjoint.
+   A intersect B
+
+                         The intersection of A and B
+
+   Examples:
+
+          + {1, 2} ∩ {red, white} = ø
+          + {1, 2, green} ∩ {red, white, green} = {green}
+          + {1, 2} ∩ {1, 2} = {1, 2}
+
+   Some basic properties of intersections:
+
+          + A ∩ B   =   B ∩ A
+          + A ∩ B  ⊆  A
+          + A ∩ A   =   A
+          + A ∩ ø   =   ø
+
+Complements
+
+   Two sets can also be "subtracted". The relative complement of A in B
+   (also called the set theoretic difference of B and A), denoted by
+   B − A, (or B \ A) is the set of all elements which are members of B,
+   but not members of A. Note that it is valid to "subtract" members of a
+   set that are not in the set, such as removing green from {1,2,3}; doing
+   so has no effect.
+
+   In certain settings all sets under discussion are considered to be
+   subsets of a given universal set U. In such cases, U − A, is called the
+   absolute complement or simply complement of A, and is denoted by A′.
+   B minus A
+
+                           The relative complement
+                                  of A in B
+
+   A complement
+
+                          The complement of A in U
+
+   Examples:
+
+          + {1, 2} − {red, white} = {1, 2}
+          + {1, 2, green} − {red, white, green} = {1, 2}
+          + {1, 2} − {1, 2} = ø
+          + If U is the set of integers, E is the set of even integers,
+            and O is the set of odd integers, then the complement of E in
+            U is O, or equivalently, E′ = O.
+
+   Some basic properties of complements:
+
+          + A U A′ = U
+          + A ∩ A′ = ø
+          + (A′ )′ = A
+          + A − A = ø
+          + A − B = A ∩ B′
+
+   Retrieved from " http://en.wikipedia.org/wiki/Set"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

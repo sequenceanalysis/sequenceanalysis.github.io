@@ -1,0 +1,554 @@
+   #copyright
+
+Telecommunication
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   Copy of the original phone of Graham Bell at the Musée des Arts et
+   Métiers in Paris
+   Enlarge
+   Copy of the original phone of Graham Bell at the Musée des Arts et
+   Métiers in Paris
+
+   Telecommunication is the transmission of signals over a distance for
+   the purpose of communication. In modern times, this process almost
+   always involves the sending of electromagnetic waves by electronic
+   transmitters but in earlier years it may have involved the use of smoke
+   signals, drums or semaphore. Today, telecommunication is widespread and
+   devices that assist the process such as the television, radio and
+   telephone are common in many parts of the world. There is also a vast
+   array of networks that connect these devices, including computer
+   networks, public telephone networks, radio networks and television
+   networks. Computer communication across the Internet, such as e-mail
+   and instant messaging, is just one of many examples of
+   telecommunication.
+
+   Telecommunication systems are generally designed by telecommunication
+   engineers. Major contributors to the field of telecommunications
+   include Alexander Bell who invented the telephone (as we know it), John
+   Logie Baird who invented the mechanical television and Guglielmo
+   Marconi who first demonstrated transatlantic radio communication. In
+   recent times, optical fibre has radically improved the bandwidth
+   available for intercontinental communication, helping to facilitate a
+   faster and richer Internet experience. And, digital television has
+   eliminated effects such as snowy pictures and ghosting.
+   Telecommunication remains an important part of the world economy and
+   the telecommunication industry's revenue has been placed at just under
+   3% of the gross world product.
+
+Key concepts
+
+   Etymology
+   The word telecommunication was adapted from the French word
+   télécommunication. It is a compound of the Greek prefix tele- (τηλε-),
+   meaning 'far off', and communication, meaning 'to transfer
+   information'.
+
+   The basic elements of a telecommunication system are:
+     * a transmitter that takes information and converts it to a signal
+       for transmission
+     * a transmission medium over which the signal is transmitted
+     * a receiver that receives and converts the signal back into usable
+       information
+
+   For example, consider a radio broadcast. In this case the broadcast
+   tower is the transmitter, the radio is the receiver and the
+   transmission medium is free space. Often telecommunication systems are
+   two-way and devices act as both a transmitter and receiver or
+   transceiver. For example, a mobile phone is a transceiver.
+   Telecommunication over a phone line is called point-to-point
+   communication because it is between one transmitter and one receiver,
+   telecommunication through radio broadcasts is called broadcast
+   communication because it is between one powerful transmitter and
+   numerous receivers.
+
+   Signals can either be analogue or digital. In an analogue signal, the
+   signal is varied continuously with respect to the information. In a
+   digital signal, the information is encoded as a set of discrete values
+   (e.g. 1's and 0's). Telecommunications devices convert different types
+   of information, such as sound and video, into electrical or optical
+   signals. Electrical signals typically travel along a medium such as
+   copper wire or are carried over the air as radio waves. Optical signals
+   typically travel along a medium such as strands of glass fibers. When a
+   signal reaches its destination, the device on the receiving end
+   converts the signal back into an understandable message, such as sound
+   over a telephone, moving images on a television, or words and pictures
+   on a computer screen.
+
+   A collection of transmitters, receivers or transceivers that
+   communicate with each other is known as a network. Digital networks may
+   consist of one or more routers that route data to the correct user. An
+   analogue network may consist of one or more switches that establish a
+   connection between two or more users. For both types of network, a
+   repeater may be necessary to amplify or recreate the signal when it is
+   being transmitted over long distances. This is to combat attenuation
+   that can render the signal indistinguishable from noise.
+
+   A channel is a division in a transmission medium so that it can be used
+   to send multiple independent streams of data. For example, a radio
+   station may broadcast at 96 MHz while another radio station may
+   broadcast at 94.5 MHz. In this case the medium has been divided by
+   frequency and each channel received a separate frequency to broadcast
+   on. Alternatively one could allocate each channel a recurring segment
+   of time over which to broadcast.
+
+   The shaping of a signal to convey information is known as modulation.
+   Modulation is a key concept in telecommunications and is frequently
+   used to impose the information of one signal on another. Modulation is
+   used to represent a digital message as an analogue waveform. This is
+   known as keying and several keying techniques exist — these include
+   phase-shift keying, amplitude-shift keying and minimum-shift keying.
+   Bluetooth, for example, uses phase-shift keying for exchanges between
+   devices (see note).
+
+   However, more relevant to earlier discussion, modulation is also used
+   to boost the frequency of analogue signals. This is because a raw
+   signal is often not suitable for transmission over long distances of
+   free space due to its low frequencies. Hence its information must be
+   superimposed on a higher frequency signal (known as a carrier wave)
+   before transmission. There are several different modulation schemes
+   available to achieve this — some of the most basic being amplitude
+   modulation and frequency modulation. An example of this process is a
+   DJ's voice being superimposed on a 96 MHz carrier wave using frequency
+   modulation (the voice would then be received on a radio as the channel
+   “96 FM”).
+
+Society and telecommunication
+
+   Telecommunication is an important part of many modern societies. In
+   2006, estimates place the telecommunication industry's revenue at $1.2
+   trillion or just under 3% of the gross world product. Good
+   telecommunication infrastructure is widely acknowledged as important
+   for economic success in the modern world both on a micro and
+   macroeconomic scale.
+
+   On the microeconomic scale, companies have used telecommunication to
+   help build global empires, this is self-evident in the business of
+   online retailer Amazon.com but observers note that even the
+   conventional retailer Wal-Mart has benefited from possessing superior
+   telecommunication infrastructure compared to its competitors. In modern
+   Western society, home owners often use their telephone to organize many
+   home services ranging from pizza deleveries to electricians. Even
+   relatively poor communities have been noted to use telecommunication
+   their advantage. In Bangladesh's Narshingdi district, isolated
+   villagers use cell phones to speak directly to wholesalers and arrange
+   a better price for their goods. In Cote d'Ivoire coffee growers share
+   mobile phones to follow hourly variations in coffee prices and sell at
+   the best price.
+
+   On the macroeconomic scale, in 2001, Lars-Hendrik Röller and Leonard
+   Waverman suggested a causal link between good telecommunication
+   infrastructure and economic growth. Few dispute the existence of a
+   correlation although some argue it is wrong to view the relationship as
+   causal. However from any perspective the economic benifits of good
+   telecommunication infrastructure are undeniable and, for this reason,
+   there is increasing worry about the digital divide.
+
+   This stems from the fact that access to telecommunication systems is
+   not equally shared amongst the world's population. A 2003 survey by the
+   International Telecommunication Union (ITU) revealed that roughly
+   one-third of countries have less than 1 mobile subscription for every
+   20 people and one-third of countries have less than 1 fixed line
+   subscription for every 20 people. In terms of Internet access, roughly
+   half of countries have less than 1 in 20 people with Internet access.
+   From this information, as well as educational data, the ITU was able to
+   compile a Digital Access Index that measures the overall ability of
+   citizens to access and use information and communication technologies.
+   Using this measure, countries such as Sweden, Denmark and Iceland
+   receive the highest ranking while African countries such as Niger,
+   Burkina Faso and Mali receive the lowest.
+
+History
+
+   A replica of one of Chappe's semaphore towers.
+   Enlarge
+   A replica of one of Chappe's semaphore towers.
+
+Early telecommunications
+
+   Early forms of telecommunication include smoke signals and drums. Drums
+   were used by natives in Africa, New Guinea and South America whereas
+   smoke signals were used by natives in North America and China. Contrary
+   to what one might think, these systems were often used to do more than
+   merely announce the presence of a camp.
+
+   In 1792, a French engineer, Claude Chappe built the first fixed visual
+   telegraphy (or semaphore) system between Lille and Paris. However
+   semaphore as a communication system suffered from the need for skilled
+   operators and expensive towers often at intervals of only ten to thirty
+   kilometres (six to nineteen miles). As a result, the last commercial
+   line was abandoned in 1880.
+
+Telegraph and telephone
+
+   The first commercial electrical telegraph was constructed by Sir
+   Charles Wheatstone and Sir William Fothergill Cooke and opened on 9
+   April 1839. Both Wheatstone and Cooke viewed their device as "an
+   improvement to the [existing] electromagnetic telegraph" not as a new
+   device.
+
+   On the other side of the Atlantic Ocean, Samuel Morse independently
+   developed a version of the electrical telegraph that he unsuccessfully
+   demonstrated on 2 September 1837. Soon after he was joined by Alfred
+   Vail who developed the register — a telegraph terminal that integrated
+   a logging device for recording messages to paper tape. This was
+   demonstrated successfully on 6 January 1838. The first transatlantic
+   telegraph cable was successfully completed on 27 July 1866, allowing
+   transatlantic telecommunication for the first time.
+
+   The conventional telephone was invented by Alexander Bell in 1876.
+   Although in 1849 Antonio Meucci invented a device that allowed the
+   electrical transmission of voice over a line. Meucci's device depended
+   upon the electrophonic effect and was of little practical value because
+   it required users to place the receiver in their mouth to “hear” what
+   was being said. The first commercial telephone services were set-up in
+   1878 and 1879 on both sides of the Atlantic in the cities of New Haven
+   and London.
+
+Radio and television
+
+   In 1832, James Lindsay gave a classroom demonstration of wireless
+   telegraphy to his students. By 1854 he was able to demonstrate a
+   transmission across the Firth of Tay from Dundee to Woodhaven, a
+   distance of two miles, using water as the transmission medium. In
+   December 1901, Guglielmo Marconi established wireless communication
+   between Britain and the United States earning him the Nobel Prize in
+   physics in 1909 (which he shared with Karl Braun).
+
+   On March 25, 1925, John Logie Baird was able to demonstrate the
+   transmission of moving pictures at the London department store
+   Selfridges. Baird's device relied upon the Nipkow disk and thus became
+   known as the mechanical television. It formed the basis of experimental
+   broadcasts done by the British Broadcasting Corporation beginning
+   September 30, 1929. However for most of the twentieth century
+   televisions depended upon the cathode ray tube invented by Karl Braun.
+   The first version of such a television to show promise was produced by
+   Philo Farnsworth and demonstrated to his family on September 7, 1927.
+
+Computer networks and the Internet
+
+   On September 11, 1940 George Stibitz was able to transmit problems
+   using teletype to his Complex Number Calculator in New York and receive
+   the computed results back at Dartmouth College in New Hampshire. This
+   configuration of a centralized computer or mainframe with remote dumb
+   terminals remained popular throughout the 1950s. However it was not
+   until the 1960s that researchers started to investigate packet
+   switching — a technology that would allow chunks of data to be sent to
+   different computers without first passing through a centralized
+   mainframe. A four-node network emerged on December 5, 1969; this
+   network would become ARPANET, which by 1981 would consist of 213 nodes.
+
+   ARPANET's development centred around the Request for Comment process
+   and on April 7, 1969, RFC 1 was published. This process is important
+   because ARPANET would eventually merge with other networks to form the
+   Internet and many of the protocols the Internet relies upon today were
+   specified through this process. In September 1981, RFC 791 introduced
+   the Internet Protocol v4 (IPv4) and RFC 793 introduced the Transmission
+   Control Protocol (TCP) — thus creating the TCP/IP protocol that much of
+   the Internet relies upon today.
+
+   However not all important developments were made through the Request
+   for Comment process. Two popular link protocols for local area networks
+   (LANs) also appeared in the 1970s. A patent for the Token Ring protocol
+   was filed by Olof Soderblom on October 29, 1974. And a paper on the
+   Ethernet protocol was published by Robert Metcalfe and David Boggs in
+   the July 1976 issue of Communications of the ACM. These protocols are
+   discussed in more detail in the next section.
+
+Modern operation
+
+Telephone
+
+   In a conventional telephone system, the caller is connected to the
+   person they want to talk to by the switches at various exchanges. The
+   switches form an electrical connection between the two users and the
+   setting of these switches is determined electronically when the caller
+   dials the number based upon either pulses or tones made by the caller's
+   telephone. Once the connection is made, the caller's voice is
+   transformed to an electrical signal using a small microphone in the
+   telephone's receiver. This electrical signal is then sent through
+   various switches in the network to the user at the other end where it
+   transformed back into sound waves by a speaker for that person to hear.
+   This person also has a separate electrical connection between him and
+   the caller which allows him to talk back.
+
+   Today, the fixed-line telephone systems in most residential homes are
+   analogue — that is the speaker's voice directly determines the
+   amplitude of the signal's voltage. However although short-distance
+   calls may be handled from end-to-end as analogue signals, increasingly
+   telephone service providers are transparently converting signals to
+   digital before converting them back to analogue for reception. The
+   advantage being that digitized voice data can travel side-by-side with
+   data from the Internet and that digital signals can be perfectly
+   reproduced in long distance communication as opposed to analogue
+   signals which are inevitably impacted by noise.
+
+   Mobile phones have had a significant impact on telephone networks.
+   Mobile phone subscriptions now outnumber fixed-line subscriptions in
+   many markets. Sales of mobile phones in 2005 totalled 816.6 million
+   with that figure being almost equally shared amongst the markets of
+   Asia/Pacific (204 m), Western Europe (164 m), CEMEA (Central Europe,
+   the Middle East and Africa) (153.5 m), North America (148 m) and Latin
+   America (102 m). In terms of new subscriptions over the five years from
+   1999, Africa has outpaced other markets with 58.2% growth. Increasingly
+   these phones are being serviced by digital systems such as GSM or
+   W-CDMA with many markets choosing to depreciate analogue systems such
+   as AMPS.
+
+   There have also been dramatic changes in telephone communication behind
+   the scenes. Starting with the operation of TAT-8 in 1988, the 1990s saw
+   the widespread adoption of systems based upon optic fibres. The benefit
+   of communicating with optic fibres is that they offer a drastic
+   increase in data capacity. TAT-8 itself was able to carry 10 times as
+   many telephone calls as the last copper cable laid at that time and
+   today's optic fibre cables are able to carry 25 times as many telephone
+   calls as TAT-8. This drastic increase in data capacity is due to
+   several factors. First, optic fibres are physically much smaller than
+   competing technologies. Second, they do not suffer from crosstalk which
+   means several hundred of them can be easily bundled together in a
+   single cable. Lastly, improvements in multiplexing have lead to an
+   exponential growth in the data capacity of a single fibre.
+
+   Assisting communication across these networks is a protocol known as
+   Asynchronous Transfer Mode (ATM) that allows the side-by-side data
+   transmission mentioned in the first paragraph. The importance of the
+   ATM protocol is chiefly in its notion of establishing pathways for data
+   through the network and associating a traffic contract with these
+   pathways. The traffic contract is essentially an agreement between the
+   client and the network about how the network is to handle the data, if
+   the network can not meet the conditions of the traffic contract it does
+   not accept the connection. This is important because telephone calls
+   can negotiate a contract so as to guarantee themselves a constant bit
+   rate, something that will ensure a caller's voice is not delayed in
+   parts or cut-off completely. There are competitors to ATM, such as
+   Multiprotocol Label Switching (MPLS), that perform a similar task and
+   are expected to supplant ATM in the future however this has not yet
+   happened.
+
+Radio and television
+
+   Digital television standards and their adoption worldwide.
+   Enlarge
+   Digital television standards and their adoption worldwide.
+
+   The broadcast media industry is at a critical turning point in its
+   development, with many countries starting to move from analogue to
+   digital broadcasts. The chief advantage of digital broadcasts is that
+   they prevent a number of complaints with traditional analogue
+   broadcasts. For television, this includes the elimination of problems
+   such as snowy pictures, ghosting and other distortion. These occur
+   because of the nature of analogue transmission, which means that
+   perturbations due to noise will be evident in the final output. Digital
+   transmission overcomes this problem because digital signals are reduced
+   to binary data upon reception and hence small perturbations do not
+   affect the final output. In a simplified example, if a binary message
+   1011 was transmitted with signal amplitudes [1.0 0.0 1.0 1.0] and
+   received with signal amplitudes [0.9 0.2 1.1 0.9] it would still decode
+   to the binary message 1011 — a perfect reproduction of what was sent.
+   From this example, a problem with digital transmissions can also be
+   seen in that if the noise is great enough it can significantly alter
+   the decoded message. Using forward error correction a receiver can
+   correct a handful of bit errors in the resulting message but too much
+   noise will lead to incomprehensible output and hence a breakdown of the
+   transmission.
+
+   In digital television broadcasting, there are three competing standards
+   that are likely to be adopted worldwide. These are the ATSC, DVB and
+   ISDB standards and the adoption of these standards thus far is
+   presented in the captioned map. All three standards use MPEG-2 for
+   video compression. ATSC uses Dolby Digital AC-3 for audio compression,
+   ISDB uses Advanced Audio Coding (MPEG-2 Part 7) and DVB has no standard
+   for audio compression but typically uses MPEG-1 Part 3 Layer 2. The
+   choice of modulation also varies between the schemes. Both DVB and ISDB
+   use orthogonal frequency-division multiplexing (OFDM) for terrestrial
+   broadcasts (as opposed to satellite or cable broadcasts) where as ATSC
+   uses vestigial sideband modulation (VSB). OFDM should offer better
+   resistance to multipath interference and the Doppler effect (which
+   would impact reception using moving receivers). However controversial
+   tests conducted by the United States' National Association of
+   Broadcasters have shown that there is little difference between the two
+   for stationary receivers.
+
+   In digital audio broadcasting, standards are much more unified with
+   practically all countries (including Canada) choosing to adopt the
+   Digital Audio Broadcasting standard (also known as the Eureka 147
+   standard). The exception being the United States which has chosen to
+   adopt HD Radio. HD Radio, unlike Eureka 147, is based upon a
+   transmission method known as in-band on-channel transmission — this
+   allows digital information to "piggyback" on normal AM or FM analogue
+   transmissions. Hence avoiding the bandwidth allocation issues of Eureka
+   147 and therefore being strongly advocated National Association of
+   Broadcasters who felt there was a lack of new spectrum to allocate for
+   the Eureka 147 standard. In the United States the Federal
+   Communications Commission has chosen to leave licensing of the standard
+   in the hands of a commercial corporation called iBiquity. An open
+   in-band on-channel standard exists in the form of Digital Radio
+   Mondiale (DRM) however adoption of this standard is mostly limited to a
+   handful of shortwave broadcasts. Despite the different names all
+   standards rely upon OFDM for modulation. In terms of audio compression,
+   DRM typically uses Advanced Audio Coding (MPEG-4 Part 3), DAB like DVB
+   can use a variety of codecs but typically uses MPEG-1 Part 3 Layer 2
+   and HD Radio uses High-Definition Coding.
+
+   However, despite the pending switch to digital, analogue receivers
+   still remain widespread. Analogue television is still transmitted in
+   practically all countries. The United States had hoped to end analogue
+   broadcasts by December 31, 2006 however this was recently pushed back
+   to February 17, 2009. For analogue, there are three standards in use
+   (see a map on adoption here). These are known as PAL, NTSC and SECAM.
+   The basics of PAL and NTSC are very similar; a quadrature amplitude
+   modulated subcarrier carrying the chrominance information is added to
+   the luminance video signal to form a composite video baseband signal
+   (CVBS). On the other hand, the SECAM system uses a frequency modulation
+   scheme on its colour subcarrier. The PAL system differs from NTSC in
+   that the phase of the video signal's colour components is reversed with
+   each line helping to correct phase errors in the transmission. For
+   analogue radio, the switch to digital is made more difficult by the
+   fact that analogue receivers cost a fraction of the cost of digital
+   receivers. For example while you can get a good analogue receiver for
+   under $20 USD a digital receiver will set you back at least $75 USD.
+   The choice of modulation for analogue radio is typically between
+   amplitude modulation (AM) or frequency modulation (FM). To achieve
+   stereo playback, an amplitude modulated subcarrier is used for stereo
+   FM and quadrature amplitude modulation is used for stereo AM or C-QUAM
+   (see each of the linked articles for more details).
+
+The Internet
+
+   The OSI reference model
+   Enlarge
+   The OSI reference model
+
+   Today an estimated 15.7% of the world population has access to the
+   Internet with the highest concentration in North America (68.6%),
+   Oceania/Australia (52.6%) and Europe (36.1%). In terms of broadband
+   access, countries such as Iceland (26.7%), South Korea (25.4%) and the
+   Netherlands (25.3%) lead the world.
+
+   The nature of computer network communication lends itself to a layered
+   approach where individual protocols in the protocol stack run largely
+   independently of other protocols. This allows lower-level protocols to
+   be customized for the network situation while not changing the way
+   higher-level protocols operate. A practical example of why this
+   important is because it allows an Internet browser to run the same code
+   regardless of whether the computer it is running on is connected to the
+   Internet through an Ethernet or Wi-Fi connection. Protocols are often
+   talked about in terms of their place in the OSI reference model — a
+   model that emerged in 1983 as the first step in a doomed attempt to
+   build a universally adopted networking protocol suite. The model itself
+   is outlined in the picture to the right. It is important to note that
+   the Internet's protocol suite, like many modern protocol suites, does
+   not rigidly follow this model but can still be talked about in the
+   context of this model.
+
+   For the Internet, the physical medium and data link protocol can vary
+   several times as packets travel between client nodes. Though it is
+   likely that the majority of the distance travelled will be using the
+   Asynchronous Transfer Mode (ATM) data link protocol across optical
+   fibre this is in no way guaranteed. A connection may also encounter
+   data link protocols such as Ethernet, Wi-Fi and the Point-to-Point
+   Protocol (PPP) and physical media such as twisted-pair cables and free
+   space.
+
+   At the network layer things become standardized with the Internet
+   Protocol (IP) being adopted for logical addressing. For the world wide
+   web, these “IP addresses” are derived from the human readable form
+   (e.g. 72.14.207.99 is derived from www.google.com) using the Domain
+   Name System. At the moment the most widely used version of the Internet
+   Protocol is version four but a move to version six is imminent. The
+   main advantage of the new version is that it supports 3.40 × 10^38
+   addresses compared to 4.29 × 10^9 addresses. The new version also adds
+   support for enhanced security through IPSec as well as support for QoS
+   identifiers. At the transport layer most communication adopts either
+   the Transmission Control Protocol (TCP) or the User Datagram Protocol
+   (UDP). With TCP, packets are retransmitted if they are lost and placed
+   in order before they are presented to higher layers (this ordering also
+   allows duplicate packets to be eliminated). With UDP, packets are not
+   ordered or retransmitted if lost. Both TCP and UDP packets carry port
+   numbers with them to specify what application or process the packet
+   should be handed to on the client's computer. Because certain
+   application-level protocols use certain ports, network administrators
+   can restrict Internet access by blocking or throttling traffic destined
+   for a particular port.
+
+   Above the transport layer there are certain protocols that loosely fit
+   in the session and presentation layers and are sometimes adopted, most
+   notably the Secure Sockets Layer (SSL) and Transport Layer Security
+   (TLS) protocols. These protocols ensure that the data transferred
+   between two parties remains completely confidential and one or the
+   other is in use when a padlock appears at the bottom of your web
+   browser. Security is generally based upon the principle that
+   eavesdroppers cannot factorize very large numbers that are the
+   composite of two primes without knowing one of the primes. Another
+   protocol that loosely fits in the session and presentation layers is
+   the Real-time Transport Protocol (RTP) most notably used to stream
+   QuickTime. Finally at the application layer are many of the protocols
+   Internet users would be familiar with such as HTTP (web browsing), POP3
+   (e-mail), FTP (file transfer) and IRC (Internet chat) but also less
+   common protocols such as BitTorrent (file sharing) and ICQ (instant
+   messaging).
+
+Local area networks
+
+   A local area network.
+   Enlarge
+   A local area network.
+
+   Despite the growth of the Internet, the characteristics of local area
+   networks (computer networks that run over at most a few kilometres)
+   remain distinct.
+
+   In the mid-1980s, several protocol suites emerged to fill the gap
+   between the data link and applications layer of the OSI reference
+   model. These were Appletalk, IPX and NetBIOS with the dominant protocol
+   suite during the early 90s being IPX due to its popularity with MS-DOS
+   users. TCP/IP existed at this point but was typically only used by
+   large government and research facilities. However as the Internet grew
+   in popularity and a larger percentage of local area network traffic
+   became Internet-related, LANs gradually moved towards TCP/IP and today
+   networks mostly dedicated to TCP/IP traffic are common. The move to
+   TCP/IP was helped by technologies such as DHCP introduced in RFC 2131
+   that allowed TCP/IP clients to discover their own network address — a
+   functionality that came standard with the AppleTalk/IPX/NetBIOS
+   protocol suites.
+
+   However it is at the data link layer that modern local area networks
+   diverge from the Internet. Where as Asynchronous Transfer Mode (ATM) or
+   Multiprotocol Label Switching (MPLS) are typical data link protocols
+   for larger networks, Ethernet and Token Ring are typical data link
+   protocols for local area networks. The latter LAN protocols differ from
+   the former protocols in that they are simpler (e.g. they omit features
+   such as Quality of Service guarantees) and offer collision prevention.
+   Both of these differences allow for more economic set-ups. For example,
+   omitting Quality of Service guarantees simplifies routers and the
+   guarantees are not really necessary for local area networks because
+   they tend not to carry real time communication (such as voice
+   communication). Including collision prevention allows multiple clients
+   (as opposed to just two) to share the same cable again reducing costs.
+   Though both Ethernet and Token Ring have different frame formats, it is
+   in terms of collision prevention that the two present the greatest
+   difference. With Token Ring a token circulates the network and clients
+   only transmit when they have the token. The token must be managed to
+   ensure it is not lost or duplicated. With Ethernet any client can
+   transmit if it thinks the medium is idle, but clients listen for
+   collisions and if one is detected suspend communication for a random
+   amount of time.
+
+   Despite Token Ring's modest popularity in the 80's and 90's, with the
+   advent of the twenty-first century, the majority of local area networks
+   have now settled on Ethernet. At the physical layer most Ethernet
+   implementations use copper twisted-pair cables (including the common
+   10BASE-T networks). Some early implementations used coaxial cables. And
+   some implementations (especially high speed ones) use optical fibres.
+   Optical fibres are also likely to feature prominently in the
+   forthcoming 10-gigabit Ethernet implementations. Where optical fibre is
+   used, the distinction must be made between multi-mode fibre and
+   single-mode fibre. Multi-mode fibre can be thought of as thicker
+   optical fibre that is cheaper to manufacture but that suffers from less
+   usable bandwidth and greater attenuation.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Telecommunication"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

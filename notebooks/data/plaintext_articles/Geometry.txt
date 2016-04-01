@@ -1,0 +1,236 @@
+   #copyright
+
+Geometry
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Table of Geometry, from the 1728 Cyclopaedia.
+   Enlarge
+   Table of Geometry, from the 1728 Cyclopaedia.
+
+   Geometry ( Greek γεωμετρία; geo = earth, metria = measure) arose as the
+   field of knowledge dealing with spatial relationships. Geometry was one
+   of the two fields of pre-modern mathematics, the other being the study
+   of numbers.
+
+   In modern times, geometric concepts have been extended. They sometimes
+   show a high level of abstraction and complexity. Geometry now uses
+   methods of calculus and abstract algebra, so that many modern branches
+   of the field are not easily recognizable as the descendants of early
+   geometry. (See areas of mathematics.)
+
+History of geometry
+
+   Woman teaching geometry. Illustration at the beginning of a medieval
+   translation of Euclid's Elements, (c.1310)
+   Enlarge
+   Woman teaching geometry. Illustration at the beginning of a medieval
+   translation of Euclid's Elements, (c. 1310)
+
+   Euclid's The Elements of Geometry (c. 300 BCE), was one of the most
+   important early texts on geometry, in which he presented geometry in an
+   ideal axiomatic form, which came to be known as Euclidean geometry. The
+   treatise is not a compendium of all that the Hellenistic mathematicians
+   knew at the time about geometry; Euclid himself wrote eight more
+   advanced books on geometry. We know from other references that Euclid’s
+   was not the first elementary geometry textbook, but the others fell
+   into disuse and were lost.
+
+   In the early 17th century, there were two important developments in
+   geometry. The first and most important was the creation of analytic
+   geometry, or geometry with coordinates and equations, by Rene Descartes
+   (1596–1650) and Pierre de Fermat (1601–1665). This was a necessary
+   precursor to the development of calculus and a precise quantitative
+   science of physics. The second geometric development of this period was
+   the systematic study of projective geometry by Girard Desargues
+   (1591–1661). Projective geometry is the study of geometry without
+   measurement, just the study of how points align with each other.
+
+   Geometry is still feeling the effects of two developments from the
+   nineteenth century. These were the discovery of non-Euclidean geometry,
+   and the formulation of symmetry as the central consideration in the
+   Erlangen Programme of Felix Klein. Two of the master geometers of the
+   time were Bernhard Riemann, working primarily with tools from
+   mathematical analysis, and introducing the Riemann surface, and Henri
+   Poincaré, the founder of algebraic topology and the geometric theory of
+   dynamical systems.
+
+   As a consequence of these major changes in the conception of geometry,
+   the concept of 'space' became something rich and varied, and the
+   natural background for theories as different as complex analysis and
+   classical mechanics. The traditional type of geometry was recognised as
+   that of homogeneous spaces, those spaces which have a sufficient supply
+   of symmetry, so that from point to point they look just the same.
+
+Contemporary geometers
+
+   Some of the representative leading figures in modern geometry are
+   Michael Atiyah, Mikhail Gromov, and William Thurston. The common
+   feature in their work is the use of smooth manifolds as the basic idea
+   of space; they otherwise have rather different directions and
+   interests. Geometry now is, in large part, the study of structures on
+   manifolds, that have a geometric meaning in the sense of the principle
+   of covariance that lies at the root of general relativity theory, in
+   theoretical physics. (See Category:Structures on manifolds for a
+   survey.)
+
+   Much of this theory relates to the theory of continuous symmetry, or in
+   other words Lie groups. From the foundational point of view, on
+   manifolds and their geometrical structures, important is the concept of
+   pseudogroup, defined formally by Shiing-shen Chern in pursuing ideas
+   introduced by Élie Cartan. A pseudogroup can play the role of a Lie
+   group of infinite dimension.
+
+Dimension
+
+   Where the traditional geometry allowed dimensions 1 (a line), 2 (a
+   plane) and 3 (our ambient world conceived of as three-dimensional
+   space), mathematicians have used higher dimensions for nearly two
+   centuries. Dimension has gone through stages of being any natural
+   number n, possibly infinite with the introduction of Hilbert space, and
+   any positive real number in fractal geometry. Dimension theory is a
+   technical area, initially within general topology, that discusses
+   definitions; in common with most mathematical ideas, dimension is now
+   defined rather than an intuition. Connected topological manifolds have
+   a well-defined dimension; this is a theorem ( invariance of domain)
+   rather than anything a priori.
+
+   The issue of dimension still matters to geometry, in the absence of
+   complete answers to classic questions. Dimensions 3 of space and 4 of
+   space-time are special cases in geometric topology. Dimension 10 or 11
+   is a key number in string theory. Exactly why is something to which
+   research may bring a satisfactory geometric answer.
+
+Contemporary Euclidean geometry
+
+   The study of traditional Euclidean geometry is by no means dead. It is
+   now typically presented as the geometry of Euclidean spaces of any
+   dimension, and of the Euclidean group of rigid motions. The fundamental
+   formulae of geometry, such as the Pythagorean theorem, can be presented
+   in this way for a general inner product space.
+
+   Euclidean geometry has become closely connected with computational
+   geometry, computer graphics, discrete geometry, and some areas of
+   combinatorics. Momentum was given to further work on Euclidean geometry
+   and the Euclidean groups by crystallography and the work of H. S. M.
+   Coxeter, and can be seen in theories of Coxeter groups and polytopes.
+   Geometric group theory is an expanding area of the theory of more
+   general discrete groups, drawing on geometric models and algebraic
+   techniques.
+
+Algebraic geometry
+
+   The field of algebraic geometry is the modern incarnation of the
+   Cartesian geometry of co-ordinates. After a turbulent period of
+   axiomatization, its foundations are in the twenty-first century on a
+   stable basis. Either one studies the 'classical' case where the spaces
+   are complex manifolds that can be described by algebraic equations; or
+   the scheme theory provides a technically sophisticated theory based on
+   general commutative rings.
+
+   The geometric style which was traditionally called the Italian school
+   is now known as birational geometry. It has made progress in the fields
+   of threefolds, singularity theory and moduli spaces, as well as
+   recovering and correcting the bulk of the older results. Objects from
+   algebraic geometry are now commonly applied in string theory, as well
+   as diophantine geometry.
+
+   Methods of algebraic geometry rely heavily on sheaf theory and other
+   parts of homological algebra. The Hodge conjecture is an open problem
+   that has gradually taken its place as one of the major questions for
+   mathematicians. For practical applications, Gröbner basis theory and
+   real algebraic geometry are major subfields.
+
+Differential geometry
+
+   Differential geometry, which in simple terms is the geometry of
+   curvature, has been of increasing importance to mathematical physics
+   since the suggestion that space is not flat space. Contemporary
+   differential geometry is intrinsic, meaning that space is a manifold
+   and structure is given by a Riemannian metric, or analogue, locally
+   determining a geometry that is variable from point to point.
+
+   This approach contrasts with the extrinsic point of view, where
+   curvature means the way a space bends within a larger space. The idea
+   of 'larger' spaces is discarded, and instead manifolds carry vector
+   bundles. Fundamental to this approach is the connection between
+   curvature and characteristic classes, as exemplified by the generalized
+   Gauss-Bonnet theorem.
+
+Topology and geometry
+
+   The field of topology, which saw massive development in the twentieth
+   century, is in a technical sense a type of transformation geometry, in
+   which transformations are homeomorphisms. This has often been expressed
+   in the form of the dictum 'topology is rubber-sheet geometry'.
+   Contemporary geometric topology and differential topology, and
+   particular subfields such as Morse theory, would be counted by most
+   mathematicians as part of geometry. Algebraic topology and general
+   topology have gone their own ways.
+
+Axiomatic and open development
+
+   The model of Euclid's Elements, a connected development of geometry as
+   an axiomatic system, is in a tension with René Descartes's reduction of
+   geometry to algebra by means of a coordinate system. There were many
+   champions of synthetic geometry, Euclid-style development of projective
+   geometry, in the nineteenth century, Jakob Steiner being a particularly
+   brilliant figure. In contrast to such approaches to geometry as a
+   closed system, culminating in Hilbert's axioms and regarded as of
+   important pedagogic value, most contemporary geometry is a matter of
+   style. Computational synthetic geometry is now a branch of computer
+   algebra.
+
+   The Cartesian approach currently predominates, with geometric questions
+   being tackled by tools from other parts of mathematics, and geometric
+   theories being quite open and integrated. This is to be seen in the
+   context of the axiomatization of the whole of pure mathematics, which
+   went on in the period c.1900–c.1950: in principle all methods are on a
+   common axiomatic footing. This reductive approach has had several
+   effects. There is a taxonomic trend, which following Klein and his
+   Erlangen program (a taxonomy based on the subgroup concept) arranges
+   theories according to generalization and specialization. For example
+   affine geometry is more general than Euclidean geometry, and more
+   special than projective geometry. The whole theory of classical groups
+   thereby becomes an aspect of geometry. Their invariant theory, at one
+   point in the nineteenth century taken to be the prospective master
+   geometric theory, is just one aspect of the general representation
+   theory of Lie groups. Using finite fields, the classical groups give
+   rise to finite groups, intensively studied in relation to the finite
+   simple groups; and associated finite geometry, which has both
+   combinatorial (synthetic) and algebro-geometric (Cartesian) sides.
+
+   An example from recent decades is the twistor theory of Roger Penrose,
+   initially an intuitive and synthetic theory, then subsequently shown to
+   be an aspect of sheaf theory on complex manifold. In contrast, the
+   non-commutative geometry of Alain Connes is a conscious use of
+   geometric language to express phenomena of the theory of von Neumann
+   algebras, and to extend geometry into the domain of ring theory where
+   the commutative law of multiplication is not assumed.
+
+   Another consequence of the contemporary approach, attributable in large
+   measure to the Procrustean bed represented by Bourbakiste
+   axiomatization trying to complete the work of David Hilbert, is to
+   create winners and losers. The Ausdehnungslehre (calculus of extension)
+   of Hermann Grassmann was for many years a mathematical backwater,
+   competing in three dimensions against other popular theories in the
+   area of mathematical physics such as those derived from quaternions. In
+   the shape of general exterior algebra, it became a beneficiary of the
+   Bourbaki presentation of multilinear algebra, and from 1950 onwards has
+   been ubiquitous. In much the same way, Clifford algebra became popular,
+   helped by a 1957 book Geometric Algebra by Emil Artin. The history of
+   'lost' geometric methods, for example infinitely near points, which
+   were dropped since they did not well fit into the pure mathematical
+   world post- Principia Mathematica, is yet unwritten. The situation is
+   analogous to the expulsion of infinitesimals from differential
+   calculus. As in that case, the concepts may be recovered by fresh
+   approaches and definitions. Those may not be unique: synthetic
+   differential geometry is an approach to infinitesimals from the side of
+   categorical logic, as non-standard analysis is by means of model
+   theory.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Geometry"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

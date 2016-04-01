@@ -1,0 +1,244 @@
+   #copyright
+
+Electric field
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+
+   In physics, the space surrounding an electric charge has a property
+   called an electric field. This electric field exerts a force on other
+   charged objects. The concept of electric field was introduced by
+   Michael Faraday.
+
+   The electric field is a vector with SI units of newtons per coulomb (N
+   C^-1) or, equivalently, volts per meter (V m^-1). The direction of the
+   field at a point is defined by the direction of the electric force
+   exerted on a positive test charge placed at that point. The strength of
+   the field is defined by the ratio of the electric force on a charge at
+   a point to the magnitude of the charge placed at that point. Electric
+   fields contain electrical energy with energy density proportional to
+   the square of the field intensity. The electric field is to charge as
+   acceleration is to mass and force density is to volume.
+
+   A moving charge has not just an electric field but also a magnetic
+   field, and in general the electric and magnetic fields are not
+   completely separate phenomena; what one observer perceives as an
+   electric field, another observer in a different frame of reference
+   perceives as a mixture of electric and magnetic fields. For this
+   reason, one speaks of "electromagnetism" or "electromagnetic fields."
+   In quantum mechanics, disturbances in the electromagnetic fields are
+   called photons, and the energy of photons is quantized.
+
+Definition (for electrostatics)
+
+   Electric field is defined as the electric force per unit charge. The
+   direction of the field is taken to be the direction of the force it
+   would exert on a positive test charge. The electric field is radially
+   outward from a positive charge and radially in toward a negative point
+   charge.
+
+   The electric field is defined as the proportionality constant between
+   charge and force (in other words, the force per unit of test charge):
+
+          \vec{E} = \frac{\vec{F}}{q}
+
+   where
+
+          \vec{F} is the electric force given by Coulomb's law,
+          q is the charge of a "test charge",
+
+   However, note that this equation is only true in the case of
+   electrostatics, that is to say, when there is nothing moving. The more
+   general case of moving charges causes this equation to become the
+   Lorentz force equation.
+
+Coulomb's law
+
+   The electric field surrounding a point charge is given by Coulomb's
+   law:
+
+          \vec{E} =\frac{1}{4 \pi \varepsilon_0}\frac{Q}{r^2}\hat{r}
+
+   where
+
+          Q is the charge of the particle creating the electric field,
+          r is the distance from the particle with charge Q to the E-field
+          evaluation point,
+          \hat{r} is the Unit vector pointing from the particle with
+          charge Q to the E-field evaluation point,
+          \varepsilon_0 is the Permittivity of free space.
+
+   Coulomb's law is actually a special case of Gauss's Law, a more
+   fundamental description of the relationship between the distribution of
+   electric charge in space and the resulting electric field. Gauss's law
+   is one of Maxwell's equations, a set of four laws governing
+   electromagnetics.
+
+Properties (in electrostatics)
+
+   Illustration of the electric field surrounding a positive (red) and a
+   negative (green) charge (larger image).
+   Illustration of the electric field surrounding a positive (red) and a
+   negative (green) charge (larger image).
+
+   According to Equation (1) above, electric field is dependent on
+   position. The electric field due to any single charge falls off as the
+   square of the distance from that charge.
+
+   Electric fields follow the superposition principle. If more than one
+   charge is present, the total electric field at any point is equal to
+   the vector sum of the respective electric fields that each object would
+   create in the absence of the others.
+
+          \vec{E}_{\rm total} = \sum_i \vec{E}_i = \vec{E}_1 + \vec{E}_2 +
+          \vec{E}_3 \ldots \,\!
+
+   If this principle is extended to an infinite number of infinitesimally
+   small elements of charge, the following formula results:
+
+          \vec{E} = \frac{1}{4\pi\varepsilon_0} \int\frac{\rho}{r^2}
+          \hat{r}\,\mathrm{d}V
+
+   where
+
+          ρ is the charge density, or the amount of charge per unit
+          volume.
+
+   The electric field at a point is equal to the negative gradient of the
+   electric potential there. In symbols,
+
+          \vec{E} = -\vec{\nabla}\phi
+
+   where
+
+          φ(x,y,z) is the scalar field representing the electric potential
+          at a given point.
+
+   If several spatially distributed charges generate such an electric
+   potential, e.g. in a solid, an electric field gradient may also be
+   defined.
+
+   Considering the permittivity \varepsilon of a material, which may
+   differ from the permittivity of free space \varepsilon_{0} , the
+   electric displacement field is:
+
+          \vec{D} = \varepsilon \vec{E}
+
+Energy in the electric field
+
+   The electric field stores energy. The energy density of the electric
+   field is given by
+
+          u = \frac{1}{2} \varepsilon |\vec{E}|^2
+
+   where
+
+          \varepsilon is the permittivity of the medium in which the field
+          exists
+          \vec{E} is the electric field vector.
+
+   The total energy stored in the electric field in a given volume V is
+   therefore
+
+          \int_{V} \frac{1}{2} \varepsilon |\vec{E}|^2 \, \mathrm{d}V
+
+   where
+
+          dV is the differential volume element.
+
+Parallels between electrostatics and gravity
+
+   Coulomb's law, which describes the interaction of electric charges:
+
+          \vec{F} = \frac{1}{4 \pi \varepsilon_0}\frac{Qq}{r^2}\hat{r} =
+          q\vec{E}
+
+   is similar to the Newtonian gravitation law:
+
+          \vec{F} = G\frac{Mm}{r^2}\hat{r} = m\vec{g}
+
+   This suggests similarities between the electric field E and the
+   gravitational field g, so sometimes mass is called "gravitational
+   charge".
+
+   Similarities between electrostatic and gravitational forces:
+    1. Both act in a vacuum.
+    2. Both are central and conservative.
+    3. Both obey an inverse-square law (both are inversely proprotional to
+       square of r).
+    4. Both propagate with finite speed c.
+
+   Differences between electrostatic and gravitational forces:
+    1. Electrostatic forces are much greater than gravitational forces (by
+       about 10^36 times).
+    2. Gravitational forces are always attractive in nature, whereas
+       electrostatic forces may be either attractive or repulsive.
+    3. Gravitational forces are independent of the medium whereas
+       electrostatic forces depend on the medium. This is due to the fact
+       that a medium contains charges; the fast motion of these charges,
+       in response to an external electromagnetic field, produces a large
+       secondary electromagnetic field which should be accounted for.
+       While slow motion of ordinary masses in response to changing
+       gravitational field produces extremely weak secondary
+       "gravimagnetic field" which may be neglected in most cases (except,
+       of course, when mass moves with relativistic speeds).
+
+Time-varying fields
+
+   Charges do not only produce electric fields. As they move, they
+   generate magnetic fields, and if the magnetic field changes, it
+   generates electric fields. This "secondary" electric field can be
+   computed using Faraday's law of induction,
+
+          \vec{\nabla} \times \vec{E} = -\frac{\partial \vec{B}} {\partial
+          t}
+
+   where
+
+          \vec{\nabla} \times \vec{E} indicates the curl of the electric
+          field,
+          -\frac{\partial \vec{B}} {\partial t} represents the vector rate
+          of decrease of magnetic flux density with time.
+
+   This means that a magnetic field changing in time produces a curled
+   electric field, possibly also changing in time. The situation in which
+   electric or magnetic fields change in time is no longer electrostatics,
+   but rather electrodynamics or electromagnetics.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electric_field"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

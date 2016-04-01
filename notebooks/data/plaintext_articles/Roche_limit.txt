@@ -1,0 +1,412 @@
+   #copyright
+
+Roche limit
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+         Consider an orbiting mass of fluid held together by gravity, here
+    viewed from above the orbital plane. Far from the Roche limit the mass
+                                                 is practically spherical.
+         Consider an orbiting mass of fluid held together by gravity, here
+    viewed from above the orbital plane. Far from the Roche limit the mass
+                                                 is practically spherical.
+
+           Closer to the Roche limit the body is deformed by tidal forces.
+           Closer to the Roche limit the body is deformed by tidal forces.
+
+     Within the Roche limit the mass's own gravity can no longer withstand
+                             the tidal forces, and the body disintegrates.
+     Within the Roche limit the mass's own gravity can no longer withstand
+                             the tidal forces, and the body disintegrates.
+
+          Particles closer to the primary move more quickly than particles
+                           farther away, as represented by the red arrows.
+          Particles closer to the primary move more quickly than particles
+                           farther away, as represented by the red arrows.
+
+    The varying orbital speed of the material eventually causes it to form
+                                                                   a ring.
+    The varying orbital speed of the material eventually causes it to form
+                                                                   a ring.
+
+   The Roche limit, sometimes referred to as the Roche radius, is the
+   distance within which a celestial body held together only by its own
+   gravity will disintegrate due to a second celestial body's tidal forces
+   exceeding the first body's gravitational self-attraction. Inside the
+   Roche limit, orbiting material will tend to disperse and form rings,
+   while outside the limit, material will tend to coalesce. The term is
+   named after Édouard Roche, the French astronomer who first calculated
+   this theoretical limit in 1848.
+
+   Typically, the Roche limit applies to a satellite disintegrating due to
+   tidal forces induced by its primary, the body about which it orbits.
+   Some real satellites, both natural and artificial, can orbit within
+   their Roche limits because they are held together by forces other than
+   gravitation. Jupiter's moon Metis and Saturn's moon Pan are examples of
+   such satellites, which hold together because of their tensile strength.
+   In extreme cases, objects resting on the surface of such a satellite
+   could actually be lifted away by tidal forces. A weaker satellite, such
+   as a comet, could be broken up when it passes within its Roche limit.
+
+   Since tidal forces overwhelm gravity within the Roche limit, no large
+   satellite can coalesce out of smaller particles within that limit.
+   Indeed, almost all known planetary rings are located within their Roche
+   limit (Saturn's E-Ring being a notable exception). They could either be
+   remnants from the planet's proto-planetary accretion disc that failed
+   to coalesce into moonlets, or conversely have formed when a moon passed
+   within its Roche limit and broke apart.
+
+   (Note that the Roche limit should not be confused with the concept of
+   the Roche lobe or Roche sphere, which are also named after Édouard
+   Roche. The Roche lobe describes the limits at which an object which is
+   in orbit around two other objects will be captured by one or the other.
+   The Roche sphere approximates the gravitational sphere of influence of
+   one astronomical body in the face of perturbations from another heavier
+   body around which it orbits.)
+
+Determining the Roche limit
+
+   The Roche limit depends on the rigidity of the satellite. At one
+   extreme, a completely rigid satellite will maintain its shape until
+   tidal forces break it apart. At the other extreme, a highly fluid
+   satellite gradually deforms leading to increased tidal forces, causing
+   the satellite to elongate, further compounding the tidal forces and
+   causing it to break apart more readily. Most real satellites are
+   somewhere between these two extremes, with internal friction,
+   viscosity, and tensile strength rendering the satellite neither
+   perfectly rigid nor perfectly fluid.
+
+Rigid satellites
+
+   To calculate the rigid body Roche limit for a spherical satellite, the
+   cause of the rigidity is neglected but the body is assumed to maintain
+   its spherical shape while being held together only by its own
+   self-gravity. Other effects are also neglected, such as tidal
+   deformation of the primary, rotation of the satellite, and its
+   irregular shape. These somewhat unrealistic assumptions greatly
+   simplify the Roche limit calculation.
+
+   The Roche limit, d, for a rigid spherical satellite orbiting a
+   spherical primary is:
+
+          d = R\left( 2\;\frac {\rho_M} {\rho_m} \right)^{\frac{1}{3}}
+
+   where R is the radius of the primary, ρ[M] is the density of the
+   primary, and ρ[m] is the density of the satellite.
+
+   Notice that if the satellite is more than twice as dense as the primary
+   (as can easily be the case for a rocky moon orbiting a gas giant) then
+   the Roche limit will be inside the primary and hence not relevant.
+
+Derivation of the formula
+
+   In order to determine the Roche limit, we consider a small mass u on
+   the surface of the satellite closest to the primary. There are two
+   forces on this mass u: the gravitational pull towards the satellite and
+   the gravitational pull towards the primary. Since the satellite is
+   already in orbital free fall around the primary, the tidal force is the
+   only relevant term of the gravitational attraction of the primary.
+   Derivation of the Roche limit
+
+   The gravitational pull F[G] on the mass u towards the satellite with
+   mass m and radius r can be expressed according to Newton's law of
+   gravitation.
+
+          F_G = \frac{Gmu}{r^2}
+
+   The tidal force F[T] on the mass u towards the primary with radius R
+   and a distance d between the centers of the two bodies can be expressed
+   as:
+
+          F_T = \frac{2GMur}{d^3}
+
+   The Roche limit is reached when the gravitational pull and the tidal
+   force cancel each other out.
+
+          F_G = F_T \;
+
+   or
+
+          \frac{Gmu}{r^2} = \frac{2GMur}{d^3}
+
+   Which quickly gives the Roche limit, d, as:
+
+          d = r \left( 2 M / m \right)^{\frac{1}{3}}
+
+   However, we don't really want the radius of the satellite to appear in
+   the expression for the limit, so we re-write this in terms of
+   densities.
+
+   For a sphere the mass M can be written as:
+
+          M = \frac{4\pi\rho_M R^3}{3} where R is the radius of the
+          primary.
+
+   And likewise:
+
+          m = \frac{4\pi\rho_m r^3}{3} where r is the radius of the
+          satellite.
+
+   Substituting for the masses in the equation for the Roche limit, and
+   cancelling out 4π / 3 gives:
+
+          d = r \left( \frac{ 2 \rho_M R^3 }{ \rho_m r^3 } \right)^{1/3}
+
+   which can be simplified to the Roche limit:
+
+          d = R\left( 2\;\frac {\rho_M} {\rho_m} \right)^{\frac{1}{3}}
+
+Fluid satellites
+
+   A more accurate approach for calculating the Roche Limit takes the
+   deformation of the satellite into account. An extreme example would be
+   a tidally locked liquid satellite orbiting a planet, where any force
+   acting upon the satellite would deform it (into a prolate spheroid).
+
+   The calculation is complex and its result cannot be represented as an
+   algebraic formula. Historically, Roche himself derived the following
+   numerical solution for the Roche Limit:
+
+          d \approx 2.44R\left( \frac {\rho_M} {\rho_m} \right)^{1/3}
+
+   However, a better approximation that takes into account the primary's
+   oblateness and the satellite's mass is:
+
+          d \approx 2.423 R\left( \frac {\rho_M} {\rho_m} \right)^{1/3}
+          \left(
+          \frac{(1+\frac{m}{3M})+\frac{c}{3R}(1+\frac{m}{M})}{1-c/R}
+          \right)^{1/3}
+
+   where c / R is the oblateness of the primary. The numerical factor is
+   calculated with the aid of a computer.
+
+   The fluid solution is appropriate for bodies that are only loosely held
+   together, such as a comet. For instance, comet Shoemaker-Levy 9's
+   decaying orbit around Jupiter passed within its Roche limit in July
+   1992, causing it to fragment into a number of smaller pieces. On its
+   next approach in 1994 the fragments crashed into the planet.
+   Shoemaker-Levy 9 was first observed in 1993, but its orbit indicated
+   that it had been captured by Jupiter a few decades prior.
+
+Derivation of the formula
+
+   As the fluid satellite case is more delicate than the rigid one, the
+   satellite is described with some simplifying assumptions. First, assume
+   the object consists of incompressible fluid that has constant density
+   ρ[m] and volume V that do not depend on external or internal forces.
+
+   Second, assume the satellite moves in a circular orbit and it remains
+   in synchronous rotation. This means that the angular speed ω at which
+   it rotates around its centre of mass is the same as the angular speed
+   at which it moves around the overall system barycenter.
+
+   The angular speed ω is given by Kepler's third law:
+
+          \omega^2 = G \, \frac{M + m}{d^3}
+
+   The synchronous rotation implies that the liquid does not move and the
+   problem can be regarded as a static one. Therefore, the viscosity and
+   friction of the liquid in this model do not play a role, since these
+   quantities would play a role only for a moving fluid.
+
+   Given these assumptions, the following forces should be taken into
+   account:
+     * The force of gravitation due to the main body;
+     * the centrifugal force in the rotary reference system; and
+     * the self-gravitation field of the satellite.
+
+   Since all of these forces are conservative, they can be expressed by
+   means of a potential. Moreover, the surface of the satellite is an
+   equipotential one. Otherwise, the differences of potential would give
+   rise to forces and movement of some parts of the liquid at the surface,
+   which contradicts the static model assumption. Given the distance from
+   the main body, our problem is to determine the form of the surface that
+   satisfies the equipotential condition.
+   Radial distance of one point on the surface of the ellipsoid to the
+   center of mass
+   Enlarge
+   Radial distance of one point on the surface of the ellipsoid to the
+   centre of mass
+
+   As the orbit has been assumed circular, we know that the total
+   gravitational force and centrifugal force acting on the main body
+   cancel. Therefore, the force that affects the particles of the liquid
+   is the tidal force, which depends on the position with respect to the
+   center of mass (already considered in the rigid model). For small
+   bodies, the distance of the liquid particles from the centre of the
+   body is small in relation to the distance d to the main body. Thus the
+   tidal force can be linearized, resulting in the same formula for F[T]
+   as given above. While this force in the rigid model depends only on the
+   radius r of the satellite, in the fluid case we need to consider all
+   the points on the surface and the tidal force depends on the distance
+   Δd from the centre of mass to a given particle projected on the line
+   joining the satellite and the main body. We call Δd the radial distance
+   (see the picture). Since the tidal force is linear in Δd, the related
+   potential is proportional to the square of the variable and for m\ll M
+   we have
+
+          V_T = - \frac{3 G M }{2 d^3}\Delta d^2 \,
+
+   We want to determine the shape of the satellite for which the sum of
+   the self-gravitation potential and V[T] is constant on the surface of
+   the body. In general, such a problem is very difficult to solve, but in
+   this particular case, it can be solved by a skillful guess due to the
+   square dependence of the tidal potential on the radial distance Δd
+
+   Since the potential V[T] changes only in one direction (i.e. the
+   direction to the main body), the satellite can be expected to take an
+   axially symmetric form. More precisely, we may assume that it takes a
+   form of a solid of revolution. The self-potential on the surface of
+   such a solid of revolution can only depend on the radial distance to
+   the centre of mass. Indeed, the intersection of the satellite and a
+   plane perpendicular to the line joining the bodies is a disc whose
+   boundary by our assumptions is a circle of constant potential. Should
+   the difference between the self-gravitation potential and V[T] be
+   constant, both potentials must depend in the same way on Δd. In other
+   words, the self-potential has to be proportional to the square of Δd.
+   Then it can be shown that the equipotential solution is an ellipsoid of
+   revolution. Given a constant density and volume the self-potential of
+   such body depends only on the eccentricity ε of the ellipsoid:
+
+          V_s = V_{s_{0}} + G \pi \rho_m \cdot f (\epsilon) \cdot \Delta
+          d^2,
+
+   where V_{s_0} is the constant self-potential on the intersection of the
+   circular edge of the body and the central symmetry plane given by the
+   equation Δd=0.
+
+   The dimensionless function f is to be determined from the accurate
+   solution for the potential of the ellipsoid
+
+          f(\epsilon) = \frac{1 - \epsilon^2}{\epsilon^3} \cdot \left[
+          \left(3-\epsilon^2 \right) \cdot \mathrm{arsinh}
+          \left(\frac{\epsilon}{\sqrt{1-\epsilon^2}} \right) -3 \epsilon
+          \right]
+
+   and, surprisingly enough, does not depend on the volume of the
+   satellite.
+   The graph of the dimensionless function f which indicates how the
+   strength of the tidal potential depends on the eccentricity ε of the
+   ellipsoid
+   Enlarge
+   The graph of the dimensionless function f which indicates how the
+   strength of the tidal potential depends on the eccentricity ε of the
+   ellipsoid
+
+   Although the explicit form of the function f looks complicated, it is
+   clear that we may and do choose the value of ε so that the potential
+   V[T] is equal to V[S] plus a constant independent of the variable Δd.
+   By inspection, this occurs when
+
+          \frac{2 G \pi \rho_M R^3}{d^3} = G \pi \rho_m f(\epsilon)
+
+   This equation can easily be solved numerically. The graph indicates
+   that there are two solutions and thus the smaller one represents the
+   stable equilibrium form (the ellipsoid with the smaller eccentricity).
+   This solution determines the (eccentricity of) the tidal ellipsoid as a
+   function of the distance to the main body. The derivative of the
+   function f has a zero where the maximal eccentricity is attained. This
+   corresponds to the Roche limit.
+   The derivative of f determines the maximal eccentricity. This gives the
+   Roche limit.
+   Enlarge
+   The derivative of f determines the maximal eccentricity. This gives the
+   Roche limit.
+
+   More precisely, the Roche limit is determined by the fact that the
+   function f, which can be regarded as a (nonlinear) measure of the force
+   squeezing the ellipsoid towards a spherical shape, is bounded so that
+   there is an eccentricity at which this contracting force becomes
+   maximal. Since the tidal force increases when the satellite approaches
+   the main body, it is clear that there is a critical distance at which
+   the ellipsoid is torn up.
+
+   The maximal eccentricity can be calculated numerically as the zero of
+   the derivative of f' (see the diagram). One obtains
+
+          \epsilon_\textrm{max}\approx 0{.}86
+
+   which corresponds to the ratio of the ellipsoid axes 1:1.95. Inserting
+   this into the formula for the function f one can determine the minimal
+   distance at which the ellipsoid exists. This is the Roche limit,
+
+          d \approx 2{,}423 \cdot R \cdot \sqrt[3]{ \frac {\rho_M}
+          {\rho_m} } \,.
+
+Roche limits for selected examples
+
+   The table below shows the mean density and the equatorial radius for
+   selected objects in our solar system.
+   Primary Density (kg/m^3) Radius (m)
+   Sun           1408       696,000,000
+   Jupiter       1326        71,492,000
+   Earth         5513         6,378,137
+   Moon          3346         1,738,100
+   Saturn       687.3        60,268,000
+   Uranus        1318        25,559,000
+   Neptune       1638        24,764,000
+
+   Using these data, the Roche Limits for rigid and fluid bodies can
+   easily be calculated. The average density of comets is taken to be
+   around 500 kg/m^3.
+
+   The table below gives the Roche limits expressed in metres and in
+   primary radii. The true Roche Limit for a satellite depends on its
+   density and rigidity.
+   Body Satellite Roche limit (rigid) Roche limit (fluid)
+   Distance (km) R Distance (km) R
+   Earth Moon 9,496 1.49 18,261 2.86
+   Earth average Comet 17,880 2.80 34,390 5.39
+   Sun Earth 554,400 0.80 1,066,300 1.53
+   Sun Jupiter 890,700 1.28 1,713,000 2.46
+   Sun Moon 655,300 0.94 1,260,300 1.81
+   Sun average Comet 1,234,000 1.78 2,374,000 3.42
+
+   If the primary is less than half as dense as the satellite, the
+   rigid-body Roche Limit is less than the primary's radius, and the two
+   bodies may collide before the Roche limit is reached.
+
+   How close are the solar system's moons to their Roche limits? The table
+   below gives each inner satellite's orbital radius divided by its own
+   Roche radius. Both rigid and fluid body calculations are given. Note
+   Pan and Naiad in particular, which may be quite close to their actual
+   break-up points.
+
+   In practice, the densities of most of the inner satellites of giant
+   planets are not known. In these cases (shown in italics), likely values
+   have been assumed, but their actual Roche limit can vary from the value
+   shown.
+   Primary Satellite  Orbital Radius vs. Roche limit
+                      (rigid)        (fluid)
+   Sun     Mercury     104:1           54:1
+   Earth   Moon        41:1            21:1
+   Mars    Phobos        172%                    89%
+           Deimos        451%                   234%
+   Jupiter Metis        ~186%                   ~94%
+           Adrastea     ~188%                   ~95%
+           Amalthea      175%                    88%
+           Thebe         254%                   128%
+   Saturn  Pan           142%                    70%
+           Atlas         156%                    78%
+           Prometheus    162%                    80%
+           Pandora       167%                    83%
+           Epimetheus    200%                    99%
+           Janus         195%                    97%
+   Uranus  Cordelia     ~154%                   ~79%
+           Ophelia      ~166%                   ~86%
+           Bianca       ~183%                   ~94%
+           Cressida     ~191%                   ~98%
+           Desdemona    ~194%                  ~100%
+           Juliet       ~199%                  ~102%
+   Neptune Naiad        ~139%                   ~72%
+           Thalassa     ~145%                   ~75%
+           Despina      ~152%                   ~78%
+           Galatea       153%                    79%
+           Larissa      ~218%                  ~113%
+   Pluto   Charon     12.5:1          6.5:1
+
+   Retrieved from " http://en.wikipedia.org/wiki/Roche_limit"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

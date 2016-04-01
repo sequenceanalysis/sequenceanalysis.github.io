@@ -1,0 +1,406 @@
+   #copyright
+
+ATLAS experiment
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   ATLAS (A Toroidal LHC ApparatuS) is one of the five particle detector
+   experiments ( ALICE, ATLAS, CMS, TOTEM, and LHCb) being constructed at
+   the Large Hadron Collider, a new particle accelerator at CERN in
+   Switzerland. It will be 45 metres long and 25 metres in diameter, and
+   will weigh about 7,000 tonnes. The project involves roughly 2,000
+   scientists and engineers at 151 institutions in 34 countries. The
+   construction is scheduled to be completed in 2007. The experiment is
+   expected to measure phenomena that involve highly massive particles
+   which were not measurable using earlier lower-energy accelerators and
+   might shed light on new theories of particle physics beyond the
+   Standard Model.
+
+   The ATLAS collaboration, the group of physicists building the detector,
+   was formed in 1992 when the proposed EAGLE (Experiment for Accurate
+   Gamma, Lepton and Energy Measurements) and ASCOT (Apparatus with Super
+   COnducting Toroids) collaborations merged their efforts into building a
+   single, general-purpose particle detector for the Large Hadron
+   Collider. The design was a combination of those two previous designs,
+   as well as the detector research and development that had been done for
+   the Superconducting Supercollider. The ATLAS experiment was proposed in
+   its current form in 1994, and officially funded by the CERN member
+   countries beginning in 1995. Additional countries, universities, and
+   laboratories joined in subsequent years, and further institutions and
+   physicists continue to join the collaboration even today. The work of
+   construction began at individual institutions, with detector components
+   shipped to CERN and assembled in the ATLAS experimental pit beginning
+   in 2003.
+
+   ATLAS is designed as a general-purpose detector. When the proton beams
+   produced by the Large Hadron Collider interact in the centre of the
+   detector, a variety of different particles with a broad range of
+   energies may be produced. Rather than focusing on a particular physical
+   process, ATLAS is designed to measure the broadest possible range of
+   signals. This is intended to ensure that, whatever form any new
+   physical processes or particles might take, ATLAS will be able to
+   detect them and measure their properties. Experiments at earlier
+   colliders, such as the Tevatron and Large Electron-Positron Collider,
+   were designed based on a similar philosophy. However, the unique
+   challenges of the Large Hadron Collider—its unprecedented energy and
+   extremely high rate of collisions—require ATLAS to be larger and more
+   complex than any detector ever built.
+
+Background
+
+   ATLAS experiment detector under construction in October 2004 in its
+   experimental pit; the current status of construction can be seen here.
+   Note the people in the background, for comparison.
+   Enlarge
+   ATLAS experiment detector under construction in October 2004 in its
+   experimental pit; the current status of construction can be seen here.
+   Note the people in the background, for comparison.
+
+   The first cyclotron, an early type of particle accelerator, was built
+   by Ernest O. Lawrence in 1931, with a radius of just a few centimetres
+   and a particle energy of 1 MeV. Since then, accelerators have grown
+   enormously in the quest to produce new particles of greater and greater
+   mass. As accelerators have grown, so too has the list of known
+   particles that they might be used to investigate. The most
+   comprehensive model of particle interactions available today is known
+   as the Standard Model; except for the Higgs boson, all of the particles
+   in this model have been discovered, but the Standard Model will break
+   down at energies beyond the current energy frontier of about one TeV
+   (set at the Tevatron). A theory of beyond-the-Standard-Model physics,
+   which is identical to the Standard Model at energies thus far probed,
+   is expected to describe particle physics at higher energies. Most of
+   these theories feature new higher-mass particles. The Large Hadron
+   Collider (LHC), 27 kilometres in circumference, will collide two beams
+   of protons with an energy seven million times that of the first
+   accelerator. It will be able to frequently produce particles with
+   energies up to about ten times more massive than any particles known
+   today, if such particles exist.
+
+   Particles that are produced in accelerators must also be observed, and
+   this is the task of particle detectors. Beginning in the 1970s,
+   detectors have been designed similarly to onions, completely
+   surrounding the interaction point—where the particle beams from the
+   accelerator collide—with layers of detectors of different types. The
+   different features that particles leave in each layer of the detector
+   allow for effective particle identification and accurate measurements
+   of energy and momentum. (The role of each layer in the detector is
+   discussed below.) As the energy of the particles produced by the
+   accelerator increases, the detectors attached to it must grow to
+   effectively measure and stop higher-energy particles. Thus ATLAS is the
+   largest detector ever built at a particle collider, with the capability
+   to measure the properties of the highly massive particles produced at
+   the LHC.
+
+Physics programme
+
+   A schematic, called a Feynman diagram, of two virtual gluons from
+   colliding LHC protons interacting to produce a hypothetical Higgs
+   boson, a top quark, and an antitop quark. These in turn decay into a
+   specific combination of quarks and leptons that is very difficult to
+   fake in other processes. Collecting sufficient evidence of signals like
+   this one may eventually allow ATLAS collaboration members to discover
+   the Higgs boson.
+   Enlarge
+   A schematic, called a Feynman diagram, of two virtual gluons from
+   colliding LHC protons interacting to produce a hypothetical Higgs
+   boson, a top quark, and an antitop quark. These in turn decay into a
+   specific combination of quarks and leptons that is very difficult to
+   fake in other processes. Collecting sufficient evidence of signals like
+   this one may eventually allow ATLAS collaboration members to discover
+   the Higgs boson.
+
+   ATLAS is intended to investigate many different types of physics that
+   might become detectable in the energetic collisions of the LHC. Some of
+   these are confirmations or improved measurements of the Standard Model,
+   while many others are searches for new physical theories.
+
+   One of the most important goals of ATLAS is to investigate the final
+   missing piece of the Standard Model, the Higgs boson. The Higgs
+   mechanism, which includes the Higgs boson, is invoked to give masses to
+   elementary particles, giving rise to the differences between the weak
+   force and electromagnetism by giving the W and Z bosons masses while
+   leaving the photon massless. If the Higgs boson is not discovered by
+   ATLAS, it is expected that another mechanism of electroweak symmetry
+   breaking that explains the same phenomena, such as Technicolour, will
+   be discovered. The Standard Model is simply not mathematically
+   consistent at the energies of the LHC without such a mechanism. The
+   Higgs boson would be detected by the particles it decays into; the
+   easiest to observe are two photons, two bottom quarks, or four leptons.
+   Sometimes these decays can only be definitively identified as
+   originating with the Higgs boson when they are associated with
+   additional particles; for an example of this, see the diagram at right.
+
+   The asymmetry between the behaviour of matter and antimatter, known as
+   CP violation, will also be investigated. Current CP-violation
+   experiments, such as BaBar and Belle, have not yet detected sufficient
+   CP violation in the Standard Model to explain the lack of detectable
+   antimatter in the universe. It is possible that new models of physics
+   will introduce additional CP violation, shedding light on this problem;
+   these models might either be detected directly by the production of new
+   particles, or indirectly by measurements made of the properties of B-
+   mesons. ( LHCb, an LHC experiment dedicated to B-mesons, is likely to
+   be better suited to the latter.)
+
+   The top quark, discovered at Fermilab in 1995, has thus far had its
+   properties measured only approximately. With much greater energy and
+   greater collision rates, LHC will produce a tremendous number of top
+   quarks, allowing ATLAS to make much more precise measurements of its
+   mass and interactions with other particles. These measurements will
+   provide indirect information on the details of the Standard Model,
+   perhaps revealing inconsistencies that point to new physics. Similar
+   precision measurements will be made of other known particles; for
+   example, ATLAS may eventually measure the mass of the W boson twice as
+   accurately as has previously been achieved.
+
+   Perhaps the most exciting lines of investigation are those searching
+   directly for new models of physics. One theory that is the subject of
+   much current research is broken supersymmetry. The theory is popular
+   because it could potentially solve a number of problems in theoretical
+   physics and is present in almost all models of string theory. Models of
+   supersymmetry involve new, highly massive particles; in many cases
+   these decay into high-energy quarks and stable heavy particles that are
+   very unlikely to interact with ordinary matter. The stable particles
+   would escape the detector, leaving as a signal one or more high-energy
+   quark jets and a large amount of "missing" momentum. Other hypothetical
+   massive particles, like those in Kaluza-Klein theory, might leave a
+   similar signature, but its discovery would certainly indicate that
+   there was some kind of physics beyond the Standard Model.
+
+   One remote possibility (if the universe contains large extra
+   dimensions) is that microscopic black holes might be produced by the
+   LHC. These would decay immediately by means of Hawking radiation,
+   producing all particles in the Standard Model in equal numbers and
+   leaving an unequivocal signature in the ATLAS detector. In fact, if
+   this occurs, the primary studies of Higgs bosons and top quarks would
+   be conducted on those produced by the black holes.
+
+Components
+
+   The ATLAS detector consists of a series of ever-larger concentric
+   cylinders around the interaction point where the proton beams from the
+   LHC collide. It can be divided into four major parts: the Inner
+   Detector, the calorimeters, the muon spectrometer and the magnet
+   systems. Each of these is in turn made of multiple layers. The
+   detectors are complementary: the Inner Detector tracks particles
+   precisely, the calorimeters measure the energy of easily stopped
+   particles, and the muon system makes additional measurements of highly
+   penetrating muons. The two magnet systems bend charged particles in the
+   Inner Detector and the muon spectrometer, allowing their momenta to be
+   measured.
+
+   The only stable particles that cannot be detected directly are
+   neutrinos; their presence is inferred by noticing a momentum imbalance
+   among detected particles. For this to work, the detector must be "
+   hermetic", and detect all non-neutrinos produced, with no blind spots.
+   Maintaining detector performance in the high radiation areas
+   immediately surrounding the proton beams is a significant engineering
+   challenge.
+
+Inner Detector
+
+   The ATLAS TRT central section, the outermost part of the Inner
+   Detector, as of September 2005, assembled on the surface and taking
+   data from cosmic rays.
+   Enlarge
+   The ATLAS TRT central section, the outermost part of the Inner
+   Detector, as of September 2005, assembled on the surface and taking
+   data from cosmic rays.
+
+   The Inner Detector begins a few centimetres from the proton beam axis,
+   extends to a radius of 1.2 metres, and is seven metres in length along
+   the beam pipe. Its basic function is to track charged particles by
+   detecting their interaction with material at discrete points, revealing
+   detailed information about the type of particle and its momentum. The
+   magnetic field surrounding the entire inner detector causes charged
+   particles to curve; the direction of the curve reveals a particle's
+   charge and the degree of curvature reveals its momentum. The starting
+   points of the tracks yield useful information for identifying
+   particles; for example, if a group of tracks seem to originate from a
+   point other than the original proton–proton collision, this may be a
+   sign that the particles came from the decay of a bottom quark (see
+   B-tagging). The Inner Detector has three parts, which are explained
+   below.
+
+   The Pixel Detector, the innermost part of the detector, contains three
+   layers and three disks on each end-cap, with a total of 1744 modules,
+   each measuring two centimetres by six centimetres. The detecting
+   material is 250 µm thick silicon. Each module contains 16 readout chips
+   and other electronic components. The smallest unit that can be read out
+   is a pixel (each 50 by 400 micrometres); there are roughly 47,000
+   pixels per module. The minute pixel size is designed for extremely
+   precise tracking very close to the interaction point. In total, the
+   Pixel Detector will have over 80 million readout channels, which is
+   about 50% of the total readout channels; such a large count created a
+   design and engineering challenge. Another challenge was the radiation
+   the Pixel Detector will be exposed to because of its proximity to the
+   interaction point, requiring that all components be radiation hardened
+   in order to continue operating after significant exposures.
+
+   The Semi-Conductor Tracker (SCT) is the middle component of the inner
+   detector. It is similar in concept and function to the Pixel Detector
+   but with long, narrow strips rather than small pixels, making coverage
+   of a larger area practical. Each strip measures 80 micrometres by 12.6
+   centimetres. The SCT is the most critical part of the inner detector
+   for basic tracking in the plane perpendicular to the beam, since it
+   measures particles over a much larger area than the Pixel Detector,
+   with more sampled points and roughly equal (albeit one dimensional)
+   accuracy. It is composed of four double layers of silicon strips, and
+   has 6.2 million readout channels and a total area of 61 square meters.
+
+   The Transition radiation tracker (TRT), the outermost component of the
+   inner detector, is a combination of a straw tracker and a transition
+   radiation detector. It contains many small straws, each four
+   millimetres in diameter and up to 144 centimetres long. This gives it a
+   much coarser resolution than the other two detectors, a necessary
+   sacrifice for covering a larger volume and having a different,
+   complementary design. Each straw is filled with gas that becomes
+   ionized when a charged particle passes through. The ions produce a
+   current in a high-voltage wire running through the straw, creating a
+   pattern of signals in many straws that allow the path of the particle
+   to be determined. It also contains alternating materials with very
+   different indices of refraction, causing charged particles to produce
+   transition radiation and leave much stronger signals in each straw.
+   Since the amount of transition radiation produced is greatest in highly
+   relativistic particles (those with a speed near the speed of light),
+   and particles of a particular energy have a higher speed the lighter
+   they are, particle paths with many very strong signals can be
+   identified as the lightest charged particles, electrons. The TRT has
+   about 351,000 straws in total.
+
+Calorimeters
+
+   September 2005: the main barrel section of the ATLAS hadronic
+   calorimeter, waiting to be moved inside the toroid magnets.
+   Enlarge
+   September 2005: the main barrel section of the ATLAS hadronic
+   calorimeter, waiting to be moved inside the toroid magnets.
+   One of the sections of the extensions of the hadronic calorimeter,
+   waiting to be inserted in late February 2006
+   Enlarge
+   One of the sections of the extensions of the hadronic calorimeter,
+   waiting to be inserted in late February 2006
+
+   The calorimeters are situated outside the solenoidal magnet that
+   surrounds the inner detector. Their purpose is to measure the energy
+   from particles by absorbing it. There are two basic calorimeter
+   systems: an inner electromagnetic calorimeter and an outer hadronic
+   calorimeter. Both are sampling calorimeters; that is, they absorb
+   energy in high-density steel and periodically sample the shape of the
+   resulting particle shower, inferring the energy of the original
+   particle from this measurement.
+
+   The electromagnetic (EM) calorimeter absorbs energy from particles that
+   interact electromagnetically, which include charged particles and
+   photons. It has high precision, both in the amount of energy absorbed
+   and in the precise location of the energy deposited. The angle between
+   the particle's trajectory and the detector's beam axis (or more
+   precisely the pseudorapidity) and its angle within the perpendicular
+   plane are both measured to within roughly 0.025  radians. The
+   energy-absorbing materials are lead and stainless steel, with liquid
+   argon as the sampling material, and a cryostat is required around the
+   EM calorimeter to keep it sufficiently cool.
+
+   The hadron calorimeter absorbs energy from particles that pass through
+   the EM calorimeter, but do interact via the strong force; these
+   particles are primarily hadrons. It is less precise, both in energy
+   magnitude and in the localization (within about 0.1 radians only). The
+   energy-absorbing material is steel, with scintillating tiles that
+   sample the energy deposited. Many of the features of the calorimeter
+   are chosen for their cost-effectiveness; the instrument is large and
+   comprises a huge amount of construction material: the main part of the
+   calorimeter—the tile calorimeter—is eight metres in diameter and covers
+   12 metres along the beam axis. The far-forward sections of the hadronic
+   calorimeter are contained within the EM calorimeter's cryostat, and use
+   liquid argon as it does.
+
+Muon spectrometer
+
+   The muon spectrometer is an extremely large straw tracker, extending
+   from the calorimeters out to the full diameter of the detector. Its
+   tremendous size is required to accurately measure the momentum of
+   muons, which penetrate other elements of the detector; the effort is
+   vital because one or more muons are a key element of a number of
+   interesting physical processes, and because the total energy of
+   particles in an event could not be measured accurately if they were
+   ignored. It functions similarly to the inner detector, with muons
+   curving so that their momentum can be measured, albeit with a different
+   magnetic field configuration, lower spatial precision, and a much
+   larger volume. It also serves the function of simply identifying
+   muons—very few particles of other types are expected to pass through
+   the calorimeters and subsequently leave signals in the muon
+   spectrometer. It has roughly one million readout channels, and its
+   layers of detectors have a total area of 12,000 square meters.
+
+Magnet system
+
+   The ends of four of eight ATLAS toroid magnets, seen from the surface,
+   about 90 metres above, in September 2005.
+   Enlarge
+   The ends of four of eight ATLAS toroid magnets, seen from the surface,
+   about 90 metres above, in September 2005.
+
+   The ATLAS detector uses two large magnet systems to bend charged
+   particles so that their momenta can be measured. This bending is due to
+   the Lorentz force, which is proportional to velocity. Since all
+   particles produced in the LHC's proton collisions will be traveling at
+   very close to the speed of light, the force on particles of different
+   momenta is equal. (In the theory of relativity, momentum is not
+   proportional to velocity at such speeds.) Thus high-momentum particles
+   will curve very little, while low-momentum particles will curve
+   significantly; the amount of curvature can be quantified and the
+   particle momentum can be determined from this value.
+
+   The inner solenoid produces a two tesla magnetic field surrounding the
+   Inner Detector. This strong field allows even very energetic particles
+   to curve enough for their momentum to be determined, and its nearly
+   uniform direction and strength allow measurements to be made very
+   precisely. Particles with momenta below roughly 400 MeV will be curved
+   so strongly that they will loop repeatedly in the field and most likely
+   not be measured; however, this energy is very small compared to the
+   several TeV of energy released in each proton collision.
+
+   The outer toroidal magnetic field is produced by eight very large
+   air-core superconducting barrel loops and two end-caps, all situated
+   outside the calorimeters and within the muon system. This magnetic
+   field is 26 metres long and 20 metres in diameter, and it stores 1.2
+   gigajoules of energy. Its magnetic field is not uniform, because a
+   solenoid magnet of sufficient size would be prohibitively expensive to
+   build. Fortunately, measurements need to be much less precise to
+   measure momentum accurately in the large volume of the muon system.
+
+Data systems and analysis
+
+   The trigger system uses simple information to identify, in real time,
+   the most interesting events out of the 40 million beam crossings that
+   occur every second in the centre of the detector. There are three
+   trigger levels, the first based in electronics on the detector and the
+   other two primarily run on a large computer cluster near the detector.
+   After the first-level trigger, about 100,000 events per second have
+   been selected. After the third-level trigger, a few hundred events
+   remain to be stored for further analysis. This amount of data will
+   require over 100 megabytes of disk space per second—at least a petabyte
+   each year.
+
+   Offline event reconstruction will be performed on all permanently
+   stored events, turning the pattern of signals from the detector into
+   physics objects, such as jets, photons, and leptons. Grid computing
+   will be extensively used for event reconstruction, allowing the
+   parallel use of university and laboratory computer networks throughout
+   the world for the CPU-intensive task of reducing large quantities of
+   raw data into a form suitable for physics analysis. The software for
+   these tasks has been under development for many years, and will
+   continue to be refined once the experiment is running.
+
+   Individuals and groups within the collaboration will write their own
+   code to perform further analysis of these objects, searching in the
+   pattern of detected particles for particular physical models or
+   hypothetical particles. These studies are already being developed and
+   tested on detailed simulations of particles and their interactions with
+   the detector. Such simulations give physicists a good sense of which
+   new particles can be detected and how long it will take to confirm them
+   with sufficient statistical certainty.
+   Retrieved from " http://en.wikipedia.org/wiki/ATLAS_experiment"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

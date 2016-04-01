@@ -1,0 +1,446 @@
+   #copyright
+
+TeX
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   TeX
+     Developer:    Donald Knuth
+   Latest release: 3.141592 / December, 2002
+         OS:       Cross-platform
+        Use:       Typesetting
+      License:     freely modifiable, as long as the resulting program is not
+                   called TeX
+      Website:     http://www.tug.org/
+
+   TeX ( IPA: /tɛx/ as in Greek, often /tɛk/ in English; sometimes written
+   T[E]X in imitation of the logo) is a typesetting system created by
+   Donald Knuth. Together with the METAFONT language for font description
+   and the Computer Modern typeface, it was designed with two main goals
+   in mind: first, to allow anybody to produce high-quality books using a
+   reasonable amount of effort, and, second, to provide a system that
+   would give the exact same results on all computers, now and in the
+   future. It is free and is popular in academia, especially in the
+   mathematics, physics, computer science, political science, and
+   engineering communities. It has largely displaced Unix troff, the other
+   favored formatter, in many Unix installations, which use both for
+   different purposes.
+
+   TeX is considered by some to be the best way to typeset complex
+   mathematical formulae but especially in the form of LaTeX and other
+   template packages, is now also being used for many other typesetting
+   tasks.
+
+History
+
+   When the first volume of Knuth's The Art of Computer Programming was
+   published in 1969, it was typeset using monotype, a technology from the
+   19th century which produced a “good classic style” appreciated by
+   Knuth. When the second edition of the second volume was published, in
+   1976, the whole book had to be typeset again because the Monotype
+   technology had been largely replaced by photographic techniques, and
+   the original fonts were not available anymore. However, when Knuth
+   received the galley proofs of the new book on 30 March 1977, he found
+   them awful. Around that time, Knuth saw for the first time the output
+   of a high-quality digital typesetting system, and became interested in
+   digital typography. The disappointing galley proofs gave him the final
+   motivation to solve the problem at hand once and for all by designing
+   his own typesetting system. On 13 May 1977, he wrote a memo to himself
+   describing the basic features of TeX.
+
+   He planned to finish it on his sabbatical in 1978, but as it happened
+   the language was frozen only in 1989, more than ten years later. Guy
+   Steele happened to be at Stanford during the summer of 1978, when Knuth
+   was developing his first version of TeX. When Steele returned to MIT
+   that fall, he rewrote TeX's I/O to run under the ITS operating system.
+   The first version of TeX was written in the SAIL programming language
+   to run on a PDP-10 under Stanford's WAITS operating system. For later
+   versions of TeX, Knuth invented the concept of literate programming, a
+   way of producing compilable source code and high quality cross-linked
+   documentation (typeset in TeX, of course) from the same original file.
+   The language used is called WEB and produces programs in Pascal.
+
+   A new version of TeX, rewritten from scratch and called TeX82, was
+   published in 1982. Among other changes, the original hyphenation
+   algorithm was replaced by a new algorithm written by Frank Liang. TeX82
+   also uses fixed-point arithmetic instead of floating-point, to ensure
+   reproducibility of the results across different computer hardware, and
+   includes a real, Turing-complete, programming language, following
+   intense lobbying by Guy Steele.
+
+   In 1989, Donald Knuth released new versions of TeX and METAFONT.
+   Despite his desire to keep the program stable, Knuth realised that 128
+   different characters for the text input were not enough to accommodate
+   foreign languages; the main change in version 3.0 of TeX is thus the
+   ability to work with 8-bits inputs, allowing 256 different characters
+   in the text input.
+
+   Since version 3, TeX has used an idiosyncratic version numbering
+   system, where updates have been indicated by adding an extra digit at
+   the end of the decimal, so that the version number asymptotically
+   approaches π. This is a reflection of the fact that TeX is now very
+   stable, and only minor updates are anticipated. The current version of
+   TeX is 3.141592; it was last updated in December 2002. The design has
+   been frozen after version 3.0, and no new feature or fundamental change
+   will be added after that, so that all newer versions shall contain only
+   bug fixes. Even though Donald Knuth himself has suggested a few areas
+   in which TeX could have been improved, he indicated that he firmly
+   believes that having an unchanged system that will produce the same
+   output now and in the future is more important than introducing new
+   features. For this reason, he has stated that the “absolutely final
+   change (to be made after my death)” will be to change the version
+   number to π, at which point all remaining bugs will become features.
+   Likewise, versions of METAFONT after 2.0 asymptotically approach e, and
+   a similar change will be applied after Knuth's death.
+
+   However, since the source code of TeX is essentially in the public
+   domain (see below), other programmers are allowed (and explicitly
+   encouraged) to improve the system, but are required to use another name
+   to distribute the modified TeX, meaning that the source code can still
+   evolve. For example, the Omega project was developed after 1991,
+   primarily to enhance TeX's multilingual typesetting abilities. Donald
+   Knuth himself created “unofficial” modified versions, such as TeX-XeT,
+   which allows a user to mix texts written in left-to-right and
+   right-to-left writing systems in the same document.
+
+The typesetting system
+
+   TeX commands commonly start with a backslash and are grouped with curly
+   braces. However, almost all of TeX's syntactic properties can be
+   changed on the fly which makes TeX input hard to parse by anything but
+   TeX itself. TeX is a macro- and token-based language: many commands,
+   including most user-defined ones, are expanded on the fly until only
+   unexpandable tokens remain which get executed. Expansion itself is
+   practically side-effect free. Tail recursion of macros takes no memory,
+   and if-then-else constructs are available. This makes TeX a
+   Turing-complete language even at expansion level.
+
+   The system can be divided into four levels: in the first, characters
+   are read from the input file and assigned a category code (sometimes
+   called “catcode”, for short). Combinations of a backslash (really: any
+   character of category zero) followed by letters (characters of category
+   11) or a single other character are replaced by a control sequence
+   token. In this sense this stage is like lexical analysis, although it
+   does not form numbers from digits. In the next stage, expandable
+   control sequences (such as conditionals or defined macros) are replaced
+   by their replacement text. The input for the third stage is then a
+   stream of characters (including ones with special meaning) and
+   unexpandable control sequences (typically assignments and visual
+   commands). Here characters get assembled into a paragraph. TeX's
+   paragraph breaking algorithm works by optimizing breakpoints over the
+   whole paragraph. The fourth stage breaks the vertical list of lines and
+   other material into pages.
+
+   The TeX system has precise knowledge of the sizes of all characters and
+   symbols, and using this information, it computes the optimal
+   arrangement of letters per line and lines per page. It then produces a
+   DVI file (“DeVice Independent”) containing the final locations of all
+   characters. This dvi file can be printed directly given an appropriate
+   printer driver, or it can be converted to other formats. Nowadays,
+   PDFTeX is often used which bypasses DVI generation altogether.
+
+   The base TeX system understands about 300 commands, called primitives.
+   However, these low-level commands are rarely used directly by users,
+   and most functionality is provided by format files (predumped memory
+   images of TeX after large macro collections have been loaded). Knuth's
+   original default format, which adds about 600 commands, is Plain TeX (
+   available from CTAN). The most widely used format is LaTeX, originally
+   developed by Leslie Lamport, which incorporates document styles for
+   books, letters, slides, etc, and adds support for referencing and
+   automatic numbering of sections and equations. Another widely used
+   format, AMS-TeX, is produced by the American Mathematical Society, and
+   provides many more user-friendly commands, which can be altered by
+   journals to fit with their house style. Most of the features of AMS-TeX
+   can be used in LaTeX by using the AMS “packages”. This is then referred
+   to as AMS-LaTeX. Other formats include ConTeXt, used primarily for
+   desktop publishing and written mostly by Hans Hagen at Pragma.
+
+Novel aspects of TeX
+
+   The TeX software incorporates several aspects that were not available,
+   or were of lower quality, in other typesetting programs at the time
+   when TeX was released. Some of the innovations are based on interesting
+   algorithms, and have led to a number of theses for Knuth's students.
+   While some of these discoveries have now been incorporated into other
+   typesetting programs, others, such as the rules for mathematical
+   spacing, are still unique.
+
+Mathematical spacing
+
+   Mathematical text typeset using TeX and the AMS Euler font.
+   Enlarge
+   Mathematical text typeset using TeX and the AMS Euler font.
+
+   Since the primary goal of TeX was the high-quality typesetting of his
+   book The Art of Computer Programming, Knuth gave a lot of attention to
+   the choice of proper spacing rules for mathematical formulæ. He took
+   three bodies of work that he considered as standards of excellence for
+   mathematical typography: the books typeset by Addison-Wesley, the
+   publisher of The Art of Computer Programming, in particular the work
+   done by Hans Wolf; editions of the mathematical journal Acta
+   Mathematica dating from around 1910; and a copy of Indagationes
+   Mathematicae, a Dutch mathematics journal. Knuth looked closely at
+   these examples to derive a set of spacing rules for TeX. While TeX
+   provides some basic rules and the tools needed to specify proper
+   spacing, the exact parameters depend on the font used to typeset the
+   formulæ. For example, the spacing for Knuth's Computer Modern fonts has
+   been precisely fine-tuned over the years and is now frozen, but when
+   other fonts, such as AMS Euler, were used by Knuth for the first time,
+   new spacing parameters had to be defined.
+
+Hyphenation and justification
+
+   In comparison to manual typesetting, the problem of justification is
+   easy to solve with a digital system such as TeX, which, provided that
+   good points for line breaking have been defined, can automatically
+   spread the spaces between words to fill in the line. The problem is
+   thus to find the set of breakpoints that will give the most pleasing
+   result. Many line breaking algorithms use a first-fit approach, where
+   the breakpoints for each line are determined one after the other, and
+   no breakpoint is changed after it has been chosen. Such a system is not
+   able to decide to define a breakpoint depending on the effect that it
+   will have on the following lines. In comparison, the total-fit line
+   breaking algorithm used by TeX and developed by Donald Knuth and
+   Michael Plass considers all the possible breakpoints in a paragraph,
+   and finds the combination of line breaks that will produce the most
+   globally pleasing arrangement.
+
+   Formally, the algorithm defines a value called badness associated with
+   each possible line break; the badness is increased if the spaces on the
+   line must stretch or shrink too much to make the line the correct
+   width. Penalties are added if a breakpoint is particularly undesirable:
+   for example, if a word must be hyphenated, if two lines in a row are
+   hyphenated, or if a very loose line is immediately followed by a very
+   tight line. The algorithm will then find the breakpoints that will
+   minimize the sum of squares of the badness (including penalties) of the
+   resulting lines. If the paragraph contains n possible breakpoints, the
+   number of situations that must be evaluated naively is 2^n. However, by
+   using the method of dynamic programming, the complexity of the
+   algorithm can be brought down to O(n^2). Further simplifications (for
+   example, not testing extremely unlikely breakpoints such as a
+   hyphenation in the first word of a paragraph) lead to an efficient
+   algorithm whose running time is almost always order of n. However, in
+   general, a thesis by Michael Plass shows how the page breaking problem
+   can be NP-complete because of the added complication of placing
+   figures. A similar algorithm is used to determine the best way to break
+   paragraphs across two pages, in order to avoid widows or orphans (lines
+   that appear alone on a page while the rest of the paragraph is on the
+   following or preceding page).
+
+   TeX's line breaking algorithm has been adopted by several other
+   programs, such as Adobe InDesign desktop publishing application, and
+   the GNU fmt Unix command line utility.
+
+   If no suitable line break can be found for a line, the system will try
+   to hyphenate a word. The original version of TeX used a hyphenation
+   algorithm based on a set of rules for the removal of prefixes and
+   suffixes of words, and for deciding if it should insert a break between
+   the two consonants in a pattern of the form vowel– consonant–
+   consonant–vowel (which is possible most of the time). TeX82 uses a new
+   hyphenation algorithm, designed by Frank Liang in 1983, to assign
+   priorities to breakpoints in letter groups. A list of hyphenation
+   patterns is first generated automatically from a corpus of hyphenated
+   words (a list of 50,000 words). If TeX must find the acceptable
+   hyphenation positions in the word encyclopedia, for example, it will
+   consider all the subwords of the extended word .encyclopedia., where .
+   is a special marker to indicate the beginning or end of the word. The
+   list of subwords include all the subwords of length 1 (., e, n, c, y,
+   etc), of length 2 (.e, en, nc, etc), etc, up to the subword of length
+   14, which is the word itself, including the markers. TeX will then look
+   into its list of hyphenation patterns, and find subwords for which it
+   has calculated the desirability of hyphenation at each position. In the
+   case of our word, 11 such patterns can be matched, namely [1]c[4]l[4],
+   [1]cy, [1]d[4]i[3]a, [4]edi, e[3]dia, [2]i[1]a, ope[5]d, [2]p[2]ed,
+   [3]pedi, pedia[4], y[1]c. For each position in the word, TeX will
+   calculate the maximum value obtained among all matching pattern,
+   yielding en[1]cy[1]c[4]l[4]o[3]p[4]e[5]d[4]i[3]a. Finally, the
+   acceptable positions are those indicated by an odd number, yielding the
+   acceptable hyphenations en-cy-clo-pe-di-a. This system based on
+   subwords allows the definition of very general patterns (such as
+   [2]i[1]a), with low indicative numbers (either odd or even), which can
+   then be superseded by more specific patterns (such as [1]d[4]i[3]a) if
+   necessary. These patterns find about 90% of the hyphens in the original
+   dictionary; more importantly, they do not insert any spurious hyphen.
+   In addition, a list of exceptions (words for which the patterns do not
+   predict the correct hyphenation) are included with the plain TeX
+   format; additional ones can be specified by the user.
+
+METAFONT
+
+   While METAFONT is not strictly part of TeX, it is a required tool for
+   the typesetting system. METAFONT is a font description system which
+   allows the designer to describe characters algorithmically. It uses
+   Bezier curves in a fairly standard way to generate the actual
+   characters to be displayed, but Knuth devotes lots of attention to the
+   rasterizing problem on bitmapped displays. Another thesis, by John
+   Hobby, further explores this problem of digitizing “brush
+   trajectories”. This term derives from the fact that Metafont describes
+   characters as having been drawn by abstract brushes (and erasers).
+
+   It is possible to use TeX and LaTeX without METAFONT. Adobe PostScript
+   (“Type 1”) fonts may be used instead. (La)TeX expects fonts to be
+   supplied as bitmaps at specific point sizes, while PostScript is a
+   vector (outline) description scalable over a wide range, so this does
+   introduce some minor complications. Nonetheless, with the help of some
+   prewritten packages, (La)TeX can be made to use PostScript fonts.
+   Further note that “Type 1” or “T1” can refer in documentation to two
+   very different things: the TeX T1 character encoding scheme to map byte
+   values to glyphs, and Adobe PostScript fonts.
+
+Examples of TeX
+
+   A sample page produced using TeX with the LaTeX macros.
+   Enlarge
+   A sample page produced using TeX with the LaTeX macros.
+
+   To write the traditional Hello world program in plain TeX, create a
+   file myfile.tex with the following content:
+Hello, World
+\bye          % marks the end of the file; not shown in the final output
+
+   By default, everything that follows a percent sign on a line is a
+   comment, ignored by TeX. Running TeX on this file (for example, by
+   typing tex myfile.tex in a command line interpreter, or by calling it
+   from a graphical user interface) will create an output file called
+   myfile.dvi, representing the content of the page in a device
+   independent format ( DVI). The results can either be printed directly
+   from a DVI viewer or converted to a more common format such as
+   PostScript using the dvips program. This was because TeX natively uses
+   bitmap fonts, which are only designed to display well at one particular
+   size, whereas PostScript typically uses scalable Type 1 fonts. It is
+   now possible to make dvips output scalable fonts with a bit of tweaking
+   (newer versions of Ghostscript support it). TeX variants such as PDFTeX
+   produce PDF files directly.
+
+   To see TeX further in action, look at its formatting of mathematical
+   formulæ. For example, to write the well-known quadratic formula, try
+   entering
+The quadratic formula is $-b \pm \sqrt{b^2 - 4ac} \over 2a$
+\bye
+
+   Use TeX as above, and you should get something that looks like
+
+          The quadratic formula is \textstyle{-b \pm \sqrt{b^2 - 4ac}
+          \over 2a}
+
+   Notice how the formula is printed in a way a person would write by
+   hand, or typeset the equation. In a document, entering mathematics mode
+   is done by starting with a $, then entering a formula in TeX semantics
+   and closing again with another $. Display mathematics, or mathematics
+   presented centered on a new line is done by using $$. For example, the
+   above with the quadratic formula in display math:
+The quadratic formula is $$-b \pm \sqrt{b^2 - 4ac} \over 2a$$
+\bye
+
+   renders as
+
+          The quadratic formula is
+
+                      -b \pm \sqrt{b^2 - 4ac} \over 2a
+
+Software
+
+   The original source code for the current TeX software is written in
+   WEB, a mixture of documentation written in TeX and a quite restricted
+   Pascal subset in order to ensure portability. For example, TeX does all
+   of its dynamic allocation itself from fixed-size arrays and uses only
+   fixed-point arithmetic for its internal calculations. As a result, TeX
+   has been ported to almost all operating systems, usually by using the
+   web2c program to convert the source code into C instead of directly
+   compiling the Pascal code. TeX is usually provided in the form of a
+   distribution, an easy-to-install bundle of TeX itself along with
+   METAFONT and all the necessary fonts, documents formats, and utilities
+   needed to use the typesetting system. On UNIX-compatible systems,
+   including GNU/Linux and Mac OS X, TeX is distributed in the form of the
+   teTeX distribution. On Windows, there is the MiKTeX distribution
+   (enhanced by ProTeX ) and the fpTeX distribution.
+
+   Several document processing systems are based on TeX, notably jadeTeX,
+   which uses TeX as a backend for printing from James Clark's DSSSL
+   Engine, and Texinfo, the GNU documentation processing system. TeX has
+   been the official typesetting package for the GNU operating system
+   since 1984.
+
+   XeTeX is a new TeX engine that supports Unicode. Originally making use
+   of advanced Mac OS X-specific font technologies, it now supports
+   OpenType and is available on Linux and Microsoft Windows.
+
+   Numerous extensions and companion programs for TeX exist, among them
+   BibTeX for bibliographies (distributed with LaTeX), PDFTeX, which
+   bypasses dvi and produces output in Adobe Systems' Portable Document
+   Format, and Omega, which allows TeX to use the Unicode character set.
+   Most TeX extensions are available for free from CTAN, the Comprehensive
+   TeX Archive Network. The TeXmacs text editor is a WYSIWYG scientific
+   text editor that is intended to be compatible with TeX and Emacs. It
+   uses Knuth's fonts, and can generate TeX output. LyX is a “What You See
+   is What You Mean” document processor which runs on a variety of
+   platforms including Linux, Windows (98, 2000 or later) or Mac OS X
+   (using a non-native Qt front-end). TeXShop for Mac OS X, and WinShell
+   for Windows are similar tools and provide integrated development
+   environment (IDE) for working with LaTeX or TeX. GNU Emacs has various
+   built-in and third party packages with support for TeX, the major one
+   being AUCTeX. For Vim there is Vim-LaTeX Suite.
+
+   Knuth has kept a very detailed log of all the bugs he has corrected and
+   changes he has made in the program since 1982; as of 2005, the list
+   contains 419 entries, not including the version modification that
+   should be done after his death as the final change in TeX.
+
+License
+
+   Donald Knuth has indicated several times that the source code of TeX
+   has been placed into the public domain, and he strongly encourages
+   modifications or experimentations with this source code. However, since
+   he highly values the reproducibility of the output of all versions of
+   TeX, any changed version must not be called T[E]X, TeX, or anything
+   confusingly similar. To enforce this rule, the American Mathematical
+   Society has registered a trademark for TeX, and any implementation of
+   the system must pass a test suite called the TRIP test ( available on
+   CTAN) before being allowed to be called TeX. The question of license is
+   somewhat confused by the statements included at the beginning of the
+   TeX source code, which indicate that “all rights are reserved. Copying
+   of this file is authorized only if (...) you make absolutely no changes
+   to your copy”. However, this restriction should be interpreted as a
+   prohibition to change the source code as long as the file is called
+   tex.web. This interpretation is confirmed later in the source code when
+   the TRIP test is mentioned (“If this program is changed, the resulting
+   system should not be called ‘\TeX’”).
+
+Pronouncing and writing TeX
+
+   The name TeX is intended to be pronounced “tekh” ( IPA: /tɛx/), where
+   “kh” represents European Spanish j, the sound at the end of Scottish
+   loch, or the name of the German composer Bach or Polish ch. The X is
+   meant to represent the Greek letter χ ( chi). TeX is the abbreviation
+   of τέχνη (ΤΕΧΝΗ – technē), Greek for “art” and “craft”, which is also
+   the source word of technical. English speakers often pronounce it
+   “tek”, like the first syllable of technology.
+
+   The name is properly typeset with the “E” below the baseline and
+   reduced spacing between the letters (this is done, as Donald Knuth
+   mentions in his TeXBook, to distinguish Τ[Ε]Χ from other system names
+   such as TEX, the Text EXecutive processor developed by Honeywell
+   Information Systems); systems that do not support subscript layout and
+   backspacing use the approximation “TeX”. Fans like to proliferate names
+   from the word “TeX” — such as TeXnician (user of TeX software),
+   TeXpert, TeXhacker (TeX programmer), TeXmaster (competent TeX
+   programmer), TeXhax, and TeXnique.
+
+Trivia
+
+   Donald Knuth offers monetary awards to people who find and report a bug
+   in TeX. The award per bug started at $2.56 (one "hexadecimal dollar")
+   and doubled every year until it was frozen at its current value of
+   $327.68. This has not made Knuth poor, however, as there have been very
+   few bugs claimed. In addition, people have been known to frame a check
+   proving he found a bug in TeX instead of cashing it.
+
+   Knuth explained in a jest that he chose the dollar sign to indicate the
+   beginning and end of mathematical mode in plain TeX because typesetting
+   mathematics was traditionally supposed to be expensive.
+
+   Retrieved from " http://en.wikipedia.org/wiki/TeX"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

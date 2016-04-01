@@ -1,0 +1,299 @@
+   #copyright
+
+Time zone
+
+2007 Schools Wikipedia Selection. Related subjects: General Geography;
+General Physics
+
+   A time zone is a region of the Earth that has adopted the same standard
+   time, usually referred to as the local time. Most adjacent time zones
+   are exactly one hour apart, and by convention compute their local time
+   as an offset from Greenwich Mean Time (see also UTC).
+   Standard Time Zones of the World
+   Enlarge
+   Standard Time Zones of the World
+
+   Standard time zones can be defined by geometrically subdividing the
+   Earth's spheroid into 24 lunes (wedge-shaped sections), bordered by
+   meridians each 15° of longitude apart. The local time in neighbouring
+   zones is then exactly one hour different. However, political and
+   geographical practicalities can result in irregularly-shaped zones that
+   follow political boundaries or that change their time seasonally (as
+   with daylight saving time), as well as being subject to occasional
+   redefinition as political conditions change.
+
+   There are variations of the definitions of time zone which generally
+   fall into two meanings: a time zone can represent a region where the
+   local time is some fixed offset from a global reference (usually UTC),
+   or a time zone can represent a region throughout which the local time
+   is always consistent even though the offset may fluctuate seasonally.
+
+   Before the adoption of time zones, people used local solar time
+   (originally apparent solar time, as with a sundial; and, later, mean
+   solar time). Mean solar time is the average over a year of apparent
+   solar time. Its difference from apparent solar time is the equation of
+   time.
+
+   This became increasingly awkward as railways and telecommunications
+   improved, because clocks differed between places by an amount
+   corresponding to the difference in their geographical longitude, which
+   was usually not a convenient number. This problem could be solved by
+   synchronizing the clocks in all localities, but then in many places the
+   local time would differ markedly from the solar time to which people
+   are accustomed. Time zones are thus a compromise, relaxing the complex
+   geographic dependence while still allowing local time to approximate
+   the mean solar time. There has been a general trend to push the
+   boundaries of time zones farther west of their designated meridians in
+   order to create a permanent daylight saving time effect. The increase
+   in worldwide communication has further increased the need for
+   interacting parties to communicate mutually comprehensible time
+   references to one another.
+
+Standard time zones
+
+   Originally, time zones based their time on Greenwich Mean Time (GMT,
+   also called UT1), the mean solar time at longitude 0° (the Prime
+   Meridian). But as a mean solar time, GMT is defined by the rotation of
+   the Earth, which is not constant in rate. So, the rate of atomic clocks
+   was annually changed or steered to closely match GMT. But on January 1,
+   1972 it became fixed, using predefined leap seconds instead of rate
+   changes. This new time system is Coordinated Universal Time (UTC). Leap
+   seconds are inserted to keep UTC within 0.9 seconds of UT1. In this
+   way, local times continue to correspond approximately to mean solar
+   time, while the effects of variations in Earth's rotation rate are
+   confined to simple step changes that can be easily subtracted if a
+   uniform time scale ( International Atomic Time or TAI) is desired. With
+   the implementation of UTC, nations began to use it in the definition of
+   their time zones instead of GMT. As of 2005, most but not all nations
+   have altered the definition of local time in this way (though many
+   media outlets fail to make a distinction between GMT and UTC). Further
+   change to the basis of time zones may occur if proposals to abandon
+   leap seconds succeed.
+
+   Due to daylight saving time, UTC is local time at the Royal
+   Observatory, Greenwich only between 01:00 UTC on the last Sunday in
+   October and 01:00 UTC on the last Sunday in March. For the rest of the
+   year, local time there is UTC+1, known in the United Kingdom as British
+   Summer Time (BST). Similar circumstances apply in many places.
+
+   The definition for time zones can be written in short form as UTC±n (or
+   GMT±n), where n is the offset in hours. These examples give the local
+   time at various locations at 12:00 UTC when daylight saving time (or
+   summer time, etc.) is not in effect:
+     * San Francisco, California, United States: UTC-8; 04:00
+     * Toronto, Ontario, Canada: UTC-5; 07:00
+     * Stockholm, Sweden: UTC+1; 13:00
+     * Cape Town, South Africa: UTC+2; 14:00
+     * Mumbai, India: UTC+5:30; 17:30
+     * Tokyo, Japan: UTC+9; 21:00
+
+   Where the adjustment for time zones results in a time at the other side
+   of midnight from UTC, then the date at the location is one day later or
+   earlier. Some examples when UTC is 23:00 on Monday when daylight saving
+   time is not in effect:
+     * Cairo, Egypt: UTC+2; 01:00 on Tuesday
+     * Wellington, New Zealand: UTC+12; 11:00 on Tuesday
+
+   Some examples when UTC is 02:00 on Tuesday when daylight saving time is
+   not in effect:
+     * New York City, New York, United States: UTC-5; 21:00 on Monday
+     * Honolulu, Hawaii, United States: UTC-10; 16:00 on Monday
+
+   The time-zone adjustment for a specific location may vary because of
+   Daylight Saving Time. For example New Zealand, which is usually UTC+12,
+   observes a one-hour daylight saving time adjustment during the southern
+   hemisphere summer, resulting in a local time of UTC+13.
+
+   See also Sidereal time, Calculating local time.
+
+History
+
+   Greenwich Mean Time (GMT) was established in 1675 as an aid to
+   determine longitude at sea by mariners. The first time zone in the
+   world was established by British railways on December 1, 1847 — with
+   GMT hand-carried on chronometers. About August 23, 1852, time signals
+   were first transmitted by telegraph from the Royal Observatory,
+   Greenwich. Even though 98% of Great Britain's public clocks were using
+   GMT by 1855, it was not made Britain's legal time until August 2, 1880.
+   Some old clocks from this period have two minute hands — one for the
+   local time, one for GMT . This only applied to the island of Great
+   Britain, and not to the island of Ireland.
+
+   On November 2, 1868, New Zealand (then a British colony) officially
+   adopted a standard time to be observed throughout the colony, and was
+   perhaps the first country to do so. It was based on the longitude 172°
+   30' East of Greenwich, that is 11 hours 30 minutes ahead of GMT. This
+   standard was known as New Zealand Mean Time.
+
+   Timekeeping on the American railroads in the mid nineteenth century was
+   somewhat confused. Each railroad used its own standard time, usually
+   based on the local time of its headquarters or most important terminus,
+   and the railroad's train schedules were published using its own time.
+   Some major railroad junctions served by several different railroads had
+   a separate clock for each railroad, each showing a different time; the
+   main station in Pittsburgh, Pennsylvania, for example, kept six
+   different times. The confusion for travellers making a long journey
+   involving several changes of train can be imagined.
+
+   Charles F. Dowd proposed a system of one-hour standard time zones for
+   American railroads about 1863, although he published nothing on the
+   matter at that time and did not consult railroad officials until 1869.
+   In 1870, he proposed four ideal time zones (having north–south
+   borders), the first centered on Washington, D.C., but by 1872 the first
+   was centered 75°W of Greenwich, with geographic borders (for example,
+   sections of the Appalachian Mountains). Dowd's system was never
+   accepted by American railroads. Instead, U.S. and Canadian railroads
+   implemented their own version on Sunday, November 18, 1883, also called
+   "The Day of Two Noons", when each railroad station clock was reset as
+   standard-time noon was reached within each time zone. The zones were
+   named Intercolonial, Eastern, Central, Mountain, and Pacific. Within
+   one year, 85% of all cities with populations over 10,000, about 200
+   cities, were using standard time. A notable exception was Detroit,
+   Michigan (which is nearly half-way between the meridians of eastern
+   time and central time, though actually a little closer to central),
+   which kept local time until 1900, then tried Central Standard Time,
+   local mean time, and Eastern Standard Time before a May 1915 ordinance
+   settled on EST and was ratified by popular vote in August 1916. This
+   hodgepodge ended when Standard zone time was formally adopted by the
+   U.S. Congress on 19 March 1918.
+
+   Time zones were first proposed for the entire world by Canada's Sir
+   Sandford Fleming in 1876 as an appendage to the single 24-hour clock he
+   proposed for the entire world (located at the centre of the Earth and
+   not linked to any surface meridian!). In 1879 he specified that his
+   universal day would begin at the anti-meridian of Greenwich (now called
+   180°), while conceding that hourly time zones might have some limited
+   local use. He continued to advocate his system at subsequent
+   international conferences. In October 1884, the International Meridian
+   Conference did not adopt his time zones because they were not within
+   its purview. The conference did adopt a universal day of 24 hours
+   beginning at Greenwich midnight, but specified that it "shall not
+   interfere with the use of local or standard time where desirable".
+
+   Nevertheless, most major countries had adopted hourly time zones by
+   1929. Today, all nations use standard time zones for secular purposes,
+   but they do not all apply the concept as originally conceived. Israel,
+   for example, legally starts the day at 6:00 PM instead of midnight—so,
+   the international date 1 January begins at what most other countries
+   call 6:00 PM on 31 December. Newfoundland, India, and parts of
+   Australia use half-hour deviations from standard time, and some nations
+   use quarter-hour deviations.
+
+Nautical time zones
+
+   Before 1920, all ships kept local apparent time on the high seas by
+   setting their clocks at night or at the morning sight so that, given
+   the ship's speed and direction, it would be 12 o'clock when the Sun
+   crossed the ship's meridian (12 o'clock = local apparent noon). During
+   1917, at the Anglo-French Conference on Time-keeping at Sea, it was
+   recommended that all ships, both military and civilian, should adopt
+   hourly standard time zones on the high seas. A ship within the
+   territorial waters of any nation would use that nation's standard time.
+   The captain was permitted to change his ship's clocks at a time of his
+   choice following his ship's entry into another time zone—he often chose
+   midnight. These zones were adopted by all major fleets between 1920 and
+   1925 but not by many independent merchant ships until World War II.
+
+   Time on a ship's clocks and in a ship's log had to be stated along with
+   a "zone description", which was the number of hours to be added to zone
+   time to obtain GMT, hence zero in the Greenwich time zone, with
+   negative numbers from −1 to −12 for time zones to the east and positive
+   numbers from +1 to +12 to the west (hours, minutes, and seconds for
+   nations without an hourly offset). These signs are opposite to those
+   given below because ships must obtain GMT from zone time, not zone time
+   from GMT. All zones were pole-to-pole staves 15° wide, except −12 and
+   +12 which were each 7.5° wide, with the 180° meridian separating them.
+   Unlike the zig-zagging land-based International Date Line, the nautical
+   International Date Line follows 180° except where it is interrupted by
+   territorial waters and the lands they border, including islands. About
+   1950, a letter suffix was added to the zone description, assigning Z to
+   the zero zone, and A–M (except J) to the east and N–Y to the west (J
+   may be assigned to local time in non-nautical applications; zones M and
+   Y have the same clock time but differ by 24 hours: a full day). These
+   were to be vocalized using a phonetic alphabet which included Zulu for
+   GMT, leading sometimes to the use of the term "Zulu Time". The
+   Greenwich time zone runs from 7.5°W to 7.5°E Longitude, while zone A
+   runs from 7.5°E to 22.5°E Longitude, etc.
+
+   These nautical letters have been added to some time zone maps, like the
+   map of Standard Time Zones by Her Majesty's Nautical Almanac Office
+   (NAO), which extended the letters by adding an asterisk (*) or dagger
+   (†) for areas that do not use a nautical time zone, and a double dagger
+   (‡) for areas that do not have a legal standard time (Greenland's ice
+   sheet and all of Antarctica. The United Kingdom specifies UTC-3 for the
+   Antarctic Peninsula, but no other country recognizes that). They
+   conveniently ignore any zone that does not have an hour or half-hour
+   offset, so a double dagger (‡) has been co-opted for these zones in the
+   list of time zones.
+
+   In maritime usage, GMT retains its historical meaning of UT1, the mean
+   solar time at Greenwich. UTC, atomic time at Greenwich, is too
+   inaccurate, differing by as much as 0.9 s from UT1, creating an error
+   of 0.4 km in longitude at the equator. However, DUT can be added to UTC
+   to correct it to within 50 ms of UT1, reducing the error to only 20 m.
+
+Skewing of zones
+
+   Ideal time zones, such as nautical time zones, are based on the mean
+   solar time of a particular meridian located in the middle of that zone
+   with boundaries located 7[DEL: + :DEL] ^1⁄[2] degrees east and west of
+   the meridian. In practice, zone boundaries are often drawn much farther
+   to the west with often irregular boundaries, and some locations base
+   their time on meridians located far to the east. For example, Spain
+   uses the mean solar time of 15 degrees east even though the Prime
+   Meridian (0°) passes through it. The tendency to draw time zone
+   boundaries far to the west of their meridians allows greater
+   utilization of more daylight in the afternoon hours. Many of these
+   locations also use daylight saving time which means that solar noon
+   could occur as late as 2:00 P.M. by the clock.
+
+Trivia
+
+     * In terms of the largest number of time zones, Russia is first, with
+       eleven time zones, including Kaliningrad on the Baltic Sea. The
+       United States is tied with Canada for second with six time zones.
+       If the possessions of the United Kingdom, the United States and
+       France are included it increases the number of time zones in each.
+       Taking into account overseas territories and possessions, France
+       has the most, with over twelve time zones, followed by the United
+       States with nine and the United Kingdom with over eight.
+     * In terms of area, China is the largest country with only one time
+       zone ( UTC+8), although before the Chinese Civil War in 1949 China
+       was separated into five time zones. China also has the widest
+       spanning time zone.
+     * Stations in Antarctica generally keep the time of their supply
+       bases, thus both the Amundsen-Scott South Pole Station (U.S.) and
+       McMurdo Station (U.S.) use New Zealand time ( UTC+12 southern
+       winter, UTC+13 southern summer).
+     * The 27° latitude passes back and forth across time zones in South
+       Asia. Pakistan: +5, India +5:30, Nepal +5:45, India (Sikkim) +5:30,
+       China +8:00, Bhutan +6:00, India ( Arunachal Pradesh) +5:30,
+       Myanmar +6:30. This switching was more odd in 2002, when Pakistan
+       enabled Daylight Saving Time. Thus from west to east, time zones
+       were: +6:00, +5:30, +5:45, +5:30, +8:00, +6:00, +5:30 and +6:30.
+     * Because the earliest and latest time zones are 26 hours apart, any
+       given calendar date exists at some point on the globe for 50 hours.
+       For example, April 11 begins in time zone UTC+14 at 10:00 UTC April
+       10, and ends in time zone UTC-12 at 12:00 UTC April 12.
+     * There are numerous places where several time zones meet, for
+       instance at the tri-country border of Finland, Norway and Russia.
+     * There are about 39 time zones instead of 24 (as popularly
+       believed). This is due to fractional hour offsets and zones with
+       offsets larger than 12 hours near the International Date Line. Some
+       micronations may use offsets that are not recognized by all
+       authorities.
+     * The largest time gap along a political border is the 3.5 hour gap
+       along the border of China (UTC +8) and Afghanistan ( UTC+4:30).
+     * One of the most unusual time zones is the Australian Central
+       Western Time zone (CWST), which is in effect in a small strip of
+       Western Australia from the border of South Australia west to just
+       before Caiguna. It is 8¾ hours ahead of UTC (UTC+8:45) and covers
+       an area of about 35,000 km², larger than Belgium, but has a
+       population of about 200. Although unofficial, it is universally
+       respected in the area. See Time in Australia.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Time_zone"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

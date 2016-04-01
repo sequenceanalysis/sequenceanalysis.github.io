@@ -1,0 +1,561 @@
+   #copyright
+
+Intel Corporation
+
+2007 Schools Wikipedia Selection. Related subjects: Companies
+
+   Intel Corporation
+         Type       Public ( NASDAQ: INTC)
+       Founded      1968
+     Headquarters   United States Santa Clara, California, USA (incorporated
+                    in Delaware)
+      Key people    Paul Otellini, CEO
+                    Craig Barrett, Chairman
+       Industry     Semiconductors
+       Products     Microprocessors
+                    Flash memory
+                    Motherboard Chipsets
+                    Network Interface Card
+       Revenue      $38.83 billion USD ( 2005)
+   Operating income $12.1 billion USD ( 2005)
+      Net income    $8.7 billion USD ( 2005)
+      Employees     99,900
+        Slogan      Leap ahead.
+       Website      www.intel.com
+
+   Intel Corporation ( NASDAQ: INTC)( SEHK: 4335) is the world's largest
+   semiconductor company and the leading manufacturer of the x86 series of
+   microprocessors, the processor in IBM PC-compatible personal computers.
+   Founded in 1968 as Integrated Electronics Corporation and based in
+   Santa Clara, California, USA, Intel also makes motherboard chipsets,
+   network cards and ICs, flash memory, embedded processors, and other
+   devices related to communications and computing. Founded by
+   semiconductor pioneers Robert Noyce and Gordon Moore, Intel combines
+   advanced chip design capability with a leading-edge manufacturing
+   capability. Originally known primarily to engineers and technologists,
+   Intel's successful "Intel Inside" advertising campaign of the 1990s
+   made it and its Pentium processor household names.
+
+   Intel was an early developer of SRAM and DRAM memory chips, and this
+   represented the majority of its business until the early 1980s. While
+   Intel created the first commercial microprocessor chip in 1971, it was
+   not until the creation of the personal computer (PC) that this became
+   their primary business. During the 1990s, Intel invested heavily in new
+   microprocessor designs and in fostering the rapid growth of the PC
+   industry. During this period Intel became the de facto monopoly
+   supplier of microprocessors for PCs, and was known for aggressive
+   tactics in defense of its market position, as well as a struggle with
+   Microsoft for control over the direction of the PC industry.
+
+   By the early 2000s, Microsoft had passed Intel in power in the PC
+   industry, and competitors had emerged in the advanced microprocessor
+   market. Intel's November 2006 stock market capitalization was less than
+   one-quarter of its 2000 high, and only 40% of Microsoft's.
+
+History
+
+   Intel headquarters in Santa Clara
+   Enlarge
+   Intel headquarters in Santa Clara
+
+   Intel was founded in 1968 by Gordon E. Moore (a chemist and physicist)
+   and Robert Noyce (a physicist and co-inventor of the integrated
+   circuit) when they left Fairchild Semiconductor. It is noteworthy that
+   Intel competitor AMD was also founded by members of the Traitorous
+   Eight, in 1969. Intel's fourth employee was Andy Grove (a chemical
+   engineer), who ran the company through much of the 1980s and the
+   high-growth 1990s. Grove is now remembered as the company's key
+   business and strategic leader. By the end of the 1990s, Intel was one
+   of the largest and most successful businesses in the world, though
+   fierce competition within the semiconductor industry has since
+   diminished its position.
+
+   Intel has grown through several distinct phases. At its founding, Intel
+   was distinguished simply by its ability to make semiconductors, and its
+   primary product were static random access memory (SRAM) chips. Intel's
+   business grew during the 1970s as it expanded and improved its
+   manufacturing processes and produced a wider range of products, still
+   dominated by various memory devices. While Intel created the first
+   microprocessor in 1971, by the early 1980s its business was dominated
+   by Dynamic random access memory chips. However, increased competition
+   from Japanese semiconductor manufacturers had by 1983 dramatically
+   reduced the profitability of this market, and the sudden success of the
+   IBM personal computer convinced then-CEO Grove to shift the company's
+   focus to microprocessors and to change fundamental aspects of that
+   business model. By the end of the 1980s this decision had proven
+   successful, and Intel embarked on a 10-year period of unprecedented
+   growth as the primary (and most profitable) hardware supplier to the PC
+   industry. After 2000, growth in demand for high-end microprocessors
+   slowed and competitors garnered significant market share, initially in
+   low-end and mid-range processors but ultimately across the product
+   range, and Intel's dominant position was reduced. In the early 2000s
+   then-CEO Craig Barrett attempted to diversify the company's business
+   beyond semiconductors, but few of these activities were ultimately
+   successful. In 2005 and 2006, CEO Paul Otellini reorganized the company
+   to refocus on core processor businesses and announced a series of
+   dramatic cuts in the size of Intel's workforce that will ultimately
+   reduce the company's size by over 10%.
+
+   In September 2006, Intel had nearly 100,000 employees and 200
+   facilities world wide. Its 2005 revenues were $38.8 billion and its
+   Fortune 500 ranking was 49th. Its stock symbol is INTC, listed on the
+   NASDAQ.
+
+SRAMS and the microprocessor
+
+   The company's first products were random-access memory integrated
+   circuits, and Intel grew to be a leader in the fiercely competitive
+   DRAM, SRAM, and ROM markets throughout the 1970s. Concurrently, Intel
+   engineers Marcian Hoff, Federico Faggin, Stanley Mazor and Masatoshi
+   Shima invented the first microprocessor. Originally developed for the
+   Japanese company Busicom to replace a number of ASICs in a calculator
+   already produced by Busicom, the Intel 4004 was introduced to the mass
+   market on November 15, 1971, though the microprocessor did not become
+   the core of Intel's business until the mid-1980s. (Note: Intel is
+   usually given credit with Texas Instruments for the almost-simultaneous
+   invention of the microprocessor.)
+
+From DRAM to microprocessors
+
+   In 1983, at the dawn of the personal computer era, Intel's profits came
+   under increased pressure from Japanese memory-chip manufacturers, and
+   then-President Andy Grove drove the company into a focus on
+   microprocessors. Grove described this transition in the book Only the
+   Paranoid Survive. A key element of his plan was the notion, then
+   considered radical, of becoming the single source for successors to the
+   popular 8086 microprocessor.
+
+   Until then, manufacture of complex integrated circuits was not reliable
+   enough for customers to depend on a single supplier, but Grove began
+   producing processors in three geographically distinct factories, and
+   ceased licensing the chip designs to competitors such as Zilog and AMD.
+   When the PC industry exploded in the late 1980s and 1990s, Intel was
+   one of the primary beneficiaries.
+
+Intel, x86 processors, and the IBM PC
+
+   Despite the ultimate importance of the microprocessor, the 4004 and its
+   successors the 8008 and the 8080 were never major revenue contributors
+   at Intel. As the next processor, the 8086 (and its variant the 8088)
+   was completed in 1978, Intel embarked on a major marketing and sales
+   campaign for that chip nicknamed "Operation Crush", and intended to win
+   as many customers for the processor as possible. One design win was the
+   newly-created IBM PC division, though the importance of the this was
+   not fully realized at the time.
+
+   IBM introduced its personal computer in 1981, and it was rapidly
+   successful. In 1982, Intel created the 80286 microprocessor, though IBM
+   chose not to use that, embarking on an effort to produce its own x86
+   processor under a cross-licensing agreement with Intel. Compaq, the
+   first IBM PC "clone" manufacturer, in 1985 produced a desktop system
+   based on the faster 80286 processor and in 1986 quickly followed with
+   the first 80386-based system, beating IBM and establishing a
+   competitive market for PC-compatible systems and setting up Intel as a
+   key component supplier.
+
+386 microprocessor
+
+   During this period Grove dramatically redirected the company, closing
+   much of its DRAM business and directing resources to the microprocessor
+   business. Of perhaps more importance was his decision to
+   "single-source" the 386 microprocessor. Prior to this, microprocessor
+   manufacturing was in its infancy, and manufacturing problems frequently
+   reduced or stopped production, interrupting supplies to customers. To
+   mitigate this risk, these customers typically insisted that multiple
+   manufacturers produce chips they would use to ensure a consistent
+   supply. The 8080 and 8086-series microprocessor were produced by
+   several companies, notably Zilog and AMD. Grove made the decision not
+   to license the 386 design to other manufacturers, instead producing it
+   in three geographically-distinct factories in Santa Clara (CA),
+   Hillsboro (OR), and Phoenix (AZ), and convincing customers that this
+   would ensure consistent delivery. As the success of Compaq's Deskpro
+   386 established the 386 as the dominant CPU choice, Intel achieved a
+   position of near-exclusive dominance as its supplier. Profits from this
+   funded rapid development of both higher-performance chip designs and
+   higher-performance manufacturing capabilities, propelling Intel to a
+   position of unquestioned leadership by the early 1990s.
+
+486, Pentium, and Itanium
+
+   Intel introduced the 486 microprocessor in 1989, and in 1990 formally
+   established a second design team, designing the processors code-named
+   "P5" and "P6" in parallel and committing to a major new processor every
+   two years, versus the four or more years such designs had previously
+   taken. The P5 was introduced in 1993 as the Intel Pentium, substituting
+   a trademarked name for the former part number (numbers, like 486,
+   cannot be trademarked). The P6 followed in 1995 as the Pentium Pro and
+   improved into the Pentium II in 1997. New architectures were developed
+   alternately in Santa Clara, California, Hillsboro, Oregon, and Haifa,
+   Israel.
+
+   Intel's Santa Clara design team embarked in 1993 on a successor to the
+   x86 architecture, codenamed "P7". The first attempt was dropped a year
+   later, but quickly revived in a cooperative program with
+   Hewlett-Packard engineers, though Intel soon took over primary design
+   responsibility. The resulting implementation of the IA-64 64-bit
+   architecture was the Itanium and was introduced in June 2001. The
+   Itanium's performance running legacy x86 code did not achieve
+   expectations, and it inititally failed to effectively compete with
+   64-bit extensions to the original x86 architecture, first from AMD (the
+   AMD64, then from Intel itself (the EM64T). Intel continues to develop
+   the Itanium and the IA-64 architecture.
+
+   During this period Intel's Hillsboro team designed and introduced the *
+   P6 Pentium Pro in 1995, the Willamette processor (code-named P67 and
+   P68) and marketed as Pentium 4, and finally the 64-bit extensions to
+   the x86 architecture, present in some versions of the Pentium 4 and in
+   the Intel Core 2 chips.
+
+Pentium flaw
+
+   In June 1994, Intel engineers discovered a flaw in the floating-point
+   math subsection of the Pentium microprocessor. Under certain
+   data-dependent conditions, low-order bits of the result of
+   floating-point division operations would be incorrect, an error that
+   can quickly compound in floating-point operations to much larger errors
+   in subsequent calculations. Nonetheless, Intel decided to correct the
+   error in a future chip revision and did not disclose it.
+
+   On October 1994 Dr. Thomas Nicely, Professor of Mathematics at
+   Lynchburg College independently discovered the bug, and upon receiving
+   no response from his inquiry to Intel, on October 30 posted a message
+   on the Internet . Word of the bug spread quickly on the Internet and
+   then to the industry press. Because the bug was easy to replicate by an
+   average user (there was a sequence of numbers one could enter into
+   Microsoft's calculator tool to show the error), Intel's statements that
+   it was minor and "not even an erratum" were not accepted by many
+   computer users. During Thanksgiving 1994 the New York Times ran a piece
+   by journalist John Markoff spotlighting the error. Intel changed their
+   position and decided to offer to replace every chip with a problem,
+   quickly putting in place a large end-user support organization. This
+   resulted in a $500 million charge against Intel's 1994 revenue.
+
+   Paradoxically, the "Pentium flaw" incident, Intel's response to it, and
+   the surrounding media coverage propelled Intel from being a technology
+   supplier generally unknown to most computer users to a household name.
+   Dovetailing with an uptick in the "Intel Inside" campaign, the episode
+   is considered by some to have been a positive event for Intel, changing
+   some of its business practices to be more end-user focused and
+   generating substantial public awareness, while avoiding (for most
+   users) a lasting negative impression.
+
+Intel Inside, Intel Systems Division, and Intel Architecture Labs
+
+   During this period, Intel undertook two major supporting programs that
+   helped guarantee their processor's success. The first is widely-known:
+   the 1990 " Intel Inside" marketing and branding campaign. This campaign
+   established Intel, which had been a component supplier little-known
+   outside the PC industry, as a household name. The second program is
+   little-known: Intel's Systems Group began, in the early 1990s,
+   manufacturing PC " motherboards", the main board component of a
+   personal computer, and the one containing the processor and memory.
+   Shortly after, Intel began manufacturing fully-configured "white box"
+   systems for the dozens of PC clone companies that rapidly sprang up. At
+   its peak in the mid-1990s, Intel manufactured over 15% of all PCs,
+   making it the third-largest supplier at the time. By manufacturing
+   leading-edge PC motherboards systems, Intel placed pressure on other
+   manufacturers to rapidly produce systems with the newest
+   microprocessors and system architecture, including the PCI bus, USB and
+   other innovations. This in turn led to more rapid adoption of each of
+   its new processors in turn, making successful competition more
+   difficult for followers.
+
+   During the 1990s, Intel's Architecture Lab (IAL) was responsible for
+   many of the hardware innovations of the personal computer, including
+   the PCI Bus, the PCI Express (PCIe) bus, the Universal Serial Bus
+   (USB), Bluetooth wireless interconnect, and the now-dominant
+   architecture for multiprocessor servers. IAL's software efforts met
+   with a more mixed fate; its video and graphics software was important
+   in the development of software digital video, but later its efforts
+   were largely overshadowed by competition from Microsoft. The
+   competition between Intel and Microsoft was revealed in testimony by
+   IAL Vice-President Steven McGeady at the Microsoft antitrust trial.
+
+   Another factor contributing to rapid adoption of Intel's processors
+   during this period were the successive release of Microsoft Windows
+   operating systems, each requiring significantly greater processor
+   resources. The releases of Windows 95, Windows 98, and Windows 2000
+   provided impetus for successive generations of hardware.
+
+Competition, antitrust and espionage
+
+   Two factors combined to end this dominance: the slowing of PC demand
+   growth beginning in 2000 and the rise of the low-cost PC. By the end of
+   the 1990s, microprocessor performance had outstripped software demand
+   for that CPU power. Aside from high-end server systems and software,
+   demand for which dropped with the end of the " dot-com bubble",
+   consumer systems ran effectively on increasingly low-cost systems after
+   2000. Intel's strategy of producing ever-more-powerful processors and
+   obsoleting their predecessors stumbled, leaving an opportunity for
+   rapid gains by competitors, notably AMD. This in turn lowered the
+   profitability of the processor line and ended an era of unprecedented
+   dominance of the PC hardware by Intel.
+
+   Intel's dominance in the x86 microprocessor market led to numerous
+   charges of antitrust violations over the years, including FTC
+   investigations in both the late 1980s and in 1999, and civil actions
+   such as the 1997 suit by Digital Equipment Corporation (DEC) and a
+   patent suit by Intergraph. Intel's market dominance (at one time it
+   controlled over 85% of the market for 32-bit PC microprocessors)
+   combined with Intel's own hardball legal tactics (such as its infamous
+   338 patent suit versus PC manufacturers) made it an attractive target
+   for litigation, but few of the lawsuits ever amounted to anything.
+
+   A case of industrial espionage arose in 1995 that involved both Intel
+   and AMD. Guillermo Gaede, an Argentine immigrant formerly employed both
+   at AMD and at Intel's Arizona plant, was arrested for attempting in
+   1993 to sell the i486 and Pentium designs to AMD and to certain foreign
+   powers. Gaede videotaped data from his computer screen at Intel and
+   mailed it to AMD, which alerted Intel and authorities, resulting in
+   Gaede's arrest. Gaede was convicted and sentenced to 33 months in
+   prison in June of 1996.
+   iMac Intel Core Duo (20-inch)
+   Enlarge
+   iMac Intel Core Duo (20-inch)
+
+Partnership with Apple
+
+   On June 6, 2005, Apple Computer CEO Steve Jobs announced that Apple
+   would be transitioning from its long favored PowerPC architecture to
+   the Intel X86 architecture. Reasons stated for the change were vague
+   but included thermal issues with recent PowerPC G5 chips and an
+   implication that the future PowerPC roadmap was unable to satisfy
+   Apple's needs for computing power. In particular, the large power
+   requirement of the G5 chip and subsequent heat generation was seen as a
+   major stumbling block, preventing the placement of such a chip in one
+   of Apple's laptop computers. The first Apple computers containing Intel
+   CPUs were announced on January 10, 2006. Apple initially planned to put
+   Intel chips in all of their computers by the end of 2007, but Apple
+   managed to have its entire consumer product line running on Intel
+   processors by early August 2006. The Apple Xserve server was updated to
+   Intel Xeon processors from November 2006 and is offered in a
+   configuration similar to Apple's Mac Pro.
+
+Leadership
+
+   Robert Noyce was Intel's CEO at its founding in 1968, followed by
+   co-founder Gordon Moore in 1975. Andy Grove became the company's
+   President in 1979 and added the CEO title in 1987 when Moore became
+   Chairman. In 1997 Grove succeeded Moore as Chairman, and Craig Barrett,
+   already company president, took over. On May 18, 2005, Barrett handed
+   the reins of the company over to Paul Otellini, who previously was the
+   company president and was responsible for Intel's design win in the
+   original IBM PC. The board of directors elected Otellini, and Barrett
+   replaced Grove as Chairman of the Board. Grove stepped down as
+   Chairman, but will be retained as a special advisor.
+
+Corporate governance
+
+   Current members of the board of directors of Intel are: Craig Barrett,
+   Charlene Barshefsky, John Browne, James Guzy, Reed Hundt, James
+   Plummer, David Pottruck, Jane Shaw, John Thornton, and David Yoffie.
+
+Origin of the name
+
+   At its founding, Gordon Moore and Robert Noyce wanted to name their new
+   company "Moore Noyce". This name, however, sounded remarkably similar
+   to "more noise" — an ill-suited name for an electronics company, since
+   noise is typically associated with bad interference. They then used the
+   name NM Electronics for almost a year, before deciding to call their
+   company INTegrated ELectronics or "Intel" for short. However, Intel was
+   already trademarked by a hotel chain, so they had to buy the rights for
+   that name at the beginning.
+
+   By coincidence, the BBC television science-fiction serials A for
+   Andromeda (1961) and its sequel The Andromeda Breakthrough (1962) had
+   earlier featured a sinister multi-national electronics corporation
+   named Intel, which had been involved in a plot to take control of a
+   powerful computer constructed on Earth from alien radio instructions.
+
+   There are some people who believe that the name "Intel" is originated
+   from "INTELligence" (one of the ideas behind the microprocessor) or
+   INTErnaLs, but actually the name is originated from "Integrated
+   Electronics" and nothing other than that.
+
+Competition
+
+   During the 1980s, Intel was among the top ten worldwide semiconductor
+   sales leaders (10th in 1987), dominated by Japanese chip makers. In
+   1991, Intel achieved the number one ranking and has held it ever since.
+   Other top semiconductor companies include Samsung, Texas Instruments,
+   Toshiba and STMicroelectronics.
+
+   The only major competitor to Intel on the x86 processor market is
+   Advanced Micro Devices (AMD), with which Intel has had full
+   cross-licensing agreements since 1976: each partner can use the other's
+   patented technological innovations without charge after a certain time.
+   Some smaller competitors such as VIA and Transmeta produce low-power
+   processors for small factor computers and portable equipment.
+
+   In October 2006, a Transmeta lawsuit was filed against Intel for patent
+   infringement covering computer architecture and power efficiency
+   technologies.
+
+   Intel filed its response to an AMD lawsuit in September 2005, disputing
+   AMD's claims, and stating that its business practices are fair and
+   lawful. In its rebuttal, Intel laid out the skeleton of its legal
+   defense, which included a deconstruction of AMD's offensive strategy
+   and levied the charge that AMD's long-struggling market position is
+   largely a result of bad business decisions and management incompetence,
+   including underinvestment in essential manufacturing capacity and
+   over-reliance on contracting out chip foundries.
+
+   Legal experts predict the lawsuit will most likely drag out for a
+   number of years, since Intel's response indicates they are not likely
+   to try to settle with AMD.
+
+   Competitors in PC chipsets include VIA Technologies, SiS, ATI, and
+   NVIDIA. Intel's competitors in networking include Freescale, Broadcom,
+   Marvell, and AMCC, and its competitors in flash memory include
+   Spansion, Samsung, Toshiba, STMicroelectronics, and Hynix.
+
+Finances
+
+   Intel stock price, Nov 1986 - Nov 2006
+   Enlarge
+   Intel stock price, Nov 1986 - Nov 2006
+
+   Intel's market capitalization is $119 billion (November 8, 2006). It
+   publicly trades on NASDAQ with the symbol INTC, and is a member of the
+   following indexes: Dow Industrials, S&P 500, NASDAQ-100, SOX (PHLX
+   Semiconductor Sector), and GSTI Software Index.
+
+   INTC is a widely-held stock, with almost 5.8 billion shares
+   outstanding. Institutional investors and mutual funds hold 54% of this
+   stock, and corporate insiders, including Gordon Moore and Andy Grove,
+   hold only about 3%. Intel achieved its all-time high closing stock
+   price on August 31, 2000 at $74.87. Since then, it reached a low
+   closing price of $14.62 on September 23, 2002. As of November 2006 the
+   stock price was about $20.
+
+Diversity
+
+   Intel has a Diversity Initiative, including employee diversity groups
+   as well as supplier diversity programs. Like many companies with
+   employee diversity groups, they include groups based on race and
+   nationality as well as sexual identity and religion. In 1994, Intel
+   sanctioned one of the earliest corporate Gay, Lesbian, Bisexual, and
+   Transgender employee groups, and supports a Muslim employees group, a
+   Jewish employees group, and a Bible-based Christian group<ref.
+
+   Intel received a 100% rating on the first Corporate Equality Index
+   released by the Human Rights Campaign in 2002. It has maintained this
+   rating in 2003 and 2004. In addition, the company was named one of the
+   100 Best Companies for Working Mothers in 2005 by Working Mother
+   magazine. However, Intel's working practices still face criticism, most
+   notably from Ken Hamidi, a former employee who has been subject to
+   multiple unsuccessful lawsuits from Intel.
+
+Advertising
+
+   Intel has become one of the world's most recognizable computer brands
+   following its long-running "Intel Inside" campaign. The campaign, which
+   started in 1990, was created by Intel marketing manager Dennis Carter.
+   The five-note jingle was introduced the following year and by its tenth
+   anniversary was being heard in 130 countries around the world.
+
+   The Intel Inside program was very lucrative for advertisers. Intel paid
+   half the advertising costs for any ad that used the "Intel Inside"
+   logo. However, in print media, Intel stipulated that the page the ad
+   was on must not contain any references to competitors, such as AMD. If
+   the ads didn't meet these requirements, Intel did not pay half the
+   cost, and the advertiser was prohibited from using the "Intel Inside"
+   logo. Intel employed staff whose primary function was looking for
+   advertisements which violate the agreement. Advertisers found doing
+   so—many of which were "mom and pop" shops ignorant of the reimbursement
+   agreement—were requested to stop violating the use of the logo and were
+   then told how to legally use the logo and get part of their advertising
+   costs reimbursed. PC companies advertising products containing Intel
+   chips are required to include the jingle in their film and television
+   advertisements in order to receive the reimbursement.
+
+   The Centrino advertising campaign has been hugely successful, leading
+   to the ability to access wireless internet from a laptop becoming
+   linked in consumers minds to Intel chips. In the UK this has caused
+   some controversy, as the ASA upheld complaints that this was a
+   misleading advert.
+
+   In 2006, Intel has expanded its promotion of open specification
+   platforms beyond Centrino, to include the Viiv media centre PC and the
+   business desktop Intel vPro.
+
+   In December 2005, Intel phased out the "Intel Inside" campaign in
+   favour of a new logo and the slogan, "Leap ahead". The new logo is
+   clearly inspired by the "Intel Inside" logo. In fact, sometimes "Intel
+   Inside" is used, only this time with the processor name between the two
+   words. Like so: "Intel Core Duo Inside".
+
+   In mid January 2006, Intel announced that they were dropping the long
+   running Pentium name from its processors. They phased out the Pentium
+   names from mobile processors first, when the new Yonah chips, branded
+   Core Solo and Core Duo, were released. The desktop processors changed
+   when the Core 2 line of processors were released. The Pentium name was
+   first used to refer to the P5 core Intel processors (Pent refers to the
+   5 in P5,) and was done to circumvent court rulings that prevent the
+   trademarking of a string of numbers, so competitors could not just call
+   their processor the same name, as had been done with the prior 386 and
+   486 processors. (Both of which had copies manufactured by both IBM and
+   AMD.)
+
+   Though some in the Macintosh community were concerned that Intel's
+   branding, including the decals and jingle, would be used with the new
+   Intel-based Macintoshes (see Apple Intel transition), this has not
+   occurred.
+
+   Intel's "Intel Inside" campaign has generally been considered to be
+   world class marketing. However, over the years there have been several
+   plays on the Intel branding scheme which have appeared on the web.
+   While such jabs at Intel are obviously beyond the company's ability to
+   control, they do tend to show that not everyone believes that Intel's
+   programs and policies are always world class. For example, there is the
+   popular "evil inside" logo , the ubiquitous picture of a tombstone with
+   "R.I.P Intel Inside" , and the descriptive "Idiot Outside" logo: .
+
+Jingle
+
+   The famous "D♭  G♭  D♭  A♭" jingle was written by Walter Werzowa from
+   the Austrian 1980s sampling band Edelweiss.
+
+Sale of Intel's XScale processor business
+
+   On June 27, 2006, the sale of Intel's XScale assets was announced.
+   Intel agreed to sell the XScale processor business to Marvell
+   Technology Group for an estimated $600 million in cash and the
+   assumption of unspecified liabilities. The move is intended to permit
+   Intel to focus its recources on its core x86 and server businesses.
+   Both parties advised they expect to close the transaction within five
+   months, at which time Intel will continue manufacturing Xscale
+   processors until Marvell secures other manufacturing facilities.
+     * Marvell buys Intel's handheld processor unit for $600 million
+
+Intel and Free software
+
+   Intel has a significant participation in the open source communities.
+   For example, in 2006 Intel released MIT-licensed X.org drivers for
+   their integrated graphics cards of the i965 family of chipsets. On
+   other occasions, Intel released FreeBSD drivers for some networking
+   cards , available under a BSD-compatible licence, which were also
+   ported to OpenBSD. However, after the release of the wireless products
+   called Intel Pro/Wireless 2100, 2200BG/2225BG/2915ABG and 3945ABG,
+   Intel is being criticised for not granting free redistribution rights
+   for the firmwares that are necessary to be included in the operating
+   systems for the wireless devices to operate. As a result of this, Intel
+   became a target of massive campaigns to allow free operating systems to
+   include binary firmwares on terms acceptable to the open source
+   community. Examples of negative press include an article by
+   Linspire-Linux creator Michael Robertson in March, 2003. In the article
+   titled: " Is Intel's "Centrino" Techno-Latin for "No Linux?"",
+   Robertson goes on to outline the difficult position that Intel is in
+   releasing to Open Source, but not wanting to upset their large customer
+   Microsoft. Although Intel has received a significant negative attention
+   as a result of the wireless dealings (for another example, Theo de
+   Raadt of OpenBSD claimed that Intel is being "an Open Source fraud"
+   after an Intel employee presented a distorted view of the situation on
+   an open-source conference ), the binary firmwares still have not gained
+   a licence compatible with free software principles
+
+   Retrieved from " http://en.wikipedia.org/wiki/Intel_Corporation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,369 @@
+   #copyright
+
+Adenosine triphosphate
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+                             Adenosine 5'-triphosphate
+                            Chemical structure of ATP
+             Chemical name
+                           5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl
+                                                methoxy-hydroxy-phosphoryl
+                                  oxy-hydroxy-phosphory oxyphosphonic acid
+             Abbreviations                                             ATP
+          Chemical formula                         C[10]H[16]N[5]O[13]P[3]
+            Molecular mass                                507.181 g mol^-1
+             Melting point                                               ?
+                   Density                                               ?
+                     pK[a]                                             6.5
+                CAS number                                         56-65-5
+                    EINECS                                       200-283-2
+                   PubChem                                            5957
+
+   Adenosine 5'-triphosphate (ATP), discovered in 1929 by Karl Lohmann, is
+   a multifunctional nucleotide primarily known in biochemistry as the "
+   molecular currency" of intracellular energy transfer. In this role ATP
+   transports chemical energy within cells. It is produced as an energy
+   source during the processes of photosynthesis and cellular respiration.
+   The structure of this molecule consists of a purine base ( adenine)
+   attached to the 1' carbon atom of a pentose ( ribose). Three phosphate
+   groups are attached at the 5' carbon atom of the pentose. ATP is also
+   one of four monomers ( nucleotides) required for the synthesis of
+   ribonucleic acids. Furthermore, in signal transduction pathways, ATP is
+   used to provide the phosphate for protein kinase reactions.
+
+Chemical properties
+
+   ATP consists of adenosine - itself composed of an adenine ring and a
+   ribose sugar - and three phosphate groups (triphosphate). The
+   phosphoryl groups, starting with the group closest to the ribose, are
+   referred to as the alpha (α), beta (β), and gamma (γ) phosphates. The
+   system of ATP and water under standard conditions and concentrations is
+   extremely rich in chemical energy; the bond between the second and
+   third phosphate groups is loosely said to be particularly high in
+   energy. Strictly speaking, the bond itself is not high in energy (like
+   all chemical bonds it requires energy to break), but energy is produced
+   when the bond is broken and water is allowed to react with the two
+   products. Thus, energy is produced from the new bonds formed between
+   ADP and water, and between phosphate and water.
+
+   The net change in energy at Standard Temperature and Pressure of the
+   decomposition of ATP into hydrated ADP and hydrated inorganic phosphate
+   is -12 kcal / mole in vivo (inside of a living cell) and -7.3 kcal /
+   mole in vitro (in laboratory conditions). This large release in energy
+   makes the decomposition of ATP in water extremely exergonic, and hence
+   useful as a means for chemically storing energy. Again, the energy is
+   actually released as hydrolysis of the phosphate-phosphate bonds is
+   carried out.
+
+   This energy can be used by a variety of enzymes, motor proteins, and
+   transport proteins to carry out the work of the cell. Also, the
+   hydrolysis yields free inorganic P[i] and ADP, which can be broken down
+   further to another P[i] and AMP.
+
+   ATP can also be broken down to AMP directly, with the formation of
+   PP[i]. This last reaction has the advantage of being an effectively
+   irreversible process in aqueous solution.
+
+Ionisation of ATP in biological systems
+
+   Given the reaction:
+
+          HATP^3− ↔ H^+ + ATP^4−
+
+   The acidity constant is K[a] = 3.16 x 10^−7 giving \scriptstyle
+   \frac{[\mathrm{ATP}^{4-}]}{[\mathrm{HATP}^{3-}]}=\frac{3.16 \times
+   10^{-7}}{[\mathrm{H}^+]} . In biological systems such as the cytosol (
+   pH 7.0) or the extracellular fluid (pH 7.4), ATP^4− is the dominant
+   form (76% of the total ATP for pH 7.0).
+   Space filling image of ATP
+   Enlarge
+   Space filling image of ATP
+   3D model of ATP
+   Enlarge
+   3D model of ATP
+
+ATP synthesis
+
+   ATP can be produced by redox reactions using simple and complex sugars
+   ( carbohydrates) or lipids as an energy source. For ATP to be
+   synthesised from complex fuels, they first need to be broken down into
+   their basic components. Carbohydrates are hydrolysed into simple
+   sugars, such as glucose and fructose. Fats ( triglycerides) are
+   metabolised to give fatty acids and glycerol.
+
+   The overall process of oxidizing glucose to carbon dioxide is known as
+   cellular respiration and can produce up to 30 molecules of ATP from a
+   single molecule of glucose. ATP can be produced by a number of distinct
+   cellular processes; the three main pathways used to generate energy in
+   eukaryotic organisms are glycolysis, the citric acid cycle/ oxidative
+   phosphorylation, and beta-oxidation. The majority of this ATP
+   production by a non- photosynthetic aerobic eukaryote takes place in
+   the mitochondria, which can make up nearly 25% of the total volume of
+   typical cell.
+
+Glycolysis
+
+   In glycolysis, glucose and glycerol are metabolised to pyruvate in the
+   cytosol via the glycolytic pathway. This generates a net two molecules
+   of ATP through substrate phosphorylation catalyzed by two enzymes: PGK
+   and pyruvate kinase. Two molecules of NADH are also produced, which can
+   be oxidized via the electron transport chain and result in the
+   generation of additional ATP by ATP synthase. The pyruvate generated by
+   glycolysis can function as a substrate for the Krebs Cycle.
+
+Citric acid cycle
+
+   In the mitochondrion, pyruvate is oxidized by pyruvate dehydrogenase to
+   acetyl CoA, which is fully oxidized to carbon dioxide by the citric
+   acid cycle (also known as the Krebs Cycle). Every "turn" of the citric
+   acid cycle produces two molecules of carbon dioxide, one molecule of
+   the ATP equivalent guanosine triphosphate (GTP) through substrate-level
+   phosphorylation catalyzed by succinyl CoA synthetase, three molecules
+   of the reduced coenzyme NADH, and one molecule of the reduced coenzyme
+   FAHD[2]. Both of these latter molecules are recycled to their oxidized
+   states (NAD^+ and FAD, respectively) via the electron transport chain,
+   which generates additional ATP by oxidative phosphorylation coupled to
+   ATP synthesis. The oxidation of an NADH molecule results in the
+   synthesis of about 3 ATP molecules, and the oxidation of one FADH[2]
+   yields about 2 ATP molecules. The majority of cellular ATP is generated
+   by this process. Although the citric acid cycle itself does not involve
+   molecular oxygen, it is an obligately aerobic process because O[2] is
+   needed to recycle the reduced NADH and FADH[2] to their oxidized
+   states. In the absence of oxygen the citric acid cycle will cease to
+   function due to the lack of available NAD^+ and FAD.
+
+   The generation of ATP by the mitochondrion from cytosolic NADH relies
+   on the malate-aspartate shuttle (and to a lesser extent, the
+   glycerol-phosphate shuttle) because the inner mitochondrial membrane is
+   impermeable to NADH and NAD^+. Instead of transferring the generated
+   NADH, a malate dehydrogenase enzyme converts oxaloacetate to malate,
+   which is translocated to the mitochondrial matrix. Another malate
+   dehydrogenase-catalyzed reaction occurs in the opposite direction,
+   producing oxaloacetate and NADH from the newly transported malate and
+   the mitochondrion's interior store of NAD^+. A transaminase converts
+   the oxaloacetate to aspartate for transport back across the membrane
+   and into the intermembrane space.
+
+   It is the passage of electron pairs from NADH and FADH[2] through the
+   electron transport chain that powers the pumping of protons out of the
+   mitrochondrial matrix and into the intermembrane space, which results
+   in a proton motive force that is the net effect of a pH gradient and an
+   electric potential gradient across the inner mitochondrial membrane.
+   Flow of protons down the potential gradient - that is, from the
+   intermembrane space to the matrix - provides the driving force for ATP
+   synthesis by the protein complex ATP synthase, which contains a unique
+   rotor subunit that physically rotates relative to the static portions
+   of the protein during ATP synthesis.
+
+   Most of the ATP synthesized in the mitochondria will be used for
+   cellular processes in the cytosol; thus it must be exported from its
+   site of synthesis in the mitochondrial matrix. The inner membrane
+   contains antiporters that are integral membrane proteins used to
+   exchange newly synthesized ATP in the matrix for ADP in the
+   intermembrane space.
+
+Beta-oxidation
+
+   Fatty acids can also be broken down to acetyl CoA by beta-oxidation of
+   acyl CoA molecules. Each turn of this cycle reduces the length of the
+   acyl chain by two carbon atoms and produces one NADH and one FADH[2]
+   molecule, which are used to generate ATP by oxidative phosphorylation.
+   Because NADH and FADH[2] are energy-rich molecules, dozens of ATP
+   molecules can be generated by the beta-oxidation of a single long acyl
+   chain.
+
+Anaerobic respiration
+
+   Anaerobic respiration or fermentation entails the generation of energy
+   via the process of oxidation in the absence of O[2] as an electron
+   acceptor. In most eukaryotes, glucose is used as both an energy store
+   and an electron donor. The formula for the oxidation of glucose to
+   lactic acid is:
+
+          C[6]H[12]O[6] ---> 2C[3]H[6]O[3] + 2 ATP
+
+ATP replenishment by nucleoside diphosphate kinases
+
+   ATP can also be synthesized through several so-called "replenishment"
+   reactions catalyzed by the enzyme families of nucleoside diphosphate
+   kinases (NDKs), which use other nucleoside triphosphates as a
+   high-energy phosphate donor, and the ATP:guanido-phosphotransferase
+   family, which uses creatine.
+
+          ADP + GTP \to ATP + GDP
+
+ATP production during photosynthesis
+
+   In plants, ATP is synthesized in thylakoid membrane of the chloroplast
+   during the light-dependent reactions of photosynthesis. Some of this
+   ATP is then used to power the Calvin cycle, which produces triose
+   sugars.
+
+ATP recycling
+
+   The total quantity of ATP in the human body is about 0.1 mole. The
+   majority of ATP is not usually synthesised de novo, but is generated
+   from ADP by the aforementioned processes. Thus, at any given time, the
+   total amount of ATP + ADP remains fairly constant.
+
+   The energy used by human cells requires the hydrolysis of 100 to 150
+   moles of ATP daily which is around 50 to 75 kg. Typically, a human will
+   use up their body weight of ATP over the course of the day. This means
+   that each ATP molecule is recycled 1000 to 1500 times during a single
+   day (100 / 0.1 = 1000). ATP cannot be stored, hence its consumption
+   being followed closely by its synthesis.
+
+Regulation of ATP production
+
+   ATP production in an aerobic eukaryotic cell is tightly regulated by
+   allosteric mechanisms, by feedback effects, and by the substrate
+   concentration dependence of individual enzymes within the glycolysis
+   and oxidative phosphorylation pathways. Key control points occur in
+   enzymatic reactions that are so energetically favorable that they are
+   effectively irreversible under physiological conditions.
+
+   In glycolysis, hexokinase is directly inhibited by its product,
+   glucose-6-phosphate, and pyruvate kinase is inhibited by ATP itself.
+   The main control point for the glycolytic pathway is
+   phosphofructokinase (PFK), which is allosterically inhibited by high
+   concentrations of ATP and activated by high concentrations of AMP. The
+   inhibition of PFK by ATP is unusual, since ATP is also a substrate in
+   the reaction catalyzed by PFK; the biologically active form of the
+   enzyme is a tetramer that exists in two possible conformations, only
+   one of which binds the second substrate fructose-6-phosphate (F6P). The
+   protein has two binding sites for ATP - the active site is accessible
+   in either protein conformation, but ATP binding to the inhibitor site
+   stabilizes the conformation that binds F6P poorly. A number of other
+   small molecules can compensate for the ATP-induced shift in equilibrium
+   conformation and reactivate PFK, including cyclic AMP, ammonium ions,
+   inorganic phosphate, and fructose 1,6 and 2,6 biphosphate.
+
+   The citric acid cycle is regulated mainly by the availability of key
+   substrates, particularly the ratio of NAD^+ to NADH and the
+   concentrations of calcium, inorganic phosphate, ATP, ADP, and AMP.
+   Citrate - the molecule that gives its name to the cycle - is a feedback
+   inhibitor of citrate synthase and also inhibits PFK, providing a direct
+   link between the regulation of the citric acid cycle and glycolysis.
+
+   In oxidative phosphorylation, the key control point is the reaction
+   catalyzed by cytochrome c oxidase, which is regulated by the
+   availability of its substrate, the reduced form of cytochrome c. The
+   amount of reduced cytochrome c available is directly related to the
+   amounts of other substrates:
+
+          \frac{1}{2}NADH + cyt~c_{ox} + ADP + P_{i} \iff
+          \frac{1}{2}NAD^{+} + cyt~c_{red} + ATP
+
+   which directly implies this equation:
+
+          \frac{cyt~c_{red}}{cyt~c_{ox}} =
+          \left(\frac{[NADH]}{[NAD]^{+}}\right)^{\frac{1}{2}}\left(\frac{[
+          ADP][P_{i}]}{[ATP]}\right)K_{eq}
+
+   Thus, a high ratio of [NADH] to [NAD^+] or a low ratio of [ADP][P[i]]
+   to [ATP] imply a high amount of reduced cytochrome c and a high level
+   of cytochrome c oxidase activity. An additional level of regulation is
+   introduced by the transport rates of ATP and NADH between the
+   mitochondrial matrix and the cytoplasm.
+
+ATP use in cells
+
+   ATP is the main energy source for the majority of cellular functions.
+   This includes the synthesis of macromolecules, including DNA, RNA, and
+   proteins. ATP also plays a critical role in the transport of
+   macromolecules across cell membranes, e.g. exocytosis and endocytosis.
+
+   ATP is critically involved in maintaining cell structure by
+   facilitating assembly and disassembly of elements of the cytoskeleton.
+   In a related process, ATP is required for the shortening of actin and
+   myosin filament crossbridges required for muscle contraction. This
+   latter process is one of the main energy requirements of animals and is
+   essential for locomotion and respiration.
+
+Cell signaling
+
+   ATP is also a signaling molecule. ATP, ADP, or adenosine are recognised
+   by purinergic receptors.
+
+   In humans, this signaling role is important in both the central and
+   peripheral nervous system. Activity-dependent release of ATP from
+   synapses, axons and glia activates purinergic membrane receptors known
+   as P2. The P2Y receptors are metabotropic, i.e. G protein-coupled and
+   modulate mainly intracellular calcium and sometimes cyclic AMP levels.
+   Fifteen members of the P2Y family have been reported (P2Y1–P2Y15),
+   although some are only related through weak homology and several (P2Y5,
+   P2Y7, P2Y9, P2Y10) do not function as receptors that raise cytosolic
+   calcium. The P2X ionotropic receptor subgroup comprises seven members
+   (P2X1–P2X7) which are ligand-gated Ca^2+-permeable ion channels that
+   open when bound to an extracellular purine nucleotide. In contrast to
+   P2 receptors (agonist order ATP > ADP > AMP > ADO), purinergic
+   nucleotides like ATP are not strong agonists of P1 receptors which are
+   strongly activated by adenosine and other nucleosides (ADO > AMP > ADP
+   > ATP). P1 receptors have A1, A2a, A2b, and A3 subtypes ("A" as a
+   remnant of old nomenclature of adenosine receptor), all of which are G
+   protein-coupled receptors, A1 and A3 being coupled to Gi, and A3 being
+   coupled to Gs.
+
+Deoxyribonucleotide synthesis
+
+   In all known organisms, the deoxyribonucleotides that make up DNA are
+   synthesized by the action of ribonucleotide reductase (RNR) enzymes on
+   their corresponding ribonucleotides. This enzyme reduces the 2'
+   hydroxyl group on the ribose sugar to deoxyribose, forming a
+   deoxyribonucleotide (denoted dATP). All ribonucleotide reductase
+   enzymes use a common sulfhydryl radical mechanism reliant on reactive
+   cysteine residues that oxidize to form disulfide bonds in the course of
+   the reaction. RNR enzymes are recycled by reaction with thioredoxin or
+   glutaredoxin.
+
+   The regulation of RNR and related enzymes maintains a balance of dNTPs
+   relative to each other and relative to NTPs in the cell. Very low dNTP
+   concentration inhibits DNA synthesis and DNA repair and is lethal to
+   the cell, while an abnormal ratio of dNTPs is mutagenic due to the
+   increased likelihood of misincorporating a dNTP during DNA synthesis.
+   Regulation of or differential specificity of RNR has been proposed as a
+   mechanism for alterations in the relative sizes of intracellular dNTP
+   pools under cellular stress such as hypoxia.
+
+ATP in protein structure
+
+   Some proteins that bind ATP do so via a characteristic protein fold
+   known as the Rossmann fold, which is a general nucleotide-binding motif
+   that also often binds the cofactor NAD. The most common ATP-binding
+   proteins, known as kinases, share a small number of common folds; the
+   protein kinases, the largest kinase superfamily, all share common
+   structural features specialized for ATP binding and phosphate transfer.
+
+   ATP in complex with proteins generally requires the presence in
+   solution of a divalent cation, almost always magnesium, which aids in
+   stabilizing its highly charged phosphate groups. The presence of
+   magnesium greatly decreases the dissociation constant of ATP from its
+   protein binding partner without affecting the ability of the kinase to
+   catalyze its reaction once the ATP is bound. The presence of magnesium
+   ions can serve as a mechanism for kinase regulation.
+
+ATP analogs
+
+   Biochemistry laboratories often use in vitro studies to explore
+   ATP-dependent molecular processes. Enzyme inhibitors of ATP-dependent
+   enzymes such as kinases are needed to experimentally examine the
+   binding sites and transition states involved in ATP-dependent
+   reactions. ATP analogs are also used in X-ray crystallography to
+   determine a protein structure in complex with ATP, often together with
+   other substrates. Most useful ATP analogs cannot be hydrolyzed as ATP
+   would be; instead they trap the enzyme in a structure closely related
+   to the ATP-bound state. Adenosine 5'-(gamma-thiotriphosphate) is an
+   extremely common ATP analog in which one of the gamma-phosphate oxygens
+   is replaced by a sulfur atom; this molecule is hydrolyzed at a
+   dramatically slower rate than ATP itself and functions as an inhibitor
+   of ATP-dependent processes. In crystallographic studies, hydrolysis
+   transition states are modeled by the bound vanadate ion. However,
+   caution is warranted in interpreting the results of experiments using
+   ATP analogs, since some enzymes can hydrolyze them at appreciable rates
+   at high concentration.
+   Retrieved from " http://en.wikipedia.org/wiki/Adenosine_triphosphate"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

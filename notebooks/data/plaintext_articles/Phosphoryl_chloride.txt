@@ -1,0 +1,156 @@
+   #copyright
+
+Phosphoryl chloride
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+                          Phosphoryl chloride
+                          Phosphoryl chloride
+                                General
+                 Systematic name        Phosphoryl chloride or
+                                  Phosphorus oxide trichloride
+                     Other names        Phosphorus oxychloride
+                                        Phosphoric trichloride
+               Molecular formula                       POCl[3]
+                      Molar mass                  153.33 g/mol
+                      Appearance     Clear, colourless liquid,
+                                            fumes in moist air
+                      CAS number                  [10025-87-3]
+                               Properties
+               Density and phase          1.645 g/cm^3, liquid
+             Solubility in water                        Reacts
+                   Melting point             1.25 °C (274.4 K)
+                   Boiling point            105.8 °C (379.0 K)
+                       Viscosity                 ? c P at ? °C
+                               Structure
+                 Molecular shape                   tetrahedral
+                   Dipole moment                        2.54 D
+                                Hazards
+                            MSDS                 External MSDS
+                    Main hazards             Highly corrosive,
+                                            lachrymator, toxic
+                   R/S statement       R: 14-22-26-29-35-48/23
+                                                   S:26-45-7/8
+                    RTECS number                     TH4897000
+                        Supplementary data page
+          Structure & properties                 n, ε[r], etc.
+              Thermodynamic data               Phase behaviour
+                                            Solid, liquid, gas
+                   Spectral data               UV, IR, NMR, MS
+                           Related compounds
+               Related compounds Thiophosphoryl chloride
+
+                                                     Phosphorus oxybromide
+                                                    Phosphorus trichloride
+                                                  Phosphorus pentachloride
+               Except where noted otherwise, data are given for
+          materials in their standard state (at 25°C, 100 kPa)
+                             Infobox disclaimer and references
+
+   Phosphoryl chloride (commonly called phosphorus oxychloride) is a
+   colourless liquid with the formula POCl[3]. It hydrolyses in moist air
+   to phosphoric acid to release choking fumes of hydrogen chloride. It is
+   manufactured industrially on a large scale from phosphorus trichloride
+   and oxygen or phosphorus pentoxide. It is mainly used to make phosphate
+   esters such as tricresyl phosphate.
+
+Structure
+
+   Like phosphate, phosphoryl chloride is tetrahedral in shape. It
+   features three P-Cl bonds and one very strong P=O double bond, with an
+   estimated bond dissociation energy of 533.5 kJ/mol. On the basis of
+   bond length and electronegativity, the Schomaker-Stevenson rule
+   suggests that the double bond form is very dominant (in contrast with
+   POF[3]). The P=O bond does not resemble the π bond in a carbonyl group
+   as in a ketone. The appropriate description of the P-O interaction is a
+   matter of long discussion. Older textbooks favour a description that
+   invokes participation of the d-orbitals on phosphorus. Some of these
+   d-orbitals project toward the O atom, overlapping with p-orbitals on
+   oxygen. More modern texts seem to favour a description where the P-O π
+   bonding involves the sigma* components of the P-Cl bonds. These
+   descriptions do not consider a role for d-orbitals.
+
+                      where pm = picometers
+
+Chemical properties
+
+   POCl[3] reacts with water and alcohols to give phosphoric acid or
+   phosphate esters, respectively, for example
+
+          O=PCl[3] + 3 H[2]O → O=P(OH)[3] + 3 HCl
+
+   If the water is replaced by an alcohol, the trialkyl phosphate esters
+   result. Such reactions are often performed in the presence of an HCl
+   acceptor such as pyridine or an amine. If POCl[3] is heated with an
+   excess of a phenol ( ArOH) in the presence of a Lewis acid catalyst
+   such as magnesium chloride a triaryl phosphate ester is formed, for
+   example:
+
+          3 C[6]H[5]OH + O=PCl[3] → O=P(OC[6]H[5])[3] + 3 HCl
+
+   POCl[3] can also act as a Lewis base, forming adducts with a variety of
+   Lewis acids such as titanium tetrachloride:
+
+          Cl[3]P^+-O^− + TiCl[4] → Cl[3]P^+-O-^−TiCl[4]
+
+   The aluminium chloride adduct (POCl[3]·AlCl[3]) is quite stable, and so
+   POCl[3] can be used to remove AlCl[3] completely from reaction mixtures
+   at the end of a Friedel-Crafts reaction. POCl[3] reacts with hydrogen
+   bromide in the presence of AlCl[3] to produce POBr[3].
+
+Preparation
+
+   Phosphoryl chloride can be prepared by the reaction of phosphorus
+   trichloride with oxygen at 20-50 °C (air is ineffective):
+
+   2 PCl[3] + O[2] → 2 O=PCl[3]
+
+   An alternative synthesis involves the reaction of phosphorus
+   pentachloride and phosphorus pentoxide. Since these compounds are both
+   solids, a convenient way of performing the reaction is to chlorinate a
+   mixture of PCl[3] and P[4]O[10], which generates the PCl[5] in situ. As
+   the PCl[3] is consumed, the POCl[3] becomes the reaction solvent.
+
+   6 PCl[3] + 6 Cl[2] → 6 PCl[5]
+
+   6 PCl[5] + P[4]O[10] → 10 POCl[3]
+
+   Phosphorus pentachloride also forms POCl[3] by reaction with water, but
+   this reaction is less easily controlled than the above reaction.
+
+Uses
+
+   The most important use for phosphoryl chloride is in the manufacture of
+   triarylphosphate esters (as described above) such as triphenyl
+   phosphate and tricresyl phosphate. These esters have been used for many
+   years as flame retardants and plasticisers for PVC. Meanwhile trialkyl
+   esters such as tributyl phosphate (made similarly from butan-1-ol) are
+   used as liquid-liquid extraction solvents in nuclear reprocessing and
+   elsewhere.
+
+   In the laboratory, POCl[3] is widely used as a dehydrating agent, for
+   example the conversion of amides to nitriles. Similarly, certain cyclic
+   amides can be cyclised to dihydro isoquinoline derivatives using the
+   Bischler-Napieralski reaction.
+   Two uses for phosphorus oxychloride in organic chemistry
+
+   Such reactions are believed to go via an imidoyl chloride; in certain
+   cases where it is stable, the imidoyl chloride is the final product.
+   For example pyridones and pyrimidones can be converted to chloro-
+   derivatives of pyridines and pyrimidines, which are important
+   intermediates in the pharmaceutical industry. Likewise barbituric acid
+   is converted to 2,4,6-trichloropyrimidine.^ by reaction with POCl[3] at
+   140 °C.
+
+   Related to this chemistry is the use of POCl[3] in acylation of
+   activated aromatic rings via the Vilsmeier-Haack reaction to produce
+   aryl aldehydes and ketones. The reaction most often uses a formamide
+   such as DMF or N-phenyl-N-methylformamide, and it produces an iminium
+   salt which is easily hydrolysed to the aldehyde upon workup. For
+   example anthracene gives 9-anthraldehyde:
+   Vilsmeier-Haack formylation of anthracene
+   Retrieved from " http://en.wikipedia.org/wiki/Phosphoryl_chloride"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

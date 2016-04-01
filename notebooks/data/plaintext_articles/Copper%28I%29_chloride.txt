@@ -1,0 +1,157 @@
+   #copyright
+
+Copper(I) chloride
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+                                Copper(I) chloride
+                               Copper(I) chloride
+                                     General
+          Systematic name                                     Copper(I) chloride
+              Other names                                       Cuprous chloride
+        Molecular formula                                                   CuCl
+               Molar mass                                            98.99 g/mol
+               Appearance                                 white powder, slightly
+                                                            green from oxidation
+               CAS number                                            [7758-89-6]
+                                    Properties
+        Density and phase                                    4.140 g/cm^3, solid
+      Solubility in water                                0.0062 g/100 ml (20 °C)
+               in ethanol                                              insoluble
+     in hydrochloric acid
+         in diethyl ether
+       in aqueous ammonia                                                soluble
+            Melting point                                         430 °C (703 K)
+            Boiling point                                     1490 °C (1760 K),
+                                                                      decomposes
+                                    Structure
+        Crystal structure                               Tetrahedral close packed
+                                                        ( Zinc blende structure)
+            Dipole moment                                                    ? D
+                                     Hazards
+                     MSDS                                          External MSDS
+             Main hazards                                               Irritant
+                 NFPA 704 Image:nfpa_h3.png Image:nfpa_f0.png Image:nfpa_r0.png
+              Flash point                                                    n/a
+            R/S statement                             R: 22, 50, 53 S: 22, 60/61
+             RTECS number                                              GL6990000
+                             Supplementary data page
+   Structure & properties                                          n, ε[r], etc.
+       Thermodynamic data                                        Phase behaviour
+                                                              Solid, liquid, gas
+            Spectral data                                        UV, IR, NMR, MS
+                                Related compounds
+             Other anions                                      Copper(I) bromide
+                                                                Copper(I) iodide
+            Other cations                                    Copper(II) chloride
+                                                              Silver(I) chloride
+                 Except where noted otherwise, data are given for
+                          materials in their standard state (at 25°C, 100 kPa)
+                                              Infobox disclaimer and references
+
+   Copper(I) chloride (quite commonly called cuprous chloride), is the
+   lower chloride of copper, with the formula CuCl. It occurs naturally as
+   the mineral nantokite. It is a white solid which is almost insoluble in
+   water, and which tends to oxidise in air to green CuCl[2]. It is a
+   Lewis acid which reacts with suitable ligands such as ammonia or
+   chloride ion to form complexes, many of which are water-soluble. It is
+   even able to form a stable complex with carbon monoxide.
+
+   In aqueous solution, CuCl would be unstable with respect to
+   disproportionation into Cu and CuCl[2], but its low solubility allows
+   it to be a stable compound^.
+
+Chemical Properties
+
+   Copper(I) chloride is a Lewis acid, classified as soft according to the
+   Hard-Soft Acid-Base concept. Thus it tends to form stable complexes
+   with soft Lewis bases such as triphenylphosphine:
+
+   CuCl + PPh[3] → [CuCl(PPh[3])][4] (Ph = phenyl)
+
+   Although CuCl is insoluble in water, it dissolves in aqueous solutions
+   containing suitable donor molecules. It readily forms complexes with
+   halide ions, for example forming H[3]O^+ CuCl[2]^- with concentrated
+   hydrochloric acid. It also dissolves readily in solutions containing
+   CN^-, S[2]O[3]^2- or NH[3]
+
+   Solutions of CuCl in HCl or NH[3] absorb carbon monoxide to form
+   colourless complexes such as the crystalline halogen-bridged dimer
+   [CuCl(CO)][2]. The same HCl solution can also react with acetylene gas
+   to form [CuCl(C[2]H[2])], while an NH[3] solution of CuCl forms an
+   explosive acetylide with acetylene. Complexes of CuCl with alkenes can
+   be made by reduction of CuCl[2] by sulfur dioxide in the presence of
+   the alkene in alcohol solution. Complexes with chelating alkenes such
+   as 1,5-cyclooctadiene are particularly stable^:
+
+   Structure of COD complex of CuCl
+
+   CuCl reacts with organometallic compounds such as methyllithium
+   (CH[3]Li) to form "Gilman reagents" such as (CH[3])[2]CuLi, which find
+   extensive use in organic synthesis. Grignard reagents react similarly.
+
+Preparation
+
+   Copper(I) chloride may be prepared by the reduction of copper(II) salts
+   such as CuSO[4] using sulfur dioxide or copper metal. SO[2] may be
+   prepared in situ from sodium bisulfite (NaHSO[3]) or sodium
+   metabisulfite (Na[2]S[2]O[5]) and acid. The reduction is carried out in
+   hydrochloric acid, and the resulting CuCl[2]^- complex is diluted to
+   precipitate white CuCl (by driving the equilibrium using Le Chatelier's
+   principle).
+
+   (1) NaHSO[3]( aq) + HCl ( aq) → SO[2]( aq) + NaCl + H[2]O( l)
+
+   (2) 2 CuSO[4]( aq) + SO[2]( aq) + 2 H[2]O( l) + 4 HCl( aq) → 2
+   HCuCl[2]( aq) + 3 H[2]SO[4]( aq)
+
+   (3) HCuCl[2]( aq) + H[2]O( l) → CuCl( s) + H[3]O^+( aq) + Cl^-( aq)
+
+Uses
+
+   A major chemical use for copper(I) chloride is as a catalyst for a
+   variety of organic reactions. Compared to other "soft" Lewis acids, it
+   is much more affordable than non-toxic silver(I) chloride and
+   palladium(II) chloride, and much less toxic than lead(II) chloride and
+   mercury(II) chloride. In addition, it can undergo redox chemistry via
+   copper(II) or copper(III) intermediates. This combination of properties
+   make copper(I) salts invaluable reagents.
+
+   One such application is in the Sandmeyer reaction^. Treatment of an
+   arenediazonium salt with CuCl leads to an aryl chloride, for example:
+
+   (Example Sandmeyer reaction using CuCl)
+
+   The reaction has wide scope, and usually gives good yields.
+
+   The observation that copper(I) halides catalyse 1,4-addition of
+   Grignard reagents to alpha,beta-unsaturated ketones^ led to the
+   development of organocuprate reagents that are widely used today in
+   organic synthesis ^:
+
+   (Addition of RMgX to C=C-C=O mediated by CuCl)
+
+   Although other copper(I) compounds such as copper(I) iodide are now
+   more often used for this type of reaction, there are cases where
+   copper(I) chloride is particularly effective^:
+
+   (Alkylation of sorbate ester at 4-position mediated by CuCl)
+
+   Here, Bu indicates an n- butyl group. Without CuCl, the Grignard
+   reagent alone gives a mixture of 1,2 and 1,4-addition products (i.e.,
+   the butyl adds at the closer to the C=O).
+
+   Copper(I) chloride is also an intermediate formed from copper(II)
+   chloride in the Wacker process.
+
+Precautions
+
+   Copper salts do have some toxicity and should be handled with care;
+   wear gloves and goggles. Avoid bringing CuCl into contact with alkynes.
+
+   Template: inorganic stylesheet1
+   Retrieved from " http://en.wikipedia.org/wiki/Copper%28I%29_chloride"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,277 @@
+   #copyright
+
+Hubble's law
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+          Physical cosmology
+
+     * Age of the universe
+     * Big Bang
+     * Blueshift
+     * Comoving distance
+     * Cosmic microwave background
+     * Dark energy
+     * Dark matter
+     * FLRW metric
+     * Friedmann equations
+     * Galaxy formation
+     * Hubble's law
+     * Inflation
+     * Large-scale structure
+     * Lambda-CDM model
+     * Metric expansion of space
+     * Nucleosynthesis
+     * Observable universe
+     * Redshift
+     * Shape of the universe
+     * Structure formation
+     * Timeline of the Big Bang
+     * Timeline of cosmology
+     * Ultimate fate of the universe
+     * Universe
+
+            Related topics
+     * Astrophysics
+     * General relativity
+     * Particle physics
+     * Quantum gravity
+
+
+   Hubble's law is the statement in physical cosmology that the redshift
+   in light coming from distant galaxies is proportional to their
+   distance. The law was first formulated by Edwin Hubble and Milton
+   Humason in 1929 after nearly a decade of observations. It is considered
+   the first observational basis for the expanding space paradigm and
+   today serves as one of the most often cited pieces of evidence in
+   support of the Big Bang. The most recent calculation of the constant,
+   using the satellite WMAP began in 2003, yielding a value of 71 ± 4
+   (km/s)/ Mpc. As of the 2006 data, that figure has been refined to 70
+   ^+2.4[−3.2] (km/s)/Mpc.
+
+Discovery
+
+   In the decade before Hubble made his observations, a number of
+   physicists and mathematicians had established a consistent theory of
+   the relationship between space and time by using Einstein's field
+   equation of general relativity. Applying the most general principles to
+   the question of the nature of the universe yielded a dynamic solution
+   that conflicted with the then prevailing notion of a static Universe.
+
+   However, a few scientists continued to pursue the dynamical universe
+   and discovered that it could be characterized by a metric that came to
+   be known after its discoverers, namely Friedmann, Lemaître, Robertson,
+   and Walker. When this metric was applied to the Einstein equations, the
+   so-called Friedmann equations emerged which characterized the expansion
+   of the universe based on a parameter known today as the scale factor
+   which can be considered a scale invariant form of the proportionality
+   constant of Hubble's Law. This idea of an expanding spacetime would
+   eventually lead to the Big Bang and to the Steady State theories.
+
+   Before the advent of modern cosmology, there was considerable talk as
+   to what was the size and shape of the universe. In 1920 a famous debate
+   took place between Harlow Shapley and Heber D. Curtis over this very
+   issue with Shapley arguing for a small universe the size of our Milky
+   Way galaxy and Curtis arguing that the universe was much larger. The
+   issue would be resolved in the coming decade with Hubble's improved
+   observations.
+   Edwin Hubble.
+   Enlarge
+   Edwin Hubble.
+
+   Edwin Hubble did most of his professional astronomical observing work
+   at Mount Wilson observatory, at the time the world's most powerful
+   telescope. His observations of Cepheid variable stars in spiral nebulae
+   enabled him to calculate the distances to these objects. Surprisingly
+   these objects were discovered to be at distances which placed them well
+   outside the Milky Way. The nebulae were first described as "island
+   universes" and it was only later that the moniker "galaxy" would be
+   applied to them.
+
+   Combining his measurements of galaxy distances with Vesto Slipher's
+   measurements of the redshifts associated with the galaxies, Hubble
+   discovered a rough proportionality of the objects' distances with their
+   redshifts. Though there was considerable scatter (now known to be due
+   to peculiar velocities), Hubble was able to plot a trend line from the
+   46 galaxies he studied and obtained a value for the Hubble constant of
+   500 km/ s/ Mpc, which is much higher than the currently accepted value
+   due to errors in his distance calibrations. Such errors in determining
+   distance continue to plague modern astronomers. (See the article on
+   cosmic distance ladder for more details.)
+
+   In 1958 the first good estimate of H[0], 75 km/s/Mpc, was published (by
+   Allan Sandage). But it would be decades before a consensus was achieved
+   (see 'Measuring the Hubble constant' below).
+
+   After Hubble's discovery was published, Albert Einstein abandoned his
+   work on the cosmological constant which he had designed to allow for a
+   static solution to his equations. He would later term this work his
+   "greatest blunder" since the belief in a static universe was what
+   prevented him from predicting the expanding universe. Einstein would
+   make a famous trip to Mount Wilson in 1931 to thank Hubble for
+   providing the observational basis for modern cosmology.
+
+Interpretation
+
+   The discovery of the linear relationship between recessional velocity
+   and distance yields a straightforward mathematical expression for
+   Hubble's Law as follows:
+
+          v = H[0]D
+
+   where v is the recessional velocity due to redshift, typically
+   expressed in km/s. H[0] is Hubble's constant and corresponds to the
+   value of H (often termed the Hubble parameter which is a value that is
+   time dependent) in the Friedmann equations taken at the time of
+   observation denoted by the subscript 0. This value is the same
+   throughout the universe for a given conformal time. D is the proper
+   distance that the light had traveled from the galaxy in the rest frame
+   of the observer, measured in mega parsecs: Mpc.
+
+   For relatively nearby galaxies, the velocity v can be estimated from
+   the galaxy's redshift z using the formula v = zc where c is the speed
+   of light. For far away galaxies, v can be determined from the redshift
+   z by using the relativistic Doppler effect. However, the best way to
+   calculate the recessional velocity and its associated expansion rate of
+   spacetime is by considering the conformal time associated with the
+   photon traveling from the distant galaxy. In very distant objects, v
+   can be larger than c. This is not a violation of the special relativity
+   however because a metric expansion is not associated with any physical
+   object's velocity.
+
+   In using Hubble's law to determine distances, only the velocity due to
+   the expansion of the universe can be used. Since gravitationally
+   interacting galaxies move relative to each other independent of the
+   expansion of the universe, these relative velocities, called peculiar
+   velocities, need to be accounted when applying Hubble's law. The Finger
+   of God effect is one result of this phenomenon discovered in 1938 by
+   Benjamin Kenneally. Systems that are gravitationally bound, such as
+   galaxies or our planetary system, are not subject to Hubble's law and
+   do not expand.
+
+   The mathematical derivation of an idealized Hubble's Law for a
+   uniformly expanding universe is a fairly elementary theorem of geometry
+   in 3-dimensional Cartesian/Newtonian coordinate space, which,
+   considered as a metric space, is entirely homogeneous and isotropic
+   (properties do not vary with location or direction). Simply stated the
+   theorem is this:
+
+          Any two points which are moving away from the origin, each along
+          straight lines and with speed proportional to distance from the
+          origin, will be moving away from each other with a speed
+          proportional to their distance apart.
+
+   The ultimate fate of the universe and the age of the universe can both
+   be determined by measuring the Hubble constant today and extrapolating
+   with the observed value of the deceleration parameter, uniquely
+   characterized by values of density parameters (Ω). A so-called "closed
+   universe" (Ω>1) comes to an end in a Big Crunch and is considerably
+   younger than its Hubble age. An "open universe" (Ω≤1) expands forever
+   and has an age that is closer its Hubble age. For the accelerating
+   universe that we inhabit, the age of the universe is coincidentally
+   very close to the Hubble age.
+   Enlarge
+   The ultimate fate of the universe and the age of the universe can both
+   be determined by measuring the Hubble constant today and extrapolating
+   with the observed value of the deceleration parameter, uniquely
+   characterized by values of density parameters (Ω). A so-called "closed
+   universe" (Ω>1) comes to an end in a Big Crunch and is considerably
+   younger than its Hubble age. An "open universe" (Ω≤1) expands forever
+   and has an age that is closer its Hubble age. For the accelerating
+   universe that we inhabit, the age of the universe is coincidentally
+   very close to the Hubble age.
+
+   The value of Hubble parameter changes over time either increasing or
+   decreasing depending on the sign of the so-called deceleration
+   parameter q which is defined by:
+
+          q = -H^{-2}\left( {{\; dH}\over {\; dt}} + H^2 \right)
+
+   In a universe with a deceleration parameter equal to zero, it follows
+   that H = 1/t, where t is the time since the Big Bang. A non-zero,
+   time-dependent value of q simply requires integration of the Friedmann
+   equations backwards from the present time to the time when the comoving
+   horizon size was zero.
+
+   We may define the "Hubble age" (also known as the "Hubble time" or
+   "Hubble period") of the universe as 1/H, or 977793 million
+   years/[H/(km/s/Mpc)]. The Hubble age comes to 13968 million years for
+   H=70 km/s/Mpc, or 13772 million years for H=71 km/s/Mpc. The distance
+   to a galaxy being approximately zc/H for small redshifts z, and
+   expressing c as 1 light-year per year, this distance can be expressed
+   simply as z times 13772 million light-years.
+
+   It was long thought that q was positive, indicating that the expansion
+   is slowing down due to gravitational attraction. This would imply an
+   age of the universe less than 1/H (which is about 14,000 million
+   years). For instance, a value for q of 1/2 (one theoretical
+   possibility) would give the age of the universe as 2/(3H). The
+   discovery in 1998 that q is apparently negative means that the universe
+   could actually be older than 1/H. In fact, independent estimates of the
+   age of the universe come out fairly close to 1/H
+
+Olbers' paradox
+
+   The expansion of space summarized by the Big Bang interpretation of
+   Hubble's Law is relevant to the old conundrum known as Olbers' paradox:
+   if the Universe were infinite, static, and filled with a uniform
+   distribution of stars, then every line of sight in the sky would end on
+   a star, and the sky would be as bright as the surface of a star.
+   However, the night sky is largely dark. Since the 1600s, astronomers
+   and other thinkers have proposed many possible ways to resolve this
+   paradox, but the currently accepted resolution depends in part upon the
+   Big Bang theory. In a universe that exists for a finite amount of time,
+   only the light of finitely many stars has had a chance to reach us yet,
+   and the paradox is resolved. Additionally, in an expanding universe
+   distant objects recede from us which cause the light emanating from
+   them to be redshifted and diminished in brightness, but this only
+   partially resolves the paradox. According to the Big Bang theory, both
+   effects contribute (the finite duration of the Universe's history being
+   the more important of the two). The darkness of the night sky, then,
+   provides a kind of confirmation for the Big Bang.
+
+Measuring the Hubble constant
+
+   For most of the second half of the 20th century the value of H[0] was
+   estimated to be between 50 and 90 (km/s)/Mpc. The value of the Hubble
+   constant was the topic of a long and rather bitter controversy between
+   Gérard de Vaucouleurs who claimed the value was 80 and Allan Sandage
+   who claimed the value was 40. In 1996, a debate moderated by John
+   Bahcall between Gustav Tammann and Sidney van den Bergh was held in
+   similar fashion to the earlier Shapley-Curtis debate over these two
+   competing values. This difference was partially resolved with the
+   introduction of the Lambda-CDM model of the Universe in the late 1990s.
+   With this model observations of high-redshift clusters at X-ray and
+   microwave wavelengths using the Sunyaev-Zel'dovich effect, measurements
+   of anisotropies in the cosmic microwave background radiation, and
+   optical surveys all gave a value of around 70 for the constant. In
+   particular the Hubble Key Project (led by Dr. Wendy L. Freedman,
+   Carnegie Observatories) gave the most accurate optical determination in
+   May 2001 with its final estimate of 72±8 (km/s)/Mpc, consistent with a
+   measurement of H[0] based upon Sunyaev-Zel'dovich effect observations
+   of many galaxy clusters having a similar accuracy. The highest accuracy
+   cosmic microwave background radiation determinations were 71±4
+   (km/s)/Mpc, by WMAP in 2003, and 70 (km/s)/Mpc, +2.4/-3.2 for
+   measurements up to 2006. With 1 parsec approximated to 3.086\times
+   10^{16} meters, in the metric system H[0] is about 2.3\times 10^{-18}
+   (m/s)/m (or Hertz). The consistency of the measurements from all three
+   methods lends support to both the measured value of H[0] and the
+   Lambda-CDM model.
+
+   A value for q was measured from standard candle observations of Type Ia
+   supernovae was determined in 1998 to be negative which implied, to the
+   surprise of many astronomers, the expansion of the universe is
+   currently "accelerating" (although the Hubble factor is still
+   decreasing with time; see the articles on dark energy and the
+   Lambda-CDM model).
+
+   In August 2006, using NASA's Chandra X-ray Observatory, a team from
+   NASA's Marshall Space Flight Centre (MSFC) found the Hubble constant to
+   be 77 kilometers per second per megaparsec (a megaparsec is equal to
+   3.26 million light years), with an uncertainty of about 15%
+   Spaceflightnow - Chandra independently determines Hubble constant
+   Retrieved from " http://en.wikipedia.org/wiki/Hubble%27s_law"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,188 @@
+   #copyright
+
+InterBase
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   InterBase
+   InterBase's performance monitor allows database administrators to view
+   and control server use.
+   Developer: Borland Software Corporation
+   Latest release: 7.5.1 Service Pack 1 / 13 February 2006
+   OS: Linux, Microsoft Windows and Solaris
+   Use: Database management system
+   License: Proprietary
+   Website: www.borland.com/interbase
+
+   InterBase is a relational database management system (RDBMS) currently
+   developed and marketed by Borland Software Corporation. InterBase is
+   distinguished from other DBMSs by its small footprint, close to zero
+   administration requirements, and multi-generational architecture.
+   InterBase runs on the Linux, Microsoft Windows and Solaris operating
+   systems.
+
+Technology
+
+   In many respects, InterBase is quite conventional; it is a
+   SQL-92-compliant relational database and supports standard interfaces
+   such as JDBC, ODBC, and ADO.NET. However, certain technical features
+   distinguish InterBase from other products.
+
+Small footprint
+
+   A full InterBase 7 server installation requires around 40 MB on disk.
+   This is significantly smaller than the client installation of many
+   competing database servers. The server uses very little memory when
+   idle. A minimum InterBase client install requires about 400 KB of disk
+   space.
+
+Minimal administration
+
+   InterBase servers typically do not require full-time database
+   administrators.
+
+Multi-generational architecture
+
+Concurrency control
+
+   Consider a simple banking application where two users have access to
+   the funds in a particular account. Bob reads the account and finds
+   there is 1000 dollars in it, so he withdraws 500. Jane reads the same
+   account before Bob has changed it, sees 1000 dollars, and withdraws
+   800. Needless to say, any database system with multi-user access needs
+   some sort of system for dealing with this problem.
+
+   The techniques used to solve this and other related problems are known
+   in the database industry as concurrency control.
+
+   Traditional products used locks which stated that a particular
+   transaction was going to modify a record. Once the lock was placed, no
+   one else could read or modify the data until the lock was released. The
+   lock may block changes to a single record, a page (a group of records
+   stored together on disk) of records, or every record examined by a
+   particular transaction, depending on the lock resolution. Lock
+   resolution is a tradeoff between performance and accuracy -- by
+   blocking updates at the page level, for example, some updates will be
+   blocked which do not in fact conflict with updates made by other
+   transactions, but performance will be improved in comparison with
+   record level locks.
+
+   Locking becomes an even bigger problem when combined with another
+   feature common to all such systems, transaction isolation. This is
+   because transactions typically involve both a read and a write -- in
+   this example, to read the value of the account and then change it. In
+   order to show an isolated view of the data the entire transaction,
+   including records read but never written to, must be locked in many
+   database servers.
+
+   In InterBase, readers do not block writers. Instead, each record in the
+   database can exist in more than one version. For instance, when Bob and
+   Jane read the accounts they would both get "version 1", reading 1000
+   dollars. When Bob then changes the account to make his withdrawal the
+   data is not overwritten, but instead a new "version 2" will be created
+   with 500 dollars. Jane's attempt to make her 800 dollar withdrawal will
+   notice that there is a new version 2, and her attempt to make a
+   withdrawal will fail.
+
+   This approach to concurrency control is called multiversion concurrency
+   control. InterBase's implementation of multiversion concurrency control
+   is commonly called its multi-generational architecture. InterBase was
+   the second commercial database to use this technique; the first was
+   DEC's Rdb/ELN.
+
+   Multiversion concurrency control also makes true snapshot transaction
+   isolation relatively simple to implement. A transaction with snapshot
+   isolation in InterBase shows the state of the database precisely as it
+   was at the instant the transaction began. This is very useful for
+   backups of an active database, long-running batch processes, and the
+   like.
+
+Rollbacks and recovery
+
+   InterBase also uses its multi-generational architecture to implement
+   rollbacks. Most database servers use logs to implement the rollback
+   feature, which can result in rollbacks taking a long time or possibly
+   even requiring manual intervention. By contrast, InterBase's rollbacks
+   are near-instantaneous and never fail.
+
+Drawbacks
+
+   Certain operations are more difficult to implement in a
+   multi-generational architecture, and hence perform slowly relative to a
+   more traditional implementation. One example is the SQL COUNT verb.
+   Even when an index is available on the column or columns included in
+   the COUNT, all records must be visited in order to see if they are
+   visible under the current transaction isolation.
+
+History
+
+Multiversion concurrency control before InterBase
+
+   Multiversion concurrency control is described in some detail in
+   sections 4.3 and 5.5 of the 1981 paper "Concurrency Control in
+   Distributed Database Systems" by Philip Bernstein and Nathan Goodman --
+   then employed by the Computer Corporation of America. Bernstein and
+   Goodman's paper cites a 1978 dissertation by D.P. Reed which quite
+   clearly describes MVCC and claims it as an original work.
+
+Early years
+
+   Jim Starkey was working at DEC on their Datatrieve network database
+   product when he came up with an idea for a system to manage concurrent
+   changes by many users. The idea dramatically simplified the existing
+   problems of locking which were proving to be a serious problem for the
+   new relational database systems being developed at the time. He started
+   working on the system at DEC, but at the time DEC had just started a
+   relational database effort which lead to the Rdb/VMS product. When they
+   found out about his project a turf war broke out (although the product
+   was released as Rdb/ELN), and Starkey eventually decided to quit.
+
+   Although InterBase's implementation is much more similar to the system
+   described by Reed in his MIT dissertation than any other database that
+   existed at the time and Starkey knew Bernstein from his previous
+   position at the Computer Corporation of America and later at DEC,
+   Starkey has stated that he arrived at the idea of multiversion
+   concurrency control independently. In the same comment, Starkey says:
+
+     The inspiration for multi-generational concurrency control was a
+     database system done by Prime that supported page level snapshots.
+     The intention of the feature was to give a reader a consistent view
+     of the database without blocking writers. The idea intrigued me as a
+     very useful characteristic of a database system.
+
+   He had heard that the local workstation vendor Apollo Computer was
+   looking for a database offering on their Unix machines, and agreed to
+   fund development. With their encouragement he formed Groton Database
+   Systems (named after the town, Groton, Massachusetts, where they were
+   located) on Labor Day 1984 and started work on what would eventually be
+   released as InterBase in 1986. Apollo suffered a corporate shakeup and
+   decided to exit the software business, but by this time the product was
+   making money.
+
+The road to Borland
+
+   Between 1986 and 1991 the product was gradually sold to Ashton-Tate,
+   makers of the famous dBASE who were at the time purchasing various
+   database companies in order to fill out their portfolio. The company
+   was soon in trouble, and Borland purchased Ashton-Tate in 1991,
+   acquiring InterBase as part of the deal.
+
+Recent releases
+
+   At the end of 2002, Borland released InterBase version 7, featuring
+   support for SMP, enhanced support for monitoring and control of the
+   server by administrators, and more. Borland released InterBase 7.1 in
+   June of 2003, 7.5 in December of 2004, and 7.5.1 on June 1, 2005.
+
+   On February 8th of 2006, Borland announced the intention to sell their
+   line of development tool products, including InterBase, Delphi,
+   JBuilder, and other tools.
+
+   In October of 2006, Borland announced the availability of InterBase
+   2007.
+   Retrieved from " http://en.wikipedia.org/wiki/InterBase"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

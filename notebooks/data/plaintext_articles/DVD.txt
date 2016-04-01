@@ -1,0 +1,289 @@
+   #copyright
+
+DVD
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+   CAPTION: DVD
+
+   Media type: optical disc
+    Capacity:  up to 8.5 GB per side
+     Usage:    Data storage
+                Optical disc authoring
+     * Optical disc
+     * Optical disc image
+     * Recorder hardware
+     * Authoring software
+     * Recording technologies
+          + Recording modes
+          + Packet writing
+
+                 Optical media types
+     * Laserdisc
+     * Compact Disc/ CD-ROM: CD-R, CD-RW
+     * DVD: DVD-R, DVD-R DL, DVD+R, DVD+R DL,
+       DVD-RW, DVD+RW, DVD+RW DL, DVD-RAM
+     * Blu-ray Disc: BD-R, BD-RE
+     * HD DVD: HD DVD-R
+
+                      Standards
+     * Rainbow Books
+     * File systems
+          + ISO 9660
+               o Joliet
+               o Rock Ridge
+                    # Amiga extensions to Rock Ridge
+               o El Torito
+               o Apple ISO9660 Extensions
+          + Universal Disk Format
+               o Mount Rainier
+
+   DVD (sometimes called "Digital Versatile Disc", or "Digital Video
+   Disc") is an optical disc storage media format that can be used for
+   data storage, including movies with high video and sound quality. DVDs
+   resemble compact discs as their physical dimensions are the same (120
+   mm (4.72 inches) or occasionally 80 mm (3.15 inches) in diameter) but
+   they are encoded in a different format and at a much higher density.
+
+History
+
+   A 12 cm Sony DVD+RW shown in comparison in size to a 7.5 inch Dixon
+   Ticonderoga pencil.
+   Enlarge
+   A 12 cm Sony DVD+RW shown in comparison in size to a 7.5 inch Dixon
+   Ticonderoga pencil.
+
+   In the early 1990s two high-density optical storage standards were
+   being developed: one was the MultiMedia Compact Disc ( MMCD), backed by
+   Philips and Sony, and the other was the Super Density disc (SD),
+   supported by Toshiba, Time-Warner, Matsushita Electric, Hitachi,
+   Mitsubishi Electric, Pioneer, Thomson, and JVC. IBM's president, Lou
+   Gerstner, acting as a matchmaker, led an effort to unite the two camps
+   behind a single standard, anticipating a repeat of the costly format
+   war between VHS and Betamax in the 1980s.
+
+   Philips and Sony abandoned their MMCD format (not to be confused with
+   MultiMediaCards) and agreed upon Toshiba's SD format (not to be
+   confused with secure digital cards, although the logo for the SD disc
+   format would be re-used for the SD digital card format) with two
+   modifications that are both related to the servo tracking technology.
+   The first one was the adoption of a pit geometry that allows
+   "push-pull" tracking, a proprietary Philips/Sony technology. The second
+   modification was the adoption of Philips' EFMPlus. EFMPlus, created by
+   Kees Immink, who also designed EFM, is 6% less efficient than Toshiba's
+   SD code, which resulted in a capacity of 4.7 GB as opposed to SD's
+   original 5 GB. The great advantage of EFMPlus is its great resilience
+   against disc damage such as scratches and fingerprints. The result was
+   the DVD specification Version 1.5, announced in 1995 and finalized in
+   September 1996. In May 1997, the DVD Consortium was replaced by the DVD
+   Forum, which is open to all companies.
+
+   "DVD" was originally an initialism for "Digital Video Disc." Some
+   members of the DVD Forum believe that it should stand for "Digital
+   Versatile Disc" to reflect its widespread use for non-video
+   applications. Toshiba, which maintains the official DVD Forum site ,
+   adheres to the latter interpretation, and indeed this appeared within
+   the copyright warnings on some of the earliest examples. However, the
+   DVD Forum never reached a consensus on the matter, and so today the
+   official name of the format is simply "DVD"; the letters do not
+   officially stand for anything.
+
+DVD disc capacity
+
+                         Single layer capacity  Dual/Double layer capacity
+      Physical size     GB          GiB         GB            GiB
+   12  cm, single sided 4.7 4.38                8.5 7.92
+   12 cm, double sided  9.4 8.75                17  15.8
+   8 cm, single sided   1.4 1.30                2.6 2.42
+   8 cm, double sided   2.8 2.61                5.2 4.84
+
+   Note: GB here means gigabyte, equal to 10^9 (or 1,000,000,000) bytes.
+   Many computers will display gibibyte (GiB), equal to 2^30 (or
+   1,073,741,824) bytes.
+
+   Example: A disc with 8.5 GB capacity is equivalent to: (8.5 x
+   1,000,000,000) / 1,073,741,824 ≈ 7.92 GiB.
+
+Capacity Nomenclature
+
+   The four basic types of DVD are referred to by their capacity in
+   gigabytes, rounded up to the nearest integer. The exception to the rule
+   is DVD-18, whose capacity is in fact 17 gigabytes.
+            DVD type           Name
+   Single sided, single layer DVD-5
+   Single sided, dual layer   DVD-9
+   Double sided, single layer DVD-10
+   Double sided, dual layer   DVD-18
+
+DVD recordable and rewriteable
+
+   DVD-R read/write side
+   Enlarge
+   DVD-R read/write side
+
+   HP initially developed recordable DVD media from the need to store data
+   for back-up and transport.
+
+   DVD recordables are now also used for consumer audio and video
+   recording. Three formats were developed: -R/RW (dash), +R/RW (plus),
+   -RAM (random access memory).
+
+Dual layer recording
+
+   Dual Layer recording allows DVD-R and DVD+R discs to store
+   significantly more data, up to 8.5 Gigabytes per disc, compared with
+   4.7 Gigabytes for single-layer discs. DVD-R DL (dual layer — see
+   figure) was developed for the DVD Forum by Pioneer Corporation, DVD+R
+   DL (double layer — see figure) was developed for the DVD+RW Alliance by
+   Sony.
+
+   A Dual Layer disc differs from its usual DVD counterpart by employing a
+   second physical layer within the disc itself; how the drive with Dual
+   Layer capability accesses the second layer is that it could shine the
+   laser through the first semi-transparent layer -- This is something
+   that normal DVD recordable discs do not have. The layer change
+   mechanism in some DVD players can show a noticeable pause, as long as
+   two seconds by some accounts. More than a few viewers have worried that
+   their dual layer discs were damaged or defective.
+
+   DVD recordable discs supporting this technology are backward compatible
+   with some existing DVD players and DVD-ROM drives. Many current DVD
+   recorders support dual-layer technology, and the price point is
+   comparable to that of single-layer drives, though the blank media
+   remains significantly more expensive.
+
+DVD-Video
+
+   DVD-Video is a standard for storing video content on DVD media. As of
+   2003, DVD-Video has become the dominant form of consumer video formats
+   in the United States, Europe, and Australia.
+
+   Though many resolutions and formats are supported, most consumer
+   DVD-Video disks utilize either 4:3 or 16:9 aspect ratio MPEG-2 video,
+   stored at a resolution of 720x480 ( NTSC) or 720x576 ( PAL). Audio is
+   commonly stored using the Dolby Digital (AC-3) and/or Digital Theatre
+   System (DTS) formats, ranging from monaural to 5.1 channel " Surround
+   Sound" presentations. DVD-Video also supports features like selectable
+   subtitles, multiple camera angles and multiple audio tracks.
+
+DVD-Audio
+
+   DVD-Audio is a format for delivering high-fidelity audio content on a
+   DVD. It offers many channel configuration options (from mono to 5.1
+   surround sound) at various sampling frequencies and sample rates.
+   Compared with the CD format, the much higher capacity DVD format
+   enables the inclusion of either considerably more music (with respect
+   to total running time and quantity of songs) or far higher audio
+   quality (reflected by higher linear sampling rates and higher vertical
+   bit-rates, and/or additional channels for spatial sound reproduction).
+
+   Despite DVD-Audio's superior technical specifications, there is debate
+   as to whether or not the resulting audio enhancements are
+   distinguishable to typical human ears. DVD-Audio currently forms a
+   niche market, probably due to its dependency upon new and relatively
+   expensive equipment.
+
+Security
+
+   DVD-Audio discs employ a robust copy prevention mechanism, called
+   Content Protection for Prerecorded Media (CPPM) developed by the 4C
+   group (IBM, Intel, Matsushita, and Toshiba).
+
+   CPPM can be circumvented on a PC by capturing decoded audio streams in
+   PCM format, but the underlying protection mechanism, encryption
+   algorithms, and keys have not yet been cracked.
+
+Players and recorders
+
+   Modern DVD recorders often support additional formats, including
+   DVD+/-R/RW, CD-R/RW, MP3, WMA, SVCD, JPEG, PNG, SVG, KAR and MPEG-4 (
+   DivX/ Xvid). Some also include USB ports or flash memory readers. Many
+   players are priced from under $/€ 25 and recorders from $/€ 50.
+
+   DVD drives for computers usually come with one of two kinds of Regional
+   Playback Control (RPC), either RPC-1 or RPC-2. This is used to enforce
+   the publisher's restrictions on what regions of the world the DVD can
+   be played. See Regional lockout.
+
+Competitors and successors
+
+   There are several possible successors to DVD being developed by
+   different consortiums: Sony/Panasonic's Blu-ray Disc (BD), Toshiba's HD
+   DVD and Maxell's Holographic Versatile Disc (HVD).
+
+   The first generation of holographic media with 300 GB of storage
+   capacity and a 160 Mbit/s transfer rate is scheduled for release in
+   late 2006 by Maxell and its partner, InPhase.
+
+   On November 18, 2003, the Chinese news agency Xinhua reported the final
+   standard of the Chinese government-sponsored Enhanced Versatile Disc
+   (EVD), and several patents for it. However, since then the format has
+   generally failed to live up to expectations.
+
+   On November 19, 2003, the DVD Forum decided by a vote of eight to six
+   that HD DVD will be its official HDTV successor to DVD. This had no
+   effect on the competing Blu-ray Disc Association's (BDA) determination
+   that its format would succeed DVD, especially since most of the voters
+   belonged to both groups.
+
+   On April 15, 2004, in a co-op project with TOPPAN Printing Co., the
+   electronics giant Sony Corp. successfully developed the paper disc, a
+   storage medium that is made out of 51% paper and offers up to 25 GB of
+   storage, about five times more than the standard 4.7 GB DVD. The disc
+   can be easily cut with scissors and recycled, offering foolproof data
+   security and an environment-friendly storage media.
+
+   As reported in a mid 2005 issue of Popular Mechanics, it is not yet
+   clear which technology will win the format war over DVD. HD DVD discs
+   have a lower capacity than Blu-ray discs (15 GB vs. 25 GB for single
+   layer, 30 GB vs. 50 GB for dual layer), but Blu-ray requires changes in
+   manufacturing machinery and techniques and is thus more expensive.
+
+   In April, 2000, Sonic Solutions and Ravisent announced hDVD, an HDTV
+   extension to DVD that presaged the HD formats that debuted 6 years
+   later.
+
+   This situation—multiple new formats fighting as the successor to a
+   format approaching purported obsolescence—previously appeared as the "
+   war of the speeds" in the record industry of the 1950s. It is also, of
+   course, similar to the VHS/Betamax war in consumer video recorders in
+   the late 1980s.
+
+   It is possible that neither Blu-ray, HD DVD, nor a next-generation
+   optical recording products will succeed. The storage capacities of hard
+   disk drives and solid-state memory have grown faster than those of
+   optical discs (since CD's introduction year, 1983, storage capacity of
+   HDDs grew by a factor of about 150,000, from 5 MB to 750 GB, while the
+   capacity of Blu-ray is only 90 times larger than CD), and all three are
+   much more capable of storing general consumer content —such as photos,
+   music, and video— than in the past. Hard disk drives having a few
+   terabytes of storage capacity will be on the market before 2008. A
+   terabyte is equivalent to about 2000 CD-ROMs, 130 DVD-9s, or 20
+   dual-layer BDs. However, hard disk drives and memory cards are at the
+   moment hundreds of times more expensive than optical discs (US$50 or
+   more compared to $0.50). The price per gigabyte of a hard disk drive,
+   $0.40 ($200/500 GB), is growing closer to that of a DVD-ROM, $0.06
+   ($0.50/8.5 GB); BD-ROM, $0.03 ($1.50/50 GB); recordable DVD-5, $0.10
+   ($0.50/4.7 GB); or recordable DVD-9, $0.30 ($2.50/8.5 GB); and is lower
+   than the cost of a BD-RE25, $1.20 ($30/25 GB). Direct access to large
+   amounts of information is much more convenient with a hard disk drive.
+   As broadband becomes fast enough (40 Mbit/s and higher) and more widely
+   available, physical media will become less important as a distribution
+   format.
+
+   One last possibility is that DVD will not be replaced in terms of Home
+   Theatre by any format currently developed. People may not be so keen to
+   upgrade their DVD collection so (relatively) soon. DVD may remain the
+   format of choice for many more years, which may lead to the creation of
+   a better technology that will replace it.
+
+   The new generations of optical formats have restricted access
+   (anti-copy mechanisms), and it is therefore possible that consumers may
+   ignore them.
+
+   Retrieved from " http://en.wikipedia.org/wiki/DVD"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

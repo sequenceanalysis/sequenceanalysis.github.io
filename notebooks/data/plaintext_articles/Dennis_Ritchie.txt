@@ -1,0 +1,94 @@
+   #copyright
+
+Dennis Ritchie
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+   Dennis MacAlistair Ritchie (born September 9, 1941) is a computer
+   scientist notable for his influence on ALTRAN, B, BCPL, C, Multics, and
+   Unix. He received the Turing Award in 1983 and the National Medal of
+   Technology in 1998. Ritchie is currently the head of Lucent
+   Technologies' System Software Research Department.
+
+Background
+
+   Born in Bronxville, New York, Ritchie graduated from Harvard with
+   degrees in physics and applied mathematics. In 1967, he began working
+   at the Bell Labs' Computing Sciences Research Centre.
+
+C and Unix
+
+   Ritchie is best known as the creator of the C programming language and
+   a key developer of the Unix operating system, and as co-author of the
+   definitive book on C, The C Programming Language (book), commonly
+   referred to as K&R (in reference to the authors Kernighan and Ritchie).
+   Ken Thompson (left) with Dennis Ritchie (right)
+   Ken Thompson (left) with Dennis Ritchie (right)
+
+   Ritchie's invention of C and his role in the development of Unix
+   alongside Ken Thompson, has placed him as an important pioneer of
+   modern computing. The C language is still widely used today in
+   application and operating system development and its influence is seen
+   in modern programming languages such as C++ and C#. Unix has also been
+   influential, establishing concepts and principles that are now
+   well-established precepts of computing. The popular GNU/Linux operating
+   system and its tools are descendants of Ritchie's work, and the Windows
+   operating systems include Unix compatibility tools and C compilers for
+   developers.
+
+   Ritchie has said that creating the C language "looked like a good thing
+   to do", and that anyone else in the same place at the same time would
+   have done the same thing, though Bell Labs colleague Bjarne Stroustrup,
+   developer of C++ said that "If Dennis had decided to spend that decade
+   on esoteric math, Unix would have been stillborn."
+
+   Following the success of Unix, Ritchie continued research into
+   operating systems and programming languages, with contributions to the
+   Plan 9 and Inferno operating systems, and the Limbo programming
+   language.
+
+Awards
+
+   Thompson, Ritchie and Clinton
+   Enlarge
+   Thompson, Ritchie and Clinton
+
+Turing Award
+
+   In 1983, Ritchie and Ken Thompson jointly received the Turing Award for
+   their development of generic operating systems theory and specifically
+   for the implementation of the UNIX operating system. Ritchie's Turing
+   Award lecture was titled, "Reflections on Software Research."
+
+National Medal of Technology
+
+   On April 27, 1999, Thompson and Ritchie jointly received the 1998
+   National Medal of Technology from President Bill Clinton for
+   co-inventing the UNIX operating system and the C programming language
+   which together have led to enormous advances in computer hardware,
+   software, and networking systems and stimulated growth of an entire
+   industry, thereby enhancing American leadership in the Information Age
+
+Nicknames
+
+   Dennis Ritchie is often referred to as "dmr" (his Bell Labs email
+   address) in various Usenet newsgroups (such as comp.lang.c).
+
+Writings by Ritchie
+
+     * The C Programming Language ( 1978 with Brian Kernighan see K&R)
+     * Unix Programmer's Manual ( 1971)
+
+Quotes
+
+     * "I am not now, nor have I ever been, a member of the demigodic
+       party."
+     * "Usenet is a strange place."
+     * "UNIX is basically a simple operating system, but you have to be a
+       genius to understand the simplicity."
+
+   Retrieved from " http://en.wikipedia.org/wiki/Dennis_Ritchie"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

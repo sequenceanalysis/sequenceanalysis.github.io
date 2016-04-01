@@ -1,0 +1,506 @@
+   #copyright
+
+Btrieve
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+
+   This is a featured article. Click here for more information.
+
+   In computing, Btrieve is a transactional database based on Indexed
+   Sequential Access Method (ISAM), which is a way of storing data for
+   fast retrieval. Btrieve was modularised in version 6.15 and became one
+   of two database backends that plugged into a standard software
+   interface called the Micro-Kernel Database Engine (the other product is
+   Scalable SQL, a relational database product that uses Structured Query
+   Language, otherwise known as SQL). There have been several versions of
+   the product for DOS, Linux, older versions of Microsoft Windows,
+   Windows 98, Windows NT, Windows 2000, Windows XP, Windows Server 2003
+   and for Novell NetWare.
+
+   It was originally a record manager that was shipped by SoftCraft at
+   around the same time as the release of the first IBM PCs. After gaining
+   market share and popularity, it was purchased by Novell for integration
+   into their Netware operating system. The product failed to gain
+   significant market share and, after some reorganisation within Novell,
+   the product was spun off to be developed by a new company known as
+   Btrieve Technologies, Inc. (or BTI). After several new versions were
+   released the company was renamed to Pervasive Software and they now
+   sell a product called Pervasive PSQL that can use both Btrieve and SQL.
+
+Architecture
+
+   The MKDE model allows for different database backends to be plugged in
+   to Pervasive's software product.
+   Enlarge
+   The MKDE model allows for different database backends to be plugged in
+   to Pervasive's software product.
+
+   Btrieve is not a relational database management system (RDBMS). Early
+   descriptions of Btrieve referred to it as a record manager (though
+   Pervasive initially used the term navigational database but later
+   changed this to transactional database) because it only deals with the
+   underlying record creation, data retrieval, record updating and data
+   deletion primitives. It uses ISAM as its underlying indexing and
+   storage mechanism. A key part of Pervasive's architecture is the use of
+   a MicroKernel Database Engine, which allows different database backends
+   to be modularised and integrated easily into their DBMS package,
+   Pervasive.SQL. This has allowed them to support both their Btrieve
+   navigational database engine and an SQL-based engine, Scalable SQL.
+
+   Current versions of Btrieve support system transactions and user
+   transactions, where system transactions are a bundle of
+   non-transactional operations and/or user transactions, while user
+   transactions are transactions that work on actual data in the database.
+   System transactions were developed to allow multiple transactions to be
+   done in a batch and to allow the ability to recover data more easily.
+
+   The Btrieve file format consists entirely of pages, which are the data
+   that moves between memory and storage media when the engine performs an
+   I/O operation. Versions prior to 6.0 merely used data pages, index
+   pages and a file control record (FCR). The file had an index for
+   searching that linked to physical pages. Beginning with version 6.0
+   logical pages started to be used, which are pages that are mapped to
+   physical pages (pages at a fixed location in the file) on the disk
+   through the use of a set of page allocation tables (PATs). The FCR is a
+   record that contains important information about Btrieve files, such as
+   the number of pages in current use. In order to avoid corruption in the
+   database Btrieve uses two methods of updating records: pre-image paging
+   in Btrieve versions before 6.0 and shadow paging in subsequent
+   versions. It was mainly the change-over from pre-image paging to
+   shadow-paging that caused radical file format changes that broke
+   compatibility between previous versions of Btrieve and version 6.x of
+   the product.
+
+History
+
+   Btrieve has been owned and developed by three different companies:
+   SoftCraft, Novell and Btrieve Technologies, Inc. (later renamed
+   Pervasive Software). They have a committed and loyal developer-base and
+   in all the company's literature they remain fully committed to the
+   product; in fact, Pervasive have even set up a Btrieve Society that
+   recognises existing developers.
+
+SoftCraft years
+
+   The product was launched in February 1982 by SoftCraft, a firm located
+   in Austin, Texas, by Doug and Nancy Woodward. Doug became the
+   vice-president and handled software development, and Nancy became the
+   president of the company. They released a number of versions over the
+   next few years: in February 1983 they released the Btrieve 2.x series,
+   and when MS-DOS 2.x developed support for file and directory handles
+   they released Btrieve 3.0. When MS-DOS 3.1 standardised its internal
+   interfaces in March 1985 they released Btrieve 3.1 C/S one month later,
+   which had network and client/server support. In February 1986 Btrieve
+   4.0 was released, and when the 4.1 upgrade was released it gained
+   support for extended key types and supplemental indexes.
+
+   Although Btrieve was fairly popular, it was not strongly differentiated
+   from the killer-app database on the PC, dBase, and never gained the
+   same sort of popularity. However, the known developer base had grown to
+   over 5,000 users and it was widely used in the financial area. The
+   company took some time to create a user-interface for the product,
+   however in 1984 they released Xtrieve, a menu-driven program that used
+   a new .DDF data dictionary to enforce relational database rules.
+
+Novell acquisition
+
+   In 1987 Novell started diversifying and buying companies to add to
+   their NetWare operating system. One of the companies they purchased was
+   SoftCraft. Nancy Woodward became the Vice-President and General Manager
+   of Novell's Austin operations while Doug Woodward became the
+   Vice-President of Advanced Database Technologies. Early the next year
+   Btrieve 5.0 was released to run as a native NetWare application, or VAP
+   (Value Added Process). According to Jim Kyle, "it had auto-increment
+   key types, the BROUTER network process server, data-only and key-only
+   files, and optional data compression". Version 5.1 was released in 1990
+   with increased file-handling transaction capability, logging and
+   roll-forward operations, along with several API enhancements. Several
+   versions were created for DOS, OS/2 and Microsoft Windows. Version 6.0
+   was released in June 1992, however it was not promoted extensively by
+   Novell, and due to enhancements (such as the change from pre-imaging to
+   shadow-paging) it was incompatible with previous versions of Btrieve.
+   The market did not increase much for Btrieve and it did not see wide
+   adoption due to these issues.
+
+   When the company was acquired by Novell, SoftCraft had been working on
+   a product called XQL, which was an SQL interpreter that was designed to
+   better deal with industry standard SQL, which the Xtrieve package was
+   not fully compliant with. This became the basis for NetWare SQL, which
+   was initially released in 1989, and was a bare-bones SQL interpreter
+   which implemented the base IBM version of SQL.
+
+Btrieve Technologies, Inc.
+
+   By 1994 Novell had largely given up on attempting to make NetWare into
+   a complete alternative operating system, and started selling off many
+   of the companies it had acquired only a few years earlier. They had
+   also done minimal promotion of Btrieve, largely due to the long time
+   (24 months) it took to release version 6. Negotiations between Nancy
+   and Doug Woodward with Novell were entered into and after two years
+   Novell announced (on January 26, 1994) that it was going to transfer
+   ownership of Btrieve to Btrieve Technologies, Incorporated (also known
+   as BTI). On April 29, 1994 the transfer was completed and Nancy
+   Woodward became the Chairman of BTI and Doug Woodward was made the
+   Chief Technical Officer. The CEO position was taken up by Ron Harris,
+   former employee of Texas Instruments and one of the founding employees
+   of Citrix Systems, Inc. where he was employed first as Director of
+   Strategic Planning, then as Vice-President of Marketing, and finally as
+   the Product Group Vice President.
+
+   Btrieve was totally rewritten and on July 1 1994 Btrieve 6.15 was
+   released for DOS, Windows and OS/2. Novell SQL was renamed to Scalable
+   SQL to reflect the change in ownership of the company. In 1995 version
+   6.15 was released for Novell NetWare, Windows NT Server and for Windows
+   NT/ 95, and thus became a cross-platform database product. The concept
+   of a Micro Kernel Database Engine (MKDE) was introduced in this
+   version.
+
+Pervasive Software
+
+   In 1997 the company renamed itself to Pervasive Software, and their
+   product Pervasive.SQL. They did this in order to allow greater
+   penetration of the relational database market and to re-align as an SQL
+   vendor, though they are still marketing and developing Btrieve.
+   Pervasive completed its IPO in September. The company continued using
+   the MKDE in version 6.30. In 1997 Pervasive released ScalableSQL 4.0, a
+   relational database product, and Btrieve 7.0.
+
+   In 2000, Novell was criticized after it ceased bundling Pervasive.SQL
+   with NetWare (5.1 was the first version affected). Instead, it shipped
+   with a trial version that shut down after 90-days.
+
+   The latest version, Pervasive PSQL v9, was released in 2005.
+
+Versions
+
+Btrieve for DOS
+
+   There was one DOS client-based configuration of Btrieve created by
+   SoftCraft. SoftCraft's definition of a client-based version was a
+   "Btrieve engine running on a particular workstation." This meant that
+   the record-management engine connected directly to the files via
+   operating system functions and modified the records accordingly,
+   whether the files were local or on a network. The client-based engine
+   allowed five concurrent users to access the database at any one time.
+   All processing of the records were done on the local workstation the
+   engine was installed on. Btrieve for DOS used the SEFS and MEFS modes
+   for file sharing.
+
+Btrieve for Netware
+
+   Btrieve for Netware was essentially the same as Btrieve for DOS with
+   some extra features only available on Netware at the time. It ran a
+   server process, called BSERVER, on the file-sharing server and this
+   managed data I/O in conjunction with the network file system. The
+   server process was first implemented as a Netware Value Added Process
+   (VAP) called BSERVER.VAP, but was switched to a Netware NetWare
+   Loadable Module (NLM) soon after. Basically, BSERVER was the database
+   engine that dealt with access to records, however it also accepted
+   requests from the transmittal of requested data to another server via
+   the BROUTER process.
+
+   Btrieve used requesters to make database I/O requests from the client
+   workstation. These requesters were available for DOS, OS/2, Microsoft
+   Windows, and UnixWare. The program BREQUEST.EXE accepted I/O requests
+   via the Btrieve API and relayed them to BSERVER. It then handled the
+   responses from BSERVER and relayed them back to the appropriate
+   applications.
+
+   The BROUTER process allowed for incoming requests to be "routed" to a
+   copy of the database on another server. It was loaded on the Netware
+   server and dealt with communication between multiple server processes
+   running on the one file-server through the use of two File Server
+   Tables (FSTs). According to Pervasive, these provide a list of "server
+   names and addresses, and the Server Routing Table (SRT)". BROUTER also
+   allowed communication requests to be routed to the correct server via
+   SPX by looking up the BSPXCOM NLM and coordinated locks and other
+   mechanisms that controlled access to the data in the Btrieve database.
+
+   Btrieve for DOS used the SEFS and MEFS modes for file sharing, and
+   because it was able to run on a network it was able to use exclusive
+   and concurrent transactions.
+
+Btrieve for Windows
+
+   Btrieve for Windows was created before the company rewrote the codebase
+   to use the MKDE. It featured SEFS and MEFS file sharing mechanisms;
+   used shadow-paging and allowed for exclusive and concurrent locks. It
+   handled version 6.x and 6.1 files differently: version 6.x files could
+   handle operations on “chunks” of records rather than locking up the
+   whole record; it handled records that were over 64KB; implemented VATs,
+   ACSs, new data types; allowed for percentage operations (where the
+   record could be located and manipulated by the physical location in the
+   file) and handled duplicate keys. Version 6.x was capable of dropping
+   or adding any index on the fly (version 6.0 and below could only drop
+   supplemental indexes). Version 6.1 files allowed for concurrent and
+   system transactions; the optional renumbering of keys; case insensitive
+   ACS tables and enhanced locking operations.
+
+   Btrieve for Windows could run as a client to the database that utilized
+   SEFS or MEFS modes, or it could directly access the Btrieve server.
+
+Client-based Btrieve
+
+   The client-based version of Btrieve has all the database files either
+   directly on the local computer or via a mapped network drive (setup
+   using DOS’s NET USE command).
+
+   Applications make a function call to WBTRCALL.DLL, a loader and
+   requester interface. The loader and requester module checks the BTI.INI
+   configuration file is correctly setup to load the client-based Btrieve
+   engine. In turn, this loads the local interface to the btrieve engine
+   (WBTRLOCL.DLL). If necessary, this local interface loads the Btrieve
+   engine (WBTR32.EXE) into memory and sends the necessary database
+   requests to it. The database engine then calls various Win32 system
+   libraries to perform file operations on the database files.
+
+Client-based Btrieve accessing server-based Btrieve
+
+   The client-based version of Btrieve for Windows could access
+   sever-based versions of Btrieve via a DOS-based "requester". The
+   requestor required the use of DOS Protected Mode Interface (DPMI) which
+   allows the program access to DOS's extended memory which could only
+   accessed using the Protected Mode functionality of the CPU's x86
+   architecture.
+
+   As with the client-based interface, the Btrieve-based application makes
+   a call to the WBTRCALL.DLL loader and requester interface library. This
+   library checks the BTI.INI file to see if it needs to access data on
+   the local system or whether it needs to access data on a remote server.
+   If it needs to access the server then it uses the Windows version of
+   DPMI to access a DOS-based requester named BREQUEST.EXE. The requester
+   then establishes a network connection to the server, which processes
+   the request and passes back a message to the requester when the
+   database request is completed.
+
+Btrieve for Windows NT/Windows 95
+
+   Btrieve for Windows NT and Windows 95 was released in 1995 along with
+   Btrieve for Netware and Btrieve for Windows NT Server. It had reached
+   version 6.15 and started using the MKDE. The file sharing mechanisms
+   remained the same as it still used SEFS and MEFS file sharing modes;
+   used shadow-paging and allowed for exclusive and concurrent locks. This
+   version of Btrieve allowed for null values in keys, which meant that a
+   record could be entered into the database when information on the key
+   was not available. It meant that the key would not be included into the
+   index, and this helped decrease unnecessary searching of the database
+   via the index. It also introduced the concept of a system transaction
+   and a user transaction. (see System and user transactions). The MKDE
+   also allowed gaps between auto-incremented keys. Variable-tail
+   allocation tables were introduced in version 6.15, so they were
+   included in the Windows NT/95 build of Btrieve.
+
+   There are two configurations of Btrieve for Windows NT/95: standalone
+   workstation and client/server.
+
+Standalone Workstation
+
+   When using the standalone workstation configuration of Btrieve, all
+   processing of records is done on the local workstation. The workstation
+   relies on the underlying mechanisms of Windows to allow the MKDE (the
+   W32MKDE.EXE program) to gain direct access to the database files, and
+   uses lock files to deal with concurrency issues.
+
+   In this configuration the application makes calls to the Btrieve API,
+   or Microkernel Interface (WBTRV32.DLL). The call is then processed by
+   this interface and passed along to the MKDE (W32MKDE.EXE) which then
+   uses the underlying operating system file system (whether it be network
+   or local) to directly access the database files.
+
+   This leads to some peculiar issues. If Btrieve uses Windows file
+   sharing and has the database engine open files directly on a file
+   share, for instance, and there is network instability (or even if a
+   network cable is unplugged) during an update the fields used to link
+   one Btrieve file to another can become unsynchronized (to all intents
+   and purposes the data loses its relationships or links to other data)
+   and the database file itself can get corrupted (though the chance of
+   this is reduced due to pre-image paging).
+
+Client/Server
+
+   When using the client/server (or Server edition) configuration of
+   Btrieve, processing of records is generally done on a Windows file
+   server via a mapped drive (a way of mapping a file share to a "virtual"
+   disk drive in Windows via the NET USE command). It utilises the
+   permissions that you are assigned when authenticating, either from when
+   logging on or via the permissions given for the NET USE is utilised.
+
+   On Windows 95 the MKDE interface (a Windows dynamic link library (DLL)
+   called WBTRV32.DLL) actually determines what database access method is
+   in use via the configuration file. If it detects that both the
+   client/server and workstation engines are installed on the one machine
+   it checks whether the target is set to workstation or server. If
+   running on Windows NT and the server process NTMKDE.EXE is running
+   along with the standalone workstation process W32MKDE.EXE it looks in
+   the registry to determine if the target is either server or
+   workstation. In both cases, if the MKDE interface is set to workstation
+   (the "Standalone workstation" configuration) it uses the MKDE
+   (W32MKDE.EXE) to directly access the file. If it is set to server then
+   the MKDE interface on the client uses a communications module (on
+   Windows 95 this is W32BTICM.DLL, on Windows NT this is NTBTICM.DLL)
+   that "talks" to the server. The server itself has its own matching
+   communications module (again either W32BTICM.DLL or NTBTICM.DLL) that
+   resides on the mapped drive. The server DLL then communicates with the
+   server MKDE (NTMKDE.EXE) which updates records, then sends a
+   confirmation that the operation succeeded back through the
+   communications module to the client.
+
+   The advantage of this system is that if a network connection failure
+   occurs the MKDE on the server will be able to detect this and recover
+   in a more graceful manner than the workstation configuration is able
+   to.
+
+Configuration
+
+   A configuration utility was included with Btrieve to alter MKDE
+   settings. The settings that could be changed were:
+     * File settings: this category contains settings related to files,
+       file handles, record locks, indexes, and log files. The number of
+       open files and logical file handles was set in here, as well as the
+       number of record locks per client; index balancing and an option to
+       create files in pre 6.x format are in this category. It also
+       controlled whether the Microkernel kept a log of operations
+       executed on selected files. In this section the method of file
+       sharing could be set to either MEFS or SEFS. The system transaction
+       hold limit sets the number of system transactions performed during
+       write operations for shared files.
+     * Memory organisation: this category contained settings related to
+       the size of buffers the Microkernel needed to allocate for various
+       purposes.
+     * Client/System transactions: this category contains settings related
+       to transactions, including the number supported and how and when
+       they will be logged.
+     * System resources/directories: this category contains settings
+       related to the number of clients and threads supported as well as
+       the location of various system files.
+     * Trace operations: this category contains settings related to
+       tracing various Btrieve operations. Tracing is an advanced feature
+       used mainly for debugging purposes.
+
+Pervasive.SQL 7
+
+   Pervasive SQL 7 was released in March, 1998, and included Scalable SQL
+   4 and Btrieve 7.0. Btrieve 7.0 ran on the same platforms as Btrieve
+   6.x: Windows 95, Windows NT 3.51 & 4, Netware and DOS. However, the
+   company changed to a component-based architecture called
+   SmartComponents to resolve compatibility issues with upgrades. This
+   used a component identification scheme both embedded into the file and
+   encoded into the file name, along with dynamic binding of "glue files"
+   (DLLs loaded into memory only when needed). The dynamic binding of
+   components was done using a new "Abstract OS Services DLL" that looked
+   for the latest version of the appropriate needed component via the file
+   name encoding. This "glue module" is then loaded into memory and used.
+   The old log file format of Btrieve 6.x was also replaced with a new
+   centralised log called PVSW.LOG and that had a unified and enhanced log
+   file format. They also improved their error messages and error message
+   reporting mechanisms.
+
+   The MKDE was retained in Pervasive.SQL 7 however, due to the new
+   component architecture's dynamic binding, the internal architecture was
+   modified. The application using Btrieve calls a services manager which
+   then searches through various configured directories for specific
+   encoded filename. The file name loaded for Btrieve files in Backus-Naur
+   form is:
+<filename> ::= <platform-code> "BIF" <major-functional-level> <minor-functional-
+level>
+<platform-code> ::= "W1" | "W2" | "W3" | "W9" | "WT" | "NW" | "O3"
+<major-functional-level> ::= <number>
+<minor-functional-level> ::= <number> <number>
+<number> ::= "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
+
+   CAPTION: Embedded filename platform codes
+
+   Platform code                      Platform
+   W1            Windows 3.1x, incl. Windows for Workgroups (Win16)
+   W2            Extended Windows (32-bit Watcom Extender)
+   W3            Windows 95, Windows NT (Win32)
+   W9            Windows 95
+   WT            Windows NT
+   NW            Netware 3.x and 4.x
+   O3            OS/2 (32-bit)
+
+   The "glue" module, which is a DLL, is loaded into memory and becomes
+   the interface to the MKDE. The MKDE then determines whether it is
+   configured to be a workstation based configuration or a server based
+   configuration. It then passes requests via its communications
+   "requester" module onto the database server, or directly modifies the
+   database files if configured in workstation mode.
+
+Pervasive.SQL 2000/2000i
+
+   Pervasive.SQL 2000 and Pervasive.SQL 2000i uses essentially the same
+   architecture as Pervasive.SQL 7, though 2000i includes i*Net server. It
+   uses the same component model, has the ability to use the Btrieve or
+   Scalable SQL engines and continues using an MKDE. In this version for
+   Red Hat Linux, Caldera OpenLinux, SUSE and Solaris was developed. It
+   also had better integration with Terminal Services, though only one
+   instance of the database engine may run on any terminal server
+   platform. You cannot run separate copies of the database engine within
+   two or more terminal sessions.
+
+Pervasive.SQL V8
+
+   Introduced in December 2002, Pervasive.SQL V8 improves the performance
+   of both Btrieve and SQL applications using a number of new
+   technologies.
+     * Client side caching greatly improves read performance by
+       maintaining a portion of the database's contents on the local PC.
+     * Turbo Write Acceleration (TWA) groups disk writes into groups,
+       minimizing interactions with disk.
+     * Transaction Logging provides a slightly less failure protection
+       than transaction durability, but improves overall performance.
+
+   The V8 Security Feature Pack (a mid-release product update designated
+   8.5) added important new security features designed to lock down
+   Pervasive.SQL data files. Prior to 8.5, access to Btrieve data was
+   controlled by the operating system's security mechanism. This meant
+   that any user who needed read/write access to the database, also needed
+   read/write access to the underlying data files. 8.5 introduced new
+   security models, which allow administrators to control access to the
+   Btrieve data using database security. Once activated, database security
+   no longer requires that the user has access to the underlying files. In
+   addition, client/server configurations no longer require the use of
+   network shares or mapped drives. Applications can reference secure
+   Btrieve data using a URI connection string.
+
+Pervasive PSQL v9
+
+   The current version of PSQL includes new Java GUIs, built on the
+   Eclipse framework. These GUIs are available for both Microsoft Windows
+   and Linux. In addition, v9 included many SQL performance and syntax
+   updates, improving both the speed and flexibility of all of the SQL
+   interfaces - ADO.Net, JDBC, ODBC, and OLE DB. Finally, PSQL v9 expanded
+   the Btrieve maximum file size to 128 GB.
+
+   In conjunction with PSQL v9 Pervasive reintroduced the DDF Builder
+   utility and added support for text searching with the Full Text Search
+   (FTS) add-on. DDF Builder provides a mechanism for Btrieve users to
+   define the meta data for existing Btrieve files, thus allowing Btrieve
+   data to be accessible via SQL tools and utilities.
+
+   All versions of the MKDE retain full backward compatibility with
+   earlier versions of Btrieve, including those that pre-date introduction
+   of the MKDE itself, and do not change the file's version unless
+   specifically requested to do so.
+
+Pervasive PSQL Ecosystem
+
+   Pervasive now offers a number of add-on products which extend the basic
+   features of the PSQL DBMS.
+     * Pervasive AuditMaster provides real-time auditing of all database
+       interactions, whether Btrieve or SQL. Logs of data events can be
+       queried to track changes to sensitive data. Alerts can also be
+       created to notify the appropriate personnel or launch the
+       associated process.
+     * Pervasive Backup Agent manages PSQL's continuous operations mode
+       and allows backup software to reliably copy online databases.
+     * Pervasive DataExchange provides data synchronization and
+       replication between two or more PSQL engines, ensuring that
+       critical data is always available.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Btrieve"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

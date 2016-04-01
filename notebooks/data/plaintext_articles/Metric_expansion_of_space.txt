@@ -1,0 +1,379 @@
+   #copyright
+
+Metric expansion of space
+
+2007 Schools Wikipedia Selection. Related subjects: Space (Astronomy)
+
+          Physical cosmology
+
+     * Age of the universe
+     * Big Bang
+     * Comoving distance
+     * Cosmic microwave background
+     * Dark energy
+     * Dark matter
+     * FLRW metric
+     * Friedmann equations
+     * Galaxy formation
+     * Hubble's law
+     * Inflation
+     * Large-scale structure
+     * Lambda-CDM model
+     * Metric expansion of space
+     * Nucleosynthesis
+     * Observable universe
+     * Redshift
+     * Shape of the universe
+     * Structure formation
+     * Timeline of the Big Bang
+     * Timeline of cosmology
+     * Ultimate fate of the universe
+     * Universe
+
+            Related topics
+     * Astrophysics
+     * General relativity
+     * Particle physics
+     * Quantum gravity
+
+
+   The metric expansion of space is a key part of science's current
+   understanding of the universe, whereby spacetime itself is described by
+   a metric which changes over time in such a way that the spatial
+   dimensions appear to grow or stretch as the universe gets older. It
+   explains how the universe expands in the Big Bang model, a feature of
+   our universe supported by all cosmological experiments, astrophysics
+   calculations, and measurements to date.
+
+   The expansion of space is conceptually different from other kinds of
+   expansions and explosions that are seen in nature. Our understanding of
+   the "fabric of the universe" ( spacetime) requires that what we see
+   normally as "space", "time", and " distance" are not absolutes, but are
+   determined by a metric that can change. In the metric expansion of
+   space, rather than objects in a fixed "space" moving apart into
+   "emptiness", it is the space that contains the objects which is itself
+   changing. It is as if without objects themselves moving, space is
+   somehow "growing" in between them.
+
+   Because it is the metric defining distance that is changing rather than
+   objects moving in space, this expansion (and the resultant movement
+   apart of objects) is not restricted by the speed of light upper bound
+   that results from special relativity.
+
+   Theory and observations suggest that very early in the history of the
+   universe, there was an "inflationary" phase where this metric changed
+   very rapidly, and that the remaining time-dependence of this metric is
+   what we observe as the so-called Hubble expansion, the moving apart of
+   all gravitationally unbound objects in the universe. The expanding
+   universe is therefore a fundamental feature of the universe we
+   inhabit—a universe fundamentally different from the static universe
+   Albert Einstein first considered when he developed his gravitational
+   theory.
+
+Overview
+
+   A metric defines how a distance can be measured between two nearby
+   points in space, in terms of the coordinates of those points. A
+   coordinate system locates points in an space (of whatever number of
+   dimensions) by assigning unique numbers known as coordinates, to each
+   point. The metric is then a formula which converts coordinates of two
+   points into distances.
+
+   For example, consider the surface of the Earth. This is a simple,
+   familiar example of a non-Euclidean geometry. Because the surface of
+   the Earth is two-dimensional, points on the surface of the earth can be
+   specified by two coordinates - for example, the latitude, and
+   longitude. Specification of a metric requires that one first specify
+   the coordinates used. In our simple example of the surface of the
+   Earth, we could chose any kind of coordinate system we wish, for
+   example latitude and longitude, or X-Y-Z Cartesian coordinates. We then
+   choose a metric which will be used to calculate the distance between
+   nearby points in terms of the difference in the coordinates between
+   them. In principle we can choose any one of a multitude of metrics, but
+   in practice we choose a metric that seems to fit our purposes best. For
+   example, local mapmaking often ignores curvature, whereas airline
+   flights and distances are based upon a Great Circle. Since the Earth is
+   not flat, the "distance" between two points (such as London and New
+   York may differs depending on how it is to be measured (ie, the metric
+   which is to be utilized). In measuring small distances on Earth, there
+   is in theory always an effect due to curvature, but in practice the the
+   Earth's curvature is so small as to be almost unnoticable for short
+   distances.
+
+   The metric of space appears from current observations to be Euclidean,
+   on a large scale. The same cannot be said for the metric of space-time,
+   however. On the surface of the Earth, we specified points by giving two
+   coordinates. Because space-time is four dimensional, we must specify
+   points in space-time by giving four coordinates. The most convenient
+   coordinates to use for cosmology are called comoving coordinates.
+   Because space appears to be Euclidean, on a large scale, one can
+   specify the spatial coordinates in terms of x,y, and z coordinates,
+   though other choices such as spherical coordinates are also commonly
+   used. The fourth required coordinate is time, which is specified in
+   comoving coordinates as cosmological time. The non-Euclidean nature of
+   space-time manifests itself by the fact that the distance between
+   points with constant coordinates grows with time, rather than remaining
+   constant.
+
+   Technically, the metric expansion of space is a feature of many
+   solutions to the Einstein field equations of general relativity. In
+   particular, if the cosmological principle is assumed with a
+   time-varying universe the simplest solution allows for the distances in
+   space to change with an evolving scale factor. This theoretical
+   explanation provides a clean explanation of the observed Hubble's law
+   which indicates that galaxies that are more distant from us appear to
+   be receding faster than galaxies that are closer to us. In spaces that
+   expand, the metric changes with time in a way that causes distances to
+   appear larger at later times, so in our Big Bang universe, we observe
+   phenomena associated with metric expansion of space. If we lived in a
+   space that contracted (a Big Crunch universe) we would observe
+   phenomena associated with a metric contraction of space instead.
+
+   The first general relativistic models predicted that a universe which
+   was dynamical and contained ordinary gravitational matter would
+   contract rather than expand. Einstein's first proposal for a solution
+   to this problem involved adding a cosmological constant into his
+   theories to balance out the contraction, in order to obtain a static
+   universe solution. It wasn't until the observations of Edwin Hubble in
+   1929 confirmed that distant galaxies were all apparently moving away
+   from us that scientists accepted that the universe was expanding. Until
+   the theoretical developments in the 1980s no one had an explanation for
+   why this was the case, but with the development of models of cosmic
+   inflation, the expansion of the universe became a general feature
+   resulting from vacuum decay. Accordingly, the question "why is the
+   universe expanding?" is now answered by understanding the details of
+   the inflation decay process which occurred in the first 10^-32 seconds
+   of the existence of our universe. It is suggested that in this time the
+   metric grew exponentially, causing space to change from smaller than an
+   atom to around 100 million light years across.
+   The expansion of the universe proceeds in all directions as determined
+   by the Hubble constant today. However, the Hubble constant can change
+   in the past and in the future dependent on the observed value of
+   density parameters (Ω). Before the discovery of dark energy, it was
+   believed that the universe was matter dominated and so Ω on this graph
+   corresponds to the ratio of the matter density to the critical density
+   (Ωm).
+   Enlarge
+   The expansion of the universe proceeds in all directions as determined
+   by the Hubble constant today. However, the Hubble constant can change
+   in the past and in the future dependent on the observed value of
+   density parameters (Ω). Before the discovery of dark energy, it was
+   believed that the universe was matter dominated and so Ω on this graph
+   corresponds to the ratio of the matter density to the critical density
+   (Ω[m]).
+
+Measuring distances
+
+   In expanding space, distance is a dynamical quantity which changes with
+   time. There are several different ways of defining distance in
+   cosmology, known as distance measures, but the most common is comoving
+   distance.
+
+   The metric only defines the distance between nearby points. In order to
+   define the distance between arbitrarily distant points, one must
+   specify both the points and a specific curve connecting them. The
+   distance between the points can then be found by finding the length of
+   this connecting curve. Comoving distance defines this connecting curve
+   to be a curve of constant cosmological time. Operationally, comoving
+   distances cannot be directly measured by a single Earth-bound observer.
+   To determine the distance of distant objects, astronomers generally
+   measure luminosity of standard candles, or the redshift factor 'z' of
+   distant galaxies, and then convert these measurements into distances
+   based on some particular model of space-time, such as the Lambda-CDM
+   model.
+
+Observational evidence
+
+   It was not until the year 2000 that scientists finally had all the
+   pieces of direct observational evidence necessary to confirm the metric
+   expansion of the universe. However, before this evidence was
+   discovered, theoretical cosmologists considered the metric expansion of
+   space to be a likely feature of the universe based on what they
+   considered to be a small number of reasonable assumptions in modeling
+   the universe. Chief among these were:
+     * the Cosmological Principle which demands that the universe looks
+       the same way in all directions ( isotropic) and has roughly the
+       same smooth mixture of material ( homogeneous).
+     * the Copernican Principle which demands that no place in the
+       universe is preferred (that is, the universe has no "starting
+       point").
+
+   To varying degrees, observational cosmologists have discovered evidence
+   supporting these assumptions in addition to direct observations of
+   space expanding. Today, metric expansion of space is considered by
+   cosmologists to be an observed feature on the basis that although we
+   cannot see it directly, the properties of the universe which scientists
+   have tested and which can be observed provide compelling confirmation.
+   Sources of confirmation include:
+   Edwin Hubble presented the first observational evidence of an expanding
+   universe.
+   Enlarge
+   Edwin Hubble presented the first observational evidence of an expanding
+   universe.
+     * Edwin Hubble demonstrated that all galaxies and distant
+       astronomical objects were moving away from us ("Hubble's law") as
+       predicted by a universal expansion. Using the redshift of their
+       electromagnetic spectra to determine the distance and speed of
+       remote objects in space, he showed that all objects are moving away
+       from us, and that their speed is proportional to their distance, a
+       feature of metric expansion. Further studies have since shown the
+       expansion to be extremely isotropic and homogenous, that is, it
+       does not seem to have a special point as a "centre", but appears
+       universal and independent of any fixed central point.
+     * In studies of large-scale structure of the cosmos taken from
+       redshift surveys a so-called " End of Greatness" was discovered at
+       the largest scales of the universe. Until these scales were
+       surveyed, the universe appeared "lumpy" with clumps of galaxy
+       clusters and superclusters and filaments which were anything but
+       isotropic and homogeneous. This lumpiness disappears into a smooth
+       distribution of galaxies at the largest scales in much the same way
+       a Jackson Pollock painting looks lumpy close-up, but more regular
+       as a whole.
+     * the isotropic distribution across the sky of distant gamma-ray
+       bursts and supernovae is another confirmation of the Cosmological
+       Principle.
+     * The Copernican Principle was not truly tested on a cosmological
+       scale until measurements of the effects of the cosmic microwave
+       background radiation in the dynamics of distant astrophysical
+       systems. As reported by a group of astronomers at the European
+       Southern Observatory, the radiation that pervades the universe is
+       demonstrably warmer at earlier times. Uniform cooling of the cosmic
+       microwave background over billions of years is explainable only if
+       the universe is experiencing a metric expansion.
+
+   Taken together, the only theory which coherently explains these
+   phenomena relies on space expanding through a change in metric.
+   Interestingly, it was not until the discovery in the year 2000 of
+   direct observational evidence for the changing temperature of the
+   cosmic microwave background that more bizarre constructions could be
+   ruled out. Until that time, it was based purely on an assumption that
+   the universe did not behave as one with the Milky Way sitting at the
+   middle of a fixed-metric with a universal explosion of galaxies in all
+   directions (as seen in, for example, an early model proposed by Milne).
+
+   Additionally, scientists are confident that the theories which rely on
+   the metric expansion of space are correct because they have passed the
+   rigorous standards of the scientific method. In particular, when
+   physics calculations are performed based upon the current theories
+   (including metric expansion), they appear to give results and
+   predictions which, in general, agree extremely closely with both
+   astrophysical and particle physics observations. The spatial and
+   temporal universality of physical laws was until very recently taken as
+   a fundamental philosophical assumption that is now tested to the
+   observational limits of time and space. This evidence is taken very
+   seriously because the level of detail and the sheer quantity of
+   measurements which the theories predict can be shown to precisely and
+   accurately match visible reality. The level of precision is difficult
+   to quantify, but is on the order of the precision seen in the physical
+   constants that govern the physics of the universe.
+
+Model analogies
+
+   Because metric expansion is not seen on the physical scale of humans,
+   the concept may be difficult to grasp. Three analogies, the
+   ant-on-a-balloon analogy, the expanding rubber sheet analogy, and the
+   raisin bread analogy, have been developed to aid in conceptual
+   understanding. Each analogy has its conceptual benefits and drawbacks.
+
+Ant on a balloon model
+
+   The ant on a balloon model is a two-dimensional analog for
+   three-dimensional metric expansion. An ant is imagined to be
+   constrained to move on the surface of a huge balloon which to the ant's
+   understanding is the total extent of space (see article on Flatland for
+   more consequences of a two-dimensional constraint). At an early stage
+   of the balloon-universe, the ant measures distances between separate
+   points on the balloon which serves as a standard by which the scale
+   factor can be measured. The balloon is inflated some more, and then the
+   distance between the same points is measured and determined to be
+   larger by a proportional factor. The surface of the balloon still
+   appears flat, and yet all the points have appeared to recede from the
+   ant, indeed every point on the surface of the balloon is proportionally
+   farther from the ant than earlier in the life of the balloon universe.
+   This explains how an expanding universe can result in all points
+   receding from each other simultaneously. No points are seen to get
+   closer together.
+
+   In the limit where the ant is tiny and the balloon is enormous, the ant
+   also cannot detect any curvature associated with the geometry of the
+   surface (which is roughly an elliptical geometry for the outside
+   surface of a curving balloon). To the ant, the balloon appears to be a
+   plane extending out in all directions. This mimics the so-called "
+   flatness" seen in our own observable universe which appears even at the
+   largest scale to follow the geometrical laws associated with flat
+   geometry. Like the ant on an enormous balloon, while we may be unable
+   to detect curvature, on larger, unobservable scales there may be
+   residual curvature. The shape of the universe we observe is driven to
+   be flat no matter what starting conditions the universe had by the same
+   cosmic inflation which caused the universe to begin expanding in the
+   first place.
+
+   In the analogy, the two dimensions of the balloon do not expand "into"
+   anything since the surface of the balloon admits infinite paths in all
+   directions at all times. There is some possibility for confusion in
+   this analogy since the balloon can be seen by an external observer to
+   be expanding "into" the third dimension (in the radial direction), but
+   this is not a feature of metric expansion, rather it is the result of
+   the arbitrary choice of the balloon which happens to be a manifold
+   embedded in a third dimension. This third dimension is not
+   mathematically necessary for two-dimensional metric expansion to occur,
+   and the ant that is confined to the surface of the balloon has no way
+   of determining whether a third dimension exists or not. It may be
+   useful to visualize a third dimension, but the fact of expansion does
+   not theoretically require such a dimension to exist. This is why the
+   question "what is the universe expanding into?" is poorly phrased.
+   Metric expansion does not have to proceed "into" anything. The universe
+   that we inhabit does expand and distances get larger, but that does not
+   mean that there is a larger space into which it is expanding.
+
+Expanding rubber sheet model
+
+   Similar to the ant on a balloon model, the expanding rubber sheet
+   universe (ERSU) is given as a model that represents the expansion by
+   ignoring the third dimension. Instead of relying on a balloon expanding
+   into three dimensions, the ERSU model describes an infinite rubber
+   sheet that is stretched in both directions. Heavy objects placed on the
+   sheet create dips and dents of local curvature in much the same way
+   massive galaxies curve spacetime in the gravitational wells of our
+   universe. These objects all appear to be receding from each other
+   unless they get caught in each other's gravitational wells (a process
+   called virialization). The infinite rubber sheet stays infinite and two
+   dimensional, but distances between points on the sheet steadily
+   increase with the expansion. This model has the advantage over the
+   balloon model of a macroscopically two-dimensional flat geometry which
+   corresponds well to the measured three-dimensional (lack of) curvature
+   in our observable universe.
+
+Raisin bread model
+
+   Animation of an expanding raisin bread model. As the bread doubles in
+   size, the distances between raisins also double.
+   Enlarge
+   Animation of an expanding raisin bread model. As the bread doubles in
+   size, the distances between raisins also double.
+
+   The raisin bread model imagines galaxies as raisins in a raisin bread
+   dough that will "rise" or "expand" when cooked. As the expansion
+   occurs, each of the raisins gets farther from each of the other raisins
+   while the raisins themselves stay the same size. The dough between
+   raisins in this model acts as the space between galaxies while the
+   raisins as "bound objects" are not subject to the expansion. This model
+   is useful for explaining how it is that a standard ruler can be
+   determined for measuring the expansion. In an empty universe, space
+   serves as the only ruler and as rulers expand with space, there would
+   be no way to distinguish between an expanding universe and a static
+   universe. Only in a universe where there are objects which are bound
+   and do not expand so that the rulers are independent of the expansion
+   can the metric expansion be measured.
+
+   Like the ant on the balloon model, this model also suffers from the
+   problem that the raisin bread is expanding into the pan. To make the
+   analogy to the universe, it is necessary to imagine raisin bread that
+   has no observable edge. Expansion would still occur, but the question
+   "what is the raisin bread expanding into?" would be meaningless.
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Metric_expansion_of_space"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

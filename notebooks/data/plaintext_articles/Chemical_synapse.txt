@@ -1,0 +1,175 @@
+   #copyright
+
+Chemical synapse
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   Illustration of the major elements in a prototypical synapse. Synapses
+   allow nerve cells to communicate with one another through axons and
+   dendrites, converting electrical impulses into chemical signals.
+   Enlarge
+   Illustration of the major elements in a prototypical synapse. Synapses
+   allow nerve cells to communicate with one another through axons and
+   dendrites, converting electrical impulses into chemical signals.
+
+   Chemical synapses are specialized junctions through which cells of the
+   nervous system signal to one another and to non-neuronal cells such as
+   muscles or glands. A chemical synapse between a motor neuron and a
+   muscle cell is called a neuromuscular junction.
+
+   Chemical synapses allow the neurons of the central nervous system to
+   form interconnected neural circuits. They are thus crucial to the
+   biological computations that underlie perception and thought. They also
+   provide the means through which the nervous system connects to and
+   controls the other systems of the body.
+
+   The human brain contains a huge number of chemical synapses, with young
+   children having about 10^16 synapses (10,000 trillion.). This number
+   declines with age, stabilizing by adulthood. Estimates for an adult
+   vary from 10^15 to 5 × 10^15 synapses (1,000 to 5,000 trillion).
+
+   The word "synapse" comes from "synaptein" which Sir Charles Scott
+   Sherrington and his colleagues coined from the Greek "syn-" meaning
+   "together" and "haptein" meaning "to clasp". Chemical synapses are not
+   the only type of biological synapse: electrical and immunological
+   synapses exist as well. Without a qualifier, however, "synapse" by
+   itself most commonly refers to a chemical synapse.
+
+Anatomy
+
+   At a prototypical chemical synapse, such as those found at dendritic
+   spines, a mushroom-shaped bud projects from each of two cells and the
+   caps of these buds press flat against one another. At this interface,
+   the membranes of the two cells flank each other across a slender gap,
+   the narrowness of which enables signalling molecules known as
+   neurotransmitters to pass rapidly from one cell to the other by
+   diffusion. This gap, which is about 20 nm wide, is known as the
+   synaptic cleft.
+
+   Such synapses are asymmetric both in structure and in how they operate.
+   Only the so-called pre-synaptic neuron secretes the neurotransmitter,
+   which binds to receptors facing into the synapse from the post-synaptic
+   cell. The pre-synaptic nerve terminal (also called the synaptic button
+   or bouton) generally buds from the tip of an axon, while the
+   post-synaptic target surface typically appears on a dendrite, a cell
+   body, or another part of a cell. The parts of synapses where
+   neurotransmitter is released are called the active zones. At active
+   zones the membranes of the two adjacent cells are held in close contact
+   by cell adhesion proteins. Immediately behind the post-synaptic
+   membrane is an elaborate complex of interlinked proteins called the
+   postsynaptic density. Proteins in the postsynaptic density serve a
+   myriad of roles, from anchoring and trafficking neurotransmitter
+   receptors into the plasma membrane, to anchoring various proteins which
+   modulate the activity of the receptors. The postsynaptic cell need not
+   be a neuron, and can also be gland or muscle cells.
+
+Signaling across chemical synapses
+
+   The release of neurotransmitter is triggered by the arrival of a nerve
+   impulse (or action potential) and occurs through an unusually rapid
+   process of cellular secretion, also known as exocytosis: Within the
+   pre-synaptic nerve terminal, vesicles containing neurotransmitter sit
+   "docked" and ready at the synaptic membrane. The arriving action
+   potential produces an influx of calcium ions through voltage-dependent,
+   calcium-selective ion channels. Calcium ions then trigger a biochemical
+   cascade which results in vesicles fusing with the presynaptic-membrane
+   and releasing their contents to the synaptic cleft. Vesicle fusion is
+   driven by the action of a set of proteins in the presynaptic terminal
+   known as SNAREs. The membrane added by this fusion is later retrieved
+   by endocytosis and recycled for the formation of fresh
+   neurotransmitter-filled vesicles. Receptors on the opposite side of the
+   synaptic gap bind neurotransmitter molecules and respond by opening
+   nearby ion channels in the post-synaptic cell membrane, causing ions to
+   rush in or out and changing the local transmembrane potential of the
+   cell. The resulting change in voltage is called a postsynaptic
+   potential. In general, the result is excitatory, in the case of
+   depolarizing currents, or inhibitory in the case of hyperpolarizing
+   currents. Whether a synapse is excitatory or inhibitory depends on what
+   type(s) of ion channel conduct the post-synaptic current display(s),
+   which in turn is a function of the type of receptors and
+   neurotransmitter employed at the synapse.
+
+Modulation of synaptic transmission
+
+   Following fusion of the synaptic vesicles and release of transmitter
+   molecules into the synaptic cleft, the neurotransmitter is rapidly
+   cleared from the space for recycling by specialized membrane proteins
+   in the pre-synaptic or post-synaptic membrane. This " re-uptake"
+   prevents " desensitization" of the post-synaptic receptors and ensures
+   that succeeding action potentials will elicit the same size
+   post-synaptic potential ("PSP"). The necessity of re-uptake and the
+   phenomenon of desensitization in receptors and ion channels means that
+   the strength of a synapse may in effect diminish as a train of action
+   potentials arrive in rapid succession--a phenomenon that gives rise to
+   the so-called frequency dependence of synapses. The nervous system
+   exploits this property for computational purposes, and can tune its
+   synapses through such means as phosphorylation of the proteins
+   involved. The size, number and replenishment rate of vesicles also are
+   subject to regulation, as are many other elements of synaptic
+   transmission. For example, a class of drugs known as selective
+   serotonin re-uptake inhibitors or SSRIs affect certain synapses by
+   inhibiting the re-uptake of the neurotransmitter serotonin. In
+   contrast, one important excitatory neurotransmitter, acetylcholine,
+   does not undergo re-uptake, but instead is removed from the synapse by
+   the action of the enzyme acetylcholinesterase.
+
+Integration of synaptic inputs
+
+   Generally, if an excitatory synapse is strong, an action potential in
+   the pre-synaptic neuron will trigger another in the post-synaptic cell;
+   whereas at a weak synapse the excitatory post-synaptic potential
+   ("EPSP") will not reach the threshold for action potential initiation.
+   In the brain, however, each neuron typically forms synapses with many
+   others, and likewise each receives synaptic inputs from many others.
+   When action potentials fire simultaneously in several neurons that
+   weakly synapse on a single cell, they may initiate an impulse in that
+   cell even though the synapses are weak. This process is known as
+   summation. On the other hand, a pre-synaptic neuron releasing an
+   inhibitory neurotransmitter such as GABA can cause inhibitory
+   postsynaptic potential in the post-synaptic neuron, decreasing its
+   excitability and therefore decreasing the neuron's likelihood to fire
+   an action potential. In this way the output of a neuron may depend on
+   the input of many others, each of which may have a different degree of
+   influence, depending on the strength of its synapse with that neuron.
+   John Carew Eccles performed some of the important early experiments on
+   synaptic integration, for which he received the Nobel Prize for
+   Physiology or Medicine in 1963. Complex input/output relationships form
+   the basis of transistor-based computations in computers, and are
+   thought to figure similarly in neural circuits.
+
+Synaptic strength
+
+   The strength of a synapse is defined by the change in transmembrane
+   potential resulting from activation of the postsynaptic
+   neurotransmitter receptors. This change in voltage is known as a
+   post-synaptic potential, and is a direct result of ionic currents
+   flowing through the post-synaptic receptor-channels. Changes in
+   synaptic strength can be short-term and without permanent structural
+   changes in the neurons themselves, lasting seconds to minutes - or
+   long-term ( long-term potentiation, or LTP), in which repeated or
+   continuous synaptic activation can result in second messenger molecules
+   initiating protein synthesis in the neuron's nucleus, resulting in
+   alteration of the structure of the synapse itself. Learning and memory
+   are believed to result from long-term changes in synaptic strength, via
+   a mechanism known as synaptic plasticity.
+
+Relationship to electrical synapses
+
+   An electrical synapse is a mechanical and electrically conductive link
+   between two abutting neurons that is formed at a narrow gap between the
+   pre- and postsynaptic cells known as a gap junction. At gap junctions,
+   cells approach within about 3.5 nm of each other (Kandel et al., 2000,
+   p. 179), a much shorter distance than the 20 to 40 nm distance that
+   separates cells at chemical synapses (Hormuzdi et al., 2004). As
+   opposed to chemical synapses, the postsynaptic potential in electrical
+   synapses is not caused by the opening of ion channels by chemical
+   transmitters, but by direct electrical coupling between both neurons.
+   Electrical synapses are therefore faster and more reliable than
+   chemical synapses. Electrical synapses are found throughout the nervous
+   system, yet are less common than chemical synapses.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Chemical_synapse"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

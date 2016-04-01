@@ -1,0 +1,239 @@
+   #copyright
+
+Prion
+
+2007 Schools Wikipedia Selection. Related subjects: Health and medicine
+
+   CAPTION: Prion Diseases (TSEs)
+   Classifications and external resources
+
+   ICD- 10 A81
+   ICD- 9  046
+
+   A prion ( IPA: [ˈpriːɒn] . listen ) — short for proteinaceous
+   infectious particle (by analogy to virion) — is a type of infectious
+   agent made only of protein. Prions are believed to infect and propagate
+   by refolding abnormally into a structure which is able to convert
+   normal molecules of the protein into the abnormally structured form,
+   and they are generally quite resistant to denaturation by protease,
+   heat, radiation, and formalin treatments, although potency or
+   infectivity can be reduced. The term does not, however, a priori
+   preclude other mechanisms of transmission.
+
+   Although genetic research may shed light on prions, and there is a
+   genetic component to many prion diseases, prion diseases are not
+   exclusively genetic diseases. Diseases as varied as fatal familial
+   insomnia and kuru (laughing death) are believed to be associated with
+   prions. Other prion diseases include scrapie (a disease of sheep),
+   chronic wasting disease, (in deer and elk), variant Creutzfeldt-Jakob
+   disease (vCJD), and bovine spongiform encephalopathy (BSE or mad cow
+   disease), all caused by similar proteins in different species. It
+   should be noted that the same gene is responsible for spongiform
+   encephalopathies which are not known to be transmissible, as well as
+   some non-neurological diseases. Some require a mutation for
+   transmission to occur, and there are respective mutations which can
+   prevent transmission for most of the TSEs. A non-disease function of
+   the prion gene is not known but is an area of considerable active
+   research.
+
+   All of these diseases affect the structure of the brain or other neural
+   tissue, and all are untreatable and fatal. However, a vaccine has been
+   developed in mice that may provide insight into providing a vaccine in
+   humans to resist prion infections. (see external links below, Science
+   Daily article on vaccine).
+
+   Proteins showing prion behaviour are also found in some fungi. Some
+   fungal prions may not be associated with any disease; it is unknown
+   whether these prions represent an evolutionary advantage for their
+   hosts. All known prions are believed to infect and propagate by
+   formation of an amyloid fold, in which the protein polymerizes into a
+   fibre with a core consisting of tightly packed beta sheets. Other
+   mechanisms may exist in yet undiscovered infectious protein particles.
+
+PrP and the prion hypothesis
+
+   Radiation biologist Tikvah Alper and physicist J.S. Griffith developed
+   the theory in the 1960s that some TSEs are caused by an infectious
+   agent made solely of protein. This theory was developed to explain the
+   discovery that the mysterious infectious agent causing the diseases
+   scrapie and Creutzfeldt-Jakob Disease, which resisted ultraviolet
+   radiation (which breaks down nucleic acids - present in viruses and all
+   living things), yet responded to agents that disrupt proteins.
+
+   A breakthrough occurred in 1982 when researchers led by Stanley B.
+   Prusiner of the University of California, San Francisco purified
+   infectious material and confirmed that the infectious agent consisted
+   mainly of a specific protein. Prusiner coined the word "prion" as a
+   name for the infectious agent, by combining the first two syllables of
+   the words "proteinaceous" and "infectious." While the infectious agent
+   was named a prion, the specific protein that the prion was made of was
+   named PrP, an abbreviation for "protease-resistant protein". Prusiner
+   received the Nobel Prize in Physiology or Medicine in 1997 for this
+   research.
+   Proposed mechanism of prion propagation
+   Enlarge
+   Proposed mechanism of prion propagation
+
+   Further research showed that prions are found throughout the body, even
+   in healthy people and animals. However, the prion found in infectious
+   material has a different structure and is resistant to proteases, the
+   enzymes in the body that can normally break down proteins. The normal
+   form of the protein is called PrP^C, while the infectious form is
+   called PrP^Sc— the 'C' refers to 'cellular' PrP, while the 'Sc' refers
+   to ' scrapie,' a prion disease occurring in sheep. Normal prion (Common
+   or cellular) is found on the membranes of cells, though its function
+   has not been fully resolved. Since the original hypothesis was
+   proposed, a gene for the normal protein has been isolated: the PRNP
+   gene.
+
+   Some prion diseases (TSEs) can be inherited, and in all inherited cases
+   there is a mutation in the Prnp gene. Many different Prnp mutations
+   have been identified and it is thought that the mutations somehow make
+   PrP^C more likely to spontaneously change into the PrP^Sc (disease)
+   form. TSEs are the only known diseases that can be sporadic, genetic,
+   or infectious; for more information see the article on TSEs.
+
+   Although the identity and general properties of prions are now
+   well-understood, the mechanism of prion infection and propagation
+   remains mysterious. It is often assumed that the diseased form directly
+   interacts with the normal form to make it rearrange its structure
+   (enlarge the diagram above for an illustration of this mechanism). One
+   idea, the "Protein X" hypothesis, is that an as-yet unidentified
+   cellular protein (Protein X) enables the conversion of PrP^C to PrP^Sc
+   by bringing a molecule of each of the two together into a complex.
+
+   Prior to Alper's insight, all known pathogens (bacteria, viruses, etc.)
+   contained nucleic acids that are necessary for reproduction. The prion
+   hypothesis was highly controversial, because it seemed to contradict
+   the so-called " central dogma of modern biology" that asserts all
+   living organisms use nucleic acids to reproduce. The "protein-only
+   hypothesis" — that a protein structure (which, unlike DNA, has no
+   obvious means of replication) could reproduce itself — was initially
+   met with skepticism. Scientists were skeptical of the idea that a
+   protein structure could reproduce itself without DNA. It does not
+   contradict the central role of DNA. The prion hypothesis proposes a
+   means of spreading the shape of a protein.
+
+Prions in yeast and other fungi
+
+   Prion-like proteins that behave in a similar way to PrP are found
+   naturally in some fungi and non-mammalian animals. A group at the
+   Whitehead Institute has argued that some of the fungal prions are not
+   associated with any disease state and may have a useful role, however,
+   researchers at the NIH have also provided strong arguments
+   demonstrating that fungal prions should be considered a diseased state.
+   Research into fungal prions has given strong support to the
+   protein-only hypothesis for mammalian prions, as it has been
+   demonstrated that seeds extracted from cells with the prion state, can
+   convert the normal form of the protein into the infectious form in
+   vitro, and in the process, preserve the information corresponding to
+   different strains of the prion state. It has also shed some light on
+   prion domains, which are regions in a protein that promote the
+   conversion. Fungal prions have helped to suggest mechanisms of
+   conversion that may apply to all prions.
+
+Molecular properties
+
+   A great deal of our knowledge of how prions work at a molecular level
+   comes from detailed biochemical analysis of yeast prion proteins. A
+   typical yeast prion protein contains a region ( protein domain) with
+   many repeats of the amino acids glutamine (Q) and asparagine (N); these
+   Q/N-rich domains form the core of the prion's structure. Ordinarily,
+   yeast prion domains are flexible and lack a defined structure. When
+   they convert to the prion state, several molecules of a particular
+   protein come together to form a highly structured amyloid fiber. The
+   end of the fiber acts as a template for the free protein molecules,
+   causing the fiber to grow. Small differences in the amino acid sequence
+   of prion-forming regions lead to distinct structural features on the
+   surface of prion fibers. As a result, only free protein molecules that
+   are identical in amino acid sequence to the prion protein can be
+   recruited into the growing fibre. This "specificity" phenomenon may
+   explain why transmission of prion diseases from one species to another,
+   such as from sheep to cows or from cows to humans is a rare event.
+   Molecular models of the structure of PrPC (left) and PrPSc (right)
+   Enlarge
+   Molecular models of the structure of PrP^C (left) and PrP^Sc (right)
+
+   The mammalian prion proteins do not resemble the prion proteins of
+   yeast in their amino acid sequence. Nonetheless, the basic structural
+   features (formation of amyloid fibers and a highly specific barrier to
+   transmission between species) are shared between mammalian and yeast
+   prions. The prion variant responsible for mad cow disease has the
+   remarkable ability to bypass the species barrier to transmission.
+
+   The figure at right shows a model of two conformations of prion; on the
+   left is the known, normal conformation of the structured C-terminal
+   region of PrP^C. (to explore/download see the RCSB Protein Databank).
+   The N-terminal region is not shown here for having a flexible structure
+   in aqueous solution. The structured domain shown is mainly made of
+   three spirals called alpha helices (pink), with two short 'flat'
+   regions of beta sheet (β sheet) structure (green). On the right is a
+   proposed model of how the abnormal prion might look. Although the exact
+   3D structure of PrP^Sc is not known, there is increased β sheet content
+   (green arrows) in the diseased form of the molecule. These β sheets are
+   thought to lead to amyloid aggregation.
+
+Dissent
+
+   Mark Purdy and Doctor David R. Brown have suggested that metal ion
+   interactions with prion protein might be relevant to progression of
+   prion-mediated disease. Purdy cites epidemiological studies of clusters
+   of prion disease in locales with low soil concentrations of copper as
+   evidence.
+
+   Brown's work explains how protein tissue can be incinerated and remain
+   "infectious", if that is the proper term for a theory that resembles
+   heavy metal poisoning. Brown, of Oxford, agrees that banning
+   cannibalism in cows was correct.
+
+Therapeutic strategies
+
+   Recently Japanese scientists at the Obihiro University of Agriculture
+   and Veterinary Medicine developed one of the first strategies to
+   delaying the onset of disease. They found that sulfated
+   glycosaminoglycans (GAGs) and sulfated glycans inhibit formation of
+   protease resistant protein in cells and prolong the incubation time of
+   scrapie-infected animals. Among the glycopyranosides and their polymers
+   examined, monomeric 4-sulfo-N-acetyl-glucosamine (4SGN), and two
+   glycopolymers, poly-4SGN and poly-6-sulfo-N-acetyl-glucosamine
+   (poly-6SGN), inhibited PrPSc formation with 50% effective doses below
+   20 microg/ml, and their inhibitory effect became more evident with
+   consecutive treatments. Structural comparisons suggested that a
+   combination of an N-acetyl group at C-2 and an M-sulfate group at
+   either O-4 or O-6 on glucopyranoside might be involved in the
+   inhibition of PrPSc formation. Furthermore, polymeric but not monomeric
+   6SGN inhibited PrPSc formation, suggesting the importance of a
+   polyvalent configuration in its effect. These results indicate that the
+   synthetic sulfated glycosides are useful not only for the analysis of
+   structure-activity relationship of GAGs but also for the development of
+   therapeutics for prion diseases.
+
+Prion Diseases
+
+   The following diseases are now believed to be caused by prions.
+     * In animals:
+
+          + Scrapie in sheep
+          + Bovine Spongiform Encephalopathy (BSE) in cows
+          + Transmissible mink encephalopathy (TME) in mink
+          + Chronic Wasting Disease (CWD) in elk and mule deer
+          + Feline spongiform encephalopathy in cats
+          + Exotic ungulate encephalopathy (EUE) in nyala, oryx and
+            greater kudu
+
+     * In humans:
+
+          + several varieties of Creutzfeldt-Jakob Disease (CJD), such as
+            Iatrogenic Creutzfeldt-Jakob disease, Variant
+            Creutzfeldt-Jakob disease, Familial Creutzfeldt-Jakob disease,
+            and Sporadic Creutzfeldt-Jakob disease
+          + Gerstmann-Sträussler-Scheinker syndrome (GSS)
+          + Fatal Familial Insomnia (FFI)
+          + Kuru
+          + Alpers Syndrome
+
+   Retrieved from " http://en.wikipedia.org/wiki/Prion"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

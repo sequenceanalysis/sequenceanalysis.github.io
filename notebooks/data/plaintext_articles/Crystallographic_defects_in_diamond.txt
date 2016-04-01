@@ -1,0 +1,241 @@
+   #copyright
+
+Crystallographic defects in diamond
+
+2007 Schools Wikipedia Selection. Related subjects: Materials science
+
+   Crystallographic defects in the crystal lattice of diamond are common;
+   they may be the result of extrinsic substitutional impurities, or
+   intrinsic (interstitial and structural) anomalies. All diamonds possess
+   crystal lattice defects of some sort; the defects themselves may be
+   either anthropogenic or natural, epigenetic or syngenetic. The material
+   properties of diamond are affected by these defects and determine to
+   which type a diamond is assigned; the most dramatic effects are on a
+   diamond's colour and semiconductivity, as explained by the band theory.
+
+   The defects can be detected by different types of spectroscopy,
+   including ESR, photoluminescence in ultraviolet light, and absorption
+   of infrared light. The resulting absorption spectrum can then be
+   analyzed, identified, and used to separate natural from synthetic or
+   enhanced diamonds.
+
+Extrinsic defects
+
+   Infrared spectrum of Type IaB diamond. (1) region of nitrogen
+   impurities absorption, (2) B2 peak, (3) self absorption of diamond
+   lattice, (4) hydrogen peaks
+   Enlarge
+   Infrared spectrum of Type IaB diamond. (1) region of nitrogen
+   impurities absorption, (2) B2 peak, (3) self absorption of diamond
+   lattice, (4) hydrogen peaks
+
+   The burning of diamonds in a vacuum and the analysis of resultant gases
+   and remnant matter has shown that diamonds can contain many elements
+   present as substitutional (i.e., replacing carbon atoms in the lattice)
+   impurities: nitrogen, boron, hydrogen, oxygen, sulfur, nickel, cobalt,
+   and iron have all been thus detected.
+
+Nitrogen
+
+   The most common impurity in diamond is nitrogen, which can comprise up
+   to 1 % of a diamond by mass. Nitrogen as a diamond impurity was first
+   identified in 1959 by Kaiser and Bond of Bell Telephone (Kaiser and
+   Bond 1959). Previously, all lattice defects in diamond were thought to
+   be the result of structural anomalies; later research revealed nitrogen
+   to be present in most diamonds and in many different configurations.
+
+   The light absorption and other material properties of diamond are
+   highly dependent upon nitrogen content and aggregation state. Although
+   all aggregate configurations cause absorption in the infrared and
+   ultraviolet, diamonds with high levels of nitrogen are usually
+   colorless. It is the interactions between different aggregate
+   configurations which cause colour rather than the aggregates themselves
+   (Anderson et. al. 1998, p. 215).
+
+Main nitrogenous defects
+
+   There are more than 50 forms of nitrogenous defects that occur in
+   diamonds, and the three main forms observed in visible and infrared
+   spectra are as follows:
+
+   C centre
+          C centre defects consist of single substitutional nitrogen atoms
+          in the diamond lattice that are spacially isolated. These are
+          easily seen in ESR spectra (in which they are called P1
+          centers). C form defects impart a deep yellow to brown colour;
+          these diamonds are classed Type Ib and are commonly known as
+          canary diamonds, which are rare in gem form. In most cases
+          synthetic diamonds contain a high level of nitrogen in the C
+          form because nitrogen from the atmosphere is difficult to
+          exclude from the synthesis process; as little as one nitrogen
+          atom per 100,000 carbon atoms will produce a deep yellow (Nassau
+          1980, p. 191). Because the nitrogen atoms have five available
+          electrons (one more than the carbon atoms they replace), they
+          act as deep donors; that is, each substituting nitrogen has an
+          extra electron to donate, thereby forming a donator energy level
+          within the band gap. Light with energy above ca. 2.5 eV and
+          above can excite the donor electrons into the conduction band,
+          thereby allowing light absorption (Nassau, p. 332).
+
+   A centre
+          The A center is probably the most common defect in natural
+          diamonds. The structure of this form remains a topic of debate:
+          first researchers supposed that it consisted of nitrogen, but
+          later the conclusion was reached that the A center was due to
+          microscopic platelets (now platelets connected with B2 peaks).
+          This theory remained for twenty years, until E. V. Sobolev
+          offered the theory of two nitrogen atoms (bonded strongly
+          together as a molecular pair) replacing carbon in the diamond
+          lattice. Recent research has shown the accuracy of this model.
+          The A centre does not cause discoloration on its own; these
+          diamonds are classed as Type IaA.
+
+   B1 centre
+          The structure of B1 defects is not yet clear. The most popular
+          explanation involves four nitrogen atoms surrounding a vacancy.
+          These diamonds are classed as Type IaB; most gem diamonds
+          contain a mixture of A center and B centre defects, together
+          with N3 centers, the combination producing the yellow-brown Cape
+          series. As with A center defects, B1 centre defects do not cause
+          discoloration by themselves (Anderson et. al., p. 215).
+
+Minor nitrogenous defects
+
+   N3 centre
+          The N3 centre consists of three nitrogen atoms surrounding a
+          vacancy in a flat configuration. It can occur along with other
+          aggregate forms, with which it produces strong
+          colors—particularly with A and B1 centers (Anderson et. al., p.
+          215). The N3 centre is paramagnetic so its structure is
+          well-developed by the ESR method. In ultraviolet fluorescence
+          spectra, this defect produces a characteristic absorption line
+          in the far violet at 415.5 nm, termed the N3 line (O'Donoghue
+          2002, p. 52). A closely related aggregate is the N2 centre,
+          which produces a line at 478 nm (Reinitz 2005).
+
+Boron
+
+   Diamonds containing boron as a substitutional impurity are termed Type
+   IIb. Only one percent of diamonds are of this type, and most are blue
+   to grey (O'Donoghue 2002, p. 52). The boron acts as an acceptor; that
+   is, because the substituting boron atoms have one less available
+   electron than the carbon atoms they replace, each boron atom creates an
+   electron hole in the band gap that can accept an electron from the
+   valence band. This allows red light absorption, and due to the small
+   energy (c. 0.4 eV) needed for the electron to leave the valence band,
+   holes are created in the latter even via thermal heat at room
+   temperatures. These holes can move in an electric field and render the
+   diamond electrically conductive (i.e., a p-type semiconductor). Very
+   little substitutional boron is required for this to happen—a typical
+   ratio is one boron atom per 1,000,000 carbon atoms (Nassau, p. 333).
+
+   Type IIb diamonds transmit in the ultraviolet down to c. 250 nm but do
+   not absorb in the visible region apart from the far red (hence the blue
+   colour); they may phosphoresce blue after exposure to shortwave
+   ultraviolet. Synthetic diamonds containing boron are blue and either
+   Type IIb or a mixture of IIb and IIa material (O'Donoghue 2002, p. 52,
+   46).
+
+Intrinsic defects
+
+   Every natural diamond crystal contains typical intrinsic or
+   self-defects: vacancies, dislocations, and interstitial atoms.
+
+Vacancies
+
+   A vacancy is an empty position in a diamond's lattice. Vacancies may be
+   affected or created by radiation damage—high-energy subatomic particles
+   knock carbon atoms out of the lattice. This may be the result of
+   natural or artificial radiation (see Diamond enhancement -
+   Irradiation). The vacancies interact with interstitial atoms ("extra"
+   atoms, most commonly nitrogen, which occupy space between carbon atoms
+   rather than substituting for them) and act as colour centers by
+   absorbing visible light, thus producing green or blue colors in Type I,
+   and brown colors in Type IIa diamond. Radiation-induced vacancies can
+   be detected by ultraviolet fluorescence, as well as by a characteristic
+   absorption line at 741.2 nm, termed the GR 1 (General Radiation) line.
+   This line is destroyed if the diamond is annealed above 400°C, after
+   which a number of additional lines (e.g. 575, 595, 503 [H3 center],
+   497, 1935 [H1c center], and 2924 [H1b centre] nm) are formed (Gemlab
+   2002b).
+
+   The annealing process (or the heat of the earth over geological
+   timescales) also allows carbon atoms neighboring a vacancy to jump into
+   a vacant place and leave an empty position in the diamond lattice; by
+   this process a vacancy can migrate through the diamond, and can form
+   compound defects with other vacancies, interstitial atoms (forming
+   Frenkel pairs), or nitrogenous defects (NV centers). The newly-formed
+   compound defects are optically active, producing strong yellows, pinks,
+   and reds, the precise colour dependent on the annealing time and type
+   of pre-existing defects present. Vacancies can also be created or
+   modified by HTHP treatment.
+
+Dislocations
+
+   The purest diamonds, which contain little if any extrinsic impurities
+   (Type IIa), may have their colour modified by structural dislocations
+   or plastic deformations, which are breaks in the translational symmetry
+   of the lattice. There are two important types of dislocations in
+   diamond: the glide set, in which bonds break between layers of atoms
+   with different indices (those not lying directly above each other); and
+   the shuffle set, in which the breaks occur between atoms of the same
+   index. The dislocations produce dangling bonds which introduce energy
+   levels into the band gap, enabling the absorption of light (Kolodzie
+   and Bleloch).
+
+   These defects are thus believed to cause brown, pink, or purple
+   coloration. Like boron-containing Type IIb diamonds, Type IIa diamonds
+   transmit in the ultraviolet down to 250 nm. If treated with high
+   temperatures and high pressures, the dislocations can be "healed" and
+   the colour removed (see next section).
+
+   B2 centre
+          Some diamonds contain platelets in the 100 plane visible by
+          microscope. This intriguing defect causes a sharp peak at 1600
+          cm^-1 in IR spectra.
+
+Effects of HTHP on defects
+
+   Experiments with synthetic and natural diamonds treated at high
+   temperatures (1700–2800°C) and high pressures (6–8 GPa; HTHP) have
+   shown that, with time, lattice defects can be altered or repaired. In
+   Type IIa diamonds with structural dislocations, a small number of NV
+   centers are created—as indicated by absorption peaks at 637 nm (NV^-),
+   575 (NV^0), and 3760 cm^-1—the lattice is realigned and ruptured bonds
+   repaired, and much of the original brown color is removed (O'Donoghue
+   and Joyner 2003, p. 35; Gemlab 2002a). Sometimes, a pink color is
+   induced instead; some are left with a yellowish cast due to the NV
+   centers. The occasional brown Type IIb diamonds subjected to HTHP will
+   turn pure blue due to their boron content. HTHP can also be used to
+   remove color from brown Type IaB diamonds colored by grainig planes
+   which contain amorphous carbon. No single nitrogen is introduced in
+   this case; however, N3 centers sometimes are, and impart a light
+   yellow-grey colour (Deljanin and Fritsch 2000).
+
+   Pale yellow Type IaA/B Cape series diamonds can have their A- and
+   B-centers converted (broken up) to C-centers via HTHP above 1960°C,
+   thereby creating intense canary-type colors in shades of yellow,
+   brownish-yellow, olive, or green. The strongest colors are produced at
+   the highest temperatures, which also produces tell-tale green
+   transmission fluorescence under visible and ultraviolet light (Gemlab
+   2002b). The green fluorescence is attributed to the H3 center (a
+   vacancy trapped at an A-center aggregate) and produces a line at 503
+   nm. Green HTHP-treated diamonds also exhibit a line at 985 (or 986) nm,
+   known as the H2 centre, that is also the result of a vacancy-nitrogen
+   aggregate complex (Reinitz 2005). The H1c and H1b centers common to
+   irradiated and annealed diamonds may also be present.
+
+   Diamonds with C form aggregates can be converted to the A form. This
+   process is called aggregation of nitrogen because nitrogen atoms tend
+   to assemble to the aggregate locations with lower energy. The next step
+   of this process is conversion of A form to B1 form of nitrogen with
+   attendant constitution of platelets (B2 centre). Possibly when most of
+   the nitrogen is in B1 form the platelets disintegrate with the
+   formation of micro-voids. Conversion of A form into B1 form takes place
+   at noticeably higher temperatures and/or longer treatment times.
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Crystallographic_defects_in_diamond"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

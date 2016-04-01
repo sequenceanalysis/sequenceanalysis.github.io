@@ -1,0 +1,596 @@
+   #copyright
+
+Enzyme kinetics
+
+2007 Schools Wikipedia Selection. Related subjects: General Chemistry
+
+   Dihydrofolate reductase from E. coli with its two substrates,
+   dihydrofolate (right) and NADPH (left), bound in the active site. The
+   protein is shown as a ribbon diagram, with alpha helices in red, beta
+   sheets in yellow and loops in blue. Generated from 7DFR.
+   Enlarge
+   Dihydrofolate reductase from E. coli with its two substrates,
+   dihydrofolate (right) and NADPH (left), bound in the active site. The
+   protein is shown as a ribbon diagram, with alpha helices in red, beta
+   sheets in yellow and loops in blue. Generated from 7DFR.
+
+   Enzyme kinetics is the study of the rates of chemical reactions that
+   are catalysed by enzymes. The study of an enzyme's kinetics provides
+   insights into the catalytic mechanism of this enzyme, its role in
+   metabolism, how its activity is controlled in the cell and how drugs
+   and poisons can inhibit its activity.
+
+   Enzymes are molecules that manipulate other molecules — the enzymes'
+   substrates. These target molecules bind to an enzyme's active site and
+   are transformed into products through a series of steps known as the
+   enzymatic mechanism. Some enzymes bind multiple substrates and/or
+   release multiple products, such as a protease cleaving one protein
+   substrate into two polypeptide products. Others join substrates
+   together, such as DNA polymerase linking a nucleotide to DNA. Although
+   these mechanisms are often a complex series of steps, there is
+   typically one rate-determining step that determines the overall
+   kinetics. This rate-determining step may be a chemical reaction or a
+   conformational change of the enzyme or substrates, such as those
+   involved in the release of product(s) from the enzyme.
+
+   Knowledge of the enzyme's structure is helpful in visualizing the
+   kinetic data. For example, the structure can suggest how substrates and
+   products bind during catalysis; what changes occur during the reaction;
+   and even the role of particular amino acid residues in the mechanism.
+   Some enzymes change shape significantly during the mechanism; in such
+   cases, it is helpful to determine the enzyme structure with and without
+   bound substrate analogs that do not undergo the enzymatic reaction.
+
+   Enzyme mechanisms can be divided into single-substrate and
+   multiple-substrate mechanisms. Kinetic studies on enzymes that only
+   bind one substrate, such as triosephosphate isomerase, aim to measure
+   the affinity with which the enzyme binds this substrate and the
+   turnover rate. When enzymes bind multiple substrates, such as
+   dihydrofolate reductase (shown right), enzyme kinetics can also show
+   the sequence in which these substrates bind and the sequence in which
+   products are released.
+
+   Not all biological catalysts are protein enzymes; RNA-based catalysts
+   such as ribozymes and ribosomes are essential to many cellular
+   functions, such as RNA splicing and translation. The main difference
+   between ribozymes and enzymes is that the RNA catalysts perform a more
+   limited set of reactions, although their reaction mechanisms and
+   kinetics can be analysed and classified by the same methods.
+
+General principles
+
+   The rate of reaction will increase as substrate concentration
+   increases, eventually becoming saturated at very high concentrations of
+   substrate.
+   Enlarge
+   The rate of reaction will increase as substrate concentration
+   increases, eventually becoming saturated at very high concentrations of
+   substrate.
+
+   The reaction catalysed by an enzyme uses exactly the same reactants and
+   produces exactly the same products as the uncatalysed reaction. Like
+   other catalysts, enzymes do not alter the position of equilibrium
+   between substrates and products. However, unlike normal chemical
+   reactions, enzymes are saturable. This means as more substrate is
+   added, the reaction rate will increase, because more active sites
+   become occupied. This can continue until all the enzyme becomes
+   saturated with substrate and the rate reaches a maximum.
+
+   The two most important kinetic properties of an enzyme are how quickly
+   the enzyme becomes saturated with a particular substrate, and the
+   maximum rate it can achieve. Knowing these properties suggests what an
+   enzyme might do in the environment of the cell and can show how the
+   enzyme will respond to changes in these conditions.
+
+Enzyme assays
+
+   Progress curve for an enzyme reaction. The slope in the initial rate
+   period represents the initial rate of reaction v. Equations such as the
+   Michaelis-Menten equation describe how this slope varies with the
+   substrate and enzyme concentrations.
+   Enlarge
+   Progress curve for an enzyme reaction. The slope in the initial rate
+   period represents the initial rate of reaction v. Equations such as the
+   Michaelis-Menten equation describe how this slope varies with the
+   substrate and enzyme concentrations.
+
+   Enzyme assays are laboratory procedures that measure the rate of enzyme
+   reactions. Because enzymes are not consumed by the reactions they
+   catalyse, enzyme assays usually follow changes in the concentration of
+   either substrates or products to measure the rate of reaction. There
+   are many methods of measurement. Spectrophotometric assays observe
+   change in the absorbance of light between products and reactants;
+   radiometric assays involve the incorporation or release of
+   radioactivity to measure the amount of product made over time.
+   Spectrophotometric assays are most convenient since they allow the rate
+   of the reaction to be measured continuously. Although radiometric
+   assays require the removal and counting of samples (i.e., they are
+   discontinuous assays) they are usually extremely sensitive and can
+   measure very low levels of enzyme activity. An analogous approach is to
+   use mass spectrometry to monitor the incorporation or release of stable
+   isotopes as substrate is converted into product.
+
+   The most sensitive enzyme assays use lasers focused through a
+   microscope to observe changes in single enzyme molecules as they
+   catalyse their reactions. These measurements either use changes in the
+   fluorescence of cofactors during an enzyme's reaction mechanism, or
+   fluorescent dyes added onto specific sites of the protein that report
+   movements that occur during catalysis. These studies are providing a
+   new view of the kinetics and dynamics of single molecules, as opposed
+   to traditional enzyme kinetics, which observes the average behaviour of
+   populations of millions of enzyme molecules.
+
+   On the left is shown a typical progress curve for an enzyme assay. The
+   enzyme produces product at a linear initial rate at the start of the
+   reaction. Later in this progress curve, the rate slows down as
+   substrate is used up or products accumulate. The length of the initial
+   rate period depends on the assay conditions and can range from
+   milliseconds to hours. Enzyme assays are usually set up to produce an
+   initial rate lasting over a minute, to make measurements easier.
+   However, equipment for rapidly mixing liquids allows fast kinetic
+   measurements on initial rates of less than one second. These very rapid
+   assays are essential for measuring pre-steady-state kinetics, which are
+   discussed below.
+
+   Most enzyme kinetics studies concentrate on this initial, linear part
+   of enzyme reactions. However, it is also possible to measure the
+   complete reaction curve and fit this data to a non-linear rate
+   equation. This way of measuring enzyme reactions is called
+   progress-curve analysis. This approach is useful as an alternative to
+   rapid kinetics when the initial rate is too fast to measure accurately.
+
+Single-substrate reactions
+
+   Enzymes with single-substrate mechanisms include isomerases such as
+   triosephosphateisomerase or bisphosphoglycerate mutase, intramolecular
+   lyases such as adenylate cyclase and the hammerhead ribozyme, a RNA
+   lyase. However, some enzymes that only have a single substrate do not
+   fall into this category of mechanisms. Catalase is an example of this,
+   as the enzyme reacts with a first molecule of hydrogen peroxide
+   substrate, becomes oxidised and is then reduced by a second molecule of
+   substrate. Although a single substrate is involved, the existence of a
+   modified enzyme intermediate means that the mechanism of catalase is
+   actually a ping–pong mechanism, a type of mechanism that is discussed
+   in the Multi-substrate reactions section below.
+
+Michaelis–Menten kinetics
+
+   Saturation curve for an enzyme showing the relation between the
+   concentration of substrate and rate.
+   Enlarge
+   Saturation curve for an enzyme showing the relation between the
+   concentration of substrate and rate.
+
+   As enzyme-catalysed reactions are saturable, their rate of catalysis
+   does not show a linear response to increasing substrate. If the initial
+   rate of the reaction is measured over a range of substrate
+   concentrations (denoted as [S]), the reaction rate (v) increases as [S]
+   increases, as shown on the left. However, as [S] gets higher, the
+   enzyme becomes saturated with substrate and the rate reaches V[max],
+   the enzyme's maximum rate.
+   Single-substrate mechanism for an enzyme reaction. k1, k-1 and k2 are
+   the rate constants for the individual steps.
+   Enlarge
+   Single-substrate mechanism for an enzyme reaction. k[1], k[-1] and k[2]
+   are the rate constants for the individual steps.
+
+   The Michaelis-Menten kinetic model of a single-substrate reaction is
+   shown on the right. There is an initial bimolecular reaction between
+   the enzyme E and substrate S to form the enzyme–substrate complex ES.
+   Although the enzymatic mechanism for the unimolecular reaction ES
+   \rightarrow E + P reaction can be quite complex, there is typically one
+   rate-determining enzymatic step that allows the mechanism to be modeled
+   as a single kinetic step of rate constant k[2].
+
+          \begin{matrix}v = k_2 [\mbox{ES}]\end{matrix}     (Equation 1).
+
+   k[2] is also called k[cat] or the turnover number, the maximum number
+   of enzymatic reactions catalyzed per second.
+
+   At low concentrations of substrate [S], the enzyme exists in an
+   equilibrium between both the free form E and the enzyme–substrate
+   complex ES; increasing [S] likewises increases [ES] at the expense of
+   [E], shifting the binding equilibrium to the right. Since the rate of
+   the reaction depends on the concentration [ES], the rate is sensitive
+   to small changes in [S]. However, at very high [S], the enzyme is
+   entirely saturated with substrate, and exists only in the ES form.
+   Under these conditions, the rate (v≈k[2][E][tot]=V[max]) is insensitive
+   to small changes in [S]; here, [E][tot] is the total enzyme
+   concentration
+
+          [\mbox{E}]_{tot} \ \stackrel{\mathrm{def}}{=}\ [\mbox{E}] +
+          [\mbox{ES}]
+
+   which is approximately equal to the concentration [ES] under saturating
+   conditions.
+
+   The Michaelis–Menten equation describes how the reaction rate v depends
+   on the position of the substrate-binding equilibrium and the rate
+   constant k[2]. Michaelis and Menten showed when k[2] is much less than
+   k[-1] (the equilibrium approximation) they could derive the following
+   equation:
+
+          v = \frac{V_{max}[\mbox{S}]}{K_m + [\mbox{S}]}     (Equation 2)
+
+   This Michaelis-Menten equation is the basis for most single-substrate
+   enzyme kinetics.
+
+   The Michaelis constant K[m] is defined as the concentration at which
+   the rate of the enzyme reaction is half V[max]. This may be verified by
+   substituting [S] = K[m] into the Michaelis-Menten equation. If the
+   rate-determining enzymatic step is slow compared to substrate
+   dissociation (k[2] << k[-1]), the Michaelis constant K[m] is roughly
+   the dissociation constant of the ES complex, although this situation is
+   relatively rare.
+
+   The more normal situation where k[2] > k[-1] is sometimes called
+   Briggs- Haldane kinetics. The Michaelis–Menten equation still holds
+   under these more general conditions, as may be derived from the
+   steady-state approximation. During the initial-rate period, the
+   reaction rate v is roughly constant, indicating that [ES] is similarly
+   constant (cf. equation 1):
+
+          \frac{d}{dt}[\mbox{ES}] = k_{1} [\mbox{E}][\mbox{S}] -
+          k_{2}[\mbox{ES}] - k_{-1}[\mbox{ES}] \approx 0
+
+   Therefore, the concentration [ES] is given by the formula
+
+          [\mbox{ES}] \approx \frac{[\mbox{E}]_{tot}
+          [\mbox{S}]}{[\mbox{S}] + K_{m}}
+
+   where the Michaelis constant K[m] is defined
+
+          K_{m} \ \stackrel{\mathrm{def}}{=}\ \frac{k_{2} + k_{-1}}{k_{1}}
+          \approx \frac{[\mbox{E}][\mbox{S}]}{[\mbox{ES}]}
+
+   ([E] is the concentration of free enzyme). Taken together, the general
+   formula for the reaction rate v is again the Michaelis-Menten equation:
+
+          v = k_{2} [\mathrm{ES}] = \frac{k_{2} [\mbox{E}]_{tot}
+          [\mbox{S}]}{[\mbox{S}] + K_{m}} = \frac{V_{max}
+          [\mbox{S}]}{[\mbox{S}] + K_{m}}
+
+   The specificity constant k[cat] / K[m] is a measure of how efficiently
+   an enzyme converts a substrate into product. Using the definition of
+   the Michaelis constant K[m], the Michaelis-Menten equation may be
+   written in the form
+
+          v = k_{2} [\mathrm{ES}] = \frac{k_{2}}{K_{m}} [\mbox{E}]
+          [\mbox{S}]
+
+   where [E] is the concentration of free enzyme. Thus, the specificity
+   constant is an effective bimolecular rate constant for free enzyme to
+   react with free substrate to form product. The specificity constant is
+   limited by the frequency with which the substrate and enzyme encounter
+   each other in solution, roughly 10^10 M^-1 s^-1 at 25°C. Remarkably,
+   this maximum does not depend on the size of either the substrate or the
+   enzyme. The ratio of the specificity constants for two substrates is a
+   quantitative comparison of how efficient the enzyme is in converting
+   those substrates. The slope of the Michaelis-Menten equation at low
+   substrate concentration [S] (when [S] << K[m]) also yields the
+   specificity constant.
+
+Linear plots of the Michaelis-Menten equation
+
+   Lineweaver–Burk or double-reciprocal plot of kinetic data, showing the
+   significance of the axis intercepts and gradient.
+   Enlarge
+   Lineweaver–Burk or double-reciprocal plot of kinetic data, showing the
+   significance of the axis intercepts and gradient.
+
+   Using an interactive Michaelis–Menten kinetics tutorial at the
+   University of Virginia, the effects on the behaviour of an enzyme of
+   varying kinetic constants can be explored.
+
+   The plot of v versus [S] above is not linear; although initially linear
+   at low [S], it bends over to saturate at high [S]. Before the modern
+   era of nonlinear curve-fitting on computers, this nonlinearity could
+   make it difficult to estimate K[m] and V[max] accurately. Therefore,
+   several researchers developed linearizations of the Michaelis-Menten
+   equation, such as the Lineweaver-Burk plot and the Eadie-Hofstee
+   diagram.
+
+   The Lineweaver-Burk plot or double reciprocal plot is common way of
+   illustrating kinetic data. This is produced by taking the reciprocal of
+   both sides of the Michaelis–Menten equation. As shown on the right,
+   this is a linear form of the Michaelis–Menten equation and produces a
+   straight line with the equation y = mx + c with a y-intercept
+   equivalent to 1/V[max] and an x-intercept of the graph representing
+   -1/K[m].
+
+          \frac{1}{v} = \frac{K_{m}}{V_{max} [\mbox{S}]} +
+          \frac{1}{V_{max}}
+
+   Naturally, no experimental values can be taken at negative 1/[S]; the
+   lower limiting value 1/[S] = 0 (the y-intercept) corresponds to an
+   infinite substrate concentration, where 1/v=1/V[max] as shown at the
+   right; thus, the x-intercept is an extrapolation of the experimental
+   data taken at positive concentrations. More generally, the
+   Lineweaver-Burk plot skews the importance of measurements taken at low
+   substrate concentrations and, thus, can yield inaccurate estimates of
+   V[max] and K[m]. A more accurate linear plotting method is the
+   Eadie-Hofstee plot although, in modern research, all such
+   linearizations have been superseded by more reliable nonlinear
+   regression methods.
+
+Practical significance of kinetic constants
+
+   The study of enzyme kinetics is important for two basic reasons.
+   Firstly, it helps explain how enzymes work, and secondly, it helps
+   predict how enzymes behave in living organisms. The kinetic constants
+   defined above, K[m] and V[max], are critical to attempts to understand
+   how enzymes work together to control metabolism.
+
+   Making these predictions is not trivial, even for simple systems. For
+   example, oxaloacetate is formed by malate dehydrogenase within the
+   mitochondrion. Oxaloacetate can then be consumed by citrate synthase,
+   phosphoenolpyruvate carboxykinase or aspartate aminotransferase,
+   feeding into the citric acid cycle, gluconeogenesis or aspartic acid
+   biosynthesis, respectively. Being able to predict how much oxaloacetate
+   goes into which pathway requires knowledge of the concentration of
+   oxaloacetate as well as the concentration and kinetics of each of these
+   enzymes. This aim of predicting the behaviour of metabolic pathways
+   reaches its most complex expression in the synthesis of huge amounts of
+   kinetic and gene expression data into mathematical models of entire
+   organisms. Although this goal is far in the future for any eukaryote,
+   attempts are now being made to achieve this in bacteria, with models of
+   Escherichia coli metabolism now being produced and tested.
+
+Multi-substrate reactions
+
+   Multi-substrate reactions follow complex rate equations that describe
+   how the substrates bind and in what sequence. The analysis of these
+   reactions is much simpler if the concentration of substrate A is kept
+   constant and substrate B varied. Under these conditions, the enzyme
+   behaves just like a single-substrate enzyme and a plot of v by [S]
+   gives apparent K[m] and V[max] constants for substrate B. If a set of
+   these measurements is performed at different fixed concentrations of A,
+   these data can be used to work out what the mechanism of the reaction
+   is. For an enzyme that takes two substrates A and B and turns them into
+   two products P and Q, there are two types of mechanism: ternary complex
+   and ping–pong.
+   Random-order ternary-complex mechanism for an enzyme reaction. The
+   reaction path is shown as a line and enzyme intermediates containing
+   substrates A and B or products P and Q are written below the line.
+   Enlarge
+   Random-order ternary-complex mechanism for an enzyme reaction. The
+   reaction path is shown as a line and enzyme intermediates containing
+   substrates A and B or products P and Q are written below the line.
+
+Ternary-complex mechanisms
+
+   In these enzymes, both substrates bind to the enzyme at the same time
+   to produce an EAB ternary complex. The order of binding can either be
+   random (in a random mechanism) or substrates have to bind in a
+   particular sequence (in an ordered mechanism). When a set of v by [S]
+   curves (fixed A, varying B) from an enzyme with a ternary-complex
+   mechanism are plotted in a Lineweaver–Burk plot, the set of lines
+   produced will intersect.
+
+   Enzymes with ternary-complex mechanisms include glutathione
+   S-transferase, dihydrofolate reductase and DNA polymerase. The
+   following links show short animations of the ternary-complex mechanisms
+   of the enzymes dihydrofolate reductase and DNA polymerase.
+
+Ping–pong mechanisms
+
+   Ping–pong mechanism for an enzyme reaction. Enzyme intermediates
+   contain substrates A and B or products P and Q.
+   Enlarge
+   Ping–pong mechanism for an enzyme reaction. Enzyme intermediates
+   contain substrates A and B or products P and Q.
+
+   As shown on the right, enzymes with a ping-pong mechanism can exist in
+   two states, E and a chemically modified form of the enzyme E*; this
+   modified enzyme is known as an intermediate. In such mechanisms,
+   substrate A binds, changes the enzyme to E* by, for example,
+   transferring a chemical group to the active site, and is then released.
+   Only after the first substrate is released can substrate B bind and
+   react with the modified enzyme, regenerating the unmodified E form.
+   When a set of v by [S] curves (fixed A, varying B) from an enzyme with
+   a ping–pong mechanism are plotted in a Lineweaver–Burk plot, a set of
+   parallel lines will be produced.
+
+   Enzymes with ping–pong mechanisms include some oxidoreductases such as
+   thioredoxin peroxidase and serine proteases such as trypsin and
+   chymotrypsin. Serine proteases are a very common and diverse family of
+   enzymes, including digestive enzymes (trypsin, chymotrypsin, and
+   elastase), several enzymes of the blood clotting cascade and many
+   others. In these serine proteases, the E* intermediate is an
+   acyl-enzyme species formed by the attack of an active site serine
+   residue on a peptide bond in a protein substrate. A short animation
+   showing the mechanism of chymotrypsin is linked here.
+
+Non-Michaelis–Menten kinetics
+
+   Saturation curve for an enzyme reaction showing sigmoid kinetics.
+   Enlarge
+   Saturation curve for an enzyme reaction showing sigmoid kinetics.
+
+   Some enzymes produce a sigmoid v by [S] plot, which often indicates
+   cooperative binding of substrate to the active site. This means that
+   the binding of one substrate molecule affects the binding of subsequent
+   substrate molecules. This behaviour is most common in multimeric
+   enzymes with several interacting active sites. Here, the mechanism of
+   cooperation is similar to that of haemoglobin, with binding of
+   substrate to one active site altering the affinity of the other active
+   sites for substrate molecules. Positive cooperativity occurs when
+   binding of the first substrate molecule increases the affinity of the
+   other active sites for substrate. Negative cooperativity occurs when
+   binding of the first substrate decreases the affinity of the enzyme for
+   other substrate molecules.
+
+   Allosteric enzymes include mammalian tyrosyl tRNA-synthetase, which
+   shows negative cooperativity, and bacterial aspartate transcarbamoylase
+   and phosphofructokinase, which show positive cooperativity.
+
+   Cooperativity is surprisingly common and can help regulate the
+   responses of enzymes to changes in the concentrations of their
+   substrates. Positive cooperativity makes enzymes much more sensitive to
+   [S] and their activities can show large changes over a narrow range of
+   substrate concentration. Conversely, negative cooperativity makes
+   enzymes insensitive to small changes in [S].
+
+   The Hill equation is ofetn used to characterize the degree of
+   cooperativity quantitatively for non-Michaelis–Menten enzymes. The
+   derived Hill coefficient n measures how much the binding of substrate
+   to one active site affects the binding of substrate to the other active
+   sites. A Hill coefficient of <1 indicates negative cooperativity and a
+   coefficient of >1 indicates positive cooperativity.
+
+Pre-steady-state kinetics
+
+   Pre-steady state progress curve, showing the burst phase of an enzyme
+   reaction.
+   Enlarge
+   Pre-steady state progress curve, showing the burst phase of an enzyme
+   reaction.
+
+   In the first moment after an enzyme is mixed with substrate, no product
+   has been formed and no intermediates exist. The study of the next few
+   milliseconds of the reaction is called pre-steady-state kinetics.
+   Pre-steady-state kinetics is therefore concerned with the formation and
+   consumption of enzyme–substrate intermediates (such as ES or E*) until
+   their steady-state concentrations are reached.
+
+   This approach was first applied to the hydrolysis reaction catalysed by
+   chymotrypsin. Often, the detection of an intermediate is a vital piece
+   of evidence in investigations of what mechanism an enzyme follows. For
+   example, in the ping–pong mechanisms that are shown above, rapid
+   kinetic measurements can follow the release of product P and measure
+   the formation of the modified enzyme intermediate E*. In the case of
+   chymotrypsin, this intermediate is formed by the attack of the
+   substrate by the nucleophilic serine in the active site and the
+   formation of the acyl-enzyme intermediate.
+
+   In the figure to the right, the enzyme produces E* rapidly in the first
+   few seconds of the reaction. The rate then slows as steady state is
+   reached. This rapid burst phase of the reaction measures a single
+   turnover of the enzyme. Consequently, the amount of product released in
+   this burst, shown as the intercept on the y-axis of the graph, also
+   gives the amount of functional enzyme which is present in the assay.
+
+Chemical mechanism
+
+   An important goal of measuring enzyme kinetics is to determine the
+   chemical mechanism of an enzyme reaction, i.e., the sequence of
+   chemical steps that transform substrate into product. The kinetic
+   approaches discussed above will show at what rates intermediates are
+   formed and inter-converted, but they cannot identify exactly what these
+   intermediates are.
+
+   Kinetic measurements taken under various solution conditions or on
+   slightly modified enzymes or substrates often shed light on this
+   chemical mechanism, as they reveal the rate-determining step or
+   intermediates in the reaction. For example, the breaking of a covalent
+   bond to a hydrogen atom is a common rate-determining step. Which of the
+   possible hydrogen transfers is rate determining can be shown by
+   measuring the kinetic effects of substituting each hydrogen by
+   deuterium, its stable isotope. The rate will change when the critical
+   hydrogen is replaced, due to a primary kinetic isotope effect, which
+   occurs because bonds to deuterium are harder to break then bonds to
+   hydrogen. It is also possible to measure similar effects with other
+   isotope substitutions, such as ^13C/^12C and ^18O/^16O, but these
+   effects are more subtle.
+
+   Isotopes can also be used to reveal the fate of various parts of the
+   substrate molecules in the final products. For example, it is sometimes
+   difficult to discern the origin of an oxygen atom in the final product;
+   since it may have come from water or from part of the substrate. This
+   may be determined by systematically substituting oxygen's stable
+   isotope ^18O into the various molecules that participate in the
+   reaction and checking for the isotope in the product. The chemical
+   mechanism can also be elucidated by examining the kinetics and isotope
+   effects under different pH conditions, by altering the metal ions or
+   other bound cofactors, by site-directed mutagenesis of conserved amino
+   acid residues, or by studying the behaviour of the enzyme in the
+   presence of analogues of the substrate(s).
+
+Enzyme inhibition
+
+   Kinetic scheme for reversible enzyme inhibitors.
+   Enlarge
+   Kinetic scheme for reversible enzyme inhibitors.
+
+   Enzyme inhibitors are molecules that reduce or abolish enzyme activity.
+   These are either reversible (i.e., removal of the inhibitor restores
+   enzyme activity) or irreversible (i.e., the inhibitor permanently
+   inactivates the enzyme).
+
+Reversible inhibitors
+
+   Reversible enzyme inhibitors can be classified as competitive,
+   uncompetitive, non-competitive or mixed, according to their effects on
+   K[m] and V[max]. These different effects result from the inhibitor
+   binding to the enzyme E, to the enzyme–substrate complex ES, or to
+   both, as shown in the figure to the right and the table below. The
+   particular type of an inhibitor can be discerned by studying the enzyme
+   kinetics as a function of the inhibitor concentration. The four types
+   of inhibition produce Lineweaver–Burke and Eadie–Hofstee plots that
+   vary in distinctive ways with inhibitor concentration. For brevity, two
+   symbols are used:
+
+          \alpha = 1 + \frac{[\mbox{I}]}{K_{i}}       and
+          \alpha^{\prime} = 1 + \frac{[\mbox{I}]}{K_{i}^{\prime}}
+
+   where K[i] and K'[i] are the dissociation constants for binding to the
+   enzyme and to the enzyme–substrate complex, respectively. In the
+   presence of the reversible inhibitor, the enzyme's apparent K[m] and
+   V[max] become (α/α')K[m] and (1/α')V[max], respectively, as shown below
+   for common cases.
+
+              Type of inhibition K[m] apparent V[max] apparent
+      K[i] only ( \alpha^{\prime}=1 ) competitive K_m \alpha~ ~V_{max}~
+     K[i]' only ( \alpha=1~ ) uncompetitive \frac{K_m}{\alpha^{\prime}}
+                       \frac{V_{max}}{\alpha^{\prime}}
+       K[i] = K[i]' ( \alpha = \alpha^{\prime} ) non-competitive ~K_m~
+                       \frac{V_{max}}{\alpha^{\prime}}
+            K[i] ≠ K[i]' ( \alpha \neq \alpha^{\prime} ) mixed
+      \frac{K_m\alpha}{\alpha^{\prime}} \frac{V_{max}}{\alpha^{\prime}}
+
+   Non-linear regression fits of the enzyme kinetics data to the rate
+   equations above can yield accurate estimates of the dissociation
+   constants K[i] and K'[i].
+
+Irreversible inhibitors
+
+   Enzyme inhibitors can also irreversibly inactivate enzymes, usually by
+   covalently modifying active site residues. These reactions follow
+   exponential decay functions and are usually saturable. Below
+   saturation, they follow first order kinetics with respect to inhibitor.
+
+Mechanisms of catalysis
+
+   The energy variation as a function of reaction coordinate shows the
+   stabilisation of the transition state by an enzyme.
+   Enlarge
+   The energy variation as a function of reaction coordinate shows the
+   stabilisation of the transition state by an enzyme.
+
+   The favoured model for the enzyme–substrate interaction is the induced
+   fit model. This model proposes that the initial interaction between
+   enzyme and substrate is relatively weak, but that these weak
+   interactions rapidly induce conformational changes in the enzyme that
+   strengthen binding. These conformational changes also bring catalytic
+   residues in the active site close to the chemical bonds in the
+   substrate that will be altered in the reaction. After binding takes
+   place, one or more mechanisms of catalysis lower the energy of the
+   reaction's transition state, by providing an alternative chemical
+   pathway for the reaction. Mechanisms of catalysis include catalysis by
+   bond strain: by proximity and orientation: by active-site proton donors
+   or acceptors: covalent catalysis and quantum tunnelling.
+
+   Enzyme kinetics cannot prove which modes of catalysis are used by an
+   enzyme. However, some kinetic data can suggest possibilities to be
+   examined by other techniques. For example, a ping–pong mechanism with
+   burst-phase pre-steady-state kinetics would suggest covalent catalysis
+   might be important in this enzyme's mechanism. Alternatively, the
+   observation of a strong pH effect on V[max] but not K[m] might indicate
+   that a residue in the active site needs to be in a particular
+   ionisation state for catalysis to occur.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Enzyme_kinetics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

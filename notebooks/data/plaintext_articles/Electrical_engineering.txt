@@ -1,0 +1,433 @@
+   #copyright
+
+Electrical engineering
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+
+   This is a featured article. Click here for more information.
+   … and complex electronic circuits.
+   Enlarge
+   … and complex electronic circuits.
+
+   Electrical engineering (sometimes referred to as electrical and
+   electronic engineering) is a professional engineering discipline that
+   deals with the study and application of electricity, electronics and
+   electromagnetism. The field first became an identifiable occupation in
+   the late nineteenth century with the commercialization of the electric
+   telegraph and electrical power supply. The field now covers a range of
+   sub-disciplines including those that deal with power, optoelectronics,
+   digital electronics, analog electronics, computer science, artificial
+   intelligence, control systems, electronics, signal processing and
+   telecommunications.
+
+   The term electrical engineering may or may not encompass electronic
+   engineering. Where a distinction is made, electrical engineering is
+   considered to deal with the problems associated with large-scale
+   electrical systems such as power transmission and motor control,
+   whereas electronic engineering deals with the study of small-scale
+   electronic systems including computers and integrated circuits. Another
+   way of looking at the distinction is that electrical engineers are
+   usually concerned with using electricity to transmit energy, while
+   electronics engineers are concerned with using electricity to transmit
+   information.
+
+History
+
+Early developments
+
+   Electricity has been a subject of scientific interest since at least
+   the 17th century, but it was not until the 19th century that research
+   into the subject started to intensify. Notable developments in this
+   century include the work of Georg Ohm, who in 1827 quantified the
+   relationship between the electric current and potential difference in a
+   conductor, Michael Faraday, the discoverer of electromagnetic induction
+   in 1831, and James Clerk Maxwell, who in 1873 published a unified
+   theory of electricity and magnetism in his treatise on Electricity and
+   Magnetism.
+
+   During these years, the study of electricity was largely considered to
+   be a subfield of physics. It was not until the late 19th century that
+   universities started to offer degrees in electrical engineering. The
+   Darmstadt University of Technology founded the first chair and the
+   first faculty of electrical engineering worldwide in 1882. In 1883
+   Darmstadt University of Technology and Cornell University introduced
+   the world's first courses of study in electrical engineering and in
+   1885 the University College London founded the first chair of
+   electrical engineering in the United Kingdom. The University of
+   Missouri subsequently established the first department of electrical
+   engineering in the United States in 1886.
+   Thomas Edison built the world's first large-scale electrical supply
+   network
+   Enlarge
+   Thomas Edison built the world's first large-scale electrical supply
+   network
+
+   During this period, the work concerning electrical engineering
+   increased dramatically. In 1882, Edison switched on the world's first
+   large-scale electrical supply network that provided 110 volts direct
+   current to fifty-nine customers in lower Manhattan. In 1887, Nikola
+   Tesla filed a number of patents related to a competing form of power
+   distribution known as alternating current. In the following years a
+   bitter rivalry between Tesla and Edison, known as the " War of
+   Currents", took place over the preferred method of distribution. AC
+   eventually replaced DC for generation and power distribution,
+   enormously extending the range and improving the safety and efficiency
+   of power distribution.
+   Nikola Tesla made long-distance electrical transmission networks
+   possible.
+   Enlarge
+   Nikola Tesla made long-distance electrical transmission networks
+   possible.
+
+   The efforts of the two did much to further electrical
+   engineering—Tesla's work on induction motors and polyphase systems
+   influenced the field for years to come, while Edison's work on
+   telegraphy and his development of the stock ticker proved lucrative for
+   his company, which ultimately became General Electric. However, by the
+   end of the 19th century, other key figures in the progress of
+   electrical engineering were beginning to emerge.
+
+Modern developments
+
+   Emergence of radio and electronics
+
+   During the development of radio, many scientists and inventors
+   contributed to radio technology and electronics. In his classic UHF
+   experiments of 1888, Heinrich Hertz transmitted (via a spark-gap
+   transmitter) and detected radio waves using electrical equipment. In
+   1895, Nikola Tesla was able to detect signals from the transmissions of
+   his New York lab at West Point (a distance of 80.4 km). In 1897, Karl
+   Ferdinand Braun introduced the cathode ray tube as part of an
+   oscilloscope, a crucial enabling technology for electronic television.
+   John Fleming invented the first radio tube, the diode, in 1904. Two
+   years later, Robert von Lieben and Lee De Forest independently
+   developed the amplifier tube, called the triode. In 1920 Albert Hull
+   developed the magnetron which would eventually lead to the development
+   of the microwave oven in 1946 by Percy Spencer. In 1934 the British
+   military began to make strides towards radar (which also uses the
+   magnetron), under the direction of Dr Wimperis culminating in the
+   operation of the first radar station at Bawdsey in August 1936.
+
+   In 1941 Konrad Zuse presented the Z3, the world's first fully
+   functional and programmable computer. In 1946 the ENIAC (Electronic
+   Numerical Integrator and Computer) of John Presper Eckert and John
+   Mauchly followed, beginning the computing era. The arithmetic
+   performance of these machines allowed engineers to develop completely
+   new technologies and achieve new objectives, including the Apollo
+   missions and the NASA moon landing.
+
+   The invention of the transistor in 1947 by William B. Shockley, John
+   Bardeen and Walter Brattain opened the door for more compact devices
+   and led to the development of the integrated circuit in 1958 by Jack
+   Kilby and independently in 1959 by Robert Noyce. In 1968 Marcian Hoff
+   invented the first microprocessor at Intel and thus ignited the
+   development of the personal computer. The first realization of the
+   microprocessor was the Intel 4004, a 4-bit processor developed in 1971,
+   but only in 1973 did the Intel 8080, an 8-bit processor, make the
+   building of the first personal computer, the Altair 8800, possible.
+
+Education
+
+   Electrical engineers typically possess an academic degree with a major
+   in electrical engineering. The length of study for such a degree is
+   usually four or five years and the completed degree may be designated
+   as a Bachelor of Engineering, Bachelor of Science, Bachelor of
+   Technology or Bachelor of Applied Science depending upon the
+   university. The degree generally includes units covering physics,
+   mathematics, computer science, project management and specific topics
+   in electrical engineering. Initially such topics cover most, if not
+   all, of the sub-disciplines of electrical engineering. Students then
+   choose to specialize in one or more sub-disciplines towards the end of
+   the degree.
+
+   Some electrical engineers also choose to pursue a postgraduate degree
+   such as a Master of Engineering/ Master of Science, a Master of
+   Engineering Management, a Doctor of Philosophy in Engineering or an
+   Engineer's degree. The Master and Engineer's degree may consist of
+   either research, coursework or a mixture of the two. The Doctor of
+   Philosophy consists of a significant research component and is often
+   viewed as the entry point to academia. In the United Kingdom and
+   various other European countries, the Master of Engineering is often
+   considered an undergraduate degree of slightly longer duration than the
+   Bachelor of Engineering.
+
+Practicing engineers
+
+   In most countries, a Bachelor's degree in engineering represents the
+   first step towards professional certification and the degree program
+   itself is certified by a professional body. After completing a
+   certified degree program the engineer must satisfy a range of
+   requirements (including work experience requirements) before being
+   certified. Once certified the engineer is designated the title of
+   Professional Engineer (in the United States, Canada and South Africa ),
+   Chartered Engineer (in the United Kingdom, Ireland, India and
+   Zimbabwe), Chartered Professional Engineer (in Australia and New
+   Zealand) or European Engineer (in much of the European Union).
+
+   The advantages of certification vary depending upon location. For
+   example, in the United States and Canada "only a licensed engineer may
+   seal engineering work for public and private clients". This requirement
+   is enforced by state and provincial legislation such as Quebec's
+   Engineers Act. In other countries, such as Australia, no such
+   legislation exists. Practically all certifying bodies maintain a code
+   of ethics that they expect all members to abide by or risk expulsion.
+   In this way these organizations play an important role in maintaining
+   ethical standards for the profession. Even in jurisdictions where
+   certification has little or no legal bearing on work, engineers are
+   subject to contract law. In cases where an engineer's work fails he or
+   she may be subject to the tort of negligence and, in extreme cases, the
+   charge of criminal negligence. An engineer's work must also comply with
+   numerous other rules and regulations such as building codes and
+   legislation pertaining to environmental law.
+
+   Professional bodies of note for electrical engineers include the
+   Institute of Electrical and Electronics Engineers (IEEE) and the
+   Institution of Electrical Engineers (IEE). The IEEE claims to produce
+   30 percent of the world's literature in electrical engineering, has
+   over 360,000 members worldwide and holds over 300 conferences annually.
+   The IEE publishes 14 journals, has a worldwide membership of 120,000,
+   and claims to be the largest professional engineering society in
+   Europe. Obsolescence of technical skills is a serious concern for
+   electrical engineers. Membership and participation in technical
+   societies, regular reviews of periodicals in the field and a habit of
+   continued learning are therefore essential to maintaining proficiency.
+
+   In countries such as Australia, Canada and the United States electrical
+   engineers make up around 0.25% of the labour force (see note). Outside
+   of these countries, it is difficult to gauge the demographics of the
+   profession due to less meticulous reporting on labour statistics.
+   However, in terms of electrical engineering graduates per-capita,
+   electrical engineering graduates would probably be most numerous in
+   countries such as Taiwan, Japan and South Korea.
+
+Tools and work
+
+   From the Global Positioning System to electric power generation,
+   electrical engineers are responsible for a wide range of technologies.
+   They design, develop, test and supervise the deployment of electrical
+   systems and electronic devices. For example, they may work on the
+   design of telecommunication systems, the operation of electric power
+   stations, the lighting and wiring of buildings, the design of household
+   appliances or the electrical control of industrial machinery.
+   Satellite Communications is one of many projects an electrical engineer
+   might work on
+   Enlarge
+   Satellite Communications is one of many projects an electrical engineer
+   might work on
+
+   Fundamental to the discipline are the sciences of physics and
+   mathematics as these help to obtain both a qualitative and quantitative
+   description of how such systems will work. Today most engineering work
+   involves the use of computers and it is commonplace to use
+   computer-aided design programs when designing electrical systems.
+   Nevertheless, the ability to sketch ideas is still invaluable for
+   quickly communicating with others.
+
+   Although most electrical engineers will understand basic circuit theory
+   (that is the interactions of elements such as resistors, capacitors,
+   diodes, transistors and inductors in a circuit), the theories employed
+   by engineers generally depend upon the work they do. For example,
+   quantum mechanics and solid state physics might be relevant to an
+   engineer working on VLSI (the design of integrated circuits), but are
+   largely irrelevant to engineers working with macroscopic electrical
+   systems. Even circuit theory may not be relevant to a person designing
+   telecommunication systems that use off-the-shelf components. Perhaps
+   the most important technical skills for electrical engineers are
+   reflected in university programs, which emphasize strong numerical
+   skills, computer literacy and the ability to understand the technical
+   language and concepts that relate to electrical engineering.
+
+   For most engineers technical work accounts for only a fraction of the
+   work they do. A lot of time is also spent on tasks such as discussing
+   proposals with clients, preparing budgets and determining project
+   schedules. Many senior engineers manage a team of technicians or other
+   engineers and for this reason project management skills are important.
+   Most engineering projects involve some form of documentation and strong
+   written communication skills are therefore very important.
+
+   The workplaces of electrical engineers are just as varied as the types
+   of work they do. Electrical engineers may be found in the pristine lab
+   environment of a fabrication plant, the offices of a consulting firm or
+   on site at a mine. During their working life, electrical engineers may
+   find themselves supervising a wide range of individuals including
+   scientists, electricians, computer programmers and other engineers.
+
+Sub-disciplines
+
+   Electrical engineering has many sub-disciplines, the most popular of
+   which are listed below. Although there are electrical engineers who
+   focus exclusively on one of these sub-disciplines, many deal with a
+   combination of them. Sometimes certain fields, such as electronic
+   engineering and computer engineering, are considered separate
+   disciplines in their own right.
+
+Power
+
+   Power engineering deals with the generation, transmission and
+   distribution of electricity as well as the design of a range of related
+   devices. These include transformers, electric generators, electric
+   motors and power electronics. In many regions of the world, governments
+   maintain an electrical network called a power grid that connects a
+   variety of generators together with users of their energy. Users
+   purchase electrical energy from the grid, avoiding the costly exercise
+   of having to generate their own. Power engineers may work on the design
+   and maintenance of the power grid as well as the power systems that
+   connect to it. Such systems are called on-grid power systems and may
+   supply the grid with additional power, draw power from the grid or do
+   both. Power engineers may also work on systems that do not connect to
+   the grid, called off-grid power systems, which in some cases are
+   preferable to on-grid systems.
+
+Control
+
+   Control engineering focuses on the modelling of a diverse range of
+   dynamic systems and the design of controllers that will cause these
+   systems to behave in the desired manner. To implement such controllers
+   electrical engineers may use electrical circuits, digital signal
+   processors and microcontrollers. Control engineering has a wide range
+   of applications from the flight and propulsion systems of commercial
+   airliners to the cruise control present in many modern automobiles. It
+   also plays an important role in industrial automation.
+
+   Control engineers often utilize feedback when designing control
+   systems. For example, in an automobile with cruise control the
+   vehicle's speed is continuously monitored and fed back to the system
+   which adjusts the motor's speed accordingly. Where there is regular
+   feedback, control theory can be used to determine how the system
+   responds to such feedback.
+
+Electronics
+
+   Electronic engineering involves the design and testing of electronic
+   circuits that use the properties of components such as resistors,
+   capacitors, inductors, diodes and transistors to achieve a particular
+   functionality. The tuned circuit, which allows the user of a radio to
+   filter out all but a single station, is just one example of such a
+   circuit. Another example (of a pneumatic signal conditioner) is shown
+   in the adjacent photograph.
+
+   Prior to the second world war, the subject was commonly known as radio
+   engineering and basically was restricted to aspects of communications
+   and radar, commercial radio and early television. Later, in post war
+   years, as consumer devices began to be developed, the field grew to
+   include modern television, audio systems, computers and
+   microprocessors. In the mid to late 1950s, the term radio engineering
+   gradually gave way to the name electronic engineering.
+
+   Before the invention of the integrated circuit in 1959, electronic
+   circuits were constructed from discrete components that could be
+   manipulated by humans. These discrete circuits consumed much space and
+   power and were limited in speed, although they are still common in some
+   applications. By contrast, integrated circuits packed a large
+   number—often millions—of tiny electrical components, mainly
+   transistors, into a small chip around the size of a coin. This allowed
+   for the powerful computers and other electronic devices we see today.
+
+Microelectronics
+
+   Microelectronics engineering deals with the design of very small
+   electronic circuit components for use in an integrated circuit or
+   sometimes for use on their own as a general electronic component. The
+   most common microelectronic components are semiconductor transistors,
+   although all main electronic components ( resistors, capacitors,
+   inductors) can be created at a microscopic level.
+
+   Microelectronic components are created by chemically fabricating wafers
+   of semiconductors such as silicon (at higher frequencies, gallium
+   arsenide and indium phosphide) to obtain the desired transport of
+   electronic charge and control of current. The field of microelectronics
+   involves a significant amount of chemistry and material science and
+   requires the electronic engineer working in the field to have a very
+   good working knowledge of the effects of quantum mechanics.
+
+Signal processing
+
+   Signal processing deals with the analysis and manipulations of signals.
+   Signals can be either analog, in which case the signal varies
+   continuously according to the information, or digital, in which case
+   the signal varies according to a series of discrete values representing
+   the information. For analog signals, signal processing may involve the
+   amplification and filtering of audio signals for audio equipment or the
+   modulation and demodulation of signals for telecommunications. For
+   digital signals, signal processing may involve the compression, error
+   detection and error correction of digitally sampled signals.
+
+Telecommunications
+
+   Telecommunications engineering focuses on the transmission of
+   information across a channel such as a coax cable, optical fibre or
+   free space. Transmissions across free space require information to be
+   encoded in a carrier wave in order to shift the information to a
+   carrier frequency suitable for transmission, this is known as
+   modulation. Popular analog modulation techniques include amplitude
+   modulation and frequency modulation. The choice of modulation affects
+   the cost and performance of a system and these two factors must be
+   balanced carefully by the engineer.
+
+   Once the transmission characteristics of a system are determined,
+   telecommunication engineers design the transmitters and receivers
+   needed for such systems. These two are sometimes combined to form a
+   two-way communication device known as a transceiver. A key
+   consideration in the design of transmitters is their power consumption
+   as this is closely related to their signal strength. If the signal
+   strength of a transmitter is insufficient the signal's information will
+   be corrupted by noise.
+
+Instrumentation engineering
+
+   Instrumentation engineering deals with the design of devices to measure
+   physical quantities such as pressure, flow and temperature. The design
+   of such instrumentation requires a good understanding of physics that
+   often extends beyond electromagnetic theory. For example, radar guns
+   use the Doppler effect to measure the speed of oncoming vehicles.
+   Similarly, thermocouples use the Peltier-Seebeck effect to measure the
+   temperature difference between two points.
+
+   Often instrumentation is not used by itself, but instead as the sensors
+   of larger electrical systems. For example, a thermocouple might be used
+   to help ensure a furnace's temperature remains constant. For this
+   reason, instrumentation engineering is often viewed as the counterpart
+   of control engineering.
+
+Computers
+
+   Computer engineering deals with the design of computers and computer
+   systems. This may involve the design of new hardware, the design of
+   PDAs or the use of computers to control an industrial plant. Computer
+   engineers may also work on a system's software. However, the design of
+   complex software systems is often the domain of software engineering,
+   which is usually considered a separate discipline. Desktop computers
+   represent a tiny fraction of the devices a computer engineer might work
+   on, as computer-like architectures are now found in a range of devices
+   including video game consoles and DVD players.
+
+Related disciplines
+
+   Mechatronics is an engineering discipline which deals with the
+   convergence of electrical and mechanical systems. Such combined systems
+   are known as electromechanical systems and have widespread adoption.
+   Examples include automated manufacturing systems, heating, ventilation
+   and air-conditioning systems and various subsystems of aircraft and
+   automobiles.
+
+   The term mechatronics is typically used to refer to macroscopic systems
+   but futurists have predicted the emergence of very small
+   electromechanical devices. Already such small devices, known as micro
+   electromechanical systems (MEMS), are used in automobiles to tell
+   airbags when to deploy, in digital projectors to create sharper images
+   and in inkjet printers to create nozzles for high-definition printing.
+   In the future it is hoped the devices will help build tiny implantable
+   medical devices and improve optical communication.
+
+   Biomedical engineering is another related discipline, concerned with
+   the design of medical equipment. This includes fixed equipment such as
+   ventilators, MRI scanners and electrocardiograph monitors as well as
+   mobile equipment such as cochlear implants, artificial pacemakers and
+   artificial hearts.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electrical_engineering"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

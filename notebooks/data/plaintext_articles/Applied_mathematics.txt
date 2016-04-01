@@ -1,0 +1,98 @@
+   #copyright
+
+Applied mathematics
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Applied Mathematics is a branch of mathematics that concerns itself
+   with the mathematical techniques typically used in the application of
+   mathematical knowledge to other domains.
+
+Divisions of Applied Mathematics
+
+   Traditionally, applied mathematics consisted of three major areas:
+   Approximation theory (including representation theory and computational
+   methods); differential equations (especially partial differential
+   equations); and applied probability. One could even do so-called
+   "theoretical applied mathematics" in these areas, by performing
+   research on the fundamentals of the subjects.
+
+   Many statisticians contend that statistics is a separate discipline
+   from mathematics, but in practice both subjects are often taught in the
+   math department. Engineering mathematics and mathematical physics
+   describe physical processes, and so are almost indistinguishable from
+   theoretical physics. Traditionally, classical mechanics was often
+   taught in applied math departments at American universities rather than
+   in physics departments.
+
+   Today the term applied mathematics is often used in a much broader
+   sense. Mathematicians generally consider it incorrect to conflate
+   applied mathematics (a subset of mathematics) with applications of
+   mathematics (the actual act of applying mathematics to real-world
+   problems). But scientists and social scientists who utilize mathematics
+   in their work do not usually make this distinction.
+
+   An example may serve to sharpen the somewhat fuzzy lines separating
+   traditional applied mathematics from pure mathematics and
+   distinguishing both of these from applicable mathematics, or the use of
+   mathematics as a tool. A "smooth" function, such as cosx, can be
+   represented by a Taylor series containing a countably infinite number
+   of terms. Pure mathematics is concerned with the problem of proving
+   that the Taylor series exists, and with the closely associated problems
+   of determining its coefficients and its circle of convergence, or the
+   domain in which it is valid. Applied mathematics addresses the more
+   practical problems of how the series may best be calculated; how many
+   terms must be included to achieve a desired level of precision; and how
+   best to tabulate the resulting values, or perhaps encapsulate the
+   Taylor series within a computer algorithm. Finally, a surveyor who
+   consults the tabulated or computerized values of cosx while making
+   trigonometric calculations is not really doing mathematics – he is
+   simply using results the mathematicians have derived to complete a
+   surveying project.
+
+   Some branches of mathematics – differential equations (ODEs and PDEs),
+   matrix theory, continuous modelling, probability, and statistics – are
+   widely applicable to many fields of science and technology. Others –
+   such as numerical analysis, scientific computing, information theory,
+   cryptography, graph theory as applied to network analysis, and
+   theoretical computer science – have fueled the rapid proliferation of
+   digital computers. Problems associated with computer technology have,
+   in their turn, provided the motivation for mathematical advances in all
+   these fields. And the increasing power and speed of the computers
+   themselves have opened new possibilities in computational topology and
+   computational geometry.
+
+   Both physics and engineering have their own specialized mathematical
+   dialects, including control theory. Advances in the life sciences have
+   stimulated the development of mathematical biology and have recently
+   generated an entirely new field, bioinformatics. Economics, finance,
+   and insurance have spawned several related disciplines that might be
+   characterized as commercial mathematics. Certain special economic
+   problems gave the initial impetus to game theory. Additional problems
+   from business and commerce have driven mathematical research into
+   optimization techniques, including the widely employed methods of
+   operations research and linear programming. As time passes all these
+   optimization methods are finding new applications in a widening circle
+   of disciplines.
+
+Segregation within Universities
+
+   Some universities in the UK host departments of Applied Mathematics and
+   Theoretical Physics, but it is now much less common to have separate
+   departments of pure and applied mathematics. Schools with separate
+   applied mathematics departments range from Brown University, which has
+   a well-known and large Division of Applied Mathematics that offers
+   degrees through the doctorate, to Santa Clara University, which offers
+   only the M.S. in applied mathematics. Many research universities divide
+   their mathematics department into pure and applied sections (e.g.,
+   MIT).
+
+   Fundamental applied mathematics is taught at second-level in some
+   countries, such as Ireland, where it is a minority option at Leaving
+   Certificate.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Applied_mathematics"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

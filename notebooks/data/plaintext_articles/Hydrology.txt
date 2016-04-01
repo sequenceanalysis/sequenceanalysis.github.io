@@ -1,0 +1,219 @@
+   #copyright
+
+Hydrology
+
+2007 Schools Wikipedia Selection. Related subjects: Geology and geophysics
+
+   Water covers 70% of the Earth's surface.
+   Enlarge
+   Water covers 70% of the Earth's surface.
+
+   Hydrology (from Greek: Yδρoλoγια, Yδωρ+Λoγos, Hydrologia, the "study of
+   water") is the study of the movement, distribution, and quality of
+   water throughout the Earth, and thus addresses both the hydrologic
+   cycle and water resources. A practitioner of hydrology is a
+   hydrologist, working within the fields of either earth or environmental
+   science, physical geography or civil and environmental engineering.
+
+   Domains of hydrology include hydrometeorology, surface hydrology,
+   hydrogeology, drainage basin management and water quality, where water
+   plays the central role. Oceanography and meteorology are not included
+   because water is only one of many important aspects.
+
+   Hydrological research is useful in that it allows us to better
+   understand the world in which we live, and also provides insight for
+   environmental engineering, policy and planning.
+
+History
+
+   Hydrology has been a subject of investigation and engineering for
+   millennia. For example, in about 4000 B.C. the Nile was dammed to
+   improve agricultural productivity of previously barren lands.
+   Mesopotamian towns were protected from flooding with high earthen
+   walls. Aqueducts were built by the Greeks and Romans, while the Chinese
+   built irrigation and flood control works. The ancient Sinhalese used
+   hydrology to build complex Irrigation Works of Ancient Sri Lanka, known
+   for inventiion of the Valve Pit which allowed construction of large
+   reservoirs, anicuts and canals which still function.
+
+   Marcus Vitruvius, in the first century B.C., described a philosophical
+   theory of the hydrologic cycle, in which precipitation falling in the
+   mountains infiltrated the earth's surface and led to streams and
+   springs in the lowlands. With adoption of a more scientific approach,
+   Leonardo da Vinci and Bernard Palissy independently reached an accurate
+   representation of the hydrologic cycle. It was not until the 17th
+   century that hydrologic variables began to be quantified.
+
+   Pioneers of the modern science of hydrology include Pierre Perrault,
+   Edme Mariotte, and Edmund Halley. By measuring rainfall, runoff, and
+   drainage area, Perrault showed that rainfall was sufficient to account
+   for flow of the Seine. Marriotte combined velocity and river
+   cross-section measurements to obtain discharge, again in the Seine.
+   Halley showed that the evaporation from the Mediterranean Sea was
+   sufficient to account for the outflow of rivers flowing into the sea.
+
+   Advances in the 18th century included the Bernoulli piezometer and
+   Bernoulli's equation, by Daniel Bernoulli, the Pitot tube, and the
+   Chezy formula. The 19th century saw development in groundwater
+   hydrology, including Darcy's law, the Dupuit-Thiem well formula, and
+   Hagen-Poiseuille's capillary flow equation.
+
+   Rational analyses began to replace empiricism in the 20th century,
+   while governmental agencies began their own hydrological research
+   programs. Of particular importance were Leroy Sherman's unit
+   hydrograph, the infiltration theory of Robert E. Horton, and C.V.
+   Theis's equation describing well hydraulics.
+
+   Since the 1950s, hydrology has been approached with a more theoretical
+   basis than in the past, facilitated by advances in the physical
+   understanding of hydrological processes and by the advent of computers.
+
+Hydrologic cycle
+
+   The central theme of hydrology is that water moves throughout the Earth
+   through different pathways and at different rates. The most vivid image
+   of this is in the evaporation of water from the ocean, which forms
+   clouds. These clouds drift over the land and produce rain. The
+   rainwater flows into lakes, rivers, or aquifers. The water in lakes,
+   rivers, and aquifers then either evaporates back to the atmosphere or
+   eventually flows back to the ocean, completing a cycle.
+
+Branches of hydrology
+
+   Chemical hydrology is the study of the chemical characteristics of
+   water.
+
+   Ecohydrology is the study of interactions between organisms and the
+   hydrologic cycle.
+
+   Hydrogeology is the study of the presence and movement of water in
+   aquifers.
+
+   Hydroinformatics is the adaptation of information technology to
+   hydrology and water resources applications.
+
+   Hydrometeorology is the study of the transfer of water and energy
+   between land and water body surfaces and the lower atmosphere.
+
+   Isotope hydrology is the study of the isotopic signatures of water.
+
+   Surface hydrology is the study of hydrologic processes that operate at
+   or near the Earth's surface.
+
+Related fields
+
+     * Aquatic chemistry
+     * Civil engineering
+     * Climatology
+     * Environmental engineering
+     * Geomorphology
+     * Hydraulic engineering
+     * Limnology
+     * Oceanography
+     * Physical Geography
+
+Hydrologic measurements
+
+   The movement of water through the Earth can be measured in a number of
+   ways. This information is important for both assessing water resources
+   and understanding the processes involved in the hydrologic cycle.
+   Following is a list of devices used by hydrologists and what they are
+   used to measure.
+     * Disdrometer - precipitation characteristics
+     * Evaporation - Symon's evaporation pan
+     * Infiltrometer - infiltration
+     * Piezometer - groundwater pressure and, by inference, groundwater
+       depth (see: aquifer test)
+     * Radar - cloud properties
+     * Rain gauge - rain and snowfall
+     * Satellite
+     * Sling psychrometer - humidity
+     * Stream gauge - stream flow (see: discharge (hydrology))
+     * Tensiometer - soil moisture
+     * Time domain reflectometer - soil moisture
+
+Hydrologic prediction
+
+   Observations of hydrologic processes are used to make predictions of
+   the future behaviour of hydrologic systems (water flow, water quality).
+   One of the major current concerns in hydrologic research is the
+   Prediction in Ungauged Basins (PUB), i.e. in basins where no or only
+   very few data exist.
+
+Statistical hydrology
+
+   By analysing the statistical properties of hydrologic records, such as
+   rainfall or river flow, hydrologists can estimate future hydrologic
+   phenomena. This, however, assumes the characteristics of the processes
+   remain unchanged.
+
+   These estimates are important for engineers and economists so that
+   proper risk analysis can be performed to influence investment decisions
+   in future infrastructure and to determine the yield reliability
+   characteristics of water supply systems. Statistical information is
+   utilised to formulate operating rules for large dams forming part of
+   systems which include agricultural, industrial and residential demands.
+
+   See: return period.
+
+Hydrologic modeling
+
+   Hydrologic models are simplified, conceptual representations of a part
+   of the hydrologic cycle. They are primarily used for hydrologic
+   prediction and for understanding hydrologic processes. Two major types
+   of hydrologic models can be distinguished:
+     * Models based on data. These models are black box systems, using
+       mathematical and statistical concepts to link a certain input (for
+       instance rainfall) to the model output (for instance runoff).
+       Commonly used techniques are regression, transfer functions, neural
+       networks and system identification. These models are known as
+       stochastic hydrology models.
+
+     * Models based on process descriptions. These models try to represent
+       the physical processes observed in the real world. Typically, such
+       models contain representations of surface runoff, subsurface flow,
+       evapotranspiration, and channel flow, but they can be far more
+       complicated. These models are known as deterministic hydrology
+       models. Deterministic hydrology models can be subdivided into
+       single-event models and continuous simulation models.
+
+   Recent research in hydrologic modeling tries to have a more global
+   approach to the understanding of the behaviour of hydrologic systems to
+   make better predictions and to face the major challenges in water
+   resources management.
+
+Hydrologic transport
+
+   Water movement is a significant means by which other material, such as
+   soil or pollutants, are transported from place to place. Initial input
+   to receiving waters may arise from a point source discharge or a line
+   source or area source, such as surface runoff. Since the 1960s rather
+   complex mathematical models have been developed, facilitated by the
+   availability of high speed computers. The most common pollutant classes
+   analyzed are nutrients, pesticides, total dissolved solids and
+   sediment.
+
+Applications of hydrology
+
+     * Designing riparian restoration projects.
+     * Mitigating and predicting flood, landslide and drought risk;
+     * Designing irrigation schemes and managing agricultural
+       productivity;
+     * Providing drinking water;
+     * Designing dams for water supply or hydroelectric power generation;
+     * Designing bridges;
+     * Designing sewers and urban drainage system;
+     * Analyzing the impacts of antecedent moisture on sanitary sewer
+       systems.
+     * Predicting geomorphological changes, such as erosion or
+       sedimentation.
+     * Assessing the impacts of natural and anthropogenic environmental
+       change on water resources.
+     * Assessing contaminant transport risk and establishing environmental
+       policy guidelines.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Hydrology"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

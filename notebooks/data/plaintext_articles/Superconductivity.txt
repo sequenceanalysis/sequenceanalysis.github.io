@@ -1,0 +1,399 @@
+   #copyright
+
+Superconductivity
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   A magnet levitating above a high-temperature superconductor, cooled
+   with liquid nitrogen. Persistent electric current flows on the surface
+   of the superconductor, acting to exclude the magnetic field of the
+   magnet (the Meissner effect). This current effectively forms an
+   electromagnet that repels the magnet.
+   A magnet levitating above a high-temperature superconductor, cooled
+   with liquid nitrogen. Persistent electric current flows on the surface
+   of the superconductor, acting to exclude the magnetic field of the
+   magnet (the Meissner effect). This current effectively forms an
+   electromagnet that repels the magnet.
+
+   Superconductivity is a phenomenon occurring in certain materials at
+   extremely low temperatures, characterized by exactly zero electrical
+   resistance and the exclusion of the interior magnetic field (the
+   Meissner effect).
+
+   The electrical resistivity of a metallic conductor decreases gradually
+   as the temperature is lowered. However, in ordinary conductors such as
+   copper and silver, impurities and other defects impose a lower limit.
+   Even near absolute zero a real sample of copper shows a non-zero
+   resistance. The resistance of a superconductor, on the other hand,
+   drops abruptly to zero when the material is cooled below its "critical
+   temperature", typically 20 kelvin or less. An electrical current
+   flowing in a loop of superconducting wire can persist indefinitely with
+   no power source. Like ferromagnetism and atomic spectral lines,
+   superconductivity is a quantum mechanical phenomenon. It cannot be
+   understood simply as the idealization of " perfect conductivity" in
+   classical physics.
+
+   Superconductivity occurs in a wide variety of materials, including
+   simple elements like tin and aluminium, various metallic alloys and
+   some heavily-doped semiconductors. Superconductivity does not occur in
+   noble metals like gold and silver, nor in most ferromagnetic metals.
+
+   In 1986 the discovery of a family of cuprate- perovskite ceramic
+   materials known as high-temperature superconductors, with critical
+   temperatures in excess of 90 kelvins, spurred renewed interest and
+   research in superconductivity for several reasons. As a topic of pure
+   research, these materials represented a new phenomenon not explained by
+   the current theory. And, because the superconducting state persists up
+   to more manageable temperatures, more commercial applications are
+   feasible, especially if materials with even higher critical
+   temperatures could be discovered.
+
+Elementary properties of superconductors
+
+   Most of the physical properties of superconductors vary from material
+   to material, such as the heat capacity and the critical temperature at
+   which superconductivity is destroyed. On the other hand, there is a
+   class of properties that are independent of the underlying material.
+   For instance, all superconductors have exactly zero resistivity to low
+   applied currents when there is no magnetic field present. The existence
+   of these "universal" properties implies that superconductivity is a
+   thermodynamic phase, and thus possess certain distinguishing properties
+   which are largely independent of microscopic details.
+
+Zero electrical "dc" resistance
+
+   Electric cables for accelerators at CERN: top, regular cables for LEP;
+   bottom, superconducting cables for the LHC.
+   Electric cables for accelerators at CERN: top, regular cables for LEP;
+   bottom, superconducting cables for the LHC.
+
+   The simplest method to measure the electrical resistance of a sample of
+   some material is to place it in an electrical circuit in series with a
+   current source I and measure the resulting voltage V across the sample.
+   The resistance of the sample is given by Ohm's law as R = \frac{V}{I} .
+   If the voltage is zero, this means that the resistance is zero and that
+   the sample is in the superconducting state.
+
+   Superconductors are also able to maintain a current with no applied
+   voltage whatsoever, a property exploited in superconducting
+   electromagnets such as those found in MRI machines. Experiments have
+   demonstrated that currents in superconducting coils can persist for
+   years without any measurable degradation. Experimental evidence points
+   to a current lifetime of at least 100,000 years, and theoretical
+   estimates for the lifetime of persistent current exceed the lifetime of
+   the universe.
+
+   In a normal conductor, an electrical current may be visualized as a
+   fluid of electrons moving across a heavy ionic lattice. The electrons
+   are constantly colliding with the ions in the lattice, and during each
+   collision some of the energy carried by the current is absorbed by the
+   lattice and converted into heat (which is essentially the vibrational
+   kinetic energy of the lattice ions.) As a result, the energy carried by
+   the current is constantly being dissipated. This is the phenomenon of
+   electrical resistance.
+
+   The situation is different in a superconductor. In a conventional
+   superconductor, the electronic fluid cannot be resolved into individual
+   electrons. Instead, it consists of bound pairs of electrons known as
+   Cooper pairs. This pairing is caused by an attractive force between
+   electrons from the exchange of phonons. Due to quantum mechanics, the
+   energy spectrum of this Cooper pair fluid possesses an energy gap,
+   meaning there is a minimum amount of energy ΔE that must be supplied in
+   order to excite the fluid. Therefore, if ΔE is larger than the thermal
+   energy of the lattice (given by kT, where k is Boltzmann's constant and
+   T is the temperature), the fluid will not be scattered by the lattice.
+   The Cooper pair fluid is thus a superfluid, meaning it can flow without
+   energy dissipation.
+
+   In a class of superconductors known as type II superconductors
+   (including all known high-temperature superconductors), an extremely
+   small amount of resistivity appears at temperatures not too far below
+   the nominal superconducting transition when an electrical current is
+   applied in conjunction with a strong magnetic field (which may be
+   caused by the electrical current). This is due to the motion of
+   vortices in the electronic superfluid, which dissipates some of the
+   energy carried by the current. If the current is sufficiently small,
+   the vortices are stationary, and the resistivity vanishes. The
+   resistance due to this effect is tiny compared with that of
+   non-superconducting materials, but must be taken into account in
+   sensitive experiments. However, as the temperature decreases far enough
+   below the nominal superconducting transition, these vortices can become
+   frozen into a disordered but stationary phase known as a "vortex
+   glass". Below this vortex glass transition temperature, the resistance
+   of the material becomes truly zero.
+
+Superconducting phase transition
+
+   Behavior of heat capacity (cv) and resistivity (ρ) at the
+   superconducting phase transition
+   Behaviour of heat capacity (c[v]) and resistivity (ρ) at the
+   superconducting phase transition
+
+   In superconducting materials, the characteristics of superconductivity
+   appear when the temperature T is lowered below a critical temperature
+   T[c]. The value of this critical temperature varies from material to
+   material. Conventional superconductors usually have critical
+   temperatures ranging from less than 1 K to around 20 K. Solid mercury,
+   for example, has a critical temperature of 4.2 K. As of 2001, the
+   highest critical temperature found for a conventional superconductor is
+   39 K for magnesium diboride (MgB[2]), although this material displays
+   enough exotic properties that there is doubt about classifying it as a
+   "conventional" superconductor. Cuprate superconductors can have much
+   higher critical temperatures: YBa[2]Cu[3]O[7], one of the first cuprate
+   superconductors to be discovered, has a critical temperature of 92 K,
+   and mercury-based cuprates have been found with critical temperatures
+   in excess of 130 K. The explanation for these high critical
+   temperatures remains unknown. (Electron pairing due to phonon exchanges
+   explains superconductivity in conventional superconductors, but it does
+   not explain superconductivity in the newer superconductors that have a
+   very high T[c].)
+
+   The onset of superconductivity is accompanied by abrupt changes in
+   various physical properties, which is the hallmark of a phase
+   transition. For example, the electronic heat capacity is proportional
+   to the temperature in the normal (non-superconducting) regime. At the
+   superconducting transition, it suffers a discontinuous jump and
+   thereafter ceases to be linear. At low temperatures, it varies instead
+   as e^−α /T for some constant α. (This exponential behaviour is one of
+   the pieces of evidence for the existence of the energy gap.)
+
+   The order of the superconducting phase transition was long a matter of
+   debate. Experiments indicate that the transition is second-order,
+   meaning there is no latent heat. In the seventies calculations
+   suggested that it may actually be weakly first-order due to the effect
+   of long-range fluctuations in the electromagnetic field. Only recently
+   it was shown theoretically with the help of a disorder field theory, in
+   which the vortex lines of the superconductor play a major role, that
+   the transition is of second order within the type II regime and of
+   first order (i.e., latent heat) within the type I regime, and that the
+   two regions are separated by a tricritical point.
+
+Meissner effect
+
+   When a superconductor is placed in a weak external magnetic field H,
+   the field penetrates the superconductor for only a short distance λ,
+   called the London penetration depth, after which it decays rapidly to
+   zero. This is called the Meissner effect, and is a defining
+   characteristic of superconductivity. For most superconductors, the
+   London penetration depth is on the order of 100 nm.
+
+   The Meissner effect is sometimes confused with the kind of diamagnetism
+   one would expect in a perfect electrical conductor: according to Lenz's
+   law, when a changing magnetic field is applied to a conductor, it will
+   induce an electrical current in the conductor that creates an opposing
+   magnetic field. In a perfect conductor, an arbitrarily large current
+   can be induced, and the resulting magnetic field exactly cancels the
+   applied field.
+
+   The Meissner effect is distinct from this because a superconductor
+   expels all magnetic fields, not just those that are changing. Suppose
+   we have a material in its normal state, containing a constant internal
+   magnetic field. When the material is cooled below the critical
+   temperature, we would observe the abrupt expulsion of the internal
+   magnetic field, which we would not expect based on Lenz's law.
+
+   The Meissner effect was explained by the brothers Fritz and Heinz
+   London, who showed that the electromagnetic free energy in a
+   superconductor is minimized provided
+
+          \nabla^2\mathbf{H} = \lambda^{-2} \mathbf{H}\,
+
+   where H is the magnetic field and λ is the London penetration depth.
+
+   This equation, which is known as the London equation, predicts that the
+   magnetic field in a superconductor decays exponentially from whatever
+   value it possesses at the surface.
+
+   The Meissner effect breaks down when the applied magnetic field is too
+   large. Superconductors can be divided into two classes according to how
+   this breakdown occurs. In Type I superconductors, superconductivity is
+   abruptly destroyed when the strength of the applied field rises above a
+   critical value H[c]. Depending on the geometry of the sample, one may
+   obtain an intermediate state consisting of regions of normal material
+   carrying a magnetic field mixed with regions of superconducting
+   material containing no field. In Type II superconductors, raising the
+   applied field past a critical value H[c1] leads to a mixed state in
+   which an increasing amount of magnetic flux penetrates the material,
+   but there remains no resistance to the flow of electrical current as
+   long as the current is not too large. At a second critical field
+   strength H[c2], superconductivity is destroyed. The mixed state is
+   actually caused by vortices in the electronic superfluid, sometimes
+   called fluxons because the flux carried by these vortices is quantized.
+   Most pure elemental superconductors (except niobium, technetium,
+   vanadium and carbon nanotubes) are Type I, while almost all impure and
+   compound superconductors are Type II.
+
+Theories of superconductivity
+
+   Since the discovery of superconductivity, great efforts have been
+   devoted to finding out how and why it works. During the 1950s,
+   theoretical condensed matter physicists arrived at a solid
+   understanding of "conventional" superconductivity, through a pair of
+   remarkable and important theories: the phenomenological Ginzburg-Landau
+   theory ( 1950) and the microscopic BCS theory ( 1957). Generalizations
+   of these theories form the basis for understanding the closely related
+   phenomenon of superfluidity (because they fall into the Lambda
+   transition universality class), but the extent to which similar
+   generalizations can be applied to unconventional superconductors as
+   well is still controversial.
+
+History of superconductivity
+
+   Superconductivity was discovered in 1911 by Heike Kamerlingh Onnes, who
+   was studying the resistance of solid mercury at cryogenic temperatures
+   using the recently-discovered liquid helium as a refrigerant. At the
+   temperature of 4.2 K, he observed that the resistance abruptly
+   disappeared. For this discovery, he was awarded the Nobel Prize in
+   Physics in 1913.
+
+   In subsequent decades, superconductivity was found in several other
+   materials. In 1913, lead was found to superconduct at 7 K, and in 1941
+   niobium nitride was found to superconduct at 16 K.
+
+   The next important step in understanding superconductivity occurred in
+   1933, when Meissner and Ochsenfeld discovered that superconductors
+   expelled applied magnetic fields, a phenomenon which has come to be
+   known as the Meissner effect. In 1935, F. and H. London showed that the
+   Meissner effect was a consequence of the minimization of the
+   electromagnetic free energy carried by superconducting current.
+
+   In 1950, the phenomenological Ginzburg-Landau theory of
+   superconductivity was devised by Landau and Ginzburg. This theory,
+   which combined Landau's theory of second-order phase transitions with a
+   Schrödinger-like wave equation, had great success in explaining the
+   macroscopic properties of superconductors. In particular, Abrikosov
+   showed that Ginzburg-Landau theory predicts the division of
+   superconductors into the two categories now referred to as Type I and
+   Type II. Abrikosov and Ginzburg were awarded the 2003 Nobel Prize for
+   their work (Landau having died in 1968.)
+
+   Also in 1950, Maxwell and Reynolds et al. found that the critical
+   temperature of a superconductor depends on the isotopic mass of the
+   constituent element. This important discovery pointed to the
+   electron-phonon interaction as the microscopic mechanism responsible
+   for superconductivity.
+
+   The complete microscopic theory of superconductivity was finally
+   proposed in 1957 by Bardeen, Cooper, and Schrieffer. Independently
+   superconductivity phenomenon was explained by Nikolay Bogolyubov. This
+   BCS theory explained the superconducting current as a superfluid of
+   Cooper pairs, pairs of electrons interacting through the exchange of
+   phonons. For this work, the authors were awarded the Nobel Prize in
+   1972.
+
+   The BCS theory was set on a firmer footing in 1958, when Bogoliubov
+   showed that the BCS wavefunction, which had originally been derived
+   from a variational argument, could be obtained using a canonical
+   transformation of the electronic Hamiltonian. In 1959, Gor'kov showed
+   that the BCS theory reduced to the Ginzburg-Landau theory close to the
+   critical temperature.
+
+   In 1962, the first commercial superconducting wire, a niobium-titanium
+   alloy, was developed by researchers at Westinghouse. In the same year,
+   Josephson made the important theoretical prediction that a supercurrent
+   can flow between two pieces of superconductor separated by a thin layer
+   of insulator. This phenomenon, now called the Josephson effect, is
+   exploited by superconducting devices such as SQUIDs. It is used in the
+   most accurate available measurements of the magnetic flux quantum h/e,
+   and thus (coupled with the quantum Hall resistivity) for Planck's
+   constant h. Josephson was awarded the Nobel Prize for this work in
+   1973.
+
+   Until 1986, physicists had believed that BCS theory forbade
+   superconductivity at temperatures above about 30 K. In that year,
+   Bednorz and Müller discovered superconductivity in a lanthanum-based
+   cuprate perovskite material, which had a transition temperature of 35 K
+   (Nobel Prize in Physics, 1987). It was shortly found by Paul C. W. Chu
+   of the University of Houston and M.K. Wu at the University of Alabama
+   in Huntsville that replacing the lanthanum with yttrium, i.e. making
+   YBCO, raised the critical temperature to 92 K, which was important
+   because liquid nitrogen could then be used as a refrigerant (at
+   atmospheric pressure, the boiling point of nitrogen is 77 K.) This is
+   important commercially because liquid nitrogen can be produced cheaply
+   on-site with no raw materials, and is not prone to some of the problems
+   (solid air plugs, etc) of helium in piping. Many other cuprate
+   superconductors have since been discovered, and the theory of
+   superconductivity in these materials is one of the major outstanding
+   challenges of theoretical condensed matter physics.
+
+Applications
+
+   Superconductors are used to make some of the most powerful
+   electromagnets known to man, including those used in MRI machines and
+   the beam-steering magnets used in particle accelerators. They can also
+   be used for magnetic separation, where weakly magnetic particles are
+   extracted from a background of less or non-magnetic particles, as in
+   the pigment industries.
+
+   Superconductors have also been used to make digital circuits (e.g.
+   based on the Rapid Single Flux Quantum technology) and microwave
+   filters for mobile phone base stations.
+
+   Superconductors are used to build Josephson junctions which are the
+   building blocks of SQUIDs (superconducting quantum interference
+   devices), the most sensitive magnetometers known. Series of Josephson
+   devices are used to define the SI volt. Depending on the particular
+   mode of operation, a Josephson junction can be used as photon detector
+   or as mixer. The large resistance change at the transition from the
+   normal- to the superconducting state is used to build thermometers in
+   cryogenic micro-calorimeter photon detectors.
+
+   Other early markets are arising where the relative efficiency, size and
+   weight advantages of devices based on HTS outweigh the additional costs
+   involved.
+
+   Promising future applications include high-performance transformers,
+   power storage devices, electric power transmission, electric motors
+   (e.g. for vehicle propulsion, as in vactrains or maglev trains),
+   magnetic levitation devices, and Fault Current Limiters. However
+   superconductivity is sensitive to moving magnetic fields so
+   applications that use alternating current (e.g. transformers) will be
+   more difficult to develop than those that rely upon direct current.
+
+Superconductors in popular culture
+
+   Superconductivity has long been a staple of science fiction. One of the
+   first mentions of the phenomenon occurred in Robert A. Heinlein's novel
+   Beyond This Horizon ( 1942). Notably, the use of a fictional room
+   temperature superconductor was a major plot point in the Ringworld
+   novels by Larry Niven, first published in 1970. Organic superconductors
+   were featured in a science fiction novel by physicist Robert L.
+   Forward.
+
+   Superconductivity is a popular device in science fiction due to the
+   simplicity of the underlying concept - zero electrical resistance - and
+   the rich technological possibilities. For example, superconducting
+   magnets could be used to generate the powerful magnetic fields used by
+   Bussard ramjets, a type of spacecraft commonly encountered in science
+   fiction. The most troublesome property of real superconductors, the
+   need for cryogenic cooling, is often circumvented by postulating the
+   existence of room temperature superconductors. Many stories attribute
+   additional properties to their fictional superconductors, ranging from
+   infinite heat conductivity (ie thermal superconductivity) in Niven's
+   novels (real superconductors conduct heat poorly, though superfluid
+   helium has immense but finite heat conductivity) to providing power to
+   an interstellar travel device in the Stargate movie and TV series.
+
+   In the movie Terminator 2: Judgment Day, the CPU of the T-800 destroyed
+   in Terminator 1 is found to be superconductive at room temperature.
+
+   In the TV series Stargate Atlantis the cast members had a problem of
+   power supply and their solution was to store power from an electrical
+   storm in the superconductive materials in the walls of the city.
+
+   Superconductors are a technology required in the Civilization series of
+   computer games in order to build the spaceship to Alpha Centauri hence
+   achieving a space victory. Superconductors are also an early technology
+   in another of Sid Meier's games, Alpha Centauri
+
+   In the movie " Strangers with Candy", students in a science class build
+   a superconductor made of soup cans.
+
+   In the movie "Joe versus the Volcano", an industrialist needs a mineral
+   called bubaru to make superconductors.
+   Retrieved from " http://en.wikipedia.org/wiki/Superconductivity"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

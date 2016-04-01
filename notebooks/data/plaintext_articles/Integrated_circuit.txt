@@ -1,0 +1,446 @@
+   #copyright
+
+Integrated circuit
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure; Electricity and Electronics
+
+   Integrated circuit showing memory blocks, logic and input/output pads
+   around the periphery
+   Integrated circuit showing memory blocks, logic and input/output pads
+   around the periphery
+   Microchips with a transparent window, showing the integrated circuit
+   inside. Note the fine silver-colored wires that connect the integrated
+   circuit to the pins of the package.
+   Microchips with a transparent window, showing the integrated circuit
+   inside. Note the fine silver-colored wires that connect the integrated
+   circuit to the pins of the package.
+
+   A monolithic integrated circuit (also known as IC, microcircuit,
+   microchip, silicon chip, or chip) is a miniaturized electronic circuit
+   (consisting mainly of semiconductor devices, as well as passive
+   components) that has been manufactured in the surface of a thin
+   substrate of semiconductor material.
+
+   A hybrid integrated circuit is a miniaturized electronic circuit
+   constructed of individual semiconductor devices, as well as passive
+   components, bonded to a substrate or circuit board.
+
+   This article is about monolithic integrated circuits.
+
+Introduction
+
+   Integrated circuits were made possible by experimental discoveries
+   which showed that semiconductor devices could perform the functions of
+   vacuum tubes, and by mid-20th-century technology advancements in
+   semiconductor device fabrication. The integration of large numbers of
+   tiny transistors into a small chip was an enormous improvement over the
+   manual assembly of circuits using discrete electronic components. The
+   integrated circuit's mass production capability, reliability, and
+   building-block approach to circuit design ensured the rapid adoption of
+   standardized ICs in place of designs using discrete transistors.
+
+   There are two main advantages of ICs over discrete circuits: cost and
+   performance. Cost is low because the chips, with all their components,
+   are printed as a unit by photolithography and not constructed a
+   transistor at a time. Performance is high since the components switch
+   quickly and consume little power, because the components are small and
+   close together. As of 2006, chip areas range from a few square mm to
+   around 350 mm^2, with up to 1 million transistors per mm^2.
+
+Advances in integrated circuits
+
+   The integrated circuit from an Intel 8742, an 8-bit microcontroller
+   that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of
+   EPROM, and I/O in the same chip.
+   The integrated circuit from an Intel 8742, an 8-bit microcontroller
+   that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of
+   EPROM, and I/O in the same chip.
+
+   Among the most advanced integrated circuits are the microprocessors or
+   "cores", which control everything from computers to cellular phones to
+   digital microwave ovens. Digital memory chips and ASICs are examples of
+   other families of integrated circuits that are important to the modern
+   information society. While cost of designing and developing a complex
+   integrated circuit is quite high, when spread across typically millions
+   of production units the individual IC cost is minimized. The
+   performance of ICs is high because the small size allows short traces
+   which in turn allows low power logic (such as CMOS) to be used at fast
+   switching speeds.
+
+   ICs have consistently migrated to smaller feature sizes over the years,
+   allowing more circuitry to be packed on each chip. This increased
+   capacity per unit area can be used to decrease cost and/or increase
+   functionality—see Moore's law which, in its modern interpretation,
+   states that the number of transistors in an integrated circuit doubles
+   every two years. In general, as the feature size shrinks, almost
+   everything improves—the cost per unit and the switching power
+   consumption go down, and the speed goes up. However, ICs with
+   nanometer-scale devices are not without their problems, principal among
+   which is leakage current (see subthreshold leakage and MOSFET for a
+   discussion of this), although these problems are not insurmountable and
+   will likely be solved or at least ameliorated by the introduction of
+   high-k dielectrics. Since these speed and power consumption gains are
+   apparent to the end user, there is fierce competition among the
+   manufacturers to use finer geometries. This process, and the expected
+   progress over the next few years, is well described by the
+   International Technology Roadmap for Semiconductors (ITRS).
+
+Popularity of ICs
+
+   Only a half century after their development was initiated, integrated
+   circuits have become ubiquitous. Computers, cellular phones, and other
+   digital appliances are now inextricable parts of the structure of
+   modern societies. That is, modern computing, communications,
+   manufacturing and transport systems, including the Internet, all depend
+   on the existence of integrated circuits. Indeed, many scholars believe
+   that the digital revolution brought about by integrated circuits was
+   one of the most significant occurrences in the history of mankind.
+
+Classification
+
+   A CMOS 4000 IC in a DIP
+   A CMOS 4000 IC in a DIP
+
+   Integrated circuits can be classified into analog, digital and mixed
+   signal (both analog and digital on the same chip).
+
+   Digital integrated circuits can contain anything from a few thousand to
+   millions of logic gates, flip-flops, multiplexers, and other circuits
+   in a few square millimeters. The small size of these circuits allows
+   high speed, low power dissipation, and reduced manufacturing cost
+   compared with board-level integration. These digital ICs, typically
+   microprocessors, DSPs, and micro controllers work using binary
+   mathematics to process "one" and "zero" signals.
+
+   Analog ICs, such as sensors, power management circuits, and operational
+   amplifiers, work by processing continuous signals. They perform
+   functions like amplification, active filtering, demodulation, mixing,
+   etc. Analog ICs ease the burden on circuit designers by having expertly
+   designed analog circuits available instead of designing a difficult
+   analog circuit from scratch.
+
+   ICs can also combine analog and digital circuits on a single chip to
+   create functions such as A/D converters and D/A converters. Such
+   circuits offer smaller size and lower cost, but must carefully account
+   for signal interference (see signal integrity).
+
+Manufacture
+
+Fabrication
+
+   Rendering of a small standard cell with three metal layers (dielectric
+   has been removed). The sand-colored structures are metal interconnect,
+   with the vertical pillars being contacts, typically plugs of tungsten.
+   The reddish structures are polysilicon gates, and the solid at the
+   bottom is the crystalline silicon bulk.
+   Rendering of a small standard cell with three metal layers ( dielectric
+   has been removed). The sand-colored structures are metal interconnect,
+   with the vertical pillars being contacts, typically plugs of tungsten.
+   The reddish structures are polysilicon gates, and the solid at the
+   bottom is the crystalline silicon bulk.
+
+   The semiconductors of the periodic table of the chemical elements were
+   identified as the most likely materials for a solid state vacuum tube
+   by researchers like William Shockley at Bell Laboratories starting in
+   the 1930s. Starting with copper oxide, proceeding to germanium, then
+   silicon, the materials were systematically studied in the 1940s and
+   1950s. Today, silicon monocrystals are the main substrate used for
+   integrated circuits (ICs) although some III-V compounds of the periodic
+   table such as gallium arsenide are used for specialised applications
+   like LEDs, lasers, solar cells and the highest-speed integrated
+   circuits. It took decades to perfect methods of creating crystals
+   without defects in the crystalline structure of the semiconducting
+   material.
+
+   Semiconductor ICs are fabricated in a layer process which includes
+   these key process steps:
+     * Imaging
+     * Deposition
+     * Etching
+
+   The main process steps are supplemented by doping, cleaning and
+   planarisation steps.
+
+   Mono-crystal silicon wafers (or for special applications, silicon on
+   sapphire or gallium arsenide wafers) are used as the substrate.
+   Photolithography is used to mark different areas of the substrate to be
+   doped or to have polysilicon, insulators or metal (typically aluminium)
+   tracks deposited on them.
+     * Integrated circuits are composed of many ovelapping layers, each
+       defined by photolithography, and normally shown in different
+       colors. Some layers mark where various dopants are diffused into
+       the substrate (called diffusion layers), some define where
+       additional ions are implanted (implant layers), some define the
+       conductors (polysilicon or metal layers), and some define the
+       connections between the conducting layers (via or contact layers).
+       All components are constructed from a specific combination of these
+       layers.
+     * In a self-aligned CMOS process, a transistor is formed wherever the
+       gate layer (polysilicon or metal) crosses a diffusion layer.
+     * Resistive structures, meandering stripes of varying lengths, form
+       the loads on the circuit. The ratio of the length of the resistive
+       structure to its width, combined with its sheet resistivity
+       determines the resistance.
+     * Capacitive structures, in form very much like the parallel
+       conducting plates of a traditional electrical capacitor, are formed
+       according to the area of the "plates", with insulating material
+       between the plates. Owing to limitations in size, only very small
+       capacitances can be created on an IC.
+     * More rarely, inductive structures can be built as tiny on-chip
+       coils, or simulated by gyrators.
+
+   Since a CMOS device only draws current on the transition between logic
+   states, CMOS devices consume much less current than bipolar devices.
+
+   A random access memory is the most regular type of integrated circuit;
+   the highest density devices are thus memories; but even a
+   microprocessor will have memory on the chip. (See the regular array
+   structure at the bottom of the first image.) Although the structures
+   are intricate – with widths which have been shrinking for decades – the
+   layers remain much thinner than the device widths. The layers of
+   material are fabricated much like a photographic process, although
+   light waves in the visible spectrum cannot be used to "expose" a layer
+   of material, as they would be too large for the features. Thus photons
+   of higher frequencies (typically ultraviolet) are used to create the
+   patterns for each layer. Because each feature is so small, electron
+   microscopes are essential tools for a process engineer who might be
+   debugging a fabrication process.
+
+   Each device is tested before packaging using automated test equipment
+   (ATE), in a process known as wafer testing, or wafer probing. The wafer
+   is then cut into rectangular blocks, each of which is called a die.
+   Each good die (plural dice, dies, or die) is then connected into a
+   package using aluminium (or gold) wires which are welded to pads,
+   usually found around the edge of the die. After packaging, the devices
+   go through final test on the same or similar ATE used during wafer
+   probing. Test cost can account for over 25% of the cost of fabrication
+   on lower cost products, but can be negligible on low yielding, larger,
+   and/or higher cost devices.
+
+   As of 2005, a fabrication facility (commonly known as a semiconductor
+   fab) costs over a billion US Dollars to construct, because much of the
+   operation is automated. The most advanced processes employ the
+   following techniques:
+     * The wafers are up to 300 mm in diameter (wider than a common dinner
+       plate).
+     * Use of 90 nanometer or smaller chip manufacturing process. Intel,
+       IBM, NEC, and AMD are using 90 nanometers for their CPU chips, and
+       AMD , Intel and NEC have started using a 65 nanometer process. IBM
+       and AMD are in development of a 45-nm process using immersion
+       lithography.
+     * Copper interconnects where copper wiring replaces aluminium for
+       interconnects.
+     * Low-K dielectric insulators.
+     * Silicon on insulator (SOI)
+     * Strained silicon in a process used by IBM known as Strained silicon
+       directly on insulator (SSDOI)
+
+Packaging
+
+   The earliest integrated circuits were packaged in ceramic flat packs,
+   which continued to be used by the military for their reliability and
+   small size for many years. Commercial circuit packaging quickly moved
+   to the dual in-line package (DIP), first in ceramic and later in
+   plastic. In the 1980s pin counts of VLSI circuits exceeded the
+   practical limit for DIP packaging, leading to pin grid array (PGA) and
+   leadless chip carrier (LCC) packages. Surface mount packaging appeared
+   in the early 1980s and became popular in the late 1980s, using finer
+   lead pitch with leads formed as either gull-wing or J-lead, as
+   exemplified by Small-Outline Integrated Circuit. A carrier which
+   occupies an area about 30 – 50% less than an equivalent DIP, with a
+   typical thickness that is 70% less. This package has "gull wing" leads
+   protruding from the two long sides and a lead spacing of 0.050 inches.
+
+   Small-Outline Integrated Circuit (SOIC) and PLCC packages. In the late
+   1990s, PQFP and TSOP packages became the most common for high pin count
+   devices, though PGA packages are still often used for high-end
+   microprocessors. Intel and AMD are currently transitioning from PGA
+   packages on high-end microprocessors to land grid array (LGA) packages.
+
+   Ball grid array (BGA) packages have existed since the 1970s. Flip-chip
+   Ball Grid Array packages, which allow for much higher pin count than
+   other package types, were developed in the 1990s. In an FCBGA package
+   the die is mounted upside-down (flipped) and connects to the package
+   balls via a package substrate that is similar to a printed-circuit
+   board rather than by wires. FCBGA packages allow an array of
+   input-output signals (called Area-I/O) to be distributed over the
+   entire die rather than being confined to the die periphery.
+
+   Traces out of the die, through the package, and into the printed
+   circuit board have very different electrical properties, compared to
+   on-chip signals. They require special design techniques and need much
+   more electric power than signals confined to the chip itself.
+
+   When multiple dies are put in one package, it is called SiP, for System
+   In Package. When multiple dies are combined on a small substrate, often
+   ceramic, it's called a MCM, or Multi-Chip Module. The boundary between
+   a big MCM and a small printed circuit board is sometimes fuzzy.
+
+History, origins, and generations
+
+The birth of the IC
+
+   The integrated circuit was first conceived by a radar scientist,
+   Geoffrey W.A. Dummer (born 1909), working for the Royal Radar
+   Establishment of the British Ministry of Defence, and published in
+   Washington, D.C. on May 7, 1952. Dummer unsuccessfully attempted to
+   build such a circuit in 1956.
+
+   A precursor idea to the IC was to create small ceramic squares
+   (wafers), each one containing a single miniaturized component.
+   Components could then be integrated and wired into a bidimensional or
+   tridimensional compact grid. This idea, which looked very promising in
+   1957, was proposed to the US Army by Jack Kilby, and led to the
+   short-lived Micromodule Program (similar to 1951's Project Tinkertoy).
+   However, as the project was gaining momentum, Kilby came up with a new,
+   revolutionary design: the IC.
+
+   The first integrated circuits were manufactured independently by two
+   scientists: Jack Kilby of Texas Instruments filed a patent for a "Solid
+   Circuit" made of germanium on February 6, 1959. Kilby received patents
+   U.S. Patent 3,138,743, U.S. Patent 3,138,747, U.S. Patent 3,261,081,
+   and U.S. Patent 3,434,015. Robert Noyce of Fairchild Semiconductor was
+   awarded a patent for a more complex "unitary circuit" made of Silicon
+   on April 25, 1961. (See the Chip that Jack built for more information.)
+
+   Noyce credited Kurt Lehovec of Sprague Electric for the principle of
+   p-n junction isolation caused by the action of a biased p-n junction
+   (the diode) as a key concept behind the IC.
+
+   See: Other variations of vacuum tubes for precursor concepts such as
+   the Loewe 3NF.
+
+SSI, MSI, LSI
+
+   The first integrated circuits contained only a few transistors. Called
+   "Small-Scale Integration" (SSI), they used circuits containing
+   transistors numbering in the tens.
+
+   SSI circuits were crucial to early aerospace projects, and vice-versa.
+   Both the Minuteman missile and Apollo program needed lightweight
+   digital computers for their inertially-guided flight computers; the
+   Apollo guidance computer led and motivated the integrated-circuit
+   technology, while the Minuteman missile forced it into mass-production.
+
+   These programs purchased almost all of the available integrated
+   circuits from 1960 through 1963, and almost alone provided the demand
+   that funded the production improvements to get the production costs
+   from $1000/circuit (in 1960 dollars) to merely $25/circuit (in 1963
+   dollars). They began to appear in consumer products at the turn of the
+   decade, a typical application being FM inter-carrier sound processing
+   in television receivers.
+
+   The next step in the development of integrated circuits, taken in the
+   late 1960s, introduced devices which contained hundreds of transistors
+   on each chip, called "Medium-Scale Integration" (MSI).
+
+   They were attractive economically because while they cost little more
+   to produce than SSI devices, they allowed more complex systems to be
+   produced using smaller circuit boards, less assembly work (because of
+   fewer separate components), and a number of other advantages.
+
+   Further development, driven by the same economic factors, led to
+   "Large-Scale Integration" (LSI) in the mid 1970s, with tens of
+   thousands of transistors per chip.
+
+   Integrated circuits such as 1K-bit RAMs, calculator chips, and the
+   first microprocessors, that began to be manufactured in moderate
+   quantities in the early 1970s, had under 4000 transistors. True LSI
+   circuits, approaching 10000 transistors, began to be produced around
+   1974, for computer main memories and second-generation microprocessors.
+
+VLSI
+
+   Upper interconnect layers on an Intel 80486DX2 microprocessor die.
+   Upper interconnect layers on an Intel 80486DX2 microprocessor die.
+
+   The final step in the development process, starting in the 1980s and
+   continuing on, was "Very Large-Scale Integration" ( VLSI), with
+   hundreds of thousands of transistors, and beyond (well past several
+   million in the latest stages).
+
+   For the first time it became possible to fabricate a CPU on a single
+   integrated circuit, to create a microprocessor. In 1986 the first one
+   megabit RAM chips were introduced, which contained more than one
+   million transistors. Microprocessor chips produced in 1994 contained
+   more than three million transistors.
+
+   This step was largely made possible by the codification of "design
+   rules" for the CMOS technology used in VLSI chips, which made
+   production of working devices much more of a systematic endeavour. (See
+   the 1980 landmark text by Carver Mead and Lynn Conway referenced
+   below.)
+
+ULSI, WSI, SOC
+
+   To reflect further growth of the complexity, the term ULSI that stands
+   for "Ultra-Large Scale Integration" was proposed for chips of
+   complexity more than 1 million of transistors. However, there is no
+   qualitative leap between VLSI and ULSI, hence normally in technical
+   texts the "VLSI" term covers ULSI as well, and "ULSI" is reserved only
+   for cases when it is necessary to emphasize the chip complexity, e.g.
+   in marketing.
+
+   The most extreme integration technique is wafer-scale integration
+   (WSI), which uses whole uncut wafers containing entire computers
+   (processors as well as memory). Attempts to take this step commercially
+   in the 1980s (e.g. by Gene Amdahl) failed, mostly because of
+   defect-free manufacturability problems, and it does not now seem to be
+   a high priority for the industry.
+
+   The WSI technique failed commercially, but advances in semiconductor
+   manufacturing allowed for another attack on IC complexity, known as
+   System-on-Chip (SOC) design. In this approach, components traditionally
+   manufactured as separate chips to be wired together on a printed
+   circuit board are designed to occupy a single chip that contains
+   memory, microprocessor(s), peripheral interfaces, Input/Output logic
+   control, data converters, and other components, together composing the
+   whole electronic system.
+
+Other developments
+
+   In the 1980s programmable integrated circuits were developed. These
+   devices contain circuits whose logical function and connectivity can be
+   programmed by the user, rather than being fixed by the integrated
+   circuit manufacturer. This allows a single chip to be programmed to
+   implement different LSI-type functions such as logic gates, adders, and
+   registers. Current devices named FPGAs (Field Programmable Gate Arrays)
+   can now implement tens of thousands of LSI circuits in parallel and
+   operate up to 400 MHz.
+
+   The techniques perfected by the integrated circuits industry over the
+   last three decades have been used to create microscopic machines, known
+   as MEMS. These devices are used in a variety of commercial and military
+   applications. Example commercial applications include DLP projectors,
+   inkjet printers, and accelerometers used to deploy automobile airbags.
+
+   In the past, radios could not be fabricated in the same low-cost
+   processes as microprocessors. But since 1998, a large number of radio
+   chips have been developed using CMOS processes. Examples include
+   Intel's DECT cordless phone, or Atheros's 802.11 card.
+
+   Future developments seem to follow the multi-microprocessor paradigm,
+   already used by the Intel and AMD dual-core processors. Intel recently
+   unveiled a prototype, "not for commercial sale" chip that bears a
+   staggering 80 microprocessors. Each core is capable of handling it's
+   own task independently of the others. This is in resposnse to the heat
+   vs speed limit that is about to be reached using existing transistor
+   technology. This design provides a new challenge to chip programming.
+   X10 is the new open-source programming language designed to assist with
+   this task.
+
+Silicon graffiti
+
+   Ever since ICs were created, some chip designers have used the silicon
+   surface area for surreptitious, non-functional images or words. These
+   are sometimes referred to as Chip Art, or Silicon Art, or Silicon
+   Graffiti, or Silicon Doodling. For an overview of this practice, see
+   the article The Secret Art of Chip Graffiti, from the IEEE magazine
+   Spectrum.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Integrated_circuit"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

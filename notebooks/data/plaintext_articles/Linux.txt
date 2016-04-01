@@ -1,0 +1,374 @@
+   #copyright
+
+Linux
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: Linux
+
+   Tux the penguin, mascot of Linux
+   Tux the penguin, based on an image created by Larry Ewing in 1996, is
+   the mascot of Linux.
+   OS family: Unix-like
+   Latest stable release: 2.6.18.3 ( kernel) / November 19, 2006
+   Kernel type: Monolithic kernel
+   License: GNU General Public License
+   Working state: Current
+
+   Linux (also known as GNU/Linux) is a Unix-like computer operating
+   system. It is one of the most prominent examples of open source
+   development and free software; its underlying source code is available
+   for anyone to use, modify, and redistribute freely.
+
+   Initially developed and used primarily by individual enthusiasts on
+   personal computers, Linux has since gained the support of corporations
+   such as IBM, Sun Microsystems, Hewlett-Packard, and Novell, Inc., and
+   has risen to prominence as an operating system for servers; eight of
+   the ten most reliable internet hosting companies now run Linux on their
+   web servers.
+
+   Linux has been more widely ported to different computing platforms than
+   any other operating system. It is used in devices ranging from
+   supercomputers to mobile phones, and is gaining popularity in the
+   personal computer market.
+
+History
+
+Early
+
+   Linus Torvalds, creator of the Linux kernel.
+   Enlarge
+   Linus Torvalds, creator of the Linux kernel.
+
+   In 1983, Richard Stallman founded the GNU Project, with the goal of
+   developing a complete Unix-like operating system composed entirely of
+   free software. By the beginning of the 1990s, GNU had produced or
+   collected most of the necessary components of this system — libraries,
+   compilers, text editors, a Unix shell — except for the core component,
+   the kernel. The GNU project began developing a kernel, the GNU Hurd, in
+   1990, based on the Mach microkernel, but the development of this
+   Mach-based design proved difficult and proceeded slowly.
+
+   Meanwhile, in 1991, another kernel was begun as a hobby by Finnish
+   university student Linus Torvalds while attending the University of
+   Helsinki. Torvalds originally used Minix on his own computer, a
+   simplified Unix-like system written by Andrew Tanenbaum for teaching
+   operating system design. However, Tanenbaum did not permit others to
+   extend his operating system, leading Torvalds to create a replacement
+   for Minix.
+
+   Originally, Torvalds called his kernel "Freax" for "free" and "freak"
+   and with the often-used X in the names of Unix-like systems. The name
+   "Linux" was coined by Ari Lemmke, who administered an FTP server
+   belonging to the Finnish University Network; he invented the name Linux
+   for the directory from which Torvalds' project was first available for
+   download.
+   A graphic history of Unix systems. Linux is a Unix-type system but its
+   source code does not descend from the original Unix.
+   Enlarge
+   A graphic history of Unix systems. Linux is a Unix-type system but its
+   source code does not descend from the original Unix.
+
+   At first a computer running Minix was necessary in order to configure
+   and install Linux. Initial versions of Linux also required another
+   operating system to be present in order to boot from a hard disk, but
+   soon there were independent boot loaders such as LILO. The Linux system
+   quickly surpassed Minix in functionality; Torvalds and other early
+   Linux kernel developers adapted their work for the GNU components and
+   user-space programs to create a complete, fully functional, and free
+   (as in freedom) operating system.
+
+   Today, Torvalds continues to direct the development of the kernel,
+   while other subsystems such as the GNU components continue to be
+   developed separately. Other groups and companies combine and distribute
+   these components with additional application software in the form of
+   Linux distributions.
+
+Linux and the GNU Project
+
+   Richard Stallman, founder of the GNU project for a free operating
+   system.
+   Enlarge
+   Richard Stallman, founder of the GNU project for a free operating
+   system.
+
+   The goal of the GNU project is to produce a Unix-compatible operating
+   system consisting entirely of free software, and most general-purpose
+   Linux distributions rely on GNU libraries and tools written to that
+   effect. The Free Software Foundation views these Linux distributions as
+   "variants" of the GNU system, and asks that such operating systems be
+   referred to as GNU/Linux or a Linux-based GNU system. While some
+   distributions make a point of using the combined form - notably Debian
+   GNU/Linux - its use outside of the enthusiast community is limited, and
+   Linus Torvalds has said that he finds calling Linux in general
+   GNU/Linux "just ridiculous". The distinction between the Linux kernel
+   and distributions based on it is a source of confusion to many
+   newcomers, and the naming remains controversial.
+
+SCO litigation
+
+   In March 2003, the SCO Group filed a lawsuit against IBM, claiming that
+   IBM had contributed portions of SCO's copyrighted code to the Linux
+   kernel in violation of IBM's license to use Unix. Additionally, SCO
+   sent letters to a number of companies warning that their use of Linux
+   without a license from SCO may be actionable, and claimed in the press
+   that they would be suing individual Linux users. This controversy has
+   involved lawsuits by SCO against DaimlerChrysler (dismissed in 2004),
+   and AutoZone, and by Red Hat and others against SCO. Furthermore,
+   whether SCO even owns the relevant Unix copyrights is currently
+   disputed by Novell.
+
+   As per the Utah District Court ruling on July 3, 2006; 182 claims out
+   of 294 claims made by SCO against IBM have been dismissed.
+
+   SCO's claims have varied widely. As of 2006, no proof of SCO's claims
+   of copied code in Linux has been provided.
+
+Portability
+
+   The Linux kernel was originally designed only for Intel 80386
+   microprocessors, but now supports a wide variety of computer
+   architectures. Linux is one of the most widely ported operating
+   systems, running on a diverse range of systems from the hand-held
+   ARM-based iPAQ to the mainframe IBM System z9. Specialized
+   distributions exist for less mainstream architectures. The ELKS kernel
+   fork can run on Intel 8086 or 286 16-bit microprocessors. There are
+   even ports to atypical devices such as iPods and consoles.
+
+Copyright, licensing, and the Linux trademark
+
+   The Linux kernel and most GNU software are licensed under the GNU
+   General Public License. The GPL requires that all distributed source
+   code modifications and derived works also be licensed under the GPL,
+   and is sometimes referred to as a "share and share-alike" or "
+   copyleft" license. In 1997, Linus Torvalds stated, "Making Linux GPL'd
+   was definitely the best thing I ever did." Other software may use other
+   licenses; many libraries use the GNU Lesser General Public License
+   (LGPL), a more permissive variant of the GPL, and the X Window System
+   uses the MIT License.
+
+   In the United States, the name Linux is a trademark registered to Linus
+   Torvalds. Initially, nobody registered it, but on August 15, 1994,
+   William R. Della Croce, Jr. filed for the trademark Linux, and then
+   demanded royalties from Linux distributors. In 1996, Torvalds and some
+   affected organizations sued to have the trademark assigned to Torvalds,
+   and in 1997 the case was settled. The licensing of the trademark is now
+   handled by the Linux Mark Institute. Torvalds has stated that he only
+   trademarked the name to prevent someone else from using it, but was
+   bound in 2005 by United States trademark law to take active measures to
+   enforce the trademark. As a result, the LMI sent out a number of
+   letters to distribution vendors requesting that a fee be paid for the
+   use of the name, and a number of companies have complied.
+
+Pronunciation
+
+   In 1992, Torvalds explained how he pronounces the word Linux ( IPA:
+   /'lɪnʉks/)
+
+   “ 'li' is pronounced with a short [ee] sound: compare prInt, mInImal
+      etc. 'nux' is also short, non-diphthong, like in pUt {IPA /ʊ/}. It's
+     partly due to minix: linux was just my working name for the thing, and
+       as I wrote it to replace minix on my system, the result is what it
+                        is... linus' minix became linux.                   „
+
+                  —Linus Torvalds, comp.os.linux newsgroup
+
+   An audio file of Torvalds saying "Hello, this is Linus Torvalds, and I
+   pronounce Linux as Linux" can be found here. Note that in English,
+   "Linux" and "Minix" are usually pronounced with a short i ( IPA: /ɪ/)
+   sound that is different from Torvalds' Finland Swedish pronunciation of
+   these words.
+
+Development
+
+   More Than a Gigabuck: Estimating GNU/Linux's Size, a 2001 study of Red
+   Hat Linux 7.1, found that this distribution contained 30 million source
+   lines of code. Using the Constructive Cost Model, the study estimated
+   that this distribution required about eight thousand man-years of
+   development time. According to the study, if all this software had been
+   developed by conventional proprietary means, it would have cost about
+   1.08 billion dollars (year 2000 U.S. dollars) to develop in the United
+   States.
+
+   The majority of the code (71%) was written in the C programming
+   language, but many other languages were used, including C++, Lisp,
+   assembly language, Perl, Fortran, Python and various shell scripting
+   languages. Slightly over half of all lines of code were licensed under
+   the GPL. The Linux kernel was 2.4 million lines of code, or 8% of the
+   total.
+
+   In a later study, Counting potatoes: The size of Debian 2.2, the same
+   analysis was performed for Debian GNU/Linux version 2.2. This
+   distribution contained over fifty-five million source lines of code,
+   and the study estimated that it would have cost 1.9 billion dollars
+   (year 2000 U.S. dollars) to develop by conventional means.
+
+Distributions
+
+   A KDE desktop on the SUSE Linux distribution.
+   Enlarge
+   A KDE desktop on the SUSE Linux distribution.
+
+   Linux is predominantly used as part of a Linux distribution (commonly
+   called a "distro"). These are compiled by individuals, loose-knit
+   teams, and commercial and volunteer organizations. They commonly
+   include additional system and application software, an installer system
+   to ease initial system setup, and integrated management of software
+   installation and upgrading. Distributions are created for many
+   different purposes, including computer architecture support,
+   localization to a specific region or language, real-time applications,
+   and embedded systems, and many deliberately include only free software.
+   Currently, over three hundred distributions are actively developed,
+   with about a dozen distributions being most popular for general-purpose
+   use.
+
+   A typical general-purpose distribution includes the Linux kernel, some
+   GNU libraries and tools, command-line shells, the graphical X Window
+   System and an accompanying desktop environment such as KDE or GNOME,
+   together with thousands of application software packages, from office
+   suites to compilers, text editors, and scientific tools.
+
+Desktop usage
+
+   A GNOME desktop running from the GNOME LiveCD.
+   Enlarge
+   A GNOME desktop running from the GNOME LiveCD.
+
+   The high level of access granted to Linux's internals has led to Linux
+   users traditionally tending to be more technologically oriented than
+   users of Microsoft Windows and Mac OS, sometimes revelling in the tag
+   of " hacker" or " geek". Linux and other free software projects have
+   been frequently criticized for not going far enough to ensure ease of
+   use.
+
+   This stereotype has begun to be dispelled in recent years. Linux may
+   now be used with a user interface that is very similar to those running
+   on other operating systems. However users may have to switch to
+   alternative application software, and there are often fewer "known"
+   software choices (as in the case of computer games) but there exist
+   replacements for all general-purpose software, and general applications
+   like spreadsheets, word processors, and browsers are available for
+   Linux in profusion. Additionally, a growing number of proprietary
+   software vendors are supporting Linux, and compatibility layers such as
+   Wine or NdisWrapper allow some Windows application software and drivers
+   to be used on Linux without requiring the vendor to adapt them.
+
+   Linux's roots in the Unix operating system mean that in addition to
+   graphical configuration tools and control panels available for many
+   system settings and services, plain-text configuration files are still
+   commonly used to configure the OS and can readily be made accessible
+   (or not) to users, at the administrator's will.
+
+   The Berlin-based organization Relevantive concluded in 2003 that the
+   usability of Linux for a set of desktop-related tasks was "nearly equal
+   to Windows XP." Since then, there have been numerous independent
+   studies and articles which indicate that a modern Linux desktop using
+   either GNOME or KDE is on par with Microsoft Windows in a business
+   setting.
+
+Enterprise usage
+
+   Linux has historically been used mainly as a server operating system,
+   but its low cost, flexibility, and Unix-like architecture make it
+   suitable for a variety of applications. Linux is the cornerstone of the
+   " LAMP" server-software combination (Linux, Apache, MySQL,
+   Perl/PHP/Python) which has achieved popularity among developers, and
+   which is one of the more common platforms for website hosting.
+
+   Due to its low cost and its high configurability, Linux is often used
+   in embedded systems such as television set-top boxes, mobile phones,
+   and handheld devices. Linux has become a major competitor to the
+   proprietary Symbian OS found in many mobile phones, and it is an
+   alternative to the dominant Windows CE and Palm OS operating systems on
+   handheld devices. The popular TiVo digital video recorder uses a
+   customized version of Linux. Several network firewall and router
+   standalone products, including several from Linksys, use Linux
+   internally, using its advanced firewalling and routing capabilities.
+
+   Linux is increasingly common as an operating system for supercomputers.
+   For example, in the November 2005 TOP500 list of supercomputers, seven
+   of the top ten supercomputers in the world, including the two fastest,
+   ran Linux. Of the 500 systems, 371 (74.2%) ran Linux.
+
+Market share and uptake
+
+   According to the market research company IDC, 25% of servers and 2.8%
+   of desktop computers ran Linux as of 2004. Proponents and analysts
+   attribute the success of Linux to its security, reliability, low cost,
+   and freedom from vendor lock-in. The frictional cost of switching and
+   lack of support for some hardware and many application programs
+   designed for Windows, especially games or uncommon business software,
+   are two important factors inhibiting adoption.
+
+   The Linux market is rapidly growing and the revenue of servers,
+   desktops, and packaged software running Linux is expected to exceed
+   $35.7 billion by 2008. The actual installed user base may be higher
+   than indicated by this figure, as most Linux distributions and
+   applications are freely available and redistributable.
+
+   The paper Why Open Source Software / Free Software (OSS/FS)? Look at
+   the Numbers! identifies many quantitative studies of open source
+   software on topics including market share and reliability, with many
+   studies specifically examining Linux.
+
+Installation
+
+   The most common method of installing Linux on a personal computer is by
+   booting from a CD-ROM that contains the installation program and
+   installable software. Such a CD can be burned from a downloaded ISO
+   image, purchased alone for a low price, obtained as part of a box set,
+   or in a few cases shipped for free by request. A box set may also
+   include manuals and additional proprietary software. Mini CD images
+   allow Linux to be installed from a disk with a small form factor.
+
+   As with servers, personal computers that come with Linux already
+   installed are available from vendors including Hewlett-Packard and
+   Dell, although generally only for their business desktop line.
+
+   Alternatives to traditional desktop installation include thin client
+   installation and running directly from a Live CD. In a thin client
+   installation, the operating system is loaded and run from a centralised
+   machine over a network connection. In a Live CD setup, the computer
+   boots the entire operating system from CD without first installing it
+   on the computer's hard disk.
+
+   On embedded devices, Linux is typically held in the device's firmware
+   and may or may not be consumer-accessible.
+
+Programming on Linux
+
+   The GNU Compiler Collection (GCC) is the standard compiler family for
+   most Linux systems. Amongst others, GCC provides frontends for C, C++
+   and Java. Most distributions come installed with interpreters for Perl,
+   Python and other scripting languages, and several now include C# via
+   the Mono project.
+
+   There are a number of Integrated development environments available
+   including MonoDevelop, KDevelop, Anjuta, NetBeans, and Eclipse while
+   the traditional editors Emacs and Vim remain popular.
+
+   The two main widget toolkits used for contemporary GUI programming are
+   Qt and the Gimp Toolkit, known as GTK+.
+
+   As well as these free and open source options, there are proprietary
+   compilers and tools available from a range of companies such as Intel,
+   PathScale, Micro Focus COBOL,, Franz Inc, and the Portland Group.
+
+Support
+
+   Technical support is provided by commercial suppliers and by other
+   Linux users, usually in online forums, IRC, newsgroups, and mailing
+   lists. Linux User Groups have traditionally been organized to provide
+   support for Linux in specific cities and regions.
+
+   The business model of commercial suppliers is generally dependent on
+   charging for support, especially for business users. A number of
+   companies offer a specialized business version of their distribution,
+   which adds proprietary support packages and tools to administer higher
+   numbers of installations or to simplify administrative tasks.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Linux"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

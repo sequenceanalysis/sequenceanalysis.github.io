@@ -1,0 +1,364 @@
+   #copyright
+
+Elementary algebra
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Elementary algebra is a fundamental and relatively basic form of
+   algebra taught to students who are presumed to have little or no formal
+   knowledge of mathematics beyond arithmetic. While in arithmetic only
+   numbers and their arithmetical operations (such as +, −, ×, ÷) occur,
+   in algebra one also uses symbols (such as x and y, or a and b) to
+   denote numbers. These are called variables. This is useful because:
+     * It allows the generalization of arithmetical equations (and
+       inequalities) to be stated as laws (such as a + b = b + a for all a
+       and b), and thus is the first step to the systematic study of the
+       properties of the real number system.
+     * It allows reference to numbers which are not known. In the context
+       of a problem, a variable may represent a certain value of which is
+       uncertain, but may be solved through the formulation and
+       manipulation of equations.
+     * It allows the exploration of mathematical relationships between
+       quantities (such as "if you sell x tickets, then your profit will
+       be 3x − 10 dollars").
+
+   These three are the main strands of elementary algebra, which should be
+   distinguished from abstract algebra, a more advanced topic generally
+   taught to college students.
+
+   In elementary algebra, an " expression" may contain numbers, variables
+   and arithmetical operations. These are usually written (by convention)
+   with 'higher-power' terms on the left (see polynomial); a few examples
+   are:
+
+          x + 3\,
+
+          y^{2} + 2x - 3\,
+
+          z^{7} + a(b + x^{3}) + 42/y - \pi.\,
+
+   In more advanced algebra, an expression may also include elementary
+   functions.
+
+   An " equation" is the claim that two expressions are equal. Some
+   equations are true for all values of the involved variables (such as a
+   + b = b + a); such equations are called " identities". Other equations
+   are true for only some values of the involved variables: x^2 − 1 = 4.
+   The values of the variables which make the equation true are called the
+   "solutions" of the equation.
+
+Laws of elementary algebra
+
+     * Addition is a commutative operation (two numbers add to the same
+       thing whichever order you add them in).
+          + Subtraction is the reverse of addition.
+          + To subtract is the same as to add a negative number:
+
+                      a - b = a + (-b). \
+
+                Example: if 5 + x = 3 then x = − 2.
+
+     * Multiplication is a commutative operation.
+          + Division is the reverse of multiplication.
+          + To divide is the same as to multiply by a reciprocal:
+
+                      {a \over b} = a \left( {1 \over b} \right).
+
+     * Exponentiation is not a commutative operation.
+          + Therefore exponentiation has a pair of reverse operations:
+            logarithm and exponentiation with fractional exponents (e.g.
+            square roots).
+               o Examples: if 3^x = 10 then x = log[3]10. If x^2 = 10 then
+                 x = 10^1 / 2.
+          + The square roots of negative numbers do not exist in the real
+            number system. (See: complex number system)
+     * Associative property of addition: (a + b) + c = a + (b + c).
+     * Associative property of multiplication: (ab)c = a(bc).
+     * Distributive property of multiplication with respect to addition:
+       c(a + b) = ca + cb.
+     * Distributive property of exponentiation with respect to
+       multiplication: (ab)^c = a^cb^c.
+     * How to combine exponents: a^ba^c = a^b + c.
+     * Power to a power property of exponents: (a^b)^c = a^bc.
+
+Laws of equality
+
+     * If a = b and b = c, then a = c ( transitivity of equality).
+     * a = a ( reflexivity of equality).
+     * If a = b then b = a ( symmetry of equality).
+
+Other laws
+
+     * If a = b and c = d then a + c = b + d.
+          + If a = b then a + c = b + c for any c (addition property of
+            equality).
+     * If a = b and c = d then ac = bd.
+          + If a = b then ac = bc for any c (multiplication property of
+            equality).
+     * If two symbols are equal, then one can be substituted for the other
+       at will (substitution principle).
+     * If a > b and b > c then a > c (transitivity of inequality).
+     * If a > b then a + c > b + c for any c.
+     * If a > b and c > 0 then ac > bc.
+     * If a > b and c < 0 then ac < bc.
+
+Examples
+
+Linear equations in one variable
+
+   The simplest equations to solve are linear equations that have only one
+   variable. They contain only constant numbers and a single variable
+   without an exponent. For example:
+
+          2x + 4 = 12. \,
+
+   The central technique is add, subtract, multiply, or divide both sides
+   of the equation by the same number in order to isolate the variable on
+   one side of the equation. Once the variable is isolated, the other side
+   of the equation is the value of the variable. For example, by
+   subtracting 4 from both sides in the equation above:
+
+          2x + 4 - 4 = 12 - 4 \,
+
+   which simplifies to:
+
+          2x = 8. \,
+
+   Dividing both sides by 2:
+
+          \frac{2x}{2} = \frac{8}{2} \,
+
+   simplifies to the solution:
+
+          x = 4. \,
+
+   The general case,
+
+          ax + b = c
+
+   follows the same format for the solution:
+
+          x=\frac{c-b}{a}
+
+Quadratic equations
+
+   Quadratic equations can be expressed in the form ax^2 + bx + c = 0,
+   where a is not zero (if it were zero, then the equation would not be
+   quadratic but linear). Because of this a quadratic equation must
+   contain the term ax^2, which is known as the quadratic term. Hence a
+   \neq 0 , and so we may divide by a and rearrange the equation into this
+   standard form.
+
+          x^2 + px = q
+
+   Solving this by a process known as completing the square leads to the
+   quadratic formula.
+
+   Quadratic equations can also be solved using factorization (the reverse
+   process of which is expansion, but for two linear terms is sometimes
+   denoted foiling). As an example of factoring:
+
+          x^{2} + 3x - 10 = 0. \,
+
+   Which is the same thing as
+
+          (x + 5)(x - 2) = 0. \,
+
+   It follows from the zero-product property that either x = 2 or x = −5
+   are the solutions, since precisely one of the factors must be equal to
+   zero. All quadratic equations will have two solutions in the complex
+   number system, but need not have any in the real number system. For
+   example,
+
+          x^{2} + 1 = 0 \,
+
+   has no real number solution since no real number squared equals -1.
+   Sometimes a quadratic equation has a root of multiplicity 2, such as:
+
+          (x + 1)^{2} = 0. \,
+
+   For this equation, −1 is a root of multiplicity 2.
+
+System of linear equations
+
+   In the case of a system of linear equations, like, for instance, two
+   equations in two variables, it is often possible to find the solutions
+   of both variables that satisfy both equations.
+
+First method of finding a solution
+
+   An example of a system of linear equations could be the following:
+
+          \begin{cases}4x + 2y = 14 \\ 2x - y = 1.\end{cases} \,
+
+   Multiplying the terms in the second equation by 2:
+
+          4x + 2y = 14 \,
+          4x - 2y = 2. \,
+
+   Adding the two equations together to get:
+
+          8x = 16 \,
+
+   which simplifies to
+
+          x = 2. \,
+
+   Since the fact that x = 2 is known, it is then possible to deduce that
+   y = 3 by either of the original two equations (by using 2 instead of x)
+   The full solution to this problem is then
+
+          \begin{cases} x = 2 \\ y = 3. \end{cases}\,
+
+   Note that this is not the only way to solve this specific system; y
+   could have been solved before x.
+
+Second method of finding a solution
+
+   Another way of solving the same system of linear equations is by
+   substitution.
+
+          \begin{cases}4x + 2y = 14 \\ 2x - y = 1.\end{cases} \,
+
+   An equivalent for y can be deduced by using one of the two equations.
+   Using the second equation:
+
+          2x - y = 1 \,
+
+   Subtracting 2x from each side of the equation:
+
+          2x - 2x - y = 1 - 2x \,
+          - y = 1 - 2x \,
+
+   and multiplying by -1:
+
+          y = 2x - 1. \,
+
+   Using this y value in the first equation in the original system:
+
+          4x + 2(2x - 1) = 14 \,
+          4x + 4x - 2 = 14 \,
+          8x - 2 = 14 \,
+
+   Adding 2 on each side of the equation:
+
+          8x - 2 + 2 = 14 + 2 \,
+          8x = 16 \,
+
+   which simplifies to
+
+          x = 2 \,
+
+   Using this value in one of the equations, the same solution as in the
+   previous method is obtained.
+
+          \begin{cases} x = 2 \\ y = 3. \end{cases}\,
+
+   Note that this is not the only way to solve this specific system; in
+   this case as well, y could have been solved before x.
+
+Other types of Systems of Linear Equations
+
+Unsolvable Systems
+
+   In the above example, it is possible to find a solution. However, there
+   are also systems of equations which do not have a solution. An obvious
+   example would be:
+
+          \begin{cases} x + y = 1 \\ 0x + 0y = 2 \end{cases}\,
+
+   The second equation in the system has no possible solution. Therefore,
+   this system can't be solved. However, not all incompatible systems are
+   recognized at first sight. As an example, the following system is
+   studied:
+
+          \begin{cases}4x + 2y = 12 \\ -2x - y = -4 \end{cases}\,
+
+   When trying to solve this (for example, by using the method of
+   substitution above), the second equation, after adding − 2x on both
+   sides and multiplying by −1, results in:
+
+          y = -2x + 4 \,
+
+   And using this value for y in the first equation:
+
+          4x + 2(-2x + 4) = 12 \,
+          4x - 4x + 8 = 12 \,
+          8 = 12 \,
+
+   No variables are left, and the equality is not true. This means that
+   the first equation can't provide a solution for the value for y
+   obtained in the second equation.
+
+Undetermined Systems
+
+   There are also systems which have multiple or infinite solutions, in
+   opposition to a system with a unique solution (meaning, two unique
+   values for x and y) For example:
+
+          \begin{cases}4x + 2y = 12 \\ -2x - y = -6 \end{cases}\,
+
+   Isolating y in the second equation:
+
+          y = -2x + 6 \,
+
+   And using this value in the first equation in the system:
+
+          4x + 2(-2x + 6) = 12 \,
+          4x - 4x + 12 = 12 \,
+          12 = 12 \,
+
+   The equality is true, but it does not provide a value for x. Indeed,
+   one can easily verify (by just filling in some values of x) that for
+   any x there is a solution as long as y = −2x + 6. There are infinite
+   solutions for this system.
+
+Over and underdetermined Systems
+
+   Systems with more variables than the number of linear equations do not
+   have a unique solution. An example of such a system is
+
+          \begin{cases}x + 2y = 10\\y - z = 2\end{cases}
+
+   Such a system is called underdetermined; when trying to find a
+   solution, one or more variables can only be expressed in relation to
+   the other variables, but cannot be determined numerically.
+   Incidentally, a system with a greater number of equations than
+   variables, in which necessarily some equations are sums or multiples of
+   others, is called overdetermined.
+
+Relation between Solvability and Multiplicity
+
+   Given any system of linear equations, there is a relation between
+   multiplicity and solvability.
+   If one equation is a multiple of the other (or, more generally, a sum
+   of multiples of the other equations), then the system of linear
+   equations is undetermined, meaning that the system has infinitely many
+   solutions. Example:
+
+          \begin{cases}x + y = 2 \\ 2x + 2y = 4\end{cases}
+
+   When the multiplicity is only partial (meaning that for example, only
+   the left hand sides of the equations are multiples, while the right
+   hand sides are not or not by the same number) then the system is
+   unsolvable. For example, in
+
+          \begin{cases}x + y = 2 \\ 4x + 4y = 1\end{cases}
+
+   the second equation yields that x + y = 1/4 which is in contradiction
+   with the first equation. Such a system is also called inconsistent in
+   the language of linear algebra. When trying to solve a system of linear
+   equations it is generally a good idea to check if one equation is a
+   multiple of the other. If this is precisely so, the solution cannot be
+   uniquely determined. If this is only partially so, the solution does
+   not exist.
+   This, however, does not mean that the equations must be multiples of
+   each other to have a solution, as shown in the sections above; in other
+   words: multiplicity in a system of linear equations is not a necessary
+   condition for solvability.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Elementary_algebra"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

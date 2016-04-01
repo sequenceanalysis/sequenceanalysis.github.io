@@ -1,0 +1,585 @@
+   #copyright
+
+Final Fantasy (video game)
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+                               Final Fantasy
+   Cover box for original NES release in North America
+    Developer(s)   Square Co., Ltd.
+    Publisher(s)   ^JPN Square Co., Ltd.
+                   ^NA Nintendo of America
+     Designer(s)   Hironobu Sakaguchi (concept)
+                   Yoshitaka Amano (char. design)
+                   Nobuo Uematsu ( music)
+                   Nasir Gebelli (program)
+   Release date(s) ^JPN December 18, 1987
+                   ^NA July 12, 1990
+      Genre(s)     Role-playing game
+       Mode(s)     Single player
+     Platform(s)   Nintendo Entertainment System
+                   See development history section for remake information.
+        Media      2 megabit cartridge
+
+   Final Fantasy (ファイナルファンタジー, Fainaru Fantajī^ ?) is a console
+   role-playing game developed and published by Square Co., Ltd. for the
+   Nintendo Entertainment System (NES) in 1987, and is the inaugural game
+   in Square's flagship Final Fantasy series. Final Fantasy has been
+   remade for several different video game consoles and handheld systems.
+   The game has frequently been packaged with its sequel, Final Fantasy
+   II, in collections such as Final Fantasy I-II, Final Fantasy Origins
+   and Final Fantasy I & II: Dawn of Souls.
+
+   The story begins with the appearance of the four youths called the
+   "Warriors of Light" who each carry one of their world's elemental
+   Crystals which have been darkened by Garland and his four Elemental
+   Fiends. Together, they quest to defeat Garland's forces, restore the
+   light of the crystals and restore their world.
+
+   Final Fantasy was one of the most influential and successful
+   role-playing games on the Nintendo Entertainment System, and played a
+   major role in popularizing the genre. Famitsu voted Final Fantasy the
+   63rd greatest game of all time on March 3, 2006.
+
+Gameplay
+
+          The following refers to the original Famicom/NES version. For
+          changes in subsequent remakes, see the section on Development
+          history.
+
+   Gameplay in Final Fantasy is similar to that of many other console
+   role-playing games. The player controls a party of four player
+   characters, called Light Warriors (or "Warriors of Light" in later
+   editions), who explore towns and dungeons as they travel across the
+   world map. The goal of the game is to defeat four major enemies called
+   Elemental Fiends or Fiends of Chaos. Along the way, the player travels
+   to towns where he or she may shop, acquire information, and rest. While
+   traveling, the player encounters monsters which must either be combated
+   or fled from. Winning battles earns the player experience points, which
+   strengthen player characters, and gil, the game's currency.
+
+   The player begins Final Fantasy by creating the Light Warriors. As is
+   typical of computer role-playing games of the era, player characters
+   are passive participants in the story, with their names and abilities
+   relevant only during battle. Characters are determined by
+   four-character names, certain numerical attributes, and their class. A
+   character's most basic attribute is its level, which is numbered
+   between one and fifty. (The maximum is ninety-nine in later editions.)
+   A character's level is determined by how much experience it has, and
+   higher level characters are more powerful than lower level characters.
+   Gaining a level increases the other attributes, such as Hit Points
+   (HP). HP represents a character's remaining health, and when a
+   character reaches zero HP, they die. Every character has a maximum
+   number of HP. Additional attributes govern other aspects of the
+   character.
+
+   Each character has a character class, which affects the character's
+   attributes and abilities. There are six classes, three of which are
+   physically oriented and three of which are magically oriented. During
+   the game, the player has the option of completing a quest which changes
+   and upgrades each character to a different and more powerful class,
+   though with the exception of this upgrade, character classes cannot be
+   changed once the game has begun.
+
+   The " Fighter" ("Warrior" in later editions) uses heavy weapons and
+   armor, and can be upgraded into a "Knight", who is also able to use
+   low-level White Magic spells. Next is the "Black Belt", who fights best
+   when empty-handed and armorless, becoming a "Master" later in the game.
+   Third is the fast and agile " Thief", who, when upgraded into a
+   "Ninja", may use low-level Black Magic spells. In terms of magical
+   classes, the " Red Mage" is a decent fighter and can use a mixture of
+   White and Black Magic. The Red Mage becomes a "Red Wizard", who can use
+   more powerful equipment and spells. The " White Mage" can cast
+   defensive and curative spells and becomes a "White Wizard", who can use
+   more powerful White Magic. Finally, the " Black Mage" can cast
+   offensive spells and becomes a "Black Wizard", who can use more
+   powerful Black Magic.
+
+Combat
+
+   Battles in the game are turn-based. At the beginning of each turn, the
+   player selects an action for each player character, with the options
+   being direct attacks, casting spells, drinking potions, using magical
+   items, or running. Once the player has chosen actions for each player
+   character, the player characters and monsters begin battling.
+   Participants move one at a time in the order determined by their
+   "agility" attribute.
+
+   In the original NES version, it was not possible to select a new enemy
+   to attack once actions had begun; if the character had chosen to attack
+   an enemy who had been defeated earlier in the round, then the attack
+   was ineffective, and the character did nothing. This was changed in
+   later versions.
+
+   Battles continue until one side either flees or is defeated. If the
+   party wins, the characters gain experience and gil. If the party flees,
+   they return to the map. If the party dies, the game is over.
+
+Customization
+
+   Equipping the Light Warriors with better weapons and armor makes them
+   more powerful. Each Light Warrior has eight inventory slots, with four
+   to hold weapons and four to hold armor. Each character class has
+   restrictions on what weapons and armor it may use. Additionally, some
+   weapons and armor are magical; if used during battle, some of these
+   items will cast spells. Other magical artifacts provide protection,
+   such as from certain dangerous spells.
+
+   There are six types of weapons: Swords, Daggers, Axes, Hammers, Staves,
+   and Nunchaku. The type of a weapon mainly determines its associated
+   graphics, but also indicates which classes are more likely able to use
+   that weapon. For example, a Black Belt is able to equip nunchaku but
+   cannot equip axes. Each weapon has two statistics, an amount of damage
+   and a chance to hit bonus, which influence how effective the weapon is.
+   Only one weapon can be equipped at a time.
+
+   In addition to weapons, there are six types of armor: Armor (
+   Cuirasses), Robes, Helmets, Gauntlets, Shields, and Bracelets. Unlike
+   weapons, a piece of armor's type is very important. A character may
+   wear up to four different types of armor at once, but only one of each
+   type. There are items of armor which have no type, such as rings, which
+   a character may wear any amount of. Each armor has two statistics, a
+   damage absorption bonus and an evade penalty.
+
+   At shops, the Light Warriors can buy items to help themselves recover
+   while they are traveling. Up to 99 of each item may be carried at one
+   time. One of the types of items available are "Potions", which heal
+   player characters or remove an ailment such as poison or stoning.
+   "Tents", "Cabins", and "Houses", which heal the player and offer the
+   chance to save the game, are also available, though they can only be
+   used on the world map. In addition to restoring hit points, Houses also
+   restore the party's magic. Finally, there are special items gained
+   during or at the completion of quests.
+
+   Many character classes are able to use magic, which is divided into
+   "white" defensive magic and "black" offensive magic. Spells are
+   classified by a level between one and eight, with, in most cases,
+   higher level spells being more powerful than lower level spells. There
+   are four white magic and four black magic spells of each level.
+   Characters may learn up to three spells of each level by purchasing
+   them at shops in towns. White mages are capable of learning all white
+   magic spells, and black mages are capable of learning all black magic
+   spells. Other classes have restrictions on the spells they can learn.
+
+   The original NES version of the game allowed each magic-user "charges"
+   for each level of spells; spells of a given level could only be cast as
+   many times as the user had charges. As a character's level increased,
+   more charges were gained. This system closely resembles the
+   spell-casting system in Dungeons & Dragons. In later revisions of the
+   game, this system was replaced by MP (Magic Points).
+
+Plot and setting
+
+Setting
+
+   Final Fantasy takes place on an unnamed fantasy world with three large
+   continents. The elemental powers on this world are determined by the
+   state of four glowing crystals ("orbs" in the original North American
+   localization), each governing one of the four classical elements:
+   earth, fire, water, and wind.
+
+Plot
+
+   Four hundred years prior to the start of the game, a people known as
+   the "Lufenians", who used the power of the wind crystal to craft giant
+   space stations ("Sky Castles") and airships watched their country
+   decline as the wind crystal went dark. Two hundred years later, violent
+   storms sunk a massive shrine that served as the centre of an
+   ocean-based civilization, and the water crystal went dark. Another two
+   hundred years later, the earth and fire crystals also went dark,
+   plaguing the earth with raging wildfires, and devastating the
+   agricultural town of Melmond as the plains and vegetation decayed. Some
+   time later, a sage called "Lukahn" tells of a prophecy that four
+   Warriors of Light will come to save the world in a time of darkness.
+
+   The game begins with the appearance of the four youthful Warriors of
+   Light, the heroes of the story, who each carry one of the darkened
+   Crystals. They arrive at Coneria, a powerful kingdom which has just
+   witnessed the kidnapping of its princess, Sara, by a knight named
+   Garland. The Warriors of Light travel to the ruined "Temple of Fiends"
+   in the northwest corner of Coneria, defeat Garland, and return Princess
+   Sara home. The grateful King of Coneria builds a bridge that enables
+   the Warriors of Light passage east to the town of "Pravoka". At
+   Pravoka, the Warriors of Light liberate the town from a band of
+   pirates, and acquire the pirates' ship for their own use. Though having
+   the ability to travel across the water, the Warriors of Light remain
+   trapped within the "Aldi Sea", in the centre of the southern continent.
+   On the south side of the sea is the kingdom of the elves, where the
+   prince has been put into a cursed sleep by "Astos". To the west is a
+   ruined castle, where a king tells you that Astos stole his crown and
+   hid it in the Marsh Cave to the south, though when the Warriors of
+   Light retrieve his crown, he reveals himself to be Astos. He has also
+   stolen the witch Matoya's Crystal. With her Crystal back, Matoya
+   provides an herb to awaken the Elf Prince. The Elf Prince gives the
+   Warriors of Light a key capable of unlocking any door. The key unlocks
+   a storage room in Coneria Castle which holds TNT. Nerrick, one of the
+   Dwarves of Mount Deurgar, destroys a small isthmus using the TNT,
+   connecting the sea to the outside world.
+
+   After visiting near-ruined town Melmond, the Warriors of Light go to
+   the "Cavern of Earth" and destroy the Earth fiend, Lich, who is
+   responsible for the earth's decay. The Warriors of Light then obtain a
+   canoe and enter Mt. Gulg ("Gurgu Volcano") and defeat the Fire fiend,
+   Kary ("Marilith"). They recover the "Floater" (Levistone) from the Ice
+   Cave which allows them to obtain an airship. Using the airship and an
+   air-producing fairy artifact known as Oxyale, the Warriors go to the
+   Sunken Shrine to defeat the Water fiend, Kraken. They also recover a
+   slab with fragments of the Lefeinish language. A linguist named Dr.
+   Unne uses the slab to decode the Lefeinish language, which he teaches
+   to the Warriors of Light. Following this, the Warriors of Light travel
+   to a small and distant town — the last remaining outpost of the
+   Lefeinish civilization. The Lefeinish give the Warriors of Light access
+   to the Sky Castle that Tiamat, the Wind fiend, has taken over. With the
+   four fiends defeated and the crystals restored, the Warriors find that
+   their quest is not yet over: the fiends created an archdemon, Chaos,
+   using the body of Garland, and sent him two thousand years into the
+   past. Following Chaos into the past, the Warriors discover that it was
+   Chaos who had sent the four fiends into the future, creating a time
+   paradox. The Warriors of Light defeat Chaos, but the time paradox
+   causes everyone except the Warriors of Light to forget everything that
+   transpired.
+
+Musical score
+
+   Final Fantasy was Nobuo Uematsu's 16th video game score. The score was
+   released on CD together with the score of Final Fantasy II.
+
+   A few of the game's tracks became mainstays to the Final Fantasy
+   series: the Prelude, the arpeggio played on the title screen; the
+   Opening Theme, which is played when the party crosses the bridge early
+   in the game and later referred to as the Final Fantasy theme; and the
+   Victory Fanfare, which is played after every victorious battle. The
+   opening motif of the Battle theme has also been reused a number of
+   times in the series.
+
+Development
+
+   Final Fantasy was developed during Square's brush with bankruptcy in
+   1987. In a display of gallows humor, producer / director Hironobu
+   Sakaguchi declared that his "final" game would be a "fantasy"
+   role-playing game, hence the title. Far from being Square's final game,
+   however, Final Fantasy proved to be a major success in Japan, not only
+   saving Square from bankruptcy, but presenting them with the second most
+   popular role-playing game franchise in the country (after Enix's Dragon
+   Quest). Following the successful North American localization of Dragon
+   Quest (as Dragon Warrior), Nintendo of America translated Final Fantasy
+   into English and published it in North America in 1990. The North
+   American version of Final Fantasy met with modest success, due partly
+   to Nintendo's aggressive marketing tactics. No version of the game was
+   marketed in the PAL region until Final Fantasy Origins in 2003.
+
+   Final Fantasy has been remade several times for several different
+   platforms. While all of these remakes retain the same basic story and
+   battle mechanics, various tweaks have been made in a variety of
+   different areas, including graphics, sound, and specific gameplay
+   elements.
+
+North American localization
+
+   The 1990 North American localization of Final Fantasy was essentially
+   identical to the original Japanese game. But technical limitations, and
+   the censorship policies of Nintendo of America, resulted in a few minor
+   changes to certain elements. For example, the original game program
+   provided only four character spaces for magic spell names, meaning that
+   a lot of original Japanese spell names had to be abbreviated to fit
+   into the space requirements for the English version. These changes
+   include "Flare" being reduced to "NUKE", "Thunder" being reduced to
+   "LIT" and "Degeon" being reduced to "ZAP!" Also, there were censorship
+   issues, since Nintendo of America policy prohibited games from
+   featuring any overt Judeo-Christian imagery or reference to death. As
+   such, some content was modified so that, for instance, "HOLY" became
+   "FADE", and churches became clinics which no longer featured crosses,
+   but had heart symbols instead.
+
+MSX 2
+
+             MSX 2 remake
+   MSX 2 box art
+    Publisher(s)   Microcabin
+   Release date(s) ^JPN December 1989
+        Media      3.5" Floppy Disk
+
+   The MSX2 computer standard was roughly analogous, in terms of technical
+   capabilities, to the NES, and as a result, the MSX2 version of Final
+   Fantasy is probably the closest to the original Famicom version.
+   However, while the Famicom was designed to operate exclusively as a
+   gaming console, the MSX2 was intended to be used more generally as a
+   personal computer. In practice, this meant that the game was subtly
+   altered to take advantage of certain features offered by the MSX2 and
+   not by the Famicom, and vice versa.
+
+   Due to its release on floppy diskette, the MSX2 version of the game had
+   access to almost three times as much storage space as the Famicom
+   version (720 KB vs. 256 KB), but suffered from a variety of problems
+   not present in Nintendo's cartridge media, including noticeable loading
+   times. There were also relatively minor graphical upgrades. In general,
+   the MSX2 version sports an ostensibly improved colour palette which
+   adds a degree of vibrancy to character and background graphics. In
+   addition, the world map seems to have been moved slightly, meaning that
+   the placement of monster "areas" on the world map is slightly
+   different, and that monsters appear in different places than in the
+   Famicom version.
+
+   Further, game data could not be saved onto the original program
+   diskette, so it was necessary to provide a blank floppy diskette to
+   save one's progress. For some reason, it was possible to store only one
+   saved game on any given disk at one time, although it was possible to
+   have multiple diskettes for multiple saved games. As an upgrade, the
+   MSX2 featured more sound channels than the Famicom, and as such many
+   music tracks and sound effects were altered or improved for the port.
+   Also, some dungeon music was swapped. Finally, in the Famicom version,
+   the strength of a Black Belt would increase with his experience levels,
+   meaning that very soon the player would reach a point where a Black
+   Belt could do more damage without any weapons than he could with
+   weapons. In the MSX2 version, this is not the case: Black Belt strength
+   does not increase nearly as quickly, and as such he cannot operate
+   effectively as a barehanded fighter. Also, a few (though not all) items
+   available at stores have had their costs changed.
+
+WonderSwan Colour
+
+         WonderSwan Colour remake
+   WonderSwan Color box art
+   Release date(s) ^JPN December 9, 2000
+        Media      32 megabit cartridge
+
+   Many more changes were introduced for the WonderSwan Colour (WSC)
+   remake of the game. The 8-bit graphics of the original Famicom game
+   were completely redrawn for the WSC version, bringing the game roughly
+   on-par with 16-bit era graphics (between Final Fantasy V and Final
+   Fantasy VI). The colour palette was much larger and battle scenes now
+   featured full background images.
+
+   Character sprites, or two-dimensional pre-rendered figures, were also
+   redesigned to look more like characters from the Super Famicom Final
+   Fantasy games, especially as they upgraded in class. In the Famicom
+   version, shops and inns had no interior map: once a character entered
+   the building, they were greeted with a menu-based purchase screen. In
+   the WSC version this was changed to more closely resemble other games
+   in the series, where each building had an interior, along with a shop
+   counter where the transaction screen could be accessed. Similarly, the
+   battle screen was redesigned, with all textual information moved down
+   to a blue window stretched across the bottom of the screen in an
+   arrangement similar to that utilized in Final Fantasy II through Final
+   Fantasy VII. As a further update, short cutscenes using the internal
+   game engine were added to expand the story of the game somewhat. One
+   such cutscene involved the construction of the bridge by the army of
+   Corneria.
+
+   Also of significance is that the original Famicom version of the game
+   did not have the ability to display more than one window of text during
+   a conversation, which meant that all conversations with non-player
+   characters were strictly limited in length. The WSC version removes
+   this restriction. In the original version of the game, any attempt to
+   attack a monster that had been killed by a previous character's attack
+   would result in an "ineffective" attack. The WSC version introduced an
+   option wherein the attack would be redirected to another monster rather
+   than fail. Similarly, a "dash" option had been introduced: holding down
+   a specific button while walking around in a town or dungeon map would
+   cause the character to move around at twice their normal pace. Both of
+   these options can be turned on and off via the game's configuration
+   screen.
+
+   As in the original version, every magic using character has successive
+   "spell levels". Each character has only three available slots per spell
+   level, but is given the option of choosing from four spells. Once that
+   choice had been made in the original version, there was no way to
+   "unlearn" spells to free up a space for the unchosen fourth spell. In
+   the WSC version, this has been changed so that it is possible to delete
+   spells once purchased. In the original Famicom version, the cartridge
+   could only store one set of game data at a time, and every time a new
+   save was made, the previous one was overwritten. The WSC version
+   provides up to eight distinct slots for saved game data. There is also
+   a "quick save" feature introduced which allows the player to save his
+   or her progress at any time (except during battles). This will exit the
+   game, however, and as soon as the game is resumed, any quick save data
+   is lost.
+
+   Another change from the original version involves items; only items
+   specifically assigned to a character could be used during battle. In
+   the WSC, this has been changed so that there is a party-wide "pool" of
+   items which can be accessed at any time by all characters. Certain
+   status healing items (such as "Potion" and "Soft") can now be used
+   during battle. Further, in the original game not only did each
+   character have their own armor and weapon inventory, each was fixed to
+   storing only 4 of each category per character. This meant that as
+   opposed to the first game, one could now actually equip all 5 different
+   armor types, as well as collect every single armor and weapon in the
+   game without needing to drop or sell anything. A number of magic spells
+   that didn't work properly in the original were also now "fixed" to work
+   as originally intended. The status ailment "silence" no longer prevents
+   items from being used. In addition to remixing the soundtrack, composer
+   Nobuo Uematsu has composed several new tracks, including a new "boss
+   battle" theme. Because many of the above changes make the game simpler
+   than before, the hit points of certain monsters, and almost all boss
+   monsters, have been substantially increased (doubled, in some cases) in
+   order to better balance the gameplay.
+
+PlayStation
+
+            PlayStation remake
+   PlayStation box art
+   Release date(s) ^JPN October 31, 2002
+        Media      CD-ROM
+
+   Released both individually (in Japan only) and alongside its sequel,
+   Final Fantasy II in a collection entitled Final Fantasy Origins (or
+   Final Fantasy I+II Premium Collection in Japan), the PlayStation port
+   of Final Fantasy was based on WonderSwan Colour version. Most of the
+   changes instituted in that version of the game remain in this version.
+   However, there are a few differences. Although the graphics are
+   basically the same as in the WSC version, the higher screen resolution
+   of the PlayStation means that most have been improved to some degree,
+   with more detail. Tsuyoshi Sekito also remixed the soundtrack to Final
+   Fantasy IX quality to utilize the audio capabilities of the Sony
+   PlayStation and also composed a few new tracks like the ones used in
+   the opening movies.
+
+   In the Japanese language version, the script has been changed to
+   include kanji. The English language translation, too, has been
+   completely rewritten, and is, in most cases, much closer to the
+   Japanese than the original English NES version was. Character and magic
+   name lengths have been increased from four to six characters, as well.
+   Saved game data takes up one block on the PlayStation memory card,
+   which means that up to fifteen games can be saved onto each memory
+   card, a major improvement. The "quick save" feature of the WSC version
+   has been excised, but in its place a "memo save" feature has been
+   introduced where game data can be temporarily saved to the
+   PlayStation's RAM. This data remains until the system is turned off, or
+   its power supply is otherwise interrupted. There are also full motion
+   video cutscenes and omake. The game is now bookended by two
+   full-motion, prerendered video cutscenes. An " omake" (or bonus)
+   section has also been made available. It includes a bestiary, an art
+   gallery, and an item collection that are unlocked as the player
+   progresses through the game. Also, new "easy mode" has been introduced
+   wherein shop prices are lower, experience levels are gained more
+   quickly, and stats increase more rapidly. This mode is optional and is
+   chosen at the start of the game.
+
+Final Fantasy I & II: Dawn of Souls
+
+   Final Fantasy I & II: Dawn of Souls
+   Dawn of Souls box art
+    Publisher(s)   ^JPN Square Enix
+                   ^NA / ^EU Nintendo
+   Release date(s) ^JPN July 29, 2004
+                   ^NA November 29, 2004
+                   ^EU December 3, 2004
+      Rating(s)    ESRB: E (Everyone)
+                   USK: Free for all
+                   OFLC: G8+
+                   PEGI: 3+
+        Media      128 megabit cartridge
+
+   Another fairly extensive list of changes accompanies the Game Boy
+   Advance release of Final Fantasy as part of Final Fantasy I & II: Dawn
+   of Souls.
+
+   The difficulty level of the Game Boy Advance version most closely
+   resembles the "easy mode" of the Final Fantasy Origins. Unlike that
+   version, however, there is no option to switch back to the original
+   difficulty level. Similarly, the redirection of "ineffective" hits,
+   which had been optional since it was introduced in the WSC version, is
+   now mandatory. Graphics are more or less identical to the WSC version,
+   although the GBA has a slightly higher screen resolution than the WSC,
+   and certain sequences (such as flying around on the airship) look
+   better on the GBA than on the WSC.
+
+   The "spell level"-based magic system is dropped from this version in
+   favour of magic point-based system used in more recent Final Fantasy
+   games. Although spells are still classified at certain levels for some
+   purposes (characters can still only be equipped with three of the four
+   available spells of any given level, for instance), every spell is now
+   assigned a point value. When cast, that value is subtracted from a
+   total number of magic points that apply to all spells known by a
+   character. Many new items have been introduced. Healing items are now
+   much easier to procure, and less expensive, as well. The party starts
+   the game with 500 gil instead of 400 gil as in previous versions.
+
+   The omake artwork gallery and item collection present in the
+   PlayStation version have been omitted, but the bestiary gallery remains
+   and operates more or less exactly as it did previously. Certain classes
+   have been modified: the Thief and Monk have become more powerful,
+   whereas the Red Mage has become less so. Stat growth has been altered,
+   and Intelligence now affects the strength of weapon-based magic spells.
+   The game can now be saved at any time, anywhere (again, except during
+   battles). There are three available save game slots, however there is
+   no way of clearing or deleting their contents. Because the changes
+   introduced in this version make the game less challenging, many
+   monsters and boss monsters have had their hit points increased once
+   again. Four new optional dungeons have been introduced, one
+   corresponding to each Fiend, and becoming available after that Fiend is
+   defeated. These dungeons are especially challenging and feature items
+   and monsters not found anywhere else in the game. At the end of each
+   dungeon there are a variety of boss monsters from Final Fantasy III
+   through Final Fantasy VI. Finally, during character creation, the
+   player can choose to have the game randomly assign a name to each
+   character. These names are all taken from other Final Fantasy games and
+   include KluYa (referenced in Final Fantasy IV) Desh ( Final Fantasy
+   III), Giott ( Final Fantasy IV), Kelga ( Final Fantasy V) and Daryl (
+   Final Fantasy VI), among others. Each character has ten random names to
+   choose from.
+
+Mobile phones
+
+   In 2004, Square Enix released a version of Final Fantasy for two
+   Japanese mobile phone networks. A version for NTT DoCoMo FOMA 900i
+   series phones was launched on 29 February 2004 under the title Final
+   Fantasy i. A subsequent version for the CDMA 1X WIN-compatible W21x
+   series was released on 19 August 2004 as Final Fantasy EZ. Graphically,
+   the games are superior to the original 8-bit game, but not as advanced
+   as many of the more recent console and handheld ports. Square Enix
+   plans to release this version of the game for North American mobile
+   phones sometime in 2006.
+
+Reception and legacy
+
+   Final Fantasy, along with the original Dragon Quest, proved to be one
+   of the most influential early console role-playing games, and played a
+   major role in legitimizing and popularizing the genre. Final Fantasy's
+   storyline, which dealt with elaborate myths and time travel had a
+   deeper and more engaging story than Dragon Quest.
+
+   Bahamut, the Dragon King, who would become a recurring character in the
+   Final Fantasy series, first appeared in Final Fantasy.
+
+   Many modern critics point out that the game is poorly paced by
+   contemporary standards, and involves much more time wandering in search
+   of random battle encounters to raise their experience levels and money
+   than it does exploring and solving puzzles. In fact, some reviewers
+   refer to the level-building and exploration portions of the game as the
+   most enduringly fun ones. In March 2006, Final Fantasy appeared in the
+   Famitsu magazine's Top 100 games list, where readers voted it the 63rd
+   best game of all time. Two of its modern sequels, Final Fantasy X and
+   Final Fantasy VII, were voted the top two positions on the list
+   respectively.
+
+   The version of Final Fantasy in the Final Fantasy Origins compilation
+   was generally well received, though it lacks many of the innovations
+   found in later Final Fantasy games such as Final Fantasy IV, and some
+   commented that the additional content like improved graphics did not
+   significantly improve the overall game experience.
+
+   The theme song that plays when the player characters first cross the
+   bridge from Cornelia is a recurring song throughout the entire series.
+   It has been found in Final Fantasy III when the party leaves their home
+   town and in Final Fantasy IV when Cecil and Kain begin their journey.
+   It is featured in the ending theme songs of Final Fantasy V and Final
+   Fantasy VI as the last three minutes of the 18+ minute piece, part of
+   the ending theme in Final Fantasy VII, and in the very end of Final
+   Fantasy VII: Advent Children as the movement immediately preceding the
+   song Calling. It is included in the three-movement ending credits theme
+   in Final Fantasy VIII and is found in the song "Skies of Alexandria"
+   from Final Fantasy IX. It has recently been in the intro music for
+   Final Fantasy XII.
+
+   Final Fantasy was also the basis for an episode of a video game-themed
+   cartoon series Captain N: The Game Master entitled The Fractured
+   Fantasy of Captain N. 8-Bit Theatre, a sprite-based webcomic parodying
+   the game, has become very popular in the gaming community.
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Final_Fantasy_%28video_game%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

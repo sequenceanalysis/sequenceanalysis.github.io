@@ -1,0 +1,808 @@
+   #copyright
+
+Prime number
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Divisibility-based
+   sets of integers
+   Form of factorization:
+   Prime number
+   Composite number
+   Powerful number
+   Square-free number
+   Achilles number
+   Constrained divisor sums:
+   Perfect number
+   Almost perfect number
+   Quasiperfect number
+   Multiply perfect number
+   Hyperperfect number
+   Unitary perfect number
+   Semiperfect number
+   Primitive semiperfect number
+   Practical number
+   Numbers with many divisors:
+   Abundant number
+   Highly abundant number
+   Superabundant number
+   Colossally abundant number
+   Highly composite number
+   Superior highly composite number
+   Other:
+   Deficient number
+   Weird number
+   Amicable number
+   Sociable number
+   Sublime number
+   Harmonic divisor number
+   Frugal number
+   Equidigital number
+   Extravagant number
+   See also:
+   Divisor function
+   Divisor
+   Prime factor
+   Factorization
+
+   In mathematics, a prime number (or a prime) is a natural number that
+   has exactly two (distinct) natural number divisors, which are 1 and the
+   prime number itself. There exists an infinitude of prime numbers, as
+   demonstrated by Euclid, in about 300 B.C.. The first 30 prime numbers
+   are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61,
+   67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, and 113 (sequence
+   A000040 in OEIS); see the list of prime numbers for a longer list.
+
+   The property of being a prime is called primality, and the word prime
+   is also used as an adjective. Since 2 is the only even prime number,
+   the term odd prime refers to all prime numbers greater than 2.
+
+   The study of prime numbers is part of number theory, the branch of
+   mathematics which encompasses the study of natural numbers. Prime
+   numbers have been the subject of intense research, yet some fundamental
+   questions, such as the Riemann hypothesis and the Goldbach conjecture,
+   have been unresolved for more than a century. The problem of modelling
+   the distribution of prime numbers is a popular subject of investigation
+   for number theorists: when looking at individual numbers, the primes
+   seem to be randomly distributed, but the "global" distribution of
+   primes follows well-defined laws.
+
+   The notion of prime number has been generalized in many different
+   branches of mathematics.
+     * In ring theory, a branch of abstract algebra, the term "prime
+       element" has a specific meaning. Here, a non-zero, non-unit ring
+       element a is defined to be prime if whenever a divides b c for ring
+       elements b and c, then a divides at least one of b or c. With this
+       meaning, the additive inverse of any prime number is also prime. In
+       other words, when considering the set of integers ( \mathbb{Z} ) as
+       a ring, − 7 is a prime element. Without further specification,
+       however, "prime number" always means a positive integer prime.
+       Among rings of complex algebraic integers, Eisenstein primes, and
+       Gaussian primes may also be of interest.
+     * In knot theory, a prime knot is a knot which can not be
+       disaggregated into a smaller prime knot.
+
+   In both the two above examples, the fundamental theorem of arithmetic
+   (Every natural number can be 'uniquely' decomposed into a product of
+   primes) does not apply.
+
+History of prime numbers
+
+   There are hints in the surviving records of the ancient Egyptians that
+   they had some knowledge of prime numbers: the Egyptian fraction
+   expansions in the Rhind papyrus, for instance, have quite different
+   forms for primes and for composites. However, the earliest surviving
+   records of the explicit study of prime numbers come from the Ancient
+   Greeks. Euclid's Elements (circa 300 BC) contain important theorems
+   about primes, including the infinitude of primes and the fundamental
+   theorem of arithmetic. Euclid also showed how to construct a perfect
+   number from a Mersenne prime. The Sieve of Eratosthenes, attributed to
+   Eratosthenes, is a simple, efficient and still widely used method to
+   compute primes.
+
+   After the Greeks, little happened until the 17th century. In 1640
+   Pierre de Fermat stated (without proof) Fermat's little theorem (later
+   proved by Leibnitz and Euler). A special case of it may have been known
+   long before by the Chinese. Other conjectures by Fermat turned out to
+   be false, e.g. that all Fermat numbers are prime. The French monk Marin
+   Mersenne made partially false assertions about Mersenne primes.
+
+   In 1747 Euler showed that all even perfect numbers are on Euclid's
+   form. It is still unknown whether there exist odd perfect numbers.
+   Euler's extensive work included many significant results about primes,
+   e.g. that the infinite sum 1/2 + 1/3 + 1/5 + 1/7 + 1/11 + ... is
+   divergent.
+
+   Several mathematicians made contributions towards the prime number
+   theorem until it was proved independently by Hadamard and de la Vallée
+   Poussin in 1896.
+
+   Fermat's little theorem does not prove primality which can be
+   determined by slow trial division for small numbers. Many
+   mathematicians have worked on faster primality tests for large numbers,
+   often restricted to specific number forms. This includes Pépin's test
+   for Fermat numbers (1877), Proth's theorem (around 1878), the
+   Lucas–Lehmer test for Mersenne numbers (originated 1878), and the
+   generalized Lucas–Lehmer test. More recent algorithms like APRT-CL,
+   ECPP and AKS work on arbitrary numbers but remain much slower.
+
+   Until the 19th century most mathematicians considered the number 1 a
+   prime, and there is still a large body of mathematical work that is
+   valid despite labelling 1 a prime, such as the work of Stern and
+   Zeisel. Henri Lebesgue is said to be the last professional
+   mathematician to call 1 prime. The change in label occurred so that it
+   can be said 'each number has a unique factorization into primes.' See
+   also "Arguments for and against the primality of 1".
+
+   For a long time, prime numbers were thought as having no possible
+   application outside of number theory; this changed in the 1970s when
+   the concepts of public-key cryptography were invented, in which prime
+   numbers formed the basis of the first algorithms such as the RSA
+   cryptosystem or the Diffie-Hellman key-exchange algorithm.
+
+   Since 1951 all the largest known primes have been found by computers.
+   The search for ever larger primes has generated interest outside
+   mathematical circles. Great Internet Mersenne Prime Search and other
+   distributed computing projects to find large primes have become
+   popular, while mathematicians continue to struggle with the theory of
+   primes.
+
+Prime divisors
+
+   The fundamental theorem of arithmetic states that every positive
+   integer larger than 1 can be written as a product of one or more primes
+   in a unique way, i.e. unique except for the order. The same prime may
+   occur multiple times. Primes can thus be considered the "basic building
+   blocks" of the natural numbers. For example, we can write
+
+          23244 = 2^2 \times 3 \times 13 \times 149
+
+   and any other factorization of 23244 as the product of primes will be
+   identical except for the order of the factors. There are many prime
+   factorization algorithms to do this in practice for larger numbers.
+
+   The importance of this theorem is one of the reasons for the exclusion
+   of 1 from the set of prime numbers. If 1 were admitted as a prime, the
+   precise statement of the theorem would require additional
+   qualifications.
+
+Properties of primes
+
+     * The base 10 numerals for all prime numbers except 2 and 5 end in 1,
+       3, 7, or 9. (Numerals ending in 0, 2, 4, 6 or 8 represent multiples
+       of 2 and numerals ending in 5 represent multiples of 5, due to the
+       use of the base 10 (2 × 5) system.)
+
+     * If p is a prime number and p divides a product ab of integers, then
+       p divides a or p divides b. This proposition was proved by Euclid
+       and is known as Euclid's lemma. It is used in some proofs of the
+       uniqueness of prime factorizations.
+
+     * The ring Z/nZ (see modular arithmetic) is a field if and only if n
+       is a prime. Put another way: n is prime if and only if φ(n) = n −
+       1.
+
+     * If p is prime and a is any integer, then a^p − a is divisible by p
+       ( Fermat's little theorem).
+
+     * If p is a prime number other than 2 and 5, 1/p is always a
+       recurring decimal, with a period of p-1 or a divisor of p-1. This
+       can be deduced directly from Fermat's little theorem. 1/p expressed
+       likewise in base q (i.e. other than base 10) has similar effect,
+       provided that p is not a prime factor of q. The article on
+       recurring decimals shows some of the interesting properties.
+
+     * An integer p > 1 is prime if and only if the factorial (p − 1)! + 1
+       is divisible by p ( Wilson's theorem). Conversely, an integer n > 4
+       is composite if and only if (n − 1)! is divisible by n.
+
+     * If n is a positive integer greater than 1, then there is always a
+       prime number p with n < p < 2n ( Bertrand's postulate).
+
+     * Adding the reciprocals of all primes together results in a
+       divergent infinite series ( proof). More precisely, if S(x) denotes
+       the sum of the reciprocals of all prime numbers p with p ≤ x, then
+       S(x) = ln ln x + O(1) for x → ∞ (see Big O notation).
+
+     * In every arithmetic progression a, a + q, a + 2q, a + 3q,... where
+       the positive integers a and q ≥ 1 are coprime, there are infinitely
+       many primes ( Dirichlet's theorem on arithmetic progressions).
+
+     * The characteristic of every field is either zero or a prime number.
+
+     * If G is a finite group and p^n is the highest power of the prime p
+       which divides the order of G, then G has a subgroup of order p^n. (
+       Sylow theorems)
+
+     * If p is prime and G is a group with p^n elements, then G contains
+       an element of order p.
+
+     * The prime number theorem says that the proportion of primes less
+       than x is asymptotic to 1/ln x (in other words, as x gets very
+       large, the likelihood that a number less than x is prime is
+       inversely proportional to the number of digits in x).
+
+     * The Copeland-Erdős constant 0.235711131719232931374143..., obtained
+       by concatenating the prime numbers, is known to be an irrational
+       number.
+
+     * The value of the Riemann zeta function at each point in the complex
+       plane is given as a meromorphic continuation of a function, defined
+       by a product over the set of all primes for Re(s)>1:
+
+                \zeta(s)= \sum_{n=1}^\infin \frac{1}{n^s} = \prod_{p}
+                \frac{1}{1-p^{-s}}.
+
+          Evaluating this identity at different integers provides an
+          infinite number of products over the primes whose values can be
+          calculated, the first two being
+
+                \prod_{p} \frac{1}{1-p^{-1}} = \infty
+                \prod_{p} \frac{1}{1-p^{-2}}= \frac{\pi^2}{6}.
+
+     * If p>1\; , the polynomial x^{p-1}+x^{p-2}+ \cdots + 1 is
+       irreducible over Z / pZ if and only if p\; is prime.
+
+     * If p is a prime number greater than 6 then p mod 6 is either 1 or 5
+       and p mod 30 is 1, 7, 11, 13, 17, 19, 23 or 29.
+
+Classification of prime numbers
+
+   Two ways of classifying prime numbers, class n+ and class n-, were
+   studied by Paul Erdős and John Selfridge.
+
+   Determining the class n+ of a prime number p involves looking at the
+   largest prime factor of p + 1. If that largest prime factor is 2 or 3,
+   then p is class 1+. But if that largest prime factor is another prime
+   q, then the class n+ of p is one more than the class n+ of q. Sequences
+   A005105 through A005108 list class 1+ through class 4+ primes.
+
+   The class n- is almost the same as class n+, except that the
+   factorization of p - 1 is looked at instead.
+
+The number of prime numbers
+
+There are infinitely many prime numbers
+
+   The oldest known proof for the statement that there are infinitely many
+   prime numbers is given by the Greek mathematician Euclid in his
+   Elements (Book IX, Proposition 20). Euclid states the result as "there
+   are more than any given [finite] number of primes", and his proof is
+   essentially the following:
+
+          Suppose you have a finite number of primes. Call this number m.
+          Multiply all m primes together and add one (see Euclid number).
+          The resulting number is not divisible by any of the finite set
+          of primes, because dividing by any of these would give a
+          remainder of one. And one is not divisible by any primes.
+          Therefore it must either be prime itself, or be divisible by
+          some other prime that was not included in the finite set. Either
+          way, there must be at least m + 1 primes. But this argument
+          applies no matter what m is; it applies to m + 1, too. So there
+          are more primes than any given finite number.
+
+   This previous argument explains why the product of m primes plus 1 must
+   be divisible by some prime not among the m primes, or be prime itself.
+   A common mistake is thinking Euclid's proof says the prime product plus
+   1 is always prime.
+   (2 · 3 · 5 · 7 · 11 · 13) + 1 = 30,031 = 59 · 509 (both primes) shows
+   this is not the case.
+
+   Other mathematicians have given their own proofs. One of those (due to
+   Euler) shows that the sum of the reciprocals of all prime numbers
+   diverges to infinity. Kummer's is particularly elegant and Harry
+   Furstenberg provides one using general topology.
+
+Counting the number of prime numbers below a given number
+
+   Even though the total number of primes is infinite, one could still ask
+   "Approximately how many primes are there below 100,000?", or "How
+   likely is a random 20-digit number to be prime?".
+
+   The prime counting function π(x) is defined as the number of primes up
+   to x. There are known algorithms to compute exact values of π(x) faster
+   than it would be to compute each prime up to x. Values as large as
+   π(10^20) can be calculated quickly and accurately with modern
+   computers. Thus, e.g., π(100000) = 9592, and π(10^20) =
+   2,220,819,602,560,918,840.
+
+   For larger values of x, beyond the reach of modern equipment, the prime
+   number theorem provides a good estimate: π(x) is approximately x/ln(x).
+   Even better estimates are known.
+
+Location of prime numbers
+
+Finding prime numbers
+
+   The Sieve of Eratosthenes is a simple way, and the Sieve of Atkin a
+   fast way, to compute the list of all prime numbers up to a given limit.
+
+   In practice, though, one usually wants to check whether a given number
+   is prime, rather than generate a list of primes. Further, it is often
+   satisfactory to know the answer with a high probability. It is possible
+   to quickly check whether a given large number (say, up to a few
+   thousand digits) is prime using probabilistic primality tests. These
+   typically pick a random number called a "witness" and check some
+   formula involving the witness and the potential prime N. After several
+   iterations, they declare N to be "definitely composite" or "probably
+   prime". Some of these tests are not perfect: there may be some
+   composite numbers, called pseudoprimes for the respective test, that
+   will be declared "probably prime" no matter what witness is chosen.
+   However, the most popular probabilistic tests do not suffer from this
+   drawback.
+
+   One method for determining whether a number is prime is to divide by
+   all primes less than or equal to the square root of that number. If any
+   of the divisions come out as an integer, then the original number is
+   not a prime. Otherwise, it is a prime. One need not actually calculate
+   the square root; once one sees that the quotient is less than the
+   divisor, one can stop. This is known as trial division; it is the
+   simplest primality test and it quickly becomes impractical for testing
+   large integers because the number of possible factors grows
+   exponentially as the number of digits in the number-to-be-tested
+   increases.
+
+Pseudocode for programs to find primes
+
+   The least efficient algorithm starts out with a list containing just
+   the number 2, then tries dividing each subsequent number by the primes
+   already in the list. If it is not divisible evenly by any of them, it
+   is added to the list. But if it is divisible evenly by any number
+   already on the list, the program moves on to the next candidate.
+
+   The simplest, most elegant algorithm is perhaps the sieve of
+   Eratosthenes.
+// arbitrary search limit
+limit ← 1000000
+
+// assume all numbers are prime at first
+is_prime(i) ← true, i ∈ [2, limit]
+
+for n in [2, √limit]:
+    if is_prime(n):
+        // eliminate multiples of each prime,
+        // starting with its square
+        // 2n, 3n, ..., (n-1)n already eliminated
+        // nn, (n+1)n, (n+2)n, ... to be eliminated
+        is_prime(i) ← false, i ∈ {n², n²+n, n²+2n, ..., limit}
+
+for n in [2, limit]:
+    if is_prime(n): print n
+
+
+   A more complicated, but more efficient algorithm (when properly
+   optimized) is the sieve of Atkin. Its basic structure is as follows.
+// arbitrary search limit
+limit ← 1000000
+
+// initialize the sieve
+is_prime(i) ← false, i ∈ [5, limit]
+
+// put in candidate primes:
+// integers which have an odd number of
+// representations by certain quadratic forms
+for (x, y) in [1, √limit] × [1, √limit]:
+    n ← 4x²+y²
+    if (n ≤ limit) ∧ (n mod 12 = 1 ∨ n mod 12 = 5):
+        is_prime(n) ← ¬is_prime(n)
+    n ← 3x²+y²
+    if (n ≤ limit) ∧ (n mod 12 = 7):
+        is_prime(n) ← ¬is_prime(n)
+    n ← 3x²-y²
+    if (x > y) ∧ (n ≤ limit) ∧ (n mod 12 = 11):
+        is_prime(n) ← ¬is_prime(n)
+
+// eliminate composites by sieving
+for n in [5, √limit]:
+    if is_prime(n):
+        // n is prime, omit multiples of its square; this is sufficient because
+        // composites which managed to get on the list cannot be square-free
+        is_prime(k) ← false, k ∈ {n², 2n², 3n², ..., limit}
+
+print 2, 3
+for n in [5, limit]:
+    if is_prime(n): print n
+
+Primality tests
+
+   A primality test algorithm is an algorithm which tests a number for
+   primality, i.e. whether the number is a prime number.
+     * AKS primality test
+     * Fermat primality test
+     * Lucas-Lehmer test
+     * Solovay-Strassen primality test
+     * Miller-Rabin primality test
+
+   A probable prime is an integer which, by virtue of having passed a
+   certain test, is considered to be probably prime. Probable primes which
+   are in fact composite (such as Carmichael numbers) are called
+   pseudoprimes.
+
+   In 2002, Indian scientists at IIT Kanpur discovered a new deterministic
+   algorithm known as the AKS algorithm. The amount of time that this
+   algorithm takes to check whether a number N is prime depends on a
+   polynomial function of the number of digits of N (i.e. of the logarithm
+   of N).
+
+Formulas yielding prime numbers
+
+   There is no known formula for primes which is more efficient at finding
+   primes than the methods mentioned above under "Finding prime numbers".
+
+   There is a set of Diophantine equations in 9 variables and one
+   parameter with the following property: the parameter is prime if and
+   only if the resulting system of equations has a solution over the
+   natural numbers. This can be used to obtain a single formula with the
+   property that all its positive values are prime.
+
+   There is no polynomial, even in several variables, that takes only
+   prime values. For example, the curious polynomial in one variable
+   f(n) = n^2 − n + 41 yields primes for n = 0,..., 40, but f(41) is
+   composite. However, there are polynomials in several variables, whose
+   positive values as the variables take all positive integer values are
+   exactly the primes.
+
+   Another formula is based on Wilson's theorem mentioned above, and
+   generates the number two many times and all other primes exactly once.
+   There are other similar formulae which also produce primes.
+
+Special types of primes from formulas for primes
+
+   A prime p is called primorial or prime-factorial if it has the form p =
+   n# ± 1 for some number n, where n# stands for the product 2 · 3 · 5 · 7
+   · 11 · ... of all the primes ≤ n. A prime is called factorial if it is
+   of the form n! ± 1. The first factorial primes are:
+
+          n! − 1 is prime for n = 3, 4, 6, 7, 12, 14, 30, 32, 33, 38, 94,
+          166,... (sequence A002982 in OEIS)
+
+          n! + 1 is prime for n = 0, 1, 2, 3, 11, 27, 37, 41, 73, 77, 116,
+          154... (sequence A002981 in OEIS)
+
+   The largest known primorial prime is Π(392113) + 1, found by Heuer in
+   2001. The largest known factorial prime is 34790! − 1, found by
+   Marchal, Carmody and Kuosa in 2002. It is not known whether there are
+   infinitely many primorial or factorial primes.
+
+   Primes of the form 2^n − 1 are known as Mersenne primes, while primes
+   of the form 2^{2^n} + 1 are known as Fermat primes. Prime numbers p
+   where 2p + 1 is also prime are known as Sophie Germain primes. The
+   following list is of other special types of prime numbers that come
+   from formulas:
+     * Wieferich primes,
+     * Wilson primes,
+     * Wall-Sun-Sun primes,
+     * Wolstenholme primes,
+     * Unique primes,
+     * Newman-Shanks-Williams primes (NSW primes),
+     * Smarandache-Wellin primes,
+     * Wagstaff primes, and
+     * Supersingular primes.
+
+   Some primes are classified according to the properties of their digits
+   in decimal or other bases. For example, numbers whose digits form a
+   palindromic sequence are called palindromic primes, and a prime number
+   is called a truncatable prime if successively removing the first digit
+   at the left or the right yields only new prime numbers.
+
+The distribution of the prime numbers
+
+   The distribution of all the prime numbers in the range of 1 to 76,800.
+   Each pixel represents a number with black pixels meaning that number is
+   prime and white ones not-prime.
+   The distribution of all the prime numbers in the range of 1 to 76,800.
+   Each pixel represents a number with black pixels meaning that number is
+   prime and white ones not-prime.
+
+   The problem of modelling the distribution of prime numbers is a popular
+   subject of investigation for number theorists. The prime numbers are
+   distributed among the natural numbers in a (so far) unpredictable way,
+   but there do appear to be laws governing their behaviour. Leonhard
+   Euler commented
+
+          Mathematicians have tried in vain to this day to discover some
+          order in the sequence of prime numbers, and we have reason to
+          believe that it is a mystery into which the mind will never
+          penetrate. (Havil 2003, p. 163)
+
+   Paul Erdős said
+
+          God may not play dice with the universe, but something strange
+          is going on with the prime numbers. [Referring to Albert
+          Einstein's famous belief that "God does not play dice with the
+          universe."]
+
+   In a 1975 lecture, Don Zagier commented
+
+          "There are two facts about the distribution of prime numbers of
+          which I hope to convince you so overwhelmingly that they will be
+          permanently engraved in your hearts. The first is that, despite
+          their simple definition and role as the building blocks of the
+          natural numbers, the prime numbers grow like weeds among the
+          natural numbers, seeming to obey no other law than that of
+          chance, and nobody can predict where the next one will sprout.
+          The second fact is even more astonishing, for it states just the
+          opposite: that the prime numbers exhibit stunning regularity,
+          that there are laws governing their behaviour, and that they
+          obey these laws with almost military precision." (Havil 2003, p.
+          171)
+
+Gaps between primes
+
+   Let p[n] denote the nth prime number (i.e. p[1] = 2, p[2] = 3, etc.).
+   The gap g[n] between the consecutive primes p[n] and p[n + 1] is the
+   difference between them, i.e.
+
+          g[n] = p[n + 1] − p[n].
+
+   We have g[1] = 3 − 2 = 1, g[2] = 5 − 3 = 2, g[3] = 7 − 5 = 2, g[4] = 11
+   − 7 = 4, and so on. The sequence (g[n]) of prime gaps has been
+   extensively studied.
+
+   For any natural number N larger than 1, the sequence (for the notation
+   N! read factorial)
+
+          N! + 2, N! + 3, ..., N! + N
+
+   is a sequence of N − 1 consecutive composite integers. Therefore, there
+   exist gaps between primes which are arbitrarily large, i.e. for any
+   natural number N, there is an integer n with g[n] > N. (Choose n so
+   that p[n] is the greatest prime number less than N! + 2.)
+
+   On the other hand, the gaps get arbitrarily small in proportion to the
+   primes: the quotient g[n]/p[n] approaches zero as n approaches
+   infinity. Note also that the twin prime conjecture asserts that g[n] =
+   2 for infinitely many integers n.
+
+Location of the largest known prime
+
+   The largest known prime, as of September 2006, is 2^32,582,657 − 1
+   (this number is 9,808,358 digits long); it is the 44th known Mersenne
+   prime. M[32582657] was found on September 4, 2006 by Curtis Cooper and
+   Steven Boone, professors at the University of Central Missouri
+   (formerly Central Missouri State University) and members of a
+   collaborative effort known as GIMPS. Before finding the prime, Cooper
+   and Boone ran the GIMPS program on a peak of 700 CMSU computers for 9
+   years.
+
+   The next two largest known primes are also Mersenne Primes:
+   M[30,402,457] = 2^30,402,457 − 1 (43rd known Mersenne prime, 9,152,052
+   digits long) and M[25964951] = 2^25,964,951 − 1 (42nd known Mersenne
+   prime, 7,816,230 digits long). Historically, the largest known prime
+   has almost always been a Mersenne prime since the dawn of electronic
+   computers, because there exists a particularly fast primality test for
+   numbers of this form, the Lucas–Lehmer test for Mersenne numbers.
+
+   The largest known prime that is not a Mersenne prime is 27,653 ×
+   2^9,167,433 + 1 (2,759,677 digits), a Proth number. This is also the
+   seventh largest known prime of any form. It was found by the Seventeen
+   or Bust project and it brings them one step closer to solving the
+   Sierpinski problem.
+
+   Some of the largest primes not known to have any particular form (that
+   is, no simple formula such as that of Mersenne primes) have been found
+   by taking a piece of semi-random binary data, converting it to a number
+   n, multiplying it by 256^k for some positive integer k, and searching
+   for possible primes within the interval [256^kn + 1, 256^k(n + 1) − 1].
+
+Awards for finding primes
+
+   The Electronic Frontier Foundation (EFF) has offered a $100,000 (U.S.)
+   prize to the first discoverers of a prime with at least 10 million
+   digits. They also offer $150,000 for 100 million digits, and $250,000
+   for 1 billion digits. In 2000 they paid out $50,000 for 1 million
+   digits.
+
+   The RSA Factoring Challenge offers prizes up to $200,000 (U.S) for
+   finding the prime factors of certain semiprimes of up to 2048 bits.
+
+Generalizations of the prime concept
+
+   The concept of prime number is so important that it has been
+   generalized in different ways in various branches of mathematics.
+
+Prime elements in rings
+
+   One can define prime elements and irreducible elements in any integral
+   domain. For any unique factorization domain, such as the ring Z of
+   integers, the set of prime elements equals the set of irreducible
+   elements, which for Z is {..., −11, −7, −5, −3, −2, 2, 3, 5, 7, 11,
+   ...}.
+
+   As an example, we consider the Gaussian integers Z[i], that is, complex
+   numbers of the form a + bi with a and b in Z. This is an integral
+   domain, and its prime elements are the Gaussian primes. Note that 2 is
+   not a Gaussian prime, because it factors into the product of the two
+   Gaussian primes (1 + i) and (1 − i). The element 3, however, remains
+   prime in the Gaussian integers. In general, rational primes (i.e. prime
+   elements in the ring Z of integers) of the form 4k + 3 are Gaussian
+   primes, whereas rational primes of the form 4k + 1 are not.
+
+Prime ideals
+
+   In ring theory, one generally replaces the notion of number with that
+   of ideal. Prime ideals are an important tool and object of study in
+   commutative algebra, algebraic number theory and algebraic geometry.
+   The prime ideals of the ring of integers are the ideals (0), (2), (3),
+   (5), (7), (11), ...
+
+   A central problem in algebraic number theory is how a prime ideal
+   factors when it is lifted to an extension field. For example, in the
+   Gaussian integer example above, (2) ramifies into a prime power (1 + i
+   and 1 − i generate the same prime ideal), prime ideals of the form (4k
+   + 3) are inert (remain prime), and prime ideals of the form (4k + 1)
+   split (are the product of 2 distinct prime ideals).
+
+Primes in valuation theory
+
+   In class field theory yet another generalization is used. Given an
+   arbitrary field K, one considers valuations on K, certain functions
+   from K to the real numbers R. Every such valuation yields a topology on
+   K, and two valuations are called equivalent if they yield the same
+   topology. A prime of K (sometimes called a place of K) is an
+   equivalence class of valuations. With this definition, the primes of
+   the field Q of rational numbers are represented by the standard
+   absolute value function (known as the "infinite prime") as well as by
+   the p-adic valuations on Q, for every prime number p.
+
+Prime knots
+
+   In knot theory, a prime knot is a knot which is, in a certain sense,
+   indecomposable. Specifically, it is one which cannot be written as the
+   knot sum of two nontrivial knots.
+
+Open questions
+
+   There are many open questions about prime numbers. A very significant
+   one is the Riemann hypothesis, which essentially says that the primes
+   are as regularly distributed as possible. From a physical viewpoint, it
+   roughly states that the irregularity in the distribution of primes only
+   comes from random noise. From a mathematical viewpoint, it roughly
+   states that the asymptotic distribution of primes (about 1/ log x of
+   numbers less than x are primes, the prime number theorem) also holds
+   for much shorter intervals of length about the square root of x (for
+   intervals near x). This hypothesis is generally believed to be correct,
+   in particular, the simplest assumption is that primes should have no
+   significant irregularities without good reason.
+
+   Many famous conjectures appear to have a very high probability of being
+   true (in a formal sense, many of them follow from simple heuristic
+   probabilistic arguments):
+     * Prime Euclid numbers: It is not known whether or not there are an
+       infinite number of prime Euclid numbers.
+
+     * Strong Goldbach conjecture: Every even integer greater than 2 can
+       be written as a sum of two primes.
+
+     * Weak Goldbach conjecture: Every odd integer greater than 5 can be
+       written as a sum of three primes.
+
+     * Twin prime conjecture: There are infinitely many twin primes, pairs
+       of primes with difference 2.
+
+     * Polignac's conjecture: For every positive integer n, there are
+       infinitely many pairs of consecutive primes which differ by 2n.
+       When n = 1 this is the twin prime conjecture.
+
+     * A weaker form of Polignac's conjecture: Every even number is the
+       difference of two primes.
+
+     * It is widely believed there are infinitely many Mersenne primes,
+       but not Fermat primes.
+
+     * Many believe there are infinitely many primes of the form n^2 + 1.
+
+     * Many well-known conjectures are special cases of the broad
+       Schinzel's hypothesis H.
+
+     * Many believe there are infinitely many Fibonacci primes.
+
+     * Legendre's conjecture: There is a prime number between n^2 and
+       (n + 1)^2 for every positive integer n.
+
+     * Cramér's conjecture: \limsup_{n\rightarrow\infty}
+       \frac{p_{n+1}-p_n}{(\log p_n)^2} = 1 . This conjecture implies
+       Legendre's, but its status is more unsure.
+
+     * Brocard's conjecture: There are always at least four primes between
+       the squares of successive primes > 2.
+
+Applications
+
+   For a long time, number theory in general, and the study of prime
+   numbers in particular, was seen as the canonical example of pure
+   mathematics, with no applications outside of the self-interest of
+   studying the topic. In particular, number theorists such as British
+   mathematician G. H. Hardy prided themselves on doing work that had
+   absolutely no military significance. However, this vision was shattered
+   in the 1970s, when it was publicly announced that prime numbers could
+   be used as the basis for the creation of public key cryptography
+   algorithms. Prime numbers are also used for hash tables and
+   pseudorandom number generators.
+
+   Some rotor machines were designed with a different number of pins on
+   each rotor, with the number of pins on any one rotor either prime, or
+   coprime to the number of pins on any other rotor. This helped generate
+   the full cycle of possible rotor positions before repeating any
+   position.
+
+Public-key cryptography
+
+   Several public-key cryptography algorithms, such as RSA, are based on
+   large prime numbers (that is, greater than 10^100).
+
+Prime numbers in nature
+
+   Many numbers occur in nature, and inevitably some of these are prime.
+   There are, however, relatively few examples of numbers that appear in
+   nature because they are prime. For example, most starfish have 5 arms,
+   and 5 is a prime number. However there is no evidence to suggest that
+   starfish have 5 arms because 5 is a prime number. Indeed, some starfish
+   have different numbers of arms. Echinaster luzonicus normally has six
+   arms, Luidia senegalensis has nine arms, and Solaster endeca can have
+   as many as twenty arms. Why the majority of starfish (and most other
+   echinoderms) have five-fold symmetry remains a mystery.
+
+   One example of the use of prime numbers in nature is as an evolutionary
+   strategy used by cicadas of the genus Magicicada. These insects spend
+   most of their lives as grubs underground. They only pupate and then
+   emerge from their burrows after 13 or 17 years, at which point they fly
+   about, breed, and then die after a few weeks at most. The logic for
+   this is believed to be that the prime number intervals between
+   emergences makes it very difficult for predators to evolve that could
+   specialise as predators on Magicicadas. If Magicicadas appeared at a
+   non-prime number intervals, say every 12 years, then predators
+   appearing every 2, 3, 4, 6, or 12 years would be sure to meet them.
+   Over a 200-year period, average predator populations during
+   hypothetical outbreaks of 14- and 15-year cicadas would be up to 2%
+   higher than during outbreaks of 13- and 17-year cicadas. Though small,
+   this advantage appears to have been enough to drive natural selection
+   in favour of a prime-numbered life-cycle for these insects.
+
+Primes in pop culture
+
+     * In Carl Sagan's novel Contact a message from outer space is sent to
+       humanity. This message is hashed into pieces and comes in intervals
+       of incremented prime numbers from 2 to 101. The same device was
+       later used in an episode of Star Trek: The Next Generation.
+
+   (These fictional alien transmissions might have been inspired by the
+   use of prime numbers in constructing the Arecibo message transmitted in
+   1974).
+     * In Stephen King's novels The Waste Lands and Wizard and Glass, the
+       protagonists solve a puzzle using primes in order to ride on the
+       sentient and deranged train, Blaine the Mono.
+
+     * In Mark Haddon's novel The Curious Incident of the Dog in the
+       Night-time, the main character is fascinated by prime numbers, and
+       in the book the chapters are numbered with primes.
+
+     * In the Stargate Atlantis episode "Hot Zone", physicists Rodney
+       McKay and Radek Zelenka play the game "Prime or Not Prime" in which
+       players randomly name numbers and expect the other player or
+       players to determine whether the number is prime.
+
+     * In the film Cube, the protagonists discover that prime numbers
+       encoded on passageways represent a possible key to their escape
+       from a mysterious facility filled with lethal booby traps.
+
+Trivia
+
+   As a publicity stunt against the Digital Millennium Copyright Act and
+   other WIPO Copyright Treaty implementations, some people have tried to
+   encode various forms of the DeCSS program in such a way that the
+   executable program code becomes a prime number, thus creating illegal
+   primes. Such numbers, when converted to binary and executed as a
+   computer program, perform acts encumbered by applicable law in one or
+   more jurisdictions.
+
+   The largest known prime consisting of a prime number of decimal digits
+   is 27,653 · 2^9,167,433 + 1 which has 2,759,677 digits. As of January
+   2007 the 6 larger known primes (all Mersenne primes) have numbers of
+   digits which are even or divisible by 3.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Prime_number"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

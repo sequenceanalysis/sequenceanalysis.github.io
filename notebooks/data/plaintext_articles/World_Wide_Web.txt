@@ -1,0 +1,449 @@
+   #copyright
+
+World Wide Web
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   WWW's historical logo designed by Robert Cailliau
+   Enlarge
+   WWW's historical logo designed by Robert Cailliau
+
+   The World Wide Web ("WWW" or simply the "Web") is a system of
+   interlinked, hypertext documents that runs over the Internet. With a
+   Web browser, a user views Web pages that may contain text, images, and
+   other multimedia and navigates between them using hyperlinks.
+
+   The Web was first created around 1990 by Tim Berners-Lee working at
+   CERN in Geneva, Switzerland. As its inventor, Berners-Lee
+   conceptualised the Web to be the Semantic Web where all its contents
+   should be descriptively marked-up.
+
+Basic terms
+
+   The World Wide Web is the combination of four basic ideas:
+     * Hypertext: a format of information which allows, in a computer
+       environment, one to move from one part of a document to another or
+       from one document to another through internal connections among
+       these documents (called " hyperlinks");
+     * Resource Identifiers: unique identifiers used to locate a
+       particular resource (computer file, document or other resource) on
+       the network;
+     * The Client-server model of computing: a system in which client
+       software or a client computer makes requests of server software or
+       a server computer that provides the client with resources or
+       services, such as data or files; and
+     * Markup language: characters or codes embedded in text which
+       indicate structure, semantic meaning, or advice on presentation.
+
+   On the World Wide Web, a client program called a user agent retrieves
+   information resources, such as Web pages and other computer files, from
+   Web servers using their URLs. If the user agent is a kind of Web
+   browser, it displays the resources on a user's computer. The user can
+   then follow hyperlinks in each web page to other World Wide Web
+   resources, whose location is embedded in the hyperlinks. It is also
+   possible, for example by filling in and submitting web forms, to post
+   information back to a Web server for it to save or process in some way.
+   Web pages are often arranged in collections of related material called
+   " Web sites." The act of following hyperlinks from one Web site to
+   another is referred to as " browsing" or sometimes as "surfing" the
+   Web.
+
+   The phrase "surfing the Internet" was first popularized in print by
+   Jean Armour Polly, a librarian, in an article called Surfing the
+   INTERNET, published in the University of Minnesota Wilson Library
+   Bulletin in June, 1992. Although Polly may have developed the phrase
+   independently, slightly earlier uses of similar terms have been found
+   on the Usenet from 1991 and 1992, and some recollections claim it was
+   also used verbally in the hacker community for a couple years before
+   that. Polly is famous as " NetMom" in the history of the Internet.
+
+   For more information on the distinction between the World Wide Web and
+   the Internet itself—as in everyday use the two are sometimes
+   confused—see Dark internet where this is discussed in more detail.
+
+   Although the English word worldwide is normally written as one word
+   (without a space or hyphen), the proper name World Wide Web and
+   abbreviation WWW are now well-established even in formal English. The
+   earliest references to the Web called it the WorldWideWeb (an example
+   of computer programmers' fondness for CamelCase) or the World-Wide Web
+   (with a hyphen, this version of the name is the closest to normal
+   English usage).
+
+   Ironically, the abbreviation "WWW" is somewhat impractical as it
+   contains two or three times as many syllables (depending on accent) as
+   the full term "World Wide Web", and thus takes longer to say.
+
+How the Web works
+
+   Viewing a Web page or other resource on the World Wide Web normally
+   begins either by typing the URL of the page into a Web browser, or by
+   following a hypertext link to that page or resource. The first step,
+   behind the scenes, is for the server-name part of the URL to be
+   resolved into an IP address by the global, distributed Internet
+   database known as the Domain name system or DNS.
+
+   The next step is for an HTTP request to be sent to the Web server at
+   that IP address, for the page required. In the case of a typical Web
+   page, the HTML text, graphics and any other files that form a part of
+   the page will be requested and returned to the client (the Web browser)
+   in quick succession.
+
+   The Web browser then renders the page as described by the HTML, CSS and
+   other files received, incorporating the images and other resources as
+   necessary. This produces the on-screen 'page' that the viewer sees.
+
+   Most Web pages will themselves contain hyperlinks to other relevant and
+   informative pages and perhaps to downloads, source documents,
+   definitions and other Web resources.
+
+   Such a collection of useful, related resources, interconnected via
+   hypertext links, is what has been dubbed a 'web' of information. Making
+   it available on the Internet created what Tim Berners-Lee first called
+   the World Wide Web in the early 1990s .
+
+Caching
+
+   If the user returns to a page fairly soon, it is likely that the data
+   will not be retrieved from the source Web server, as above, again. By
+   default, browsers cache all web resources on the local hard drive. An
+   HTTP request will be sent by the browser that asks for the data only if
+   it has been updated since the last download. If it has not, the cached
+   version will be reused in the rendering step.
+
+   This is particularly valuable in reducing the amount of web traffic on
+   the internet. The decision about expiry is made independently for each
+   resource (image, stylesheet, JavaScript file etc., as well as for the
+   HTML itself). Thus even on sites with highly dynamic content, many of
+   the basic resources are only supplied once per session or less. It is
+   worth it for any Web site designer to collect all the CSS and
+   JavaScript into a few site-wide files so that they can be downloaded
+   into users' caches and reduce page download times and demands on the
+   server.
+
+   There are other components of the Internet that can cache Web content.
+   The most common in practice are often built into corporate and academic
+   firewalls where they cache web resources requested by one user for the
+   benefit of all. Some search engines such as Google also store cached
+   content from Web sites.
+
+   Apart from the facilities built into Web servers that can ascertain
+   when physical files have been updated, it is possible for designers of
+   dynamically generated web pages to control the HTTP headers sent back
+   to requesting users, so that pages are not cached when they should not
+   be — for example Internet banking and news pages.
+
+   This helps with understanding the difference between the HTTP 'GET' and
+   'POST' verbs — data requested with a GET may be cached, if other
+   conditions are met, whereas data obtained after POSTing information to
+   the server usually will not.
+
+Origins
+
+          See also: History of the Internet - CERN, Where the Web Was
+          "WWW" born
+
+   This NeXTcube used by Berners-Lee at CERN became the first Web server.
+   Enlarge
+   This NeXTcube used by Berners-Lee at CERN became the first Web server.
+
+   The underlying ideas of the Web can be traced as far back as 1980,
+   when, at CERN in Switzerland, the Englishman Tim Berners-Lee built
+   ENQUIRE (referring to Enquire Within Upon Everything, a book he
+   recalled from his youth). While it was rather different from the Web we
+   use today, it contained many of the same core ideas (and even some of
+   the ideas of Berners-Lee's next project after the WWW, the Semantic
+   Web).
+
+   In March 1989, Tim Berners-Lee wrote Information Management: A
+   Proposal, which referenced ENQUIRE and described a more elaborate
+   information management system. With help from Robert Cailliau, he
+   published a more formal proposal for the World Wide Web on November 12,
+   1990.
+
+   A NeXTcube was used by Berners-Lee as the world's first web server and
+   also to write the first web browser, WorldWideWeb in 1990. By Christmas
+   1990, Berners-Lee had built all the tools necessary for a working Web :
+   the first Web browser (which was a Web editor as well), the first Web
+   server and the first Web pages which described the project itself.
+
+   On August 6, 1991, he posted a short summary of the World Wide Web
+   project on the alt.hypertext newsgroup. This date also marked the debut
+   of the Web as a publicly available service on the Internet.
+
+   The crucial underlying concept of hypertext originated with older
+   projects from the 1960s, such as Ted Nelson's Project Xanadu and
+   Douglas Engelbart's oN-Line System (NLS). Both Nelson and Engelbart
+   were in turn inspired by Vannevar Bush's microfilm-based " memex,"
+   which was described in the 1945 essay " As We May Think".
+
+   Berners-Lee's breakthrough was to marry hypertext to the Internet. In
+   his book Weaving The Web, he explains that he had repeatedly suggested
+   that a marriage between the two technologies was possible to members of
+   both technical communities, but when no one took up his invitation, he
+   finally tackled the project himself. In the process, he developed a
+   system of globally unique identifiers for resources on the Web and
+   elsewhere: the Uniform Resource Identifier.
+
+   The World Wide Web had a number of differences from other hypertext
+   systems that were then available:
+     * The WWW required only unidirectional links rather than
+       bidirectional ones. This made it possible for someone to link to
+       another resource without action by the owner of that resource. It
+       also significantly reduced the difficulty of implementing Web
+       servers and browsers (in comparison to earlier systems), but in
+       turn presented the chronic problem of broken links.
+     * Unlike predecessors such as HyperCard, the World Wide Web was
+       non-proprietary, making it possible to develop servers and clients
+       independently and to add extensions without licensing restrictions.
+
+   On April 30, 1993, CERN announced that the World Wide Web would be free
+   to anyone, with no fees due. Coming two months after the announcement
+   that gopher was no longer free to use, this produced a rapid shift away
+   from gopher and towards the Web.
+
+   An early popular Web browser was ViolaWWW which was based upon
+   HyperCard. The World Wide Web, however, only gained critical mass with
+   the 1993 release of the graphical Mosaic web browser by the National
+   Centre for Supercomputing Applications developed by Marc Andreessen.
+   Prior to the release of Mosaic, graphics were not commonly mixed with
+   text in Web pages and its popularity was less than older protocols in
+   use over the Internet, such as Gopher protocol and Wide area
+   information server. Mosaic's graphical user interface allowed the Web
+   to become by far the most popular Internet protocol.
+
+Web standards
+
+   At its core, the Web is made up of three standards:
+     * the Uniform Resource Identifier ( URI), which is a universal system
+       for referencing resources on the Web, such as Web pages;
+     * the HyperText Transfer Protocol ( HTTP), which specifies how the
+       browser and server communicate with each other; and
+     * the HyperText Markup Language ( HTML), used to define the structure
+       and content of hypertext documents.
+
+   Berners-Lee now heads the World Wide Web Consortium (W3C), which
+   develops and maintains these and other standards that enable computers
+   on the Web to effectively store and communicate different forms of
+   information.
+
+Java and JavaScript
+
+   Another significant advance in the technology was Sun Microsystems'
+   Java platform. It initially enabled Web servers to embed small programs
+   (called applets) directly into the information being served, and these
+   applets would run on the end-user's computer, allowing faster and
+   richer user interaction. Eventually, it came to be more widely used as
+   a tool for generating complex server-side content as it is requested.
+   Java never gained as much acceptance as Sun had hoped as a platform for
+   client-side applets for a variety of reasons, including lack of
+   integration with other content (applets were confined to small boxes
+   within the rendered page) and poor performance (particularly start up
+   delays) of Java VMs on PC hardware of that time.
+
+   JavaScript, however, is a scripting language that was developed for Web
+   pages. The standardised version is ECMAScript. While its name is
+   similar to Java, it was developed by Netscape and not Sun Microsystems,
+   and it has almost nothing to do with Java, with the only exception
+   being that like Java its syntax is derived from the C programming
+   language. Like Java, JavaScript is also object oriented, but like C++
+   and unlike Java, it allows mixed code—both object-oriented as well as
+   procedural. In conjunction with the Document Object Model, JavaScript
+   has become a much more powerful language than its creators originally
+   envisioned. Sometimes its usage alongside CSS and manipulation of the
+   Document Object Model is expressed under the term Dynamic HTML (DHTML),
+   to emphasise a shift away from static HTML pages.
+
+   Ajax (Asynchronous JavaScript And XML) is a JavaScript-based technology
+   that may have a significant effect on the development of the World Wide
+   Web. By providing a method where only part of a page need be updated
+   when required, rather than the whole, Ajax allows such updates to be
+   much faster and more efficient. Ajax is seen as an important aspect of
+   Web 2.0. Examples of Ajax techniques currently in use can be seen in
+   Gmail, Google Maps etc.
+
+Sociological implications
+
+   The Web, as it stands today, has allowed global interpersonal exchange
+   on a scale unprecedented in human history. People separated by vast
+   distances, or even large amounts of time, can use the Web to
+   exchange—or even mutually develop—their most intimate and extensive
+   thoughts, or alternately their most casual attitudes and spirits.
+   Emotional experiences, political ideas, cultural customs, musical
+   idioms, business advice, artwork, photographs, literature, can all be
+   shared and disseminated digitally with less individual investment than
+   ever before in human history. Although the existence and use of the Web
+   relies upon material technology, which comes with its own
+   disadvantages, its information does not use physical resources in the
+   way that libraries or the printing press have. Therefore, propagation
+   of information via the Web (via the Internet, in turn) is not
+   constrained by movement of physical volumes, or by manual or material
+   copying of information. By virtue of being digital, the information of
+   the Web can be searched more easily and efficiently than any library or
+   physical volume, and vastly more quickly than a person could retrieve
+   information about the world by way of physical travel or by way of
+   mail, telephone, telegraph, or any other communicative medium.
+
+   The Web is the most far-reaching and extensive medium of personal
+   exchange to appear on Earth. It has probably allowed many of its users
+   to interact with many more groups of people, dispersed around the
+   planet in time and space, than is possible when limited by physical
+   contact or even when limited by every other existing medium of
+   communication combined.
+
+   Because the Web is global in scale, some have suggested that it will
+   nurture mutual understanding on a global scale. By definition or by
+   necessity, the Web has such a massive potential for social exchange, it
+   has the potential to nurture empathy and symbiosis, but it also has the
+   potential to incite belligerence on a global scale, or even to empower
+   demagogues and repressive regimes in ways that were historically
+   impossible to achieve previously.
+
+Publishing Web pages
+
+   The Web is available to individuals outside mass media. In order to
+   "publish" a Web page, one does not have to go through a publisher or
+   other media institution, and potential readers could be found in all
+   corners of the globe.
+
+   Unlike books and documents, hypertext does not have a linear order from
+   beginning to end. It is not broken down into the hierarchy of chapters,
+   sections, subsections, etc.
+
+   Many different kinds of information are now available on the Web, and
+   for those who wish to know other societies, their cultures and peoples,
+   it has become easier. When travelling in a foreign country or a remote
+   town, one might be able to find some information about the place on the
+   Web, especially if the place is in one of the developed countries.
+   Local newspapers, government publications, and other materials are
+   easier to access, and therefore the variety of information obtainable
+   with the same effort may be said to have increased, for the users of
+   the Internet.
+
+   Although some Web sites are available in multiple languages, many are
+   in the local language only. Additionally, not all software supports all
+   special characters, and RTL languages. These factors would challenge
+   the notion that the World Wide Web will bring a unity to the world.
+
+   The increased opportunity to publish materials is certainly observable
+   in the countless personal pages, as well as pages by families, small
+   shops, etc., facilitated by the emergence of free Web hosting services.
+
+Statistics
+
+   According to a 2001 study, there were more than 550 billion documents
+   on the Web, mostly in the " invisible Web". A 2002 survey of 2,024
+   million Web pages determined that by far the most Web content was in
+   English: 56.4%; next were pages in German (7.7%), French (5.6%) and
+   Japanese (4.9%). A more recent study which used web searches in 75
+   different languages to sample the Web determined that there were over
+   11.5 billion web pages in the publicly indexable Web as of January
+   2005.
+
+Speed issues
+
+   Frustration over congestion issues in the Internet infrastructure and
+   the high latency that results in slow browsing has led to an
+   alternative name for the World Wide Web: the World Wide Wait. Speeding
+   up the Internet is an ongoing discussion over the use of peering and
+   QoS technologies. Other solutions to reduce the World Wide Wait can be
+   found on W3C.
+
+   Standard guidelines for ideal Web response times are (Nielsen 1999,
+   page 42):
+     * 0.1 second (one tenth of a second). Ideal response time. The user
+       doesn't sense any interruption.
+     * 1 second. Highest acceptable response time. Download times above 1
+       second interrupt the user experience.
+     * 10 seconds. Unacceptable response time. The user experience is
+       interrupted and the user is likely to leave the site or system.
+
+   These numbers are useful for planning server capacity.
+
+Link rot
+
+   The Web suffers from link rot, links becoming broken because of the
+   continual disappearance or relocation of Web resources over time. The
+   ephemeral nature of the Web has prompted many efforts to archive the
+   Web. The Internet Archive is one of the most well-known efforts; they
+   have been archiving the Web since 1996.
+
+Academic conferences
+
+   The major academic event covering the WWW is the World Wide Web series
+   of conferences, promoted by IW3C2. There is a list with links to all
+   conferences in the series.
+
+WWW prefix in Web addresses
+
+   "WWW" is commonly found at the beginning of Web addresses. Many
+   organizations on the Internet follow the convention of naming hosts
+   according to the services they provide. So for example, the host name
+   for a Web server is "www"; for an FTP server it's "ftp"; or a news
+   server is "news" or "nntp" (after the news protocol NNTP). The host
+   names are then used as DNS subdomain names, giving the full
+   "www.example.com".
+
+   These prefixes are not required by any technical standard; indeed, the
+   first Web server was at "info.cern.ch" and even today many Web sites
+   are available without the "www" prefix.
+
+   Some Web browsers will automatically try adding "www." to the
+   beginning, and possibly ".com" to the end, of host names in typed URLs
+   if a host is not found without them. Internet Explorer and Mozilla
+   Firefox will automatically prefix 'http://www.' and append '.com' to
+   the address bar contents when the Control and Enter keys are pressed
+   simultaneously. For example, entering "example" in the address bar and
+   then pressing Control+Enter causes the browser to visit
+   "http://www.example.com".
+
+Pronunciation of "www"
+
+   In English, WWW is the longest possible three-letter acronym (TLA) to
+   pronounce, requiring nine syllables. The late Douglas Adams once
+   quipped:
+
+     The World Wide Web is the only thing I know of whose shortened form
+     takes three times longer to say than what it's short for.
+
+     —Douglas Adams, The Independent on Sunday, 1999
+
+   Shorter variants include "triple 'double u'", "triple dub", "dub dub
+   dub", "wuh wuh wuh," and "all the 'double u's". In other languages,
+   "www" is often pronounced as "vvv" or "3w". The early "w³" abbreviation
+   is nowadays deprecated.
+
+   In Chinese, the World Wide Web is commonly translated to wàn wéi wǎng
+   (万维网), i.e. "ten-thousand dimensional net".
+
+Trivia
+
+     * The first Web site went on-line in 1991. On April 30, 1993, CERN
+       announced that the World Wide Web would be free to anyone. A copy
+       of the original first Web page, created by Tim Berners-Lee, is kept
+       here.
+
+Standards
+
+   The following is a cursory list of the documents that define the World
+   Wide Web's three core standards:
+     * Uniform Resource Locators (URL)
+          + RFC 1738, Uniform Resource Locators (URL) (December 1994)
+          + RFC 3986, Uniform Resource Identifier (URI): Generic Syntax
+            (January 2005)
+     * HyperText Transfer Protocol (HTTP)
+          + RFC 1945, HTTP/1.0 specification (May 1996)
+          + RFC 2616, HTTP/1.1 specification (June 1999)
+          + RFC 2617, HTTP Authentication
+          + HTTP/1.1 specification errata
+     * Hypertext Markup Language (HTML)
+          + Internet Draft, HTML version 1
+          + RFC 1866, HTML version 2.0
+          + HTML 3.2 Reference Specification
+          + HTML 4.01 Specification
+          + Extensible HTML (XHTML) Specification
+
+   Retrieved from " http://en.wikipedia.org/wiki/World_Wide_Web"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,211 @@
+   #copyright
+
+Tin(II) chloride
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+                               Tin(II) chloride
+                               Tin(II) chloride
+                                    General
+           Systematic name                                      Tin(II) chloride
+               Other names                         Stannous chloride
+                                                                        Tin salt
+                                                                  Tin dichloride
+                                                               Tin protochloride
+         Molecular formula                                               SnCl[2]
+                Molar mass                              189.60 g/mol (anhydrous)
+                                                              225.63 (dihydrate)
+                Appearance                               White crystalline solid
+                CAS number                               [7772-99-8] (anhydrous)
+                                                        [10025-69-1] (dihydrate)
+                                  Properties
+         Density and phase                          3.95 g/cm^3, anhydrous solid
+                                                  2.71 g/cm^3, dihydrate (15 °C)
+       Solubility in water                                 83.9 g/100 ml (0 °C)
+                                                         Hydrolyses in hot water
+In ethanol, diethyl ether,
+     acetic acid, acetone,
+             ethyl acetate                                               soluble
+             Melting point                                        246 °C (519 K)
+             Boiling point                                        623 °C (896 K)
+                                   Structure
+           Molecular shape                                      Bent (gas phase)
+     Coordination geometry                        Trigonal pyramidal (anhydrous)
+                                                 Dihydrate also three-coordinate
+         Crystal structure                                       Layer structure
+                                                      (chains of SnCl[3] groups)
+                                    Hazards
+                      MSDS                                         External MSDS
+              Main hazards                                             Corrosive
+                  NFPA 704 Image:nfpa h2.png Image:nfpa f0.png Image:nfpa r0.png
+             R/S statement                                           R: 22-34-37
+                                                               S: 26-36/37/39-45
+              RTECS number                                 XP8700000 (anhydrous)
+                                                           XP8850000 (dihydrate)
+                            Supplementary data page
+    Structure & properties                                         n, ε[r], etc.
+        Thermodynamic data                                       Phase behaviour
+                                                              Solid, liquid, gas
+             Spectral data                                       UV, IR, NMR, MS
+                               Related compounds
+              Other anions                                      Tin(II) fluoride
+                                                                 Tin(II) bromide
+             Other cations                        Tin(IV) chloride
+                                                            Germanium dichloride
+                                                               Lead(II) chloride
+               Except where noted otherwise, data are given for
+                          materials in their standard state (at 25°C, 100 kPa)
+                                              Infobox disclaimer and references
+
+   Tin(II) chloride (stannous chloride) is a white crystalline solid with
+   the formula SnCl[2]. It forms a stable dihydrate, but aqueous solutions
+   tend to undergo hydrolysis, particularly if hot. SnCl[2] is widely used
+   as a reducing agent (in acid solution), and in electrolytic baths for
+   tin-plating. Tin(II) chloride should not be confused with the other
+   chloride of tin; tin(IV) chloride or stannic chloride (SnCl[4]).
+
+Structure
+
+   SnCl[2] has a lone pair, such that the molecule in the gas phase is
+   bent. In the solid state, crystalline SnCl[2] forms chains linked via
+   chloride bridges as shown. The dihydrate is also three-coordinate, with
+   one water coordinated on to the tin, and a second water coordinated to
+   the first. The main part of the molecule stacks into double layers in
+   the crystal lattice, with the "second" water sandwiched between the
+   layers.
+
+Chemical properties
+
+   Tin(II) chloride can dissolve in less than its own mass of water
+   without apparent decomposition, but as the solution is diluted
+   hydrolysis occurs to form an insoluble basic salt:
+
+   Therefore if clear solutions of tin(II) chloride are to be used,
+   hydrochloric acid must be added in order to maintain the equilibrium
+   towards the left-hand side (using Le Chatelier's principle). Solutions
+   of SnCl[2] are also unstable towards oxidation by the air:
+
+          6 SnCl[2]( aq) + O[2](g) + 2 Water (molecule)( l) → 2
+          SnCl[4](aq) + 4 Sn(OH)Cl(Solid|s)
+
+   This can be prevented by storing the solution over lumps of tin metal.^
+
+   There are many such cases where tin(II) chloride acts as a reducing
+   agent, reducing silver and gold salts to the metal, and iron(III) salts
+   to iron(II), for example:
+
+          SnCl[2](aq) + 2 FeCl[3](aq) → SnCl[4](aq) + 2 FeCl[2](aq)
+
+   Solutions of tin(II) chloride can also serve simply as a source of
+   Sn^2+ ions, which can form other tin(II) compounds via precipitation
+   reactions, for example brown (or black) tin(II) sulfide:
+
+          SnCl[2](aq) + Na[2]S(aq) → SnS(s) + 2 NaCl(aq)
+
+   If alkali is added to a solution of SnCl[2], a white precipitate of
+   hydrated tin(II) oxide forms initially; this then dissolves in excess
+   base to form a stannite salt such as sodium stannite:
+
+          SnCl[2](aq) + 2 NaOH(aq) → SnO·H[2]O(s) + 2 NaCl(aq)
+
+          SnO·H[2]O(s) + NaOH(aq) → NaSn(OH)[3](aq)
+
+   Anhydrous SnCl[2] can be used to make a variety of interesting tin(II)
+   compounds in non-aqueous solvents. For example, the lithium salt of
+   4-methyl-2,6-di-tert-butylphenol reacts with SnCl[2] in THF to give the
+   yellow linear two-coordinate compound Sn(OAr)[2] (Ar = aryl).^
+
+   Tin(II) chloride also behaves as a Lewis acid, forming complexes with
+   ligands such as chloride ion, for example:
+
+          SnCl[2](aq) + CsCl(aq) → CsSnCl[3](aq)
+
+   Most of these complexes are pyramidal, and since complexes such as
+   SnCl[3] have a full octet, there is little tendency to add more than
+   one ligand. The lone pair of electrons in such complexes is available
+   for bonding, however, and therefore the complex itself can act as a
+   Lewis base or ligand. This seen in the ferrocene-related product of the
+   following reaction :
+
+          SnCl[2] + Fe(η^5-C[5]H[5])(CO)[2]HgCl →
+          Fe(η^5-C[5]H[5])(CO)[2]SnCl[3] + Hg
+
+   SnCl[2] can be used to make a variety of such compounds containing
+   metal-metal bonds, for example:
+
+          SnCl[2] + Co[2](CO)[8] → (CO)[4]Co-(SnCl[2])-Co(CO)[4]
+
+Preparation
+
+   Anhydrous SnCl[2] is prepared by the action of dry hydrogen chloride
+   gas on tin metal. The dihydrate is made by a similar reaction, using
+   hydrochloric acid:
+
+          Sn( s) + 2 HCl( aq) → SnCl[2](aq) + H[2](g)
+
+   The water is then carefully evaporated from the acidic solution to
+   produce crystals of SnCl[2]·2H[2]O. This dihydrate can be dehydrated to
+   anhydrous using acetic anhydride.
+
+Uses
+
+   A solution of tin(II) chloride containing a little hydrochloric acid is
+   used for the tin-plating of steel, in order to make tin cans. An
+   electric potential is applied, and tin metal is formed at the cathode
+   via electrolysis.
+
+   It is used as a catalyst in the production of the plastic polylactic
+   acid (PLA).
+
+   Tin(II) chloride also finds wide use as a reducing agent. This is seen
+   in its use for silvering mirrors, where silver metal is deposited on
+   the glass:
+
+          Sn^2+(aq) + 2 Ag^+ → Sn^4+(aq) + 2 Ag(s)
+
+   A related reduction was traditionally used as an analytical test for
+   Hg^2+(aq). For example, if SnCl[2] is added dropwise into a solution of
+   mercury(II) chloride, a white precipitate of mercury(I) chloride is
+   first formed; as more SnCl[2] is added this turns black as metallic
+   mercury is formed. Stannous chloride can be used to test for the
+   presence of gold compounds. SnCl[2] turns bright purple in the presence
+   of gold.
+
+   This very reaction between stannous chloride and gold was used in
+   episode #215: Clueless of House, M.D. to affirm gold poisoning.
+
+   In organic chemistry, SnCl[2] is mainly used in the Stephen reduction,
+   whereby a nitrile is reduced (via an imidoyl chloride salt) to an imine
+   which is easily hydrolysed to an aldehyde.^ The reaction usually works
+   best with aromatic nitriles Aryl-CN. A related reaction (called the
+   Sonn-Müller method) starts with an amide, which is treated with PCl[5]
+   to form the imidoyl chloride salt.
+   The Stephen reduction
+
+   The Stephen reduction is less used today, because it has been mostly
+   superseded by diisobutylaluminium hydride reduction.
+
+   Additionally, SnCl[2] is used to selectively reduce aromatic nitro
+   groups to anilines.^
+   Aromatic nitro group reduction using SnCl2
+
+   SnCl[2] also reduces quinones to hydroquinones.
+
+   Stannous chloride is also added as a food additive with E number E512
+   to some canned and bottled foods, where it serves as a colour-retention
+   agent and antioxidant.
+
+   How to make Tin(II)-iodide:
+
+   1.) Sn + 2HCl + CuSO4 --> SnCl2 + CuSO3 + H2 (This step takes about 2H)
+
+   2.) Zn + I2 + H2O --> ZnI2 (Icebath)
+
+   3.) SnCl2 + ZnI2 --> SnI2 + ZnCl2
+
+   Tin(II)-iodide is an neon-Orange powder and Toxic!
+   Retrieved from " http://en.wikipedia.org/wiki/Tin%28II%29_chloride"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

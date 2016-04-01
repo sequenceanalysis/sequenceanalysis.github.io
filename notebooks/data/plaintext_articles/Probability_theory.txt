@@ -1,0 +1,241 @@
+   #copyright
+
+Probability theory
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Probability theory is a branch of mathematics concerned with analysis
+   of random phenomena. The central objects of probability theory are
+   random variables, stochastic processes, and events: mathematical
+   abstractions of non-deterministic events or measured quantities that
+   may either be single occurrences or evolve over time in an apparently
+   random fashion. As a mathematical foundation for statistics,
+   probability theory is essential to most human activities that involve
+   quantitative analysis of large sets of data. Methods of probability
+   theory also apply to description of complex systems given only partial
+   knowledge of their state, as in statistical mechanics. A great
+   discovery of twentieth century physics was the probabilistic nature of
+   physical phenomena at microscopic scales, described in quantum
+   mechanics.
+
+History
+
+   The mathematical theory of probability has its roots in attempts to
+   analyse games of chance by Girolamo Cardano in the sixteenth century,
+   and by Pierre de Fermat and Blaise Pascal in the seventeenth century.
+   Although an individual coin toss or the roll of a die is random event,
+   if repeated many times the sequence of random events will exhibit
+   certain statistical patterns, which can be studied and predicted. Two
+   representative mathematical results describing such patterns are the
+   law of large numbers and the central limit theorem.
+
+   Initially, probability theory mainly considered discrete events, and
+   its methods were mainly combinatorial. Eventually, analytical
+   considerations compelled the incorporation of continuous variables into
+   the theory. This culminated in modern probability theory, the
+   foundations of which were laid by Andrey Nikolaevich Kolmogorov.
+   Kolmogorov combined the notion of sample space, introduced by Richard
+   von Mises, and measure theory and presented his axiom system for
+   probability theory 1933. Fairly quickly this became the undisputed
+   axiomatic basis for modern probability theory.
+
+Treatment
+
+Discrete probability theory
+
+   Discrete probability theory deals with events which occur in countable
+   sample spaces.
+
+   Examples: Throwing dice, experiments with decks of cards, and random
+   walk.
+
+   Classical definition: Initially the probability of an event to occur
+   was defined as number of cases favorable for the event, over the number
+   of total outcomes possible.
+
+   For example, if the event is "occurrence of an even number when a die
+   is rolled", the probability is given by \tfrac{3}{6}=\tfrac{1}{2} ,
+   since 3 faces out of the 6 have even numbers.
+
+   Modern definition: The modern definition starts with a set called the
+   sample space which relates to the set of all possible outcomes in
+   classical sense, denoted by \Omega=\left \{ x_1,x_2,\dots\right \} . It
+   is then assumed that for each element x \in \Omega\, , an intrinsic
+   "probability" value f(x)\, is attached, which satisfies the following
+   properties:
+    1. f(x)\in[0,1]\mbox{ for all }x\in \Omega
+    2. \sum_{x\in \Omega} f(x) = 1
+
+   An event is defined as any subset E\, of the sample space \Omega\, .
+   The probability of the event E\, defined as
+
+          P(E)=\sum_{x\in E} f(x)\,
+
+   So, the probability of the entire sample space is 1, and the
+   probability of the null event is 0.
+
+   The function f(x)\, mapping a point in the sample space to the
+   "probability" value is called a probability mass function abbreviated
+   as pmf. The modern definition does not try to answer how probability
+   mass functions are obtained; instead it builds a theory that assumes
+   their existence.
+
+Continuous probability theory
+
+   Continuous probability theory deals with events which occur in a
+   continuous sample space.
+
+   If the sample space is the real numbers, then a function called the
+   cumulative distribution function or cdf F\, is assumed to exist, which
+   gives P(X\le x) = F(x)\, .
+
+   The cdf must satisfy the following properties.
+    1. F\, is a monotonically non-decreasing right-continuous function
+    2. \lim_{x\rightarrow -\infty} F(x)=0
+    3. \lim_{x\rightarrow \infty} F(x)=1
+
+   If F\, is differentiable, then the random variable is said to have a
+   probability density function or pdf or simply density
+   f(x)=\frac{dF(x)}{dx}\, .
+
+   For a set E \subseteq \mathbb{R} , the probability of the random
+   variable being in E\, is defined as
+
+          P(X\in E) = \int_{x\in E} dF(x)\,
+
+   In case the density exists, then it can be written as
+
+          P(X\in E) = \int_{x\in E} f(x)\,dx
+
+   Whereas the pdf exists only for continuous random variables, the cdf
+   exists for all random variables (including discrete random variables)
+   that take values on \mathbb{R} .
+
+   These concepts can be generalized for multidimensional cases on
+   \mathbb{R}^n .
+
+Measure theoretic probability theory
+
+   Certain distributions can be a mix of discrete and continuous
+   distributions. For example, a sum of a discrete and continuous random
+   variable will neither have a pmf nor a pdf. Other distributions may not
+   even be a mix; for example the Cantor distribution which has no point
+   mass and no density. The modern approach to probability theory solves
+   these problems using measure theory and the definition of the
+   probability space:
+
+   Given any set \Omega\, (also called sample space) and a σ-algebra
+   \Sigma\, on it, a measure \mu\, is called a probability measure if
+    1. \mu\, is non-negative
+    2. \mu(\Omega)=1\,
+
+   For any cdf there is a unique probability measure on the Borel sigma
+   field, and vice versa. The measure corresponding to a cdf is said to be
+   induced by the cdf. This measure coincides with the pmf for discrete
+   variables, and pdf for continuous variables, making the measure
+   theoretic approach free of fallacies.
+
+   The probability of a set E\, in the sigma field \Sigma\, is defined as
+
+          P(X\in E) = \int_{x\in E} dF(x)\,
+
+   where the integration is with respect to the measure induced by F\, .
+
+   Along with providing better understanding and unification of discrete
+   and continuous probabilities, measure theoretic treatment also allows
+   us to work on probabilities outside \mathbb{R}^n , as in the theory of
+   stochastic processes. For example to study Brownian motion, probability
+   is defined on a space of functions.
+
+Probability distributions
+
+   Certain random variables occur very often in probability theory due to
+   many natural and physical processes. Their distributions therefore have
+   gained special importance in probability theory. Some fundamental
+   discrete distributions are the discrete uniform, Bernoulli, binomial,
+   negative binomial, Poisson and geometric distributions. Important
+   continuous distributions include the continuous uniform, normal,
+   exponential, gamma and beta distributions.
+
+Convergence of random variables
+
+   In probability theory, there are several notions of convergence for
+   random variables. They are listed below in the order of strength, i.e.,
+   any subsequent notion convergence in the list implies convergence
+   according to all of the preceding notions.
+
+          Convergence in distribution: As the name implies, a sequence of
+          random variables X_1,X_2,\dots,\, converges to the random
+          variable X\, in distribution if their respective cumulative
+          distribution functions F_1,F_2,\dots\, converge to the
+          cumulative distribution function F\, of X\, , wherever F\, is
+          continuous.
+
+          Weak convergence: The sequence of random variables
+          X_1,X_2,\dots\, is said to converge towards the random variable
+          X\, weakly if
+          \lim_{n\rightarrow\infty}P\left(\left|X_n-X\right|\geq\varepsilo
+          n\right)=0 for every ε > 0. Weak convergence is also called
+          convergence in probability.
+
+          Strong convergence: The sequence of random variables
+          X_1,X_2,\dots\, is said to converge towards the random variable
+          X\, strongly if P(\lim_{n\rightarrow\infty} X_n=X)=1. Strong
+          convergence is also known as almost sure convergence.
+
+   Intuitively, strong convergence is a stronger version of the weak
+   convergence, and in both cases the random variables X_1,X_2,\dots\,
+   show an increasing correlation with X\, . However, in case of
+   convergence in distribution, the realized values of the random
+   variables do not need to converge, and any possible correlation among
+   them is immaterial.
+
+Law of large numbers
+
+   If a fair coin is tossed, we know that roughly half of the time it will
+   turn up heads, and the other half it will turn up tails. It also seems
+   that the more we toss it, the more likely it is that the ratio of
+   heads:tails will approach 1:1. Modern probability allows us to formally
+   arrive at the same result, dubbed the law of large numbers. This result
+   is remarkable because it was nowhere assumed while building the theory
+   and is completely an offshoot of the theory. Linking
+   theoretically-derived probabilities to their actual frequency of
+   occurrence in the real world, this result is considered as a pillar in
+   the history of statistical theory.
+
+   The strong law of large numbers (SLLN) states that if an event of
+   probability p is observed repeatedly during independent experiments,
+   the ratio of the observed frequency of that event to the total number
+   of repetitions converges towards p strongly in probability.
+
+   In other words, if X_1,X_2,...\, are independent Bernoulli random
+   variables taking values 1 with probability p and 0 with probability
+   1-p, then the sequence of random numbers \frac{\sum X_n}{n}\, converges
+   to p almost surely, i.e.
+
+          P\left( \lim_{n\rightarrow \infty} \frac{\sum_{i=1}^n X_i}{n}=p
+          \right)=1.\,
+
+Central limit theorem
+
+   The central limit theorem is the reason for the ubiquitous occurrence
+   of the normal distribution in nature, for which it is one of the most
+   celebrated theorems in probability and statistics.
+
+   The theorem states that the average of many independent and identically
+   distributed random variables tends towards a normal distribution
+   irrespective of which distribution the original random variables
+   follow. Formally, let X_1,X_2,\dots\, be independent random variables
+   with means \mu_1,\mu_2,\dots\, , and variances
+   \sigma_1^2,\sigma_2^2,\dots.\, Then the sequence of random variables
+
+          Z_n=\frac{\sum_{i=1}^n (X_i - \mu_i)}{\sqrt{\sum_{i=1}^n
+          \sigma_i^2}}
+
+   converges in distribution to a standard normal random variable.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Probability_theory"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

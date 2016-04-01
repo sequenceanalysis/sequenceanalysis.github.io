@@ -1,0 +1,814 @@
+   #copyright
+
+Insulin
+
+2007 Schools Wikipedia Selection. Related subjects: Health and medicine
+
+                                                                   Insulin
+
+                                                          Insulin crystals
+                                                      Other names: insulin
+                                                              Genetic data
+                                                      Locus: Chr. 11 p15.5
+                                                 Gene code: HUGO code: INS
+                                                 Gene type: Protein coding
+                                                Protein Structure/Function
+                                              Molecular Weight: 11982 (Da)
+            Structure: Solution Structure of Human pro-Insulin Polypeptide
+                                              Protein type: insulin family
+                                             Functions: glucose regulation
+                                                       Domains: INS domain
+                                                          Motifs: SP motif
+                                                                     Other
+            Taxa expressing: Homo sapiens; homologs: in metazoan taxa from
+                                                  invertebrates to mammals
+              Cell types: pancreas: beta cells of the Islets of Langerhans
+                            Subcellular localization: extracellular fluids
+                   Covalent modifications: glycation, proteolytic cleavage
+           Pathway(s): Insulin signaling pathway ( KEGG); Type II diabetes
+        mellitus ( KEGG); Type I diabetes mellitus ( KEGG); Maturity onset
+   diabetes of the young ( KEGG); Regulation of actin cytoskeleton ( KEGG)
+                                                      Receptor/Ligand data
+                     Antagonists: glucagon, steroids, most stress hormomes
+                                             Medical/Biotechnological data
+                 Diseases: familial hyperproinsulinemia, Diabetes mellitus
+   Pharmaceuticals: insulin ( Humulin Novolin), insulin lispro ( Humalog),
+   insulin aspart ( Novolog), insulin detemir ( Levemir), insulin glargine
+                                                            ( Lantus), etc
+                                                            Database Links
+       Codes: EntrezGene 3630; Mendelian Inheritance in Man (OMIM) 176730;
+                                          UniProt P01308; RefSeq NM_000207
+
+   Insulin (from Latin insula, "island", as it is produced in the Islets
+   of Langerhans in the pancreas) is a polypeptide hormone that regulates
+   carbohydrate metabolism. Apart from being the primary effector in
+   carbohydrate homeostasis, it has effects on fat metabolism and it can
+   change the liver's ability to release fat stores. Insulin's
+   concentration has extremely widespread effects throughout the body.
+
+   Insulin is used medically in some forms of diabetes mellitus. Patients
+   with type 1 diabetes mellitus depend on exogenous insulin (commonly
+   injected subcutaneously) for their survival because of an absolute
+   deficiency of the hormone; patients with type 2 diabetes mellitus have
+   either relatively low insulin production or insulin resistance or both,
+   and a non-trivial fraction of type 2 diabetics eventually require
+   insulin administration when other medications become inadequate in
+   controlling blood glucose levels.
+
+   Insulin has a molecular weight of 5808 Da. It has the molecular formula
+   C[257]H[383]N[65]O[77]S[6].
+
+   Insulin structure varies slightly between species of animal. Its
+   carbohydrate metabolism regulatory function strength in humans also
+   varies. Porcine (pig) insulin is particularly close to humans'.
+
+Discovery and characterization
+
+   In 1869 Paul Langerhans, a medical student in Berlin, was studying the
+   structure of the pancreas under a microscope when he noticed some
+   previously-unidentified cells scattered in the exocrine tissue. The
+   function of the "little heaps of cells," later known as the Islets of
+   Langerhans, was unknown, but Edouard Laguesse later argued that they
+   may produce a secretion that plays a regulatory role in digestion.
+
+   In 1889, the Polish-German physician Oscar Minkowski in collaboration
+   with Joseph von Mehring removed the pancreas from a healthy dog to
+   demonstrate this assumed role in digestion. Several days after the
+   dog's pancreas was removed, Minkowski's animal keeper noticed a swarm
+   of flies feeding on the dog's urine. On testing the urine they found
+   that there was sugar in the dog's urine, demonstrating for the first
+   time the relationship between the pancreas and diabetes. In 1901,
+   another major step was taken by Eugene Opie, when he clearly
+   established the link between the Islets of Langerhans and diabetes:
+   Diabetes mellitus.... is caused by destruction of the islets of
+   Langerhans and occurs only when these bodies are in part or wholly
+   destroyed. Before this demonstration, the link between the pancreas and
+   diabetes was clear, but not the specific role of the islets.
+   The structure of insulin. The left-hand side is a space-filling model
+   of the insulin monomer, believed to be biologically active. Carbon is
+   green, hydrogen white, oxygen red, and nitrogen blue. On the right-hand
+   side is a cartoon of the hexamer, believed to be the stored form. A
+   monomer unit is highlighted with the A chain in blue and the B chain in
+   cyan. Yellow denotes disulfide bonds, and magenta spheres are zinc
+   ions.
+   Enlarge
+   The structure of insulin. The left-hand side is a space-filling model
+   of the insulin monomer, believed to be biologically active. Carbon is
+   green, hydrogen white, oxygen red, and nitrogen blue. On the right-hand
+   side is a cartoon of the hexamer, believed to be the stored form. A
+   monomer unit is highlighted with the A chain in blue and the B chain in
+   cyan. Yellow denotes disulfide bonds, and magenta spheres are zinc
+   ions.
+
+   Over the next two decades, several attempts were made to isolate the
+   secretion of the islets as a potential treatment. In 1906 George Ludwig
+   Zuelzer was partially successful treating dogs with pancreatic extract,
+   but was unable to continue his work. Between 1911 and 1912, E.L. Scott
+   at the University of Chicago used aqueous pancreatic extracts and noted
+   a slight diminution of glycosuria, but was unable to convince his
+   director and the research was shut down. Israel Kleiner demonstrated
+   similar effects at Rockefeller University in 1919, but his work was
+   interrupted by World War I and he was unable to return to it. Nicolae
+   Paulescu, a professor of physiology at the Romanian School of Medicine,
+   published similar work in 1921 that was carried out in France and
+   patented in Romania, and it has been argued ever since that he is the
+   rightful discoverer.
+
+   However, the Nobel prizes committee in 1923 credited the practical
+   extraction of insulin to a team at the University of Toronto. In
+   October 1920, Frederick Banting was reading one of Minkowski's papers
+   and concluded that it is the very digestive secretions that Minkowski
+   had originally studied that were breaking down the secretion, thereby
+   making it impossible to extract successfully. He jotted a note to
+   himself Ligate pancreatic ducts of the dog. Keep dogs alive till acini
+   degenerate leaving islets. Try to isolate internal secretion of these
+   and relieve glycosurea.
+
+   He travelled to Toronto to meet with J.J.R. Macleod, who was not
+   entirely impressed with his idea. Nevertheless, he supplied Banting
+   with a lab at the University, an assistant, medical student Charles
+   Best, and ten dogs, while he left on vacation during the summer of
+   1921. Their method was tying a ligature (string) around the pancreatic
+   duct, and, when examined several weeks later, the pancreatic digestive
+   cells had died and been absorbed by the immune system, leaving
+   thousands of islets. They then isolated the protein from these islets
+   to produce what they called isletin. Banting and Best were then able to
+   keep a pancreatectomized dog alive all summer.
+   Computer-generated image of insulin hexamers highlighting the threefold
+   symmetry, the zinc ions holding it together, and the histidine residues
+   involved in zinc binding. Enlarge
+   Computer-generated image of insulin hexamers highlighting the threefold
+   symmetry, the zinc ions holding it together, and the histidine residues
+   involved in zinc binding.
+
+   Macleod saw the value of the research on his return from Europe, but
+   demanded a re-run to prove the method actually worked. Several weeks
+   later it was clear the second run was also a success, and he helped
+   publish their results privately in Toronto that November. However, they
+   needed six weeks to extract the isletin, dramatically slowing testing.
+   Banting suggested that they try to use fetal calf pancreas, which had
+   not yet developed digestive glands; he was relieved to find that this
+   method worked well. With the supply problem solved, the next major
+   effort was to purify the protein. In December 1921, Macleod invited the
+   biochemist James Collip to help with this task, and, within a month, he
+   felt ready to test.
+
+   On January 11, 1922, Leonard Thompson, a fourteen-year-old diabetic,
+   was given the first injection of insulin. However, the extract was so
+   impure that he suffered a severe allergic reaction, and further
+   injections were canceled. Over the next 12 days, Collip worked day and
+   night to improve the extract, and a second dose injected on the 23rd.
+   This was completely successful, not only in not having obvious
+   side-effects, but in completely eliminating the symptoms of diabetes.
+   However, Banting and Best never worked well with Collip, regarding him
+   as something of an interloper, and Collip left soon after.
+
+   Over the spring of 1922, Best managed to improve his techniques to the
+   point where large quantities of insulin could be extracted on demand,
+   but the extract remained impure. However, they had been approached by
+   Eli Lilly and Company with an offer of help shortly after their first
+   publications in 1921, and they took Lilly up on the offer in April. In
+   November, Lilly made a major breakthrough, and were able to produce
+   large quantities of pure insulin. Insulin was offered for sale shortly
+   thereafter.
+
+Nobel Prizes
+
+     * Macleod and Banting were awarded the Nobel Prize in Physiology or
+       Medicine in 1923 for the discovery of insulin. Banting, insulted
+       that Best was not mentioned, shared his prize with Best, and
+       MacLeod immediately shared his with Collip. The patent for insulin
+       was sold to the University of Toronto for one dollar.
+     * The exact sequence of amino acids comprising the insulin molecule,
+       the so-called primary structure, was determined by British
+       molecular biologist Frederick Sanger. It was the first protein to
+       have its structure be completely determined. He was awarded the
+       Nobel Prize in Chemistry in 1958.
+     * In 1967, after decades of work, Dorothy Crowfoot Hodgkin determined
+       the spatial conformation of the molecule, by means of X-ray
+       diffraction studies. She had been awarded a Nobel Prize in
+       Chemistry in 1964 for the development of crystallography.
+     * Rosalyn Sussman Yalow received the 1977 Nobel Prize in Medicine for
+       the development of the radioimmunoassay for insulin.
+
+Structure and production
+
+   Insulin undergoes extensive posttranslational modification along the
+   production pathway. Production and secretion are largely independent;
+   prepared insulin is stored awaiting secretion. Both C-peptide and
+   mature insulin are biologically active. Cell components and proteins in
+   this image are not to scale.
+   Enlarge
+   Insulin undergoes extensive posttranslational modification along the
+   production pathway. Production and secretion are largely independent;
+   prepared insulin is stored awaiting secretion. Both C-peptide and
+   mature insulin are biologically active. Cell components and proteins in
+   this image are not to scale.
+
+   Insulin has been highly conserved across the animal kingdom; it is an
+   ancient molecule. C. elegans, a nematode worm, uses insulin in very
+   much the same way vertebrates do. Within vertebrates, the simularity of
+   insulins is very close. Bovine insulin differs from human in only three
+   amino acid residues, and porcine insulin in one. Even insulin from some
+   species of fish is similiar enough to human to be effective in humans.
+
+   In mammals, insulin is synthesized in the pancreas within the beta
+   cells (β-cells) of the islets of Langerhans. One to three million
+   islets of Langerhans (pancreatic islets) form the endocrine part of the
+   pancreas, which is primarily an exocrine gland. The endocrine portion
+   only accounts for 2% of the total mass of the pancreas. Within the
+   islets of Langerhans, beta cells constitute 60–80% of all the cells.
+
+   In beta cells, insulin is synthesized from the proinsulin precursor
+   molecule by the action of proteolytic enzymes known as prohormone
+   convertases (PC1 and PC2), as well as the exoprotease carboxypeptidase
+   E. These modifications of proinsulin remove the centre portion of the
+   molecule, or C-peptide, from the C- and N- terminal ends of the
+   proinsulin. The remaining polypeptides (51 amino acids in total), the
+   B- and A- chains, are bound together by disulfide bonds. Confusingly,
+   the primary sequence of proinsulin goes in the order "B-C-A", since B
+   and A chains were identified on the basis of mass, and the C peptide
+   was discovered after the others.
+
+Actions on cellular and metabolic level
+
+   Effect of insulin on glucose uptake and metabolism. Insulin binds to
+   its receptor (1) which in turn starts many protein activation cascades
+   (2). These include: translocation of Glut-4 transporter to the plasma
+   membrane and influx of glucose (3), glycogen synthesis (4), glycolysis
+   (5) and fatty acid synthesis (6).
+   Enlarge
+   Effect of insulin on glucose uptake and metabolism. Insulin binds to
+   its receptor (1) which in turn starts many protein activation cascades
+   (2). These include: translocation of Glut-4 transporter to the plasma
+   membrane and influx of glucose (3), glycogen synthesis (4), glycolysis
+   (5) and fatty acid synthesis (6).
+
+   The actions of insulin on the global human metabolism level include:
+     * Control of cellular intake of certain substances, most prominently
+       glucose in muscle and adipose tissue (about ⅔ of body cells).
+     * Increase of DNA replication and protein synthesis via control of
+       amino acid uptake.
+     * Modification of the activity of numerous enzymes ( allosteric
+       effect).
+
+   The actions of insulin on cells include:
+     * Increased glycogen synthesis – insulin forces storage of glucose in
+       liver (and muscle) cells in the form of glycogen; lowered levels of
+       insulin cause liver cells to convert glycogen to glucose and
+       excrete it into the blood. This is the clinical action of insulin
+       which is directly useful in reducing high blood glucose levels as
+       in diabetes.
+     * Increased fatty acid synthesis – insulin forces fat cells to take
+       in blood lipids which are converted to triglycerides; lack of
+       insulin causes the reverse.
+     * Increased esterification of fatty acids – forces adipose tissue to
+       make fats (ie, triglycerides) from fatty acid esters; lack of
+       insulin causes the reverse.
+     * Decreased proteinolysis – forces reduction of protein degradation;
+       lack of insulin increases protein degradation.
+     * Decreased lipolysis – forces reduction in conversion of fat cell
+       lipid stores into blood fatty acids; lack of insulin causes the
+       reverse.
+     * Decreased gluconeogenesis – decreases production of glucose from
+       various substrates in liver; lack of insulin causes glucose
+       production from assorted substrates in the liver and elsewhere.
+     * Increased amino acid uptake – forces cells to absorb circulating
+       amino acids; lack of insulin inhibits absorption.
+     * Increased potassium uptake – forces cells to absorb serum
+       potassium; lack of insulin inhibits absorption.
+     * Arterial muscle tone – forces arterial wall muscle to relax,
+       increasing blood flow, especially in micro arteries; lack of
+       insulin reduces flow by allowing these muscles to contract.
+
+Regulatory action on blood glucose
+
+   Despite long intervals between meals or the occasional consumption of
+   meals with a substantial carbohydrate load (e.g., half a birthday cake
+   or a bag of potato chips), human blood glucose levels normally remain
+   within a narrow range. In most humans this varies from about 70 mg/dl
+   to perhaps 110 mg/dl (3.9 to 6.1 mmol/litre) except shortly after
+   eating when the blood glucose level rises temporarily. This homeostatic
+   effect is the result of many factors, of which hormone regulation is
+   the most important.
+
+   It is usually a surprise to realize how little glucose is actually
+   maintained in the blood, and body fluids. The control mechanism works
+   on very small quantities. In a healthy adult male of 75 kg with a blood
+   volume of 5 litres, a blood glucose level of 100 mg/dl or 5.5 mmol/l
+   corresponds to about 5 g (1/5 ounce) of glucose in the blood and
+   approximately 45 g (1½ ounces) in the total body water (which obviously
+   includes more than merely blood and will be usually about 60% of the
+   total body weight in men). A more familiar comparison may help -- 5
+   grams of glucose is about equivalent to a commercial sugar packet (as
+   provided in many restaurants with coffee or tea).
+
+   There are two types of mutually antagonistic metabolic hormones
+   affecting blood glucose levels:
+     * catabolic hormones (such as glucagon, growth hormone, and
+       catecholamines), which increase blood glucose
+     * and one anabolic hormone (insulin), which decreases blood glucose
+
+   Mechanisms which restore satisfactory blood glucose levels after
+   hypoglycemia must be quick, and effective, because of the immediate
+   serious consequences of insufficient glucose (in the extreme, coma,
+   less immediately dangerously, confusion or unsteadiness, amongst many
+   other effects). This is because, at least in the short term, it is far
+   more dangerous to have too little glucose in the blood than too much.
+   In healthy individuals these mechanisms are indeed generally efficient,
+   and symptomatic hypoglycemia is generally only found in diabetics using
+   insulin or other pharmacologic treatment. Such hypoglycemic episodes
+   vary greatly between persons and from time to time, both in severity
+   and swiftness of onset. In severe cases prompt medical assistance is
+   essential, as damage (to brain and other tissues) and even death will
+   result from sufficiently low blood glucose levels.
+   Mechanism of glucose dependent insulin release
+   Enlarge
+   Mechanism of glucose dependent insulin release
+
+   Beta cells in the islets of Langerhans are sensitive to variations in
+   blood glucose levels through the following mechanism (see figure to the
+   right):
+     * Glucose enters the beta cells through the glucose transporter GLUT2
+     * Glucose goes into the glycolysis and the respiratory cycle where
+       multiple high-energy ATP molecules are produced by oxidation
+     * Dependent on blood glucose levels and hence ATP levels, the ATP
+       controlled potassium channels (K^+) close and the cell membranes
+       depolarize
+     * On depolarisation, voltage controlled calcium channels (Ca^2+) open
+       and calcium flows into the cells
+     * An increased calcium level causes activation of phospholipase C,
+       which cleaves the membrane phospholipid phosphatidyl inositol
+       4,5-bisphosphate into inositol 1,4,5-triphosphate and
+       diacylglycerol.
+     * Inositol 1,4,5-triphosphate (IP3) binds to receptor proteins in the
+       membrane of endoplasmic reticulum (ER). This allows the release of
+       Ca^2+ from the ER via IP3 gated channels, and further raises the
+       cell concentration of calcium.
+     * Significantly increased amounts of calcium in the cells causes
+       release of previously synthesised insulin, which has been stored in
+       secretory vesicles
+     * The calcium level also regulates expression of the insulin gene via
+       the calcium responsive element binding protein ( CREB).
+
+   This is the main mechanism for release of insulin and regulation of
+   insulin synthesis. In addition some insulin synthesis and release takes
+   place generally at food intake, not just glucose or carbohydrate
+   intake, and the beta cells are also somewhat influenced by the
+   autonomic nervous system. The signalling mechanisms controlling this
+   are not fully understood.
+
+   Other substances known which stimulate insulin release are
+   acetylcholine, released from vagus nerve endings ( parasympathetic
+   nervous system), cholecystokinin, released by enteroendocrine cells of
+   intestinal mucosa and gastrointestinal inhibitory peptide (GIP). The
+   first of these act similarly as glucose through phospholipase C, while
+   the last acts through the mechanism of adenylate cyclase.
+
+   The sympathetic nervous system (via α[2]-adrenergic agonists such as
+   norepinephrine) inhibits the release of insulin.
+
+   When the glucose level comes down to the usual physiologic value,
+   insulin release from the beta cells slows or stops. If blood glucose
+   levels drop lower than this, especially to dangerously low levels,
+   release of hyperglycemic hormones (most prominently glucagon from Islet
+   of Langerhans' alpha cells) forces release of glucose into the blood
+   from cellular stores, primarily liver cell stores of glycogen. Release
+   of insulin is strongly inhibited by the stress hormone norepinephrine
+   (noradrenaline), which leads to increased blood glucose levels during
+   stress.
+
+Signal transduction
+
+   There are special transporter proteins in cell membranes through which
+   glucose from the blood can enter a cell. These transporters are,
+   indirectly, under insulin control in certain body cell types (eg,
+   muscle cells). Low levels of circulating insulin, or its absence, will
+   prevent glucose from entering those cells (eg, in untreated Type 1
+   diabetes). However, more commonly there is a decrease in the
+   sensitivity of cells to insulin (eg, the reduced insulin sensitivity
+   characteristic of Type 2 diabetes), resulting in decreased glucose
+   absorption. In either case, there is 'cell starvation', weight loss,
+   sometimes extreme. In a few cases, there is a defect in the release of
+   insulin from the pancreas. Either way, the effect is,
+   characteristically, the same: elevated blood glucose levels.
+
+   Activation of insulin receptors leads to internal cellular mechanisms
+   which directly affect glucose uptake by regulating the number and
+   operation of protein molecules in the cell membrane which transport
+   glucose into the cell. The genes which specify the proteins which make
+   up the insulin receptor in cell membranes have been identified and the
+   structure of the interior, cell membrane section, and now, finally
+   after more than a decade, the extra-membrane structure of receptor
+   (Australian researchers announced the work 2Q 2006).
+
+   Two types of tissues are most strongly influenced by insulin, as far as
+   the stimulation of glucose uptake is concerned: muscle cells (
+   myocytes) and fat cells ( adipocytes). The former are important because
+   of their central role in movement, breathing, circulation, etc, and the
+   latter because they accumulate excess food energy against future needs.
+   Together, they account for about ⅔ of all cells in a typical human
+   body.
+
+Hypoglycemia
+
+   Although other cells can use other fuels for a while (most prominently
+   fatty acids), neurons depend on glucose as a source of energy in the
+   non-starving human. They do not require insulin to absorb glucose,
+   unlike muscle and adipose tissue, and they have very small internal
+   stores of glycogen. Glycogen stored in liver cells (unlike glycogen
+   stored in muscle cells) can be converted to glucose, and released into
+   the blood, when glucose from digestion is low or absent, and the
+   glycerol backbone in triglycerides can also be used to produce blood
+   glucose. Exhaustion of these sources can, either temporarily or on a
+   sustained basis, if reducing blood glucose to a sufficiently low level,
+   first and most dramatically manifest itself in impaired functioning of
+   the central nervous system – dizziness, speech problems, even loss of
+   consciousness, are not unknown. This is known as hypoglycemia or, in
+   cases producing unconsciousness, "hypoglycemic coma" (formerly termed
+   "insulin shock" from the most common causative agent). Endogenous
+   causes of insulin excess (such as an insulinoma) are very rare, and the
+   overwhelming majority of hypoglycemia cases are caused by human action
+   (e.g. iatrogenic, caused by medicine), and are usually accidental.
+   There have been a few reported cases of murder, attempted murder or
+   suicide using insulin overdoses, but most insulin shocks appear to be
+   due to mismanagement of insulin (didn't eat as much as anticipated, or
+   exercised more than expected), or a mistake (e.g. 20 units of insulin
+   instead of 2).
+
+   Possible causes of hypoglycemia include:
+     * Oral hypoglycemic agents (e.g., any of the sulfonylureas, or
+       similar drugs, which increase insulin release from beta cells in
+       response to a particular blood glucose level).
+     * External insulin (usually injected subcutaneously).
+     * Ingestion of low-carbohydrate sugar substitutes (animal studies
+       show these can trigger insulin release according to a report in
+       Discover magazine August 2005, p18).
+
+Diseases and syndromes
+
+   There are several conditions in which insulin disturbance is
+   pathologic:
+     * Diabetes mellitus – general term referring to all states
+       characterized by hyperglycemia.
+          + Type 1 – autoimmune-mediated destruction of insulin producing
+            beta cells in the pancreas resulting in absolute insulin
+            deficiency.
+          + Type 2 – multifactoral syndrome with combined influence of
+            genetic susceptibility and influence of environmental factors,
+            the best known being obesity, age, and physical inactivity,
+            resulting in insulin resistance in cells requiring insulin for
+            glucose absorption. This form of diabetes is strongly
+            inherited.
+          + Other types of impaired glucose tolerance (see the diabetes
+            article).
+     * Insulinoma or reactive hypoglycemia.
+     * Metabolic syndrome – a precondition first called Metabolic Syndrome
+       X by Gerald Reaven, and sometimes called prediabetes. It is
+       characterized by elevated blood pressure, dyslipidemia
+       (disturbances in blood cholesterol forms and other blood lipids),
+       and increased waist circumference (at least in populations in much
+       of the developed world). The basic underlying cause is insulin
+       resistance, a diminished capacity for insulin response in some
+       tissues (eg, muscle, fat, liver) to respond to insulin. Untreated,
+       Metabolic Syndrome can lead to morbidities such as essential
+       hypertension, obesity, Type 2 diabetes, and cardiovascular disease
+       (CVD).
+     * Polycystic ovary syndrome – a complex syndrome in women in the
+       reproductive years where there is anovulation and androgen excess
+       commonly displayed as hirsutism. In many cases of PCOS insulin
+       resistance is present.
+
+As a medication
+
+Principles
+
+   Insulin is absolutely required for all animal (including human) life.
+   The mechanism is almost identical in nematode worms (e.g. C. elegans),
+   fish, and in mammals. In humans, insulin deprivation due to the removal
+   or destruction of the pancreas leads to death in days or at most weeks.
+   Insulin must be administered to patients in whom there is a lack of the
+   hormone for this, or any other, reason. Clinically, this is called
+   diabetes mellitus type 1.
+
+   The initial source of insulin for clinical use in humans was from cow,
+   horse, pig or fish pancreases. Insulin from these sources is effective
+   in humans as it is nearly identical to human insulin (three amino acid
+   difference for bovine insulin, one amino acid difference for porcine).
+   Insulin is obviously a protein which has been very strongly conserved
+   across evolutionary time. Differences in suitability of beef, pork, or
+   fish insulin preparations for particular patients have been primarily
+   the result of preparation purity and of allergic reactions to assorted
+   non-insulin substances remaining in those preparations. Purity has
+   improved more or less steadily since the 1920s, but allergic reactions
+   have continued though slowly reducing in severity. Insulin production
+   from animal pancreases was widespread for decades, but there are very
+   few patients today relying on insulin from these sources.
+
+   Human insulin is now manufactured for widespread clinical use using
+   genetic engineering techniques, which significantly reduces impurity
+   reaction problems. Eli Lilly marketed the first such insulin, Humulin,
+   in 1982. Humulin was the first medication produced using modern genetic
+   engineering techniques, in which actual human DNA is inserted into a
+   host cell (E. coli in this case). The host cells are then allowed to
+   grow and reproduce normally, and due to the inserted human DNA, they
+   produce actual human insulin.
+
+   Genentech developed the technique Lilly used to produce Humulin. Novo
+   Nordisk has also developed a genetically engineered insulin
+   independently. Most insulins used clinically are produced this way, for
+   they avoid most of the allergic reaction problem.
+
+   Since January 2006, all insulins distributed in the U.S. and some other
+   countries are human insulins or their analogs. A special FDA
+   importation process is required to obtain beef or pork insulin for use
+   in the U.S., though there may be some remaining stocks of pork insulin
+   made by Lilly in 2005 or earlier.
+
+Modes of administration
+
+   Unlike many medicines, insulin cannot be taken orally; like other
+   proteins in the gastrointestinal tract, it is reduced to its amino acid
+   components, whereupon all 'insulin activity' is lost. There is research
+   underway to develop methods of protecting insulin so that it can be
+   taken orally, but none has yet reached clinical use. Instead insulin is
+   usually taken as subcutaneous injections by single-use syringes with
+   needles, an insulin pump or by repeated-use insulin pens with needles.
+
+   There are several problems with insulin as a clinical treatment for
+   diabetes:
+     * Mode of administration.
+     * Selecting the 'right' dose and timing.
+     * Selecting an appropriate insulin preparation (typically on 'speed
+       of onset and duration of action' grounds).
+     * Adjusting dosage and timing to fit food amounts and types.
+     * Adjusting dosage and timing to fit exercise undertaken.
+     * Adjusting dosage, type, and timing to fit other conditions as for
+       instance the increased stress of illness.
+     * The dosage is non-physiological in that a subcutaneous bolus dose
+       of insulin alone is administered instead of combination of insulin
+       and C-peptide being released gradually and directly into the portal
+       vein.
+     * It is simply a nuisance for patients to inject themselves once or
+       several times a day.
+     * It may be dangerous in the case of mistake (most especially 'too
+       much' insulin).
+
+   There have been attempts to improve upon this mode of administering
+   insulin, as many people find injection awkward and painful. One
+   alternative is jet injection (also sometimes used for vaccinations),
+   which has different insulin delivery peaks and durations as compared to
+   needle injection. Some diabetics find control possible with jet
+   injectors, but not with hypodermic injection. There are also 'insulin
+   pumps' of various types which are 'electrical injectors' attached to a
+   semi-permanently implanted needle (i.e. a catheter). Some who cannot
+   achieve adequate glucose control by conventional injection (or
+   sometimes jet injection) are able to do so with the appropriate pump.
+
+   An insulin pump is a reasonable solution for some. However there are
+   limitations - cost, the potential for hypoglycemic episodes, catheter
+   problems, and, so far, no approvable means of controlling insulin
+   delivery in the field based on current blood glucose levels. If too
+   much insulin is delivered, or the patient eats less than normal, there
+   will be hypoglycemia. On the other hand, if too little insulin is
+   delivered, there will be hyperglycemia. Both of these can lead to
+   life-threatening conditions. In addition, indwelling catheters pose the
+   risk of infection and ulceration. However, that risk can be minimized
+   by keeping catheter sites clean. Thus far, insulin pumps require care
+   and effort to use correctly. However, some diabetics are able to keep
+   their glucose in reasonable control only on a pump.
+
+   Researchers have produced a watch-like device that tests for blood
+   glucose levels through the skin and administers corrective doses of
+   insulin through pores in the skin. Both electricity and ultrasound have
+   been found to make the skin temporarily porous. The insulin
+   administration aspect remains experimental, but the blood glucose test
+   aspect of 'wrist appliances' is commercially available.
+
+   Another 'improvement' would be to avoid periodic insulin administration
+   by a self-regulating insulin source, for instance, pancreatic, or beta
+   cell, transplantation. Transplantation of an entire pancreas (as an
+   individual organ) is difficult, and is not common. Generally, it is
+   performed in conjunction with liver or kidney transplant. However,
+   transplantation of only pancreatic beta cells is a possibility. It has
+   been highly experimental (for which read 'prone to failure') for many
+   years, but some researchers in Alberta, Canada, have developed
+   techniques with a high initial success rate (about 90% in one group).
+   Beta cell transplant may become practical and common in the near
+   future. Additionally, some researchers have explored the possibility of
+   transplanting genetically engineered non-beta cells to secrete
+   insulin.^Clinically testable results are far from realization. Several
+   other non-transplant methods of automatic insulin delivery are being
+   developed in research labs, but none is close to clinical approval.
+
+   Inhaled insulin is under investigation, as are several other insulin
+   administration techniques. Currently the only inhalable insulin
+   approved by the Food and Drug Administration is Exubera. Inhaled
+   insulin has been shown to have similar efficacy to injected insulin,
+   both in terms of controlling glucose levels and blood half-life. When
+   patients were switched from injected to inhaled insulin, no significant
+   difference was found in HBA1c levels over three months. Patients showed
+   no significant weight gain or pulmonary function over the length of the
+   trial, when compared to the baseline. However following its commercial
+   launch in 2005 into the UK, it has not (as of July 2006) been
+   recommended by National Institute for Health and Clinical Excellence
+   for routine use, except in cases where there is "proven injection
+   phobia diagnosed by a psychiatrist or psychologist". Several clinical
+   studies reported greater patient satisfaction compared with
+   subcutaneous insulin in both type 1 and type 2 diabetes.
+
+   An additional method of administration of insulin to diabetics is
+   pulsatile insulin. In this method insulin is pulsed into the patient,
+   mimicking the physiological secretions of insulin by the pancreas.
+
+Dosage and timing
+
+   The central problem for those requiring external insulin is picking the
+   right dose of insulin and the right timing.
+
+   Physiological regulation of blood glucose, as in the non-diabetic,
+   would be best. Increased blood glucose levels after a meal is a
+   stimulus for prompt release of insulin from the pancreas. The increased
+   insulin level causes glucose absorption and storage in cells, reducing
+   glycogen to glucose conversion, reducing blood glucose levels, and so
+   reducing insulin release. The result is that the blood glucose level
+   rises somewhat after eating, and within an hour or so returns to the
+   normal 'fasting' level. Even the best diabetic treatment with human
+   insulin, however administered, falls short of normal glucose control in
+   the non-diabetic.
+
+   Complicating matters is that the composition of the food eaten (see
+   glycemic index) affects intestinal absorption rates. Glucose from some
+   foods is absorbed more (or less) rapidly than the same amount of
+   glucose in other foods. And, fats and proteins both cause delays in
+   absorption of glucose from carbohydrate eaten at the same time. As
+   well, exercise reduces the need for insulin even when all other factors
+   remain the same, since working muscle has some ability to take up
+   glucose without the help of insulin.
+
+   It is, in principle, impossible to know for certain how much insulin
+   (and which type) is needed to 'cover' a particular meal in order to
+   achieve a reasonable blood glucose level within an hour or two after
+   eating. Non-diabetics' beta cells routinely and automatically manage
+   this by continual glucose level monitoring and insulin release. All
+   such decisions by a diabetic must be based on experience and training
+   (ie, at the direction of a physician or PA, or in some places a
+   specialist diabetic educator) and, further, specifically based on the
+   individual experience of the patient. It is not straightforward and
+   should never be done by habit or routine, but with care can be done
+   quite successfully in practice.
+
+   For example, some diabetics require more insulin after drinking skim
+   milk than they do after taking an equivalent amount of fat, protein,
+   carbohydrate, and fluid in some other form. Their particular reaction
+   to skimmed milk is different from other diabetics', but the same amount
+   of whole milk is likely to cause a still different reaction even in
+   that person. Whole milk contains considerable fat while skimmed milk
+   has much less. It is a continual balancing act for all diabetics,
+   especially for those taking insulin.
+
+   Insulin dependent diabetics require a base level of insulin (Basal
+   Insulin), as well as extra short acting insulin to cope with meals
+   (Bolus Insulin). Maintaining the basal rate and the bolus rate is a
+   continuous balancing act that all insulin diabetics have to manage each
+   day. This is normally achieved through regular blood tests, although
+   there is work being undertaken on continuous blood sugar testing
+   equipment.
+
+   It is important to notice that diabetics generally need more insulin
+   than the usual -- not less -- during physical stress like infections or
+   surgeries.
+
+Types
+
+   Medical preparations of insulin (from the major suppliers — Eli Lilly
+   and Novo Nordisk — or from any other) are never just 'insulin in
+   water'. Clinical insulins are specially prepared mixtures of insulin
+   plus other substances. These delay absorption of the insulin, adjust
+   the pH of the solution to reduce reactions at the injection site, and
+   so on.
+
+   The insulin molecules in an insulin analog is slightly modified so that
+   they are:
+     * Absorbed rapidly enough to mimic real beta cell insulin (Lilly's is
+       lispro, Novo Nordisk's is aspart).
+     * Steadily absorbed after injection instead of having a 'peak'
+       followed by a more or less rapid decline in insulin action ( Novo
+       Nordisk' version is Insulin detemir and Aventis' version is Insulin
+       glargine).
+     * All while retaining insulin action in the human body.
+
+   The management of choosing insulin type and dosage / timing should be
+   done by an experienced medical professional working with the diabetic.
+
+   Allowing blood glucose levels to rise, though not to levels which cause
+   acute hyperglycemic symptoms, is not a sensible choice. Several large,
+   well designed, long term studies have conclusively shown that diabetic
+   complications decrease markedly, linearly, and consistently as blood
+   glucose levels approach 'normal' patterns over long periods. In short,
+   if a diabetic closely controls blood glucose levels (ie, on average,
+   both over days and weeks, and avoiding too high peaks after meals) the
+   rate of diabetic complications goes down. If glucose levels are very
+   closely controlled, that rate can even approach 'normal'. The chronic
+   diabetic complications include cerebrovascular accidents (CVA or
+   stroke), heart attack, blindness (from proliferative diabetic
+   retinopathy), other vascular damage, nerve damage from diabetic
+   neuropathy, or kidney failure from diabetic nephropathy. These studies
+   have demonstrated beyond doubt that, if it is possible for a patient,
+   so-called intensive insulinotherapy is superior to conventional
+   insulinotherapy. However, close control of blood glucose levels (as in
+   intensive insulinotherapy) does require care and considerable effort,
+   for hypoglycemia is dangerous and can be fatal.
+
+   A good measure of long term diabetic control (over approximately 90
+   days in most people) is the serum level of glycosylated hemoglobin (
+   HbA1c). A shorter term integrated measure (over two weeks or so) is the
+   so-called fructosamine level, which is a measure of similarly
+   glyclosylated proteins (chiefly albumin) with a shorter half life in
+   the blood. There is a commercial meter available which measures this
+   level in the field.
+
+   The commonly used types of insulin are:
+     * Quick-acting, such as insulin lispro -- begins to work within 5 to
+       15 minutes and is active for 3 to 4 hours.
+
+     * Short-acting, such as regular insulin -- starts working within 30
+       minutes and is active about 5 to 8 hours.
+
+     * Intermediate-acting, such as NPH, or lente insulin -- starts
+       working in 1 to 3 hours and is active 16 to 24 hours.
+
+     * Long-acting, such as ultralente insulin -- starts working in 4 to 6
+       hours, and is active 24 to 28 hours, and Insulin glargine or
+       Insulin detemir -- both start working within 1 to 2 hours and
+       continue to be active, without peaks or dips, for about 24 hours.
+
+     * A mixture of NPH and regular insulin -- starts working in 30
+       minutes and is active 16 to 24 hours. There are several variations
+       with different proportions of the mixed insulins.
+
+Abuse
+
+   There are reports that some patients abuse insulin by injecting larger
+   doses that lead to mild hypoglycemic states. This is extremely
+   dangerous. Severe acute or prolonged hypoglycemia can result in brain
+   damage or death.
+
+   On July 23, 2004, news reports claimed that a former spouse of a
+   prominent international track athlete said that, among other drugs, the
+   ex-spouse had used insulin as a way of 'energizing' the body. The
+   intended implication would seem to be that insulin has effects similar
+   to those alleged for some steroids. This is not so; eighty years of
+   insulin use has given no reason to believe it could be in any respect a
+   performance enhancer for non diabetics. Improperly treated diabetics
+   are, to be sure, more prone than others to exhaustion and tiredness,
+   and in some cases, proper administration of insulin can relieve such
+   symptoms. However, insulin is not, chemically or clinically, a steroid,
+   and its use in non diabetics is dangerous and always an abuse outside
+   of a well-equipped medical facility.
+
+   " Game of Shadows," by reporters Mark Fainaru-Wada and Lance Williams,
+   includes allegations that San Francisco Giant, Barry Bonds, used
+   insulin in the apparent belief that it would increase the effectiveness
+   of the growth hormone he was (also alleged to be) taking. On top of
+   this, non-prescribed insulin is a banned drug at the Olympics and other
+   global competitions.
+
+Timeline
+
+     * 1922 Banting and Best use bovine insulin extract in human
+     * 1923 Eli Lilly produces commercial quantities of bovine insulin
+     * 1923 Hagedorn founds the Nordisk Insulinlaboratorium in Denmark --
+       forerunner of Novo Nordisk
+     * 1926 Nordisk receives a Danish charter to produce insulin as a non
+       profit
+     * 1936 Canadians D.M. Scott, A.M. Fisher formulate a zinc insulin
+       mixture and license to Novo
+     * 1936 Hagedorn discovers that adding protamine to insulin prolongs
+       the effect of insulin
+     * 1946 Nordisk formulates Isophane® porcine insulin aka Neutral
+       Protamine Hagedorn or NPH insulin
+     * 1946 Nordisk crystallizes a protamine and insulin mixture
+     * 1950 Nordisk markets NPH insulin
+     * 1953 Novo formulates Lente® porcine and bovine insulins by adding
+       zinc for longer lasting insulin
+     * 1973 Purified monocomponent (MC) insulin is introduced
+     * 1978 Genentech produces human insulin in Escheria coli bacteria
+       using recombinant DNA
+     * 1981 Novo Nordisk chemically and enzymatically converts bovine to
+       human insulin
+     * 1982 Genentech human insulin (above) approved
+     * 1983 Eli Lilly produces recombinant human insulin, Humulin®
+     * 1985 Axel Ullrich sequences the human insulin receptor
+     * 1988 Novo Nordisk produces recombinant human insulin
+     * 1996 Lilly Humalog® "lyspro" insulin analogue approved
+     * 2004 Aventis Lantus® "glargine" insulin analogue approved for
+       clinical use
+     * 2006 Novo Nordisk Levemir® "detemir" approved for clincal use in
+       the US.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Insulin"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

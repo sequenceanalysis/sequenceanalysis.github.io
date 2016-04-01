@@ -1,0 +1,602 @@
+   #copyright
+
+Autostereogram
+
+2007 Schools Wikipedia Selection. Related subjects: Health and medicine
+
+   A random dot autostereogram encodes a 3D scene which can be "seen" with
+   proper viewing technique. Click on thumbnail to see full-size image.
+   Enlarge
+   A random dot autostereogram encodes a 3D scene which can be "seen" with
+   proper viewing technique. Click on thumbnail to see full-size image.
+
+   An autostereogram is a single-image stereogram (SIS), designed to trick
+   the human brain into perceiving a three- dimensional (3D) scene in a
+   two-dimensional image. In order to perceive 3D shapes in these
+   autostereograms, the brain must overcome the normally automatic
+   coordination between focusing and convergence.
+
+   The simplest type of autostereogram consists of horizontally repeating
+   patterns and is known as a wallpaper autostereogram. When viewed with
+   proper convergence, the repeating patterns appear to float in the air
+   above the background. The Magic Eye series of books features another
+   type of autostereogram called a random dot autostereogram. In this type
+   of autostereogram, every pixel in the image is computed from a pattern
+   strip and a depth map. Usually, a hidden 3D scene emerges when the
+   image is viewed with proper viewing technique.
+
+   There are two ways an autostereogram can be viewed: wall-eyed and
+   cross-eyed. Most autostereograms are designed to be viewed in only one
+   way, which is usually wall-eyed. Wall-eyed viewing requires that the
+   two eyes adopt a relatively divergent angle, while cross-eyed viewing
+   requires a relatively convergent angle.
+
+History
+
+   In 1838, the British scientist Charles Wheatstone published an
+   explanation of binocular vision (binocular depth perception) which had
+   led him to make stereoscopic drawings and to construct a stereoscope
+   based on a combination of mirrors to allow a person to see 3D images
+   from two 2D pictures ( stereograms).
+
+   Between 1849 and 1850, David Brewster, a Scottish scientist, improved
+   the Wheatstone stereoscope by using lenses instead of mirrors, thus
+   reducing the size of the contraption. Brewster noticed that staring at
+   repeated patterns in wallpapers could trick the brain into matching
+   pairs of them and thus causing the brain to perceive a virtual plane
+   behind the walls. This is the basis of wallpaper-style autostereograms
+   (also known as single-image stereograms).
+
+   In 1959, Bela Julesz, a vision scientist, psychologist, and MacArthur
+   Fellow, discovered the random dot stereogram while working at Bell
+   Laboratories on recognizing camouflaged objects from aerial pictures
+   taken by spy planes. At the time, many vision scientists still thought
+   that depth perception occurred in the eye itself, whereas now it is
+   known to be a complex neurological process. Julesz used a computer to
+   create a stereo pair of random-dot images which, when viewed under a
+   stereoscope, caused the brain to see 3D shapes. This proved that depth
+   perception is a neurological process.
+
+   In 1979, Christopher Tyler of Smith-Kettlewell Institute, a student of
+   Julesz and a visual psychophysicist, combined the theories behind
+   single-image wallpaper stereograms and random-dot stereograms to create
+   the first random-dot autostereogram (also known as single-image
+   random-dot stereogram) which allowed the brain to see 3D shapes from a
+   single 2D image without the aid of optical equipment.
+
+How they work
+
+Simple wallpaper
+
+   This is an example of a wallpaper with repeated horizontal patterns.
+   Each pattern is repeated exactly every 140 pixels. The illusion of the
+   pictures lying on a flat surface (a plane) further back is created by
+   the brain. However, non-repeating patterns such as arrows and words
+   appear on the plane where this text lies.
+   Enlarge
+   This is an example of a wallpaper with repeated horizontal patterns.
+   Each pattern is repeated exactly every 140 pixels. The illusion of the
+   pictures lying on a flat surface (a plane) further back is created by
+   the brain. However, non-repeating patterns such as arrows and words
+   appear on the plane where this text lies.
+
+   Stereopsis, or stereo vision, is the visual blending of two similar but
+   not identical images into one, with resulting visual perception of
+   solidity and depth. In the human brain, stereopsis results from a
+   complex set of mechanisms that form a three-dimensional impression by
+   matching each point (or set of points) in one eye's view with the
+   equivalent point (or set of points) in the other eye's view. It
+   therefore assesses the points' positions in the otherwise inscrutable
+   z-axis (depth).
+
+   When the brain is presented with a repeating pattern like wallpaper, it
+   has difficulty matching the two eyes' views accurately. By looking at a
+   horizontally repeating pattern, but converging the two eyes at a point
+   behind the pattern, it is possible to trick the brain into matching one
+   element of the pattern, as seen by the left eye, with another (similar
+   looking) element, beside the first, as seen by the right eye. This
+   gives the illusion of a plane bearing the same pattern but located
+   behind the real wall. The distance at which this plane lies behind the
+   wall depends only on the spacing between identical elements.
+
+   Autostereograms use this dependence of depth on spacing to create
+   three-dimensional images. If, over some area of the picture, the
+   pattern is repeated at smaller distances, that area will appear closer
+   than the background plane. If the distance of repeats is longer over
+   some area, then that area will appear more distant (like a hole in the
+   plane).
+   This autostereogram displays patterns on three different planes by
+   repeating the patterns at different spacings.
+   Enlarge
+   This autostereogram displays patterns on three different planes by
+   repeating the patterns at different spacings.
+
+   People who have never been able to perceive 3D shapes hidden within an
+   autostereogram find it hard to understand remarks such as, "the 3D
+   image will just pop out of the background, after you stare at the
+   picture long enough", or "the 3D objects will just emerge from the
+   background". It helps to illustrate how 3D images "emerge" from the
+   background from a second viewer's perspective. If the virtual 3D
+   objects reconstructed by the autostereogram viewer's brain were real
+   objects, a second viewer observing the scene from the side would see
+   these objects floating in the air above the background image.
+
+   The 3D effects in the example autostereogram are created by repeating
+   the tiger rider icons every 140 pixels on the background plane, the
+   shark rider icons every 130 pixels on the second plane, and the tiger
+   icons every 120 pixels on the highest plane. The closer a set of icons
+   are packed horizontally, the higher they are lifted from the background
+   plane. This repeat distance is referred to as the depth or z-axis value
+   of a particular pattern in the autostereogram. The depth value is also
+   known as Z-buffer value.
+
+   This picture illustrates how 3D shapes from an autostereogram "emerge"
+   from the background plane, when the autostereogram is viewed with
+   proper eye divergence.
+   Enlarge
+   This picture illustrates how 3D shapes from an autostereogram "emerge"
+   from the background plane, when the autostereogram is viewed with
+   proper eye divergence.
+   Depth or z-axis values are proportional to pixel shifts in the
+   autostereogram.
+   Enlarge
+   Depth or z-axis values are proportional to pixel shifts in the
+   autostereogram.
+
+   The brain is capable of almost instantly matching hundreds of patterns
+   repeated at different intervals in order to recreate correct depth
+   information for each pattern. An autostereogram may contain some 50
+   tigers of varying size, repeated at different intervals against a
+   complex, repeated background. Yet, despite the apparent chaotic
+   arrangement of patterns, the brain is able to place every tiger icon at
+   its proper depth.
+
+   The brain can place every tiger icon on its proper depth plane.
+   Enlarge
+   The brain can place every tiger icon on its proper depth plane.
+   This image illustrates how an autostereogram is perceived by a viewer
+   Enlarge
+   This image illustrates how an autostereogram is perceived by a viewer
+
+Depth maps
+
+   Autostereograms where patterns in a particular row are repeated
+   horizontally with the same spacing can be read either cross-eyed or
+   wall-eyed. In such autostereograms, both types of reading will produce
+   similar depth interpretation, with the exception that the cross-eyed
+   reading reverses the depth (images that once popped out are now pushed
+   in).
+   Patterns in this autostereogram appear at different depth across each
+   row.
+   Enlarge
+   Patterns in this autostereogram appear at different depth across each
+   row.
+
+   However, icons in a row do not need to be arranged at identical
+   intervals. An autostereogram with varying intervals between icons
+   across a row presents these icons at different depth planes to the
+   viewer. The depth for each icon is computed from the distance between
+   it and its neighbour at the left. These types of autostereograms are
+   designed to be read in only one way, either cross-eyed or wall-eyed.
+   All autostereograms in this article are encoded for wall-eyed viewing,
+   unless specifically marked otherwise. An autostereogram encoded for
+   wall-eyed viewing will produce incoherent 3D patterns when viewed
+   cross-eyed. Most Magic Eye pictures are also designed for wall-eyed
+   viewing.
+
+   The following wall-eyed autostereogram encodes 3 planes across the
+   x-axis. The background plane is on the left side of the picture. The
+   highest plane is shown on the right side of the picture. There is a
+   narrow middle plane in the middle of the x-axis. Starting with a
+   background plane where icons are spaced at 140 pixels, one can raise a
+   particular icon by shifting it a certain number of pixels to the left.
+   For instance, the middle plane is created by shifting an icon 10 pixels
+   to the left, effectively creating a spacing consisting of 130 pixels.
+   The brain does not rely on intelligible icons which represent objects
+   or concepts. In this autostereogram, patterns become smaller and
+   smaller down the y-axis, until they look like random dots. The brain is
+   still able to match these random dot patterns.
+
+   The black, gray and white colors in the background represent a depth
+   map showing changes in depth across row.
+   Enlarge
+   The black, gray and white colors in the background represent a depth
+   map showing changes in depth across row.
+
+   Pattern image
+   Enlarge
+   Pattern image
+
+   The distance relationship between any pixel and its counterpart in the
+   equivalent pattern to the left can be expressed in a depth map. A depth
+   map is simply a grayscale image which represents the distance between a
+   pixel and its left counterpart using a grayscale value between black
+   and white. By convention, the closer the distance is, the brighter the
+   colour becomes.
+
+   Using this convention, a grayscale depth map for the above
+   autostereogram can be created with black, gray and white representing
+   shifts of 0 pixels, 10 pixels and 20 pixels, respectively. A depth map
+   is the key to creation of random-dot autostereograms.
+
+Random-dot
+
+                                                          Depth map
+                                                            Enlarge
+                                                          Depth map
+
+                                                                   Pattern
+                                                                   Enlarge
+                                                                   Pattern
+
+   A software program can take a depth map and an accompanying pattern
+   image to produce an autostereogram. The program tiles the pattern image
+   horizontally to cover an area whose size is identical to the depth map.
+   Conceptually, at every pixel in the output image, the program looks up
+   the grayscale value of the equivalent pixel in the depth map image, and
+   uses this value to determine the amount of horizontal shift required
+   for the pixel.
+
+   One way to accomplish this is to make the program scan every line in
+   the output image pixel-by-pixel from left to right. It seeds the first
+   series of pixels in a row from the pattern image. Then it consults the
+   depth map to retrieve appropriate shift values for subsequent pixels.
+   For every pixel, it subtracts the shift from the width of the pattern
+   image to arrive at a repeat interval. It uses this repeat interval to
+   look up the color of the counterpart pixel to the left and uses its
+   color as the new pixel's own colour.
+
+   Three raised rectangles appear on different depth plane in this
+   autostereogram.
+   Enlarge
+   Three raised rectangles appear on different depth plane in this
+   autostereogram.
+   Every pixel in an autostereogram obeys the distance interval specified
+   by the depth map.
+   Enlarge
+   Every pixel in an autostereogram obeys the distance interval specified
+   by the depth map.
+
+   Unlike the simple depth planes created by simple wallpaper
+   autostereograms, subtle changes in spacing specified by the depth map
+   can create the illusion of smooth gradients in distance. This is
+   possible because the grayscale depth map allows individual pixels to be
+   placed on one of 2^n depth planes, where n is the number of bits used
+   by each pixel in the depth map. In practice, the total number of depth
+   planes is determined by the number of pixels used for the width of the
+   pattern image. Each grayscale value must be translated into pixel space
+   in order to shift pixels in the final autostereogram. As a result, the
+   number of depth planes must be smaller than the pattern width.
+   This random dot autostereogram features a raised shark with fine
+   gradient on a flat background.
+   Enlarge
+   This random dot autostereogram features a raised shark with fine
+   gradient on a flat background.
+
+   The fine-tuned gradient requires a pattern image more complex than
+   standard repeating-pattern wallpaper, so typically a pattern consisting
+   of repeated random dots is used. When the autostereogram is viewed with
+   proper viewing technique, a hidden 3D scene emerges. Autostereograms of
+   this form are known as Random Dot Autostereograms.
+
+   Smooth gradients can also be achieved with an intelligible pattern,
+   assuming that the pattern is complex enough and does not have big,
+   horizontal, monotonic patches. A big area painted with monotonic colour
+   without change in hue and brightness does not lend itself to pixel
+   shifting, as the result of the horizontal shift is identical to the
+   original patch. The following depth map of a shark with smooth gradient
+   produces a perfectly readable autostereogram, even though the 2D image
+   contains small monotonic areas; the brain is able to recognize these
+   small gaps and fill in the blanks. While intelligible, repeated
+   patterns are used instead of random dots, this type of autostereogram
+   is still known by many as a Random Dot Autostereogram, because it is
+   created using the same process.
+
+   The shark figure in this depth map is drawn with a smooth gradient.
+   Enlarge
+   The shark figure in this depth map is drawn with a smooth gradient.
+   The 3D shark in this random-dot autostereogram has a smooth, round
+   shape due to the use of depth map with smooth gradient.
+   Enlarge
+   The 3D shark in this random-dot autostereogram has a smooth, round
+   shape due to the use of depth map with smooth gradient.
+
+Animated
+
+   animated autostereogram. 800 × 400 version
+   Enlarge
+   animated autostereogram. 800 × 400 version
+
+   When a series of autostereograms are shown one after another, in the
+   same way moving pictures are shown, the brain perceives an animated
+   autostereogram. If all autostereograms in the animation are produced
+   using the same background pattern, it is often possible to see faint
+   outlines of parts of the moving 3D object in the 2D autostereogram
+   image without wall-eyed viewing; the constantly shifting pixels of the
+   moving object can be clearly distinguished from the static background
+   plane. To eliminate this side effect, animated autostereograms often
+   use shifting background in order to disguise the moving parts.
+
+   When a regular repeating pattern is viewed on a CRT monitor as if it
+   were a wallpaper autostereogram, it is usually possible to see depth
+   ripples. This can also be seen in the background to a static,
+   random-dot autostereogram. These are caused by the sideways shifts in
+   the image due to small changes in the deflection sensitivity
+   (linearity) of the line scan, which then become interpreted as depth.
+   This effect is especially apparent at the left hand edge of the screen
+   where the scan speed is still settling after the flyback phase. This
+   effect is absent from a TFT LCD.
+
+Mechanisms for viewing
+
+   Much advice exists about seeing the intended three-dimensional image in
+   an autostereogram. While some people can simply see the 3D image in an
+   autostereogram, others must learn to train their eyes to decouple eye
+   convergence from lens focusing.
+
+   Not every person can see the 3D illusion in autostereograms. Because
+   autostereograms are constructed based on stereo vision, persons with a
+   variety of visual impairments, even those affecting only one eye, are
+   unable to see the three-dimensional images.
+
+   People with amblyopia (also known as lazy eye) are unable to see the
+   three-dimensional images. Children with poor or dysfunctional eyesight
+   during a critical period in childhood may grow up stereoblind, as their
+   brains are not stimulated by stereo images during the critical period.
+   If such vision problem is not corrected in the early childhood, the
+   damage becomes permanent and the adult will never be able to see
+   autostereograms. It is estimated that some 1% to 5% of the population
+   is affected by amblyopia.
+
+3D perception
+
+   Depth perception results from many monocular and binocular visual
+   clues. For objects relatively close to the eyes, binocular vision plays
+   an important role in depth perception. Binocular vision allows the
+   brain to create a single Cyclopean image and to attach a depth level to
+   each point in the Cyclopean image.
+
+   The two eyes converge on the object of attention.
+   Enlarge
+   The two eyes converge on the object of attention.
+
+   The brain creates a Cyclopean image from the two images received by the
+   two eyes.
+   Enlarge
+   The brain creates a Cyclopean image from the two images received by the
+   two eyes.
+
+   The brain gives each point in the Cyclopean image a depth value,
+   represented here by a grayscale depth map.
+   Enlarge
+   The brain gives each point in the Cyclopean image a depth value,
+   represented here by a grayscale depth map.
+
+   The brain uses coordinate shift (also known as parallax) of matched
+   objects to identify depth of these objects. The depth level of each
+   point in the combined image can be represented by a grayscale pixel on
+   a 2D image, for the benefit of the reader. The closer a point appears
+   to the brain, the brighter it is painted. Thus, the way the brain
+   perceives depth using binocular vision can be captured by a depth map
+   (Cyclopean image) painted based on coordinate shift.
+   The eye adjusts its internal lens to get a clear, focused image
+   Enlarge
+   The eye adjusts its internal lens to get a clear, focused image
+   The two eyes converge to point to the same object
+   Enlarge
+   The two eyes converge to point to the same object
+
+   The eye operates like a photographic camera. It has an adjustable iris
+   which can open (or close) to allow more (or less) light to enter the
+   eye. As with any camera except pinhole cameras, it needs to focus light
+   rays entering through the iris (aperture in a camera) so that they
+   focus on a single point on the retina in order to produce a sharp
+   image. The eye achieves this goal by adjusting a lens behind the cornea
+   to refract light appropriately.
+   When a person stares at an object, the two eyeballs rotate sideways to
+   point to the object, so that the object appears at the centre of the
+   image formed on each eye's retina. In order to look at a nearby object,
+   the two eyeballs rotate towards each other so that their eyesight can
+   converge on the object. This is referred to as cross-eyed viewing. To
+   see a faraway object, the two eyeballs diverge to become almost
+   parallel to each other. This is known as wall-eyed viewing, where the
+   convergence angle is much smaller than that in a cross-eyed viewing.
+
+   Stereo-vision based on parallax allows the brain to calculate depths of
+   objects relative to the point of convergence. It is the convergence
+   angle that gives the brain the absolute reference depth value for the
+   point of convergence from which absolute depths of all other objects
+   can be inferred.
+
+Simulated 3D perception
+
+   Decoupling focus from convergence tricks the brain into seeing 3D
+   images in a 2D autostereogram
+   Enlarge
+   Decoupling focus from convergence tricks the brain into seeing 3D
+   images in a 2D autostereogram
+
+   The eyes normally focus and converge at the same distance in a process
+   known as accommodative convergence. That is, when looking at a faraway
+   object, the brain automatically flattens the lenses and rotates the two
+   eyeballs for wall-eyed viewing. It is possible to train the brain to
+   decouple these two operations. This decoupling has no useful purpose in
+   everyday life, because it prevents the brain from interpreting objects
+   in a coherent manner. To see a man-made picture such as an
+   autostereogram where patterns are repeated horizontally, however,
+   decoupling of focusing from convergence is crucial.
+
+   By focusing the lenses on a nearby autostereogram where patterns are
+   repeated and by converging the eyeballs at a distant point behind the
+   autostereogram image, one can trick the brain into seeing 3D images. If
+   the patterns received by the two eyes are similar enough, the brain
+   will consider these two patterns a match and treat them as coming from
+   the same imaginary object. This type of visualization is known as
+   wall-eyed viewing, because the eyeballs adopt a wall-eyed convergence
+   on a distant plane, even though the autostereogram image is actually
+   closer to the eyes. Because the two eyeballs converge on a plane
+   farther away, the perceived location of the imaginary object is behind
+   the autostereogram. The imaginary object also appears bigger than the
+   patterns on the autostereogram because of foreshortening.
+
+   The following autostereogram shows 3 rows of repeated patterns. Each
+   pattern is repeated at a different interval to place it on a different
+   depth plane. The two non-repeating lines can be used to verify correct
+   wall-eyed viewing. When the autostereogram is correctly interpreted by
+   the brain using wall-eyed viewing, and one stares at the dolphin in the
+   middle of the visual field, the brain should see two sets of flickering
+   lines, as a result of binocular rivalry.
+
+   The two black lines in this Autostereogram help viewers establish
+   proper wall-eyed viewing, see right.
+   Enlarge
+   The two black lines in this Autostereogram help viewers establish
+   proper wall-eyed viewing, see right.
+
+   When the brain manages to establish proper wall-eyed viewing, it will
+   see two sets of lines.
+   Enlarge
+   When the brain manages to establish proper wall-eyed viewing, it will
+   see two sets of lines.
+
+   While there are 6 dolphin patterns in the autostereogram, the brain
+   should see 7 "apparent" dolphins on the plane of the autostereogram.
+   This is a side effect of the pairing of similar patterns by the brain.
+   There are 5 pairs of dolphin patterns in this image. This allows the
+   brain to create 5 apparent dolphins. The leftmost pattern and the
+   rightmost pattern by themselves have no partner, but the brain tries to
+   assimilate these two patterns onto the established depth plane of
+   adjacent dolphins despite binocular rivalry. As a result, there are 7
+   apparent dolphins, with the leftmost and the rightmost ones appearing
+   with a slight flicker, not dissimilar to the two sets of flickering
+   lines observed when one stares at the 4th apparent dolphin.
+   Top-row cubes appear bigger.
+   Enlarge
+   Top-row cubes appear bigger.
+
+   Because of foreshortening, the difference in convergence needed to see
+   repeated patterns on different planes causes the brain to attribute
+   different sizes to patterns with identical 2D sizes. In the
+   autostereogram of 3 rows of cubes, while all cubes have the same
+   physical 2D dimensions, the ones on the top row appear bigger, because
+   they are perceived as farther away than the cubes on the second and
+   third rows.
+
+Viewing techniques
+
+   As with a photographic camera, it is easier to make the eye focus on an
+   object when there is intense ambient light. With intense lighting, the
+   eye can constrict the iris, yet allow enough light to reach the retina.
+   The more the eye resembles a pinhole camera, the less it depends on
+   focusing through the lens. In other words, the degree of decoupling
+   between focusing and convergence needed to visualize an autostereogram
+   is reduced. This places less strain on the brain. Therefore, it may be
+   easier for first-time autostereogram viewers to "see" their first 3D
+   images if they attempt this feat with bright lighting.
+
+   Vergence control is important in being able to see 3D images. Thus it
+   may help to concentrate on converging/diverging the two eyes to shift
+   images that reach the two eyes, instead of trying to see a clear,
+   focused image. Although the lens adjusts reflexively in order to
+   produce clear, focused images, voluntary control over this process is
+   possible. The viewer alternates instead between converging and
+   diverging the two eyes, in the process seeing "double images" typically
+   seen when one is drunk or otherwise intoxicated. Eventually the brain
+   will successfully match a pair of patterns reported by the two eyes and
+   lock onto this particular degree of convergence. The brain will also
+   adjust eye lenses to get a clear image of the matched pair. Once this
+   is done, the images around the matched patterns quickly become clear as
+   the brain matches additional patterns using roughly the same degree of
+   convergence.
+   The bottom part of this random dot autostereogram is free of 3D images.
+   It is easier to trick the brain into matching pairs of patterns in this
+   area.
+   Enlarge
+   The bottom part of this random dot autostereogram is free of 3D images.
+   It is easier to trick the brain into matching pairs of patterns in this
+   area.
+
+   When one moves one's attention from a depth plane to another (for
+   instance, from the top row to the second row in the cube
+   autostereogram), the two eyes need to adjust their convergence to match
+   the new repeating interval of patterns. If the level of change in
+   convergence is too high during this shift, sometimes the brain can lose
+   the hard-earned decoupling between focusing and convergence. For a
+   first-time viewer, therefore, it may be easier to see the
+   autostereogram, if the two eyes rehearse the convergence exercise on an
+   autostereogram where the depth of patterns across a particular row
+   remains constant.
+
+   In a random dot autostereogram, the 3D image is usually shown in the
+   middle of the autostereogram against a background depth plane (see the
+   shark autostereogram). It may help to establish proper convergence
+   first by staring at either the top or the bottom of the autostereogram,
+   where patterns are usually repeated at a constant interval. Once the
+   brain locks onto the background depth plane, it has a reference
+   convergence degree from which it can then match patterns at different
+   depth levels in the middle of the image.
+
+   The majority of autostereograms, including those in this article, are
+   designed for divergent (wall-eyed) viewing. One way to help the brain
+   concentrate on divergence instead of focusing is to hold the picture in
+   front of the face, with the nose touching the picture. With the picture
+   so close to their eyes, most people cannot focus on the picture. The
+   brain may give up trying to move eye muscles in order to get a clear
+   picture. If one slowly pulls back the picture away from the face, while
+   refraining from focusing or rotating eyes, at some point the brain will
+   lock onto a pair of patterns when the distance between them match the
+   current convergence degree of the two eyeballs.
+
+   Another way is to stare at an object behind the picture in an attempt
+   to establish proper divergence, while keeping part of the eyesight
+   fixed on the picture to convince the brain to focus on the picture. A
+   modified method has the viewer stare at her reflection on the shiny
+   surface of the picture, which the brain perceives as being located
+   twice as far away as the picture itself. This may help persuade the
+   brain to adopt the required divergence while focusing on the nearby
+   picture.
+
+   For crossed-eyed autostereograms, a different approach needs to be
+   taken. The viewer may hold one finger between his eyes and move it
+   slowly towards the picture, maintaining his focus on the finger at all
+   times, until he is correctly focused on the spot between him and the
+   picture that will allow him to view the illusion.
+
+Terminology
+
+     * Stereogram was originally used to describe a pair of 2D images used
+       in stereoscope to present a 3D image to viewers. The term is now
+       often used interchangeably with autostereogram or random dot
+       autostereogram. But Dr. Tyler, inventor of the autostereogram,
+       consistently refers to single-image stereograms as autostereograms
+       to distinguish them from other forms of stereograms.
+
+     * Random Dot Stereogram (RDS) originally described a pair of 2D
+       images showing random dots which, when viewed with a stereoscope,
+       produced a 3D image. The term is now often used interchangeably
+       with random dot autostereogram.
+
+     * Single Image Stereogram (SIS) is a synonym of autostereogram. SIS
+       differs from most stereograms in its use of a single 2D image
+       instead of a stereo pair. When the single 2D image is viewed with
+       proper eye convergence, it causes the brain to fuse different
+       patterns perceived by the two eyes into a virtual 3D image without
+       the aid of any optical equipment.
+
+     * Wallpaper autostereogram is a 2D image where patterns are repeated
+       at various intervals to raise or lower each pattern's perceived 3D
+       location in relation to a virtual background plane.
+
+     * Random-dot autostereogram is also known as Single Image Random Dot
+       Stereogram (SIRDS). This term also refers to autostereograms where
+       intelligible patterns instead of random dots are used.
+
+     * Single Image Random Text Stereogram (SIRTS) is an alternative to
+       SIRDS using random normally ASCII text instead of dots to produce a
+       3D form of ASCII art.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Autostereogram"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

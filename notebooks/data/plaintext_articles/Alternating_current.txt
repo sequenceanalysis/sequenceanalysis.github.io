@@ -1,0 +1,304 @@
+   #copyright
+
+Alternating current
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   City lights viewed in a motion blurred exposure. The AC blinking causes
+   the lines to be dotted rather than continuous.
+   Enlarge
+   City lights viewed in a motion blurred exposure. The AC blinking causes
+   the lines to be dotted rather than continuous.
+
+   An alternating current (AC) is an electrical current whose magnitude
+   and direction vary cyclically, as opposed to direct current, whose
+   direction remains constant. The usual waveform of an AC power circuit
+   is a sine wave, as this results in the most efficient transmission of
+   energy. However in certain applications different waveforms are used,
+   such as triangular or square waves.
+
+   Used generically, AC refers to the form in which electricity is
+   delivered to businesses and residences. However, audio and radio
+   signals carried on electrical wire are also examples of alternating
+   current. In these applications, an important goal is often the recovery
+   of information encoded (or modulated) onto the AC signal.
+
+History
+
+   William Stanley, Jr. designed one of the first practical devices to
+   transfer AC power efficiently between isolated circuits. Using pairs of
+   coils wound on a common iron core, his design, called an induction
+   coil, was an early precursor of the modern transformer. The system used
+   today was devised by many contributors including Nikola Tesla, George
+   Westinghouse, Lucien Gaulard, John Dixon Gibbs, and Oliver Shallenger
+   from 1881 to 1889. AC systems overcame the limitations of the direct
+   current system used by Thomas Edison to distribute electricity.
+
+   The first long-distance transmission of alternating current took place
+   in 1891 near Telluride, Colorado, followed a few months later in
+   Germany. Thomas Edison strongly advocated the use of direct current
+   (DC), having many patents in that technology, but eventually
+   alternating current came into general use (see War of Currents).
+
+   The first modern commercial power plant using three-phase alternating
+   current was at the Mill Creek hydroelectric plant near Redlands,
+   California in 1893. Its designer was Almirian Decker, a brilliant young
+   engineer. Decker's innovative design incorporated 10,000 volt three
+   phase transmission and established the standards for the complete
+   system of generation, transmission and motors used today. And through
+   the use of alternating current, Charles Proteus Steinmetz of General
+   Electric was able to solve many of the problems associated with
+   electricity generation and transmission.
+
+Transmission, distribution, and domestic power supply
+
+   AC voltage can be stepped up or down by a transformer to a different
+   voltage. Modern High-voltage, direct current electric power
+   transmission systems contrast with the more common alternating-current
+   systems as a means for the bulk transmission of electrical power over
+   long distances. However, these tend to be more expensive and less
+   efficient than transformers, and did not exist when Edison,
+   Westinghouse and Tesla were designing their power systems.
+
+   Use of a higher voltage leads to significantly more efficient
+   transmission of power. The power losses in a conductor are a product of
+   the square of the current and the resistance of the conductor,
+   described by the formula P=I^2 \cdot R \,\! . This means that when
+   transmitting a fixed power on a given wire, if the current is doubled,
+   the power loss will be four times greater. Since the power transmitted
+   is equal to the product of the current, the voltage and the cosine of
+   the phase difference φ (P = IVcosφ), the same amount of power can be
+   transmitted with a lower current by increasing the voltage. Therefore
+   it is advantageous when transmitting large amounts of power to
+   distribute the power with high voltages (often hundreds of kilovolts).
+   However, high voltages also have disadvantages, the main ones being the
+   increased insulation required, and generally increased difficulty in
+   their safe handling. In a power plant, power is generated at a
+   convenient voltage for the design of a generator, and then stepped up
+   to a high voltage for transmission. Near the loads, the transmission
+   voltage is stepped down to the voltages used by equipment. Consumer
+   voltages vary depending on the country and size of load, but generally
+   motors and lighting are built to use up to a few hundred volts between
+   phases.
+
+   Three-phase electrical generation is very common. Three separate coils
+   in the generator stator are physically offset by an angle of 120° to
+   each other. Three current waveforms are produced that are equal in
+   magnitude and 120° out of phase to each other.
+
+   If the load on a three-phase system is balanced equally between the
+   phases, no current flows through the neutral point. Even in the
+   worst-case unbalanced (linear) load, the neutral current will not
+   exceed the highest of the phase currents. For three-phase at low
+   (normal mains) voltages a four-wire system is normally used. When
+   stepping down three-phase, a transformer with a Delta primary and a
+   Star secondary is often used so there is no need for a neutral on the
+   supply side.
+
+   For smaller customers (just how small varies by country and age of the
+   installation) only a single phase and the neutral or two phases and the
+   neutral are taken to the property. For larger installations all three
+   phases and the neutral are taken to the main distribution panel. From
+   the three-phase main panel, both single and three-phase circuits may
+   lead off.
+
+   Three-wire single phase systems, with a single centre-tapped
+   transformer giving two live conductors, is a common distribution scheme
+   for residential and small commercial buildings in North America. A
+   similar method is used for a different reason on construction sites in
+   the UK. Small power tools and lighting are supposed to be supplied by a
+   local centre-tapped transformer with a voltage of 55V between each
+   power conductor and the earth. This significantly reduces the risk of
+   electric shock in the event that one of the live conductors becomes
+   exposed through an equipment fault whilst still allowing a reasonable
+   voltage for running the tools.
+
+   A third wire is often connected between non-current carrying metal
+   enclosures and earth ground. This conductor provides protection from
+   electrical shock due to accidental contact of circuit conductors with
+   the case of portable appliances and tool.
+
+AC power supply frequencies
+
+   The frequency of the electrical system varies by country; most electric
+   power is generated at either 50 or 60 Hz. See List of countries with
+   mains power plugs, voltages and frequencies. Some countries have a
+   mixture of 50 Hz and 60 Hz supplies, notably Japan.
+
+   A low frequency eases the design of low speed electric motors,
+   particularly for hoisting, crushing and rolling applications, and
+   commutator-type traction motors for applications such as railways, but
+   also causes a noticeable flicker in incandescent lighting and
+   objectionable flicker of fluorescent lamps. 16.7 Hz power (approx. ⅓ of
+   the mains frequency) is still used in some European rail systems, such
+   as in Austria, Germany, Norway, Sweden and Switzerland.
+
+   Off-shore, textile industry, marine, computer mainframe, aircraft, and
+   spacecraft applications sometimes use 400 Hz, for benefits of reduced
+   weight of apparatus or higher motor speeds.
+
+Effects at high frequencies
+
+   A direct, constant, current flows uniformly throughout the
+   cross-section of the (uniform) wire that carries it. With alternating
+   current of any frequency, the current is forced towards the outer
+   surface of the wire, and away from the centre. This is due to the fact
+   that an electric charge which accelerates (as is the case of an
+   alternating current) radiates electromagnetic waves, and materials of
+   high conductivity (the metal which makes up the wire) do not allow
+   propagation of electromagnetic waves. This phenomenon is called skin
+   effect.
+
+   At very high frequencies the current no longer flows in the wire, but
+   effectively flows on the surface of the wire, within a thickness of a
+   few skin depths. The skin depth is the thickness at which the current
+   density is reduced by 63%. Even at relatively low frequencies used for
+   high power transmission (50–60 Hz), non-uniform distribution of current
+   still occurs in sufficiently thick conductors. For example, the skin
+   depth of a copper conductor is approximately 8.57 mm at 60 Hz, so high
+   current conductors are usually hollow to reduce their mass and cost.
+
+   Since the current tends to flow in the periphery of conductors, the
+   effective cross-section of the conductor is reduced. This increases the
+   effective AC resistance of the conductor, since resistance is inversely
+   proportional to the cross-sectional area in which the current actually
+   flows. The AC resistance often is many times higher than the DC
+   resistance, causing a much higher energy loss due to ohmic heating
+   (also called I^2R loss).
+
+Techniques for reducing AC resistance
+
+   For low to medium frequencies, conductors can be divided into stranded
+   wires, each insulated from one other, and the individual strands
+   specially arranged to change their relative position within the
+   conductor bundle. Wire constructed using this technique is called Litz
+   wire. This measure helps to partially mitigate skin effect by forcing
+   more equal current flow throughout the total cross section of the
+   stranded conductors. Litz wire is used for making high Q inductors,
+   reducing losses in flexible conductors carrying very high currents at
+   power frequencies, and in the windings of devices carrying higher radio
+   frequency current (up to hundreds of kilohertz), such as switch-mode
+   power supplies and radio frequency transformers.
+
+Techniques for reducing radiation loss
+
+   As written above, an alternating current is made of electric charge
+   under periodic acceleration, which causes radiation of electromagnetic
+   waves. Energy that is radiated represents a loss. Depending on the
+   frequency, different techniques are used to minimize the loss due to
+   radiation.
+
+Twisted pairs
+
+   At frequencies up to about 1 GHz, wires are paired together in cabling
+   to form a twisted pair in order to reduce losses due to electromagnetic
+   radiation and inductive coupling. A twisted pair must be used with a
+   balanced signalling system, where the two wires carry equal but
+   opposite currents. The result is that each wire in the twisted pair
+   radiates a signal that is effectively cancelled by the other wire,
+   resulting in almost no electromagnetic radiation.
+
+Coax cables
+
+   At frequencies above 1 GHz, unshielded wires of practical dimensions
+   lose too much energy to radiation, so coaxial cables are used instead.
+   A coaxial cable has a conductive wire inside a conductive tube. The
+   current flowing on the inner conductor is equal and opposite to the
+   current flowing on the inner surface of the outer tube. This causes the
+   electromagnetic field to be completely contained within the tube, and
+   (ideally) no energy is radiated or coupled outside the tube. Coaxial
+   cables have acceptably small losses for frequencies up to about 20 GHz.
+   For microwave frequencies greater than 20 GHz, the dielectric losses
+   (due mainly to the dissipation factor of the dielectric layer which
+   separates the inner wire from the outer tube) become too large, making
+   waveguides a more efficient medium for transmitting energy.
+
+Waveguides
+
+   Waveguides are similar to coax cables, as both consist of tubes, with
+   the biggest difference being that the waveguide has no inner conductor.
+   Waveguides can have any arbitrary cross section, but rectangular cross
+   section are the most common. With waveguides, the energy is no longer
+   carried by an electric current, but by a guided electromagnetic field.
+   Waveguides have dimensions comparable to the wavelength of the
+   alternating current to be transmitted, so are only feasible at
+   microwave frequencies.
+
+Fibre optics
+
+   At frequencies greater than 200 GHz, waveguide dimensions become
+   impractically too small, and the ohmic losses in the waveguide walls
+   become large. Instead, fibre optics, which are a form of dielectric
+   waveguides, can be used. For such frequencies, the concepts of voltages
+   and currents are no longer used.
+
+Mathematics of AC voltages
+
+   A sine wave, over one cycle (360°). The dashed line represents the root
+   mean square (RMS) value
+   Enlarge
+   A sine wave, over one cycle (360°). The dashed line represents the root
+   mean square (RMS) value
+
+   Alternating currents are accompanied by alternating voltages. An AC
+   voltage v can be described mathematically as a function of time by the
+   following equation:
+
+          v(t)=V_\mathrm{peak}\cdot\sin(\omega t) ,
+
+   where
+     * V[peak] is the peak voltage (unit: volt),
+     * ω is the angular frequency (unit: radians per second)
+          + The angular frequency is related to the physical frequency, f,
+            which represents the number of oscilations per second (unit =
+            hertz), by the equation ω = 2\,\pi\, f .
+     * t is the time (unit: second).
+
+   The peak-to-peak value of an AC voltage is defined as the difference
+   between its positive peak and its negative peak. Since the maximum
+   value of sin(x) is +1 and the minimum value is −1, an AC voltage swings
+   between +V[peak] and −V[peak]. The peak-to-peak voltage, usually
+   written as V[pp] or V[P-P], is therefore (+V[peak]) − (−V[peak]) = 2 ×
+   V[peak].
+
+   AC voltage is usually expressed as a root mean square (RMS) value,
+   written V[rms]. For a sinusoidal voltage:
+
+          V_\mathrm{rms}=\frac{V_\mathrm{peak}}{\sqrt{2}}
+
+   V[rms] is useful in calculating the power consumed by a load. If a DC
+   voltage of V[DC] delivers a certain power P into a given load, then an
+   AC voltage of V[peak] will deliver the same average power P into the
+   same load if V[rms] = V[DC]. Because of this fact, RMS is the normal
+   means of measuring AC voltage.
+
+Example
+
+   To illustrate these concepts, consider a 240 V AC mains supply. It is
+   so called because its RMS value is (at least nominally) 240 V. This
+   means that it has the same heating effect as 240 V DC. To work out its
+   peak voltage (amplitude), we can modify the above equation to:
+
+          V_\mathrm{peak}=\sqrt{2}\ V_\mathrm{rms}
+
+   For our 240 V AC, the peak voltage V[peak] is therefore 240 V × √2,
+   which is about 339 V. The peak-to-peak value V[P-P] of the 240 V AC
+   mains is even higher: 2 × 240 V × √2, or about 679 V.
+
+   Note that non-sinusoidal waveforms have a different relationship
+   between their peak magnitude and effective (RMS) value. This is of
+   practical significance when working with non-linear circuit elements
+   that produce harmonic currents, such as rectifiers.
+
+   The European Union (including the UK) has now officially harmonized on
+   a supply of 230 V 50 Hz. However, it made the tolerance bands very wide
+   at ±10%. Some countries actually specify stricter standards than this;
+   for example, the UK specifies 230 V +10% −6%. Most supplies to the old
+   standards therefore conform to the new one and do not need to be
+   changed.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Alternating_current"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

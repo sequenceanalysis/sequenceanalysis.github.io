@@ -1,0 +1,660 @@
+   #copyright
+
+Electronic amplifier
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+
+   This is a featured article. Click here for more information.
+
+   The term amplifier as used in this article can mean either a circuit
+   (or stage) using a single active device or a complete system such as a
+   packaged audio hi-fi amplifier..
+
+   An electronic amplifier is a device for increasing the power of a
+   signal. It does this by taking power from a power supply and
+   controlling the output to match the input signal shape but with a
+   larger amplitude. An idealized amplifier can be said to be "a piece of
+   wire with gain", as the output is an exact replica of the input, but
+   larger.
+
+Classification of amplifier stages and systems
+
+   Different designs of amplifiers are used for different types of
+   applications and signals. We can broadly divide amplifiers into three
+   categories:
+     * Small signal amplifiers,
+     * Low frequency power amplifiers and
+     * Radio frequency RF power amplifiers.
+
+   Each of these calls for a slightly different design approach, mainly
+   because of the physical limitations of the components used to implement
+   the amplifier, and the efficiencies that can be realised.
+
+   There are many alternative classifications that address different
+   aspects of amplifier designs, and they all have some effect on the
+   design parameters and objectives of the circuit. Amplifier design is
+   always a compromise of numerous factors, such as cost, amount of power
+   consumed, devices that have real-world imperfections, and the need to
+   match the amplifier to the input signal as well as the output load.
+
+Classification of amplifier stages by common terminal
+
+   One set of these classifications include terms referring to “common
+   terminal” connections, where the design is described by the terminal of
+   the active device that is tied closest to ground. Examples include
+   terms such as common emitter, common plate, or common drain, and these
+   names also reflect the type of active device used to amplify the
+   signal. For instance, common emitter refers to an amplifier with a
+   bipolar transistor as the active device, while common plate would be
+   for a vacuum tube amp, while a common drain amp would signify the use
+   of MOSFET or JFET devices. Designs exist for almost any terminal of any
+   active device to be held to ground in an amplifier, for different
+   reasons that are reflected in each use. See also: common collector,
+   common base.
+
+Inverting or non-inverting
+
+   Another way to classify amps is the phase relationship of the input
+   signal to the output signal. An inverting amplifier produces an output
+   that is 180 degrees out of phase of the input signal, or a mirror image
+   of it if viewed on an oscilloscope. A non-inverting amplifier maintains
+   equal phase relationship between the input and output waveforms. An
+   emitter follower is a type of this amplifier, indicating that the
+   signal at the emitter of a transistor is following (matching phases)
+   with the input signal.
+
+   This description can apply to a single stage or a complete system.
+
+Function
+
+   Other amps may be classified by their function or output
+   characteristics. These functional descriptions usually apply to
+   complete amplifier systems or sub-systems and rarely to individual
+   stages.
+     * A servo amp indicates an integrated feedback loop to actively
+       control the output at some desired level. A DC servo indicates use
+       at frequencies down to DC levels, where the rapid fluctuations of
+       an audio or RF signal do not occur. These are often used in
+       mechanical actuators, or devices such as DC motors that must
+       maintain a constant speed or torque. An AC servo amp can do this
+       for some ac motors.
+
+     * A linear amp denotes that it has a precise amplification factor
+       over a wide range of frequencies, and is often used to boost
+       signals for relay in communications systems. A non-linear amp is
+       made to amplify only a specific narrow or tuned frequency, to the
+       exclusion of all other frequencies.
+
+     * A RF amp refers to an amp designed for use in the radio frequency
+       range of the electromagnetic spectrum, and is often used to
+       increase the sensitivity of a receiver or the output power of a
+       transmitter.
+
+     * An audio amp is designed for use in reproducing audio frequencies,
+       with special considerations made for driving speakers. These often
+       have multiple amps grouped together as separate or bridgeable
+       channels to accommodate different audio reproduction requirements.
+
+     * A special type of low power amp with almost ideal characteristics
+       is used in instruments and for signal processing, among many other
+       varied uses. These are known as operational amplifiers, or op-amps.
+       This is because this type of amplifier is used in circuits that
+       perform mathematical algorithmic functions, or "operations" on
+       input signals to obtain specific types of output signals.
+
+Voltage, current and power amplification
+
+   Amplifiers can be designed to increase signal voltage (voltage amp),
+   current (buffer amp), or both (power amp), of an electronic signal.
+   Electronic amplifiers can operate off either single sided supplies
+   (either + or − voltage “rail”, or “bus”, and ground), or double-sided
+   or balanced supplies (+ and − supply rails, and ground).
+
+   The different methods of supplying power result in many different
+   methods of bias. Bias is the method by which the active devices are set
+   up to operate properly, or by which the DC component of the output
+   signal is set to the midpoint between the maximum voltages available
+   from the power supply. Most amplifiers use sets of devices that are
+   matched in specifications except for polarity. These are called
+   complementary pairs. Class A amplifiers generally use only one device,
+   unless the power supplies are set to provide both positive and negative
+   supplies, in which case a dual device symmetrical design may be used.
+   Class C amps, by definition, use a single polarity supply.
+
+   Amplifiers are also often designed to have multiple stages hooked in
+   series to increase gain. Each stage of these designs is often a
+   different type of amp to suit the needs of each stage. For instance,
+   the first stage might be a Class A stage, feeding a class AB push-pull
+   second stage, which then drives a class G final output stage, taking
+   advantage for the strengths of each type, while minimizing the
+   weaknesses.
+
+   There also exist special “stacked” transistors, called Darlington
+   pairs, which have two specially matched transistors in a single case.
+   Transistors or other active devices are also often hooked in parallel,
+   or “strapped”, in order to multiply the amount of current that the
+   final output stage can deliver to the load.
+
+Interstage coupling method
+
+   Audio amplifiers are sometimes classified by the coupling method of the
+   signal at the input, output, or between stages. Different types of
+   these include:
+     * R-C coupled amplifier
+     * L-C coupled amplifier
+     * Transformer coupled amplifier
+     * Direct coupled amplifier
+
+   Each method has its advantages and compromises. Also see: Multistage
+   amplifiers.
+
+In accordance with the frequency range
+
+     * DC( direct coupled) – capable of amplifying even zero frequency
+       (DC) signals
+     * Audio frequency (AF) – 20 Hz to 20 kHz
+     * Video amplifiers – upto few 100 MHz (<10 MHz for TV)
+     * Ultra High Frequency (UHF) – upto few GHz
+
+In accordance with the type of load
+
+     * Untuned - (a) audio (b) video
+     * Tuned (RF amps) - used for amplifying a single radio frequency or
+       band of frequencies
+
+Angle of flow or conduction angle
+
+   The letter system of amplifier classification assigns a letter to
+   different designs of electronic amplifiers. These designs are
+   classified according to the relationship between the input wave form
+   and the output wave form, as well as the amount of time that the active
+   components used to amplify a signal are conducting electricity. This
+   time is measured in degrees of duration of sine wave test signal
+   applied to the input of an amplifier, with 360 degrees representing one
+   full cycle.
+
+Implementation
+
+   Amplifiers can be implemented using transistors of various types, or
+   vacuum tubes (valves). Other more exotic forms of amplifier are also
+   possible using different types of devices. Such exotic amplifiers are
+   often used for microwave or other extremely high frequency signals.
+
+Amplifier classes
+
+   Amplifier circuits are classified as A, B, AB and C for analog designs,
+   and class D and E for switching designs. For the analog classes, each
+   class defines what proportion of the input signal cycle (called the
+   angle of flow) is used to actually switch on the amplifying device:
+
+   Class A
+          100% of the input signal is used (conduction angle a = 360° or
+          2π)
+
+   Class AB
+          more than 50% but less than 100% is used. (181° to 359°, π < a <
+          2π)
+
+     * Class AB1 applies to tube or transistor amplifiers in class AB
+       where the grid or base is more negatively biased than it is in
+       class A.
+
+     * Class AB2 applies to tube or transistor amplifiers in class AB
+       where the grid or base is often more negatively biased than in AB1,
+       and the input signal is often larger. When the drive is high enough
+       to make the grid or the base more positive, the grid or base
+       current will increase. It is possible depending on the level of the
+       signal input for the amplifier to move from class AB1 to AB2.
+
+   Class B
+          50% of the input signal is used (a = 180° or π)
+
+   Class C
+          less than 50% is used (0° to 179°, a < π)
+
+   This can be most easily understood using the diagrams in each section
+   below. For the sake of illustration, a bipolar junction transistor is
+   shown as the amplifying device, but in practice this could be a MOSFET
+   or vacuum tube device. In an analog amplifier, the signal is applied to
+   the input terminal of the device (base, gate or grid), and this causes
+   a proportional output drive current to flow out of the output terminal.
+   The output drive current is obtained from the power supply. The voltage
+   signal shown is thus a larger version of the input, but has been
+   changed in sign (inverted) by the amplification. Other arrangements of
+   amplifying device are possible, but that given ( common emitter, common
+   source or common cathode) is the easiest to understand and employ in
+   practice. If the amplifying element is linear, then the output will be
+   faithful copy of the input, only larger and inverted. In practice,
+   transistors are not linear, and the output will only approximate the
+   input. Non-linearity is the origin of distortion within an amplifier.
+   Which class of amplifier (A, B, AB or C) depends on how the amplifying
+   device is biased — in the diagrams the bias circuits are omitted for
+   clarity.
+
+   Any real amplifier is an imperfect realization of an ideal amplifier.
+   One important limitation of a real amplifier is that the output it can
+   generate is ultimately limited by the power available from the power
+   supply. An amplifier can saturate and clip the output if the input
+   signal becomes too large for the amplifier to reproduce.
+
+Class A
+
+   Class A amplifiers amplify over the whole of the input cycle such that
+   the output signal is an exact scaled-up replica of the input with no
+   clipping. Class A amplifiers are the usual means of implementing
+   small-signal amplifiers. They are not very efficient — a theoretical
+   maximum of 50% is obtainable, but for small signals, this waste of
+   power is still extremely small, and can be easily tolerated. Only when
+   we need to create output powers with appreciable levels of voltage and
+   current does Class A become problematic. In a Class A circuit, the
+   amplifying element is biased such that the device is always conducting
+   to some extent, and is operated over the most linear portion of its
+   characteristic curve (known as its transfer characteristic or
+   transconductance curve). Because the device is always conducting, even
+   if there is no input at all, power is wasted. This is the reason for
+   its inefficiency.
+
+                   image:Electronic_Amplifier_Class_A.png
+
+   Class A Amplifier
+
+   If high output powers are needed from a Class A circuit, the power
+   wastage will become significant. For every watt delivered to the load,
+   the amplifier itself will, at best, waste another watt. For large
+   powers this will call for a large power supply and large heat sink to
+   carry away the waste heat. Class A designs have largely been superseded
+   for audio power amplifiers, though some audiophiles believe that Class
+   A gives the best sound quality, due to it being operated in as linear a
+   manner as possible. In addition, some aficionados prefer thermionic
+   valve (or "tube") designs over transistors, for a number of reasons:
+   Tubes are more commonly used in class A designs, which have an
+   asymmetrical transfer function. This means that distortion of a sine
+   wave creates both odd- and even-numbered harmonics. They claim that
+   this sounds more "musical" than the purely odd harmonics produced by a
+   symmetrical push-pull amplifier. Though good amplifier design can avoid
+   inducing any harmonic patterns in a sound reproduction system, the
+   differences in harmonic content are essential to the sound of
+   intentional electric guitar distortion. Another is that valves use many
+   more electrons at once than a transistor, and so statistical effects
+   lead to a "smoother" approximation of the true waveform — see shot
+   noise for more on this. Field-effect transistors have similar
+   characteristics to valves, so these are found more often in high
+   quality amplifiers than bipolar transistors. Historically, valve
+   amplifiers often used a Class A power amplifier simply because valves
+   are large and expensive; Many Class A design uses only a single device.
+   Transistors are much cheaper, and so more elaborate designs that give
+   greater efficiency but use more parts are still cost effective. A
+   classic application for a pair of class A devices is the long-tailed
+   pair, which is exceptionally linear, and forms the basis of many more
+   complex circuits, including many audio amplifiers and almost all
+   op-amps.
+
+Class B and AB
+
+   Class B amplifiers only amplify half of the input wave cycle. As such
+   they create a large amount of distortion, but their efficiency is
+   greatly improved and is much better than Class A. Class B has a maximum
+   theoretical efficiency of 78.5%. This is because the amplifying element
+   is switched off altogether half of the time, and so cannot dissipate
+   power. A single Class B element is rarely found in practice, though it
+   can be used in RF power amplifiers where the distortion is unimportant.
+   However Class C is more commonly used for this.
+
+                   Image:Electronic_Amplifier_Class_B.png
+
+   Class B Amplifier
+
+   A practical circuit using Class B elements is the complementary pair or
+   "push-pull" arrangement. Here, complementary devices are used to each
+   amplify the opposite halves of the input signal, which is then
+   recombined at the output. This arrangement gives excellent efficiency,
+   but can suffer from the drawback that there is a small glitch at the
+   "joins" between the two halves of the signal. This is called crossover
+   distortion. A solution to this is to bias the devices just on, rather
+   than off altogether when they are not in use. This is called Class AB
+   operation. Each device is operated in a non-linear region which is only
+   linear over half the waveform, but still conducts a small amount on the
+   other half. Such a circuit behaves as a class A amplifier in the region
+   where both devices are in the linear region, however the circuit cannot
+   strictly be called class A if the signal passes outside this region,
+   since beyond that point only one device will remain in its linear
+   region and the transients typical of class B operation will occur. The
+   result is that when the two halves are combined, the crossover is
+   greatly minimised or eliminated altogether.
+
+   However, it is important to note that while the efficiency of Class AB
+   is greater than Class A, it is less than Class B.
+
+                  Image:Electronic_Amplifier_Push-pull.png
+
+   Class B Push-Pull Amplifier
+
+   Class B or AB push-pull circuits are the most common form of design
+   found in audio power amplifiers. Class AB is widely considered a good
+   compromise for audio amplifiers, since much of the time the music is
+   quiet enough that the signal stays in the "class A" region, where it is
+   reproduced with good fidelity, and by definition if passing out of this
+   region, is large enough that the distortion products typical of class B
+   are relatively small. Class B and AB amplifiers are sometimes used for
+   RF linear amplifiers as well.
+
+Negative feedback
+
+   Feedback feeds the difference of the input and part of the output back
+   to the input in a way that cancels out part of the input. The main
+   effect is to reduce the overall gain of the system. However the
+   unwanted signals introduced by the amplifier are also fed back. Since
+   they are not part of the original input, they are added to the input in
+   opposite phase, subtracting them from the input.
+
+   Careful design of each stage of an open loop (non-feedback) amplifier
+   can achieve about 1% distortion. With negative feedback, 0.001% is
+   typical. Noise, even crossover distortion can be practically
+   eliminated. Feedback was originally invented so that replacing a
+   burnt-out vacuum tube would not change an amplifier's performance
+   (manufacturing realities require that tubes and transistors with the
+   same part number will have close but not identical gain). Negative
+   feedback also compensates for changing temperatures, and degrading or
+   non-linear components. While amplifying devices can be treated as
+   linear over some portion of their characteristic curve, they are
+   inherently non-linear; their physics dictates that they operate using a
+   square law. The result of non-linearity is distortion.
+
+   The application dictates how much distortion a design can tolerate. For
+   hi-fi audio applications, instrumentation amplifiers and the like,
+   distortion must be minimal, often better than 1%.
+
+   While feedback seems like a universal fix for all the problems of an
+   amplifier, many believe that negative feedback is a bad thing. Since it
+   uses a loop, it takes a finite time to react to an input signal, and
+   for this short period the amplifier is "out of control." A musical
+   transient whose timing is of the same order as this period will be
+   grossly distorted, even though the amplifier will show incredibly good
+   distortion performance on steady-state signals. This, essentially, is
+   the rationale for the existence of "transient intermodulation
+   distortion" in amplifiers which was exhaustively discussed and debated
+   from the late 1970s through much of the 1980s . Proponents of feedback
+   refute this, saying that the feedback "delay" is of such a short order
+   that it represents a frequency vastly outside the bandwidth of the
+   system, and such effects are not only inaudible, but not even present,
+   as the amplifier will not respond to such high frequency signals.
+
+   The argument has caused controversy for many years, and has led to all
+   sorts of interesting designs — such as feedforward amplifiers (e.g.
+   digital signals on many cell-site base-station transmitters are
+   precompensated for the radio amplifier's distortion). The fact remains
+   that the majority of modern amplifiers use considerable amounts of
+   feedback, though many of the high-end audiophile designs seek to
+   minimise this.
+
+   Whatever the merits of these arguments about its effect on waveform
+   distortion, feedback also affects the output impedance of the amplifier
+   and therefore its damping factor. Roughly speaking, the damping factor
+   is a measure of the ability of the amplifier to control the speaker.
+   All other things being equal, the greater the amount of feedback, the
+   lower its output impedance and the higher its damping factor. This has
+   an effect on the low frequency performance of many speaker systems
+   where low damping factors lead to irregular bass response.
+
+   The concept of feedback is used in operational amplifiers to precisely
+   define gain, bandwidth and other parameters.
+
+A practical circuit
+
+   For the purposes of illustration, this practical amplifier circuit is
+   described. It could be the basis for a moderate-power audio amplifier.
+   It features a typical (though substantially simplified) design as found
+   in modern amplifiers, with a class AB push-pull output stage, and uses
+   some overall negative feedback. Bipolar transistors are shown, but this
+   design would also be realisable with FETs or valves.
+
+                      image:Amplifier_Circuit_Small.png
+
+   A practical amplifier circuit
+
+   The input signal is coupled through capacitor C1 to the base of
+   transistor Q1. The capacitor allows the AC signal to pass, but blocks
+   the DC bias voltage established by resistors R1 and R2 so that any
+   preceding circuit is not affected by it. Q1 and Q2 form a differential
+   amplifier (an amplifier that multiplies the difference between two
+   inputs by some constant), in an arrangement known as a long-tailed
+   pair. This arrangement is used to conveniently allow the use of
+   negative feedback, which is fed from the output to Q2 via R7 and R8.
+   The negative feedback into the difference amplifier allows the
+   amplifier to compare the input to the actual output. The amplified
+   signal from Q1 is directly fed to the second stage, Q3, which provides
+   further amplification of the signal, and the DC bias for the output
+   stages, Q4 and Q5. R6 provides the load for Q3 (A better design would
+   probably use some form of active load here, such as a constant-current
+   sink). So far, all of the amplifier is operating in Class A. The output
+   pair are arranged in Class AB push-pull, also called a complementary
+   pair. They provide the majority of the current amplification and
+   directly drive the load, connected via DC-blocking capacitor C2. The
+   diodes D1 and D2 provide a small amount of constant voltage bias for
+   the output pair, just biasing them into the conducting state so that
+   crossover distortion is minimised. This design is simple, but a good
+   basis for a practical design because it automatically stabilises its
+   operating point, since feedback internally operates from DC up through
+   the audio range and beyond. Further circuit elements would probably be
+   found in a real design that would roll off the frequency response above
+   the needed range to prevent the possibility of unwanted oscillation.
+   Also, the use of fixed diode bias as shown here can cause problems if
+   the diodes are not both electrically and thermally matched to the
+   output transistors — if the output transistors turn on too much, they
+   can easily overheat and destroy themselves, as the full current from
+   the power supply is not limited at this stage. A common solution to
+   help stabilise the output devices is to include some emitter resistors,
+   typically an ohm or so. Calculating the values of the circuit's
+   resistors and capacitors is done based on the components employed and
+   the intended use of the amp.
+
+   For the basics of radio frequency amplifers using valves, see Valved RF
+   amplifiers.
+
+Class C
+
+   Class C amplifiers conduct less than 50% of the input signal and the
+   distortion at the output is high, but efficiencies of up to 90% can be
+   reached. Some applications can tolerate the distortion, such as
+   megaphones. A much more common application for Class C amplifiers is in
+   RF transmitters, where the distortion can be vastly reduced by using
+   tuned loads on the amplifier stage. The input signal is used to roughly
+   switch the amplifying device on and off, which causes pulses of current
+   to flow through a tuned circuit. The tuned circuit will only resonate
+   at particular frequencies, and so the unwanted frequencies are
+   dramatically suppressed, and the wanted full signal (sine wave) will be
+   abstracted by the tuned load. Provided the transmitter is not required
+   to operate over a very wide band of frequencies, this arrangement works
+   extremely well. Other residual harmonics can be removed using a filter.
+
+                   image:Electronic_Amplifier_Class_C.png
+
+   Class C Amplifier
+
+Class D
+
+   A class D amplifier is a power amplifier where all power devices are
+   operated in on/off mode. Output stages such as those used in pulse
+   generators are examples of class D amplifiers. Mostly though, the term
+   applies to devices intended to reproduce signals with a bandwidth well
+   below the switching frequency. These amplifiers use pulse width
+   modulation, pulse density modulation (sometimes referred to as pulse
+   frequency modulation) or more advanced form of modulation such as Sigma
+   delta modulation (see for example Analog Devices AD1990 Class-D audio
+   power amplifier). The input signal is converted to a sequence of pulses
+   whose averaged value is directly proportional to the amplitude of the
+   signal at that time. The frequency of the pulses is typically ten or
+   more times the highest frequency of interest in the input signal. The
+   output of such an amplifier contains unwanted spectral components
+   (i.e.. the pulse frequency and its harmonics) that must be removed by a
+   passive filter. The resulting filtered signal is then an amplified
+   replica of the input.
+
+   The main advantage of a class D amplifier is power efficiency. Because
+   the output pulses have a fixed amplitude, the switching elements
+   (usually MOSFETs, but valves and bipolar transistors were once used)
+   are switched either on or off, rather than operated in linear mode.
+   This means that very little power is dissipated by the transistors
+   except during the very short interval between the on and off states.
+   The wasted power is low because the instantaneous power dissipated in
+   the transistor is the product of voltage and current, and one or the
+   other is almost always close to zero. The lower losses permit the use
+   of a smaller heat sink while the power supply requirements are lessened
+   too.
+
+   Class D amplifiers can be controlled by either analog or digital
+   circuits. A digital controller introduces additional distortion called
+   quantisation error caused by its conversion of the input signal to a
+   digital value.
+
+   Class D amplifiers were widely used to control motors, and almost
+   exclusively for small DC motors, but they are now also used as audio
+   amplifiers. The relative difficulty of achieving good audio quality
+   means that the vast majority appear in applications where quality is
+   not a factor, such as miniature audio systems and "DVD-receivers". High
+   quality Class D audio amplifiers are now, however, starting to appear
+   in the market. Some of them even outperform classical designs.
+   Recently, several manufacturers are offering built modules ready to be
+   integrated in audio systems. An early and prolific area of application
+   is high-powered, high-fidelity subwoofer amplifiers in cars. Because
+   subwoofers are generally limited to a bandwidth of no higher than 150
+   Hz, the switch speed for the amplifier does not have to be as high as
+   for a full range amplifier. They have become so inexpensive that a true
+   1 kW of power output can be had for less than 250USD (retail).
+   Efficiencies are in the 80% to 95% range.
+
+D does not stand for "digital"
+
+   The letter D used to designate this type of amplifier is simply the
+   next letter after C, and does not stand for digital. Class D and Class
+   E amplifiers are sometimes mistakenly described as "digital" because
+   the output waveform superficially resembles a pulse-train of digital
+   symbols, but a Class D amplifier merely converts an input waveform into
+   a continuously pulse-width modulated (square wave) analog signal. (A
+   digital waveform would be pulse-code modulated.)
+
+Specialty classes
+
+Class E/F
+
+   The class E/F amplifier is a highly efficient switching power
+   amplifier, typically used at radio frequencies. The main concept used
+   in this amplifier is to model the active switching device, such as a
+   transistor or MOSFET, as a linear combination of two parts: (1) a
+   (theoretical) "perfect" switching element, and (2) a complex network of
+   parasitic elements attached to it (capacitors, inductors and
+   resistors). After the decomposition, it becomes trivial to eliminate
+   the losses of each part:
+
+   (1) The "perfect" switching element should be switched ON during
+   zero-voltage crossing, and should be switched OFF during zero-current
+   crossing. Thus the switching element either conducts current, or has
+   some non-zero voltage on it, but never both at the same time. Because
+   the dissipated power is equal to current x voltage, it becomes zero.
+   This can be arranged by adjusting the phase (capacitor) and DC bias
+   (resistor) of the signal going into the transistor input.
+
+   (2) the Imaginary part of the impedance of the parasitic elements can
+   be tuned, one by one, by matching them to another passive element with
+   the complex conjugate impedance, thus leaving only the real part of the
+   complex impedance.
+
+   In theory, the only remaining loss is the real part of the impedance of
+   the parasitic elements in the system, which cannot be avoided. This
+   class of amplifier is unique to radio frequency ranges, where the
+   amplifier analysis is usually done in the frequency domain and not in
+   the voltage/current domain. This class is further divided to subclasses
+   depending on which harmonics of the signal are taken into account
+   during zero-voltage switching (ZVS) and zero-current switching (ZCS),
+   with names such as Class E/F2,odd; Class F^-1; and so on. It is still
+   an active area of research and new variants appear from time to time,
+   usually with the letters "E" and "F" somewhere in class name.
+
+   The figure below shows a schematic of a class-E/F amplifier that uses
+   this principle to achieve high efficiency.
+
+                              image:Class-e.jpg
+
+   Class E Amplifier
+
+   The switch is periodically opened and closed at the frequency of
+   operation. Usually, but not always, the switching duty ratio is 50%.
+   The RF choke has comparatively large inductance so that in effect it
+   functions as a constant current source. Other passive device values are
+   chosen such that the following conditions are satisfied simultaneously.
+   (1) The voltage across the switch at the instant of closing is zero.
+   (2) The time derivative of voltage across the switch is at zero when
+   the switch turns on. Moreover, Ls and Cs forms a resonating filter at
+   the frequency of operation.
+
+   In practical implementations a transistor is substituted for a switch,
+   but is operated either in saturation (on) or in cut-off (off). The
+   theoretical efficiency of a class-E amplifier is 100% with ideal
+   components. However, practical circuits do exhibit a number of
+   weaknesses that makes them less than 100% efficient. These effects
+   include finite switching speed, finite on-resistance and non-zero
+   saturation voltage of the transistor as well as lossy passive
+   components at high frequencies. Typical efficiency is about 60% at an
+   operating frequency of 1-2 GHz.
+
+   This amplifier class is specially designed for the amplification of
+   square waves, such as those used to transmit data in purely digital
+   form. “Square” waves or pulses have special needs due to their
+   frequency characteristics, since they require the faithful reproduction
+   of the very high frequencies present in their leading and trailing
+   edges, without adding artifacts such as ringing or overshoot during the
+   amplification process. Consideration must be made as well for the lower
+   frequency components introduced by the switching levels, such as the
+   impedance of the output load, which is often in the form of a
+   transmission line.
+
+   The class E amplifier was invented in 1972 by Nathan O. Sokal and Alan
+   D. Sokal, and details were first published in 1975 . Some earlier
+   reports on this operating class have been published in Russian.
+
+Class G
+
+   Class G amplifiers are a more efficient version of class AB amplifiers,
+   which use "rail switching" to decrease power consumption and increase
+   efficiency. The amplifier has several power rails at different
+   voltages, and switches between rails as the signal output approaches
+   each. Thus the amp increases efficiency by reducing the "wasted" power
+   at the output transistors.
+
+Class H
+
+   Class-H amplifiers mostly feature 2/3 Tiers[also known as different
+   Supply voltage level Rails], but they are vastly different from the
+   Class-G, because in Class-H the amplifier rails are actually switched
+   for finite time in Square Shaped Waveform [usually known as packet
+   envelope]in accordance with PWM reference obtained from analog
+   signal...from Lower Tier to Upper as the voltage level exceeds the
+   threshold...
+
+Other classes
+
+   Several audio amplifier manufacturers have started "inventing" new
+   classes as a way to differentiate themselves. These class names usually
+   do not reflect any revolutionary amplification technique, and are used
+   mostly for marketing purposes. This can easily be determined by the
+   fact that the class name is trademarked or copyrighted. For example,
+   Crowns K and I-Tech Series as well as several other models utilise
+   Crowns patented Class-I (or BCA) technology. Lab Gruppen use a form of
+   class D amplifier called class TD or Tracked Class D which tracks the
+   waveform to more accurately amplify it without the drawbacks of
+   traditional class D amplifiers.
+
+   " Class T" is a trademark of TriPath company, which manufactures audio
+   amplifier IC's. This new class "T" is a revision of the common class D
+   amplifier, but with changes to ensure fidelity over the full audio
+   spectrum, unlike traditional class D designs. It operates at a
+   frequency of 650kHz, with a proprietary modulator. Class Z is a
+   trademark of Zetex semiconductor is a direct digital feedback
+   technology.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electronic_amplifier"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,567 @@
+   #copyright
+
+Windows XP
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+
+   This is a featured article. Click here for more information.
+   Windows XP
+   (Part of the Microsoft Windows family)
+   Screenshot
+   Screenshot of Windows XP SP2
+   Developer
+   Microsoft
+   Web site: www.microsoft.com/windowsxp
+   Release information
+   Release date:    October 25, 2001 info
+   Current version: Service Pack 2 (SP2) ( August 6, 2004) info
+   Source model:    Shared source
+   License:         Microsoft EULA
+   Kernel type:     Hybrid kernel
+   Support status
+   Currently active.
+   Further reading
+     * Features new to Windows XP
+
+     * Development of Windows XP
+
+   Windows XP is a line of operating systems developed by Microsoft
+   Corporation for use on general-purpose computer systems, including home
+   and business desktops, notebook computers, and media centers. The
+   letters "XP" stand for experience. Codenamed Whistler after Whistler,
+   British Columbia as many Microsoft employees ski at the resort, during
+   its development, Windows XP is the successor to both Windows 2000 and
+   Windows Me, and is the first consumer-oriented operating system
+   produced by Microsoft to be built on the Windows NT kernel and
+   architecture. With the release of Windows XP, the development of
+   operating systems based on the Windows 9x architecture was
+   discontinued. Windows XP was first released on October 25, 2001, and as
+   of 2006 is the most recent consumer version of Microsoft Windows
+   available, with over 400 million copies in use, according to an
+   estimate by an IDC analyst.
+
+   The most common editions of the operating system are Windows XP Home
+   Edition, which is targeted at home users, and Windows XP Professional,
+   which has additional features such as support for Windows Server
+   domains and dual processors, and is targeted at power users and
+   business clients. Windows XP Media Centre Edition consists of Windows
+   XP Professional with new features enhancing the ability to record and
+   watch TV shows, watch DVDs, listen to music and more. Windows XP Tablet
+   PC Edition is designed to run the ink-aware Tablet PC platform. Two
+   separate 64-bit versions of Windows XP were also released, Windows XP
+   64-bit Edition for IA-64 ( Itanium) processors and Windows XP
+   Professional x64 Edition for x86-64 processors.
+
+   Windows XP is known for its improved stability and efficiency over
+   previous versions of Windows. It presents a significantly redesigned
+   graphical user interface, a change Microsoft promoted as more
+   user-friendly than previous versions of Windows. New software
+   management capabilities were introduced to avoid the " DLL hell" that
+   plagued older consumer versions of Windows. It is also the first
+   version of Windows to use product activation to combat software piracy,
+   a restriction that did not sit well with some users and privacy
+   advocates. Windows XP has also been criticized by some users for
+   security vulnerabilities, tight integration of applications such as
+   Internet Explorer and Windows Media Player, and for aspects of its user
+   interface.
+
+   Windows Vista is scheduled to be the next major revision of Microsoft
+   Windows, with a planned release date of November 30, 2006 for volume
+   license customers, with a worldwide general release following on
+   January 30, 2007.
+
+Editions
+
+   Diagram representing the main editions of Windows XP. It is based on
+   the category of the edition (grey) and codebase (black arrow).
+   Enlarge
+   Diagram representing the main editions of Windows XP. It is based on
+   the category of the edition (grey) and codebase (black arrow).
+
+   The two major editions are Windows XP Home Edition, designed for home
+   users, and Windows XP Professional, designed for business and
+   power-users. Other builds of Windows XP include those built for
+   specialized hardware and crippled versions sold in Europe and select
+   developing economies.
+
+   Windows XP Professional offers a number of features unavailable in the
+   Home Edition, including:
+     * Able to become part of a Windows Server domain — a group of
+       computers that are remotely managed by one or more central servers
+       (many businesses that use Windows have a Windows Server and a
+       domain)
+     * Sophisticated access control scheme that allows specific
+       permissions on files to be granted to specific users under normal
+       circumstances. However, users can use tools other than Windows
+       Explorer (like cacls or File Manager), or restart to Safe Mode to
+       modify access control lists.
+     * Remote Desktop server, which allows a PC be operated by another
+       Windows XP user over a local area network or the Internet
+     * Offline Files and Folders, which allow the PC to automatically
+       store a copy of files from another networked computer and work with
+       them while disconnected from the network
+     * Encrypting File System, which encrypts files stored on the
+       computer's hard drive so they cannot be read by another user, even
+       with physical access to the storage medium
+     * Centralized administration features, including Group Policies,
+       Automatic Software Installation and Maintenance, Roaming User
+       Profiles, and Remote Installation Service (RIS)
+     * Support for two physical central processing units (CPU). The number
+       of CPU cores and Hyper-threading capabilities on modern CPUs are
+       considered to be part of a single physical processor.
+
+Windows XP for specialized hardware
+
+   Microsoft has also customized Windows XP to suit different markets and
+   there are now several different versions available. Five different
+   versions of XP for specific hardware were designed, two of them
+   specifically for 64-bit processors.
+
+   Windows XP 64-bit Edition
+          This edition was designed specifically for Itanium-based
+          workstations. This edition was discontinued in early 2005, after
+          HP, the last distributor of Itanium-based workstations, stopped
+          selling Itanium systems marketed as 'workstations'. However,
+          Itanium support continues in the server editions of Windows.
+
+   Windows XP Professional x64 Edition
+          Not to be confused with the previous 64-bit Itanium edition of
+          Windows XP, this edition is based on Windows Server 2003 and
+          supports AMD's AMD64 64-bit extension of the Intel IA-32
+          architecture. This is found in AMD's Opteron and Athlon 64
+          chips, as well as Intel's chips implementing their broadly
+          compatible EM64T extension.
+
+          Microsoft had previously supported other microprocessors with
+          earlier versions of the Windows NT operating system line
+          (including two 64-bit lines, the DEC Alpha and the MIPS R4000,
+          although Windows NT used them as 32-bit processors). The files
+          necessary for all of the architectures were included on the same
+          installation CD and did not require the purchase of separate
+          versions.
+
+   Windows XP Media Centre Edition
+          This edition is designed for Media centre PCs. Originally, it
+          was only available bundled with one of these computers, and
+          could not be purchased separately. In 2003 the Media Center
+          Edition was updated as "Windows XP Media Centre Edition 2003",
+          which added additional features such as FM radio tuning. Another
+          update was released in 2004, and again in 2005, which was the
+          first edition available for System Builders.
+
+   Windows XP Tablet PC Edition
+          Intended for specially-designed notebook/laptop computers called
+          tablet PCs, the Tablet PC Edition is compatible with a
+          pen-sensitive screen, supporting handwritten notes and
+          portrait-oriented screens. It cannot be purchased separately
+          from a Tablet PC.
+
+   Windows XP Embedded
+          An edition for specific consumer electronics, set-top boxes,
+          kiosks/ ATMs, medical devices, arcade video games, point-of-sale
+          terminals, and Voice Over Internet Protocol ( VoIP) components.
+
+   Windows Fundamentals for Legacy PCs
+          In July 2006, Microsoft introduced a "thin-client" version of
+          Windows XP called Windows Fundamentals for Legacy PCs, which
+          targets older machines (as early as the original Pentium). It
+          will only be available to Software Assurance customers, who
+          would like to upgrade to Windows XP to take advantage of its
+          security and management capabilities, but can't afford to
+          purchase new hardware. Applications will typically be run on a
+          remote server using Remote Desktop.
+
+Windows XP Starter Edition
+
+   Windows XP Starter Edition is a lower-cost version of Windows XP
+   available in Thailand, Turkey, Malaysia, Indonesia, Russia, India,
+   Colombia, Brazil, Argentina, Chile, Mexico, Ecuador, Uruguay and
+   Venezuela. It is similar to Windows XP Home, but is limited to low-end
+   hardware, can only run 3 programs at a time, and has some other
+   features either removed or disabled by default.
+
+   According to a Microsoft press release, Windows XP Starter Edition is
+   "a low-cost introduction to the Microsoft Windows XP operating system
+   designed for first-time desktop PC users in developing countries." It
+   is seen as an effort to fight unauthorized copying of Windows XP and
+   possibly the spread of GNU/Linux-based systems in Asia and South
+   America.
+
+Specializations
+
+   The Starter Edition includes some special features for non-US markets
+   where consumers may not be computer literate. Not found in the Home
+   Edition, these include localized help features for those who may not
+   speak English, a country-specific computer wallpaper and screensavers,
+   and other default settings designed for easier use than typical Windows
+   XP installations.
+
+   In addition, the Starter Edition also has some unique limitations to
+   prevent it from displacing more expensive versions of Windows XP. Only
+   three applications can be run at once on the Starter Edition, and each
+   application may only open three windows. The maximum screen resolution
+   is limited to 1024×768, and there is no support for workgroup
+   networking or domains. In addition, the Starter Edition is licensed
+   only for low-end processors like Intel's Celeron or AMD's Duron. There
+   is also a 256MB limit on main memory, and an 80GB disk size limit
+   (Microsoft has not made it clear, however, if this is for total disk
+   space, per partition, or per disk). There are also fewer options for
+   customizing the themes, desktop, and taskbar.
+
+Market adoption
+
+   On October 9, 2006, Microsoft announced that they reached a milestone
+   of 1,000,000 units of Windows XP Starter Edition sold. In the mass
+   market, however, the Starter Edition has not had much success. Many
+   markets where it is available have seen the uptake of illegally cracked
+   or pirated versions of the software instead.
+
+Windows XP Edition N
+
+   In March 2004, the European Commission fined Microsoft €497 million
+   ($603 million USD) and ordered the company to provide a version of
+   Windows without Windows Media Player. The Commission concluded that
+   Microsoft "broke European Union competition law by leveraging its near
+   monopoly in the market for PC operating systems onto the markets for
+   work group server operating systems and for media players". Microsoft
+   is currently appealing the ruling. In the meantime, a court-compliant
+   version has been released. This version does not include the company's
+   Windows Media Player but instead encourages users to pick and download
+   their own media player. Microsoft wanted to call this version Reduced
+   Media Edition, but EU regulators objected and suggested the Edition N
+   name, with the N signifying "not with Media Player" for both Home and
+   Professional editions of Windows XP. Due to the fact that it is sold at
+   the same price as the version with Windows Media Player included, Dell,
+   Hewlett-Packard, Lenovo and Fujitsu Siemens have chosen not to stock
+   the product. However, Dell did offer the operating system for a short
+   time. Consumer interest has been low, with roughly 1,500 units shipped
+   to OEMs, and no reported sales to consumers.
+
+New and updated features
+
+   Windows XP introduced several new features to the Windows line,
+   including:
+     * Faster start-up and hibernation sequences;
+     * The ability to discard a newer device driver in favour of the
+       previous one (known as driver rollback), should a driver upgrade
+       not produce desirable results;
+     * A new, arguably more user-friendly interface, including the
+       framework for developing themes for the desktop environment;
+     * Fast user switching, which allows a user to save the current state
+       and open applications of their desktop and allow another user to
+       log on without losing that information;
+     * The ClearType font rendering mechanism, which is designed to
+       improve text readability on Liquid Crystal Display (LCD) and
+       similar monitors;
+     * The Remote Desktop functionality, which allows users to connect to
+       a computer running Windows XP from across a network or the Internet
+       and access their applications, files, printers, and devices; and
+     * Support for most DSL modems and wireless network connections, as
+       well as networking over FireWire.
+
+User interface
+
+                                  CAPTION: Default theme vs. Classic theme
+
+                                                            Default
+
+                                                                   Classic
+
+   Windows XP features a new task-based graphical user interface. The
+   Start menu and search capability were redesigned and many visual
+   effects were added, including:
+     * A translucent blue selection rectangle in Explorer
+     * A watermark-like graphic on folder icons, indicating the type of
+       information stored in the folder.
+     * Drop shadows for icon labels on the desktop
+     * Task-based sidebars in Explorer windows ("common tasks")
+     * The ability to group the taskbar buttons of the windows of one
+       application into one button
+     * The ability to lock the taskbar and other toolbars to prevent
+       accidental changes
+     * The highlighting of recently added programs on the Start menu
+     * Shadows under menus (Windows 2000 had shadows under mouse pointers,
+       but not menus)
+
+   Windows XP analyzes the performance impact of visual effects and uses
+   this to determine whether to enable them, so as to prevent the new
+   functionality from consuming excessive additional processing overhead.
+   Users can further customize these settings. Some effects, such as alpha
+   blending (transparency and fading), are handled entirely by many newer
+   video cards. However, if the video card is not capable of hardware
+   alpha blending, performance can be substantially hurt and Microsoft
+   recommends the feature should be turned off manually. Windows XP adds
+   the ability for Windows to use "Visual Styles" to change the user
+   interface. However, visual styles must be cryptographically signed by
+   Microsoft to run. Luna is the name of the new visual style that ships
+   with Windows XP, and is enabled by default for machines with more than
+   64 MB of RAM. Luna refers only to one particular visual style, not to
+   all of the new user interface features of Windows XP as a whole. In
+   order to use unsigned visual styles, many users turn to software such
+   as TGTSoft's StyleXP or Stardock's WindowBlinds. Some users "patch" the
+   uxtheme.dll file that restrict the ability to use visual styles,
+   created by the general public or the user, on Windows XP.
+
+   The default wallpaper, Bliss, is a BMP photograph of a landscape in the
+   Napa Valley outside Napa, California, with rolling green hills and a
+   blue sky with stratocumulus and cirrus clouds.
+
+   The Windows 2000 "classic" interface can be used instead if preferred.
+   Several third party utilities exist that provide hundreds of different
+   visual styles. In addition, another Microsoft-created theme, called "
+   Royale", was included with Windows XP Media Centre Edition, and was
+   also released for other versions of Windows XP, but has since been
+   removed from the original Microsoft New Zealand package. The Luna theme
+   uses 4 more megabytes of RAM than the "Classic" Windows theme, so
+   Classic can possibly improve performance on lower-end systems.
+
+   Over 100 of the new icons were created by The Iconfactory, best known
+   for their freeware Mac icons.
+
+   Windows XP also has a command line interface (CLI), cmd.exe, for
+   executing single commands or for running scripts called Batch files.
+   The syntax for the language of the Windows XP CLI is not as
+   well-documented by Microsoft in the built-in Help as many GUI features.
+   A simple list of the basic commands is available at the command prompt
+   by typing "help"; and somewhat more complete command syntax may be
+   found by typing "command_name /?" for any command.
+
+Service packs
+
+   Microsoft occasionally releases service packs for its Windows operating
+   systems to fix problems and add features.
+
+Service Pack 1
+
+   Service Pack 1 (SP1) for Windows XP was released on September 9, 2002.
+   Its most notable new features were USB 2.0 support and a Set Program
+   Access and Defaults utility. For the first time, users could control
+   the default application for activities such as web browsing and instant
+   messaging, as well as hide access to some of Microsoft's bundled
+   programs. This utility was later brought into the older Windows 2000
+   operating system with its Service Pack 3. Service Pack 1a was later
+   released to remove Microsoft's Java virtual machine as a result of a
+   lawsuit with Sun Microsystems.
+
+   LBA-48, which allowed the OS to view and use HDD space above 137 GB,
+   was enabled by default. Native support for Serial ATA was added.
+
+   Support for Windows XP Service Pack 1 ended on October 10, 2006.
+
+Service Pack 2
+
+   Service Pack 2 (SP2) (codenamed Springboard) was released on August 6,
+   2004 after several delays, with a special emphasis on security. Unlike
+   previous service packs, SP2 adds new functionality to Windows XP,
+   including an enhanced firewall, improved Wi-Fi support with a wizard
+   utility, a pop-up ad blocker for Internet Explorer, and Bluetooth
+   support. Security enhancements include a major revision to the included
+   firewall which was renamed to Windows Firewall and is enabled by
+   default, advanced memory protection that takes advantage of the NX bit
+   that is incorporated into newer processors to stop buffer overflow
+   attacks, and removal of raw socket support (which supposedly limits the
+   damage done by "zombie" machines: infected computers that can be used
+   remotely to launch denial of service attacks). Additionally,
+   security-related improvements were made to e-mail and web browsing.
+   Windows XP Service Pack 2 includes the Windows Security Centre, which
+   provides a general overview of security on the system, including the
+   state of anti-virus software, Windows Update, and the new Windows
+   Firewall. Third-party anti-virus and firewall applications can
+   interface with the new Security Centre.
+
+   Windows Movie Maker 2 has a new interface and more transitions, video
+   effects and options. A full list of service fixes and modifications in
+   SP2 is available on Microsoft's website. When the service pack was
+   released some programs did stop working, and Microsoft officially
+   listed several of them on its website. The company AssetMetrix reports
+   that one out of ten computers that upgraded to SP2 had severe
+   compatibility problems with their applications.
+
+   SP2 also includes major updates to Windows XP Tablet PC Edition and
+   Windows XP Media Centre Edition, and supports 24 new languages.
+
+   There were also some visual changes made with Service Pack 2. On the
+   opening screen (where it says Microsoft Windows XP with the three
+   scrolling squares), the "(C)1985-2001" designation at the bottom was
+   removed, and the edition name was removed (e.g. "Home Edition" or
+   "Professional"). In the Home Edition version the scrolling squares were
+   originally green but have now been replaced with blue ones. In
+   addition, the Wireless Network Connection Icon, which used to show two
+   computer symbols (like the LAN Connection Icon) now shows just one,
+   with a radio wave symbol on the right side.
+
+   While well received in general, Service Pack 2 was not without its
+   critics. Thomas Greene from The Register claimed that SP2 was merely a
+   placebo of sorts in terms of features, fixes, and security updates:
+
+          "While we found that there are indeed a few minor improvements
+          worthy of acknowledgment, in particular, some rather low-level
+          improvements that don't show to the admin or user, overall, SP2
+          did little to improve our system's practical security, leaving
+          too many services and networking components enabled, bungling
+          permissions, leaving IE and OE vulnerable to malicious scripts,
+          and installing a packet filter that lacks a capacity for egress
+          filtering."
+
+Service Pack 3
+
+   Windows XP Service Pack 3 is currently in development. It will be
+   released after Windows Vista has been finished. As of October 2006,
+   Microsoft's web site indicates a "preliminary" release date of "1H
+   2008".
+
+   Service Pack 3 is speculated to include Windows Media Player 11,
+   Internet Explorer 7 and back-ported technologies initially created for
+   Windows Vista, but Microsoft has not made any official statement on
+   feature sets. A document on Microsoft's web site suggests that Service
+   Pack 3 will include additional support for doing true "per-user"
+   application installing. Another page suggests improvements to managing
+   the list of "hidden" wireless networks.
+
+   A site titled The Hotfix has been reported as keeping an up-to-date
+   list of downloadable hotfixes that will be included in Service Pack 3.
+   Many of the hotfixes on the site have not yet been officially released
+   by Microsoft and users have been warned to not install them all, but
+   many of the fixes have been known to solve specific problems that SP3
+   will eventually address.
+
+Common criticisms
+
+Security issues
+
+   Windows XP has been criticized for its susceptibility to malware,
+   viruses, trojan horses and worms. Security issues are compounded by the
+   fact that users of the Home edition, by default, receive an
+   administrator account that provides unrestricted access to the
+   underpinnings of the system. If the administrator's account is broken
+   into, there is no limit to the control that can be asserted over the
+   compromised PC.
+
+   Windows, with its large market share, has historically been a tempting
+   target for virus creators. Security holes are often invisible until
+   they are exploited, making preemptive action difficult. Microsoft has
+   stated that the release of patches to fix security holes is often what
+   causes the spread of exploits against those very same holes, as
+   crackers figured out what problems the patches fixed, and then launch
+   attacks against unpatched systems.
+
+   In an effort to slow down the rate at which malicious programs can
+   spread to uninfected computers, Service Pack 2 lowered the limit on
+   outgoing TCP/IP connection attempts from 65,535 to 10. There can be no
+   more than this many incomplete outgoing connections being attempted at
+   any one time; additional connection attempts will be queued. This limit
+   can adversely affect legitimate software such as peer-to-peer
+   applications. The "tcpip.sys" system file can be patched to raise the
+   limit to its former value.
+
+User interface and performance
+
+   Critics have claimed that the default Windows XP user interface (Luna)
+   adds visual clutter and wastes screen space while offering no new
+   functionality and running more slowly - with some even calling it 'the
+   Fisher-Price interface'. Users who do not like the new interface can
+   easily switch back to the Windows Classic theme. However, this theme
+   does not entirly copy the windows 9.x GUI.
+
+Integration of operating system features
+
+   In light of the United States v. Microsoft case which resulted in
+   Microsoft being convicted for abusing its operating system monopoly to
+   overwhelm competition in other markets, Windows XP has drawn fire for
+   integrating user applications such as Windows Media Player and Windows
+   Messenger into the operating system, as well as for its close ties to
+   the Windows Live ID service.
+
+Backward Compatiblity
+
+   Some users switching from Windows 9x to XP dislike it's lack of DOS
+   support. Although XP comes with the ability to run programs in a
+   backward compatibility mode, as well as a command program which is more
+   like a 9x "Dos Box" than CMD, XP still has trouble running many old DOS
+   programs. This is largly due to the fact that it is NT based and does
+   not use DOS as a base OS. There are work arounds such as the open
+   source DOSBox and FreeDOS.
+
+Product activation
+
+   While product activation and licensing servers are common for business
+   and industrial software (especially software sold on a per-user basis
+   for large sums of money), Windows XP gave many casual computer users
+   their first introduction to it. The system was introduced by Microsoft
+   to curb unauthorized distribution of Windows XP. Activation requires
+   the computer or the user to activate with Microsoft within a certain
+   amount of time in order to continue using the operating system. If the
+   user's computer system ever changes — for example, if two or more
+   relevant components of the computer itself are upgraded — Windows may
+   refuse to run until the user reactivates with Microsoft.
+
+Copying restrictions
+
+   Microsoft Windows XP service packs are designed so that they will not
+   install on computers running installations of Windows XP that use
+   product keys known to be widely used in unauthorized installations.
+   These product keys are unique to each boxed (or bundled) copy of
+   Windows XP and are included with the product documentation, but a small
+   number of product keys have been posted on the Internet and are used
+   for a large number of unauthorized installations. The service packs
+   contain a list of these keys and will not update copies of Windows XP
+   that use them.
+
+   Microsoft developed a new key verification engine for Windows XP
+   Service Pack 2 that could detect illicit keys, even those that had
+   never been used before. After an outcry from security consultants who
+   feared that denying security updates to illegal installations of
+   Windows XP would have wide-ranging consequences even for legal owners,
+   Microsoft elected to disable the new key verification engine. Service
+   Pack 2 only checks for the same small list of commonly used keys as
+   Service Pack 1. This means that while Service Pack 2 will not install
+   on copies of Windows XP which use the older set of copied keys, those
+   who use keys which have been posted more recently may be able to update
+   their systems.
+
+Windows Genuine Advantage Notifications
+
+   Windows Genuine Advantage Notifications is a utility that checks the
+   legitimacy of a Windows XP license. If the license key is judged not
+   genuine, it displays a nag screen at regular intervals asking the user
+   to buy a license from Microsoft. In addition, the user's access to
+   Microsoft Update is restricted to critical security updates, and as
+   such, new versions of DirectX, Windows Defender, Internet Explorer and
+   other Microsoft products will refuse to install.
+
+   The download is itself marked as a "Critical Security Update", causing
+   Automatic Updates to download it without user intervention. However,
+   unlike most critical updates, the Notifications component does not
+   install automatically; you must accept the supplemental EULA provided
+   before it can install.
+
+   Once installed, WGA Notifications "phones home" to Microsoft every time
+   the computer is connected to the Internet. This behaviour has been
+   criticized by users claiming the program to be spyware for these
+   reasons, and by others claiming that they have a licensed copy of
+   Windows that WGA Notifications mistakenly identified as a pirate copy
+   and damaged.
+
+   While in the testing phase, Microsoft did not include an uninstallation
+   utility, but rather gave the user manual removal instructions that do
+   not work with the final build.
+
+   Strictly speaking, neither the download nor the install of the
+   Notifications is mandatory; the user can change their Automatic Update
+   settings to allow them to choose what updates may be downloaded for
+   installation. If the update is already downloaded, the user can choose
+   not to accept the supplemental EULA provided for the Notifications. In
+   both cases, the user can also request that the update is not presented
+   again.
+
+   As of 2006, Microsoft is currently involved in a class action lawsuit
+   brought forth in California, on grounds that it violated the spyware
+   laws in the state with its Windows Genuine Advantage Notifications
+   program .
+
+   Retrieved from " http://en.wikipedia.org/wiki/Windows_XP"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,603 @@
+   #copyright
+
+Plasma (physics)
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   A plasma lamp, illustrating some of the more complex phenomena of a
+   plasma, including filamentation. The colors are a result of the
+   relaxation of electrons in excited states to lower energy states after
+   they have recombined with ions. These processes emit light in a
+   spectrum characteristic of the gas being excited.
+   Enlarge
+   A plasma lamp, illustrating some of the more complex phenomena of a
+   plasma, including filamentation. The colors are a result of the
+   relaxation of electrons in excited states to lower energy states after
+   they have recombined with ions. These processes emit light in a
+   spectrum characteristic of the gas being excited.
+
+   In physics and chemistry, a plasma is typically an ionized gas, and is
+   usually considered to be a distinct phase of matter in contrast to
+   solids, liquids, and gases because of its unique properties. " Ionized"
+   means that at least one electron has been dissociated from a proportion
+   of the atoms or molecules. The free electric charges make the plasma
+   electrically conductive so that it responds strongly to electromagnetic
+   fields.
+
+   This fourth state of matter was first identified in a discharge tube
+   (or Crookes tube), and so described by Sir William Crookes in 1879 (he
+   called it "radiant matter"). The nature of the Crookes tube " cathode
+   ray" matter was subsequently identified by British physicist Sir J.J.
+   Thomson in 1897, and dubbed "plasma" by Irving Langmuir in 1928 ,
+   perhaps because it reminded him of a blood plasma . Langmuir wrote:
+
+          "Except near the electrodes, where there are sheaths containing
+          very few electrons, the ionized gas contains ions and electrons
+          in about equal numbers so that the resultant space charge is
+          very small. We shall use the name plasma to describe this region
+          containing balanced charges of ions and electrons."
+
+   Plasma typically takes the form of neutral gas-like clouds or charged
+   ion beams, but may also include dust and grains (called dusty plasmas).
+   They are typically formed by heating and ionizing a gas, stripping
+   electrons away from atoms, thereby enabling the positive and negative
+   charges to move freely.
+
+Common plasmas
+
+   Plasmas are the most common phase of matter. Some estimates suggest
+   that up to 99% of the entire visible universe is plasma. Since the
+   space between the stars is filled with a plasma, albeit a very sparse
+   one (see interstellar medium and intergalactic space), essentially the
+   entire volume of the universe is plasma (see astrophysical plasmas). In
+   the solar system, the planet Jupiter accounts for most of the
+   non-plasma, only about 0.1% of the mass and 10^−15% of the volume
+   within the orbit of Pluto. Notable plasma physicist Hannes Alfvén also
+   noted that due to their electric charge, very small grains also behave
+   as ions and form part of plasma (see dusty plasmas).
+                   Common forms of plasma include
+
+                        Artificially produced plasma
+
+     * Those found in plasma displays and TVs
+     * Inside fluorescent lamps (low energy lighting), neon signs
+     * Rocket exhaust
+     * The area in front of a spacecraft's heat shield during reentry into
+       the atmosphere
+     * Fusion energy research
+     * The electric arc in an arc lamp, an arc welder or plasma torch
+     * Plasma ball (sometimes called a plasma sphere or plasma globe)
+     * Plasma used to etch dielectric layers in the production of
+       integrated circuits
+
+   Terrestrial plasmas
+
+     * Lightning
+     * Ball lightning
+     * St. Elmo's fire
+     * Sprites, elves, jets
+     * The ionosphere
+     * The polar aurorae
+
+   Space and astrophysical plasmas
+
+     * The Sun and other stars
+       (which are plasmas heated by nuclear fusion)
+     * The solar wind
+     * The interplanetary medium
+       (the space between the planets)
+     * The interstellar medium
+       (the space between star systems)
+     * The Intergalactic medium
+       (the space between galaxies)
+     * The Io-Jupiter flux-tube
+     * Accretion disks
+     * Interstellar nebulae
+
+Plasma properties and parameters
+
+   The Earth's "plasma fountain", showing oxygen, helium, and hydrogen
+   ions that gush into space from regions near the Earth's poles. The
+   faint yellow area shown above the north pole represents gas lost from
+   Earth into space; the green area is the aurora borealis-or plasma
+   energy pouring back into the atmosphere.
+   Enlarge
+   The Earth's " plasma fountain", showing oxygen, helium, and hydrogen
+   ions that gush into space from regions near the Earth's poles. The
+   faint yellow area shown above the north pole represents gas lost from
+   Earth into space; the green area is the aurora borealis-or plasma
+   energy pouring back into the atmosphere.
+
+   Plasma properties are strongly dependent on the bulk (or average)
+   parameters. Some of the most important plasma parameters are the degree
+   of ionization, the plasma temperature, the density and the magnetic
+   field in the plasma region. We explain these parameters, and then
+   describe how plasmas interact with electric and magnetic fields and
+   outline the qualitative differences between plasmas and gases.
+
+Definition of a plasma
+
+   Although a plasma is loosely described as an electrically neutral
+   medium of positive and negative particles, a more rigorous definition
+   requires three criteria to be satisfied:
+    1. The plasma approximation: Charged particles must be close enough
+       together that each particle influences many nearby charged
+       particles, rather than just the interacting with the closest
+       particle (these collective effects are a distinguishing feature of
+       a plasma). The plasma approximation is valid when the number of
+       electrons within the sphere of influence (called the Debye sphere
+       whose radius is the Debye (screening) length) of a particular
+       particle is large. The average number of particles in the Debye
+       sphere is given by the plasma parameter, Λ.
+    2. Bulk interactions: The Debye screening length (defined above) is
+       short compared to the physical size of the plasma. This criterion
+       means that interactions in the bulk of the plasma are more
+       important than those at its edges, where boundary effects may take
+       place.
+    3. Plasma frequency: The electron plasma frequency (measuring plasma
+       oscillations of the electrons) is large compared to the
+       electron-neutral collision frequency (measuring frequency of
+       collisions between electrons and neutral particles). When this
+       condition is valid, plasmas act to shield charges very rapidly
+       (quasineutrality is another defining property of plasmas).
+
+Ranges of plasma parameters
+
+   Plasma parameters can take on values varying by many orders of
+   magnitude, but the properties of plasmas with apparently disparate
+   parameters may be very similar (see plasma scaling). The following
+   chart considers only conventional atomic plasmas and not exotic
+   phenomena like quark gluon plasmas:
+       Typical ranges of plasma parameters: orders of magnitude (OOM)
+              Characteristic Terrestrial plasmas Cosmic plasmas
+   Size
+   in metres 10^−6 m (lab plasmas) to
+   10^2 m (lightning) (~8 OOM) 10^−6 m (spacecraft sheath) to
+   10^25 m (intergalactic nebula) (~31 OOM)
+   Lifetime
+   in seconds 10^−12 s (laser-produced plasma) to
+   10^7 s (fluorescent lights) (~19 OOM) 10^1 s (solar flares) to
+   10^17 s (intergalactic plasma) (~17 OOM)
+   Density
+   in particles per
+   cubic metre 10^7 m^-3 to
+   10^32 m^-3 (inertial confinement plasma) 10^0 (i.e., 1) m^-3
+   (intergalactic medium) to
+   10^30 m^-3 (stellar core)
+   Temperature
+   in kelvins ~0 K (crystalline non-neutral plasma) to
+   10^8 K (magnetic fusion plasma) 10^2 K (aurora) to
+   10^7 K (solar core)
+   Magnetic fields
+   in teslas 10^−4 T (lab plasma) to
+   10^3 T (pulsed-power plasma) 10^−12 T (intergalactic medium) to
+   10^11 T (near neutron stars)
+
+Degree of ionization
+
+   For plasma to exist, ionization is necessary. The degree of ionization
+   of a plasma is the proportion of atoms which have lost (or gained)
+   electrons, and is controlled mostly by the temperature. Even a
+   partially ionized gas in which as little as 1% of the particles are
+   ionized can have the characteristics of a plasma (i.e. respond to
+   magnetic fields and be highly electrically conductive). The degree of
+   ionization, α is defined as α = n[i]/(n[i] + n[a]) where n[i] is the
+   number density of ions and n[a] is the number density of neutral atoms.
+
+Temperatures
+
+   A candle flame. Fire can be considered to be a low temperature partial
+   plasma.
+   Enlarge
+   A candle flame. Fire can be considered to be a low temperature partial
+   plasma.
+
+   Plasma temperature is commonly measured in Kelvin or electron volts,
+   and is (roughly speaking) a measure of the thermal kinetic energy per
+   particle. In most cases the electrons are close enough to thermal
+   equilibrium that their temperature is relatively well-defined, even
+   when there is a significant deviation from a Maxwellian energy
+   distribution function, for example due to UV radiation, energetic
+   particles, or strong electric fields. Because of the large difference
+   in mass, the electrons come to thermodynamic equilibrium among
+   themselves much faster than they come into equilibrium with the ions or
+   neutral atoms. For this reason the ion temperature may be very
+   different from (usually lower than) the electron temperature. This is
+   especially common in weakly ionized technological plasmas, where the
+   ions are often near the ambient temperature.
+
+   Based on the relative temperatures of the electrons, ions and neutrals,
+   plasmas are classified as thermal or non-thermal. Thermal plasmas have
+   electrons and the heavy particles at the same temperature i.e. they are
+   in thermal equilibrium with each other. Non thermal plasmas on the
+   other hand have the ions and neutrals at a much lower temperature
+   (normally room temperature) whereas electrons are much "hotter".
+
+   Temperature controls the degree of plasma ionization. In particular,
+   plasma ionization is determined by the electron temperature relative to
+   the ionization energy (and more weakly by the density) in accordance
+   with the Saha equation. A plasma is sometimes referred to as being hot
+   if it is nearly fully ionized, or cold if only a small fraction (for
+   example 1%) of the gas molecules are ionized (but other definitions of
+   the terms hot plasma and cold plasma are common). Even in a "cold"
+   plasma the electron temperature is still typically several thousand
+   degrees Celsius. Plasmas utilized in plasma technology ("technological
+   plasmas") are usually cold in this sense.
+
+Densities
+
+   Next to the temperature, which is of fundamental importance for the
+   very existence of a plasma, the most important property is the density.
+   The word "plasma density" by itself usually refers to the electron
+   density, that is, the number of free electrons per unit volume. The ion
+   density is related to this by the average charge state \langle Z\rangle
+   of the ions through n_e=\langle Z\rangle n_i . (See quasineutrality
+   below.) The third important quantity is the density of neutrals n[0].
+   In a hot plasma this is small, but may still determine important
+   physics. The degree of ionization is n[i] / (n[0] + n[i]).
+
+Potentials
+
+   Lightning is an example of plasma present at Earth's surface.
+   Typically, lightning discharges 30,000 amperes, at up to 100 million
+   volts, and emits light, radio waves, x-rays and even gamma rays .
+   Plasma temperatures in lightning can approach 28,000 Kelvin and
+   electron densities may exceed 1024/m3.
+   Enlarge
+   Lightning is an example of plasma present at Earth's surface.
+   Typically, lightning discharges 30,000 amperes, at up to 100 million
+   volts, and emits light, radio waves, x-rays and even gamma rays .
+   Plasma temperatures in lightning can approach 28,000 Kelvin and
+   electron densities may exceed 10^24/m^3.
+
+   Since plasmas are very good conductors, electric potentials play an
+   important role. The potential as it exists on average in the space
+   between charged particles, independent of the question of how it can be
+   measured, is called the plasma potential or the space potential. If an
+   electrode is inserted into a plasma, its potential will generally lie
+   considerably below the plasma potential due to the development of a
+   Debye sheath. Due to the good electrical conductivity, the electric
+   fields in plasmas tend to be very small. This results in the important
+   concept of quasineutrality, which says that it is a very good
+   approximation to assume that the density of negative charges is equal
+   to the density of positive charges over large volumes of the plasma (
+   n_e=\langle Z\rangle n_i ), but on the scale of the Debye length there
+   can be charge imbalance. In the special case that double layers are
+   formed, the charge separation can extend some tens of Debye lengths.
+
+   The magnitude of the potentials and electric fields must be determined
+   by means other than simply finding the net charge density. A common
+   example is to assume that the electrons satisfy the Boltzmann relation:
+
+          n_e \propto e^{e\Phi/k_BT_e} .
+
+   Differentiating this relation provides a means to calculate the
+   electric field from the density:
+
+          \vec{E} = (k_BT_e/e)(\nabla n_e/n_e) .
+
+   It is, of course, possible to produce a plasma that is not
+   quasineutral. An electron beam, for example, has only negative charges.
+   The density of a non-neutral plasma must generally be very low, or it
+   must be very small, otherwise it will be dissipated by the repulsive
+   electrostatic force.
+
+   In astrophysical plasmas, Debye screening prevents electric fields from
+   directly affecting the plasma over large distances (ie. greater than
+   the Debye length). But the existence of charged particles causes the
+   plasma to generate and be affected by magnetic fields. This can and
+   does cause extremely complex behaviour, such as the generation of
+   plasma double layers, an object that separates charge over a few tens
+   of Debye lengths. The dynamics of plasmas interacting with external and
+   self-generated magnetic fields are studied in the academic discipline
+   of magnetohydrodynamics.
+
+Magnetization
+
+   A plasma in which the magnetic field is strong enough to influence the
+   motion of the charged particles is said to be magnetized. A common
+   quantitative criterion is that a particle on average completes at least
+   one gyration around the magnetic field before making a collision (ie.
+   ω[ce] / ν[coll] > 1 where ω[ce] is the "electron gyrofrequency" and
+   ν[coll] is the "electron collision rate"). It is often the case that
+   the electrons are magnetized while the ions are not. Magnetized plasmas
+   are anisotropic, meaning that their properties in the direction
+   parallel to the magnetic field are different from those perpendicular
+   to it. While electric fields in plasmas are usually small due to the
+   high conductivity, the electric field associated with a plasma moving
+   in a magnetic field is given by E = -V x B (where E is the electric
+   field, V is the velocity, and B is the magnetic field), and is not
+   affected by Debye shielding.
+
+Comparison of plasma and gas phases
+
+   Plasma is often called the fourth state of matter. It is distinct from
+   the three lower-energy phases of matter; solid, liquid, and gas,
+   although it is closely related to the gas phase in that it also has no
+   definite form or volume. There is still some disagreement as to whether
+   a plasma is a distinct state of matter or simply a type of gas. Most
+   physicists consider a plasma to be more than a gas because of a number
+   of distinct properties including the following:
+                             Property Gas Plasma
+   Electrical Conductivity Very low
+
+          The air is quite a good insulator, as demonstrated by high
+          voltage electric power transmission where wires typically carry
+          110,000 volts. High voltages may lead to electrical breakdown,
+          as can lower pressures in fluorescent lights and neon signs
+
+   Very high
+    a. For many purposes the electric field in a plasma may be treated as
+       zero, although when current flows the voltage drop, though small,
+       is finite, and density gradients are usually associated with an
+       electric field according to the Boltzmann relation.
+    b. Any electric currents in the plasma "couple" (ie., connect and
+       influence) strongly to magnetic fields, resulting in a large
+       variety of structures such as filaments, sheets, and jets.
+    c. Collective phenomena are common because the electric and magnetic
+       forces are both long-range and potentially many orders of magnitude
+       stronger than gravitational forces.
+
+   Independently acting species One
+
+          All gas particles behave in a similar way, influenced by
+          gravity, and collisions with one another
+
+   Two or three
+   Electrons, ions, and neutrals can be distinguished by the sign of their
+   charge so that they behave independently in many circumstances, having
+   different velocities or even different temperatures, leading to
+   phenomenon such as new types of waves and instabilities
+   Velocity distribution
+   Maxwellian
+
+          The velocity distribution of all gas particles has a
+          characteristic shape:
+
+   May be non-Maxwellian
+   Whereas collisional interactions always lead to a Maxwellian velocity
+   distribution, electric fields influence the particle velocities
+   differently. The velocity dependence of the Coulomb collision cross
+   section can amplify these differences, resulting in phenomena like
+   two-temperature distributions and run-away electrons.
+   Interactions Binary
+   Two-particle collisions are the rule, three-body collisions extremely
+   rare. Collective
+   Each particle interacts simultaneously with many others. These
+   collective interactions are about ten times more important than binary
+   collisions.
+
+Complex plasma phenomena
+
+   The remnant of Tycho's Supernova, a huge ball of expanding plasma. The
+   blue outer shell arises from X-ray emission by high-speed electrons.
+   Enlarge
+   The remnant of Tycho's Supernova, a huge ball of expanding plasma. The
+   blue outer shell arises from X-ray emission by high-speed electrons.
+
+   Although the underlying equations governing plasmas are relatively
+   simple, plasma behaviour is extraordinarily varied and subtle: the
+   emergence of unexpected behaviour from a simple model is a typical
+   feature of a complex system. Such systems lie in some sense on the
+   boundary between ordered and disordered behaviour, and cannot typically
+   be described either by simple, smooth, mathematical functions, or by
+   pure randomness. The spontaneous formation of interesting spatial
+   features on a wide range of length scales is one manifestation of
+   plasma complexity. The features are interesting, for example, because
+   they are very sharp, spatially intermittent (the distance between
+   features is much larger than the features themselves), or have a
+   fractal form. Many of these features were first studied in the
+   laboratory, and have subsequently been recognised throughout the
+   universe. Examples of complexity and complex structures in plasmas
+   include:
+
+Filamentation
+
+   The striations or "stringy" things, seen in many plasmas, like the
+   plasma ball (image above), the aurora, lightning, electric arcs, solar
+   flares, and supernova remnants They are sometimes associated with
+   larger current densities, and are also called magnetic ropes,. (See
+   also Plasma pinch)
+
+Shocks or double layers
+
+   Narrow sheets with sharp gradients, such as shocks or double layers
+   which support rapid changes in plasma properties. Double layers involve
+   localised charge separation, which causes a large potential difference
+   across the layer, but does not generate an electric field outside the
+   layer. Double layers separate adjacent plasma regions with different
+   physical characteristics, and are often found in current carrying
+   plasmas. They accelerate both ions and electrons.
+   A schematic representation of the Heliospheric current sheet, the
+   largest structure in the Solar System, resulting from the influence of
+   the Sun's rotating magnetic field on the plasma in the interplanetary
+   medium (Solar Wind). It is sometimes informally refered to as the
+   'Ballerina Skirt' model. . Enlarge
+   A schematic representation of the Heliospheric current sheet, the
+   largest structure in the Solar System, resulting from the influence of
+   the Sun's rotating magnetic field on the plasma in the interplanetary
+   medium ( Solar Wind). It is sometimes informally refered to as the
+   'Ballerina Skirt' model. .
+
+Electric fields and circuits
+
+   Quasineutrality of a plasma requires that plasma currents close on
+   themselves in electric circuits. Such circuits follow Kirchhoff's
+   circuit laws, and possess a resistance and inductance. These circuits
+   must generally be treated as a strongly coupled system, with the
+   behaviour in each plasma region dependent on the entire circuit. It is
+   this strong coupling between system elements, together with
+   nonlinearity, which may lead to complex behaviour. Electrical circuits
+   in plasmas store inductive (magnetic) energy, and should the circuit be
+   disrupted, for example, by a plasma instability, the inductive energy
+   will be released as plasma heating and acceleration. This is a common
+   explanation for the heating which takes place in the solar corona.
+   Electric currents, and in particular, magnetic-field-aligned electric
+   currents (which are sometimes generically referred to as Birkeland
+   currents), are also observed in the Earth's aurora, and in plasma
+   filaments.
+
+Cellular structure
+
+   Narrow sheets with sharp gradients may separate regions with different
+   properties such as magnetization, density, and temperature, resulting
+   in cell-like regions. Examples include the magnetosphere, heliosphere,
+   and heliospheric current sheet. Hannes Alfvén wrote: ""From the
+   cosmological point of view, the most important new space research
+   discovery is probably the cellular structure of space. As has been
+   seen, in every region of space which is accessible to in situ
+   measurements, there are a number of `cell walls', sheets of electric
+   currents, which divide space into compartments with different
+   magnetization, temperature, density, etc ."
+
+Critical ionization velocity
+
+   The Critical ionization velocity is the relative velocity between an
+   ionized plasma and a neutral gas. It is sufficient to substantially
+   energise any neutrals which lose an electron. This energisation feeds
+   back to cause yet more ionization, and the process can run away, to
+   almost completely ionize the gas. Critical phemonema in general are
+   typical of complex systems, and may lead to sharp spatial or temporal
+   features.
+
+Ultracold plasma
+
+   Saturn's rings in which certain effects have been suggested are due to
+   dusty plasmas (false colour image)
+   Enlarge
+   Saturn's rings in which certain effects have been suggested are due to
+   dusty plasmas (false colour image)
+
+   It is possible to create ultracold plasmas, by using lasers to trap and
+   cool neutral atoms to temperatures of 1 mK lower. Another laser then
+   ionizes the atoms by giving each of the outermost electrons just enough
+   energy to escape the electrical attraction of its parent ion.
+
+   The key point about ultracold plasmas is that by manipulating the atoms
+   with lasers, the kinetic energy of the liberated electrons can be
+   controlled. Using standard pulsed lasers, the electron energy can be
+   made to correspond to a temperature of as low as 0.1 K, a limit set by
+   the frequency bandwidth of the laser pulse. The ions, however, retain
+   the millikelvin temperatures of the neutral atoms. This type of
+   non-equilibrium ultracold plasma evolves rapidly, and many fundamental
+   questions about its behaviour remain unanswered. Experiments conducted
+   so far have revealed surprising dynamics and recombination behaviour
+   that are pushing the limits of our knowledge of plasma physics.
+
+Non-neutral plasma
+
+   The strength and range of the electric force and the good conductivity
+   of plasmas usually ensure that the density of positive and negative
+   charges in any sizeable region are equal ("quasineutrality"). A plasma
+   that has a significant excess of charge density or that is, in the
+   extreme case, composed of only a single species, a called a non-neutral
+   plasma. In such a plasma, electric fields play a dominant role.
+   Examples are charged particle beams, an electron cloud in a Penning
+   trap, and positron plasmas.
+
+Dusty plasma and grain plasma
+
+   A dusty plasma is one containing tiny charged particles of dust
+   (typically found in space) that also behaves like a plasma. A plasma
+   containing larger particles is called a grain plasma.
+
+Mathematical descriptions
+
+   To completely describe the state of a plasma, we would need to write
+   down all the particle locations and velocities, and describe the
+   electromagnetic field in the plasma region. However, it is generally
+   not practical or necessary to keep track of all the particles in a
+   plasma. Therefore, plasma physicists commonly use less detailed
+   descriptions known as models, of which there are two main types:
+
+Fluid model
+
+   Fluid models describe plasmas in terms of smoothed quantities like
+   density and averaged velocity around each position (see Plasma
+   parameters). One simple fluid model, magnetohydrodynamics, treats the
+   plasma as a single fluid governed by a combination of Maxwell's
+   Equations and the Navier Stokes Equations. A more general description
+   is the two-fluid picture, where the ions and electrons are described
+   separately. Fluid models are often accurate when collisionality is
+   sufficiently high to keep the plasma velocity distribution close to a
+   Maxwell-Boltzmann distribution. Because fluid models usually describe
+   the plasma in terms of a single flow at a certain temperature at each
+   spatial location, they can neither capture velocity space structures
+   like beams or double layers nor resolve wave-particle effects.
+
+Kinetic model
+
+   Kinetic models describe the particle velocity distribution function at
+   each point in the plasma, and therefore do not need to assume a
+   Maxwell-Boltzmann distribution. A kinetic description is often
+   necessary for collisionless plasmas. There are two common approaches to
+   kinetic description of a plasma. One is based on representing the
+   smoothed distribution function on a grid in velocity and position. The
+   other, known as the particle-in-cell (PIC) technique, includes kinetic
+   information by following the trajectories of a large number of
+   individual particles. Kinetic models are generally more computationally
+   intensive than fluid models. The Vlasov equation may be used to
+   describe how a system of particles evolves in an electromagnetic
+   environment.
+
+Fields of active research
+
+   Hall effect thruster. The electric field in a plasma double layer is so
+   effective at accelerating ions, that electric fields are used in ion
+   drives
+   Enlarge
+   Hall effect thruster. The electric field in a plasma double layer is so
+   effective at accelerating ions, that electric fields are used in ion
+   drives
+
+   This is just a partial list of topics. A more complete and organized
+   list can be found on the Web site for Plasma science and technology .
+     * Plasma theory
+          + Plasma equilibria and stability
+          + Plasma interactions with waves and beams
+          + Guiding centre
+          + Adiabatic invariant
+          + Debye sheath
+          + Coulomb collision
+     * Plasmas in nature
+          + The Earth's ionosphere
+          + Space plasmas, e.g. Earth's plasmasphere (an inner portion of
+            the magnetosphere dense with plasma)
+          + Plasma cosmology
+          + Plasma Astronomy
+          + Industrial plasmas
+               o Plasma chemistry
+               o Plasma processing
+               o Vacuum plasmaspraying
+               o Plasma display
+
+     * Plasma sources
+     * Dusty Plasmas
+     * Plasma diagnostics
+          + Thomson scattering
+          + Langmuir probe
+          + Spectroscopy
+          + Interferometry
+          + Ionospheric heating
+          + Incoherent scatter radar
+     * Plasma applications
+          + Fusion power
+               o Magnetic fusion energy (MFE) — tokamak, stellarator,
+                 reversed field pinch, magnetic mirror, dense plasma focus
+               o Inertial fusion energy (IFE) (also Inertial confinement
+                 fusion — ICF)
+               o Plasma-based weaponry
+          + Food processing ( Nonthermal plasma)
+
+Pop. culture
+
+     * Plasma is often the discharge of rayguns
+     * The Metroid series often has a plasma-based weapon, except in
+       Echoes, where it was replaced by a laser based weapon, which
+       behaved like plasma.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Plasma_%28physics%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

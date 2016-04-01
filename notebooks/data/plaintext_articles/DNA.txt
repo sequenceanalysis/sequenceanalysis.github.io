@@ -1,0 +1,571 @@
+   #copyright
+
+DNA
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   The general structure of a section of DNA
+   Enlarge
+   The general structure of a section of DNA
+
+   Deoxyribonucleic acid (DNA) is a nucleic acid that contains the genetic
+   instructions for the biological development of a cellular form of life
+   or a virus. All known cellular life and some viruses have DNA. DNA is a
+   long polymer of nucleotides (a polynucleotide) that encodes the
+   sequence of amino acid residues in proteins, using the genetic code.
+
+Inheritance of DNA
+
+   DNA is responsible for the genetic propagation of most inherited
+   traits. In humans, these traits range from hair colour to disease
+   susceptibility. The genetic information encoded by an organism's DNA is
+   called its genome. During cell division, DNA is replicated, and during
+   reproduction is transmitted to offspring.
+
+   In eukaryotic cells, such as those of plants, animals, fungi and
+   protists, most of the DNA is located in the cell nucleus, and each DNA
+   molecule is usually packed into a chromosome that are passed to
+   daughter cells during cell division. By contrast, in simpler cells
+   called prokaryotes, including the eubacteria and archaea, DNA is found
+   directly in the cytoplasm (not separated by a nuclear envelope) and is
+   circular. The cellular organelles known as chloroplasts and
+   mitochondria also carry DNA. DNA is thought to have originated
+   approximately 3.5 to 4.6 billion years ago.
+
+   In humans, the mother's mitochondrial DNA together with 23 chromosomes
+   from each parent combine to form the genome of a zygote, the fertilized
+   egg. As a result, with certain exceptions such as red blood cells, most
+   human cells contain 23 pairs of chromosomes, together with
+   mitochondrial DNA inherited from the mother. Lineage studies can be
+   done because mitochondrial DNA only comes from the mother, and the Y
+   chromosome only comes from the father.
+   Animation of a section of DNA rotating.
+   Animation of a section of DNA rotating.
+   DNA base pairing
+   Enlarge
+   DNA base pairing
+
+Replication
+
+   DNA replication
+   DNA replication
+
+   The double-stranded structure of DNA provides a mechanism for DNA
+   replication: the two strands are separated, and then each strand's
+   complement is recreated by exposing the strand to a mixture of the four
+   bases. An enzyme makes the complement strand by finding the correct
+   base in the mixture and bonding it with the original strand. In this
+   way, the base on the old strand dictates which base appears on the new
+   strand, and the cell ends up with an extra copy of its DNA.
+
+Physical and chemical properties
+
+   Comparisons between DNA and single stranded RNA with the diagram of the
+   bases showing.
+   Enlarge
+   Comparisons between DNA and single stranded RNA with the diagram of the
+   bases showing.
+
+Molecular structure
+
+   Although sometimes called "the molecule of heredity", DNA
+   macromolecules as people typically think of them are not single
+   molecules. Rather, they are pairs of molecules, which entwine like
+   vines, in the shape of a double helix (see the illustration at the
+   right).
+
+   DNA consists of a pair of molecules, organized as strands running
+   start-to-end and joined by hydrogen bonds along their lengths. Each
+   strand is a chain of chemical "building blocks", called nucleotides, of
+   which there are four types: adenine (abbreviated A), cytosine (C),
+   guanine (G) and thymine (T). (Thymine should not be confused with
+   thiamine, which is vitamin B[1].) The DNA of some organisms, most
+   notably of the PBS1 phage, have Uracil (U) instead of T.
+
+   Each strand of DNA is a covalently linked chain of nucleotides, with
+   alternating sugar ( deoxyribose)- phosphates forming the "backbone" for
+   the nucleobases ("bases"). The negatively-charged phosphate groups
+   between each deoxyribose make DNA an acid in solution and allow DNA
+   molecules of different sizes to be separated by electrophoresis.
+   Because DNA strands are composed of these nucleotide subunits, they are
+   polymers. The major difference between DNA and RNA is the sugar,
+   2-deoxyribose in DNA and ribose in RNA.
+
+Base pairing
+
+   DNA is composed of 4 bases: adenine (A), thymine (T), cytosine (C), and
+   guanine (G). Uracil (U), is rarely found in DNA except as a result of
+   chemical degradation of Cytosine, but the DNA of some viruses (notably
+   PBS1 phage DNA) and RNA (Ribonucleic Acid), has Uracil instead of
+   Thymine.
+
+   Each base on one strand forms a bond with just one kind of base on
+   another strand, called a "complementary" base: A bonds with T, and C
+   bonds with G. Therefore, the whole double-strand sequence can be
+   described by the sequence on one of the strands, chosen by convention.
+   Two nucleotides paired together are called a base pair.
+
+   In a DNA double helix, two polynucleotide strands can associate through
+   the hydrophobic effect and pi stacking. Which strands associate depends
+   on complementary pairing. Each base forms hydrogen bonds readily to
+   only one other base, A to T forming two hydrogen bonds, and C to G
+   forming three hydrogen bonds. The GC content and length of each DNA
+   molcule dictates the strength of the association; the more
+   complementary bases exist, the stronger and longer-lasting the
+   association, characterised by the temperature required to break the
+   hydrogen bond, its melting temperature (also called T[m] value)).
+   The chemical structure of DNA
+   Enlarge
+   The chemical structure of DNA
+
+Strand direction
+
+   The asymmetric shape and linkage of nucleotides means that a DNA strand
+   always has a discernible orientation or directionality. Inspection of a
+   double helix reveals that the direction of the nucleotides in one
+   strand is opposite to their direction in the other strand. This
+   arrangement of the strands is called antiparallel.
+
+   Chemical nomenclature ( 5' and 3')
+
+   The assymetric "ends" of the DNA bases are referred to as 5' (five
+   prime) and 3' (three prime). Within the nucleus, the enzymes that
+   perform replication and transcription read the DNA template in the "3'
+   to 5' direction", although this directional reading should not be
+   assumed in other cases. In a vertically oriented double helix, the 3'
+   strand is said to be ascending while the 5' strand is said to be
+   descending.
+
+   Sense and antisense
+
+   As a result of their antiparallel arrangement and the sequence-reading
+   preferences of enzymes, even if both strands carried identical instead
+   of complementary sequences, cells could properly translate only one of
+   them. The other strand a cell can only read backwards. Molecular
+   biologists call a sequence "sense" if it is translated or translatable,
+   and they call its complement "antisense". It follows then, somewhat
+   paradoxically, that the template for transcription is the antisense
+   strand. The resulting transcript is an RNA replica of the sense strand
+   and is itself sense.
+
+   A small proportion of genes in prokaryotes, and more in plasmids and
+   viruses, blur the distinction made above between sense and antisense
+   strands. Certain sequences of their genomes do double duty, encoding
+   one protein when read 5' to 3' along one strand, and a second protein
+   when read in the opposite direction (still 5' to 3') along the other
+   strand. As a result, the genomes of these viruses are unusually compact
+   for the number of genes they contain, which biologists view as an
+   adaptation. This merely confirms that there is no biological
+   distinction between the two strands of the double helix. Typically each
+   strand of a DNA double helix will act as sense and antisense in
+   different regions.
+
+Single-stranded DNA
+
+   In some viruses DNA appears in a non-helical, single-stranded form.
+   Because many of the DNA repair mechanisms of cells work only on paired
+   bases, viruses that carry single-stranded DNA genomes mutate more
+   frequently than they would otherwise. As a result, such species may
+   adapt more rapidly to avoid extinction. The result would not be so
+   favorable in more complicated and more slowly replicating organisms,
+   however, which may explain why only viruses carry single-stranded DNA.
+   These viruses presumably also benefit from the lower cost of
+   replicating one strand versus two.
+
+   For further discussion of the physical structure of DNA see Mechanical
+   properties of DNA.
+
+DNA sequence
+
+   DNA contains the genetic information, that is inherited by the
+   offspring of an organism. This information is determined by the
+   sequence of base pairs along its length. A strand of DNA contains
+   genes, areas that regulate genes, and areas that either have no
+   function, or a function yet unknown. Genes are the units of heredity
+   and can be loosely viewed as the organism's "cookbook" or "blueprint".
+   DNA is often referred to as the molecule of heredity.
+
+The genetic code
+
+   Within a gene, the sequence of nucleotides along a DNA strand defines a
+   messenger RNA sequence which then defines a protein, that an organism
+   is liable to manufacture or " express" at one or several points in its
+   life using the information of the sequence. The relationship between
+   the nucleotide sequence and the amino-acid sequence of the protein is
+   determined by simple cellular rules of translation, known collectively
+   as the genetic code. The genetic code consists of three-letter 'words'
+   (termed a codon) formed from a sequence of three nucleotides (e.g. ACT,
+   CAG, TTT). These codons can then be translated with messenger RNA and
+   then transfer RNA, with a codon corresponding to a particular amino
+   acid. There are 64 possible codons (4 bases in 3 places 4^3) that
+   encode 20 amino acids. Most amino acids, therefore, have more than one
+   possible codon. There are also three 'stop' or 'nonsense' codons
+   signifying the end of the coding region, namely the UAA, UGA and UAG
+   codons.
+
+Non-coding DNA
+
+   In many species, only a small fraction of the total sequence of the
+   genome appears to encode protein. For example, only about 1.5% of the
+   human genome consists of protein-coding exons. The function of the rest
+   is a matter of speculation. It is known that certain nucleotide
+   sequences specify affinity for DNA binding proteins, which play a wide
+   variety of vital roles, in particular through control of replication
+   and transcription. These sequences are frequently called regulatory
+   sequences, and researchers assume that so far they have identified only
+   a tiny fraction of the total that exist. " Junk DNA" represents
+   sequences that do not yet appear to contain genes or to have a
+   function. The reasons for the presence of so much non-coding DNA in
+   eukaryotic genomes and the extraordinary differences in genome size ("
+   C-value") among species represent a long-standing puzzle in DNA
+   research known as the " C-value enigma".
+
+   Some DNA sequences play structural roles in chromosomes. Telomeres and
+   centromeres typically contain few (if any) protein-coding genes, but
+   are important for the function and stability of chromosomes. Some genes
+   code for "RNA genes" (see tRNA and rRNA). Some RNA genes code for
+   transcripts that function as regulatory RNAs (see siRNA) that influence
+   the function of other RNA molecules. The intron-exon structure of some
+   genes (such as immunoglobin and protocadeherin genes) is important for
+   allowing alternative splicing of pre-mRNA which allows several
+   different proteins to be made from the same gene. Indeed, the 34,000
+   human genes encode some 100,000 proteins. Some non-coding DNA
+   represents pseudogenes, which have been hypothesized to serve as raw
+   genetic material for the creation of new genes through the process of
+   gene duplication and divergence. Some non-coding DNA provided hot-spots
+   for duplication of short DNA regions; such sequence duplication has
+   been the major form of genetic change in the human lineage (see
+   evidence from the Chimpanzee Genome Project).
+
+   Sequence also determines a DNA segment's susceptibility to cleavage by
+   restriction enzymes, an important tool in genetic engineering. The
+   position of cleavage sites throughout an individual's genome determines
+   one kind of an individual's " DNA fingerprint".
+
+Mutation
+
+   A cell's machinery separates the DNA double helix, and uses each DNA
+   strand as a template for synthesizing a new strand which is nearly
+   identical to the previous strand. Errors that occur in the synthesis
+   are called mutations. Mutations are the results of the cells' attempts
+   to repair chemical imperfections in this process, where a base is
+   accidentally skipped, inserted, or incorrectly copied, or the chain is
+   trimmed, or added to. On rare occasions, wrong pairing can happen, when
+   thymine goes into its enol form or cytosine goes into its imino form.
+   Mutations can also occur after chemical damage (through mutagens),
+   light (UV damage), or through other more complicated gene swapping
+   events. This process of replication is mimiced in vitro by a process
+   called Polymerase chain reaction (PCR).
+
+The study of DNA
+
+First isolation of DNA
+
+   Working in the 19th century, biochemists initially isolated DNA and RNA
+   (mixed together) from cell nuclei. They were relatively quick to
+   appreciate the polymeric nature of their "nucleic acid" isolates, but
+   realized only later that nucleotides were of two types--one containing
+   ribose and the other deoxyribose. It was this subsequent discovery that
+   led to the identification and naming of DNA as a substance distinct
+   from RNA.
+
+   Friedrich Miescher (1844-1895) discovered a substance he called
+   "nuclein" in 1869. Somewhat later, he isolated a pure sample of the
+   material now known as DNA from the sperm of salmon, and in 1889 his
+   pupil, Richard Altmann, named it "nucleic acid". This substance was
+   found to exist only in the chromosomes.
+
+   In 1929 Phoebus Levene at the Rockefeller Institute identified the
+   components (the four bases, the sugar and the phosphate chain) and he
+   showed that the components of DNA were linked in the order
+   phosphate-sugar-base. He called each of these units a nucleotide and
+   suggested the DNA molecule consisted of a string of nucleotide units
+   linked together through the phosphate groups, which are the 'backbone'
+   of the molecule. However Levene thought the chain was short and that
+   the bases repeated in the same fixed order. Torbjorn Caspersson and
+   Einar Hammersten showed that DNA was a polymer.
+
+Chromosomes and inherited traits
+
+   Max Delbrück, Nikolai V. Timofeeff-Ressovsky, and Karl G. Zimmer
+   published results in 1935 suggesting that chromosomes are very large
+   molecules the structure of which can be changed by treatment with
+   X-rays, and that by so changing their structure it was possible to
+   change the heritable characteristics governed by those chromosomes. In
+   1937 William Astbury produced the first X-ray diffraction patterns from
+   DNA. He was not able to propose the correct structure but the patterns
+   showed that DNA had a regular structure and therefore it might be
+   possible to deduce what this structure was.
+
+   In 1943, Oswald Theodore Avery and a team of scientists discovered that
+   traits proper to the "smooth" form of the Pneumococcus could be
+   transferred to the "rough" form of the same bacteria merely by making
+   the killed "smooth" (S) form available to the live "rough" (R) form.
+   Quite unexpectedly, the living R Pneumococcus bacteria were transformed
+   into a new strain of the S form, and the transferred S characteristics
+   turned out to be heritable. Avery called the medium of transfer of
+   traits the transforming principle; he identified DNA as the
+   transforming principle, and not protein as previously thought. He
+   essentially redid Frederick Griffith's experiment. In 1953, Alfred
+   Hershey and Martha Chase did an experiment ( Hershey-Chase experiment)
+   that showed, in T2 phage, that DNA is the genetic material (Hershey
+   shared the Nobel prize with Luria).
+
+Discovery of the structure of DNA
+
+   In the 1950s, three groups made it their goal to determine the
+   structure of DNA. The first group to start was at King's College London
+   and was led by Maurice Wilkins and was later joined by Rosalind
+   Franklin. Another group consisting of Francis Crick and James D. Watson
+   was at Cambridge. A third group was at Caltech and was led by Linus
+   Pauling. Crick and Watson built physical models using metal rods and
+   balls, in which they incorporated the known chemical structures of the
+   nucleotides, as well as the known position of the linkages joining one
+   nucleotide to the next along the polymer. At King's College Maurice
+   Wilkins and Rosalind Franklin examined X-ray diffraction patterns of
+   DNA fibers. Of the three groups, only the London group was able to
+   produce good quality diffraction patterns and thus produce sufficient
+   quantitative data about the structure.
+
+Helix structure
+
+   In 1948 Pauling discovered that many proteins included helical (see
+   alpha helix) shapes. Pauling had deduced this structure from X-ray
+   patterns and from attempts to physically model the structures. (Pauling
+   was also later to suggest an incorrect three chain helical structure
+   based on Astbury's data.) Even in the initial diffraction data from DNA
+   by Maurice Wilkins, it was evident that the structure involved helices.
+   But this insight was only a beginning. There remained the questions of
+   how many strands came together, whether this number was the same for
+   every helix, whether the bases pointed toward the helical axis or away,
+   and ultimately what were the explicit angles and coordinates of all the
+   bonds and atoms. Such questions motivated the modeling efforts of
+   Watson and Crick.
+
+Complementary nucleotides
+
+   In their modeling, Watson and Crick restricted themselves to what they
+   saw as chemically and biologically reasonable. Still, the breadth of
+   possibilities was very wide. A breakthrough occurred in 1952, when
+   Erwin Chargaff visited Cambridge and inspired Crick with a description
+   of experiments Chargaff had published in 1947. Chargaff had observed
+   that the proportions of the four nucleotides vary between one DNA
+   sample and the next, but that for particular pairs of nucleotides —
+   adenine and thymine, guanine and cytosine — the two nucleotides are
+   always present in equal proportions.
+
+Watson and Crick's model
+
+   Crick and Watson DNA model built in 1953, was reconstructed largely
+   from its original pieces in 1973 and donated to the National Science
+   Museum in London.
+   Enlarge
+   Crick and Watson DNA model built in 1953, was reconstructed largely
+   from its original pieces in 1973 and donated to the National Science
+   Museum in London.
+
+   The discovery that DNA was the carrier of genetic information was a
+   process that required many earlier discoveries. The existence of DNA
+   was discovered in the mid 19th century. However, it was only in the
+   early 20th century that researchers began suggesting that it might
+   store genetic information. This gained almost universal acceptance
+   after the structure of DNA was elucidated by James D. Watson and
+   Francis Crick in their 1953 Nature publication. Watson and Crick
+   proposed the central dogma of molecular biology in 1957, describing the
+   process whereby proteins are produced from nucleic DNA. In 1962 Watson,
+   Crick, and Maurice Wilkins jointly received the Nobel Prize for their
+   determination of the structure of DNA.
+
+   In spite of all this, the prize presented to Watson and Crick was
+   indeed very controversial. In 1951, Rosalind Franklin, a physical
+   chemist working in Paris, was researching DNA's structure at King's
+   College and gave a department lecture on her work at the time on DNA.
+   Watson attended this lecture and initially learned of Franklin's data,
+   but he did not take notes. This led to an initial structure proposed by
+   Watson and Crick, which Franklin refuted when she revealed information
+   that Watson had neglected to write from attending her lecture.
+
+   Watson and Crick had begun to contemplate double helical arrangements,
+   but they lacked information about the amount of twist (pitch) and the
+   distance between the two strands. Rosalind Franklin had to disclose
+   some of her findings for the Medical Research Council and Crick saw
+   this material through Max Perutz's links to the MRC. Franklin's work
+   confirmed that the phosphate "backbone" was on the outside of the
+   molecule and also gave an insight into its symmetry, in particular that
+   the two helical strands ran in opposite directions. In the end,
+   however, it turned out that much of Franklin's data from this MRC
+   report had been presented in that open seminar where Watson had
+   neglected to take notes.
+
+   Watson and Crick were again greatly assisted by more of Franklin's
+   data. This is controversial because Franklin's critical X-ray pattern
+   was shown to Watson and Crick without Franklin's knowledge or
+   permission. Wilkins showed the famous Photo 51 of the much simpler B
+   type of DNA to Watson at his lab immediately after Watson had been
+   unsuccessful in asking Franklin to collaborate to beat Pauling in
+   finding the structure.
+
+   From the data in photograph 51 Watson and Crick were able to discern
+   that not only was the distance between the two strands constant, but
+   also to measure its exact value of 2 nanometres. The same photograph
+   also gave them the 3.4 nanometre-per-10 bp "pitch" of the helix.
+
+   The final insight came when Crick and Watson saw that a complementary
+   pairing of the bases could provide an explanation for Chargaff's
+   puzzling finding. However the structure of the bases had been
+   incorrectly guessed in the textbooks as the enol tautomer when they
+   were more likely to be in the keto form. When Jerry Donohue pointed
+   this fallacy out to Watson, Watson quickly realised that the pairs of
+   adenine and thymine, and guanine and cytosine were almost identical in
+   shape and so would provide equally sized 'rungs' between the two
+   strands. Watson and Crick worked to develop a physical model of the
+   double-helical structure out of wire which they used to confirm that
+   the distances between the molecules were permissible. With the
+   base-pairing, the Watson and Crick quickly converged upon a model,
+   which they announced before Franklin herself had published any of her
+   work.
+
+   The disclosure of Franklin's data to Watson has angered some people who
+   believe Franklin did not receive due credit at the time and that she
+   might have discovered the structure on her own before Crick and Watson.
+   In Crick and Watson's famous paper in Nature in 1953, they said that
+   their work had been stimulated by the work of Wilkins and Franklin,
+   whereas it had been the basis of their work. However they had agreed
+   with Wilkins and Franklin that they all should publish papers in the
+   same issue of Nature in support of the proposed structure.
+   Additionally, in his autobiography, The Double Helix, Watson describes
+   Franklin in very unflattering terms (commenting derisively on her lack
+   of "feminine" traits) and all but implies that her work actually
+   impaired that of Wilkins.
+
+   Franklin died in 1958 and four years later, Watson, Crick and Wilkins
+   won the Nobel Prize for their work on the structure of DNA. Because the
+   Nobel Prize is not awarded posthumously, Franklin could not share in
+   it.
+
+"Central Dogma"
+
+   Watson and Crick's model attracted great interest immediately upon its
+   presentation. Arriving at their conclusion on February 21, 1953, Watson
+   and Crick made their first announcement on February 28. Their paper, A
+   Structure for Deoxyribose Nucleic Acid, was published on April 25. In
+   an influential presentation in 1957, Crick laid out the " Central
+   Dogma", which foretold the relationship between DNA, RNA, and proteins,
+   and articulated the "sequence hypothesis." A critical confirmation of
+   the replication mechanism that was implied by the double-helical
+   structure followed in 1958 in the form of the Meselson-Stahl
+   experiment. Work by Crick and coworkers showed that the genetic code
+   was based on non-overlapping triplets of bases, called codons, and Har
+   Gobind Khorana and others deciphered the genetic code not long
+   afterward. These findings represent the birth of molecular biology.
+
+   Watson, Crick, and Wilkins were awarded the 1962 Nobel Prize for
+   Physiology or Medicine for discovering the molecular structure of DNA,
+   by which time Franklin had died from cancer at 37. Nobel prizes are not
+   awarded posthumously; had she lived, the difficult decision over whom
+   to jointly award the prize would have been complicated as the prize can
+   only be shared between a maximum of three; but because their work could
+   be considered to be chemistry, it is conceivable that Wilkins and
+   Franklin could have been awarded the Nobel Prize for Chemistry instead;
+   see Graeme Hunter's biography of Sir Lawrence Bragg for more
+   information on how scientists were nominated for Nobel Prizes.
+
+Forensics
+
+   Forensic scientists can use DNA located in blood, semen, skin, saliva
+   or hair left at the scene of a crime to identify a possible suspect, a
+   process called genetic fingerprinting or DNA profiling. In DNA
+   profiling the relative lengths of sections of repetitive DNA, such as
+   short tandem repeats and minisatellites, are compared. DNA profiling
+   was developed in 1984 by British geneticist Sir Alec Jeffreys of the
+   University of Leicester, and was first used to convict Colin Pitchfork
+   in 1988 in the Enderby murders case in Leicestershire, United Kingdom.
+   Many jurisdictions require convicts of certain types of crimes to
+   provide a sample of DNA for inclusion in a computerized database. This
+   has helped investigators solve old cases where the perpetrator was
+   unknown and only a DNA sample was obtained from the scene (particularly
+   in rape cases between strangers). This method is one of the most
+   reliable techniques for identifying a criminal, but is not always
+   perfect, for example if no DNA can be retrieved, or if the scene is
+   contaminated with the DNA of several possible suspects.
+
+DNA and computation
+
+   DNA plays an important role in computer science, bioinformatics and
+   computational biology, both as a motivating research problem and as a
+   method of computation in itself. A Sequence profiling tool like
+   Sequerome assists researchers working on sequence data by linking the
+   entire Sequence alignment report ( BLAST) to many third party
+   servers/sites that provide highly specific services in sequence
+   manipulations such as restriction enzyme maps, open reading frame
+   analyses for nucleotide sequences, and secondary structure prediction.
+
+   Research on string searching algorithms, which find an occurrence of a
+   sequence of letters inside a larger sequence of letters, was motivated
+   in part by DNA research, where it is used to find specific sequences of
+   nucleotides in a large sequence. In other applications such as text
+   editors, even simple algorithms for this problem usually suffice, but
+   DNA sequences cause these algorithms to exhibit near-worst-case
+   behaviour due to their small number of distinct characters.
+
+   Database theory has been influenced by DNA research, which poses
+   special problems for storing and manipulating DNA sequences. Databases
+   specialized for DNA research are called genomic databases, and must
+   address a number of unique technical challenges associated with the
+   operations of approximate matching, sequence comparison, finding
+   repeating patterns, and homology searching.
+
+   In 1994, Leonard Adleman of the University of Southern California made
+   headlines when he discovered a way of solving the directed Hamiltonian
+   path problem, an NP-complete problem, using tools from molecular
+   biology, in particular DNA. The new approach, dubbed DNA computing, has
+   practical advantages over traditional computers in power use, space
+   use, and efficiency, due to its ability to highly parallelize the
+   computation (see parallel computing), although there is labor worth
+   mentioning involved in retrieving the answers. A number of other
+   problems, including simulation of various abstract machines, the
+   boolean satisfiability problem, and the bounded version of the Post
+   correspondence problem, have since been analyzed using DNA computing.
+
+   Due to its compactness, DNA also has a theoretical role in
+   cryptography, where in particular it allows unbreakable one-time pads
+   to be efficiently constructed and used.
+
+History and anthropology
+
+   Because DNA collects mutations over time, which are then passed down
+   from parent to offspring, it contains information about processes that
+   have occurred in the past, becoming in time ancient DNA. By comparing
+   different DNA sequences, geneticists can attempt to infer the history
+   of organisms.
+
+   If DNA sequences from different species are compared, then the
+   resulting family tree, or phylogeny can be used to study the evolution
+   of these species. This field of phylogenetics is a powerful tool in
+   evolutionary biology. If DNA sequences within a species are compared,
+   population geneticists can glean information on the history of
+   particular populations. This can be used in studies ranging from
+   ecological genetics to anthropology (for example, DNA evidence is also
+   being used to try to identify the Ten Lost Tribes of Israel).
+
+   DNA has also been used to look at fairly recent issues of family
+   relationships, such as establishing some manner of familial
+   relationship between the descendants of Sally Hemings and the family of
+   Thomas Jefferson. This usage is closely related to the use of DNA in
+   criminal investigations detailed above. Indeed, some criminal
+   investigations have been solved when DNA from crime scenes has
+   fortuitously matched relatives of the guilty individual.
+
+Global variation in copy number in the human genome
+
+   In a report published in 2006 in Nature, researchers have found that
+   the copy number variation (CNV) of DNA sequences in humans and other
+   mammals, can be considerable. Deletions, insertions, duplications and
+   complex multi-site variants, collectively termed copy number variations
+   (CNVs) or copy number polymorphisms (CNPs), are found in all humans and
+   other mammals examined.
+   Retrieved from " http://en.wikipedia.org/wiki/DNA"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,280 @@
+   #copyright
+
+Gravitation
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   Gravitation is a phenomenon through which all objects attract each
+   other. Modern physics describes gravitation using the general theory of
+   relativity, but the much simpler Newton's law of universal gravitation
+   provides an excellent approximation in many cases.
+
+   Gravitation is the reason for the very existence of the Earth, the Sun,
+   and other celestial bodies; without it, matter would not have coalesced
+   into these bodies and life as we know it would not exist. Gravitation
+   is also responsible for keeping the Earth and the other planets in
+   their orbits around the Sun, the Moon in its orbit around the Earth,
+   for the formation of tides, and for various other natural phenomena
+   that we observe.
+   The gravitational force keeps the planets in orbit about the Sun.
+   Enlarge
+   The gravitational force keeps the planets in orbit about the Sun.
+
+History of gravitational theory
+
+Early (pre-Newtonian) history
+
+   Since the time of the Greek philosopher Aristotle in the 4th century
+   BC, there have been many attempts to understand and explain gravity.
+   Aristotle believed that there was no effect without a cause, and
+   therefore no motion without a force. He hypothesized that everything
+   tried to move towards their proper place in the crystalline spheres of
+   the heavens, and that physical bodies fell toward the centre of the
+   Earth in proportion to their weight. Another example of an attempted
+   explanation is that of the Indian astronomer Brahmagupta who, in AD 628
+   , wrote that "bodies fall towards the earth as it is in the nature of
+   the earth to attract bodies, just as it is in the nature of water to
+   flow".
+
+   Modern work on gravitational theory began with the work of Galileo
+   Galilei in the late 16th century and early 17th century. In his famous
+   experiment dropping balls at the Tower of Pisa and later with careful
+   measurements of balls rolling down inclines, Galileo showed that
+   gravitation accelerates all objects at the same rate. This was a major
+   departure from Aristotle's belief that heavier objects are accelerated
+   faster. (Galileo correctly postulated air resistance as the reason that
+   lighter objects appear to fall more slowly.) Galileo's work set the
+   stage for the formulation of Newton's theory of gravity.
+
+Newton's theory of gravitation
+
+   In 1687, English mathematician Sir Isaac Newton published the famous
+   Principia, which hypothesizes the inverse-square law of universal
+   gravitation. In his own words, "I deduced that the forces which keep
+   the planets in their orbs must be reciprocally as the squares of their
+   distances from the centers about which they revolve; and thereby
+   compared the force requisite to keep the Moon in her orb with the force
+   of gravity at the surface of the Earth; and found them answer pretty
+   nearly."
+
+   Newton's theory enjoyed its greatest success when it was used to
+   predict the existence of Neptune based on motions of Uranus that could
+   not be accounted by the actions of the other planets. Calculations by
+   John Couch Adams and Urbain Le Verrier both predicted the general
+   position of the planet, and Le Verrier's calculations are what led
+   Johann Gottfried Galle to the discovery of Neptune.
+
+   Ironically, it was another discrepancy in a planet's orbit that helped
+   to doom Newton's theory. By the end of the 19th century, it was known
+   that the orbit of Mercury could not be accounted for entirely under
+   Newton's theory, and all searches for another perturbing body (such as
+   a planet orbiting the Sun even closer than Mercury) have come up empty.
+   This issue was resolved in 1915 by Albert Einstein's new general
+   relativity theory; this theory accounted for the discrepancy in
+   Mercury's orbit.
+
+   Although Newton's theory has been superseded, most modern
+   non-relativistic gravitational calculations are based on Newton's work
+   due its being a much simpler theory to work with.
+
+General relativity
+
+   In this theory Einstein proposed that inertial motion occurs when
+   objects are in free-fall instead of when they are at rest with respect
+   to a massive object such as the Earth (as is the case in classical
+   mechanics). The problem is that in flat spacetimes such as those of
+   classical mechanics and special relativity, there is no way that
+   inertial observers can accelerate with respect to each other, as
+   free-falling bodies can do as they are each accelerated towards the
+   centre of a massive object.
+
+   To deal with this difficulty, Einstein proposed that spacetime is
+   curved by the presence of matter, and that free-falling objects are
+   following the geodesics of the spacetime. More specifically, Einstein
+   discovered the field equations of general relativity, which relate the
+   presence of matter and the curvature of spacetime. The Einstein field
+   equations are a set of 10 simultaneous, non-linear, differential
+   equations whose solutions give the components of the metric tensor of
+   spacetime. Metric tensors describe the geometry of spacetime. The
+   geodesic paths for objects in inertial motion are calculated from a
+   metric tensor. Notable solutions of the Einstein field equations
+   include:
+     * The Schwarzschild solution, which describes spacetime surrounding a
+       spherically symmetric non- rotating uncharged massive object. For
+       compact enough objects, this solution generated a black hole with a
+       central singularity. For radial distances from the centre which are
+       much greater then the Schwarzschild radius, the accelerations
+       predicted by the Schwarzschild solution are practically identical
+       to those predicted by Newton's theory of gravity.
+     * The Reissner-Nordström solution, in which the central object has an
+       electrical charge. For charges with a geometrized length which are
+       less than the geometrized length of the mass of the object, this
+       solution produces black holes with two event horizons.
+     * The Kerr solution solution for rotating massive objects. This
+       solution also produces black holes with multiple event horizons.
+     * The cosmological Robertson-Walker solution, which predicts the
+       expansion of the universe.
+
+   General relativity has enjoyed much success because of how its
+   predictions have been regularly confirmed. For example:
+     * General relativity accounts for the anomalous precession of the
+       planet Mercury.
+     * The prediction that time runs slower at lower potentials has been
+       confirmed by the Pound-Rebka experiment, the Hafele-Keating
+       experiment, and the GPS.
+     * The prediction of the deflection of light was first confirmed by
+       Arthur Eddington in 1919, and has more recently been strongly
+       confirmed through the use of a quasar which passes behind the Sun
+       as seen from the Earth. See also gravitational lensing.
+     * The time delay of light passing close to a massive object was first
+       identified by Shapiro in 1964 in interplanetary spacecraft signals.
+     * Gravitational radiation has been indirectly confirmed through
+       studies of binary pulsars.
+     * The expansion of the universe (predicted by the Robertson-Walker
+       metric) was confirmed by Edwin Hubble in 1929.
+
+Specifics
+
+Earth's gravity
+
+   Every planetary body, including the Earth, is surrounded by its own
+   gravitational field, which exerts an attractive force on any object.
+   This field is proportional to the body's mass and varies inversely with
+   the square of distance from the body. The gravitational field is
+   numerically equal to the acceleration of objects under its influence,
+   and its value at the Earth's surface, denoted g, is approximately
+   9.80665 m/s² or 32.17405 ft/s². This means that, ignoring air
+   resistance, an object falling freely near the earth's surface increases
+   in speed by 9.80665 m/s (around 22 mph) for each second of its descent.
+   Thus, an object starting from rest will attain a speed of 9.80665 m/s
+   (32.17405 ft/s) after one second, 19.6133 m/s (64.3481 ft/s) after two
+   seconds, and so on. According to Newton's 3rd Law, the Earth itself
+   experiences an equal and opposite force to that acting on the falling
+   object, meaning that the Earth also accelerates towards the object.
+   However, because the mass of the Earth is huge, the measurable
+   acceleration of the Earth by this same force is negligible.
+
+Equations for a falling body
+
+   Under normal earth-bound conditions, when objects move owing to a
+   constant gravitational force a set of kinematical and dynamical
+   equations describe the resultant trajectories. For example, Newton’s
+   law of gravitation simplifies to F = mg, where m is the mass of the
+   body. This assumption is reasonable for objects falling to earth over
+   the relatively short vertical distances of our everyday experience, but
+   is very much untrue over larger distances, such as spacecraft
+   trajectories, because the acceleration far from the surface of the
+   Earth will not in general be g. A further example is the expression
+   that we use for the calculation of potential energy P.E. of a body at
+   height h ( P.E. = mgh). This expression can be used only over small
+   distances h from the Earth. Similarly the expression for the maximum
+   height reached by a vertically projected body, h = u^2 / 2g is useful
+   for small heights and small initial velocities only. In case of large
+   initial velocities we have to use the principle of conservation of
+   energy to find the maximum height reached.
+
+Gravity and astronomy
+
+   The discovery and application of Newton's law of gravity accounts for
+   the detailed information we have about the planets in our solar system,
+   the mass of the Sun, the distance to stars and even the theory of dark
+   matter. Although we have not traveled to all the planets nor to the
+   Sun, we know their mass. The mass is obtained by applying the laws of
+   gravity to the measured characteristics of the orbit. In space an
+   object maintains its orbit because of the force of gravity acting upon
+   it. Planets orbit stars, stars orbit galactic centers, galaxies orbit a
+   centre of mass in clusters, and clusters orbit in superclusters.
+
+Gravity versus gravitation
+
+   It is important to note that gravitation is not gravity. Gravitation is
+   the attractive influence that all objects exert on each other, while
+   "gravity" specifically refers to a force which all massive objects are
+   theorized to exert on each other to cause gravitation. Although these
+   terms are used interchangeably in everyday use, it is important to note
+   that in theories other than Newton's, gravitation is caused by factors
+   other than gravity. For example, in general relativity, gravitation is
+   due to spacetime curvatures which causes inertially moving object to
+   tend to accelerate towards each other. Another (but discredited)
+   example is Le Sage's theory of gravitation, in which massive objects
+   are effectively pushed towards each other.
+
+Applications
+
+   Shot Tower, 1856 Dubuque, Iowa
+   Enlarge
+   Shot Tower, 1856 Dubuque, Iowa
+
+   A vast number of mechanical contrivances depend in some way on gravity
+   for their operation. For example, a height difference can provide a
+   useful pressure differential in a liquid, as in the case of an
+   intravenous drip or a water tower. The gravitational potential energy
+   of water can be used to generate hydroelectricity as well as to haul a
+   tramcar up an incline, using a system of water tanks and pulleys; the
+   Lynton and Lynmouth Cliff Railway in Devon, England employs just such a
+   system. Also, a weight hanging from a cable over a pulley provides a
+   constant tension in the cable, including the part on the other side of
+   the pulley to the weight.
+
+   Examples are numerous: For example molten lead, when poured into the
+   top of a shot tower, will coalesce into a rain of spherical lead shot,
+   first separating into droplets, forming molten spheres, and finally
+   freezing solid, undergoing many of the same effects as meteoritic
+   tektites, which will cool into spherical, or near-spherical shapes in
+   free-fall. Also, a fractionation tower can be used to manufacture some
+   materials by separating out the material components based on their
+   specific gravity. Weight-driven clocks are powered by gravitational
+   potential energy, and pendulum clocks depend on gravity to regulate
+   time. Artificial satellites are an application of gravitation which was
+   mathematically described in Newton's Principia.
+
+   Gravity is used in geophysical exploration to investigate density
+   contrasts in the subsurface of the Earth. Sensitive gravimeters use a
+   complicated spring and mass system (in most cases) to measure the
+   strength of the "downward" component of the gravitational force at a
+   point. Measuring many stations over an area reveals anomalies measured
+   in mGal or microGal (1 gal is 1 cm/s^2. Average gravitational
+   acceleration is about 981 gal, or 981,000 mGal.). After corrections for
+   the obliqueness of the Earth, elevation, terrain, instrument drift,
+   etc., these anomalies reveal areas of higher or lower density in the
+   crust. This method is used extensively in mineral and petroleum
+   exploration, as well as time-lapse groundwater modeling. The newest
+   instruments are sensitive enough to read the gravitational pull of the
+   operator standing over them.
+
+Alternative theories
+
+   Historical alternative theories
+     * Aristotelian theory of gravity
+     * Le Sage's theory of gravitation (1784) also called LeSage gravity,
+       proposed by Georges-Louis Le Sage, based on a fluid-based
+       explanation where a light gas fills the entire universe.
+     * Nordström's theory of gravitation (1912, 1913), an early competitor
+       of general relativity.
+     * Whitehead's theory of gravitation (1922), another early competitor
+       of general relativity.
+
+   Recent alternative theories
+     * Brans-Dicke theory of gravity (1961)
+     * Induced gravity (1967), a proposal by Andrei Sakharov according to
+       which general relativity might arise from quantum field theories of
+       matter.
+     * Rosen bi-metric theory of gravity
+     * In the modified Newtonian dynamics (MOND) (1981), Mordehai Milgrom
+       proposes a modification of Newton's Second Law of motion for small
+       accelerations.
+     * The new and highly controversial Process Physics theory attempts to
+       address gravity
+     * The self-creation cosmology theory of gravity (1982) by G.A. Barber
+       in which the Brans-Dicke theory is modified to allow mass creation.
+     * Nonsymmetric gravitational theory (NGT) (1994) by John Moffat
+     * The satirical theory of Intelligent falling (2002, in its first
+       incarnation as "Intelligent grappling")
+     * Tensor-vector-scalar gravity (TeVeS) (2004), a relativistic
+       modification of MOND by Jacob Bekenstein
+
+   Retrieved from " http://en.wikipedia.org/wiki/Gravitation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

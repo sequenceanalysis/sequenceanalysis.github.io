@@ -1,0 +1,241 @@
+   #copyright
+
+ROT13
+
+2007 Schools Wikipedia Selection. Related subjects: Cryptography
+
+
+   This is a featured article. Click here for more information.
+   ROT13 replaces each letter by its partner 13 characters further along
+   the alphabet. For example, HELLO becomes URYYB (or, decrypting, URYYB
+   becomes HELLO again).
+   Enlarge
+   ROT13 replaces each letter by its partner 13 characters further along
+   the alphabet. For example, HELLO becomes URYYB (or, decrypting, URYYB
+   becomes HELLO again).
+
+   ROT13 ("rotate by 13 places", usually hyphenated ROT-13) is a simple
+   Caesar cipher used for obscuring text by replacing each letter with the
+   letter thirteen places down the alphabet. A becomes N, B becomes O, and
+   so on up to M, which becomes Z, then the sequence reverses: N becomes
+   A, O becomes B, and so on to Z, which becomes M. The algorithm is used
+   in online forums as a means of hiding joke punchlines, puzzle
+   solutions, movie and story spoilers, and offensive materials from the
+   casual glance. ROT13 has been described as the " Usenet equivalent of a
+   magazine printing the answer to a quiz upside down" . The name "ROT13"
+   originated on Usenet in the early 1980s, and the method has become a de
+   facto standard. As a Caesar cipher (a method of encryption thousands of
+   years old), ROT13 provides no real cryptographic security and is not
+   used for such; in fact it is often used as the canonical example of
+   weak encryption. An additional feature of the cipher is that it is
+   symmetrical; that is, to undo ROT13, the same algorithm is applied, so
+   the same code can be used for encoding and decoding.
+
+Description
+
+   Applying ROT13 to a piece of text merely requires examining its
+   alphabetic characters and replacing each one by the letter 13 places
+   further along in the alphabet, wrapping back to the beginning if
+   necessary, preserving case: a becomes n, B becomes O, and so forth,
+   down to Z, which becomes M. Only those letters which occur in the Latin
+   alphabet are affected; numbers, symbols, whitespace, and all other
+   characters are left unchanged. Because there are 26 letters in the
+   Latin alphabet and 26 = 2 × 13, the ROT13 function is its own inverse:
+
+          ROT[13](ROT[13](x)) = ROT[26](x) = x for any text x.
+
+   In other words, two successive applications of ROT13 restore the
+   original text (in mathematics, this is sometimes called an involution;
+   in cryptography, a reciprocal cipher).
+
+   The transformation can be done using a lookup table, such as the
+   following:
+   ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+   NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm
+
+   For example, in the following joke, the answer (punchline) has been
+   obscured by ROT13:
+How can you tell an extrovert from an
+introvert at  NSA? Va gur ryringbef,
+gur rkgebireg ybbxf ng gur BGURE thl'f fubrf.
+
+   Transforming the entire text via ROT13 form, the answer to the joke is
+   revealed:
+Ubj pna lbh gryy na rkgebireg sebz na
+vagebireg ng AFN? In the elevators,
+the extrovert looks at the OTHER guy's shoes.
+
+   A second application of ROT13 would restore the original.
+
+History
+
+   ROT13 originated in the net.jokes newsgroup in the early 1980s, in an
+   effort to provide a voluntary means to hide jokes that some readers
+   might have found offensive, or just to obscure the punchline of a joke
+   to keep it from being read too soon. (Previous attempts to categorize
+   offensive jokes by putting them in separate newsgroups had failed —
+   site managers did not want to be seen as condoning such postings by
+   creating a special place for them.) ROT13 was a convenient solution
+   because of its simplicity.
+
+   Since it replaces alphabetic letters with other letters, ROT13 was
+   guaranteed not to cause problems for any newsgroup software which might
+   have been incompatible with unusual kinds of characters. ROT-13 was
+   chosen over ROT-N (for any other value of N, such as 3 as in the
+   original Caesar cipher) because 13 is the value which arranges that
+   encoding and decoding are equivalent, thereby allowing the convenience
+   of a single command for both encryption and decryption. Strictly
+   speaking, the value 13 works in this way only for languages like
+   English which have 26 letters in their alphabets, although since the
+   26-character Latin alphabet is embedded in the ASCII character set,
+   ROT13 is pretty much universal, at least for those Western languages
+   which can use ASCII or one of its extensions.
+
+   While users could plausibly encode and decode messages by hand,
+   automatic decryption is much more convenient. UNIX systems have a
+   standard utility called " tr" (transliterate) that can be used to
+   perform ROT13 encoding:
+
+          tr A-Za-z N-ZA-Mn-za-m
+
+   Automatic deciphering was soon added as a built-in feature to
+   newsreading software. From the early 1990s, ROT13 was also used in
+   Fidonet forums, to the extent that Fidonet mail reading software often
+   included features for enciphering and deciphering automatically.
+
+ROT13 as encryption
+
+   ROT13 is one of a set of encryption algorithms known as Caesar ciphers,
+   which are themselves a particularly simple type of substitution cipher.
+   ROT13 is not intended to be used where secrecy is of any concern—the
+   use of a constant shift means that the encryption effectively has no
+   key, and decryption requires no more knowledge than the fact that ROT13
+   is in use. Even without this knowledge, like any substitution cipher
+   the algorithm is easily broken through frequency analysis or the
+   exploitation of pattern words. (ROT13 is an example of what Bruce
+   Schneier calls "kid sister encryption" -- at best it might keep a
+   document secret from your kid sister.)
+
+   The real effect of ROT13 is merely to make sure that the viewer of a
+   message must consciously choose to decipher it, which typically means
+   invoking the relevant ROT13 command in the message-reading software.
+   Rather than protecting a confidential message from unauthorized
+   readers, ROT13 safeguards authorized readers from material they may not
+   wish to inadvertently read, such as spoilers in book or movie reviews.
+
+   Because of its utter unsuitability for real secrecy, ROT13 has become a
+   catchphrase to refer to any conspicuously weak encryption scheme; a
+   critic might claim that "56-bit DES is little better than ROT13 these
+   days." Also, in a play on real terms like "double DES", the terms
+   double ROT13, ROT26 or 2ROT13 crop up with humorous intent, including a
+   spoof academic paper "On the 2ROT13 Encryption Algorithm" (PDF). As
+   explained above, applying ROT13 to an already ROT13-encrypted text
+   restores the original plaintext, so ROT26 is equivalent to no
+   encryption at all. The notional ROT26 has been used as a satirical jibe
+   against the United States' Digital Millennium Copyright Act (DMCA);
+   some online users append phrases such as "Encoded with ROT26 —
+   circumvention will be prosecuted!" to their posts to online forums.
+   (The DMCA introduced a broad ban on the circumvention of copy
+   prevention systems, systems which are often found to internally employ
+   woefully insecure methods of cryptography.) "Triple ROT13" is also
+   sometimes seen - which is, of course, equivalent to regular ROT13. (The
+   term is most probably a take on Triple DES.)
+
+   In 2001, Russian cryptanalyst Dmitry Sklyarov was arrested after
+   detailing weaknesses in ebook copy prevention systems. One ebook
+   vendor, New Paradigm Research Group (NPRG), actually used ROT13 to
+   encrypt their documents. It has been speculated that NPRG may have
+   mistaken the ROT13 toy example — provided with the Adobe eBook software
+   development kit — for a serious encryption scheme .
+
+   Windows XP uses ROT13 on some of its registry keys (UserAssist). Didier
+   Stevens wrote a tool to decrypt them. These keys track recently used
+   programs.
+
+ROT13 letter games and net culture
+
+                                               abcdefghijklmnopqrstuvwxyz
+                                               NOPQRSTUVWXYZABCDEFGHIJKLM
+                                                 aha ↔ nun       ant ↔ nag
+                                               balk ↔ onyx       bar ↔ one
+                                               barf ↔ ones         be ↔ or
+                                                 bin ↔ ova     ebbs ↔ roof
+                                               envy ↔ rail         er ↔ re
+                                               errs ↔ reef     flap ↔ sync
+                                                 fur ↔ she       gel ↔ try
+                                               gnat ↔ tang       irk ↔ vex
+                                             clerk ↔ pyrex purely ↔ cheryl
+                                                 PNG ↔ cat       SHA ↔ fun
+
+   ROT13 provides an opportunity for letter games. Some words will, when
+   transformed with ROT13, produce another word. The longest example in
+   the English language is the pair of 7-letter words abjurer and nowhere;
+   there is also the 7-letter pair chechen and purpura. Other examples of
+   words like these are shown in the table.
+
+   The word ravine is transformed under ROT13 to enivar — its reversal,
+   although not an English word. The only known pair of common English
+   words which are each other's ROT13 and reversal are gnat and tang.
+
+   vex is transformed to irk under ROT13; the words are synonyms. Also,
+   terra can be transformed to green to give a satisfying pair.
+
+   The 1989 International Obfuscated C Code Contest (IOCCC) included an
+   entry by Brian Westley. Westley's computer program can be ROT13'd or
+   reversed and still compiles correctly. Its operation, when executed, is
+   to either perform ROT13 encoding on or to reverse its input , .
+
+   The newsgroup alt.folklore.urban coined a word — furrfu — that was the
+   ROT13 encoding of the frequently encoded utterance "sheesh". "Furrfu"
+   evolved in mid-1992 as a response to postings repeating urban myths on
+   alt.folklore.urban, after some posters complained that "Sheesh!" as a
+   response to newcomers was being overused .
+
+Variants
+
+   There are other little-used obfuscation schemes with a similar purpose
+   to ROT13. ROT13 only handles letters, and leaves other characters, such
+   as punctuation, numbers and whitespace, untouched. Because of this,
+   ROT13 may be unsuitable for some purposes, for example, hiding the
+   numeric answer to a riddle, or handling arbitrary binary data.
+
+ROT47
+
+   ROT47 is a variant on ROT13 which, in addition to scrambling the basic
+   letters, also treats numbers and many other characters. Instead of
+   using the sequence A-Z as the alphabet, ROT47 uses a larger alphabet,
+   derived from a common character encoding known as ASCII. ASCII maps
+   letters, digits, punctuation and other special characters to numbers in
+   the range 0–127. Viewed in ASCII, ROT13 covers the codes 65–90 and
+   97–122 — the upper and lower case letters respectively. ROT47 uses 94
+   characters instead, from ! (the exclamation mark, ASCII code 33) to ~
+   (the tilde, ASCII code 126), rotating them by an offset of 47. The use
+   of a larger alphabet is intended to produce a more thorough obfuscation
+   than that of ROT13, but ROT47 is far less widely supported.
+
+   Applying ROT47 to the earlier example (entirely in plaintext) gives:
+w@H 42? J@F E6== 2? 6IEC@G6CE 7C@> 2?
+:?EC@G6CE 2E }$pn x? E96 6=6G2E@CD[
+E96 6IEC@G6CED =@@< 2E E96 ~%wt# 8FJVD D9@6D]
+
+   The Unix command to apply ROT47 is:
+
+          tr '!-~' 'P-~!-O'
+
+memfrob()
+
+   The GNU C library (a set of standard routines available for use in
+   computer programming) contains a function — memfrob() — which has a
+   similar purpose to ROT13, although it is intended for use with
+   arbitrary binary data. The function operates (humorously termed "
+   frobnicates") by combining each byte with the binary pattern 00101010 (
+   42 decimal) using the exclusive or (XOR) operation. This effects a
+   simple XOR cipher. Like ROT13, memfrob() is self-reciprocal; it is also
+   just about as insecure (that is, just as trivial to decrypt if the key
+   is not known).
+
+   Retrieved from " http://en.wikipedia.org/wiki/ROT13"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

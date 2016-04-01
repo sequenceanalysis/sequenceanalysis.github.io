@@ -1,0 +1,156 @@
+   #copyright
+
+Work (thermodynamics)
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+                                        Thermodynamic potentials
+                                      Internal energy               U(S,V)
+                                Helmholtz free energy      A(T,V) = U − TS
+                                             Enthalpy      H(S,P) = U + PV
+                                    Gibbs free energy G(T,P) = U + PV − TS
+
+   In thermodynamics, thermodynamic work is the quantity of energy
+   transferred from one system to another. It is a generalization of the
+   concept of mechanical work in mechanics. In the SI system of
+   measurement, work is measured in joules (symbol: J). The rate at which
+   work is performed is power.
+
+History
+
+   Joule's apparatus for measuring the mechanical equivalent of heat.
+   Enlarge
+   Joule's apparatus for measuring the mechanical equivalent of heat.
+
+1824
+
+   The modern-day definition of work, i.e. "weight lifted through a
+   height", was originally defined in 1824 by thermodynamicist Sadi Carnot
+   in his famous paper Reflections on the Motive Power of Fire.
+   Specifically, according to Carnot:
+
+
+   Work (thermodynamics)
+
+     We use here motive power (work) to express the useful effect that a
+   motor is capable of producing. This effect can always be likened to the
+     elevation of a weight to a certain height. It has, as we know, as a
+   measure, the product of the weight multiplied by the height to which it
+                                 is raised.
+
+
+   Work (thermodynamics)
+
+1845
+
+   In 1845, the English physicist James Joule read a paper On the
+   mechanical equivalent of heat to the British Association meeting in
+   Cambridge. In this work, he reported his best-known experiment, that in
+   which the work released through the action of a "weight falling through
+   a height" was used to turn a paddle-wheel in an insulated barrel of
+   water.
+
+   In this experiment, the friction and agitation of action the
+   paddle-wheel on the body of water caused heat to be generated which, in
+   turn, increased the temperature of water. Both the temperature ∆T
+   change of the water and the height of the fall ∆h of the weight mg were
+   recorded. Using these values, Joule was able to determine the
+   mechanical equivalent of heat. Joule estimated a mechanical equivalent
+   of heat to be 819 ft•lbf/Btu (4.41 J/cal). The modern day definitions
+   of heat, work, temperature, and energy all have connection to this
+   experiment.
+
+Overview
+
+   According to the First Law of Thermodynamics, it is useful to separate
+   changes to the internal energy of a thermodynamic system into two sorts
+   of energy transfers. Work refers to forms of energy transfer, which can
+   be accounted for in terms of changes in the macroscopic physical
+   variables of the system, for example energy which goes into expanding
+   the volume of a system against an external pressure, by say driving a
+   piston-head out of a cylinder against an external force. This is in
+   distinction to heat energy carried into or out of the system in the
+   form of transfers in the microscopic thermal motions of particles.
+
+   The concept of thermodynamic work is a little more general than that of
+   mechanical work, because it also includes other energy transfers, i.e.
+   for example electrical work, the movement of charge against an external
+   electrical field to charge up a battery say, which may or may not
+   necessarily be thought of as strictly mechanical in nature.
+
+Mathematical definition
+
+   As stipulated to the First Law of Thermodynamics, any net increase in
+   the internal energy U of a thermodynamic system must be fully accounted
+   for, in terms of heat δQ entering the system less work δW done by the
+   system:
+
+          dU = \delta Q - \delta W\;
+
+   The Roman letter d indicates that internal energy U is a property of
+   the state of the system, so changes in the internal energy are exact
+   differentials - they depend only on the original state and the final
+   state, not the path taken. In contrast the Greek δs in this equation
+   reflect the fact that the heat transfer and the work transfer are not
+   properties of the final state of the system. Given only the initial
+   state and the final state of the system, all one can say is what the
+   total change in internal energy was, not how much of the energy went
+   out as heat, and how much as work. This can be summarised by saying
+   that heat and work are not state functions of the system.
+
+Pressure-volume work
+
+   Chemical thermodynamics studies PV work, which occurs when the volume
+   of a fluid changes. PV work is represented by the following
+   differential equation:
+
+          dW = -P dV \,
+
+   where:
+     * W = work done on the system
+     * P = external pressure
+     * V = volume
+
+   Therefore, we have:
+
+          W=-\int_{V_i}^{V_f} P\,dV
+
+   Like all work functions, PV work is path-dependent. (The path in
+   question is a curve in the Euclidean space specified by the fluid's
+   pressure and volume, and infinitely many such curves are possible.)
+   From a thermodynamic perspective, this fact implies that PV work is not
+   a state function. This means that the differential dW is an inexact
+   differential; to be more rigorous, it should be written đW (with a line
+   through the d).
+
+   From a mathematical point of view, that is to say, dW is not an exact
+   one-form. This line through is merely a flag to warn us there is
+   actually no function ( 0-form) W which is the potential of dW. If there
+   were, indeed, this function W, we should be able to just use Stokes
+   Theorem, and evaluate this putative function, the potential of dW, at
+   the boundary of the path, that is, the initial and final points, and
+   therefore the work would be a state function. This impossibility is
+   consistent with the fact that it does not make sense to refer to the
+   work on a point; work presupposes a path.
+
+   PV work is often measured in the (non-SI) units of litre-atmospheres,
+   where 1 L·atm = 101.3 J.
+
+Free energy and exergy
+
+   The amount of useful work which can be extracted from a thermodynamic
+   system is discussed in the article Second Law of Thermodynamics. Under
+   many practical situations this can be represented by the thermodynamic
+   Availability or Exergy function. Two important cases are thermodynamic
+   systems where the temperature and volume are held constant in which the
+   measure of "useful" work attainable reduces to the Helmholtz free
+   energy function; and systems where the temperature and pressure are
+   held constant in which the measure of "useful" work attainable reduces
+   to the Gibbs free energy.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Work_%28thermodynamics%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

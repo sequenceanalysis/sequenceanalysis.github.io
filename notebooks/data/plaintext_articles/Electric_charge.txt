@@ -1,0 +1,222 @@
+   #copyright
+
+Electric charge
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+                       Flavour in particle physics
+   Flavour quantum numbers:
+     * Lepton number: L
+     * Baryon number: B
+     * Strangeness: S
+     * Charm: C
+     * Bottomness: B'
+     * Topness: T
+     * Isospin: I[z] or I
+     * Weak isospin: T[z]
+     * Electric charge: Q
+     __________________________________________________________________
+
+   Combinations:
+     * Hypercharge: Y
+          + Y=2(Q-I[z])
+          + Y=B+S+C+B'+T
+     * Weak hypercharge: Y[W]
+          + Y[W]=2(Q-T[z])
+          + Y[W]= B−L
+     __________________________________________________________________
+
+   Related topics:
+     * CPT symmetry
+     * CKM matrix
+     * CP symmetry
+     * Chirality
+
+   Electric charge is a fundamental conserved property of some subatomic
+   particles, which determines their electromagnetic interaction.
+   Electrically charged matter is influenced by, and produces,
+   electromagnetic fields. The interaction between a moving charge and an
+   electromagnetic field is the source of the electromagnetic force, which
+   is one of the four fundamental forces.
+
+   Electric charge is a characteristic of some subatomic particles, and is
+   quantized when expressed as a multiple of the so-called elementary
+   charge e. Electrons by convention have a charge of -1, while protons
+   have the opposite charge of +1. Quarks have a fractional charge of −1/3
+   or +2/3. The antiparticle equivalents of these have the opposite
+   charge. There are other charged particles.
+
+   In general, same-sign charged particles repel one another, while
+   different-sign charged particles attract. This is expressed
+   quantitatively in Coulomb's law, which states the magnitude of the
+   repelling force is proportional to the product of the two charges, and
+   weakens proportionately to the square of the distance.
+
+   The electric charge of a macroscopic object is the sum of the electric
+   charges of its constituent particles. Often, the net electric charge is
+   zero, since naturally the number of electrons in every atom is equal to
+   the number of the protons, so their charges cancel out. Situations in
+   which the net charge is non-zero are often referred to as static
+   electricity. Furthermore, even when the net charge is zero, it can be
+   distributed non-uniformly (e.g., due to an external electric field),
+   and then the material is said to be polarized, and the charge related
+   to the polarization is known as bound charge (while the excess charge
+   brought from outside is called free charge). An ordered motion of
+   charged particles in a particular direction (in metals, these are the
+   electrons) is known as electric current. The discrete nature of
+   electric charge was proposed by Michael Faraday in his electrolysis
+   experiments, then directly demonstrated by Robert Millikan in his
+   oil-drop experiment.
+
+   The SI unit for quantity of electricity or electric charge is the
+   coulomb, which represents approximately 6.24 × 10^18 elementary charges
+   (the charge on a single electron or proton). The coulomb is defined as
+   the quantity of charge that has passed through the cross-section of an
+   electrical conductor carrying one ampere within one second. The symbol
+   Q is often used to denote a quantity of electricity or charge. The
+   quantity of electric charge can be directly measured with an
+   electrometer, or indirectly measured with a ballistic galvanometer.
+
+   Formally, a measure of charge should be a multiple of the elementary
+   charge e (charge is quantized), but since it is an average, macroscopic
+   quantity, many orders of magnitude larger than a single elementary
+   charge, it can effectively take on any real value. Furthermore, in some
+   contexts it is meaningful to speak of fractions of a charge; e.g. in
+   the charging of a capacitor.
+
+History
+
+   Coulomb's torsion balance
+   Coulomb's torsion balance
+
+   As reported by the Ancient Greek philosopher Thales of Miletus around
+   600 BC, charge (or electricity) could be accumulated by rubbing fur on
+   various substances, such as amber. The Greeks noted that the charged
+   amber buttons could attract light objects such as hair. They also noted
+   that if they rubbed the amber for long enough, they could even get a
+   spark to jump. This property derives from the triboelectric effect.
+
+   In 1600 the English scientist William Gilbert returned to the subject
+   in De Magnete, and coined the New Latin word electricus from ηλεκτρον
+   (elektron), the Greek word for "amber", which soon gave rise to the
+   English words "electric" and "electricity." He was followed in 1660 by
+   Otto von Guericke, who invented what was probably the first
+   electrostatic generator. Other European pioneers were Robert Boyle, who
+   in 1675 stated that electric attraction and repulsion can act across a
+   vacuum; Stephen Gray, who in 1729 classified materials as conductors
+   and insulators; and C. F. du Fay, who proposed in 1733 that electricity
+   came in two varieties which cancelled each other, and expressed this in
+   terms of a two-fluid theory. When glass was rubbed with silk, du Fay
+   said that the glass was charged with vitreous electricity, and when
+   amber was rubbed with fur, the amber was said to be charged with
+   resinous electricity. In 1839 Michael Faraday showed that the apparent
+   division between static electricity, current electricity and
+   bioelectricity was incorrect, and all were a consequence of the
+   behaviour of a single kind of electricity appearing in opposite
+   polarities.
+
+   One of the foremost experts on electricity in the 18th century was
+   Benjamin Franklin, who argued in favour of a one-fluid theory of
+   electricity. Franklin imagined electricity as being a type of invisible
+   fluid present in all matter; for example he believed that it was the
+   glass in a Leyden jar that held the accumulated charge. He posited that
+   rubbing insulating surfaces together caused this fluid to change
+   location, and that a flow of this fluid constitutes an electric
+   current. He also posited that when matter contained too little of the
+   fluid it was "negatively" charged, and when it had an excess it was
+   "positively" charged. Arbitrarily (or for a reason that was not
+   recorded) he identified the term "positive" with vitreous electricity
+   and "negative" with resinous electricity. William Watson arrived at the
+   same explanation at about the same time.
+
+   We now know that the Franklin/Watson model was close, but too simple.
+   Matter is actually composed of several kinds of electricity (several
+   kinds of electrically charged particles,) the most common being the
+   positively charged proton and the negatively charged electron. Rather
+   than one possible electric current there are many: a flow of electrons,
+   a flow of electron "holes" which act like positive particles, or in
+   electrolytic solutions, a flow of both negative and positive particles
+   called ions moving in opposite directions. To reduce this complexity,
+   electrical workers still use Franklin's convention and they imagine
+   that electric current (known as conventional current) is a flow of
+   exclusively positive particles. The conventional current simplifies
+   electrical concepts and calculations, but it ignores the fact that
+   within some conductors (electrolytes, semiconductors, and plasma), two
+   or more species of electric charges flow in opposite directions. The
+   flow direction for conventional current is also backwards compared to
+   the actual electron drift taking place during electric currents in
+   metals, the typical conductor of electricity. The true direction of
+   electric current is a source of confusion for beginners in electronics,
+   and a minority of educators ignore the standard and instead assume that
+   moving charges are exclusively negative.
+
+Properties
+
+   Aside from the properties described in articles about electromagnetism,
+   charge is a relativistic invariant. This means that any particle that
+   has charge q, no matter how fast it goes, always has charge q. This
+   property has been experimentally verified by showing that the charge of
+   one helium nucleus (two protons and two neutrons bound together in a
+   nucleus and moving around at high speeds) is the same as two deuterium
+   nuclei (one proton and one neutron bound together, but moving much more
+   slowly than they would if they were in a helium nucleus).
+
+Conservation of charge
+
+   The total electric charge of an isolated system remains constant
+   regardless of changes within the system itself. This law is inherent to
+   all processes known to physics and can be derived in a local form from
+   gauge invariance of the wave function. The conservation of charge
+   results in the charge-current continuity equation. More generally, the
+   net change in charge density ρ within a volume of integration V is
+   equal to the area integral over the current density J on the surface of
+   the area S, which is in turn equal to the net current I:
+
+          - \frac{\partial}{\partial t} \int_V \rho\, \mathrm{d}V = \int_S
+          \mathbf{J} \cdot \mathrm{d}\mathbf{S} = \int J S \cos\theta = I
+
+   Thus, the conservation of electric charge, as expressed by the
+   continuity equation, gives the result:
+
+          I = -\frac{dQ}{dt}
+
+   where I is the net outward current through a closed surface and Q is
+   the electric charge contained within the volume defined by the surface.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electric_charge"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,658 @@
+   #copyright
+
+Planetary habitability
+
+2007 Schools Wikipedia Selection. Related subjects: The Planets
+
+   Understanding planetary habitability is partly an extrapolation of the
+   Earth's conditions, as it is the only planet currently known to harbor
+   life.
+   Enlarge
+   Understanding planetary habitability is partly an extrapolation of the
+   Earth's conditions, as it is the only planet currently known to harbour
+   life.
+
+   Planetary habitability is the measure of an astronomical body's
+   potential to develop and sustain life. It may be applied both to
+   planets and to the natural satellites of planets.
+
+   The only absolute requirement for life is an energy source but the
+   notion of planetary habitability implies that many other geophysical,
+   geochemical, and astrophysical criteria must be met before an
+   astronomical body is able to support life. As the existence of life
+   beyond Earth is currently unknown, planetary habitability is largely an
+   extrapolation of conditions on Earth and the characteristics of the Sun
+   and solar system which appear favorable to life's flourishing. Of
+   particular interest is the set of factors that has sustained complex,
+   multicellular animals and not merely unicellular organisms on this
+   planet. Research and theory in this regard is a component of planetary
+   science and the emerging discipline of astrobiology.
+
+   The idea that planets beyond Earth might host life is an ancient one,
+   though historically it was framed by philosophy as much as physical
+   science . The late 20th century saw two breakthroughs in the field. To
+   begin with, the observation and robotic exploration of other planets
+   and moons within the solar system has provided critical information on
+   defining habitability criteria and allowed for substantial geophysical
+   comparisons between the Earth and other bodies. The discovery of
+   extrasolar planets — beginning in the early 1990s and accelerating
+   thereafter — was the second milestone. It confirmed that the Sun is not
+   unique in hosting planets and expanded the habitability research
+   horizon beyond our own solar system.
+
+Suitable star systems
+
+   An understanding of planetary habitability begins with stars. While
+   bodies that are generally Earth-like may be plentiful, it is just as
+   important that their larger system be agreeable to life. Under the
+   auspices of SETI's Project Phoenix, scientists Margaret Turnbull and
+   Jill Tarter developed the " HabCat" (or Catalogue of Habitable Stellar
+   Systems) in 2002. The catalogue was formed by winnowing the nearly
+   120,000 stars of the larger Hipparcos Catalogue into a core group of
+   17,000 "HabStars," and the selection criteria that were used provide a
+   good starting point for understanding which astrophysical factors are
+   necessary to habitable planets .
+
+Spectral class
+
+   The spectral class of a star indicates its photospheric temperature,
+   which (for main-sequence stars) correlates to overall mass. The
+   appropriate spectral range for "HabStars" is presently considered to be
+   "early F" or "G", to "mid-K". This corresponds to temperatures of a
+   little more than 7,000 K down to a little more than 4,000 K; the Sun
+   (not coincidentally) is directly in the middle of these bounds,
+   classified as a G2 star. "Middle-class" stars of this sort have a
+   number of characteristics considered important to planetary
+   habitability:
+     * They live at least a few billion years, allowing life a chance to
+       evolve. More luminous main-sequence stars of the "O," "B," and "A"
+       classes usually live less than a billion years and in exceptional
+       cases less than 10 million  .
+     * They emit enough high-frequency ultraviolet radiation to trigger
+       important atmospheric dynamics such as ozone formation, but not so
+       much that ionisation destroys incipient life .
+     * Liquid water may exist on the surface of planets orbiting them at a
+       distance that does not induce tidal lock (see next section and
+       3.2).
+
+   These stars are neither "too hot" nor "too cold" and live long enough
+   that life has a chance to begin. This spectral range likely accounts
+   for between 5 and 10 percent of stars in the local Milky Way galaxy.
+   Whether fainter late K and M class ("red dwarf") stars are also
+   suitable hosts for habitable planets is perhaps the most important open
+   question in the entire field of planetary habitability given that the
+   majority of stars fall within this range; this is discussed extensively
+   below.
+   A range of theoretical habitable zones with stars of different mass
+   (our solar system in middle).
+   Enlarge
+   A range of theoretical habitable zones with stars of different mass
+   (our solar system in middle).
+
+A stable habitable zone
+
+   The habitable zone (HZ) is a theoretical shell surrounding a star in
+   which any planets present would have liquid water on their surfaces.
+   After an energy source, liquid water is considered the most important
+   ingredient for life, considering how integral it is to all life-systems
+   on Earth. This may reflect the bias of a water-dependent species, and
+   if life is discovered in the absence of water (for example, in a
+   liquid-ammonia solution), the notion of an HZ may have to be greatly
+   expanded or else discarded altogether as too restricting .
+
+   A "stable" HZ denotes two factors. First, the range of an HZ should not
+   vary greatly over time. All stars increase in luminosity as they age
+   and a given HZ naturally migrates outwards, but if this happens too
+   quickly (for example, with a super-massive star), planets may only have
+   a brief window inside the HZ and a correspondingly weaker chance to
+   develop life. Calculating an HZ range and its long-term movement is
+   never straightforward, given that negative feedback loops such as the
+   carbon cycle will tend to offset the increases in luminosity.
+   Assumptions made about atmospheric conditions and geology thus have as
+   great an impact on a putative HZ range as does Solar evolution; the
+   proposed parameters of the Sun's HZ, for example, have fluctuated
+   greatly .
+
+   Secondly, no large-mass body such as a gas giant should be present in
+   or relatively close to the HZ, thus disrupting the formation of
+   Earth-like bodies. The mass of the asteroid belt, for example, appears
+   to have been unable to accrete into a planet due to orbital resonances
+   with Jupiter; if the giant had appeared in the region that is now
+   between the orbits of Venus and Mars, Earth would almost certainly not
+   have developed its present form. This is somewhat ameliorated by
+   suggestions that a gas giant inside the HZ might have habitable moons
+   under the right conditions .
+
+   It was once assumed that the inner-rock planets, outer-gas giants
+   pattern observable in the solar system was likely to be the norm
+   elsewhere, but discoveries of extrasolar planets have overturned this
+   notion. Numerous Jupiter-sized bodies have been found in close orbit
+   about their primary, disrupting potential HZs. Present data for
+   extrasolar planets is likely to be skewed towards large planets in
+   close eccentric orbits because they are far easier to identify; it
+   remains to be seen which type of solar system is the norm.
+
+Low stellar variation
+
+   Changes in luminosity are common to all stars, but the severity of such
+   fluctuations covers a broad range. Most stars are relatively stable,
+   but a significant minority of variable stars often experience sudden
+   and intense increases in luminosity and consequently the amount of
+   energy radiated toward bodies in orbit. These are considered poor
+   candidates for hosting life-bearing planets as their unpredictability
+   and energy output changes would negatively impact organisms. Most
+   obviously, living things adapted to a particular temperature range
+   would likely be unable to survive too great a temperature deviation.
+   Further, upswings in luminosity are generally accompanied by massive
+   doses of gamma ray and X-ray radiation which might prove lethal.
+   Atmospheres do mitigate such effects (an absolute increase of 100
+   percent in the Sun's luminosity would not necessarily mean a 100
+   percent absolute temperature increase on Earth), but atmosphere
+   retention might not occur on planets orbiting variables, because the
+   high-frequency energy buffetting these bodies would continually strip
+   them of their protective covering.
+
+   The Sun, as in much else, is benign in terms of this danger: the
+   variation between solar max and minimum is roughly 0.1 percent over its
+   11-year solar cycle. There is strong (though not undisputed) evidence
+   that even minor changes in the Sun's luminosity have had significant
+   effects on the Earth's climate well within the historical era; the
+   Little Ice Age of the mid-second millennium, for instance, may have
+   been caused by a relatively long-term decline in the sun's luminosity .
+   Thus, a star does not have to be a true variable for differences in
+   luminosity to affect habitability. Of known " solar twins," the one
+   that most closely resembles the Sun is considered to be 18 Scorpii;
+   interestingly (and unfortunately for the prospects of life existing in
+   its proximity), the only significant difference between the two bodies
+   is the amplitude of the solar cycle, which appears to be much greater
+   for 18 Scorpii .
+
+High metallicity
+
+   While the bulk of material in any star is hydrogen and helium, there is
+   a great variation in the amount of heavier elements ( metals) stars
+   contain. A high proportion of metals in a star correlates to the amount
+   of heavy material initially available in protoplanetary disks. A low
+   amount of metal significantly decreases the probability that planets
+   will have formed around that star, under the solar nebula theory of
+   planetary systems formation. Any planets that did form around a
+   metal-poor star would likely be low in mass, and thus unfavorable for
+   life. Spectroscopic studies of systems where exoplanets have been found
+   to date confirm the relationship between high metal content and planet
+   formation: "stars with planets, or at least with planets similar to the
+   ones we are finding today, are clearly more metal rich than stars
+   without planetary companions ." High metallicity also places a
+   requirement for youth on hab-stars: stars formed early in the
+   universe's history have low metal content and a correspondingly lesser
+   likelihood of having planetary companions.
+
+Planetary characteristics
+
+   The chief assumption about habitable planets is that they are
+   terrestrial. Such planets, roughly within one order of magnitude of
+   Earth mass, are primarily composed of silicate rocks and have not
+   accreted the gaseous outer layers of hydrogen and helium found on gas
+   giants. That life could evolve in the cloud tops of giant planets has
+   not been decisively ruled out , though it is considered unlikely given
+   that they have no surface and their gravity is enormous . The natural
+   satellites of giant planets, meanwhile, remain perfectly valid
+   candidates for hosting life .
+
+   In analyzing which environments are likely to support life a
+   distinction is usually made between simple, unicellular organisms such
+   as bacteria and archaea and complex metazoans (animals). Unicellularity
+   necessarily precedes multicellularity in any hypothetical tree of life
+   and where single-celled organisms do emerge there is no assurance that
+   this will lead to greater complexity . The planetary characteristics
+   listed below are considered crucial for life generally, but in every
+   case habitability impediments should be considered greater for
+   multicellular organisms such as plants and animals versus unicellular
+   life.
+   Mars, with its thin atmosphere, is colder than Earth would be at a
+   similar distance from the Sun.
+   Enlarge
+   Mars, with its thin atmosphere, is colder than Earth would be at a
+   similar distance from the Sun.
+
+Mass
+
+   Low-mass planets are poor candidates for life for two reasons. First,
+   their lesser gravity makes atmosphere retention difficult. Constituent
+   molecules are more likely to reach escape velocity and be lost to space
+   when buffeted by solar wind or stirred by collision. Planets without a
+   thick atmosphere lack the matter necessary for primal biochemistry,
+   have little insulation and poor heat transfer across their surfaces
+   (for example, Mars with its thin atmosphere is colder than the Earth
+   would be at similar distance) and lesser protection against
+   high-frequency radiation and meteoroids. Further, where an atmosphere
+   is less than 0.006 Earth atmospheres water cannot exist in liquid form
+   as the required atmospheric pressure, 4.56 mmHg (608 Pa) (0.18 inHG),
+   does not occur . The temperature range at which water is liquid is
+   smaller at low pressures generally.
+
+   Secondly, smaller planets have smaller diameters and thus higher
+   surface-to-volume ratios than their larger cousins. Such bodies tend to
+   lose the energy left over from their formation quickly and end up
+   geologically dead, lacking the volcanoes, earthquakes and tectonic
+   activity which supply the surface with life-sustaining material and the
+   atmosphere with temperature moderators like carbon dioxide. Plate
+   tectonics appear particularly crucial, at least on Earth: not only does
+   the process recycle important chemicals and minerals, it also fosters
+   bio-diversity through continent creation and increased environmental
+   complexity and helps create the convective cells necessary to generate
+   Earth's magnetic field .
+
+   "Low mass" is partly a relative label; the Earth is considered low mass
+   when compared to the Solar System's gas giants, but it is the largest,
+   by diameter and mass, and densest of all terrestrial bodies . It is
+   large enough to retain an atmosphere through gravity alone and large
+   enough that its molten core remains a heat engine, driving the diverse
+   geology of the surface (the decay of radioactive elements within a
+   planet's core is the other significant component of planetary heating).
+   Mars, by contrast, is nearly (or perhaps totally) geologically dead and
+   has lost much of its atmosphere . Thus, it would be fair to infer that
+   the lower mass limit for habitability lies somewhere between Mars and
+   Earth-Venus. Exceptional circumstances do offer exceptional cases:
+   Jupiter's moon Io (smaller than the terrestrial planets) is
+   volcanically dynamic because of the gravitational stresses induced by
+   its orbit; neighbouring Europa may have a liquid ocean underneath a
+   frozen shell due also to power generated in its orbiting a gas giant;
+   Saturn's Titan, meanwhile, has an outside chance of harbouring life as
+   it has retained a thick atmosphere and bio-chemical reactions are
+   possible in liquid methane on its surface. These satellites are
+   exceptions, but they prove that mass as a habitability criterion cannot
+   be considered definitive.
+
+   Finally, a larger planet is likely to have a large iron core. This
+   allows for a magnetic field to protect the planet from the solar wind,
+   which otherwise tends to strip away the planetary atmosphere and to
+   bombard living things with ionised particles. Mass is not the only
+   criterion for producing a magnetic field — as the planet must also
+   rotate fast enough to produce a dynamo effect within its core — but it
+   is a significant component of the process.
+
+Orbit and rotation
+
+   As with other criteria, stability is the critical consideration in
+   determining the effect of orbital and rotational characteristics on
+   planetary habitability. Orbital eccentricity is the difference between
+   a planet's closest and farthest approach to its primary. The greater
+   the eccentricity the greater the temperature fluctuation on a planet's
+   surface. Although they are adaptive, living organisms can only stand so
+   much variation, particularly if the fluctuations overlap both the
+   freezing point and boiling point of the planet's main biotic solvent
+   (e.g., water on Earth). If, for example, Earth's oceans were
+   alternately boiling and freezing solid, it is difficult to imagine life
+   as we know it having evolved. The more complex the organism, the
+   greater the temperature sensitivity . The Earth's orbit is almost
+   wholly circular, with an eccentricity of less than 0.02; other planets
+   in our solar system (with the exception of Mercury) have eccentricities
+   that are similarly benign.
+
+   Data collected on the orbital eccentricities of extrasolar planets has
+   surprised most researchers: 90% have an orbital eccentricity greater
+   than that found within the solar system, and the average is fully
+   0.25 . This could very easily be the result of sample bias. Often
+   planets are not observed directly, but rather are inferred based on the
+   "wobble" they cause on their parent star—the greater the eccentricity
+   the greater the perturbance in the star, and thus, the greater the
+   detectability of the planet.
+
+   A planet's movement around its rotational axis must also meet certain
+   criteria if life is to have the opportunity to evolve. A first
+   assumption is that the planet should have moderate seasons. If there is
+   little or no axial tilt (or obliquity) relative to the perpendicular of
+   the ecliptic, seasons will not occur and a main stimulant to biospheric
+   dynamism will disappear. The planet would also be colder than it would
+   be with a significant tilt: when the greatest intensity of radiation is
+   always within a few degrees of the equator, warm weather cannot move
+   poleward and a planet's climate becomes dominated by colder polar
+   weather systems.
+
+   If a planet is radically tilted, meanwhile, seasons will be extreme and
+   make it more difficult for a biosphere to achieve homeostasis. Although
+   during the Quaternary higher axial tilt of the Earth coincides with
+   reduced polar ice, warmer temperatures and less seasonal variation,
+   scientists do not know whether this trend would continue indefinitely
+   with further increases in axial tilt (see Snowball Earth).
+
+   The exact effects of these changes can only be computer modelled at
+   present, and studies have shown that even extreme tilts of up to 85
+   degrees do not absolutely preclude life "provided [it] does not occupy
+   continental surfaces plagued seasonally by the highest temperature ."
+   Not only the mean axial tilt, but also its variation over time must be
+   considered. The Earth's tilt varies between 21.5 and 24.5 degrees over
+   41,000 years. A more drastic variation, or a much shorter periodicity,
+   would induce climatic effects such as variations in seasonal severity.
+
+   Other orbital considerations include:
+     * The planet should rotate relatively quickly so that the day-night
+       cycle is not overlong. If a day takes years, the temperature
+       differential between the day and night side will be pronounced, and
+       problems similar to those noted with extreme orbital eccentricity
+       will come to the fore.
+     * Change in the direction of the axis rotation ( precession) should
+       not be pronounced. In itself, precession need not affect
+       habitability as it changes the direction of the tilt, not its
+       degree. However, precession tends to accentuate variations caused
+       by other orbital deviations; see Milankovitch cycles. Precession on
+       Earth occurs over a 23 000 year cycle.
+
+   The Earth's moon appears to play a crucial role in moderating the
+   Earth's climate by stabilising the axial tilt. It has been suggested
+   that a chaotic tilt may be a "deal-breaker" in terms of habitability—
+   i.e. a satellite the size of the moon is not only helpful but required
+   to produce stability . This position remains controversial .
+
+Geochemistry
+
+   It is generally assumed that any extraterrestrial life that might exist
+   will be based on the same fundamental chemistry as found on Earth, as
+   the four elements most vital for life, carbon, hydrogen, oxygen, and
+   nitrogen, are also the most common chemically reactive elements in the
+   universe. Indeed, simple biogenic compounds, such as amino acids, have
+   been found in meteorites and in interstellar space. These four elements
+   by mass make up over 96 percent of Earth's collective biomass. Carbon
+   has an unparalleled ability to bond with itself and to form a massive
+   array of intricate and varied structures, making it an ideal material
+   for the complex mechanisms that form living cells. Hydrogen and oxygen,
+   in the form of water, compose the solvent in which biological processes
+   take place and in which the first reactions occurred that led to life's
+   emergence. The energy released in the formation of powerful covalent
+   bonds between carbon and oxygen, available by oxidizing organic
+   compounds, is the fuel of all complex lifeforms. These four elements
+   together make up amino acids, which in turn are the building blocks of
+   proteins, the substance of living tissue.
+
+   Relative abundance in space does not always mirror differentiated
+   abundance within planets; of the four life elements, for instance, only
+   oxygen is present in any abundance in the Earth's crust . This can be
+   partly explained by the fact that many of these elements, such as
+   hydrogen and nitrogen, along with their most basic compounds, such as
+   carbon dioxide, carbon monoxide, methane, ammonia, and water, are
+   gaseous at warm temperatures. In the hot region close to the Sun, these
+   volatile compounds could not have played a significant role in the
+   planets' geological formation. Instead, they were trapped as gases
+   underneath the newly formed crusts, which were largely made of rocky,
+   involatile compounds such as silica (a compound of silicon and oxygen,
+   accounting for oxygen's relative abundance). Outgassing of volatile
+   compounds through the first volcanoes would have contributed to the
+   formation of the planets' atmospheres. The Miller experiments showed
+   that, with the application of energy, amino acids can form from the
+   synthesis of the simple compounds within a primordial atmosphere .
+
+   Even so, volcanic outgassing could not have accounted for the amount of
+   water in Earth's oceans . The vast majority of the water, and arguably
+   of the carbon, necessary for life must have come from the outer solar
+   system, away from the Sun's heat, where it could remain solid. Comets
+   impacting with the Earth in the Solar system's early years would have
+   deposited vast amounts of water, along with the other volatile
+   compounds life requires (including amino acids) onto the early Earth,
+   providing a kick-start to the evolution of life.
+
+   Thus, while there is reason to suspect that the four "life elements"
+   ought be readily available elsewhere, a habitable system likely also
+   requires a supply of long-term orbiting bodies to seed inner planets.
+   Without comets there is a possibility that life as we know it would not
+   exist on Earth. The possibility also remains that other elements beyond
+   those necessary on Earth will provide a biochemical basis for life
+   elsewhere; see alternative biochemistry.
+
+Alternative star systems
+
+   In determining the feasibility of extraterrestrial life, astronomers
+   had long focused their attention on stars like our own Sun. However,
+   they have begun to explore the possibility that life might form in
+   systems very unlike our own.
+
+Binary systems
+
+   Typical estimates often suggest that 50% or more of all stellar systems
+   are binary systems. This may be partly sample bias, as massive and
+   bright stars tend to be in binaries and these are most easily observed
+   and catalogued; a more precise analysis has suggested that more common,
+   fainter, stars are usually singular and that up to two thirds of all
+   stellar systems are therefore solitary .
+
+   The separation between stars in a binary may range from less than one
+   astronomical unit (AU, the Earth-Sun distance) to several hundred. In
+   latter instances, the gravitational effects will be negligible on a
+   planet orbiting an otherwise suitable star and habitability potential
+   will not be disrupted unless the orbit is highly eccentric (see
+   Nemesis, for example). However, where the separation is significantly
+   less, a stable orbit may be impossible. If a planet’s distance to its
+   primary exceeds about one fifth of the closest approach of the other
+   star, orbital stability is not guaranteed  . Whether planets might form
+   in binaries at all had long been unclear, given that gravitational
+   forces might interfere with planet formation. Theoretical work by Alan
+   Boss at the Carnegie Institute has shown that gas giants can form
+   around stars in binary systems much as they do around solitary stars .
+
+   One study of Alpha Centauri, the nearest star system to the Sun,
+   suggested that binaries need not be discounted in the search for
+   habitable planets. Centauri A and B have an 11 AU distance at closest
+   approach (23 AU mean), and both should have stable habitable zones. A
+   study of long-term orbital stability for simulated planets within the
+   system shows that planets within approximately three AU of either star
+   may remain stable (i.e. the semi-major axis deviating by less than 5
+   percent). The HZ for Centauri A is conservatively estimated at 1.2 to
+   1.3 AU and Centauri B at 0.73 to 0.74 — well within the stable region
+   in both cases .
+
+Red dwarf systems
+
+   Relative star sizes and photospheric temperatures. Any planet around a
+   red dwarf such as the one shown here would have to huddle close to
+   achieve Earth-like temperatures, likely inducing tidal lock.
+   Enlarge
+   Relative star sizes and photospheric temperatures. Any planet around a
+   red dwarf such as the one shown here would have to huddle close to
+   achieve Earth-like temperatures, likely inducing tidal lock.
+
+   Determining the habitability of red dwarf stars could help determine
+   how common life in the universe is, as red dwarfs make up between 70
+   and 90 percent of all the stars in the galaxy. Brown dwarfs are likely
+   more numerous than red dwarfs. However, they are not generally
+   classified as stars, and could never support life as we understand it,
+   since what little heat they emit quickly disappears.
+
+   Astronomers for many years ruled out red dwarfs as potential abodes for
+   life. Their small size (from 0.1 to 0.6 solar masses) means that their
+   nuclear reactions proceed exceptionally slowly, and they emit very
+   little light (from 3% of that produced by the Sun to as little as
+   0.01%). Any planet in orbit around a red dwarf would have to huddle
+   very close to its parent star to attain Earth-like surface
+   temperatures; from 0.3 AU (just inside the orbit of Mercury) for a star
+   like Lacaille 8760, to as little as 0.032 AU for a star like Proxima
+   Centauri (such a world would have a year lasting just 6.3 days). At
+   those distances, the star's gravity would cause tidal lock. The
+   daylight side of the planet would eternally face the star, while the
+   night-time side would always face away from it. The only way potential
+   life could avoid either an inferno or a deep freeze would be if the
+   planet had an atmosphere thick enough to transfer the star's heat from
+   the day side to the night side. It was long assumed that such a thick
+   atmosphere would prevent sunlight from reaching the surface in the
+   first place, preventing photosynthesis.
+
+   This pessimism has been tempered by research. Studies by Robert Haberle
+   and Manoj Joshi of NASA's Ames Research Centre in California have shown
+   that a planet's atmosphere (assuming it were compromised of greenhouse
+   gases CO[2] and H[2]O) need only be 100 mbs, or 10% of Earth's
+   atmosphere, for the star's heat to be effectively carried to the night
+   side . This is well within the levels required for photosynthesis,
+   though water would still remain frozen on the dark side in some of
+   their models. Martin Heath of Greenwich Community College, has shown
+   that seawater, too, could be effectively circulated without freezing
+   solid if the ocean basins were deep enough to allow free flow beneath
+   the night side's ice cap. Further research—including a consideration of
+   the amount photosynthetically active radiation—suggested that tidally
+   locked planets in Red dwarf systems might at least be habitable for
+   higher plants .
+
+   Size is not the only factor in making red dwarfs potentially unsuitable
+   for life, however. On a red dwarf planet, photosynthesis on the night
+   side would be impossible, since it would never see the sun. On the day
+   side, because the sun does not rise or set, areas in the shadows of
+   mountains would remain so forever. Photosynthesis as we understand it
+   would be complicated by the fact that a red dwarf produces most of its
+   radiation in the infrared, and on the Earth the process depends on
+   visible light. There are potential positives to this scenario. Numerous
+   terrestrial ecosystems rely on chemosynthesis rather than
+   photosynthesis, for instance, which would be possible in a red dwarf
+   system. A static primary Star position removes the need for plants to
+   steer leaves toward the sun, deal with changing shade/sun patterns, or
+   change from photosynthesis to stored energy during night. Because of
+   the lack of a day-night cycle, including the weak light of morning and
+   evening, far more energy would be available at a given radiation level.
+
+   Red dwarfs are far more variable and violent than their more stable,
+   larger cousins. Often they are covered in starspots that can dim their
+   emitted light by up to 40% for months at a time, while at other times
+   they emit gigantic flares that can double their brightness in a matter
+   of minutes . Such variation would be very damaging for life, though it
+   might also stimulate evolution by increasing mutation rates and rapidly
+   shifting climatic conditions.
+
+   There is, however, one major advantage that red dwarfs have over other
+   stars as abodes for life: they live a long time. It took 4.5 billion
+   years before humanity appeared on Earth, and life as we know it will
+   see suitable conditions for as little as half a billion years more .
+   Red dwarfs, by contrast, could live for trillions of years, because
+   their nuclear reactions are far slower than those of larger stars,
+   meaning that life both would have longer to evolve and longer to
+   survive. Further, while the odds of finding a planet in the habitable
+   zone around any specific red dwarf are slim, the total amount of
+   habitable zone around all red dwarfs combined is equal to the total
+   amount around sun-like stars given their ubiquity .
+
+Other considerations
+
+"Good Jupiters"
+
+   "Good Jupiters" are gas giant planets, like the solar system's Jupiter,
+   that orbit their stars in circular orbits far enough away from the HZ
+   to not disturb it but close enough to "protect" terrestrial planets in
+   closer orbit in two critical ways. First, they help to stabilize the
+   orbits, and thereby the climates, of the inner planets. Second, they
+   keep the inner solar system relatively free of comets and asteroids
+   that could cause devastating impacts . Jupiter orbits the sun at about
+   five times the distance between the Earth and the Sun. This is the
+   rough distance we should expect to find good Jupiters elsewhere.
+   Jupiter's "caretaker" role was dramatically illustrated in 1994 when
+   Comet Shoemaker-Levy 9 impacted the giant; had Jovian gravity not
+   captured the comet, it may well have entered the inner solar system.
+
+   Early in the Solar System's history, Jupiter played a somewhat contrary
+   role: it increased the eccentricity of asteroid belt orbits and enabled
+   many to cross Earth's orbit and supply the planet with important
+   volatiles. Before Earth reached half its present mass, icy bodies from
+   the Jupiter–Saturn region and small bodies from the primordial asteroid
+   belt supplied water to the Earth due to the gravitational scattering of
+   Jupiter and, to a lesser extent, Saturn . Thus, while the gas giants
+   are now helpful protectors, they were once suppliers of critical
+   habitability material.
+
+   In contrast, Jupiter-sized bodies that orbit too close to the habitable
+   zone but not in it (as in 47 Ursae Majoris), or have a highly
+   elliptical orbit that crosses the habitable zone (like 16 Cygni B) make
+   it very difficult for an Earthlike planet to exist in the system. See
+   discussion of a stable habitable zone above.
+
+The galactic neighbourhood
+
+   Scientists have also considered the possibility that particular areas
+   of galaxies ( galactic habitable zones) are better suited to life than
+   others; the solar system in which we live, in the Orion Spur, on the
+   Milky Way galaxy's edge is considered to be in a life-favorable spot :
+     * It is not in a globular cluster where immense star densities are
+       inimical to life, given excessive radiation and gravitational
+       disturbance. Globular clusters are also primarily composed of
+       older, likely metal-poor, stars.
+     * It is not near an active gamma ray source.
+     * It is not near the galactic centre where once again star densities
+       increase the likelihood of ionizing radiation (e.g., from magnetars
+       and supernovae). A supermassive black hole is also believed to lie
+       at the middle of the galaxy which might prove a danger to any
+       nearby bodies.
+     * The circular orbit of the Sun around the galactic centre keeps it
+       out of the way of the galaxy's spiral arms where once more intense
+       radiation and gravitation may lead to disruption .
+
+   Thus, relative loneliness is ultimately what a life-bearing system
+   needs. If the Sun were crowded amongst other systems the chance of
+   being fatally close to dangerous radiation sources would increase
+   significantly. Further, close neighbours might disrupt the stability of
+   various orbiting bodies such as Oort cloud and Kuiper Belt objects,
+   which can bring catastrophe if knocked into the inner solar system.
+
+   While stellar crowding proves disadvantageous to habitability so too
+   does extreme isolation. A star as metal-rich as the Sun would likely
+   not have formed in the very outermost regions of the Milky Way given a
+   decline in the relative abundance of metals and a general lack of star
+   formation. Thus, a "suburban" location, such as our Solar System
+   enjoys, is preferable to a Galaxy's centre or farthest reaches .
+
+Life's impact on habitability
+
+   An interesting supplement to the factors that support life's emergence
+   is the notion that life itself, once formed, becomes a habitability
+   factor in its own right. An important Earth example was the production
+   of oxygen by ancient cyanobacteria, and eventually photosynthesizing
+   plants, leading to a radical change in the composition of Earth’s
+   atmosphere. This oxygen would prove fundamental to the respiration of
+   later animal species.
+
+   This interaction between life and subsequent habitability has been
+   explored in various ways. The Gaia hypothesis, a class of scientific
+   models of the geo-biosphere pioneered by Sir James Lovelock in 1975,
+   argues that life as a whole fosters and maintains suitable conditions
+   for itself by helping to create a planetary environment suitable for
+   its continuity; at its most dramatic Gaia suggests that planetary
+   systems behave as a kind of organism. The most successful life forms
+   change the composition of the air, water, and soil in ways that make
+   their continued existence more certain—a controversial extension of the
+   accepted laws of ecology.
+
+   The implication that biota reveal concerted foresight would be
+   challenged as unscientific and unfalsifiable. More mainstream
+   researchers have arrived at related conclusions, however, without
+   necessarily accepting the teleology implied by Lovelock. David
+   Grinspoon has suggested a "Living Worlds hypothesis" in which our
+   understanding of what constitutes habitability cannot be separated from
+   life already extant on a planet. Planets that are geologically and
+   meteorologically alive are much more likely to be biologically alive as
+   well and "a planet and its life will co-evolve ."
+
+   In their 2004 book "The Privileged Planet", Guillermo Gonzalez and Jay
+   Richards explore the possible link between the habitability of a planet
+   and its suitability for observing the rest of the universe. This idea
+   of a "privileged" position for Earth life is disputed because of its
+   philosophical implications, especially the violation of the Copernican
+   principle.
+
+Suggested reading
+
+     * Cohen, Jack and Ian Stewart. Evolving the Alien: The Science of
+       Extraterrestrial Life, Ebury Press, 2002. ISBN 0-09-187927-2
+     * Doyle, Stephen H. Habitable Planets for Man, American Elsevier Pub.
+       Co, 1970. ISBN 0-444-00092-5
+     * Fogg, Martyn J., ed. "Terraforming" (entire special issue) Journal
+       of the British Interplanetary Society, April 1991
+     * Fogg, Martyn J. Terraforming: Engineering Planetary Environments,
+       SAE International, 1995. ISBN 1-56091-609-5
+     * Gonzalez, Guillermo and Richards, Jay W. The Privileged Planet,
+       Regnery, 2004. ISBN 0-89526-065-4
+     * Grinspoon, David. Lonely Planets: The Natural Philosophy of Alien
+       Life, HarperCollins, 2004.
+     * Lovelock, James. Gaia: A New Look at Life on Earth. ISBN
+       0-19-286218-9
+     * Schmidt, Stanley and Robert Zubrin, eds. Islands in the Sky, Wiley,
+       1996. ISBN 0-471-13561-5
+     * Ward, Peter and Donald Brownlee. Rare Earth: Why Complex Life is
+       Uncommon in the Universe, Springer, 2000. ISBN 0-387-98701-0
+
+   Retrieved from " http://en.wikipedia.org/wiki/Planetary_habitability"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

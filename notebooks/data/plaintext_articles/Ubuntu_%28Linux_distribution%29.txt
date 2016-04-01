@@ -1,0 +1,516 @@
+   #copyright
+
+Ubuntu (Linux distribution)
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: Ubuntu
+
+   Ubuntu 7.04 "Feisty Fawn" running GNOME.
+   Website:                 http://www.ubuntu.com/
+   Company/
+   developer:               Canonical Ltd./ Ubuntu Foundation
+   OS family:               Linux
+   Source model:            Free and Open Source Software
+   Latest stable release:   7.04 (Feisty Fawn) / April 19, 2007
+   Latest unstable release: 7.10 (Gutsy Gibbon) / October 18, 2007
+    Available language(s):  multilingual
+   Update method:           APT, Synaptic
+   Package manager:         dpkg
+   Supported platforms:     i386, AMD64, PowerPC, PlayStation 3, UltraSPARC
+   Kernel type:             Monolithic kernel (Linux)
+   Default user interface:  GNOME
+   Working state:           Current
+
+   Ubuntu ( IPA pronunciation: /u'buntu/) is a widely used Linux
+   distribution predominantly targeted at personal computers. Based on
+   Debian GNU/Linux, Ubuntu concentrates on usability, regular releases,
+   ease of installation, and freedom from legal restrictions. Ubuntu is
+   sponsored by Canonical Ltd., a private company founded by South African
+   entrepreneur Mark Shuttleworth.
+
+   The name of the distribution comes from the Zulu and Xhosa concept of
+   ubuntu, and can be roughly defined as, "the belief in a universal bond
+   of sharing that connects all humanity". Ubuntu’s slogan – “Linux for
+   Human Beings”, encapsulates one of its main goals – making Linux more
+   available and easy to use.
+
+   The most recent version, Ubuntu 7.04 (Feisty Fawn), was released on
+   April 19, 2007. Version 7.10 (Gutsy Gibbon) is scheduled for release on
+   October 18, 2007.
+
+History and development
+
+   Originally referred to as no-name-yet.com, Ubuntu's first release on
+   October 20, 2004 (version 4.10, following the "Y.MM" standard) began as
+   a temporary fork of Debian GNU/Linux, with the aim of drawing from
+   Debian's code regularly in order to allow for a new version of Ubuntu
+   to be released every six months, in step with the six month GNOME
+   release cycle. In contrast to other general-purpose forks of Debian
+   such as Xandros, Linspire and Libranet, Canonical remains close to
+   Debian's philosophy with Ubuntu and uses predominantly free software
+   rather than making the inclusion of proprietary applications part of
+   their business model.
+
+   Ubuntu uses Debian's Advanced Packaging Tool to manage installed
+   packages. Ubuntu packages are generally based on packages from Debian's
+   unstable repository; however, they are not always compatible with each
+   other. Several Ubuntu developers are also maintainers of packages
+   within Debian's repositories, and Ubuntu changes are contributed back
+   to Debian as they are made, rather than being announced only at release
+   time. Ian Murdock, the founder of Debian, criticised Ubuntu in April
+   2005 for incompatibilities between its packages and those of Debian
+   sarge, saying that Ubuntu had diverged too far to remain compatible.
+
+   Bugs in Ubuntu are tracked through the Launchpad web interface, which
+   integrates with the Bazaar version control system in a similar way to
+   SourceForge's integration with CVS.
+
+   Ubuntu is currently funded by Mark Shuttleworth through Canonical Ltd.
+   On July 8, 2005, Canonical announced the creation of the Ubuntu
+   Foundation and provided an initial funding of US$10 million. The
+   purpose of the foundation is to ensure the support and development for
+   all future versions of Ubuntu, but as of 2006, the foundation remains
+   dormant. Shuttleworth describes the foundation as an emergency fund
+   should Canonical's involvement end.
+
+   On May 1, 2007 Dell announced it would sell desktops and laptops with
+   Ubuntu pre-installed. It also stated that customers would be able to
+   buy support for Ubuntu through Dell, the support coming from Canonical.
+
+Features
+
+Usability
+
+   Ubuntu uses GNOME as its default desktop environment, intended to
+   provide a free, simple and intuitive interface. Whilst offering a full
+   range of desktop applications including OpenOffice.org, Mozilla Firefox
+   and GIMP, it aims to avoid overlap in its default feature set rather
+   than providing many different variants of similar packages.
+
+   After the initial Ubuntu installation, the user is greeted by a default
+   desktop with no desktop icons and an orange-brown user interface,
+   unusual in an operating system as nearly all others use blue as their
+   default colour. Applications are located under the 'Applications menu',
+   a desktop launcher menu in the top-left corner. Open windows can be
+   viewed on the taskbar along the bottom of the screen. Ubuntu is
+   available in over 40 languages, and also allows users to submit
+   additional translations using the Rosetta Translation tool.
+
+   Ubuntu's focus on usability includes the widespread use of the sudo
+   tool, which allows users to carry out administrative tasks without
+   initiating a potentially unsafe superuser session.
+
+Distribution
+
+   Ubuntu ships as an ISO image that fits on a single CD or alternatively,
+   in the case of the older version, Dapper Drake 6.06 LTS, and just
+   released Feisty Fawn 7.04, mailed free to anyone requesting them via
+   Canonical's ShipIt service. This is intended to reduce the amount of
+   time it takes to download Ubuntu and the possibility of losing part of
+   the installation software and/or to aid those users who are not
+   comfortable/able to burn an ISO image to CD. Many Linux distributions
+   necessitate the downloading of multiple ISO images and hours of
+   installation process, while Ubuntu is one of the few distributions that
+   can be installed quickly, and from a single CD. Additionally, all
+   Ubuntu versions since 4.10 can be downloaded for free.
+
+   Since version 6.06 LTS, Ubuntu's disc has served both as a live CD and
+   an install disc. This disc boots into a fully featured desktop,
+   allowing the user to see whether his hardware is compatible and
+   experiment with the applications available. The CD also allows the user
+   to install Ubuntu to the hard disk using the Ubiquity application, and
+   preserves documents created on the live desktop. An alternate install
+   disc using the text-mode debian-installer is also available, aimed
+   towards those with lower system specifications, towards administrators
+   installing Ubuntu on many systems, and for complex disk partitioning.
+
+   The live CD also contains a collection of free and open source
+   applications including Mozilla Firefox, Mozilla Thunderbird, AbiWord,
+   Blender and ClamAV, prepared in collaboration with the OpenCD project,
+   which can be installed if Windows is running while the CD is in the
+   drive.
+
+   There are two types of releases: one for desktop and laptop computers
+   and one for servers. The desktop and laptop version is available for
+   x86 and x86-64 computers. The server edition is available for both
+   platforms in addition to SPARC and does not ship as a Live CD (using
+   the text-mode installer exclusively).
+
+Accessibility
+
+   Ubuntu emphasizes accessibility and internationalisation, to reach as
+   many people as possible. Since version 5.04, UTF-8 has been the default
+   character encoding. High-visibility themes, screen-reading software,
+   and an on-screen keyboard all come with Ubuntu.
+
+   Canonical's Rosetta tool is a part of the Launchpad web-based
+   application which allows Ubuntu users to contribute translations of
+   Ubuntu software in a straightforward way.
+
+Ease of installation
+
+   Ubuntu is installed using a live CD (or LiveDistro). Users may boot
+   their computer from the CD instead of the hard disk. When they are
+   ready to install, they launch an installer which guides them through
+   the process.
+
+   Details of the installation process can be found on the main Ubuntu
+   site and at Easy Ubuntu Linux.
+
+   After installation, Ubuntu also offers an automatic updating feature.
+   With user permission, the system will find, retrieve, install, and
+   configure software updates.
+
+Community
+
+   Ubuntu places particular emphasis on community involvement with the
+   development process.
+
+   Ubuntu has a number of official web forums where discussion of the
+   operating system is encouraged. Canonical host a number of mailing
+   lists for the project and the developer mailing lists and Ubuntu's
+   developer conferences remain open to users. Ubuntu's regular
+   development conferences are open to the general public.
+
+   Users are encouraged to make use of The Fridge, a community weblog
+   intended to keep users informed with Ubuntu-related news.
+
+   The Human user interface theme in Ubuntu is characterised by shades of
+   brown and orange, with art intended to mimic African tribal imagery.
+   Illustrations of human beings in global communities feature prominently
+   in Ubuntu promotional artwork.
+
+Package classification and support
+
+   Browsing Ubuntu core packages in Synaptic.
+   Browsing Ubuntu core packages in Synaptic.
+
+   Ubuntu divides all software into four sections, called components, to
+   reflect differences in licensing and level of support available. The
+   components are Main, Restricted, Universe and Multiverse.
+
+   Main and Universe contain software which meets the Ubuntu license
+   requirements, which correspond roughly to the Debian Free Software
+   Guidelines. Main may also contain binary firmware and selected fonts
+   used in supported software that cannot be modified without permission.
+   In all cases, redistribution is unencumbered.
+
+   Non-free device drivers remain in the Restricted component, where
+   support is present because of their importance, but limited due to lack
+   of, or limited, access to the source code.
+
+   It is intended that Main and Restricted contain all software needed for
+   a general-use desktop operating system. Other, unsupported programs are
+   placed in Universe (free) and Multiverse (Non-free). Multiverse
+   contains software packages which may infringe on U.S. and international
+   patent or copyright law. Examples of these include software that
+   enables the playback of patented media formats. Due to the questionable
+   legal status of unofficial DVD-decoding in some parts of the world,
+   Libdvdcss was removed from Ubuntu's official repository, but can still
+   be downloaded at the VideoLAN Project's website. Encoding and decoding
+   libraries for many proprietary media formats such as Windows Media are
+   also unavailable by default.
+
+   Ubuntu Backports is an officially recognized project to backport newer
+   versions of certain software that are available only in unstable
+   versions of Ubuntu. The repository is not comprehensive; it mostly
+   consists of user-requested packages, which are approved if they meet
+   quality guidelines.
+
+   Unofficial utilities such as EasyUbuntu and Automatix aim to automate
+   the installation and configuration of software which is not officially
+   packaged for Ubuntu for legal or philosophical reasons. They are not
+   recommended by the Ubuntu development team and have been accused of
+   breaking updates.
+
+   Ubuntu has a certification system for third-party proprietary software,
+   and Canonical manage a special repository for certified proprietary
+   packages named Commercial, which includes software that Canonical have
+   obtained special permission to distribute. As of this writing, the
+   repository includes the Opera web browser and the RealPlayer media
+   player.
+
+Releases
+
+   Restricted drivers manager in Feisty Fawn.
+   Restricted drivers manager in Feisty Fawn.
+
+   Each Ubuntu release has an alliterative code name and a version number
+   based on the year and month of release (Example: April, 2007 saw the
+   release of 7.04 Feisty Fawn). Canonical provide support and security
+   updates for most Ubuntu versions for 18 months after release. There are
+   three current versions of Ubuntu: 6.06 Dapper LTS (Long term support),
+   6.10 Edgy Eft and 7.04 Feisty Fawn.
+
+List of releases
+
+   Version Release date Code name Sub Version Supported until Notes
+   4.10 20 October 2004 Warty Warthog Sounder April 30, 2006 Initial
+   release, support for x86, x86-64, PowerPC. ShipIt.
+   5.04 8 April 2005 Hoary Hedgehog Array October 31, 2006 Inclusion of
+   update-manager/upgrade-notifier, Kickstart compatibility, improved
+   laptop support.
+   5.10 13 October 2005 Breezy Badger Colony April 13, 2007 Graphical boot
+   process with progress bar (USplash), OEM Installer Support, Launchpad
+   tracking, GCC 4.0
+   6.06 LTS 1 June 2006 Dapper Drake Flight June, 2009 (desktops) LiveCD
+   and Installer on one disc, Ubiquity installer. First Long-Term Support
+   release.
+   June, 2011 (servers)
+   6.10 26 October 2006 Edgy Eft Knot April, 2008 Automated problem
+   reports, Upstart
+   7.04 19 April 2007 Feisty Fawn Herd October, 2008 Migration assistant,
+   KVM, Easy codec/restricted drivers installation, Desktop effects, WPA
+   support, PowerPC no longer officially supported
+   7.10 Planned for 18 October 2007 Gutsy Gibbon Tribe April, 2009
+   planning in progress
+                                  Legend:
+   no longer supported still supported current pre-release version planned
+
+Changes in releases
+
+   The first release, 4.10, introduced an update manager and improved
+   laptop capabilities. 5.04 was the first release to allow bugs to be
+   reported via Launchpad. It also intoduced a graphical progress bar
+   during boot-up. Third release, 6.06 LTS, was the first to include the
+   Live CD and installer on the same disc. Four months later, 6.10
+   introduced automatic problem reports and a new startup manager called
+   Upstart. The latest release, 7.04, includes wireless WPA support,
+   easier installation of restricted codecs and optional desktop effects
+   such as a wobble on moving a window. During the installation, wizard
+   can detect Windows XP accounts and transfer data from them. There is
+   also a KVM virtualisation support. The planned 7.10 release will
+   include more graphical desktop effects, an unattended installation and
+   more Click'N'Run options.
+
+Long Term Support
+
+   Ubuntu support periods.
+   Ubuntu support periods.
+
+   Release 6.06 LTS, codenamed "Dapper Drake", is the first Long Term
+   Support release of Ubuntu. Canonical intends to support LTS releases
+   with updates longer than other Ubuntu releases. Package updates are
+   planned and paid technical support is available for three years on the
+   desktop and five years on the server.
+
+   Ubuntu 6.06 LTS initially included GNOME 2.14, Mozilla Firefox 1.5.0.3,
+   OpenOffice.org 2.0.2, Xorg 7.0, GCC 4.0.3, and version 2.6.15 of the
+   Linux kernel. The first maintenance release, version 6.06.1, appeared
+   on 10 August 2006, and is still distributed alongside more recent
+   releases.
+
+   Version 6.06 was the first to be distributed as a single compact disc
+   that served both as a Live CD and an install disc. This disc boots into
+   a full-featured desktop, allowing users to see whether their hardware
+   is compatible and experiment with the applications available and then
+   install Ubuntu to the hard disk using the Ubiquity graphical installer.
+   The installation process preserves documents created on the live
+   desktop. An alternate install disc using the text-mode debian-installer
+   is available for download, and is aimed at people with lower system
+   specifications, administrators installing on many systems, and for
+   complex disk partitioning including the use of LVM or RAID.
+
+   Because of the longer support cycle, ShipIt program continued to ship
+   Dapper, rather than switching to newer Edgy Eft. However, since 11
+   April 2007, Feisty Fawn is available for ordering on the ShipIt
+   website.
+
+   The next LTS release is expected to be released in 2008 - either
+   Gutsy+1 (8.04) or Gutsy+2 (8.10).
+
+Edgy Eft
+
+   The following Ubuntu release, version 6.10, known as "Edgy Eft",
+   debuted new features such as a new System V init daemon replacement
+   called Upstart, as well as improvements to the memory usage of
+   applications like Evolution and Nautilus which led to an increase in
+   the speed of system boot up and application launch compared to version
+   6.06. Major applications in this release include GNOME 2.16.1, Mozilla
+   Firefox 2.0, OpenOffice.org 2.0.4, X.Org Server 7.1.1, GCC 4.1.1, and
+   version 2.6.17 of the Linux kernel.
+
+   Like previous releases, Edgy allows for direct upgrades from the
+   previous version. Upgrading from version 6.06 is not performed
+   automatically like normal package upgrades, requiring a special switch
+   to Update Manager. Other methods, such as the dist-upgrade feature of
+   apt-get, are not recommended. Some users reported serious trouble in
+   the process.
+
+Development
+
+   The next stable release will be Ubuntu 7.10, codenamed "Gutsy Gibbon".
+   Currently, this release is scheduled for 18 October 2007. Gutsy is
+   planned to also include a version containing only software that can be
+   modified and redistributed, that is free software, in conjunction with
+   gNewSense.
+
+System requirements
+
+   The current Ubuntu release, 7.04, requires 256 megabytes of RAM, and,
+   when installed to the hard disk, requires at least three gigabytes of
+   hard-disk space if installed as the usual Desktop installation. The
+   Server installation requires 64MB of RAM and 500MB of hard disk space.
+
+Known problems
+
+   Upgrading to Ubuntu 7.04 from previous versions has been known to cause
+   the boot process to fail. The main symptom is a partial boot followed
+   by a command prompt showing several processes failing due to "unknown
+   stanza". A critical file necessary for booting Ubuntu contains a typo,
+   which has caused this problem. Currently the best way to solve this
+   problem is to reformat the hard drive or partition containing Ubuntu
+   and do a complete re-install from the Ubuntu Live CD. Support for
+   solving this problem may be found at the Ubuntu Team Wiki.
+
+Variants
+
+   Kubuntu 7.04
+   Kubuntu 7.04
+   Xubuntu 6.06
+   Xubuntu 6.06
+
+   Variants of Ubuntu are divided into two broad categories:
+    1. Subsets of the distribution created by and within Ubuntu with a
+       custom installer or live CD that highlight certain aspects or
+       software within the distribution. These are variously referred to
+       as subproject, or flavours. They are analogous to "custom
+       distributions" in the Debian community.
+    2. Derivatives of Ubuntu created by individuals, groups or
+       organization working outside of the Ubuntu project but using or
+       tracking Ubuntu software. These projects are technically forks of
+       Ubuntu.
+
+Official/internal variants
+
+   There are several official variants of Ubuntu available, with releases
+   simultaneous with Ubuntu's, as their packages are drawn from the same
+   repositories. They are:
+     * Kubuntu, which uses KDE instead of GNOME as the default desktop
+       environment.
+     * Edubuntu, "designed for school environments, and should be equally
+       suitable for kids to use at home."
+     * Xubuntu, which uses the Xfce as the default desktop environment and
+       is designed for less powerful computers.
+     * Ubuntu Server Edition, which provides server applications.
+
+   Kubuntu, Ubuntu and Edubuntu can be ordered as CDs from the ShipIt
+   service.
+
+Unofficial derivatives
+
+   Other derivates include unofficial variants that usually use alternate
+   windowing systems.
+     * Elbuntu uses the Enlightenment window manager.
+     * Fluxbuntu uses the Fluxbox window manager. It is intended for use
+       on machines too slow to run a full desktop environment well.
+     * Linux For Clinics aims to create a medical friendly Ubuntu
+       distribution.
+     * Uberyl A Ubuntu based distribution that has Beryl and Automatix by
+       default.
+     * Ubuntu Lite shares a similar goal (intended for use on machines too
+       slow to run a full desktop environment ), but uses IceWM instead.
+     * Ubuntu Studio is a release geared towards multimedia production and
+       uses the GNOME desktop environment.
+     * nUbuntu uses Fluxbox to be more lightweight, but aims to appeal to
+       experienced Linux users, particularly in the area of network
+       security.
+
+Specific derivatives
+
+   Mark Shuttleworth has also endorsed the creation of an Ubuntu
+   distribution using only Free Software Foundation-approved free
+   software. Its release is now planned to coincide with Gutsy Gibbon. A
+   project with similar goals, gNewSense, was released on November 2,
+   2006; gNewSense is not an official version of Ubuntu.
+     * LinuxMCE (Linux Media Centre Edition) is an alternative to
+       Microsoft's Windows Media Centre based on Ubuntu.
+     * Scibuntu aims to make scientific programs more accessible.
+
+   It was widely rumoured that Google would be distributing an Ubuntu
+   derivative called Goobuntu. Google confirmed that it has created a
+   modified version of Ubuntu but insisted there are no plans to
+   distribute it outside the company.
+
+   xUbuntu (not to be confused with Xubuntu) is an PC-/Xbox-enabled
+   version of Ubuntu GNU/Linux distribution. xUbuntu is not a stand-alone,
+   independent distribution. The install process, the bootloader, the
+   kernel and the kernel modules - are all customized for PC and Xbox
+   (i386).
+
+Support
+
+   The Ubuntu website offers both commercial and community support.
+   Community support is free while commercial requires payments.
+
+   Community support is available in the forms of forums, IRC channels,
+   blogs and documentation.
+
+   Ubuntu's Documentation lists extensive guides on all branches of
+   Ubuntu, such as Ubuntu server version, Kubuntu and Xubuntu. There are
+   also extensive documentation to help with installation for i386, amd64,
+   powerpc, sparc, hppa and ia64 machines. Extracts from the official
+   Ubuntu book are also included. Documentations are available in HTML and
+   PDF form.
+
+   The community documentation is an alternative to the official
+   documentation. The community documentation is available in many
+   languages such as, but not limited to: Hebrew, German, French, Russian,
+   Italian, Korean and Chinese. Community Documentations are available on
+   topics such as installation, maintenance, hardware, applications,
+   switching from other operating systems and drivers.
+
+   Versions are supported for 18 months after release. Long term support
+   (LTS) editions are supported for four to six years.
+
+Community
+
+   Ubuntu-Women is a women-oriented project under Ubuntu and sponsored by
+   Canonical to provide a platform and encouragement for women to
+   contribute to free and open source software.
+
+   Started in January 2006, the goal of Ubuntu-Women is to supplement and
+   inspire women to be more aware of the technical aspects of the Ubuntu
+   world. Here, women can communicate openly and ask questions to
+   volunteers and mentors. By getting involved in this project, one gets
+   the opportunity to create new FLOSS software.
+
+   Participation in Ubuntu-Women is open to both men and women using
+   Ubuntu.
+
+   Each-One-Teach-One is a mentoring program where women can interact with
+   experts who volunteer in specific technical, documentation, translation
+   fields which provides them the necessary information and support to
+   grow in the Ubuntu world.
+
+Response
+
+   Statistics from Google Trends suggest that since late 2005, Google has
+   been receiving increasingly more searches for Ubuntu than for other
+   popular Linux distributions. The Ubuntu page on DistroWatch has been
+   the most frequently accessed of a comprehensive list of Linux
+   distributions for more than a year. Ubuntu was awarded the Reader Award
+   for best Linux distribution at the 2005 LinuxWorld Conference and Expo
+   in London. It has been favourably reviewed in online and print
+   publications. At Debconf 6 in May 2006, Mark Shuttleworth stated that
+   "about 6 million Breezy CDs" had been distributed through Ubuntu's
+   ShipIt program. Many reviewers of Ubuntu point out a main part of
+   Ubuntu's success is its community. Ubuntu was voted distribution of
+   2006 on LinuxQuestions.org.
+
+   The French Parliament has decided to switch to Ubuntu in June 2007.
+
+   Ubuntu and Canonical have received some criticism from the free
+   software community for the decision to include a larger number of
+   proprietary drivers in the default installation for version 7.04, and
+   as a result have decided to make these drivers optional. Ubuntu has
+   also received criticism from the Debian community, citing that Ubuntu
+   developers have forked the OS significantly enough to cause a break
+   between Debian and Ubuntu developers.
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Ubuntu_%28Linux_distribution%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,126 @@
+   #copyright
+
+Differential equation
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, a differential equation is an equation in which the
+   derivatives of a function appear as variables. Many of the fundamental
+   laws of physics, chemistry, biology and economics can be formulated as
+   differential equations. They express the relationship involving the
+   rates of change of continuously changing quantities modeled by
+   functions and are used whenever a rate of change (the derivative) is
+   known but the process originating is not. The solution of a
+   differential equation is usually a function whose derivatives satisfy
+   the equation. The question then becomes how to find the solutions of
+   those equations.
+
+   The mathematical theory of differential equations has developed
+   together with the sciences where the equations originate and where the
+   results find application. Diverse scientific fields often give rise to
+   identical problems in differential equations. In such cases, the
+   mathematical theory can unify otherwise quite distinct scientific
+   fields. A celebrated example is Fourier's theory of the conduction of
+   heat in terms of sums of trigonometric functions, Fourier series, which
+   finds application in the propagation of sound and electromagnetic
+   fields, optics, elasticity, spectral analysis of radiation, and other
+   scientific fields.
+
+   The order of a differential equation is that of the highest derivative
+   that it contains. For instance, a first-order differential equation
+   contains only first derivatives.
+
+Types of differential equations
+
+     * An ordinary differential equation (ODE) only contains functions of
+       one independent variable, and derivatives in that variable.
+     * A partial differential equation (PDE) contains functions of
+       multiple independent variables and their partial derivatives.
+     * A delay differential equation (DDE) contains functions of one
+       dependent variable, derivatives in that variable, and depends on
+       previous states of the dependent variables.
+     * A stochastic differential equation (SDE) is a differential equation
+       in which one or more of the terms is a stochastic process, thus
+       resulting in a solution which is itself a stochastic process.
+     * A differential algebraic equation (DAE) is a differential equation
+       comprising differential and algebraic terms, given in implicit
+       form.
+
+   Each of those categories is divided into linear and nonlinear
+   subcategories. A differential equation is linear if it involves the
+   unknown function and its derivatives only to the first power; otherwise
+   the differential equation is nonlinear. Thus if u' denotes the first
+   derivative of u, then the equation
+
+          u' = u
+
+   is linear, while the equation
+
+          u' = u^2
+
+   is nonlinear. Solutions of a linear equation in which the unknown
+   function or its derivative or derivatives appear in each term (linear
+   homogeneous equations) may be added together or multiplied by an
+   arbitrary constant in order to obtain additional solutions of that
+   equation, but there is no general way to obtain families of solutions
+   of nonlinear equations, except when they exhibit symmetries; see
+   symmetries and invariants. Linear equations frequently appear as
+   approximations to nonlinear equations, and these approximations are
+   only valid under restricted conditions.
+
+   The theory of differential equations is closely related to the theory
+   of difference equations, in which the coordinates assume only discrete
+   values, and the relationship involves values of the unknown function or
+   functions and values at nearby coordinates. Many methods to compute
+   numerical solutions of differential equations or study the properties
+   of differential equations involve approximation of the solution of a
+   differential equation by the solution of a corresponding difference
+   equation.
+
+   The study of differential equations is a wide field in both pure and
+   applied mathematics. Pure mathematicians study the types and properties
+   of differential equations, such as whether or not solutions exist, and
+   should they exist, whether they are unique. Applied mathematicians
+   emphasize differential equations from applications, and in addition to
+   existence/uniqueness questions, are also concerned with rigorously
+   justifying methods for approximating solutions. Physicists and
+   engineers are usually more interested in computing approximate
+   solutions to differential equations, and are typically less interested
+   in justifications for whether these approximations really are close to
+   the actual solutions. These solutions are then used to simulate
+   celestial motions, simulate neurons, design bridges, automobiles,
+   aircraft, sewers, etc. Often, these equations do not have closed form
+   solutions and are solved using numerical methods.
+
+   Mathematicians also study weak solutions (relying on weak derivatives),
+   which are types of solutions that do not have to be differentiable
+   everywhere. This extension is often necessary for solutions to exist,
+   and it also results in more physically reasonable properties of
+   solutions, such as shocks in hyperbolic (or wave) equations.
+
+   The study of the stability of solutions of differential equations is
+   known as stability theory.
+
+Famous differential equations
+
+     * Newton's Second Law in dynamics (mechanics)
+     * Radioactive Decay in nuclear physics
+     * Newton's law of cooling in thermodynamics.
+     * The wave equation
+     * Maxwell's equations in electromagnetism
+     * The heat equation in thermodynamics
+     * Laplace's equation, which defines harmonic functions
+     * Poisson's equation
+     * Einstein's field equation in general relativity
+     * The Schrödinger equation in quantum mechanics
+     * The geodesic equation
+     * The Navier-Stokes equations in fluid dynamics
+     * The Lotka-Volterra equation in population dynamics
+     * The Black-Scholes equation in finance
+     * The Cauchy-Riemann equations in complex analysis
+
+   Retrieved from " http://en.wikipedia.org/wiki/Differential_equation"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,288 @@
+   #copyright
+
+List of particles
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   This is a list of particles in particle physics, including currently
+   known and hypothetical elementary particles, as well as the composite
+   particles that can be built up from them.
+
+          For a chronological listing of subatomic particles by discovery
+          date, see Timeline of particle discoveries.
+
+   A new particle is discovered: The first detection of the positron
+   occurred in 1932 in a cloud chamber built by Carl D. Anderson. The
+   track of the positron can be seen, going from top to bottom and curving
+   to the right.
+   Enlarge
+   A new particle is discovered: The first detection of the positron
+   occurred in 1932 in a cloud chamber built by Carl D. Anderson. The
+   track of the positron can be seen, going from top to bottom and curving
+   to the right.
+
+Elementary particles
+
+   An elementary particle is a particle with no measurable internal
+   structure, that is, it is not a composite of other particles. They are
+   the fundamental objects of quantum field theory. Elementary particles
+   can be classified according to their spin, with fermions having
+   half-integer spin and bosons integer spin.
+
+Standard Model
+
+   The Standard Model of particle physics is our current understanding of
+   the physics of elementary particles. All Standard Model particles
+   except the Higgs boson have been observed.
+
+Fermions (half-integer spin)
+
+   Quark structure proton: 2 up quarks and 1 down quark.
+   Enlarge
+   Quark structure proton: 2 up quarks and 1 down quark.
+
+   Fermions have half-integer spin; for all known elementary fermions this
+   is ½. Each fermion has its own distinct antiparticle. Fermions are the
+   basic building blocks of all matter. They are classified according to
+   whether they interact via the colour force or not. According to the
+   Standard Model, there are 12 flavours of elementary fermions: six
+   quarks and six leptons.
+     * Quarks interact via the colour force. Their respective
+       antiparticles are known as antiquarks. Quarks exist in six
+       flavours:
+
+   Generation Name/Flavor Electric charge ( e) Mass ( MeV) Antiquark
+   1 Up (u) +2/3 1.5 to 4 antiup quark (\overline{u})
+   Down (d) −1/3 4 to 8 antidown quark (\overline{d})
+   2 Strange (s) −1/3 80 to 130 antistrange quark (\overline{s})
+   Charm (c) +2/3 1,150 to 1,350 anticharm quark (\overline{c})
+   3 Bottom (b) −1/3 4,100 to 4,400 antibottom quark (\overline{b})
+   Top (t) +2/3 171,400 ± 2,100 antitop quark (\overline{t})
+
+     * Leptons do not interact via the colour force. Their respective
+       antiparticles are known as antileptons (although the antiparticle
+       of the electron is called the positron for historical reasons).
+       Leptons also exist in six flavours:
+
+   Charged lepton / antiparticle Neutrino / antineutrino
+   Name Symbol Electric charge ( e) Mass ( MeV) Name Symbol Electric
+   charge ( e) Mass ( MeV)
+   Electron / Positron e^- \, / \, e^+ −1 / +1 0.511 Electron neutrino /
+   Electron antineutrino \nu_e \, / \, \overline{\nu}_e 0 < 0.0000022
+   Muon \mu^- \, / \, \mu^+ −1 / +1 105.7 Muon neutrino / Muon
+   antineutrino \nu_\mu \, / \, \overline{\nu}_\mu 0 < 0.17
+   Tau lepton \tau^- \, / \, \tau^+ −1 / +1 1,777 Tau neutrino / Tau
+   antineutrino \nu_\tau \, / \, \overline{\nu}_\tau 0 < 15.5
+
+   Note that the neutrino masses are known to be non-zero because of
+   neutrino oscillation, but their masses are sufficiently light that they
+   have not been measured directly as of 2006.
+
+Bosons (integer spin)
+
+   Bosons have whole number spins. The fundamental forces of nature are
+   mediated by gauge bosons, and mass is hypothesized to be created by the
+   Higgs boson. According to the Standard Model the elementary bosons are:
+
+           Name  Charge ( e) Spin Mass ( GeV)  Force mediated
+          Photon 0           1    0           Electromagnetism
+          W^±    ±1          1    80.4        Weak nuclear
+          Z^0    0           1    91.2        Weak nuclear
+          Gluon  0           1    0           Strong nuclear
+          Higgs  0           0    >112        See below
+
+   The Higgs boson (spin-0) is predicted by electroweak theory, and is the
+   only Standard Model particle not yet observed. In the Higgs mechanism
+   of the Standard Model, the massive Higgs boson is created by
+   spontaneous symmetry breaking of the Higgs field. The intrinsic masses
+   of the elementary particles (particularly the massive W^± and Z^0
+   bosons) would be explained by their interactions with this field. Many
+   physicists expect the Higgs to be discovered at the Large Hadron
+   Collider (LHC) particle accelerator now under construction at CERN.
+
+Hypothetical particles
+
+   Supersymmetric theories predict the existence of more particles, none
+   of which have been confirmed experimentally as of 2006.
+     * The neutralino (spin-½) is a superposition of the superpartners of
+       several neutral Standard Model particles. It is a leading candidate
+       for dark matter. The partners of charged bosons are called
+       charginos.
+     * The photino (spin-½) is the superpartner of the photon.
+     * The gravitino (spin-^3⁄[2]) is the superpartner of the graviton
+       boson in supergravity theories.
+     * Sleptons and squarks (spin-0) are the supersymmetric partners of
+       the Standard Model fermions. The stop squark (superpartner of the
+       top quark) is thought to have a low mass and is often the subject
+       of experimental searches.
+
+   Other theories predict the existence of additional bosons.
+     * The graviton (spin-2) has been proposed to mediate gravity in
+       theories of quantum gravity.
+     * The graviscalar (spin-0) and graviphoton (spin-1).
+     * The axion (spin-0) is a pseudoscalar particle introduced in
+       Peccei-Quinn theory to solve the strong-CP problem.
+     * The saxion (spin-0, scalar, R parity=1) and the axino (spin-1/2, R
+       parity = -1) form together with the axion a supermultiplet in
+       supersymmetric extensions of Peccei-Quinn theory.
+     * The X boson and the Y boson are predicted by GUT theories to be
+       heavier equivalents of the W and Z.
+     * The magnetic photon.
+     * Sterile neutrinos are introduced by many extensions to the Standard
+       Model, and may be needed to explain the LSND results.
+     * Mirror particles are predicted by theories that restore Parity
+       symmetry.
+
+   Magnetic monopole is a generic name for particles with non-zero
+   magnetic charge. They are predicted by some GUT theories.
+
+   Tachyon is a generic name for hypothetical particles that travel faster
+   than the speed of light and have an imaginary rest mass.
+
+   The preon was a suggested substructure for both quarks and leptons, but
+   modern collider experiments have all but disproven their existence.
+
+Composite particles
+
+Hadrons
+
+   Hadrons are defined as strongly interacting composite particles.
+   Hadrons are either:
+     * Fermions, in which case they are called baryons.
+     * Bosons, in which case they are called mesons.
+
+   Quark models, first proposed in 1964 independently by Murray Gell-Mann
+   and George Zweig (who called quarks "aces"), describe the known hadrons
+   as composed of valence quarks and/or antiquarks, tightly bound by the
+   colour force, which is mediated by gluons. A "sea" of virtual
+   quark-antiquark pairs is also present in each hadron.
+
+Baryons (fermions)
+
+   A combination of three u, d or s-quarks with a total spin of 3/2 form
+   the so-called baryon decuplet.
+   Enlarge
+   A combination of three u, d or s-quarks with a total spin of 3/2 form
+   the so-called baryon decuplet.
+
+   Ordinary baryons ( fermions) contain three valence quarks or three
+   valence antiquarks each.
+     * Nucleons are the fermionic constituents of normal atomic nuclei:
+          + Protons
+          + Neutrons
+     * Hyperons such as the Λ, Σ, Ξ, and Ω particles, which contain one or
+       more strange quarks, are short-lived and heavier than nucleons.
+       Although not normally present in atomic nuclei, they can appear in
+       short-lived hypernuclei.
+     * A number of charmed and bottom baryons have also been observed.
+
+   Some hints at the existence of exotic baryons have been found recently;
+   however, negative results have also been reported. Their existence is
+   uncertain.
+     * Pentaquarks consist of four valence quarks and one valence
+       antiquark.
+
+Mesons (bosons)
+
+   Mesons of spin 0 form a nonet
+   Enlarge
+   Mesons of spin 0 form a nonet
+
+   Ordinary mesons ( bosons) contain a valence quark and a valence
+   antiquark, and include the pion, kaon, the J/ψ, and many other types of
+   mesons. In quantum hadrodynamic models, the strong force between
+   nucleons is mediated by mesons.
+
+   Exotic mesons may also exist. Positive signatures have been reported
+   for all of these particles at some time, but their existence is still
+   somewhat uncertain.
+     * Tetraquarks consist of two valence quarks and two valence
+       antiquarks.
+     * Glueballs are bound states of gluons with no valence quarks.
+     * Hybrids consist of one or more valence quark-antiquark pairs and
+       one or more real gluons.
+
+Atomic nuclei
+
+   Atomic nuclei consist of protons and neutrons. Each type of nucleus
+   contains a specific number of protons and a specific number of
+   neutrons, and is called a nuclide or isotope. Nuclear reactions can
+   change one nuclide into another. See Isotope table (complete) for a
+   list of isotopes.
+
+Atoms
+
+   Atoms are the smallest neutral particles into which matter can be
+   divided by chemical reactions. An atom consists of a small, heavy
+   nucleus surrounded by a relatively large, light cloud of electrons.
+   Each type of atom corresponds to a specific chemical element, of which
+   111 have been officially named. Refer to the periodic table for an
+   overview.
+
+Molecules
+
+   Molecules are the smallest particles into which a non-elemental
+   substance can be divided while maintaining the physical properties of
+   the substance. Each type of molecule corresponds to a specific chemical
+   compound. Molecules are composites of one or more atoms. See list of
+   compounds for a list of molecules.
+
+Condensed matter
+
+   The field equations of condensed matter physics are remarkably similar
+   to those of high energy particle physics. As a result, much of the
+   theory of particle physics applies to condensed matter physics as well;
+   in particular, there are a selection of field excitations, called
+   quasi-particles, that can be created and explored. These include:
+     * Phonons are vibrational modes in a crystal lattice.
+     * Excitons are bound states of an electron and a hole.
+     * Plasmons are coherent excitations of a plasma.
+     * Polaritons are mixtures of photons with other quasi-particles.
+     * Polarons are moving, charged (quasi-) particles that are surrounded
+       by ions in a material.
+     * Magnons are coherent excitations of electron spins in a material.
+
+Other
+
+     * A WIMP (weakly interacting massive particle) is any one of a number
+       of particles that might explain dark matter (such as the neutralino
+       or the axion).
+     * The pomeron, used to explain the elastic scattering of hadrons and
+       the location of Regge poles in Regge theory.
+     * The skyrmion, a topological soliton of the pion field, used to
+       model the low-energy properties of the nucleon, such as the axial
+       vector current coupling and the mass.
+     * A goldstone boson is a massless excitation of a field that has been
+       spontaneously broken. The pions are quasi-Goldstone bosons (quasi-
+       because they are not exactly massless) of the broken chiral isospin
+       symmetry of quantum chromodynamics.
+     * A goldstino is a Goldstone fermion produced by the spontaneous
+       breaking of supersymmetry.
+     * An instanton is a field configuration which is a local minimum of
+       the Euclidean action. Instantons are used in nonperturbative
+       calculations of tunneling rates.
+     * A dyon is a hypothetical particle with both electric and magnetic
+       charges
+     * A geon is an electromagnetic or gravitational wave which is held
+       together in a confined region by the gravitational attraction of
+       its own field energy.
+     * An Oh-My-God particle is an ultra-high energy cosmic ray (probably
+       a proton) falling well beyond the GZK cutoff, the energy limit
+       beyond which virtually no cosmic rays should be detected.
+     * A spurion is the name given to a "particle" inserted mathematically
+       into an isospin-violating decay in order to analyze it as though it
+       conserved isospin.
+
+Classification by speed
+
+     * A tardyon or bradyon travels slower than light and has a non-zero
+       rest mass.
+     * A luxon travels at the speed of light and has no rest mass.
+     * A tachyon (mentioned above) is a hypothetical particle that travels
+       faster than the speed of light and has an imaginary rest mass.
+
+   Retrieved from " http://en.wikipedia.org/wiki/List_of_particles"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

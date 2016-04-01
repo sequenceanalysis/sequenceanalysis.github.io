@@ -1,0 +1,435 @@
+   #copyright
+
+IBM Colour Graphics Adapter
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+
+   This is a featured article. Click here for more information.
+
+   The Colour Graphics Adapter (CGA), introduced in 1981, was IBM's first
+   color graphics card (originally sold under the name "Color/Graphics
+   Monitor Adapter"), and the first colour computer display standard for
+   the IBM PC.
+
+   The standard IBM CGA graphics card was equipped with 16 kilobytes of
+   video memory, and could be connected either to a NTSC-compatible
+   monitor or TV via an RCA jack, or to a dedicated RGBI CRT monitor.
+   Based around the Motorola MC6845 display controller, the CGA card
+   featured several graphics and text modes. The highest resolution of any
+   mode was 640×200, and the highest colour depth supported was 4-bit (16
+   colors).
+
+The CGA colour palette
+
+         '''Full CGA 16-colour palette'''
+   0 — black
+   #000000                 8 — (dark) gray
+                           #555555
+   1 — blue
+   #0000AA                 9 — bright blue
+                           #5555FF
+   2 — green
+   #00AA00                 10 — bright green
+                           #55FF55
+   3 — cyan
+   #00AAAA                 11 — bright cyan
+                           #55FFFF
+   4 — red
+   #AA0000                 12 — bright red
+                           #FF5555
+   5 — magenta
+   #AA00AA                 13 — bright magenta
+                           #FF55FF
+   6 — brown
+   #AA5500                 14 — yellow
+                           #FFFF55
+   7 — white (light gray)
+   #AAAAAA                 15 — bright white
+                           #FFFFFF
+
+   The CGA's maximum colour depths of four bits results in a palette of 16
+   colors. The lower three bits, representing red, green and blue,
+   corresponded to the three cathode rays, with black meaning all rays
+   were almost off. Cyan was a mix between the blue and green rays,
+   magenta was a mix between blue and red and orange-brown was a mix
+   between green and red. White (or light gray) was a mix between all
+   three rays.
+
+   The remaining 8 colors were achieved by turning on a fourth
+   "intensifier" bit, giving a brighter version of each color, although
+   the dark gray colour was indistinguishable from black with many
+   monitors. CGA's "RGB plus intensity bit" design was also called RGBI.
+
+   There is some confusion regarding color #6 on RGBI monitors: If one
+   strictly follows the RGBI color model, color #6 would appear as dark
+   yellow (#AAAA00) (see below). However, IBM chose to include additional
+   circuitry in the 5153 color monitor to detect colour #6 and lower the
+   green component to yield a more pleasing brown-tone (#AA5500), so most
+   "CGA compatible" monitors do the same. As to why IBM chose to do this,
+   the predominant theory is that IBM wanted to make the colors more
+   closely match the colors of the 3270 mainframe terminal, specifically
+   the 3279.
+
+Standard text modes
+
+   CGA offered two text modes:
+     * 40×25 characters in up to 16 colors. Each character was a pattern
+       of 8×8 dots. The effective screen resolution in this mode was
+       320×200 pixels (a pixel aspect ratio of 1:1.2), though individual
+       pixels could not be addressed independently. The choice of patterns
+       for any location was thus limited to one of the 256 available
+       characters, the patterns for which were stored in a ROM chip on the
+       card itself. The display font in text mode was therefore fixed and
+       could not be changed (although when using the original IBM CGA in
+       an original IBM PC it was possible to select one of two different
+       fonts—normal or thin—by changing a jumper. Many clones didn't offer
+       this possibility). This mode allowed each character a foreground
+       and a background colour, both of which could be freely chosen from
+       the entire CGA palette (see table)—e.g. red on yellow text for one
+       character, white on black for the next and cyan on gray for yet
+       another. The card had sufficient video RAM for 8 different text
+       pages in this mode.
+
+     * 80×25 characters in up to 16 colors. Each character was again an
+       8×8 dot pattern (the same character set was used as for 40×25), in
+       a pixel aspect ratio of 1:2.4. The effective screen resolution of
+       this mode was 640×200 pixels. Again, the pixels could not be
+       individually addressed. Since there were twice as many characters
+       on the screen in this mode, the card had enough video RAM just for
+       4 different text pages.
+
+Standard RGB graphics modes
+
+                                           Fixed CGA 4-colour palette #1
+                                            default            5 — magenta
+                                           3 — cyan 7 — white (light gray)
+                                           Fixed CGA 4-colour palette #2
+                                            default                4 — red
+                                          2 — green     6 — brown (orange)
+
+   CGA offered two commonly-used graphics modes:
+     * 320×200 pixels, as with the 40×25 text mode. In the graphics mode,
+       however, each pixel could be addressed independently. The tradeoff
+       was that only 4 colors could be displayed at a time. These four
+       colors could not be freely chosen from the 16 CGA colors — there
+       were only two official palettes for this mode:
+         1. Magenta, cyan, white and background colour (black by default).
+         2. Red, green, brown/yellow and background colour (black by
+            default).
+
+   By setting the high-intensity bit, brighter versions of these modes
+   could be accessed.
+
+          The 1:1.2 pixel aspect ratio needed to be taken into account
+          when drawing large geometrical shapes on the screen.
+
+     * 640×200 pixels, as with the 80×25 text mode. All pixels could be
+       addressed independently. This mode was monochrome, offering only
+       black and white as colors (though this could be changed), with a
+       pixel aspect ratio of 1:2.4.
+
+   In text mode, font bitmap data came from the character ROM on the card,
+   which was only available to the card itself. In graphics modes, text
+   output by the BIOS used two separate tables: The first half of the
+   character set (128 characters) was supplied by a table in the BIOS at
+   F000:FA6E, and the second half was supplied by the location pointed to
+   by interrupt 1F (0000:007C). The second half of the character set would
+   display as blanks (or garbage, depending on implementation) unless they
+   were explicitly defined, usually by a utility such as GRAFTABL or by
+   the calling program.
+
+Further RGB graphics modes and tweaks
+
+                                 "Tweaked" 3rd Fixed CGA 4-colour palette
+                                  default                          4 - red
+                                 3 — cyan           7 — white (light gray)
+
+   A number of official and unofficial features existed that could be
+   exploited to achieve better graphics on an RGBI monitor.
+     * In 320×200 graphics mode, the background color, which defaulted to
+       black on mode initialization, could be changed to any of the other
+       15 colors of the CGA palette. This allowed for some variation, as
+       well as flashing effects, as the background colour could be changed
+       without having to redraw the screen.
+     * In 640×200 graphics mode, the foreground colour could be changed
+       from its usual white to any of the other 15 colors.
+     * In text mode, the border colour (displayed outside the regular
+       display area) could be changed from its usual black to any of the
+       other 15 colors.
+     * A third 320×200 4-color palette was achieved by enabling the
+       monochrome bit while in color graphics mode. This switched the
+       current graphics palette to red, cyan, white and the background
+       colour.
+     * Through precision timing, it was possible to switch to another
+       palette while the screen content was still being drawn, allowing
+       the use of any one of the 6 palettes per scanline. The best example
+       of this in use is the game California Games when run on a stock
+       4.77 MHz 8088. (Running it on a faster computer did not produce the
+       effect, as the method the programmers used to switch palettes at
+       predetermined locations was extremely sensitive to machine speed.)
+       The same could be done with the background colour, to create the
+       river and road in frogger.
+     * Additional colors were often approximated using dithering, although
+       the low resolution made it very apparent.
+
+   Some of these above tweaks could even be combined. Examples could be
+   found in several games . Most software titles did not use these
+   possibilities, but there were a few impressive exceptions.
+
+The 160×100 16 colour mode
+
+   Technically, this mode was not a graphics mode, but a tweak of the
+   80×25 text mode. The character cell height register was changed to
+   display only 2 lines per character cell instead of the normal 8 lines.
+   This quadrupled the number of text rows displayed from 25 to 100. These
+   "tightly squeezed" text characters were not full characters. The system
+   only displayed their top two lines of pixels (8 each) before moving on
+   to the next row.
+     Image:ASCII.221.character.gif              [Character 221.]
+     Image:Half-block.character.blue.red.gif    [221 with blue text and
+                                               red background colour.]
+     Image:Half-block.character.red.blue.gif    [221 with red text and
+                                               blue background colour.]
+     Image:ASCII.222.character.gif              [Character 222.]
+
+   Character 221 in the extended ASCII character set consisted of a box
+   occupying the entire left half of the character matrix. (Character 222
+   consisted of a box occupying the entire right half.)
+
+   Because each character could be assigned different foreground and
+   background colors, it could be colored (for example) blue on the left
+   (foreground color) and bright red on the right (background colour).
+   This could be reversed by swapping the foreground and background
+   colors.
+
+   Using either character 221 or 222, each half of each truncated
+   character cell could thus be treated as an individual pixel— making 160
+   horizontal pixels available per line. Thus, 160×100 pixels at 16
+   colors, with an aspect ratio of 1:1.2, were possible.
+
+   A single big "pixel" in 160×100 mode.
+   This is the two top rows of half of character 221.
+   Note the 8 constituent pixels and the
+   overall 1:1.2 aspect ratio.
+
+   Although a roundabout way of achieving 16 colour graphics display, this
+   worked quite well and the mode was even mentioned (although not
+   explained) in IBM's official hardware documentation.
+
+   More detail could be achieved in this mode by using other characters,
+   combining ASCII art with the aforesaid technique.
+
+   Because the CGA had 16384 bytes of graphics memory, not 16000, it was
+   just as easy to set the number of lines in this mode to 102 instead of
+   100 for a resolution of 160x102. This used extra video memory that was
+   normally unused. However most games did not do this, perhaps out of
+   fear it would only work on some monitors but not others.
+
+   The same text cell height reduction technique could also be used with
+   the 40×25 text mode. This only made sense when using ASCII art, because
+   without it the resulting resolution would only have been 80×100 .
+
+Composite video display
+
+   While connecting a dedicated RGBI color monitor was the more common
+   configuration, it was also possible to connect an NTSC-compatible
+   composite colour monitor, or even a normal TV set, to the CGA's RCA
+   output jack. As is common with NTSC composite video, the separation
+   between luminance and chrominance was far from perfect, yielding
+   cross-colour artifacts, or colour "smearing". This was especially a
+   problem with 80-column text (left: RGBI, right: composite):
+
+   For this reason, using an RGBI colour monitor was the preferred
+   configuration.
+
+A flaw turned into an advantage
+
+   However, programmers soon found out that this flaw could be turned into
+   an asset, as distinct patterns of high-resolution dots would "smear"
+   into consistent areas of solid colors, thus allowing the display of
+   completely new colors. Since these new colors are the result of
+   cross-colour artifacting, they are often called artifact colors. Both
+   the standard 320x200 four-colour and the 640x200 black-and-white
+   graphics modes could be used with this technique:
+
+   320x200 palette 1
+
+                    320x200 palette 2
+
+                                     640x200
+
+   Thus, with the choice of 320x200 vs. 640x200 mode, the choice of
+   palette (1 or 2) and the freely-selectable colour 0 in 320x200 modes
+   (see above), each one of these parameters resulted in a different set
+   of artifact colors, making for a total gamut of well over a hundred
+   colors, of which 16 can be displayed at the same time.
+
+Availability
+
+   The 320x200 variant of this technique (see above) was just how the
+   standard BIOS-supported graphics mode looked on a composite color
+   monitor. The 640x200 variant however required modifying a bit (color
+   burst disable) directly in the CGA's hardware registers, as a result,
+   it is usually referred to as a seperate "mode", often just as "the"
+   composite colour mode, since its more distinctive set of artifact
+   colors led it to being more commonly used than the 320x200 variant.
+
+   Being completely dependent on the NTSC encoding/decoding process,
+   composite colour artifacting is not available on an RGBI monitor, nor
+   is it emulated by EGA, VGA or contemporary graphics adapters.
+
+Resolution and usage
+
+   Due to the relationship between the CGA's pixel clock and the NTSC
+   color subcarrier, the effective horizontal resolution is reduced to 160
+   pixels of any colour, or 320 pixels when limiting oneself to black and
+   white pixels.
+
+   This low resolution led to composite color artifacting being used
+   almost exclusively in games, with many of the more high-profile titles
+   optionally, sometimes exclusively, offering graphics optimized for
+   composite colour monitors:
+
+   Ultima II
+
+            King's Quest
+
+Bugs and errata
+
+   CGA's most noticeable hardware bug was snow in 80×25 text mode. The
+   display RAM on the original IBM CGA card was not dual-ported — read and
+   write access was not possible simultaneously. As such, random pixels
+   were displayed whenever display memory was written to by the CPU at the
+   same time as being read by the display hardware. This bug was fixed in
+   most third-party clones, but still existed in some iterations (such as
+   the AT&T PC 6300 display adapter).
+
+   For programmers, another annoyance was that CGA display memory in
+   graphics modes was interlaced. Normally, video memory is strictly
+   linear: the next row of display data corresponds to the next row of
+   pixels. But with CGA, the next row of display data corresponded to the
+   row of pixels two rows down. This continued until the end of the screen
+   and only with the second half of display data were the in-between rows
+   addressed. So the first half of display memory was for rows 0, 2, 4,
+   etc., until the end of the screen and the second half of CGA RAM was
+   for rows 1, 3, 5, etc. This added calculation steps to most CGA
+   graphics operations if the programmer wanted to avoid visual artifacts
+   when updating the screen.
+
+                                                               Dark Yellow
+                                                               #AAAA00
+
+   As previously mentioned, IBM designed the 5153 CGA monitor to
+   intentionally darken color index #6 from dark yellow to brown; however,
+   some clone monitors did not have this circuitry. On such monitors, or
+   5153 monitors where this circuitry had failed, color index #6 would
+   remain dark yellow (see colour example).
+
+   The total amount of video memory on a CGA card (16384 total bytes) is
+   not fully utilised by all BIOS-initiated video modes (40×25 and 80×25
+   text modes, 320×200 and 640×200 graphics modes). Only by setting up
+   video modes manually using CGA port writes can all 16384 bytes be
+   displayed as pixel elements simultaneously.
+
+Specifications
+
+Connector
+
+   Pin numbers (looking at socket):
+
+   CAPTION: Pin assignments
+
+   Pin    Function
+   1   Ground
+   2   Ground
+   3   Red
+   4   Green
+   5   Blue
+   6   Intensity
+   7   Reserved
+   8   Horizontal Sync
+   9   Vertical Sync
+
+Signal
+
+      Type    Digital, TTL
+   Resolution 640h × 200v, 320h × 200v
+     H-freq   15.75kHz
+     V-freq   60Hz
+     Colors   16
+
+Screenshots
+
+   Alley Cat using palette 1 in low-intensity.
+
+   Castle Master using palette 2 in high-intensity.
+
+   Arachne running 640×200 mode, default foreground colour.
+
+Competing adapters
+
+   CGA had two main competitors:
+     * For business and word processing use, IBM launched its Monochrome
+       Display Adapter (MDA) at the same time as CGA. The MDA produced a
+       higher resolution text display in 80×25 mode, rendering each
+       character in a box of 9×14 pixels, of which 7×11 were the character
+       itself. This produced sharper characters than the CGA's 8×8 dots
+       text character matrix allowed. Because of this and CGA's higher
+       price at the time, MDA was often preferred for business use.
+
+     * In 1982, the non-IBM Hercules Graphics Card (HGC) was introduced.
+       In addition to an MDA-compatible text mode, it offered a monochrome
+       graphics mode. With a resolution of 720×348 pixels, the graphics
+       mode was better than what CGA could produce. The Hercules adapter's
+       offer of better monochrome graphics and its ability to work with
+       less expensive monochrome monitors made it a desirable choice for
+       many. As early as 1985, emulator memory-resident programs such as
+       SIMCGA were available, allowing the display of CGA graphics mode
+       data in Hercules graphics modes (the result looking like crude
+       dithering).
+
+   A less widely-used competitor was the Plantronics Colorplus, a
+   CGA-compatible card which doubled the video RAM to 32k, thus allowing
+   16 colors at 320×200 resolution and 4 colors at 640×200 resolution. The
+   "extended CGA" modes provided by the IBM PCjr and Tandy 1000 were
+   similar to these modes.
+
+   The CGA card was succeeded in the consumer space by IBM's Enhanced
+   Graphics Adapter (EGA) card, which supported most of CGA's modes, and
+   added an additional resolution (640×350) as well as a
+   software-selectable palette of 16 colors out of 64 in both text and
+   graphics modes.
+
+Market penetration
+
+   When IBM introduced its PC in 1981, the CGA standard, though introduced
+   at the same time, was used relatively little at first. Most people
+   bought PCs for business computing. For gaming, other brands of home
+   computers were much more popular, and at that time colour graphics were
+   considered to have little more than toy value. Thus, most early PC
+   buyers opted for the cheaper text-only Monochrome Display Adapter (MDA)
+   instead of CGA.
+
+   In 1982 came the introduction of the Hercules Graphics Card, which
+   offered monochrome-only graphics at a much higher resolution than the
+   CGA card and was more compatible with MDA, further eroding CGA's market
+   share. The HGC was arguably the most commonly-utilized card connected
+   to monochrome monitors throughout the IBM PC's life.
+
+   Things changed in 1984 when IBM introduced the PC AT and the Enhanced
+   Graphics Adapter (EGA). Along with this move, the price of the older
+   CGA card was lowered considerably; it now became an attractive low-cost
+   solution and was soon adopted by the new PC cloning companies as well.
+   Entry-level non-AT PCs with CGA graphics sold very well during the next
+   few years, and consequently there were many games released for such
+   systems, despite their limitations. CGA's popularity started to wane
+   after VGA became IBM's high-level solution and EGA the entry-level
+   solution in 1987.
+   Retrieved from "
+   http://en.wikipedia.org/wiki/IBM_Color_Graphics_Adapter"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

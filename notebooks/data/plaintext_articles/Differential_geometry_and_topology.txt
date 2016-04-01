@@ -1,0 +1,225 @@
+   #copyright
+
+Differential geometry and topology
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, differential topology is the field dealing with
+   differentiable functions on differentiable manifolds. It arises
+   naturally from the study of the theory of differential equations.
+   Differential geometry is the study of geometry using differential
+   calculus (cf. integral geometry). These fields are adjacent, and have
+   many applications in physics, notably in the theory of relativity.
+   Together they make up the geometric theory of differentiable manifolds
+   - which can also be studied directly from the point of view of
+   dynamical systems.
+
+Intrinsic versus extrinsic
+
+   Initially and up to the middle of the nineteenth century, differential
+   geometry was studied from the extrinsic point of view: curves and
+   surfaces were considered as lying in a Euclidean space of higher
+   dimension (for example a surface in an ambient space of three
+   dimensions). The simplest results are those in the differential
+   geometry of curves. Starting with the work of Riemann, the intrinsic
+   point of view was developed, in which one cannot speak of moving
+   'outside' the geometric object because it is considered as given in a
+   free-standing way.
+
+   The intrinsic point of view is more flexible. For example, it is useful
+   in relativity where space-time cannot naturally be taken as extrinsic
+   (what would be 'outside' it?). With the intrinsic point of view it is
+   harder to define the central concept of curvature and other structures
+   such as connections, so there is a price to pay.
+
+   These two points of view can be reconciled, i.e. the extrinsic geometry
+   can be considered as a structure additional to the intrinsic one (see
+   the Nash embedding theorem).
+
+Technical requirements
+
+   The apparatus of differential geometry is that of calculus on
+   manifolds: this includes the study of manifolds, tangent bundles,
+   cotangent bundles, differential forms, exterior derivatives, integrals
+   of p-forms over p-dimensional submanifolds and Stokes' theorem, wedge
+   products, and Lie derivatives. These all relate to multivariable
+   calculus; but for the geometric applications must be developed in a way
+   that makes good sense without a preferred coordinate system. The
+   distinctive concepts of differential geometry can be said to be those
+   that embody the geometric nature of the second derivative: the many
+   aspects of curvature.
+
+   A real differentiable manifold is a topological space with a collection
+   of diffeomorphisms from open sets of the space to open subsets in R^n
+   such that the open sets cover the space, and if f, g are
+   diffeomorphisms then the composite mapping f o g ^-1 from an open
+   subset of the open unit ball to the open unit ball is infinitely
+   differentiable. We say a function from the manifold to R is infinitely
+   differentiable if its composition with every diffeomorphism results in
+   an infinitely differentiable function from the open unit ball to R. Of
+   course manifolds need not be real, for example we can have complex
+   manifolds.
+
+   At every point of the manifold, there is the tangent space at that
+   point, which consists of every possible velocity (direction and
+   magnitude) with which it is possible to travel away from this point.
+   For an n-dimensional manifold, the tangent space at any point is an
+   n-dimensional vector space, or in other words a copy of R^n. The
+   tangent space has many definitions. One definition of the tangent space
+   is as the dual space to the linear space of all functions which are
+   zero at that point, divided by the space of functions which are zero
+   and have a first derivative of zero at that point. Having a zero
+   derivative can be defined by "composition by every differentiable
+   function to the reals has a zero derivative", so it is defined just by
+   differentiability.
+
+   A vector field is a function from a manifold to the disjoint union of
+   its tangent spaces (this union is itself a manifold known as the
+   tangent bundle), such that at each point, the value is an element of
+   the tangent space at that point. Such a mapping is called a section of
+   a bundle. A vector field is differentiable if for every differentiable
+   function, applying the vector field to the function at each point
+   yields a differentiable function. Vector fields can be thought of as
+   time-independent differential equations. A differentiable function from
+   the reals to the manifold is a curve on the manifold. This defines a
+   function from the reals to the tangent spaces: the velocity of the
+   curve at each point it passes through. A curve will be said to be a
+   solution of the vector field if, at every point, the velocity of the
+   curve is equal to the vector field at that point.
+
+   An alternating k-dimensional linear form is an element of the
+   antisymmetric k'th tensor power of the dual V^* of some vector space V.
+   A differential k-form on a manifold is a choice, at each point of the
+   manifold, of such an alternating k-form -- where V is the tangent space
+   at that point. This will be called differentiable if whenever it
+   operates on k differentiable vector fields, the result is a
+   differentiable function from the manifold to the reals. A space form is
+   a linear form with the dimensionality of the manifold.
+
+Differential topology
+
+   Differential topology per se considers the properties and structures
+   that require only a smooth structure on a manifold to define (such as
+   those in the previous section). Smooth manifolds are 'softer' than
+   manifolds with extra geometric structures, which can act as
+   obstructions to certain types of equivalences and deformations that
+   exist in differential topology. For instance, volume and Riemannian
+   curvature are invariants that can distinguish different geometric
+   structures on the same smooth manifold—that is, one can smoothly
+   "flatten out" certain manifolds, but it might require distorting the
+   space and affecting the curvature or volume.
+
+   Conversely, smooth manifolds are more rigid than the topological
+   manifolds. Certain topological manifolds have no smooth structures at
+   all (see Donaldson's theorem) and others have more than one
+   inequivalent smooth structure (such as exotic spheres). Some
+   constructions of smooth manifold theory, such as the existence of
+   tangent bundles, can be done in the topological setting with much more
+   work, and others cannot.
+
+   See also transversality
+
+Branches of differential geometry
+
+Contact geometry
+
+   Contact geometry is an analog of symplectic geometry which works for
+   certain manifolds of odd dimension. Roughly, the contact structure on
+   (2n+1)-dimensional manifold is a choice of a hyperplane field that is
+   nowhere integrable. This is equivalent to the hyperplane field being
+   defined by a 1-form α such that \alpha\wedge (d\alpha)^n does not
+   vanish anywhere.
+
+Finsler geometry
+
+   Finsler geometry has the Finsler manifold as the main object of study —
+   this is a differential manifold with a Finsler metric, i.e. a Banach
+   norm defined on each tangent space. A Finsler metric is much more
+   general structure than a Riemannian metric. Then a Finsler structure on
+   a manifold M is a function F : TM → [0,n) such that:
+    1. F(x, my) = mF(x,y) for all x, y in TM,
+    2. F is infinitely differentiable in TM − {0},
+    3. The vertical Hessian of FF/2 is positive definite.
+
+Riemannian geometry
+
+   Riemannian geometry has Riemannian manifolds as the main object of
+   study — smooth manifolds with additional structure which makes them
+   look infinitesimally like Euclidean space. These allow one to
+   generalise the notion from Euclidean geometry and analysis such as
+   gradient of a function, divergence, length of curves and so on; without
+   assumptions that the space is globally so symmetric. The Riemannian
+   curvature tensor is an important pointwise invariant associated to a
+   Riemannian manifold that measures how close it is to being flat.
+
+Symplectic geometry
+
+   Symplectic geometry is the study of symplectic manifolds. A symplectic
+   manifold is a differentiable manifold equipped with a symplectic form
+   ω(that is, a non-degenerate, bilinear, skew-symmetric and closed 2-
+   form). Since the symplectic form must be skew-symmetric, its matrix
+   representation must be skew-symmetric, i.e.
+
+          M^{\top} = -M .
+
+   It follows that det(M) = ( − 1)^ndet(M) if M is an n \times n matrix.
+   Thus, for odd n we see that det(M) = 0, and so non-degenerate
+   skew-symmetric two forms can only exist on even dimensional spaces.
+   Unlike in Riemannian geometry, all symplectic manifolds are locally
+   isomorphic: this is called Darboux's theorem and follows from the
+   assumption that ω is closed, so the only invariants of a symplectic
+   manifold are global in nature. A diffeomorphism between two symplectic
+   spaces which preserves the symplectic structure (i.e. the symplectic
+   form) is called a symplectomorphism.
+
+   In dimension 2, a symplectic manifold is just a manifold endowed with
+   an area form. The first result in symplectic topology is probably the
+   Poincare-Birkhoff theorem, conjectured by Poincare and proved by
+   Birkhoff in 1912. This claims that if an area preserving map of a ring
+   twists each boundary component in opposite directions, then the map has
+   at least two fixed points.
+
+   It is easy to show that the area preserving condition (or the twisting
+   condition) cannot be removed.
+
+   Note that if one tries to extend such a theorem to higher dimensions,
+   one would probably guess that a volume preserving map of a certain type
+   must have fixed points. This is false in dimensions greater than 3.
+
+Complex and Kähler geometry
+
+   Complex differential geometry is the study of complex manifolds. An
+   almost complex manifold is a real manifold M, endowed with a tensor of
+   type (1,1), i.e. a vector bundle endomorphism (called almost complex
+   structure)
+
+   J:TM\rightarrow TM , such that J^2 = − 1.
+
+   By definition, an almost complex manifold is even dimensional.
+
+   An almost complex manifold is called complex if N[J] = 0, where N[J] is
+   a tensor of type (2,1) related to J, called "torsion" or "Nijenhuis
+   tensor". An almost complex manifold is complex if and only if admits an
+   holomorphic atlas. An almost hermitian structure is given by a couple
+   (J,g) where J is an almost complex structure and g is a riemannian
+   metric, satisfying the compatibility condition g(JX,JY) = g(X,Y). An
+   almost hermitian structure defines naturally a 2- differential form
+   ω[J,g](X,Y): = g(JX,Y) The following two conditions are equivalent:
+
+   1) N[J] = 0 and dω = 0;
+
+   2) \nabla J=0,
+
+   where \nabla is the Levi-Civita connection of g. In this case, (J,g) is
+   called a Kähler structure. In particular, a Kähler manifold is a
+   manifold endowed with a Kähler structure. In particular, a Kähler
+   manifold is a complex and a symplectic manifold. A large class of
+   Kähler manifolds is given by all the smooth complex algebraic
+   varieties.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Differential_geometry_and_topology"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

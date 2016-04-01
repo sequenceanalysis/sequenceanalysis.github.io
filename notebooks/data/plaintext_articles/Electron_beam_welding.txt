@@ -1,0 +1,99 @@
+   #copyright
+
+Electron beam welding
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering
+
+   Electron beam welding (EBW) is a fusion welding process in which a beam
+   of high-velocity electrons are applied to the materials being joined.
+   The workpieces melt as the kinetic energy of the electrons is
+   transformed into heat upon impact, and the filler metal, if used, also
+   melts to form part of the weld. Pressure is not applied, and a
+   shielding gas is not used, though the welding is often done in
+   conditions of a vacuum to prevent dispersion of the electron beam. The
+   process was developed in France and released on November 23, 1957 in
+   Paris by J. A. Stohr.
+
+Operation
+
+   As the electrons strike the workpiece, their energy is converted into
+   heat, instantly vaporizing the metal under temperatures near 25,000
+   °C. The heat penetrates deeply, making it possible to weld much thicker
+   workpieces than is possible with most other welding processes. However,
+   because the electron beam is tightly focused, the total heat input is
+   actually much lower than that of any arc welding process. As a result,
+   the effect of welding on the surrounding material is minimal, and the
+   heat-affected zone is small. Distortion is slight, and the workpiece
+   cools rapidly, and while normally an advantage, this can lead to
+   cracking in high-carbon steel. Almost all metals can be welded by the
+   process, but the most commonly welded are stainless steels,
+   superalloys, and reactive and refractory metals. The process is also
+   widely used to perform welds of a variety of dissimilar metals
+   combinations. However, attempting to weld plain carbon steel in a
+   vacuum causes the metal to emit gases as it melts, so deoxidizers must
+   be used to prevent weld porosity.
+
+   The amount of heat input, and thus the penetration, depends on several
+   variables, most notably the number and speed of electrons impacting the
+   workpiece, the diameter of the electron beam, and the travel speed.
+   Greater beam current causes an increase in heat input and penetration,
+   while higher travel speed decreases the amount of heat input and
+   reduces penetration. The diameter of the beam can be varied by moving
+   the focal point with respect to the workpiece—focusing the beam below
+   the surface increases the penetration, while placing the focal point
+   above the surface increases the width of the weld.
+
+   The three primary methods of EBW are each applied in different welding
+   environments. The method first developed requires that the welding
+   chamber be at a hard vacuum. As a result, the chamber must be small to
+   prevent it from being crushed under atmospheric pressure. Material as
+   thick as 15  cm (6  in) can be welded, and the distance between the
+   welding gun and workpiece (the stand-off distance) can be as great as
+   0.7 m (30 in). While the most efficient of the three modes,
+   disadvantages include the amount of time required to properly evacuate
+   the chamber and the cost of the entire machine. As electron beam gun
+   technology advanced, it became possible to perform EBW in a soft
+   vacuum, under pressure of 0.1 torrs. This allows for larger welding
+   chambers and reduces the time and equipment required to attain evacuate
+   the chamber, but reduces the maximum stand-off distance by half and
+   decreases the maximum material thickness to 5 cm (2 in). The third EBW
+   mode is called nonvacuum or out-of-vacuum EBW, since it is performed at
+   atmospheric pressure. The stand-off distance must be diminished to 4 cm
+   (1.5 in), and the maximum material thickness is about 5 cm (2 in).
+   However, it allows for workpieces of any size to be welded, since the
+   size of the welding chamber is no longer a factor.
+
+Equipment
+
+   The electron beam gun used in EBW both produces the electrons and
+   accelerates them, using an emitter made of tungsten that emits
+   electrons when heated. The electrons are then attracted to an anode
+   inside the tool, where they collect and are then directed with magnetic
+   forces resulting from focusing and deflection coils. These components
+   are all housed in an electron beam gun column, in which a hard vacuum
+   (about 0.00001 torr) is maintained.
+
+   The EBW power supply pulls a low current (usually less than 1  A), but
+   provides a voltage as high as 60 kV in low-voltage machines, or 200 kV
+   in high-voltage machines. High-voltage machines supply a current as low
+   as 40 mA, and can provide a weld depth-to-width ratio of 25:1, whereas
+   the ratio with a low-voltage machine is around 12:1. The beam power of
+   a power supply is an indicator of its ability to do work, and
+   determines the power density (generally 40-4000  kW/cm² or
+   100-10,000 kW/in²).
+
+   For the hard vacuum and soft vacuum EBW methods, the welding chamber
+   used must be airtight and strong enough to prevent it from being
+   crushed by atmospheric pressure. It must have openings so that the
+   workpieces can be inserted and removed, and its size must be sufficient
+   to hold the workpieces but not significantly larger, as larger chambers
+   require more time to evacuate. The chamber must also be equipped with
+   pumps capable of evacuating it to the desired pressure. For a hard
+   vacuum, a diffusion pump is necessary, while soft vacuums can often be
+   obtained by less costly equipment.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electron_beam_welding"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

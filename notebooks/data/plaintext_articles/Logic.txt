@@ -1,0 +1,591 @@
+   #copyright
+
+Logic
+
+2007 Schools Wikipedia Selection. Related subjects: Philosophy
+
+   Logic, from Classical Greek λόγος ( logos), originally meaning the
+   word, or what is spoken, (but coming to mean thought or reason) is the
+   study of criteria for the evaluation of arguments, although the exact
+   definition of logic is a matter of controversy among philosophers.
+   However the subject is grounded, the task of the logician is to advance
+   an account of valid and fallacious inference, to allow one to
+   distinguish logical from flawed arguments.
+
+   Traditionally, logic is studied as a branch of philosophy, one part of
+   the classical trivium, which consisted of grammar, logic, and rhetoric.
+   Since the mid-nineteenth century logic has also been commonly studied
+   in mathematics and law. More recently logic has been applied to
+   computer science. The parts that make up a computer chip are often
+   called "logic gates".
+
+   As a formal science, logic investigates and classifies the structure of
+   statements and arguments, both through the study of formal systems of
+   inference and through the study of arguments in natural language. The
+   scope of logic can therefore be very large, ranging from core topics
+   such as the study of fallacies and paradoxes, to specialized analyses
+   of reasoning such as probability, correct reasoning, and arguments
+   involving causality. Logic is also commonly used today in argumentation
+   theory.
+
+Nature of logic
+
+   The nature of logic has been the object of intense dispute: it is not
+   possible to clearly delineate the bounds of logic in terms acceptable
+   to all rival viewpoints. Despite that controversy, the study of logic
+   has been very coherent and technically grounded. In this article, we
+   first characterize logic by introducing fundamental ideas about form,
+   then by outlining some schools of thought, as well as by giving a brief
+   overview of logic's history, an account of its relationship to other
+   sciences, and finally, an exposition of some of logic's essential
+   concepts.
+
+Informal, formal, and symbolic logic
+
+   The crucial concept of form is central to discussions of the nature of
+   logic, and it complicates exposition that 'formal' in "formal logic" is
+   commonly used in an ambiguous manner. Symbolic language is actually a
+   species or class of formal logic, and should be distinguished from
+   another class of formal logic in traditional Aristotelian syllogistic
+   logic, which deals solely with categorical propositions. We shall start
+   by giving definitions that we shall adhere to in the rest of this
+   article:
+     * Informal logic is the study of natural language arguments. The
+       study of fallacies is an especially important branch of informal
+       logic. The dialogs of Plato are a major example of informal logic.
+     * Formal logic is the study of inference with purely formal content,
+       where that content is made explicit. (An inference possesses a
+       purely formal content if it can be expressed as a particular
+       application of a wholly abstract rule, that is, a rule that is not
+       about any particular thing or property. The first rules of formal
+       logic that have come down to us were written by Aristotle. We will
+       see later that in many definitions of logic, logical inference and
+       inference with purely formal content are the same thing. This does
+       not render the notion of informal logic vacuous, since one may wish
+       to investigate logic without committing to a particular formal
+       analysis.)
+
+     * Symbolic logic is the study of symbolic abstractions that capture
+       the formal features of logical inference.
+
+   The ambiguity is that "formal logic" is very often used with the
+   alternate meaning of symbolic logic as we have defined it, with
+   informal logic meaning any logical investigation that does not involve
+   symbolic abstraction; it is this sense of 'formal' that is parallel to
+   the received usages coming from " formal languages" or " formal
+   theory".
+
+   While formal logic is old, dating back more than two millennia, most of
+   symbolic logic is comparatively new, and arises with the application of
+   insights from mathematics to problems in logic. Generally, a symbolic
+   logic is captured by a formal system, comprising a formal language
+   including rules for creating expressions in the language, and a set of
+   rules of derivation. The expressions will normally be intended to
+   represent claims that we may be interested in, and likewise the rules
+   of derivation represent inferences; such systems usually have an
+   intended interpretation.
+
+   For example, consider a very simple formal system that has just the
+   symbols "p", "q", and "and" in its language. Its only rules for
+   creating expressions are (1) "'p and q' and 'q and p' are expressions"
+   and (2) Any expression compounded with another by 'and" is also an
+   expression". Its only rule of derivation is "from any expression of the
+   form 'p and q', you may conclude 'p'". The intended interpretation of
+   the "p" and "q" is that they stand for any sentence. The intended
+   interpretation of 'and' is expressed by specifying when sentences that
+   contain 'and' are true. Most systems would interpret 'and' like this:
+   sentences containing 'and' are true only when the expressions on either
+   side of it (both of them) are true.
+
+   A formal system can also have axioms. An axiom is a sentence that
+   counts as always true within the system. For example, many systems have
+   as an axiom the sentence "If P implies Q and P is the case, then Q is
+   the case." To go along with the axioms the system will have a special
+   rule of derivation, called the 'rule of substitution'. It says that you
+   can derive from any axiom a sentence that is just like it, except that
+   other sentences have been substituted for the 'P' and the 'Q'. For
+   example, from the axiom above, we can conclude the following: "If R&S
+   implies that T or U, and R&S is the case; then it is the case that T or
+   U." (This assumes that "R&S" and "T or U" are expressions in the formal
+   system.) Most formal systems have either a rich set of rules of
+   derivation, but few or no axioms; or a rich set of axioms but only the
+   derivation rule of substitution.
+
+   Sentences that are derived using the system's axioms and rules of
+   derivation are called theorems.
+
+Consistency, soundness, and completeness
+
+   There are three valuable properties that formal systems can have:
+
+          + Consistency, which means that none of the theorems of the
+            system contradict
+
+          + Soundness, which means that the system's rules of derivation
+            will never let you infer anything false, so long as you start
+            with only true premises. So if a system is sound (and its
+            axioms, if any, are true), then the theorems of a sound formal
+            system are the truths. All of the theorems of a system that
+            has no axioms are its truths and sometimes the truths of such
+            a system are called 'logical truths.' (Note that if a system
+            is not consistent, it cannot be sound. This is because a
+            contradiction is always false, so if two theorems contradict
+            at least one is false.)
+
+          + Completeness, which means that there are no true sentences in
+            the system that cannot, at least in principle, be proved using
+            the derivation rules (and axioms, if any) of the system.
+
+   Not all systems achieve all three virtues. It has been proven by Kurt
+   Gödel that a system with enough axioms and/or rules of derivation to
+   derive the principles of arithmetic cannot be both consistent and
+   complete. These are called Gödel's incompleteness theorems.
+
+Important families of formal systems
+
+   Formal logic encompasses a wide variety of logical systems. Various
+   systems of logic discussed below include term logic, predicate logic,
+   propositional logic, and modal logic, and formal systems are
+   indispensable in all branches of mathematical logic. The table of logic
+   symbols describes various widely used notations in symbolic logic.
+
+Rival conceptions of logic
+
+   Logic arose (see below) from a concern with correctness of
+   argumentation. The conception of logic as the study of argument is
+   historically fundamental, and was how the founders of distinct
+   traditions of logic, namely Plato, Aristotle, Mozi and Aksapada
+   Gautama, conceived of logic. Modern logicians usually wish to ensure
+   that logic studies just those arguments that arise from appropriately
+   general forms of inference; so for example the Stanford Encyclopedia of
+   Philosophy says of logic that it does not, however, cover good
+   reasoning as a whole. That is the job of the theory of rationality.
+   Rather it deals with inferences whose validity can be traced back to
+   the formal features of the representations that are involved in that
+   inference, be they linguistic, mental, or other representations
+   (Hofweber 2004).
+
+   By contrast Immanuel Kant introduced an alternative idea as to what
+   logic is. He argued that logic should be conceived as the science of
+   judgement, an idea taken up in Gottlob Frege's logical and
+   philosophical work, where thought (German: Gedanke) is substituted for
+   judgement (German: Urteil). On this conception, the valid inferences of
+   logic follow from the structural features of judgements or thoughts.
+
+   A third view of logic arises from the idea that logic is more
+   fundamental than reason, and so that logic is the science of states of
+   affairs (German: Sachverhalt) in general. Barry Smith locates Franz
+   Brentano as the source for this idea, an idea he claims reaches its
+   fullest development in the work of Adolf Reinach (Smith 1989). This
+   view of logic appears radically distinct from the first: on this
+   conception logic has no essential connection with argument, and the
+   study of fallacies and paradoxes no longer appears essential to the
+   discipline.
+
+   Occasionally one encounters a fourth view as to what logic is about: it
+   is a purely formal manipulation of symbols according to some prescribed
+   rules. This conception can be criticized on the grounds that the
+   manipulation of just any formal system is usually not regarded as
+   logic. Such accounts normally omit an explanation of what it is about
+   certain formal systems that makes them systems of logic.
+
+Relation to other sciences
+
+   Logic is related to rationality and the structure of concepts, and so
+   has a degree of overlap with psychology. Logic is generally understood
+   to describe reasoning in a prescriptive manner (i.e. it describes how
+   reasoning ought to take place), whereas psychology is descriptive, so
+   the overlap is not so marked. Gottlob Frege, however, was adamant about
+   anti-psychologism: that logic should be understood in a manner
+   independent of the idiosyncrasies of how particular people might
+   reason.
+
+Deductive and inductive reasoning
+
+   Originally, logic consisted only of deductive reasoning which concerns
+   what follows necessarily from given premises. However, inductive
+   reasoning—the process of deriving a reliable generalization from
+   observations—has sometimes been included in the study of logic.
+   Correspondingly, we must distinguish between deductive validity and
+   inductive validity. An inference is deductively valid if and only if
+   there is no possible situation in which all the premises are true and
+   the conclusion false. The notion of deductive validity can be
+   rigorously stated for systems of formal logic in terms of the
+   well-understood notions of semantics. Inductive validity on the other
+   hand requires us to define a reliable generalization of some set of
+   observations. The task of providing this definition may be approached
+   in various ways, some less formal than others; some of these
+   definitions may use mathematical models of probability. For the most
+   part this discussion of logic deals only with deductive logic.
+
+History of logic
+
+   While many cultures have employed intricate systems of reasoning and
+   math, logic as an explicit analysis of the methods of reasoning
+   received sustained development originally only in three places: India
+   in the 6th century BC, China in the 5th century BC, and Greece between
+   the 4th century BC and the 1st century BC.
+
+   The formally sophisticated treatment of modern logic descends from the
+   Greek tradition, the latter mainly being informed from the transmission
+   of Aristotelian logic. The traditions outside Europe did not survive
+   into the modern era: in China, the tradition of scholarly investigation
+   into logic was repressed by the Qin dynasty following the legalist
+   philosophy of Han Feizi, in the Islamic world the rise of the Asharite
+   school suppressed original work on logic.
+
+   However in India, innovations in the scholastic school, called Nyaya,
+   continued into the early 18th century. It did not survive long into the
+   colonial period. In the 20th century, western philosophers like
+   Stanislaw Schayer and Klaus Glashoff have tried to explore certain
+   aspects of the Indian tradition of logic.
+
+   During the medieval period, after it was shown that Aristotle's ideas
+   were largely compatible with faith, a greater emphasis was placed upon
+   Aristotle's logic. During the later period of the medieval ages, logic
+   became a main focus of philosophers, who would engage in critical
+   logical analyses of philosophical arguments.
+
+Topics in logic
+
+   Throughout history, there has been interest in distinguishing good from
+   bad arguments, and so logic has been studied in some more or less
+   familiar form. Aristotelian logic has principally been concerned with
+   teaching good argument, and is still taught with that end today, while
+   in mathematical logic and analytical philosophy much greater emphasis
+   is placed on logic as an object of study in its own right, and so logic
+   is studied at a more abstract level.
+
+   Consideration of the different types of logic explains that logic is
+   not studied in a vacuum. While logic often seems to provide its own
+   motivations, the subject develops most healthily when the reason for
+   our interest is made clear.
+
+Syllogistic logic
+
+   The Organon was Aristotle's body of work on logic, with the Prior
+   Analytics constituting the first explicit work in formal logic,
+   introducing the syllogistic. The parts of syllogistic, also known by
+   the name term logic, were the analysis of the judgements into
+   propositions consisting of two terms that are related by one of a fixed
+   number of relations, and the expression of inferences by means of
+   syllogisms that consisted of two propositions sharing a common term as
+   premise, and a conclusion which was a proposition involving the two
+   unrelated terms from the premises.
+
+   Aristotle's work was regarded in classical times and from medieval
+   times in Europe and the Middle East as the very picture of a fully
+   worked out system. It was not alone: the Stoics proposed a system of
+   propositional logic that was studied by medieval logicians; nor was the
+   perfection of Aristotle's system undisputed; for example the problem of
+   multiple generality was recognised in medieval times. Nonetheless,
+   problems with syllogistic logic were not seen as being in need of
+   revolutionary solutions.
+
+   Today, some academics claim that Aristotle's system is generally seen
+   as having little more than historical value (though there is some
+   current interest in extending term logics), regarded as made obsolete
+   by the advent of sentential logic and the predicate calculus. Others
+   use Aristotle in argumentation theory to help develop and critically
+   question argumentation schemes that are used in artificial intelligence
+   and legal arguments.
+
+Predicate logic
+
+   Logic as it is studied today is a very different subject to that
+   studied before, and the principal difference is the innovation of
+   predicate logic. Whereas Aristotelian syllogistic logic specified the
+   forms that the relevant part of the involved judgements took, predicate
+   logic allows sentences to be analysed into subject and argument in
+   several different ways, thus allowing predicate logic to solve the
+   problem of multiple generality that had perplexed medieval logicians.
+   With predicate logic, for the first time, logicians were able to give
+   an account of quantifiers general enough to express all arguments
+   occurring in natural language.
+
+   The development of predicate logic is usually attributed to Gottlob
+   Frege, who is also credited as one of the founders of analytical
+   philosophy, but the formulation of predicate logic most often used
+   today is the first-order logic presented in Principles of Theoretical
+   Logic by David Hilbert and Wilhelm Ackermann in 1928. The analytical
+   generality of the predicate logic allowed the formalisation of
+   mathematics, and drove the investigation of set theory, allowed the
+   development of Alfred Tarski's approach to model theory; it is no
+   exaggeration to say that it is the foundation of modern mathematical
+   logic.
+
+   Frege's original system of predicate logic was not first-, but
+   second-order. Second-order logic is most prominently defended (against
+   the criticism of Willard Van Orman Quine and others) by George Boolos
+   and Stewart Shapiro.
+
+Modal logic
+
+   In languages, modality deals with the phenomenon that subparts of a
+   sentence may have their semantics modified by special verbs or modal
+   particles. For example, "We go to the games" can be modified to give
+   "We should go to the games", and "We can go to the games"" and perhaps
+   "We will go to the games". More abstractly, we might say that modality
+   affects the circumstances in which we take an assertion to be
+   satisfied.
+
+   The logical study of modality dates back to Aristotle, who was
+   concerned with the alethic modalities of necessity and possibility,
+   which he observed to be dual in the sense of De Morgan duality. While
+   the study of necessity and possibility remained important to
+   philosophers, little logical innovation happened until the landmark
+   investigations of Clarence Irving Lewis in 1918, who formulated a
+   family of rival axiomatisations of the alethic modalities. His work
+   unleashed a torrent of new work on the topic, expanding the kinds of
+   modality treated to include deontic logic and epistemic logic. The
+   seminal work of Arthur Prior applied the same formal language to treat
+   temporal logic and paved the way for the marriage of the two subjects.
+   Saul Kripke discovered (contemporaneously with rivals) his theory of
+   frame semantics which revolutionised the formal technology available to
+   modal logicians and gave a new graph-theoretic way of looking at
+   modality that has driven many applications in computational linguistics
+   and computer science, such as dynamic logic.
+
+Deduction and reasoning
+
+   The motivation for the study of logic in ancient times was clear, as we
+   have described: it is so that we may learn to distinguish good from bad
+   arguments, and so become more effective in argument and oratory, and
+   perhaps also, to become a better person.
+
+   This motivation is still alive, although it no longer takes centre
+   stage in the picture of logic; typically dialectical logic will form
+   the heart of a course in critical thinking, a compulsory course at many
+   universities, especially those that follow the American model.
+
+Mathematical logic
+
+   Mathematical logic really refers to two distinct areas of research: the
+   first is the application of the techniques of formal logic to
+   mathematics and mathematical reasoning, and the second, in the other
+   direction, the application of mathematical techniques to the
+   representation and analysis of formal logic.
+
+   The earliest use of mathematics and geometry in relation to logic and
+   philosophy goes back to the ancient Greeks such as Euclid, Plato, and
+   Aristotle. Many other ancient and medieval philosophers applied
+   mathematical ideas and methods to their philosophical claims.
+
+   The boldest attempt to apply logic to mathematics was undoubtedly the
+   logicism pioneered by philosopher-logicians such as Gottlob Frege and
+   Bertrand Russell: the idea was that mathematical theories were logical
+   tautologies, and the programme was to show this by means to a reduction
+   of mathematics to logic. The various attempts to carry this out met
+   with a series of failures, from the crippling of Frege's project in his
+   Grundgesetze by Russell's paradox, to the defeat of Hilbert's Program
+   by Gödel's incompleteness theorems.
+
+   Both the statement of Hilbert's Program and its refutation by Gödel
+   depended upon their work establishing the second area of mathematical
+   logic, the application of mathematics to logic in the form of proof
+   theory. Despite the negative nature of the incompleteness theorems,
+   Gödel's completeness theorem, a result in model theory and another
+   application of mathematics to logic, can be understood as showing how
+   close logicism came to being true: every rigorously defined
+   mathematical theory can be exactly captured by a first-order logical
+   theory; Frege's proof calculus is enough to describe the whole of
+   mathematics, though not equivalent to it. Thus we see how complementary
+   the two areas of mathematical logic have been.
+
+   If proof theory and model theory have been the foundation of
+   mathematical logic, they have been but two of the four pillars of the
+   subject. Set theory originated in the study of the infinite by Georg
+   Cantor, and it has been the source of many of the most challenging and
+   important issues in mathematical logic, from Cantor's theorem, through
+   the status of the Axiom of Choice and the question of the independence
+   of the continuum hypothesis, to the modern debate on large cardinal
+   axioms.
+
+   Recursion theory captures the idea of computation in logical and
+   arithmetic terms; its most classical achievements are the
+   undecidability of the Entscheidungsproblem by Alan Turing, and his
+   presentation of the Church-Turing thesis. Today recursion theory is
+   mostly concerned with the more refined problem of complexity classes --
+   when is a problem efficiently solvable? -- and the classification of
+   degrees of unsolvability.
+
+Philosophical logic
+
+   Philosophical logic deals with formal descriptions of natural language.
+   Most philosophers assume that the bulk of "normal" proper reasoning can
+   be captured by logic, if one can find the right method for translating
+   ordinary language into that logic. Philosophical logic is essentially a
+   continuation of the traditional discipline that was called "Logic"
+   before it was supplanted by the invention of mathematical logic.
+   Philosophical logic has a much greater concern with the connection
+   between natural language and logic. As a result, philosophical
+   logicians have contributed a great deal to the development of
+   non-standard logics (e.g., free logics, tense logics) as well as
+   various extensions of classical logic (e.g., modal logics), and
+   non-standard semantics for such logics (e.g., Kripke's technique of
+   supervaluations in the semantics of logic).
+
+   Logic and the philosophy of language are closely related. Philosophy of
+   language has to do with the study of how our language engages and
+   interacts with our thinking. Logic has an immediate impact on other
+   areas of study. Studying logic and the relationship between logic and
+   ordinary speech can help a person better structure their own arguments
+   and critique the arguments of others. Many popular arguments are filled
+   with errors because so many people are untrained in logic and unaware
+   of how to correctly formulate an argument.
+
+   Philosophy of language underwent a renaissance in the 20th century
+   because of the work of Ludwig Wittgenstein.
+
+Logic and computation
+
+   Logic cut to the heart of computer science as it emerged as a
+   discipline: Alan Turing's work on the Entscheidungsproblem followed
+   from Kurt Gödel's work on the incompleteness theorems, and the notion
+   of general purpose computers that came from this work was of
+   fundamental importance to the designers of the computer machinery in
+   the 1940s.
+
+   In the 1950s and 1960s, researchers predicted that when human knowledge
+   could be expressed using logic with mathematical notation, it would be
+   possible to create a machine that reasons, or artificial intelligence.
+   This turned out to be more difficult than expected because of the
+   complexity of human reasoning. In logic programming, a program consists
+   of a set of axioms and rules. Logic programming systems such as Prolog
+   compute the consequences of the axioms and rules in order to answer a
+   query.
+
+   Today, logic is extensively applied in the fields of artificial
+   intelligence, and computer science, and these fields provide a rich
+   source of problems in formal and informal logic. Argumentation theory
+   is one good example of how logic is being applied to artificial
+   intelligence. The ACM Computing Classification System in particular
+   regards:
+     * Section F.3 on Logics and meanings of programs and F. 4 on
+       Mathematical logic and formal languages as part of the theory of
+       computer science: this work covers formal semantics of programming
+       languages, as well as work of formal methods such as Hoare logic
+     * Boolean logic as fundamental to computer hardware: particularly,
+       the system's section B.2 on Arithmetic and logic structures;
+     * Many fundamental logical formalisms are essential to section I.2 on
+       artificial intelligence, for example modal logic and default logic
+       in Knowledge representation formalisms and methods, Horn clauses in
+       logic programming, and description logic.
+
+   Furthermore, computers can be used as tools for logicians. For example,
+   in symbolic logic and mathematical logic, proofs by humans can be
+   computer-assisted. Using automated theorem proving the machines can
+   find and check proofs, as well as work with proofs too lengthy to be
+   written out by hand.
+
+Argumentation Theory
+
+   Argumentation theory is the study and research of informal logic,
+   fallacies, and critical questions as they relate to every day and
+   practical situations. Specific types of dialogue can be analyzed and
+   questioned to reveal premises, conclusions, and fallacies.
+   Argumentation theory is now applied in artificial intelligence and law.
+
+Controversies in logic
+
+   Just as we have seen there is disagreement over what logic is about, so
+   there is disagreement about what logical truths there are.
+
+Bivalence and the law of the excluded middle
+
+   The logics discussed above are all " bivalent" or "two-valued"; that
+   is, they are most naturally understood as dividing propositions into
+   the true and the false propositions. Systems which reject bivalence are
+   known as non-classical logics.
+
+   In 1910 Nicolai A. Vasiliev rejected the law of excluded middle and the
+   law of contradiction and proposed the law of excluded fourth and logic
+   tolerant to contradiction. In the early 20th century Jan Łukasiewicz
+   investigated the extension of the traditional true/false values to
+   include a third value, "possible", so inventing ternary logic, the
+   first multi-valued logic.
+
+   Intuitionistic logic was proposed by L.E.J. Brouwer as the correct
+   logic for reasoning about mathematics, based upon his rejection of the
+   law of the excluded middle as part of his intuitionism. Brouwer
+   rejected formalisation in mathematics, but his student Arend Heyting
+   studied intuitionistic logic formally, as did Gerhard Gentzen.
+   Intuitionistic logic has come to be of great interest to computer
+   scientists, as it is a constructive logic, and is hence a logic of what
+   computers can do.
+
+   Modal logic is not truth conditional, and so it has often been proposed
+   as a non-classical logic. However, modal logic is normally formalised
+   with the principle of the excluded middle, and its relational semantics
+   is bivalent, so this inclusion is disputable. On the other hand, modal
+   logic can be used to encode non-classical logics, such as
+   intuitionistic logic.
+
+   Logics such as fuzzy logic have since been devised with an infinite
+   number of "degrees of truth", represented by a real number between 0
+   and 1. Bayesian probability can be interpreted as a system of logic
+   where probability is the subjective truth value.
+
+Implication: strict or material?
+
+   It is obvious that the notion of implication formalised in classical
+   logic does not comfortably translate into natural language by means of
+   "if... then...", due to a number of problems called the paradoxes of
+   material implication.
+
+   The first class of paradoxes involves counterfactuals, such as "If the
+   moon is made of green cheese, then 2+2=5", which are puzzling because
+   natural language does not support the principle of explosion.
+   Eliminating this class of paradoxes was the reason for C. I. Lewis's
+   formulation of strict implication, which eventually led to more
+   radically revisionist logics such as relevance logic.
+
+   The second class of paradoxes involves redundant premises, falsely
+   suggesting that we know the succedent because of the antecedent: thus
+   "if that man gets elected, granny will die" is materially true if
+   granny happens to be in the last stages of a terminal illness,
+   regardless of the man's election prospects. Such sentences violate the
+   Gricean maxim of relevance, and can be modelled by logics that reject
+   the principle of monotonicity of entailment, such as relevance logic.
+
+Tolerating the impossible
+
+   Closely related to questions arising from the paradoxes of implication
+   comes the radical suggestion that logic ought to tolerate
+   inconsistency. Relevance logic and paraconsistent logic are the most
+   important approaches here, though the concerns are different: a key
+   consequence of classical logic and some of its rivals, such as
+   intuitionistic logic, is that they respect the principle of explosion,
+   which means that the logic collapses if it is capable of deriving a
+   contradiction. Graham Priest, the main proponent of dialetheism, has
+   argued for paraconsistency on the striking grounds that there are in
+   fact, true contradictions.
+
+Is logic empirical?
+
+   What is the epistemological status of the laws of logic? What sort of
+   arguments is appropriate for criticising purported principles of logic?
+   In an influential paper entitled "Is logic empirical?" Hilary Putnam,
+   building on a suggestion of W.V. Quine, argued that in general the
+   facts of propositional logic have a similar epistemological status as
+   facts about the physical universe, for example as the laws of mechanics
+   or of general relativity, and in particular that what physicists have
+   learned about quantum mechanics provides a compelling case for
+   abandoning certain familiar principles of classical logic: if we want
+   to be realists about the physical phenomena described by quantum
+   theory, then we should abandon the principle of distributivity,
+   substituting for classical logic the quantum logic proposed by Garrett
+   Birkhoff and John von Neumann.
+
+   Another paper by the same name by Sir Michael Dummett argues that
+   Putnam's desire for realism mandates the law of distributivity.
+   Distributivity of logic is essential for the realist's understanding of
+   how propositions are true of the world in just the same way as he has
+   argued the principle of bivalence is. In this way, the question, "Is
+   logic empirical?" can be seen to lead naturally into the fundamental
+   controversy in metaphysics on realism versus anti-realism.
+   Retrieved from " http://en.wikipedia.org/wiki/Logic"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

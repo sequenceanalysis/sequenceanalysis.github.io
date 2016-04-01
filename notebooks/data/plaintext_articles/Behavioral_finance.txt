@@ -1,0 +1,276 @@
+   #copyright
+
+Behavioural finance
+
+2007 Schools Wikipedia Selection. Related subjects: Economics
+
+   Behavioural finance and behavioural economics are closely related
+   fields which apply scientific research on human and social cognitive
+   and emotional biases to better understand economic decisions and how
+   they affect market prices, returns and the allocation of resources. The
+   fields are primarily concerned with the rationality, or lack thereof,
+   of economic agents. Behavioural models typically integrate insights
+   from psychology with neo-classical economic theory.
+
+   Behavioural analyses are mostly concerned with the effects of market
+   decisions, but also those of public choice, another source of economic
+   decisions with some similar biases.
+
+History
+
+   During the classical period, economics had a close link with
+   psychology. For example, Adam Smith wrote an important text describing
+   psychological principles of individual behaviour, The Theory of Moral
+   Sentiments and Jeremy Bentham wrote extensively on the psychological
+   underpinnings of utility. Economists began to distance themselves from
+   psychology during the development of neo-classical economics as they
+   sought to reshape the discipline as a natural science, with
+   explanations of economic behaviour deduced from assumptions about the
+   nature of economic agents. The concept of homo economicus was developed
+   and the psychology of this entity was fundamentally rational.
+   Nevertheless, psychological explanations continued to inform the
+   analysis of many important figures in the development of neo-classical
+   economics such as Francis Edgeworth, Vilfredo Pareto, Irving Fisher and
+   John Maynard Keynes.
+
+   Psychology had largely disappeared from economic discussions by the mid
+   20th century. A number of factors contributed to the resurgence of its
+   use and the development of behavioural economics. Expected utility and
+   discounted utility models began to gain wide acceptance which generated
+   testable hypotheses about decision making under uncertainty and
+   intertemporal consumption respectively, and a number of observed and
+   repeatable anomalies challenged these hypotheses. Furthermore, during
+   the 1960s cognitive psychology began to describe the brain as an
+   information processing device (in contrast to behaviorist models).
+   Psychologists in this field such as Ward Edwards, Amos Tversky and
+   Daniel Kahneman began to benchmark their cognitive models of decision
+   making under risk and uncertainty against economic models of rational
+   behaviour.
+
+   Perhaps the most important paper in the development of the behavioural
+   finance and economics fields was written by Kahneman and Tversky in
+   1979. This paper, ' Prospect theory: Decision Making Under Risk', used
+   cognitive psychological techniques to explain a number of documented
+   anomalies in rational economic decision making. Further milestones in
+   the development of the field include a well attended and diverse
+   conference at the University of Chicago (see Hogarth & Reder, 1987), a
+   special 1997 edition of the respected Quarterly Journal of Economics
+   ('In Memory of Amos Tversky') devoted to the topic of behavioural
+   economics and the award of the Nobel prize to Daniel Kahneman in 2002
+   'for having integrated insights from psychological research into
+   economic science, especially concerning human judgment and
+   decision-making under uncertainty.
+
+   Prospect theory is an example of generalized expected utility theory.
+   Although not commonly included in discussions of the field of
+   behavioural economics, generalized expected utility theory is similarly
+   motivated by concerns about the descriptive inaccuracy of expected
+   utility theory.
+
+   Behavioural economics has also been applied to problems of
+   intertemporal choice. The most prominent idea is that of hyperbolic
+   discounting, in which a high rate of discount is used between the
+   present and the near future, and a lower rate between the near future
+   and the far future. This pattern of discounting is dynamically
+   inconsistent (or time-inconsistent), and therefore inconsistent with
+   standard models of rational choice, since the rate of discount between
+   time t and t+1 will be low at time t-1, when t is the near future, but
+   high at time t when t is the present and time t+1 the near future.
+
+Methodology
+
+   At the outset behavioural economics and finance theories were developed
+   almost exclusively from experimental observations and survey responses,
+   though in more recent times real world data has taken a more prominent
+   position. fMRI has also been used to determine which areas of the brain
+   are active during various steps of economic decision making.
+   Experiments simulating market situations such as stock market trading
+   and auctions are seen as particularly useful as they can be used to
+   isolate the effect of a particular bias upon behavior; observed market
+   behaviour can typically be explained in a number of ways, carefully
+   designed experiments can help narrow the range of plausible
+   explanations. Experiments are designed to be incentive compatible, with
+   binding transactions involving real money the norm.
+
+Key observations
+
+   There are three main themes in behavioural finance and economics
+   (Shefrin, 2002):
+     * Heuristics: People often make decisions based on approximate rules
+       of thumb, not strictly rational analyses. See also cognitive biases
+       and bounded rationality.
+     * Framing: The way a problem or decision is presented to the decision
+       maker will affect his action.
+     * Market inefficiencies: There are explanations for observed market
+       outcomes that are contrary to rational expectations and market
+       efficiency. These include mispricings, non-rational decision
+       making, and return anomalies. Richard Thaler, in particular, has
+       written a long series of papers describing specific market
+       anomalies from a behavioural perspective.
+
+   Market wide anomalies cannot generally be explained by individuals
+   suffering from cognitive biases, as individual biases often do not have
+   a large enough effect to change market prices and returns. In addition,
+   individual biases could potentially cancel each other out. Cognitive
+   biases have real anomalous effects only if there is a social
+   contamination with a strong emotional content (collective greed or
+   fear), leading to more widespread phenomena such as herding and
+   groupthink. Behavioural finance and economics rests as much on social
+   psychology as on individual psychology.
+
+   There are two exceptions to this general statement. First, it might be
+   the case that enough individuals exhibit biased (ie. different from
+   rational expectations) behavior that such behavior is the norm and this
+   behavior would, then, have market wide effects. Further, some
+   behavioural models explicitly demonstrate that a small but significant
+   anomalous group can have market-wide effects (eg. Fehr and Schmidt,
+   1999).
+
+Behavioural finance topics
+
+   Key observations made in behavioural finance literature include the
+   lack of symmetry between decisions to acquire or keep resources, called
+   colloquially the " bird in the bush" paradox, and the strong loss
+   aversion or regret attached to any decision where some emotionally
+   valued resources (e.g. a home) might be totally lost. Loss aversion
+   appears to manifest itself in investor behaviour as an unwillingness to
+   sell shares or other equity, if doing so would force the trader to
+   realise a nominal loss (Genesove & Mayer, 2001). It may also help
+   explain why housing market prices do not adjust downwards to market
+   clearing levels during periods of low demand.
+
+   Applying a version of prospect theory, Benartzi and Thaler (1995) claim
+   to have solved the equity premium puzzle, something conventional
+   finance models have been unable to do.
+
+   Presently, some researchers in Experimental finance use experimental
+   method, e.g. creating an artificial market by some kind of simulation
+   software to study people's decision-making process and behaviour in
+   financial markets.
+
+Behavioural finance models
+
+   Some financial models used in money management and asset valuation use
+   behavioural finance parameters, for example
+     * Thaler's model of price reactions to information, with three
+       phases, underreaction - adjustment - overreaction, creating a price
+       trend
+
+   The characteristic of overreaction is that the average return of asset
+   prices following a series of announcements of good news is lower than
+   the average return following a series of bad announcements. In other
+   words, overreaction occurs if the market reacts too strongly to news
+   that it subsequently needs to be compensated in the opposite direction.
+   As a result, assets that were winners in the past should not be seen as
+   an indication to invest in as their risk adjusted returns in the future
+   are relatively low compared to stocks that were defined as losers in
+   the past.
+     * The stock image coefficient
+
+Criticisms of behavioural finance
+
+   Critics of behavioural finance, such as Eugene Fama, typically support
+   the efficient market theory (though Fama may have reversed his position
+   in recent years). They contend that behavioural finance is more a
+   collection of anomalies than a true branch of finance and that these
+   anomalies will eventually be priced out of the market or explained by
+   appeal to market microstructure arguments. However, a distinction
+   should be noted between individual biases and social biases; the former
+   can be averaged out by the market, while the other can create feedback
+   loops that drive the market further and further from the equilibrium of
+   the " fair price".
+
+   A specific example of this criticism is found in some attempted
+   explanations of the equity premium puzzle. It is argued that the puzzle
+   simply arises due to entry barriers (both practical and psychological)
+   which have traditionally impeded entry by individuals into the stock
+   market, and that returns between stocks and bonds should stabilize as
+   electronic resources open up the stock market to a greater number of
+   traders (See Freeman, 2004 for a review). In reply, others contend that
+   most personal investment funds are managed through superannuation
+   funds, so the effect of these putative barriers to entry would be
+   minimal. In addition, professional investors and fund managers seem to
+   hold more bonds than one would expect given return differentials.
+
+Behavioural economics topics
+
+   Models in behavioural economics are typically addressed to a particular
+   observed market anomaly and modify standard neo-classical models by
+   describing decision makers as using heuristics and being affected by
+   framing effects. In general, behavioural economics sits within the
+   neoclassical framework, though the standard assumption of rational
+   behaviour is often challenged.
+
+   Heuristics
+   Prospect theory - Loss aversion - Status quo bias - Gambler's fallacy -
+   Self-serving bias
+
+   Framing
+   Cognitive framing - Mental accounting - Reference utility - Anchoring
+
+   Anomalies
+   Disposition effect - endowment effect - equity premium puzzle - money
+   illusion - dividend puzzle - fairness ( inequity aversion) - Efficiency
+   wage hypothesis - reciprocity - intertemporal consumption - present
+   biased preferences - behavioural life cycle hypothesis - wage
+   stickiness - price stickiness - Visceral influences - Earle's Curve of
+   Predictive Reliability - limits to arbitrage - income and happiness -
+   momentum investing
+
+Criticisms of behavioural economics
+
+   Critics of behavioural economics typically stress the rationality of
+   economic agents (see Myagkov and Plott (1997) amongst others). They
+   contend that experimentally observed behavior is inapplicable to market
+   situations, as learning opportunities and competition will ensure at
+   least a close approximation of rational behaviour. Others note that
+   cognitive theories, such as prospect theory, are models of decision
+   making, not generalized economic behaviour, and are only applicable to
+   the sort of once-off decision problems presented to experiment
+   participants or survey respondents.
+
+   Traditional economists are also skeptical of the experimental and
+   survey based techniques which are used extensively in behavioural
+   economics. Economists typically stress revealed preferences, over
+   stated preferences (from surveys) in the determination of economic
+   value. Experiments and surveys must be designed carefully to avoid
+   systemic biases, strategic behaviour and lack of incentive
+   compatibility and many economists are distrustful of results obtained
+   in this manner due to the difficulty of eliminating these problems.
+
+   Rabin (1998) dismisses these criticisms, claiming that results are
+   typically reproduced in various situations and countries and can lead
+   to good theoretical insight. Behavioural economists have also
+   incorporated these criticisms by focusing on field studies rather than
+   lab experiments. Some economists look at this split as a fundamental
+   schism between experimental economics and behavioral economics, but
+   prominent behavioral and experimental economists tend to overlap
+   techniques and approaches in answering common questions. For example,
+   many prominent behavioural economists are actively investigating
+   neuroeconomics, which is entirely experimental and cannot be verified
+   in the field.
+
+   Other proponents of behavioral economics note that neoclassical models
+   often fail to predict outcomes in real world contexts. Behavioral
+   insights can be used to update neoclassical equations, and behavioural
+   economists note that these revised models not only reach the same
+   correct predictions as the traditional models, but also correctly
+   predict outcomes where the traditional models failed.
+
+Key figures
+
+   George Akerlof - Dan Ariely - Colin Camerer - Ernst Fehr - Daniel
+   Kahneman - Werner Güth - David Laibson - George Loewenstein - Sarah
+   Lichtenstein - Lola Lopes - Matthew Rabin - Robert Shiller - Richard
+   Thaler - Amos Tversky - Paul Slovic - Andrei Shleifer - Hersh Shefrin -
+   Werner De Bondt
+
+Non-specialists whose work is important to the field
+
+   Herbert Simon - Gerd Gigerenzer - Fischer Black - John Tooby - Leda
+   Cosmides - Paul Rubin - Donald Rubin - Ronald Coase - Andrew Caplin
+   Retrieved from " http://en.wikipedia.org/wiki/Behavioral_finance"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

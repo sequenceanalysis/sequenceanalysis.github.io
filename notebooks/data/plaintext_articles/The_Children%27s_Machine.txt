@@ -1,0 +1,571 @@
+   #copyright
+
+Children's Machine
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure
+
+                     The Children's Machine
+   The latest prototype of the device, named the 2B1
+     Manufacturer   Quanta Computers
+         Type       Laptop
+     Connectivity   802.11b/g  /s wireless LAN
+                    3 USB 2.0 ports
+   Operating System Fedora Core-based
+        Camera      built-in video camera (640×480; 30 FPS)
+        Media       512 MiB – 1 GiB flash memory
+        Input       Keyboard
+                    Touchpad
+                    microphone
+        Power       NiMH battery pack
+         CPU        AMD Geode GX500@1.0W + 5536
+        Memory      128 MiB DRAM
+       Display      dual-mode 19.3 cm diagonal TFT LCD 1200×900
+
+   The Children's Machine, or 2B1, is a proposed inexpensive laptop
+   computer intended to provide every child in the world access to
+   knowledge and modern forms of education. It was previously known as the
+   $100 Laptop. The laptop is being developed by the One Laptop per Child
+   (OLPC) trade association. OLPC is a U.S. based, non-profit organization
+   created by faculty members of the MIT Media Lab to design, manufacture,
+   and distribute the laptops.
+
+   The computers will be rugged and use Linux for their operating system .
+   Mobile ad-hoc networking may be used to allow many machines Internet
+   access from one connection over the OLSR wireless protocol. The pricing
+   goal is currently expected to start at around US$135-140 and reach the
+   US$100 mark in 2008. The laptops will be sold to governments and issued
+   to children by schools on a basis of one laptop per child.
+
+One Laptop per Child association
+
+   The One Laptop per Child association (OLPC) is a Delaware based,
+   non-profit organization set up to oversee The Children's Machine
+   project and the construction of the 2B1 "$100 laptop". Both the project
+   and the organization were announced at the World Economic Forum in
+   Davos, Switzerland in January 2005.
+
+   OLPC is funded by a number of sponsor organizations. These include AMD,
+   Brightstar Corporation, eBay, Google, Marvell, News Corporation, SES
+   Global, Nortel Networks, and Red Hat. Each company has donated two
+   million dollars.
+
+   The organization is chaired by Nicholas Negroponte and its CTO is Mary
+   Lou Jepsen. Other principals of the company include former MIT Media
+   Lab director Walter Bender, who is President of OLPC Software and
+   Content, and Jim Gettys, Vice-President of Software Engineering.
+
+History
+
+   Mary Lou Jepsen, Alan Kay and Nicholas Negroponte unveil the $100
+   laptop
+   Enlarge
+   Mary Lou Jepsen, Alan Kay and Nicholas Negroponte unveil the $100
+   laptop
+
+   OLPC is based on constructionist learning theories pioneered by Seymour
+   Papert, Alan Kay, and also on the principles expressed in Nicholas
+   Negroponte’s book Being Digital. The founding corporate members are
+   Google, News Corp, AMD, Red Hat, Brightstar and Nortel, each of whom
+   donated two million dollars to the project. All three individuals and
+   six companies are active participants in OLPC.
+
+   The organization gained much attention when Nicholas Negroponte and
+   Kofi Annan unveiled a working prototype of the CM1 on November 16, 2005
+   at the World Summit on the Information Society (WSIS) in Tunis,
+   Tunisia. Negroponte showed two prototypes of the laptop at the second
+   phase of the World Summit: a non working physical model and a tethered
+   version using an external board and separate keyboard. The device shown
+   was a rough prototype using a standard development board. Negroponte
+   estimated that the screen alone required three more months of
+   development. The first working prototype was demonstrated at the
+   project's Country Task Force Meeting on May 23, 2006. The production
+   version is expected to have a larger display screen in the same size
+   package. The laptops are scheduled to be available by the end of 2006
+   or early 2007.
+
+   At the 2006 World Economic Forum in Davos, Switzerland, the United
+   Nations Development Program (UNDP) announced it would back the laptop.
+   UNDP released a statement saying they would work with OLPC to deliver
+   “technology and resources to targeted schools in the least developed
+   countries”.
+   First generation prototype
+   Enlarge
+   First generation prototype
+
+   The OLPC board of directors announced on December 13, 2005 that Quanta
+   Computers had been chosen as the original design manufacturer (ODM) for
+   the $100 laptop project. The decision was made after the board reviewed
+   bids from several possible manufacturing companies. The company
+   emphasized that there was a lot of work that remains to be done: “We
+   still need to put a large amount of research and development into this,
+   and will then hopefully be ready to make a finished product in the
+   second half of next year 2006”, according to Quanta. Over the next six
+   months, a team at Quanta Research Institute is going to be focusing on
+   the $100 laptop.
+
+Pricing
+
+   The project originally aimed for a price of 100 United States dollars.
+   In May 2006, Negroponte told the Red Hat's annual user summit: "It is a
+   floating price. We are a nonprofit organization. We have a target of
+   $100 by 2008, but probably it will be $135, maybe $140. That is a start
+   price, but what we have to do is with every release make it cheaper and
+   cheaper--we are promising that the price will go down."
+
+Participating countries
+
+   Luiz Inácio Lula da Silva, president of Brazil, with a prototype.
+   Enlarge
+   Luiz Inácio Lula da Silva, president of Brazil, with a prototype.
+
+   The following states have already "committed” to the project in various
+   ways, according to Negroponte’s press releases. However, the commitment
+   is not binding. The laptops will be sold to governments, to be
+   distributed through the ministries of education willing to adopt the
+   policy of “one laptop per child”.
+     * Brazil
+     * Thailand, although Thailand's participation was cancelled after a
+       military coup.
+     * Egypt
+     * United States (specifically the states of Massachusetts and Maine)
+     * Cambodia
+     * Dominican Republic
+     * Costa Rica
+     * Tunisia
+     * Argentina
+     * Venezuela
+     * Nigeria
+     * Libya
+
+   Massachusetts Governor Mitt Romney has submitted a bill to the
+   legislature to deliver $100 laptops to all children in the state.
+   Nigeria is the first country to order one million laptop computers.
+
+   On October 11, 2006 The New York Times reported that OLPC had reached
+   an agreement with the government of Libya to supply laptops to all of
+   its 1.2 million school children. The $250 million deal includes
+   satellite Internet access, one server per school and technical support.
+
+   India has rejected the initiative, saying "it would be impossible to
+   justify an expenditure of this scale on a debatable scheme when public
+   funds continue to be in inadequate supply for well-established needs
+   listed in different policy documents".
+
+   While the OLPC originally planned to make the laptop available only
+   through governments, Negroponte has indicated that they may partner
+   with well known brand-name manufacturers to create a commercial
+   version. Selling for about $225, this would subsidize units in the
+   developing world.
+
+Technology
+
+   2B1 will be a Linux-based, full-colour, full-screen laptop. It will
+   initially have a flat LCD screen, but in later generations may use
+   electronic paper such as e-ink. The laptop will be rugged, use
+   innovative power (possibly a pedal), be Wi-Fi- and VoIP-enabled and a
+   touch screen (including a separate writing pad).
+
+Design requirements
+
+   Mary Lou Jepsen stated the hardware design goals of this device as:
+     * minimal power consumption, with a design target of 2–3  W total
+       power consumption
+     * minimal production cost, with a target of $100 per laptop for
+       production runs of one million units;
+     * a ‘cool’ look, implying innovative styling in its physical
+       appearance
+     * e-book functionality with extremely low power consumption
+     * the software provided with the laptop be open source and free
+       software
+
+   The software design requirements and the educational objectives have
+   not been described publicly.
+
+   Various use models are currently being explored by the MIT Media Lab
+   with the help of Design Continuum and Fuseproject, including: laptop,
+   e-book, theatre, simulation, tote, and tablet architectures.
+
+Hardware
+
+   Second generation prototype
+   Enlarge
+   Second generation prototype
+
+   The hardware specifications as of May 2006 are:
+
+Features
+
+     * CPU: AMD Geode GX2-500 at 1.1W, with integrated graphics controller
+     * CPU clock speed: 366 Mhz
+     * SVGA 7.5" diagonal transmissive and reflective liquid crystal
+       display used in one of two modes:
+          + Reflective “sunlight readable” monochrome mode with 1200 by
+            900 screen resolution (for e-book reading outdoors—this is
+            200dpi)
+          + Transmissive Colour mode with approximately 800x600 pixel
+            resolution with backlighting (for laptop use)
+
+   Depending on mode, power consumption of the display is between .1 and
+   one watt.
+     * 128  MiB of Dual – DDR266 – 133 Mhz DRAM
+     * 1024  KiB flash ROM with open-source LinuxBIOS
+     * 512 MiB of SLC NAND flash memory
+     * External SD card slot
+     * VGA resolution (640x480) colour camera
+     * Wireless networking using an “Extended Range” 802.11b/g wireless
+       chipset run at a low bitrate (2 Mbit/s) to minimize power
+       consumption.
+     * Marvell 8388 wireless chip, chosen due to its ability to
+       autonomously forward packets in the mesh even if the CPU is powered
+       off.
+     * Dual adjustable antennae for diversity reception.
+     * Conventional layout alphanumeric keyboard localized for the country
+       of use.
+     * Dual five-key cursor-control pads; four directional keys plus Enter
+     * Touchpad for mouse control and handwriting input
+     * Built-in stereo speakers
+     * Built-in microphone
+     * Audio based on the AC97 codec, with jacks for external stereo
+       speakers and microphones, Line-out, and Mic-in
+     * 3 external USB2 ports.
+     * Power sources:
+          + DC input, ±10–25 V
+          + 5-cell rechargeable NiMH battery pack, 22.8 watt-hour (82 KJ)
+            capacity
+
+Intentionally omitted features
+
+   In keeping with its goals of robustness and low power consumption, the
+   design of the laptop intentionally omits all motor-driven moving parts;
+   it has no hard drive, no optical (CD/DVD), or floppy drives and no
+   fans. An ATA interface is unnecessary due to the lack of hard drive.
+   There is also no PC Card slot, although an SD slot will be available.
+
+   Floppy disks, hard disks, CD drives, DVD drives, USB drives, and many
+   other peripherals can be connected via the USB ports. Further expansion
+   is available through an external SD card slot.
+
+   A built-in hand- crank generator was part of the original design, but
+   Negroponte stated at a 2006 LinuxWorld talk that it was no longer
+   integrated into the laptop itself, but optionally available as a hand-
+   or foot-operated generator built into a separate power unit.
+
+Power consumption
+
+   The power consumption design target is 4W total power consumption for
+   the device in laptop mode; consumption in e-book mode is estimated to
+   be 0.3 to 0.8W. By contrast, typical Apple laptops idle around 15W and
+   peak at around 20W; with reduced backlight and CPU performance and
+   Wifi/Bluetooth disabled, they can reach 11W; and even in sleep mode
+   they consume 2W.
+
+   In e-book mode, all hardware sub-systems are powered down except the
+   monochrome display (including any display backlighting). When the user
+   moves to a different page the system wakes up, draws the new page on
+   the display and then goes back to sleep.
+
+Display
+
+   The first-generation OLPC laptops are expected to have a novel low-cost
+   liquid crystal display. Later generations of the OLPC laptop are
+   expected to use low-cost, low-power and high-resolution electronic
+   paper displays.
+
+   The display is the most expensive component of the OLPC Laptop. In
+   April 2005, Negroponte hired Mary Lou Jepsen—who is expected to join
+   the Media Arts and Sciences faculty at the MIT Media Lab in September
+   2007—as OLPC Chief Technology Officer. Jepsen is developing a new
+   display for the first-generation OLPC laptop, which is derived from the
+   design of small LCDs used in portable DVD players, which she estimated
+   would cost about $35.
+
+   Jepsen has described the removal of the filters that colour the RGB
+   subpixels as the critical design innovation in the new liquid crystal
+   display. Instead of using subtractive colour filters, the display uses
+   a plastic diffraction grating and lenses on the rear of the LCD to
+   illuminate the colored subpixels. This grating pattern is stamped using
+   the same technology used to make DVDs. The grating splits the light
+   from the white backlight into a spectrum. The red, green and blue
+   components are diffracted into the correct positions to illuminate the
+   corresponding R, G or B subpixels. This innovation results in a much
+   brighter display and a corresponding reduction in backlight
+   illumination: While the colour filters in a regular display typically
+   absorb 85% of the light that hits them, this display absorbs little of
+   that light.
+
+   The remainder of the LCD uses existing display technology and can be
+   made using existing manufacturing equipment. Even the masks can be made
+   using combinations of existing materials and processes.
+
+   The display is transmissive with backlighting when used in colour/DVD
+   mode. The conventional cold cathode fluorescent lamp backlighting,
+   which accounts for 30% of the cost of a conventional LCD, has been
+   replaced with a lower-power, less fragile alternative such as white
+   LEDs for use at low light levels. This form of backlighting should also
+   improve the colour gamut of the display. The display is a reflective
+   display (with no backlighting) when used in monochrome mode for
+   displaying e-book pages. Mode change occurs with a change in use of the
+   device. The landscape format colour display is used in laptop mode,
+   whereas the portrait format monochrome display is used in e-book mode,
+   so the displayed pages can be “read vertically like a book”. This is
+   the so-called “curl-up-in-bed mode” to enable reading of e-books for an
+   extended time in bright light such as sunlight. Negroponte has said at
+   the Technology Review’s Fifth Annual Emerging Technologies Conference
+   that the monochrome display has four times the resolution of the colour
+   display.
+
+   The dual-mode display was not operational in the WSIS prototype. The
+   prototypes were shown with conventional transmission TFT LCDs.
+
+Wireless networking
+
+   IEEE 802.11b support will be provided using a Wi-Fi “Extended Range”
+   chipset. Jepsen has said the wireless chipset will be run at a low
+   bitrate, 2 Mbit/s maximum rather than the usual higher speed 5.5Mbit/s
+   or 11Mbit/s to minimize power consumption.
+
+   Whenever the laptop is powered on it will participate in a mobile
+   ad-hoc network with each node operating in a peer-to-peer fashion with
+   other laptops it can hear and forwarding packets across the cloud. If a
+   computer in the cloud has access to the Internet (either directly or
+   indirectly) then all computers in the cloud will be able to access the
+   net. The data rate across this network will not be high but similar
+   networks like the store and forward Motoman project have supported
+   email services to 1000 schoolchildren in Cambodia, according to
+   Negroponte. The data rate should be sufficient for asynchronous network
+   applications such as email to communicate outside the cloud rather than
+   interactive uses, like web browsing, or high-bandwidth applications,
+   such as video streaming. Interactive network communication should be
+   possible inside the cloud.
+
+   The conventional IEEE 802.11b system only handles traffic within a
+   local cloud of wireless devices in a manner similar to an Ethernet
+   network. Each node transmits and receives its own data but does not
+   route packets between two nodes that cannot communicate directly. The
+   OLPC laptop will use IEEE 802.11s to form the wireless mesh network.
+
+Keyboard and touchpad
+
+   Negroponte and Jepsen have said the keyboard will be changed to suit
+   local needs to match the standard keyboard for the country in which it
+   is used. Some versions of prototype were shown at World Summit on the
+   Information Society (WSIS) with a detachable keyboard (tethered by a
+   cord); however, the working prototype demonstrated in May 2006 had a
+   conventional built-in keyboard.
+
+   Negroponte has demanded that the keyboard will not contain a caps lock
+   key, which frees up keyboard real estate for new keys such as a "view
+   source" key.
+
+   Beneath the keyboard is a large area that resembles a very wide
+   touchpad that Jepsen referred to as the “mousepad”. Negroponte has said
+   that this device can be used for “calligraphy” presumably to support
+   languages that use ideograms. This also implies that it will support
+   both fingers and pen-like devices. The trackpad was not operational in
+   the WSIS prototype.
+
+Enclosure
+
+   The enclosure is dirt- and moisture-resistant and is constructed with
+   2mm-thick plastic—thicker than typical laptops. It features a pivoting,
+   reversible display, movable WiFi antennas, and a sealed rubber-membrane
+   keyboard.
+
+Software
+
+   Children in a remote Cambodian school where a pilot laptop program has
+   been in place since 2001.
+   Enlarge
+   Children in a remote Cambodian school where a pilot laptop program has
+   been in place since 2001.
+
+   All of the software on the laptop will be open source. The projected
+   software as of November 2006 is:
+     * a pared-down version of Fedora Core as the operating system, with
+       students receiving root access.
+     * a web browser based upon the Gecko engine used by Firefox;
+     * a word processor based upon Abiword;
+     * email, chat, and VOIP programs;
+     * several interpreted programming languages, including Logo,
+       JavaScript, Python, Csound, and the eToys version of Squeak;
+     * music and multimedia software, such as Jean Piché's TamTam, and
+       Mplayer or Helix.
+
+   Steve Jobs had offered Mac OS X free of charge for use in the laptop,
+   but according to Seymour Papert, a professor emeritus at MIT who is one
+   of the initiative's founders, the designers want an operating system
+   that can be tinkered with: “We declined because it’s not open source.”
+   Therefore Linux was chosen.
+
+   Jim Gettys, responsible for the laptops' system software, has called
+   for a re-education of programmers, saying that many applications use
+   too much memory or even leak memory. "There seems to be a common
+   fallacy among programmers that using memory is good: on current
+   hardware it is often much faster to recompute values than to have to
+   reference memory to get a precomputed value. A full cache miss can be
+   hundreds of cycles, and hundreds of times the power consumption of an
+   instruction that hits in the first level cache."
+
+   On 4 August 2006, the Wikimedia Foundation announced that static copies
+   of selected Wikipedia articles would be included on the laptops. Jimmy
+   Wales, chair of the Wikimedia Foundation, said that "OLPC's mission
+   goes hand in hand with our goal of distributing encyclopedic knowledge,
+   free of charge, to every person in the world. Not everybody in the
+   world has access to a broadband connection." Negroponte had earlier
+   suggested he would like to see Wikipedia on the laptop. Wales feels
+   that Wikipedia is one of the " killer apps" for this device.
+
+   The laptop will use the Sugar graphical user interface, written in
+   Python, on top of the X Window System.
+
+Criticism
+
+   Third generation prototype
+   Enlarge
+   Third generation prototype
+
+   Though generally well received at early stages, the project has been
+   criticized as unrealistic.
+
+Technological aspects
+
+   On November 10, 2005, Lee Felsenstein criticized the centralized,
+   top-down, imperialistic design and distribution of the OLPC. Lee
+   Felsenstein, currently of the Fonly Institute, draws upon his previous
+   experience with distributed collaboration and open source hardware in
+   the Homebrew Computer Club.
+
+   On December 9, 2005 Intel Chairman Craig Barrett criticised the project
+   for being a "$100 gadget": "... The problem is that gadgets have not
+   been successful... It turns out what people are looking for is
+   something that has the full functionality of a PC. Reprogrammable to
+   run all the applications of a grown-up PC .... not dependent on servers
+   in the sky to deliver content and capability to them, not dependent for
+   hand cranks for power." On March 15, 2006, after having introduced the
+   Ultra Mobile PC, Bill Gates mocked the project, saying “If you are
+   going to go have people share the computer, get a broadband connection
+   and have somebody there who can help support the user, geez, get a
+   decent computer where you can actually read the text and you're not
+   sitting there cranking the thing while you're trying to type.”
+
+Good use of money
+
+   At the UN conference in Tunisia, several African officials, most
+   notably Marthe Dansokho of Cameroon and Mohammed Diop of Mali were
+   suspicious of the motives of the project, and claimed that the project
+   was using an overly American mindset that presented solutions not
+   applicable to specifically African problems. Dansokho said the project
+   demonstrated misplaced priorities, stating that clean water and schools
+   were more important for African women, who he stated would not have
+   time to use the computers to research new crops to grow, and Diop
+   specifically attacked the project as an attempt to exploit the
+   governments of poor nations by making them pay for hundreds of millions
+   of machines.
+
+   One criticism has been that the money of purchasing the laptops could
+   be more favorably spent on libraries and schools. John Wood, founder of
+   Room to Read, has emphasized what is affordable and can scale over
+   high-tech solutions. While in favour of the One Laptop Per Child
+   initative for providing education to children in the developing world
+   at a cheaper rate, he has pointed out that a $2000 library can serve
+   400 children, costing just $5 a child to bring access to a wide range
+   of books in the local languages (such as Khmer or Nepali) and English;
+   also a $10,000 school can serve 400-500 children ($20–$25 a child).
+   According to Wood, these are more appropriate solutions for education
+   in the dense forests of Vietnam or rural Cambodia.
+
+   According to the OLPC wiki:
+
+
+   Children's Machine
+
+     It should be mentioned that a common criticism of the project is to
+     say, "What poor people need is food and shelter, not laptops." This
+     comment, however, is ignorant of conditions in impoverished nations
+    around the world. While it is true there are many people in the world
+    who definitely need food and shelter, there are multitudes of people
+       who live in rural or sub-urban areas and have plenty to eat and
+     reasonable accommodations. What these people don't have is a decent
+                          shot at a good education.
+
+
+   Children's Machine
+
+Other criticisms
+
+   Another criticism is that developed countries are giving poorer
+   children laptops before they give their own children laptops. It is
+   claimed that many children in the United States and other developed
+   countries would benefit much more from the use of a laptop than
+   children in undeveloped countries. In fact, some states in the U.S.
+   (e.g. Maine and Georgia) are providing commercial laptops to pupils and
+   the OLPC FAQ responds to the question: "Will the laptop be available
+   for relatively developed nations?" by stating "We are exploring the
+   possibility of developing a commercial version and we are in
+   discussions with representatives from these nations about distribution
+   of the non-commercial version. However, our priority is to make the
+   laptop available first where there is the greatest need." The
+   Commonwealth of Massachusetts is one of the initial participants in
+   OLPC.
+
+   The project has also received criticism due to the environmental and
+   health impacts of hazardous materials found in computers. Many nations
+   and organizations are working towards the development of “ Green
+   Electronics” (e.g. European Union with Waste Electrical and Electronic
+   Equipment Directive). While any project on this scale will have
+   environmental impact, OLPC has asserted that it is aiming to use as
+   environmentally friendly materials as they can; also that the laptop
+   and all OLPC-supplied accessories will be fully RoHS compliant; and
+   that the laptop will use an order of magnitude less power than the
+   typical consumer laptops available today (as of 2006), reducing the
+   environmental burden of power generation..
+
+   Some people are criticizing the idea of not selling 2B1 on the open
+   market. One concern is the possibility of arbitrage. If 2B1 is only
+   made available in certain areas and to certain parties, a parallel
+   black market for the laptops may develop. An arbitrageur could find a
+   way to obtain the laptops for the going rate and resell them in the
+   black market for a higher price. The presence of a black market could
+   also encourage the intended owners to sell their laptops. Nicholas
+   Negroponte addressed this concern during his presentation in the
+   Emerging technologies Conference in September 2005:
+
+
+   Children's Machine
+
+   The grey market is a very serious issue. I don't want to be dismissive
+     of it for a moment, and there are three ways of addressing it. Way
+    number one is to have no market at all for it. I mean you can't sell
+   it, who could buy it, and that isn't bullet proof. That's a little bit
+      dreaming, but it's part of the equation. The second is to put the
+       technologies into the device that help stop that. [The laptops
+   distributed to middle schoolers in Maine are Apple iBooks] so they are
+   not only great stuff to steal and we don't necessarily have corruption
+     of that kind, but it's pretty transferable technology. They've put
+   little things so the machine disables itself after a while if it hasn't
+    connected to the school. You can put GPS in it, you can put all sorts
+   of stuff. But then the third one, which I'm doing and I like is to make
+   this machine so distinctive that it is socially a stigma to be carrying
+   one if you are not a child or a teacher. Now you can obviously take it
+    down to your basement, but I hope your spouse will even say: "Oh God!
+   Honey! What did you do?" OK? you stole from the church. It's like a red
+      cross on something. So I'm hoping that the distinctiveness of the
+    product will be the third one that maybe isn't thought of that often.
+   So those three combined will I hope at least limit this to one percent
+          or two percent. It's not going to be just going into it.
+
+
+   Children's Machine
+
+   A project functionally similar to 2B1, the OpenBook Project, aims to
+   create and maintain open hardware and software specifications to enable
+   production of convenient "tablet" in high volumes at a price "under
+   $500." Unlike the OLPC initiative, the project is aimed at the open
+   market.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Children%27s_Machine"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

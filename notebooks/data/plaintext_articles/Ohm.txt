@@ -1,0 +1,88 @@
+   #copyright
+
+Ohm
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   A multimeter can be used to measure resistance in ohms. It can also be
+   used to measure capacitance, voltage, amperage, ect.
+   A multimeter can be used to measure resistance in ohms. It can also be
+   used to measure capacitance, voltage, amperage, ect.
+   Several resistors. Their resistance, in ohms, is marked using a color
+   code.
+   Several resistors. Their resistance, in ohms, is marked using a colour
+   code.
+
+   The ohm (symbol: Ω) is the SI unit of electrical impedance or, in the
+   direct current case, electrical resistance, named after Georg Ohm.
+
+Definition
+
+   An ohm is the electrical resistance offered by a current-carrying
+   element that produces a voltage drop of one volt when a current of one
+   ampere is flowing through it.
+
+          \Omega = \dfrac{\mbox{V}}{\mbox{A}} = \dfrac{\mbox{m}^2 \cdot
+          \mbox{kg}}{\mbox{s}^{3} \cdot \mbox{A}^2}
+
+Explanation
+
+   R is one ohm if V = one volt and I = one ampere
+   R is one ohm if V = one volt and I = one ampere
+
+   By definition from Ohm's Law, a device has a resistance of one ohm if a
+   voltage of one volt causes a current of one ampere to flow (R = V/I).
+   Alternatively and equivalently, a device that dissipates one watt of
+   power with one ampere of current flowing through it has a resistance of
+   one ohm (R = P / I^ 2).
+
+   Since 1990, the ohm has been maintained internationally using the
+   quantum Hall effect, where a conventional value is used for the '
+   von-Klitzing constant', fixed by the 18th General Conference on Weights
+   and Measures as R[{K-90}] = 25812.807 Ω.
+
+   The complex quantity impedance is a generalisation of resistance. Its
+   real part is resistance and its imaginary part is reactance. Impedance,
+   resistance and reactance all have units of ohms.
+
+   The symbol for the ohm is the Greek capital letter omega (Ω). If the
+   Greek letter cannot be used, the word ohm is used instead. The various
+   guides for the use of the International System of Units do not
+   explicitly forbid the elision of the final "o" of some SI prefixes,
+   although there is nothing in them to suggest that it is allowable,
+   either. As a result, one is just about as likely to see "kilohm",
+   "kiloohm" and even "kilo-ohm", and the same holds true for hecto-,
+   micro-, nano-, pico-, femto-, atto-, zepto-, and yocto-. The only other
+   SI unit to suffer from this kind of orthographic uncertainty is the
+   ampere. In the particular case of the ohm, one even sees the "a"
+   prefixes lose that vowel: hence megohm and gigohm. Higher prefixes are
+   rarely used with ohm. In the other direction, milliohms (or millohms)
+   are seen where the resistance of cables, etc., are measured.
+
+   Units of ohms, kilohms (10^3 Ω) and megohms (10^6 Ω) are used in
+   electronic design documentation. On schematic diagrams and parts lists
+   kilohms are abbreviated "K" and megohms are abbreviated "M". Thus, 33
+   kilohms would be rendered as 33K, and 5.1 megohms would be 5.1M.
+   Another commonly used convention is that the multiplier is used to
+   replace the decimal point, so that 5.1 megohms can also be represented
+   as 5M1. This convention is used because a decimal point can be
+   difficult to see in small or cluttered print. Values less than 1K are
+   rendered either (a) without any symbol, or (b) with an "R", following
+   the number; so 680 ohms can be shown as 680 or 680R. Resistors are
+   usually identified by a reference designator, R, and a cardinal number,
+   e.g., R12.
+
+Conversions
+
+   A measurement in ohms is the reciprocal of a measurement in siemens,
+   the SI unit of electrical conductance. Note that 'siemens' is both
+   singular and plural. The non-SI unit, the mho (simply put, ohm written
+   backwards), is equivalent to siemens but is mostly obsolete and rarely
+   used.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Ohm"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

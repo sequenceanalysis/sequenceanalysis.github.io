@@ -1,0 +1,163 @@
+   #copyright
+
+Linear algebra
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Linear algebra is the branch of mathematics concerned with the study of
+   vectors, vector spaces (also called linear spaces), linear
+   transformations, and systems of linear equations. Vector spaces are a
+   central theme in modern mathematics; thus, linear algebra is widely
+   used in both abstract algebra and functional analysis. Linear algebra
+   also has a concrete representation in analytic geometry and it is
+   generalized in operator theory. It has extensive applications in the
+   natural sciences and the social sciences, since nonlinear models can
+   often be approximated by a linear model.
+
+History
+
+   Linear algebra stems from the need to solve systems of linear
+   equations. For small systems, ad hoc methods are sufficient. Larger
+   systems require one to have more systematic methods. The modern day
+   approach can be seen 2,000 years ago in a Chinese text, the Nine
+   Chapters on the Mathematical Art ( Traditional Chinese: 九章算術;
+   Simplified Chinese: 九章算术, pinyin: Jiǔzhāng Suànshù). Chinese
+   mathematicians developed a system in which they organized linear
+   equations in a rectangular pattern called Fāng Chéng (方程) in Chinese,
+   involving horizontal and vertical counting rods. This rectangular
+   representation of linear equations is the equivalent of today's matrix.
+
+   One of the key developments in linear algebra was the modern day method
+   of solving linear systems known as Gauss-Jordan elimination, after
+   German mathematician Carl Friedrich Gauss (1777-1855) and German
+   engineer Wilhelm Jordan (1844-1899). Gauss called the method
+   elimination, even though the Chinese were using an almost identical
+   method nearly two millennia prior. This method stemmed really from
+   Gauss's laziness in leaving off variable stems such as x1, x2, etc. in
+   solving large n-tuples of linear equations while following the asteroid
+   now known as Ceres. His method is explained in his book Theoria Motus
+   Corporum Coelestium (1809).
+
+   The history of modern linear algebra dates back to the years 1843 and
+   1844. In 1843, William Rowan Hamilton (from whom the term vector stems)
+   discovered the quaternions. In 1844, Hermann Grassmann published his
+   book Die lineale Ausdehnungslehre (see References). Arthur Cayley
+   introduced matrices, one of the most fundamental linear algebraic
+   ideas, in 1857. These early references belie the fact that linear
+   algebra is mainly a development of the twentieth century: the
+   number-like objects called matrices were hard to place before the
+   development of ring theory in abstract algebra. With the coming of
+   special relativity many practitioners gained appreciation of the
+   subtleties of linear algebra. Furthermore, the routine application of
+   Cramer's rule to solve partial differential equations led to inclusion
+   of linear algebra in standard coursework at universities. For instance,
+   E.T. Copson wrote:
+
+
+   Linear algebra
+
+    When I went to Edinburgh as a young lecturer in 1922, I was surprised
+      to find how different the curriculum was from that at Oxford. It
+   included topics such as Lebesgue integration, matrix theory, numerical
+          analysis, Riemannian geometry, of which I knew nothing...
+
+
+   Linear algebra
+
+       —E.T. Copson, Preface to Partial Differential Equations, 1973
+
+   Francis Galton initiated the use of correlation coefficients in 1888.
+   Often more than one random variable is in play and they may be
+   cross-correlated. In statistical analysis of multivariate random
+   variables the correlation matrix is a natural tool. Thus statistical
+   study of such random vectors helped develop matrix usage.
+
+Elementary introduction
+
+   Linear algebra had its beginnings in the study of vectors in Cartesian
+   2-space and 3-space. A vector, here, is a directed line segment,
+   characterized by both its magnitude, represented by length, and its
+   direction. Vectors can be used to represent physical entities such as
+   forces, and they can be added to each other and multiplied with
+   scalars, thus forming the first example of a real vector space.
+
+   Modern linear algebra has been extended to consider spaces of arbitrary
+   or infinite dimension. A vector space of dimension n is called an
+   n-space. Most of the useful results from 2 and 3-space can be extended
+   to these higher dimensional spaces. Although many people cannot easily
+   visualize vectors in n-space, such vectors or n-tuples are useful in
+   representing data. Since vectors, as n-tuples, are ordered lists of n
+   components, it is possible to summarize and manipulate data efficiently
+   in this framework. For example, in economics, one can create and use,
+   say, 8-dimensional vectors or 8-tuples to represent the Gross National
+   Product of 8 countries. One can decide to display the GNP of 8
+   countries for a particular year, where the countries' order is
+   specified, for example, (United States, United Kingdom, France,
+   Germany, Spain, India, Japan, Australia), by using a vector (v[1],
+   v[2], v[3], v[4], v[5], v[6], v[7], v[8]) where each country's GNP is
+   in its respective position.
+
+   A vector space (or linear space), as a purely abstract concept about
+   which we prove theorems, is part of abstract algebra, and is well
+   integrated into this discipline. Some striking examples of this are the
+   group of invertible linear maps or matrices, and the ring of linear
+   maps of a vector space. Linear algebra also plays an important part in
+   analysis, notably, in the description of higher order derivatives in
+   vector analysis and the study of tensor products and alternating maps.
+
+   In this abstract setting, the scalars which with an element of a vector
+   space can be multiplied need not be numbers. The only requirement is
+   that the scalars form a mathematical structure, called a field. In
+   applications, this field is usually the field of real numbers or the
+   field of complex numbers. Linear operators take elements from a linear
+   space to another (or to itself), in a manner that is compatible with
+   the addition and scalar multiplication given on the vector space(s).
+   The set of all such transformations is itself a vector space. If a
+   basis for a vector space is fixed, every linear transform can be
+   represented by a table of numbers called a matrix. The detailed study
+   of the properties of and algorithms acting on matrices, including
+   determinants and eigenvectors, is considered to be part of linear
+   algebra.
+
+   One can say quite simply that the linear problems of mathematics -
+   those that exhibit linearity in their behaviour - are those most likely
+   to be solved. For example differential calculus does a great deal with
+   linear approximation to functions. The difference from nonlinear
+   problems is very important in practice.
+
+   The general method of finding a linear way to look at a problem,
+   expressing this in terms of linear algebra, and solving it, if need be
+   by matrix calculations, is one of the most generally applicable in
+   mathematics.
+
+Some useful theorems
+
+     * Every linear space has a basis. (This statement is logically
+       equivalent to the axiom of choice.)
+     * A matrix is invertible if and only if its determinant is nonzero.
+     * A matrix is invertible if and only if the linear transformation
+       represented by the matrix is an isomorphism (see also invertible
+       matrix for other equivalent statements).
+     * A matrix is positive semidefinite if and only if each of its
+       eigenvalues is greater than or equal to zero.
+     * A matrix is positive definite if and only if each of its
+       eigenvalues is greater than zero.
+     * The spectral theorem (regarding diagonal matrices).
+
+Generalization and related topics
+
+   Since linear algebra is a successful theory, its methods have been
+   developed in other parts of mathematics. In module theory one replaces
+   the field of scalars by a ring. In multilinear algebra one deals with
+   the 'several variables' problem of mappings linear in each of a number
+   of different variables, inevitably leading to the tensor concept. In
+   the spectral theory of operators control of infinite-dimensional
+   matrices is gained, by applying mathematical analysis in a theory that
+   is not purely algebraic. In all these cases the technical difficulties
+   are much greater.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Linear_algebra"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,409 @@
+   #copyright
+
+Weather forecasting
+
+2007 Schools Wikipedia Selection. Related subjects: Climate and the Weather;
+Storms
+
+   Modern weather predictions aid in timely evacuations and potentially
+   save lives and property damage
+   Modern weather predictions aid in timely evacuations and potentially
+   save lives and property damage
+   Weather map of Europe, 10 December 1887
+   Weather map of Europe, 10 December 1887
+
+   Weather forecasting is the application of science and technology to
+   predict the state of the atmosphere for a future time and a given
+   location. Humankind has attempted to predict the weather since ancient
+   times. Today, weather forecasts are made by collecting quantitative
+   data about the current state of the atmosphere and using scientific
+   understanding of atmospheric processes to project how the atmosphere
+   will evolve. The chaotic nature of the atmosphere, the massive
+   computational power required to solve the equations that describe the
+   atmosphere, and incomplete understanding of atmospheric processes mean
+   that forecasts become less accurate as the range of the forecast
+   increases.
+
+History of weather forecasting
+
+   For millennia people have tried to forecast the weather. In 650 BC, the
+   Babylonians predicted the weather from cloud patterns. In about 340 BC,
+   Aristotle described weather patterns in Meteorologica. Chinese weather
+   prediction lore extends at least as far back as 300 BC.
+
+   Ancient weather forecasting methods usually relied on observed patterns
+   of events. For example, it might be observed that if the sunset was
+   particularly red, the following day often brought fair weather. This
+   experience accumulated over the generations to produce weather lore.
+   However, not all of these predictions prove reliable and many of them
+   have since been found not to stand up to rigorous statistical testing.
+
+   It was not until the invention of the telegraph in 1837 that the modern
+   age of weather forecasting began. Before this time, it had not been
+   possible to transport information about the current state of the
+   weather any faster than a steam train. The telegraph allowed reports of
+   weather conditions from a wide area to be received almost
+   instantaneously by the late 1840's. This allowed forecasts to be made
+   by knowing what the weather conditions were like further upwind.
+
+       Imagine a rotating sphere that is 12,800 kilometers (8000 miles) in
+       diameter, has a bumpy surface, is surrounded by a 40-kilometer-deep
+   mixture of different gases whose concentrations vary both spatially and
+          over time, and is heated, along with its surrounding gases, by a
+   nuclear reactor 150 million kilometers (93 million miles) away. Imagine
+    also that this sphere is revolving around the nuclear reactor and that
+      some locations are heated more during one part of the revolution and
+     other locations are heated during another part of the revolution. And
+   imagine that this mixture of gases continually receives inputs from the
+         surface below, generally calmly but sometimes through violent and
+        highly localized injections. Then, imagine that after watching the
+    gaseous mixture, you are expected to predict its state at one location
+             on the sphere one, two, or more days into the future. This is
+      essentially the task encountered day by day by a weather forecaster.
+    —On the difficulty of weather forecasting, Bob Ryan, Bulletin of the
+                                    American Meteorological Society, 1982.
+
+   The two men most credited with the birth of forecasting as a science
+   were Francis Beaufort (remembered chiefly for the Beaufort scale) and
+   his protégé Robert Fitzroy (developer of the Fitzroy barometer). Both
+   were influential men in British Naval and Governmental circles, and
+   though ridiculed in the press at the time, their work gained scientific
+   credence, was accepted by the British Navy and formed the basis for all
+   of today's weather forecasting knowledge.
+
+   Great progress was made in the science of meteorology during the 20th
+   century. The possibility of numerical weather prediction was proposed
+   by Lewis Fry Richardson in 1922, though computers fast enough to
+   complete the vast number of calculations required to produce a forecast
+   before the event had occurred did not exist at that time. Practical use
+   of numerical weather prediction began in 1955, spurred by the
+   development of programmable electronic computers.
+
+Modern day weather forecasting system
+
+   Components of a modern weather forecasting system include:
+     * Data collection
+     * Data assimilation
+     * Numerical weather prediction
+     * Model output post-processing
+     * Forecast presentation to end-user
+
+Data collection
+
+   Observations of atmospheric pressure, temperature, wind speed, wind
+   direction, humidity, precipitation are made near the earth's surface by
+   trained observers, automatic weather stations or buoys. The World
+   Meteorological Organization acts to standardize the instrumentation,
+   observing practices and timing of these observations worldwide.
+   Stations either report hourly in METAR reports, or every six hours in
+   SYNOP reports.
+
+   Measurements of temperature, humidity and wind above the surface are
+   found by launching radiosondes ( weather balloon). Data are usually
+   obtained from near the surface to the middle of the stratosphere, about
+   30,000 m (100,000 ft). In recent years, data transmitted from
+   commercial airplanes through the AMDAR system has also been
+   incorporated into upper air observation, primarily in numerical models.
+
+   Increasingly, data from weather satellites are being used due to their
+   (almost) global coverage. Although their visible light images are very
+   useful for forecasters to see development of clouds, little of this
+   information can be used by numerical weather prediction models. The
+   infra-red (IR) data however can be used as it gives information on the
+   temperature at the surface and cloud tops. Individual clouds can also
+   be tracked from one time to the next to provide information on wind
+   direction and strength at the clouds steering level. Polar orbiting
+   satellites provide soundings of temperature and moisture throughout the
+   depth of the atmosphere. Compared with similar data from radiosondes,
+   the satellite data has the advantage that coverage is global, however
+   the accuracy and resolution is not as good.
+
+   Meteorological radar provide information on precipitation location and
+   intensity. Additionally, if doppler radar are used then wind speed and
+   direction can be determined.
+
+Data assimilation
+
+   During the data assimilation process, information gained from the
+   observations is used in conjunction with a numerical model's most
+   recent forecast for the time that observations were made (since this
+   contains information from previous observations) to produce the
+   meteorological analysis. This is the best estimate of the current state
+   of the atmosphere. It is a three dimensional representation of the
+   distribution of temperature, moisture and wind.
+
+Numerical weather prediction (NWP)
+
+   Numerical weather prediction models are computer simulations of the
+   atmosphere. They take the analysis as the starting point and evolve the
+   state of the atmosphere forward in time using understanding of physics
+   and fluid dynamics. The complicated equations which govern how the
+   state of a fluid changes with time require supercomputers to solve
+   them. The output from the model provides the basis of the weather
+   forecast.
+
+Model output post processing
+
+   The raw output is often modified before being presented as the
+   forecast. This can be in the form of statistical techniques to remove
+   known biases in the model, or of adjustment to take into account
+   consensus among other numerical weather forecasts.
+
+   In the past, the human forecaster used to be responsible for generating
+   the entire weather forecast from the observations. However today, for
+   forecasts beyond 24hrs human input is generally confined to
+   post-processing of model data to add value to the forecast. Humans are
+   required to interpret the model data into weather forecasts that are
+   understandable to the end user. Additionally, humans can use knowledge
+   of local effects which may be too small in size to be resolved by the
+   model to add information to the forecast. Increasing accuracy of
+   forecast models continues to decrease the need for post-processing and
+   human input, mostly in areas with a low variation in terrain.
+
+Presentation of weather forecasts
+
+   The final stage in the forecasting process is perhaps the most
+   important. Knowledge of what the end user needs from a weather forecast
+   must be taken into account to present the information in a useful and
+   understandable way.
+
+Public information
+
+   One of the main end users of a forecast is the general public.
+   Thunderstorms can cause strong winds, dangerous lightning strikes
+   leading to deaths and power outages, and widespread hail damage. Heavy
+   snow or rain can bring transportation and commerce to a stand-still, as
+   well as cause flooding in low-lying areas. Excessive heat or cold waves
+   can kill or sicken those without adequate utilities. The National
+   Weather Service provides forecasts and watches/warnings/advisories for
+   all areas of the United States to protect life and property and
+   maintain commercial interests. Environment Canada is responsible for
+   dispensing similar forecasts and warnings to the public in Canada.
+   Traditionally, television and radio weather presenters have been the
+   main method of informing the public, however increasingly the internet
+   is being used due to the vast amount of information that can be found.
+
+Air traffic
+
+   The aviation industry is especially sensitive to the weather. Fog
+   and/or exceptionally low ceilings can prevent many aircraft landing and
+   taking off. Similarly, turbulence and icing can be hazards whilst in
+   flight. Thunderstorms are a problem for all aircraft, due to severe
+   turbulence and icing, as well as large hail, strong winds, and
+   lightning, all of which can cause fatal damage to an aircraft in
+   flight. On a day to day basis airliners are routed to take advantage of
+   the jet stream tailwind to improve fuel efficiency. Air crews are
+   briefed prior to take off on the conditions to expect en route and at
+   their destination.
+
+Marine
+
+   Commercial and recreational use of waterways can be limited
+   significantly by weather in that wind direction and speed, wave
+   periodicity and heights, tides, and precipitation can each influence
+   the safety of marine transit. Consequently, a variety of codes have
+   been established to efficiently transmit detailed marine weather
+   forecasts to vessel pilots via radio, for example the MAFOR (marine
+   forecast).
+
+Utility companies
+
+   Electricity and gas companies rely on weather forecasts to anticipate
+   demand which can be strongly affected by the weather. In winter, severe
+   cold weather can cause a surge in demand as people turn up their
+   heating. Similarly, in summer a surge in demand can be linked with the
+   increased use of air conditioning systems in hot weather. By
+   anticipating a surge in demand, utility companies can purchase
+   additional supplies of power or natural gas before the price increases,
+   or in some circumstances, supplies are restricted.
+
+Private sector
+
+   Increasingly, private companies pay for weather forecasts tailored to
+   their needs so that they can increase their profits or avoid large
+   losses. For example, supermarket chains may change the stocks on their
+   shelves in anticipation of different consumer spending habits in
+   different weather conditions. State Departments of Transportation and
+   private road maintenance companies also use their forecasts to
+   demonstrate a 'best effort' in defending against lawsuits as a result
+   of traffic accidents.
+
+Military applications
+
+   Similarly to the private sector, Military weather forecasters present
+   weather conditions to the war fighter community. Equally provide
+   pre-flight weather briefs and flight weather briefs from take off to
+   terminal location. Including updates throughout the flight path. Also,
+   military weather forecasters provide real time resource protection
+   services for military installations, not covered by the National
+   Weather Service. Three military branches have independent weather
+   forecasting techniques tailored for their specific needs. For example,
+   Naval Forecasters cover the waters and ship weather forecasts; Air
+   Force Forecasters cover air operations in both wartime and peacetime
+   operations and provide Army support; Coast Guard Forecasters provide
+   ship forecasts for ice breakers and other various operations within
+   their realm; And Marine Forecasters forecast for their troops and local
+   aviation assets. There is a silent cooperative agreement between
+   civilian forecasters and military forecasters, both working in unison
+   for the improvement of weather forecasting in general.
+
+Persistence forecasting
+
+   The simplest method of forecasting the weather, persistence relies upon
+   today's conditions to forecast the conditions tomorrow. This can be a
+   valid way of forecasting the weather when it is steady state, such as
+   during the summer season in the tropics. This method of forecasting
+   strongly depends upon the presence of a stagnant weather pattern. It
+   can be useful in both short range forecasts and long range forecasts.
+
+Nowcasting
+
+   The forecasting of the weather in the 0-12 hour timeframe is often
+   referred to as nowcasting. It is in this range that the human
+   forecaster still has an advantage over computer NWP models. In this
+   time range it is possible to forecast smaller features such as
+   individual shower clouds with reasonable accuracy, however these are
+   often too small to be resolved by a computer model. A human given the
+   latest radar, satellite and observational data will be able to make a
+   better analysis of the small scale features present and so will be able
+   to make a more accurate forecast for the following few hours.
+
+   Below is a sample nowcast, issued by the National Weather Service in
+   Mount Holly, New Jersey:
+000
+FPUS71 KPHI 240805
+NOWPHI
+
+SHORT TERM FORECAST
+NATIONAL WEATHER SERVICE MOUNT HOLLY NJ
+405 AM EDT FRI JUN 24 2005
+DEZ002>004-MDZ015-019-020-NJZ013-014-020-022>027-241200-
+ATLANTIC NJ-ATLANTIC COASTAL CAPE MAY NJ-CAPE MAY NJ-CAROLINE MD-
+COASTAL ATLANTIC NJ-COASTAL OCEAN NJ-DELAWARE BEACHES DE-
+EASTERN MONMOUTH NJ-INLAND SUSSEX DE-KENT DE-OCEAN NJ-
+QUEEN ANNE'S MD-SOUTHEASTERN BURLINGTON NJ-TALBOT MD-
+WESTERN MONMOUTH NJ-
+INCLUDING THE CITIES OF...ATLANTIC CITY AND DOVER
+405 AM EDT FRI JUN 24 2005
+
+.NOW...
+
+AREAS OF FOG AND LOW CLOUDS WILL BE OVER SOUTHERN DELAWARE AND
+PORTIONS OF THE NORTHEASTERN MARYLAND SHORE EARLY THIS MORNING, AS
+WELL AS ALONG THE NEW JERSEY COAST. THE PATCHY DENSE FOG MAY REDUCE
+THE VISIBILITY TO A QUARTER MILE OR LESS AT TIMES. IF YOU WILL BE
+DRIVING THIS MORNING, BE SURE TO LEAVE PLENTY OF ROOM BETWEEN YOUR
+VEHICLE AND THE ONE AHEAD OF YOU. YOUR VISIBILITY COULD DROP QUICKLY
+IF YOU DRIVE INTO A DENSE PATCH OF FOG. WATCH ESPECIALLY FOR
+PEDESTRIANS. THE FOG SHOULD DISSIPATE AN HOUR OR TWO AFTER SUNRISE.
+$$
+
+Medium Range Forecasting
+
+Analog technique
+
+   A more complicated way of making a forecast, it requires remembering a
+   previous weather event which is expected to be mimicked by an upcoming
+   event. What makes it a difficult technique to use is that there is
+   rarely a perfect analog for an event in the future. Some call this type
+   of forecasting pattern recognition, which remains a useful method of
+   observing rainfall over data voids such as oceans, as well as the
+   forecasting of precipitation amounts and distribution in the future. A
+   variation on this theme is used in Medium Range forecasting, which is
+   known as teleconnections, when you use systems in other locations to
+   help pin down the location of another system within the surrounding
+   regime. One method of using teleconnections are by using ENSO-related
+   phenomena.
+
+Ensemble forecasting
+
+   Although a forecast model will predict realistic looking weather
+   features evolving realistically into the distant future, the errors in
+   a forecast will inevitably grow with time due to the chaotic nature of
+   the atmosphere. The detail that can be given in a forecast therefore
+   decreases with time as these errors increase. There becomes a point
+   when the errors are so large that the forecast is completely wrong and
+   the forecast atmospheric state has no correlation with the actual state
+   of the atmosphere.
+
+   However, looking at a single forecast gives no indication of how likely
+   that forecast is to be correct. Ensemble forecasting uses lots of
+   forecasts produced to reflect the uncertainty in the initial state of
+   the atmosphere (due to errors in the observations and insufficient
+   sampling). The uncertainty in the forecast can then be assessed by the
+   range of different forecasts produced. They have been shown to be
+   better at detecting the possibility of extreme events at long range.
+
+   Ensemble forecasts are increasingly being used for operational weather
+   forecasting (for example at ECMWF, NCEP, and the Canadian forecasting
+   centre).
+
+Websites providing forecasts
+
+Meteorological agencies
+
+   These are academic or governmental meteorology organizations. Most
+   provide at least a limited forecast for their area of interest on their
+   website.
+     * The World Meteorological Organization
+     * NOAA weather page
+
+                NOAA satellite images
+                National Weather Service
+
+     * Met Éireann (Ireland)
+     * The Met Office of the UK
+     * European Centre for Medium Range Weather Forecasting (ECMWF)
+     * Environment Canada Weather Office
+     * Australian Bureau of Meteorology
+     * New Zealand MetService
+     * Meteo Suisse (Swiss Weather Agency, in English
+     * Finnish Meteorological Institute
+     * Royal Meteorological Institute of Belgium
+     * Korea Meteorological Administration
+     * Hong Kong Observatory
+
+Commercial organisations
+
+   These are high profile commercial sites.
+     * Freese-Notis Weather Site — Meteorologists with doppler radar
+       images, data analysis, forensics and a wide variety industry
+       specific US and international weather forecasts, agriculture and
+       energy being strong areas of performance plus supplies advanced web
+       site content
+     * Weather Underground — Provides a wide variety of US and
+       international weather information
+     * Unisys Weather Site — Provides meteorological data, analysis, and
+       forecasts for the US along with ancillary information for aircraft
+       or flight systems related information domestically and overseas
+     * Verizon's Weather Forecasts - Provides weather briefs & extended
+       outlook for the U.S. Also powers weather on 20,000 other websites
+     * MeteoGroup Europe's largest independent weather forecasting
+       company. Provides weather for Transport, Energy, Agriculture,
+       Maritime, Media, Leisure, Health & Environment, Insurance and Water
+       Management.
+     * Accuweather — Weather forecasts and weather-related news (US and
+       international) known for television grade services
+     * The Weather Channel — Weather forecasts and weather-related news
+       mainly for the US, but also has world forecasts.
+     * TheWeatherOutlook — Weather forecasts for the UK.
+     * BBC Weather — Weather forecasts for the UK and climate overviews
+       for the whole world. Links to contemporary climate change news for
+       astute observers of the controversial topic
+     * Wetterzentrale - A German language site displaying a large range of
+       high quality weather charts.
+     * The Weather Network - Canadian weather and forecasts.
+     * Weatherzone - Provides a wide variety of Australian weather
+       information.
+     * Weather.com.au - Australian weather forecasts.
+     * Weatheronline - Meteorological data, analysis, and forecasts for
+       the UK and the whole world. Provides radar images, climate data and
+       weather-related news.
+     * MSN Weather (Data provided by FORECA) - Worldwide Weather Forecasts
+       (Hourly, Extended Ten-day and Historical Averages)
+
+   Retrieved from " http://en.wikipedia.org/wiki/Weather_forecasting"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

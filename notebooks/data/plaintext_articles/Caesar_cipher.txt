@@ -1,0 +1,214 @@
+   #copyright
+
+Caesar cipher
+
+2007 Schools Wikipedia Selection. Related subjects: Cryptography
+
+
+   This is a featured article. Click here for more information.
+   The action of a Caesar cipher is to replace each plaintext letter with
+   one a fixed number of places down the alphabet. This example is with a
+   shift of three, so that a B in the plaintext becomes E in the
+   ciphertext.
+   Enlarge
+   The action of a Caesar cipher is to replace each plaintext letter with
+   one a fixed number of places down the alphabet. This example is with a
+   shift of three, so that a B in the plaintext becomes E in the
+   ciphertext.
+
+   In cryptography, a Caesar cipher, also known as a Caesar's cipher, the
+   shift cipher, Caesar's Code or Caesar Shift, is one of the simplest and
+   most widely-known encryption techniques. It is a type of substitution
+   cipher in which each letter in the plaintext is replaced by a letter
+   some fixed number of positions further down the alphabet. For example,
+   with a shift of 3, A would be replaced by D, B would become E, and so
+   on. The method is named after Julius Caesar, who used it to communicate
+   with his generals.
+
+   The encryption step performed by a Caesar cipher is often incorporated
+   as part of more complex schemes, such as the Vigenère cipher, and still
+   has modern application in the ROT13 system. As with all single alphabet
+   substitution ciphers, the Caesar cipher is easily broken and in
+   practice offers essentially no communication security.
+
+Example
+
+   The transformation can be represented by aligning two alphabets; the
+   cipher alphabet is the plain alphabet rotated left or right by some
+   number of positions. For instance, here is a Caesar cipher using a
+   right rotation of three places (the shift parameter, here 3, is used as
+   the key):
+
+          Plain: abcdefghijklmnopqrstuvwxyz
+          Cipher: DEFGHIJKLMNOPQRSTUVWXYZABC
+
+   To encipher a message, simply look up each letter of the message in the
+   "plain" line and write down the corresponding letter in the "cipher"
+   line. To decipher, do the reverse.
+
+          Plaintext: the quick brown fox jumps over the lazy dog
+          Ciphertext: WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GRJ
+
+   The encryption can also be represented using modular arithmetic by
+   first transforming the letters into numbers, according to the scheme, A
+   = 0, B = 1,..., Z = 25. Encryption of a letter x by a shift n can be
+   described mathematically as,
+
+          E_n(x) = (x + n) \mod {26}.
+
+   Decryption is performed similarly,
+
+          D_n(x) = (x - n) \mod {26}.
+
+   The replacement remains the same throughout the message, so the cipher
+   is classed as a type of monoalphabetic substitution, as opposed to
+   polyalphabetic substitution.
+
+History and usage
+
+   The Caesar cipher is named for Julius Caesar, who used an alphabet with
+   a shift of three.
+   Enlarge
+   The Caesar cipher is named for Julius Caesar, who used an alphabet with
+   a shift of three.
+
+   The Caesar cipher is named after Julius Caesar, who, according to
+   Suetonius, used it with a shift of three to protect messages of
+   military significance:
+
+          If he had anything confidential to say, he wrote it in cipher,
+          that is, by so changing the order of the letters of the
+          alphabet, that not a word could be made out. If anyone wishes to
+          decipher these, and get at their meaning, he must substitute the
+          fourth letter of the alphabet, namely D, for A, and so with the
+          others. — Suetonius, Life of Julius Caesar 56 .
+
+   While Caesar's was the first recorded use of this scheme, other
+   substitution ciphers are known to have been used earlier. Julius
+   Caesar's nephew Augustus also used the cipher, but with a shift of one:
+
+          Whenever he wrote in cipher, he wrote B for A, C for B, and the
+          rest of the letters on the same principle, using AA for X. —
+          Suetonius, Life of Augustus 88.
+
+   There is evidence that Julius Caesar used more complicated systems as
+   well, and one writer, Aulus Gellius, refers to a (now lost) treatise on
+   his ciphers:
+
+          There is even a rather ingeniously written treatise by the
+          grammarian Probus concerning the secret meaning of letters in
+          the composition of Caesar's epistles. — Aulus Gellius, 17.9.1–5.
+
+   It is unknown how effective the Caesar cipher was at the time, but it
+   is likely to have been reasonably secure, not least because few of
+   Caesar's enemies would have been literate, let alone able to consider
+   cryptanalysis. Assuming that an attacker could read the message, there
+   is no record at that time of any techniques for the solution of simple
+   substitution ciphers. The earliest surviving records date to the 9th
+   century in the Arab world with the discovery of frequency analysis.
+
+   In the 19th century, the personal advertisements section in newspapers
+   would sometimes be used to exchange messages encrypted using simple
+   cipher schemes. Kahn (1967) describes instances of lovers engaging in
+   secret communications enciphered using the Caesar cipher in The Times.
+   Even as late as 1915, the Caesar cipher was in use: the Russian army
+   employed it as a replacement for more complicated ciphers which had
+   proved to be too difficult for their troops to master; German and
+   Austrian cryptanalysts had little difficulty in decrypting their
+   messages.
+
+   Caesar ciphers can be found today in children's toys such as secret
+   decoder rings. A Caesar shift of thirteen is also performed in the
+   ROT13 algorithm, a simple method of obfuscating text used in some
+   Internet forums to obscure text (such as joke punchlines and story
+   spoilers), but not used as a method of encryption.
+
+   The Vigenère cipher uses a Caesar cipher with a different shift at each
+   position in the text; the value of the shift is defined using a
+   repeating keyword. If a single-use keyword is as long as the message
+   and chosen randomly then this is a one-time pad cipher, unbreakable if
+   the users maintain the keyword's secrecy. Keywords shorter than the
+   message (e.g., " Complete Victory"), used historically, introduce a
+   cyclic pattern that might be detected with a statistically advanced
+   version of frequency analysis.
+
+Breaking the cipher
+
+                                            Decryption
+                                                 shift Candidate plaintext
+                                                0        exxegoexsrgi
+                                                1        dwwdfndwrqfh
+                                                2        cvvcemcvqpeg
+                                                3        buubdlbupodf
+                                                4        attackatonce
+                                                5        zsszbjzsnmbd
+                                                6        yrryaiyrmlac
+                                                        ...
+                                                23       haahjrhavujl
+                                                24       gzzgiqgzutik
+                                                25       fyyfhpfytshj
+
+   The Caesar cipher can be easily broken even in a ciphertext-only
+   scenario. Two situations can be considered: 1) an attacker knows (or
+   guesses) that some sort of simple substitution cipher has been used,
+   but not specifically that it is a Caesar scheme; and 2) an attacker
+   knows that a Caesar cipher is in use, but does not know the shift
+   value.
+
+   In the first case, the cipher can be broken using the same techniques
+   as for a general simple substitution cipher, such as frequency analysis
+   or pattern words. While solving, it is likely that an attacker will
+   quickly notice the regularity in the solution and deduce that a Caesar
+   cipher is the specific algorithm employed.
+   The distribution of letters in a typical sample of English language
+   text has a distinctive and predictable shape. A Caesar shift "rotates"
+   this distribution, and it is possible to determine the shift by
+   examining the resultant frequency graph.
+   Enlarge
+   The distribution of letters in a typical sample of English language
+   text has a distinctive and predictable shape. A Caesar shift "rotates"
+   this distribution, and it is possible to determine the shift by
+   examining the resultant frequency graph.
+
+   In the second instance, breaking the scheme is even more
+   straightforward. Since there are only a limited number of possible
+   shifts (26 in English), they can each be tested in turn in a brute
+   force attack. One way to do this is to write out a snippet of the
+   ciphertext in a table of all possible shifts — a technique sometimes
+   known as "completing the plain component". The example given is for the
+   ciphertext "EXXEGOEXSRGI"; the plaintext is instantly recognisable by
+   eye at a shift of four. Another way of viewing this method is that,
+   under each letter of the ciphertext, the entire alphabet is written out
+   in reverse starting at that letter. This attack can be accelerated
+   using a set of strips prepared with the alphabet written down them in
+   reverse order. The strips are then aligned to form the ciphertext along
+   one row, and the plaintext should appear in one of the other rows.
+
+   Another brute force approach is to match up the frequency distribution
+   of the letters. By graphing the frequencies of letters in the
+   ciphertext, and by knowing the expected distribution of those letters
+   in the original language of the plaintext, a human can easily spot the
+   value of the shift by looking at the displacement of particular
+   features of the graph. This is known as frequency analysis. For example
+   in the English language the plaintext frequencies of the letters E, T,
+   (usually most frequent), and Q, Z (typically least frequent) are
+   particularly distinctive. Computers can also do this by measuring how
+   well the actual frequency distribution matches up with the expected
+   distribution; for example, the chi-square statistic can be used.
+
+   For natural language plaintext, there will, in all likelihood, be only
+   one plausible decryption, although for extremely short plaintexts,
+   multiple candidates are possible. For example, the ciphertext MPQY
+   could, plausibly, decrypt to either " aden" or "know" (assuming the
+   plaintext is in English); similarly, "ALIIP" to "dolls" or "wheel"; and
+   "AFCCP" to "jolly" or "cheer" (see also unicity distance).
+
+   Multiple encryptions and decryptions provide no additional security.
+   This is because two encryptions of, say, shift A and shift B, will be
+   equivalent to an encryption with shift A + B. In mathematical terms,
+   the encryption under various keys forms a group.
+   Retrieved from " http://en.wikipedia.org/wiki/Caesar_cipher"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

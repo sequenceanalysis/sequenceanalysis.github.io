@@ -1,0 +1,147 @@
+   #copyright
+
+Linus Torvalds
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+   CAPTION: Linus Torvalds
+
+      Born:    28 December 1969
+               Helsinki, Finland
+   Occupation: Software engineer
+     Spouse:   Tove Torvalds
+    Website:   http://www.cs.helsinki.fi/u/torvalds/
+
+   Linus Benedict Torvalds (born December 28, 1969 in Helsinki, Finland)
+   is a Finnish software engineer best known for initiating the
+   development of the Linux kernel. He now acts as the project's
+   coordinator (or Benevolent Dictator for Life).
+
+   Linus was inspired by Minix (an operating system developed by Andrew S.
+   Tanenbaum) to develop a capable Unix-like operating system that could
+   be run on a PC. Linux now also runs on many other architectures.
+
+Biography
+
+   Linus was born in Helsinki, Finland, the son of journalists Anna and
+   Nils Torvalds, and the grandson of poet Ole Torvalds. His family
+   belongs to the Swedish-speaking minority (roughly 5 %) of Finland's
+   population. Torvalds was named after Linus Pauling, the American Nobel
+   Prize-winning chemist, although he prefers to claim he was named after
+   Linus in the Peanuts comic strip. Both of his parents were campus
+   radicals at the University of Helsinki in the 1960s. His father was a
+   communist who in the mid-1970s spent a year studying in Moscow.
+
+   Torvalds attended the University of Helsinki from 1988 to 1996,
+   graduating with a master's degree in computer science. His M.Sc. thesis
+   was titled Linux: A Portable Operating System.
+
+   His interest in computers began with a Commodore VIC-20. After the
+   VIC-20 he purchased a Sinclair QL which he modified extensively,
+   especially its operating system. He programmed an assembler and a text
+   editor for the QL, as well as a few games. He is known to have written
+   a Pac-Man clone named Cool Man. In 1990 he purchased an Intel
+   80386-based IBM PC and spent a few weeks playing the game Prince of
+   Persia before receiving his Minix copy which in turn enabled him to
+   begin his work on Linux.
+
+   Linus is married to Tove Torvalds (born Monni). She is a six-time
+   Finnish national Karate champion, whom he first met in the autumn of
+   1993. Linus was running introductory computer laboratory exercises for
+   students and instructed the course attendants to send him an e-mail as
+   a test, to which Tove responded with an e-mail asking for a date. They
+   have three daughters, Patricia Miranda (born December 5, 1996), Daniela
+   Yolanda (born April 16, 1998) and Celeste Amanda (born November 20,
+   2000), and a cat named Randi (short for Mithrandir, the Sindarin name
+   for Gandalf, a wizard in The Lord of the Rings).
+
+   Red Hat and VA Linux, both leading developers of Linux-based software,
+   presented Torvalds with stock options in gratitude for his creation. In
+   1999, both companies went public and Torvalds' net worth shot up to
+   roughly $20 million .
+
+   Torvalds moved to San Jose, California and lived there for several
+   years with his family. In June of 2004, Torvalds and his family moved
+   to Portland, Oregon to be closer to Linus's place of work.
+
+   He worked for Transmeta from February 1997 until June 2003, and is now
+   seconded to the Open Source Development Lab, a Beaverton, Oregon based
+   software consortium.
+
+   His personal mascot is a penguin nicknamed Tux, which has been widely
+   adopted by the Linux community as the mascot of the Linux kernel.
+
+   Unlike many open source evangelists, Torvalds maintains a low profile
+   and generally refuses to comment on competing software products.
+   Torvalds generally stays out of non-kernel-related debates. He has been
+   criticized for his neutrality by the free software movement,
+   specifically for having worked on proprietary software with Transmeta
+   and for his use and alleged advocacy of the proprietary BitKeeper
+   software (for version control in the Linux kernel, BitKeeper was
+   replaced by git in June, 2005). Torvalds has commented on official
+   GNOME developmental mailing lists that, in terms of desktop
+   environments, he encourages users to switch to KDE .
+
+   Torvalds often finds himself in the middle of competing ideologies: on
+   one hand he is an established icon of open-source and free software,
+   yet on the other he has supported the use of the proprietary software
+   BitKeeper to help manage the Linux kernel and has stated that Linux may
+   include technology supporting digital rights management for pragmatic
+   reasons.
+
+The Linus/Linux connection
+
+   Torvalds originally used the Minix OS on his system which he replaced
+   with the Linux OS. He first named it Freax (a combination of "free",
+   "freak", and the letter X to indicate that it is a Unix-like system),
+   but his friend Ari Lemmke, who administered the FTP server where the
+   Linux kernel was first hosted for downloading, gave Torvalds a
+   directory called linux. (Torvalds & Diamond 2001:88)
+
+Authority on Linux
+
+   Only about 2% of the current Linux kernel is written by Torvalds
+   himself. Despite the relative size of his contribution, Torvalds
+   remains the ultimate authority on what new code is incorporated into
+   the Linux kernel.
+
+Linux trademark
+
+   Torvalds owns the "Linux" trademark, and monitors use (or abuse) of it
+   chiefly through the non-profit organization Linux International.
+   Linux's wide and passionate userbase makes trademark abuse difficult as
+   misuse is rapidly detected.
+
+Recognition
+
+     * In 1996 Asteroid 9793 Torvalds was named after Linus Torvalds.
+     * In 1998 he received an EFF Pioneer Award.
+     * In 1999 he received honorary doctor status at Stockholm University.
+     * In 2000 he received honorary doctor status at University of
+       Helsinki.
+     * In the Time magazine's Person of the Century Poll, Torvalds was
+       voted at #17 at the poll's close in 2000.
+     * In 2001, he shared the Takeda Award for Social/Economic Well-Being
+       with Richard Stallman and Ken Sakamura.
+     * The 2001 film Swordfish contains a Finnish character - the number
+       one computer hacker in the world - named Axl Torvalds.
+     * In 2004, he was named one of the most influential people in the
+       world by the Time magazine article "Linus Torvalds: The
+       Free-Software Champion" by Lawrence Lessig, Time Magazine, posted
+       Monday, Apr. 26, 2004, retrieved October 3rd, 2006.
+     * In the search for the 100 Greatest Finns of all time, voted in the
+       summer of 2004, Torvalds placed 16th.
+     * In 2005 he appeared as one of "the best managers" in a survey by
+       BusinessWeek.
+     * In August 2005, Torvalds received the Vollum Award from Reed
+       College.
+     * In 2006, Business 2.0 magazine named him one of "10 people who
+       don't matter".
+     * In 2006, Time Magazine names him one of the revolutionary heroes of
+       the past 60 years.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Linus_Torvalds"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

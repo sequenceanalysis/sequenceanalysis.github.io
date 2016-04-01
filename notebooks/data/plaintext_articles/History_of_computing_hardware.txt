@@ -1,0 +1,695 @@
+   #copyright
+
+History of computing hardware
+
+2007 Schools Wikipedia Selection. Related subjects: Computing hardware and
+infrastructure; Recent History
+
+
+   This is a featured article. Click here for more information.
+            History of computing
+   Hardware before 1960
+   Hardware 1960s to present
+   Hardware in Soviet Bloc countries
+   Operating systems
+   Software engineering
+   Programming languages
+   Graphical user interface
+   Internet
+   World Wide Web
+   Computer and video games
+   Timeline of computing
+     * Timeline of computing 2400 BC-1949
+     * 1950-1979
+     * 1980-1989
+     * 1990-
+     * More timelines...
+
+                  More...
+
+   Computing hardware has been an important component of the process of
+   calculation and data storage since it became useful for numerical
+   values to be processed and shared. The earliest computing hardware was
+   probably some form of tally stick; later record keeping aids include
+   Phoenician clay shapes which represented counts of items, probably
+   livestock or grains, in containers. Something similar is found in early
+   Minoan excavations. These seem to have been used by the merchants,
+   accountants, and government officials of the time.
+
+   Devices to aid computation have changed from simple recording and
+   counting devices to the abacus, the slide rule, analog computers, and
+   more recent electronic computers. Even today, an experienced abacus
+   user using a device hundreds of years old can sometimes complete basic
+   calculations more quickly than an unskilled person using an electronic
+   calculator — though for more complex calculations, computers
+   out-perform even the most skilled human.
+
+   This article covers major developments in the history of computing
+   hardware, and attempts to put them in context. For a detailed timeline
+   of events, see the computing timeline article. The history of computing
+   article is a related overview and treats methods intended for pen and
+   paper, with or without the aid of tables.
+
+Earliest devices
+
+   Chinese and others frustrated with counting on their fingers invented
+   the Abacus.
+   Chinese and others frustrated with counting on their fingers invented
+   the Abacus.
+
+   Humanity has used devices to aid in computation for millennia.
+   Unbalanced scales, showing inequality
+   Enlarge
+   Unbalanced scales, showing inequality
+
+   One example is a device for establishing equality by weight: the
+   classic scales. Another is simple enumeration: the checkered cloths of
+   the counting houses served as simple data structures for enumerating
+   stacks of coins, by weight. A more arithmetic-oriented machine is the
+   abacus. One of the earliest machines of this type was the Chinese
+   abacus.
+
+   Gears are at the heart of mechanical devices like the Curta calculator.
+   Enlarge
+   Gears are at the heart of mechanical devices like the Curta calculator.
+
+   In 1623 Wilhelm Schickard built the first mechanical calculator and
+   thus became the father of the computing era. Since his machine used
+   techniques such as cogs and gears first developed for clocks, it was
+   also called a 'calculating clock'. It was put to practical use by his
+   friend Johannes Kepler, who revolutionized astronomy.
+
+   Machines by Blaise Pascal (the Pascaline, 1642) and Gottfried Wilhelm
+   von Leibniz (1671) followed. Around 1820, Charles Xavier Thomas created
+   the first successful, mass-produced mechanical calculator, the Thomas
+   Arithmometer, that could add, subtract, multiply, and divide. It was
+   mainly based on Leibniz's work. Mechanical calculators, like the
+   base-ten addiator, the comptometer, the Monroe, the Curta and the
+   Addo-X remained in use until the 1970s.
+   Mechanical calculator from 1914
+   Enlarge
+   Mechanical calculator from 1914
+
+   Leibniz also described the binary numeral system, a central ingredient
+   of all modern computers. However, up to the 1940s, many subsequent
+   designs (including Charles Babbage's machines of the 1800s and even
+   ENIAC of 1945) were based on the harder-to-implement decimal system.
+   The slide rule, a basic mechanical calculator, facilitates
+   multiplication and division.
+   Enlarge
+   The slide rule, a basic mechanical calculator, facilitates
+   multiplication and division.
+
+   John Napier noted that multiplication and division of numbers can be
+   performed by addition and subtraction, respectively, of logarithms of
+   those numbers. Since these real numbers can be represented as distances
+   or intervals on a line, the slide rule allowed multiplication and
+   division operations to be carried significantly faster than was
+   previously possible. Slide rules were used by generations of engineers
+   and other mathematically inclined professional workers, until the
+   invention of the pocket calculator. The engineers in the Apollo program
+   to send a man to the moon made many of their calculations on slide
+   rules, which were accurate to 3 or 4 significant figures.
+
+   While producing the first logarithmic tables Napier needed to perform
+   many multiplications and it was at this point that he designed Napier's
+   bones.
+
+1801: punched card technology
+
+   Punch card system of a music machine. Also referred to as Book music, a
+   one-stop European medium for organs
+   Enlarge
+   Punch card system of a music machine. Also referred to as Book music, a
+   one-stop European medium for organs
+   Punch card system of a 19th Century loom
+   Enlarge
+   Punch card system of a 19th Century loom
+
+   As early as 1725 Basile Bouchon used a perforated paper loop in a loom
+   to establish the pattern to be reproduced on cloth, and in 1726 his
+   co-worker Jean-Baptiste Falcon improved on his design by using
+   perforated paper cards attached to one another, which made it easier to
+   change the program quickly. The Bouchon-Falcon loom was semi-automatic
+   and required manual feed of the program.
+
+   In 1801, Joseph-Marie Jacquard developed a loom in which the pattern
+   being woven was controlled by punched cards. The series of cards could
+   be changed without changing the mechanical design of the loom. This was
+   a landmark point in programmability.
+   Herman Hollerith invented a tabulating machine using punch cards in the
+   1880s.
+   Herman Hollerith invented a tabulating machine using punch cards in the
+   1880s.
+
+   In 1833, Charles Babbage moved on from developing his difference engine
+   to developing a more complete design, the analytical engine, which
+   would draw directly on Jacquard's punch cards for its programming. .
+
+   In 1890, the United States Census Bureau used punch cards and sorting
+   machines designed by Herman Hollerith, to handle the flood of data from
+   the decennial census mandated by the Constitution. Hollerith's company
+   eventually became the core of IBM. IBM developed punch card technology
+   into a powerful tool for business data-processing and produced an
+   extensive line of specialized unit record equipment. By 1950, the IBM
+   card had become ubiquitous in industry and government. The warning
+   printed on most cards intended for circulation as documents (checks,
+   for example), "Do not fold, spindle or mutilate," became a motto for
+   the post-World War II era.
+
+   Leslie Comrie's articles on punch card methods and W.J. Eckert's
+   publication of Punched Card Methods in Scientific Computation in 1940,
+   described techniques which were sufficiently advanced to solve
+   differential equations, perform multiplication and division using
+   floating point representations, all on punched cards and unit record
+   machines. The Thomas J. Watson Astronomical Computing Bureau, Columbia
+   University performed astronomical calculations representing the state
+   of the art in computing.
+
+   In many computer installations, punched cards were used until (and
+   after) the end of the 1970s. For example, science and engineering
+   students at many universities around the world would submit their
+   programming assignments to the local computer centre in the form of a
+   stack of cards, one card per program line, and then had to wait for the
+   program to be queued for processing, compiled, and executed. In due
+   course a printout of any results, marked with the submitter's
+   identification, would be placed in an output tray outside the computer
+   centre. In many cases these results would comprise solely a printout of
+   error messages regarding program syntax etc., necessitating another
+   edit-compile-run cycle.
+
+   Punched cards are still used and manufactured in the current century,
+   and their distinctive dimensions (and 80-column capacity) can still be
+   recognized in forms, records, and programs around the world.
+
+1835–1900s: first programmable machines
+
+   The defining feature of a " universal computer" is programmability,
+   which allows the computer to emulate any other calculating machine by
+   changing a stored sequence of instructions.
+
+   In 1835 Charles Babbage described his analytical engine. It was the
+   plan of a general-purpose programmable computer, employing punch cards
+   for input and a steam engine for power. One crucial invention was to
+   use gears for the function served by the beads of an abacus. In a real
+   sense, computers all contain automatic abacuses (technically called the
+   ALU or floating-point unit).
+
+   His initial idea was to use punch-cards to control a machine that could
+   calculate and print logarithmic tables with huge precision (a specific
+   purpose machine). Babbage's idea soon developed into a general-purpose
+   programmable computer, his analytical engine.
+
+   While his design was sound and the plans were probably correct, or at
+   least debuggable, the project was slowed by various problems. Babbage
+   was a difficult man to work with and argued with anyone who didn't
+   respect his ideas. All the parts for his machine had to be made by
+   hand. Small errors in each item can sometimes sum up to large
+   discrepancies in a machine with thousands of parts, which required
+   these parts to be much better than the usual tolerances needed at the
+   time. The project dissolved in disputes with the artisan who built
+   parts and was ended with the depletion of government funding.
+
+   Ada Lovelace, Lord Byron's daughter, translated and added notes to the
+   " Sketch of the Analytical Engine" by Federico Luigi, Conte Menabrea.
+   She has become closely associated with Babbage. Some claim she is the
+   world's first computer programmer, however this claim and the value of
+   her other contributions are disputed by many.
+
+   A reconstruction of the Difference Engine II, an earlier, more limited
+   design, has been operational since 1991 at the London Science Museum.
+   With a few trivial changes, it works as Babbage designed it and shows
+   that Babbage was right in theory.
+
+   The museum used computer-operated machine tools to construct the
+   necessary parts, following tolerances which a machinist of the period
+   would have been able to achieve. Some feel that the technology of the
+   time was unable to produce parts of sufficient precision, though this
+   appears to be false. The failure of Babbage to complete the engine can
+   be chiefly attributed to difficulties not only related to politics and
+   financing, but also to his desire to develop an increasingly
+   sophisticated computer. Today, many in the computer field term this
+   sort of obsession creeping featuritis.
+
+   Following in the footsteps of Babbage, although unaware of his earlier
+   work, was Percy Ludgate, an accountant from Dublin, Ireland. He
+   independently designed a programmable mechanical computer, which he
+   described in a work that was published in 1909.
+
+1930s–1960s: desktop calculators
+
+   By the 1900s earlier mechanical calculators, cash registers, accounting
+   machines, and so on were redesigned to use electric motors, with gear
+   position as the representation for the state of a variable. Companies
+   like Friden, Marchant and Monroe made desktop mechanical calculators
+   from the 1930s that could add, subtract, multiply and divide. The word
+   "computer" was a job title assigned to people who used these
+   calculators to perform mathematical calculations. During the Manhattan
+   project, future Nobel laureate Richard Feynman was the supervisor of
+   the roomful of human computers, many of them women mathematicians, who
+   understood the differential equations which were being solved for the
+   war effort. Even the renowned Stanisław Ulam was pressed into service
+   to translate the mathematics into computable approximations for the
+   hydrogen bomb, after the war.
+
+   In 1948, the Curta was introduced. This was a small, portable,
+   mechanical calculator that was about the size of a pepper grinder. Over
+   time, during the 1950s and 1960s a variety of different brands of
+   mechanical calculator appeared on the market.
+
+   The first all-electronic desktop calculator was the British ANITA
+   Mk.VII, which used a Nixie tube display and 177 subminiature thyratron
+   tubes. In June 1963, Friden introduced the four-function EC-130. It had
+   an all-transistor design, 13-digit capacity on a 5-inch CRT, and
+   introduced reverse Polish notation ( RPN) to the calculator market at a
+   price of $2200. The model EC-132 added square root and reciprocal
+   functions. In 1965, Wang Laboratories produced the LOCI-2, a 10-digit
+   transistorized desktop calculator that used a Nixie tube display and
+   could compute logarithms.
+
+   With development of the integrated circuits and microprocessors, the
+   expensive, large calculators were replaced with smaller electronic
+   devices.
+
+Pre-1940 analog computers
+
+   Before World War II, mechanical and electrical analog computers were
+   considered the 'state of the art', and many thought they were the
+   future of computing. Analog computers use continuously varying amounts
+   of physical quantities, such as voltages or currents, or the rotational
+   speed of shafts, to represent the quantities being processed. An
+   ingenious example of such a machine was the Water integrator built in
+   1936. Unlike modern digital computers, analog computers are not very
+   flexible, and need to be reconfigured (i.e., reprogrammed) manually to
+   switch them from working on one problem to another. Analog computers
+   had an advantage over early digital computers in that they could be
+   used to solve complex problems while the earliest attempts at digital
+   computers were quite limited. But as digital computers have become
+   faster and used larger memory (e.g., RAM or internal store), they have
+   almost entirely displaced analog computers, and computer programming,
+   or coding has arisen as another human profession.
+
+   Since computers were rare in this era, the solutions were often
+   hard-coded into paper forms such as graphs and nomograms, which could
+   then allow analog solutions to problems, such as the distribution of
+   pressures and temperatures in a heating system.
+
+   Some of the most widely deployed analog computers included devices for
+   aiming weapons, such as the Norden bombsight and artillery-aiming
+   computers for battleships. Some of these stayed in use for decades
+   after WWII.
+
+   The art of analog computing reached its zenith with the differential
+   analyzer, invented by Vannevar Bush in 1930. Fewer than a dozen of
+   these devices were ever built; the most powerful was constructed at the
+   University of Pennsylvania's Moore School of Electrical Engineering,
+   where the ENIAC was built. Digital electronic computers like the ENIAC
+   spelled the end for most analog computing machines, but hybrid analog
+   computers, controlled by digital electronics, remained in substantial
+   use into the 1950s and 1960s, and later in some specialized
+   applications.
+
+Early digital computers
+
+   The era of modern computing began with a flurry of development before
+   and during World War II, as electronic circuits, relays, capacitors and
+   vacuum tubes replaced mechanical equivalents and digital calculations
+   replaced analog calculations. The computers designed and constructed
+   then have sometimes been called 'first generation' computers. First
+   generation computers such as the Atanasoff-Berry Computer, the Z3, the
+   Colossus and ENIAC, were built by hand using circuits containing relays
+   or valves (vacuum tubes), and often used punched cards or punched paper
+   tape for input and as the main (non-volatile) storage medium.
+
+   In later systems, temporary, or working, storage was provided by
+   acoustic delay lines (which use the propagation time of sound through a
+   medium such as liquid mercury or wire to briefly store data) or by
+   Williams tubes (which use the ability of a television picture tube to
+   store and retrieve data). By 1954, magnetic core memory was rapidly
+   displacing most other forms of temporary storage, and dominated the
+   field through the mid-1970s.
+
+   In this era, a number of different machines were produced with steadily
+   advancing capabilities. At the beginning of this period, nothing
+   remotely resembling a modern computer existed, except in the long-lost
+   plans of Charles Babbage and the mathematical musings of Alan Turing
+   and others. At the end of the era, devices like the EDSAC had been
+   built, and are universally agreed to be digital computers. Defining a
+   single point in the series as the "first computer" misses many
+   subtleties.
+
+   Alan Turing's 1936 paper has proved enormously influential in computing
+   and computer science in two ways. Its main purpose was an elegant proof
+   that there were problems (namely the halting problem) that could not be
+   solved by a mechanical process (a computer). In doing so, however,
+   Turing provided a definition of what a universal computer is: a
+   construct called the Turing machine, a purely theoretical device
+   invented to formalize the notion of algorithm execution, replacing Kurt
+   Gödel's more cumbersome universal language based on arithmetics. Modern
+   computers are Turing-complete (i.e., equivalent algorithm execution
+   capability to a universal Turing machine), except for their finite
+   memory. This limited type of Turing completeness is sometimes viewed as
+   a threshold capability separating general-purpose computers from their
+   special-purpose predecessors.
+
+   However, as will be seen, theoretical Turing-completeness is a long way
+   from a practical universal computing device. To be a practical
+   general-purpose computer, there must be some convenient way to input
+   new programs into the computer, such as punched tape. For full
+   versatility, the Von Neumann architecture uses the same memory both to
+   store programs and data; virtually all contemporary computers use this
+   architecture (or some variant). Finally, while it is theoretically
+   possible to implement a full computer entirely mechanically (as
+   Babbage's design showed), electronics made possible the speed and later
+   the miniaturization that characterizes modern computers.
+
+   There were three parallel streams of computer development in the World
+   War II era, and two were either largely ignored or were deliberately
+   kept secret. The first was the German work of Konrad Zuse. The second
+   was the secret development of the Colossus computer in the UK. Neither
+   of these had much influence on the various computing projects in the
+   United States. After the war, British and American computing
+   researchers cooperated on some of the most important steps towards a
+   practical computing device.
+
+Konrad Zuse's Z-series
+
+   A reproduction of Zuse's Z1 computer.
+   Enlarge
+   A reproduction of Zuse's Z1 computer.
+
+   Working in isolation in Germany, Konrad Zuse started construction in
+   1936 of his first Z-series calculators featuring memory and (initially
+   limited) programmability. Zuse's purely mechanical, but already binary
+   Z1, finished in 1938, never worked reliably due to problems with the
+   precision of parts.
+
+   Zuse's subsequent machine, the Z3, was finished in 1941. It was based
+   on telephone relays and did work satisfactorily. The Z3 thus became the
+   first functional program-controlled computer. In many ways it was quite
+   similar to modern machines, pioneering numerous advances, such as
+   floating point numbers. Replacement of the hard-to-implement decimal
+   system (used in Charles Babbage's earlier design) by the simpler binary
+   system meant that Zuse's machines were easier to build and potentially
+   more reliable, given the technologies available at that time. This is
+   sometimes viewed as the main reason why Zuse succeeded where Babbage
+   failed.
+
+   Programs were fed into Z3 on punched films. Conditional jumps were
+   missing, but since the 1990s it has been proved theoretically that Z3
+   was still a universal computer (ignoring its physical storage size
+   limitations). In two 1936 patent applications, Konrad Zuse also
+   anticipated that machine instructions could be stored in the same
+   storage used for data - the key insight of what became known as the Von
+   Neumann architecture and was first implemented in the later British
+   EDSAC design (1949). Zuse also claimed to have designed the first
+   higher-level programming language, ( Plankalkül), in 1945, although it
+   was never formally published until 1971, and was implemented for the
+   first time in 2000 by the Free University of Berlin -- five years after
+   Zuse died.
+
+   Zuse suffered setbacks during World War II when some of his machines
+   were destroyed in the course of Allied bombing campaigns. Apparently
+   his work remained largely unknown to engineers in the UK and US until
+   much later, although at least IBM was aware of it as it financed his
+   post-war startup company in 1946 in return for an option on Zuse's
+   patents.
+
+American developments
+
+   In 1937, Claude Shannon produced his master's thesis at MIT that
+   implemented Boolean algebra using electronic relays and switches for
+   the first time in history. Entitled A Symbolic Analysis of Relay and
+   Switching Circuits, Shannon's thesis essentially founded practical
+   digital circuit design.
+
+   In November of 1937, George Stibitz, then working at Bell Labs,
+   completed a relay-based computer he dubbed the "Model K" (for
+   "kitchen", where he had assembled it), which calculated using binary
+   addition. Bell Labs authorized a full research program in late 1938
+   with Stibitz at the helm. Their Complex Number Calculator, completed
+   January 8, 1940, was able to calculate complex numbers. In a
+   demonstration to the American Mathematical Society conference at
+   Dartmouth College on September 11, 1940, Stibitz was able to send the
+   Complex Number Calculator remote commands over telephone lines by a
+   teletype. It was the first computing machine ever used remotely, in
+   this case over a phone line. Some participants in the conference who
+   witnessed the demonstration were John Von Neumann, John Mauchly, and
+   Norbert Wiener, who wrote about it in his memoirs.
+
+   In 1938 John Vincent Atanasoff and Clifford E. Berry of Iowa State
+   University developed the Atanasoff-Berry Computer (ABC), a special
+   purpose electronic computer for solving systems of linear equations.
+   (The original goal was to solve 29 simultaneous equations of 29
+   unknowns each, but due to errors in the card puncher mechanism the
+   completed machine could only solve a few equations.) The design used
+   over 300 vacuum tubes for high speed and employed capacitors fixed in a
+   mechanically rotating drum for memory. Though the ABC machine was not
+   programmable, it was the first modern computer in several other
+   respects, including the first to use binary math and electronic
+   circuits. ENIAC co-inventor John Mauchly visited the ABC while it was
+   still under construction in June 1941, and its influence on the design
+   of the later ENIAC machine is a matter of contention among computer
+   historians. The ABC was largely forgotten until it became the focus of
+   the lawsuit Honeywell v. Sperry Rand, the ruling of which invalidated
+   the ENIAC patent (and several others) as, among many reasons, having
+   been anticipated by the Iowa work.
+
+   In 1939, development began at IBM's Endicott laboratories on the
+   Harvard Mark I. Known officially as the Automatic Sequence Controlled
+   Calculator, the Mark I was a general purpose electro-mechanical
+   computer built with IBM financing and with assistance from IBM
+   personnel, under the direction of Harvard mathematician Howard Aiken.
+   Its design was influenced by Babbage's Analytical Engine, using decimal
+   arithmetic and storage wheels and rotary switches in addition to
+   electromagnetic relays. It was programmable via punched paper tape, and
+   contained several calculation units working in parallel. Later versions
+   contained several paper tape readers and the machine could switch
+   between readers based on a condition. Nevertheless, the machine was not
+   quite Turing-complete. The Mark I was moved to Harvard University and
+   began operation in May 1944.
+
+Colossus
+
+   Colossus was used to break German ciphers during World War II.
+   Enlarge
+   Colossus was used to break German ciphers during World War II.
+
+   During World War II, the British at Bletchley Park achieved a number of
+   successes at breaking encrypted German military communications. The
+   German encryption machine, Enigma, was attacked with the help of
+   electro-mechanical machines called bombes. The bombe, designed by Alan
+   Turing and Gordon Welchman, after the Polish cryptographic bomba
+   (1938), ruled out possible Enigma settings by performing chains of
+   logical deductions implemented electrically. Most possibilities led to
+   a contradiction, and the few remaining could be tested by hand.
+
+   The Germans also developed a series of teleprinter encryption systems,
+   quite different from Enigma. The Lorenz SZ 40/42 machine was used for
+   high-level Army communications, termed " Tunny" by the British. The
+   first intercepts of Lorenz messages began in 1941. As part of an attack
+   on Tunny, Professor Max Newman and his colleagues helped specify the
+   Colossus. The Mk I Colossus was built in 11 months by Tommy Flowers and
+   his colleagues at the Post Office Research Station at Dollis Hill in
+   London and then shipped to Bletchley Park.
+
+   Colossus was the first totally electronic computing device. The
+   Colossus used a large number of valves (vacuum tubes). It had
+   paper-tape input and was capable of being configured to perform a
+   variety of boolean logical operations on its data, but it was not
+   Turing-complete. Nine Mk II Colossi were built (The Mk I was converted
+   to a Mk II making ten machines in total). Details of their existence,
+   design, and use were kept secret well into the 1970s. Winston Churchill
+   personally issued an order for their destruction into pieces no larger
+   than a man's hand. Due to this secrecy the Colossi were not included in
+   many histories of computing. A reconstructed copy of one of the
+   Colossus machines is now on display at Bletchley Park.
+
+ENIAC
+
+   ENIAC performed ballistics trajectory calculations with 160 kW of
+   power.
+   Enlarge
+   ENIAC performed ballistics trajectory calculations with 160 kW of
+   power.
+
+   The US-built ENIAC (Electronic Numerical Integrator and Computer),
+   often called the first electronic general-purpose computer, publicly
+   validated the use of electronics for large-scale computing. This was
+   crucial for the development of modern computing, initially because of
+   the enormous speed advantage, but ultimately because of the potential
+   for miniaturization. Built under the direction of John Mauchly and J.
+   Presper Eckert, it was 1,000 times faster than its contemporaries.
+   ENIAC's development and construction lasted from 1943 to full operation
+   at the end of 1945. When its design was proposed, many researchers
+   believed that the thousands of delicate valves (i.e. vacuum tubes)
+   would burn out often enough that the ENIAC would be so frequently down
+   for repairs as to be useless. It was, however, capable of up to
+   thousands of operations per second for hours at a time between valve
+   failures.
+
+   ENIAC was unambiguously a Turing-complete device. A "program" on the
+   ENIAC, however, was defined by the states of its patch cables and
+   switches, a far cry from the stored program electronic machines that
+   evolved from it. At the time, however, unaided calculation was seen as
+   enough of a triumph to view the solution of a single problem as the
+   object of a program. (Improvements completed in 1948 made it possible
+   to execute stored programs set in function table memory, which made
+   programming less a "one-off" effort, and more systematic.)
+
+   Adapting ideas developed by Eckert and Mauchly after recognizing the
+   limitations of ENIAC, John von Neumann wrote a widely-circulated report
+   describing a computer design (the EDVAC design) in which the programs
+   and working data were both stored in a single, unified store. This
+   basic design, which became known as the von Neumann architecture, would
+   serve as the basis for the development of the first really flexible,
+   general-purpose digital computers.
+
+Summary
+
+   CAPTION: Defining characteristics of five first operative digital
+   computers
+
+   Computer Nation Shown working Binary Electronic Programmable Turing
+   complete
+   Zuse Z3 Germany May 1941 Yes No By punched film stock Yes ( 1998)
+   Atanasoff-Berry Computer USA Summer 1941 Yes Yes No No
+   Colossus computer UK 1943 Yes Yes Partially, by rewiring No
+   Harvard Mark I/IBM ASCC USA 1944 No No By punched paper tape No
+   ENIAC USA 1944 No Yes Partially, by rewiring Yes
+   1948 No Yes By Function Table ROM Yes
+
+First generation von Neumann machine and the other works
+
+   "Baby" at the Museum of Science and Industry in Manchester (MSIM),
+   England
+   Enlarge
+   "Baby" at the Museum of Science and Industry in Manchester (MSIM),
+   England
+
+   The first working von Neumann machine was the Manchester "Baby" or
+   Small-Scale Experimental Machine, built at the University of Manchester
+   in 1948; it was followed in 1949 by the Manchester Mark I computer
+   which functioned as a complete system using the Williams tube and
+   magnetic drum for memory, and also introduced index registers. The
+   other contender for the title "first digital stored program computer"
+   had been EDSAC, designed and constructed at the University of
+   Cambridge. Operational less than one year after the Manchester "Baby",
+   it was also capable of tackling real problems. EDSAC was actually
+   inspired by plans for EDVAC (Electronic Discrete Variable Automatic
+   Computer), the successor to ENIAC; these plans were already in place by
+   the time ENIAC was successfully operational. Unlike ENIAC, which used
+   parallel processing, EDVAC used a single processing unit. This design
+   was simpler and was the first to be implemented in each succeeding wave
+   of miniaturization, and increased reliability. Some view Manchester
+   Mark I / EDSAC / EDVAC as the "Eves" from which nearly all current
+   computers derive their architecture.
+
+   The first universal programmable computer in continental Europe was
+   created by a team of scientists under direction of Sergei Alekseyevich
+   Lebedev from Kiev Institute of Electrotechnology, Soviet Union (now
+   Ukraine). The computer MESM (МЭСМ, Small Electronic Calculating
+   Machine) became operational in 1950. It had about 6,000 vacuum tubes
+   and consumed 25 kW of power. It could perform approximately 3,000
+   operations per second. Another early machine was CSIRAC, an Australian
+   design that ran its first test program in 1949.
+
+   In October 1947, the directors of J. Lyons & Company, a British
+   catering company famous for its teashops but with strong interests in
+   new office management techniques, decided to take an active role in
+   promoting the commercial development of computers. By 1951 the LEO I
+   computer was operational and ran the world's first regular routine
+   office computer job.
+
+   Manchester University's machine became the prototype for the Ferranti
+   Mark I. The first Ferranti Mark I machine was delivered to the
+   University in February, 1951 and at least nine others were sold between
+   1951 and 1957.
+
+   In June 1951, the UNIVAC I (Universal Automatic Computer) was delivered
+   to the U.S. Census Bureau. Although manufactured by Remington Rand, the
+   machine often was mistakenly referred to as the "IBM UNIVAC". Remington
+   Rand eventually sold 46 machines at more than $1 million each. UNIVAC
+   was the first 'mass produced' computer; all predecessors had been
+   'one-off' units. It used 5,200 vacuum tubes and consumed 125 kW of
+   power. It used a mercury delay line capable of storing 1,000 words of
+   11 decimal digits plus sign (72-bit words) for memory. Unlike IBM
+   machines it was not equipped with a punch card reader but 1930s style
+   metal magnetic tape input, making it incompatible with some existing
+   commercial data stores. High speed punched paper tape and modern-style
+   magnetic tapes were used for input/output by other computers of the
+   era.
+
+   In November 1951, the J. Lyons company began weekly operation of a
+   bakery valuations job on the LEO (Lyons Electronic Office). This was
+   the first business application to go live on a stored program computer.
+
+   In 1952, IBM publicly announced the IBM 701 Electronic Data Processing
+   Machine, the first in its successful 700/7000 series and its first IBM
+   mainframe computer. The IBM 704, introduced in 1954, used magnetic core
+   memory, which became the standard for large machines. The first
+   implemented high-level general purpose programming language, Fortran,
+   was also being developed at IBM for the 704 during 1955 and 1956 and
+   released in early 1957. (Konrad Zuse's 1945 design of the high-level
+   language Plankalkül was not implemented at that time.)
+
+   IBM introduced a smaller, more affordable computer in 1954 that proved
+   very popular. The IBM 650 weighed over 900 kg, the attached power
+   supply weighed around 1350 kg and both were held in separate cabinets
+   of roughly 1.5 meters by 0.9 meters by 1.8 meters. It cost $500,000 or
+   could be leased for $3,500 a month. Its drum memory was originally only
+   2000 ten-digit words, and required arcane programming for efficient
+   computing. Memory limitations such as this were to dominate programming
+   for decades afterward, until the evolution of a programming model which
+   was more sympathetic to software development.
+
+   In 1955, Maurice Wilkes invented microprogramming, which was later
+   widely used in the CPUs and floating-point units of mainframe and other
+   computers, such as the IBM 360 series. Microprogramming allows the base
+   instruction set to be defined or extended by built-in programs (now
+   sometimes called firmware, microcode, or millicode).
+
+   In 1956, IBM sold its first magnetic disk system, RAMAC (Random Access
+   Method of Accounting and Control). It used 50 24-inch metal disks, with
+   100 tracks per side. It could store 5 megabytes of data and cost
+   $10,000 per megabyte. (As of 2006, magnetic storage, in the form of
+   hard disks, costs less than one tenth of a cent per megabyte).
+
+Post-1960: third generation and beyond
+
+          Main article: History of computing hardware (1960s-present)
+
+   The explosion in the use of computers began with 'Third Generation'
+   computers. These relied on Jack St. Clair Kilby's and Robert Noyce's
+   independent invention of the integrated circuit (or microchip), which
+   later led to the invention of the microprocessor, by Ted Hoff and
+   Federico Faggin at Intel.
+
+   During the 1960s there was considerable overlap between second and
+   third generation technologies. As late as 1975, Sperry Univac continued
+   the manufacture of second-generation machines such as the UNIVAC 494.
+
+   The microprocessor led to the development of the microcomputer, small,
+   low-cost computers that could be owned by individuals and small
+   businesses. Microcomputers, the first of which appeared in the 1970s,
+   became ubiquitous in the 1980s and beyond. Steve Wozniak, co-founder of
+   Apple Computer, is credited with developing the first mass-market home
+   computers. However, his first computer, the Apple I, came out some time
+   after the KIM-1 and Altair 8800, and the first Apple computer with
+   graphic and sound capabilities came out well after the Commodore PET.
+   Computing has evolved with microcomputer architectures, with features
+   added from their larger brethren, now dominant in most market segments.
+
+   An indication of the rapidity of development of this field can be
+   inferred by the Burks, Goldstein, von Neuman, seminal article,
+   documented in the Datamation September-October 1962 issue, which was
+   written, as a preliminary version 15 years earlier. (See the references
+   below.) By the time that anyone had time to write anything down, it was
+   obsolete.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/History_of_computing_hardware"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

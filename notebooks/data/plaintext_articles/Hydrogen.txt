@@ -1,0 +1,619 @@
+   #copyright
+
+Hydrogen
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical elements
+
+
+   This is a featured article. Click here for more information.
+
+
+                 1               (none) ← hydrogen → helium
+                 -
+                ↑
+                H
+                ↓
+                Li
+
+                                  Periodic Table - Extended Periodic Table
+
+                                                                   General
+                                       Name, Symbol, Number hydrogen, H, 1
+                                                 Chemical series nonmetals
+                                              Group, Period, Block 1, 1, s
+                                                      Appearance colorless
+                                             Atomic mass 1.00794 (7) g/mol
+                                               Electron configuration 1s^1
+                                                     Electrons per shell 1
+                                                       Physical properties
+                                                                 Phase gas
+                                              Density (0 °C, 101.325 kPa)
+                                                               0.08988 g/L
+                                                    Melting point 14.01  K
+                                          (−259.14 ° C, −434.45 ° F)
+                                                     Boiling point 20.28 K
+                                          (−252.87 ° C, −423.17 ° F)
+                                         Triple point 13.8033 K, 7.042 kPa
+                                         Critical point 32.97 K, 1.293 MPa
+                                  Heat of fusion (H[2]) 0.117 kJ·mol^−1
+                            Heat of vaporization (H[2]) 0.904 kJ·mol^−1
+                                             Heat capacity (25 °C) (H[2])
+                                                28.836 J·mol^−1·K^−1
+
+   CAPTION: Vapor pressure
+
+                                             P/Pa  1 10 100 1 k 10 k 100 k
+                                            at T/K               15   20
+
+                                                         Atomic properties
+                                               Crystal structure hexagonal
+                                                  Oxidation states 1, −1
+                                                       ( amphoteric oxide)
+                                    Electronegativity 2.20 (Pauling scale)
+                                    Ionization energies 1st: 1312.0 kJ/mol
+                                                       Atomic radius 25 pm
+                                Atomic radius (calc.) 53 pm ( Bohr radius)
+                                                     Covalent radius 37 pm
+                                               Van der Waals radius 120 pm
+                                                             Miscellaneous
+                     Thermal conductivity (300 K) 180.5 mW·m^−1·K^−1
+                                     Speed of sound (gas, 27 °C) 1310 m/s
+                                             CAS registry number 1333-74-0
+                                                         Selected isotopes
+
+                 CAPTION: Main article: Isotopes of hydrogen
+
+                                  iso   NA    half-life DM  DE ( MeV)  DP
+                                  ^1H 99.985% H is stable with 0 neutrons
+                                  ^2H 0.0115% H is stable with 1 neutron
+                                  ^3H trace   12.32 y   β^− 0.019     ^3He
+
+                                                                References
+
+   Hydrogen ( IPA: /ˈhaɪdrə(ʊ)dʒən/, Latin: 'hydrogenium', from Ancient
+   Greek ὕδωρ (hudor): "water" and Ancient Greek γείνομαι (geinomai): "to
+   beget or sire") is a chemical element that, in the periodic table, has
+   the symbol H and an atomic number of 1. At standard temperature and
+   pressure it is a colorless, odorless, nonmetallic, tasteless, highly
+   flammable diatomic gas (H[2]). With an atomic mass of 1.00794 g/ mol,
+   hydrogen is the lightest element. It is also the most abundant,
+   constituting roughly 75% of the universe's elemental mass. Stars in the
+   main sequence are mainly composed of hydrogen in its plasma state.
+   Elemental hydrogen is relatively rare on Earth, and is industrially
+   produced from hydrocarbons, after which most free hydrogen is used
+   "captively" (meaning locally at the production site), with the largest
+   markets about equally divided between fossil fuel upgrading (e.g.,
+   hydrocracking) and in ammonia production (mostly for the fertilizer
+   market). However, hydrogen can easily be produced from water using the
+   process of electrolysis.
+
+   The most common naturally occurring isotope of hydrogen has a single
+   proton and no neutrons. In ionic compounds it can take on either a
+   positive charge (becoming a cation composed of a bare proton) or a
+   negative charge (becoming an anion known as a hydride). Hydrogen can
+   form compounds with most elements and is present in water and most
+   organic compounds. It plays a particularly important role in acid-base
+   chemistry, in which many reactions involve the exchange of protons
+   between soluble molecules. As the only neutral atom for which the
+   Schrödinger equation can be solved analytically, study of the
+   energetics and bonding of the hydrogen atom has played a key role in
+   the development of quantum mechanics.
+
+Nomenclature
+
+   The word "hydrogen" has several different meanings:
+    1. the name of an element.
+    2. an atom, sometimes called "H dot", that is abundant in space but
+       essentially absent on earth, because it dimerizes.
+    3. a diatomic molecule that occurs naturally in trace amounts in the
+       Earth's atmosphere; chemists increasingly refer to H[2] as
+       dihydrogen to distinguish this molecule from atomic hydrogen and
+       hydrogen found in other compounds.
+    4. the atomic constituent within all organic compounds, water, and
+       many other chemical compounds.
+
+   The elemental forms of hydrogen should not be confused with hydrogen as
+   it appears in chemical compounds.
+
+History
+
+Discovery of H[2]
+
+   Hydrogen gas, H[2], was first artificially produced and formally
+   described by T. von Hohenheim (also known as Paracelsus, 1493– 1541)
+   via the mixing of metals with strong acids. He was unaware that the
+   flammable gas produced by this chemical reaction was a new chemical
+   element. In 1671, Robert Boyle rediscovered and described the reaction
+   between iron filings and dilute acids, which results in the production
+   of hydrogen gas. In 1766, Henry Cavendish was the first to recognize
+   hydrogen gas as a discrete substance, by identifying the gas from a
+   metal-acid reaction as "inflammable air", and further finding that the
+   gas produces water when burned. Cavendish had stumbled on hydrogen when
+   experimenting with acids and mercury. Although he wrongly assumed that
+   hydrogen was a liberated component of the mercury rather than the acid,
+   he was still able to accurately describe several key properties of
+   hydrogen. He is usually given credit for its discovery as an element.
+   In 1783, Antoine Lavoisier gave the element the name of hydrogen when
+   he (with Laplace) reproduced Cavendish's finding that water is produced
+   when hydrogen is burned. Lavoisier's name for the gas won out.
+
+   One of the first uses of H[2] was for balloons. The H[2] was obtained
+   by reacting sulphuric acid and metallic iron. Infamously, H[2] was used
+   in the Hindenburg airship that was destroyed in a midair fire.
+
+Role in history of quantum theory
+
+   Because of its relatively simple atomic structure, consisting only of a
+   proton and an electron, the hydrogen atom, together with the spectrum
+   of light produced from it or absorbed by it, has been central to the
+   development of the theory of atomic structure. Furthermore, the
+   corresponding simplicity of the hydrogen molecule and the corresponding
+   cation H[2]^+ allowed fuller understanding of the nature of the
+   chemical bond, which followed shortly after the quantum mechanical
+   treatment of the hydrogen atom had been developed in the mid-1920s.
+
+   One of the first quantum effects to be explicitly noticed (but not
+   understood at the time) was Maxwell's observation, half a century
+   before full quantum mechanical theory arrived. He observed that the
+   specific heat capacity of H[2] unaccountably departs from that of a
+   diatomic gas below room temperature and begins to increasingly resemble
+   that of a monatomic gas at cryogenic temperatures. According to quantum
+   theory, this behaviour arises from the spacing of the (quantized)
+   rotational energy levels, which are particularly wide-spaced in H[2]
+   because of its low mass. These widely spaced levels inhibit equal
+   partition of heat energy into rotational motion in hydrogen at low
+   temperatures. Diatomic gases composed of heavier atoms do not have such
+   widely spaced levels and do not exhibit the same effect.
+
+Natural occurrence
+
+   NGC 604, a giant region of ionized hydrogen in the Triangulum Galaxy
+   Enlarge
+   NGC 604, a giant region of ionized hydrogen in the Triangulum Galaxy
+
+   Hydrogen is the most abundant element in the universe, making up 75% of
+   normal matter by mass and over 90% by number of atoms. This element is
+   found in great abundance in stars and gas giant planets. Molecular
+   clouds of H[2] are associated with star formation. Hydrogen plays a
+   vital role in powering stars through proton-proton reaction nuclear
+   fusion.
+
+   Throughout the universe, hydrogen is mostly found in the atomic and
+   plasma states whose properties are quite different from molecular
+   hydrogen. As a plasma, hydrogen's electron and proton are not bound
+   together, resulting in very high electrical conductivity and high
+   emissivity (producing the light from the sun and other stars). The
+   charged particles are highly influenced by magnetic and electric
+   fields. For example, in the solar wind they interact with the Earth's
+   magnetosphere giving rise to Birkeland currents and the aurora.
+   Hydrogen is found in the neutral atomic state in the Interstellar
+   medium. The large amount of neutral hydrogen found in the damped
+   Lyman-alpha systems is thought to dominate the cosmological baryonic
+   density of the Universe up to redshift z=4.
+
+   Under ordinary conditions on Earth, elemental hydrogen exists as the
+   diatomic gas, H[2] (for data see table). However, hydrogen gas is very
+   rare in the Earth's atmosphere (1 ppm by volume) because of its light
+   weight, which enables it to escape from Earth's gravity more easily
+   than heavier gases. Although H atoms and H[2] molecules are abundant in
+   interstellar space, they are difficult to generate, concentrate, and
+   purify on Earth. Most of the Earth's hydrogen is in the form of
+   chemical compounds such as hydrocarbons and water. Hydrogen gas is
+   produced by some bacteria and algae and is a natural component of
+   flatus. Methane is a hydrogen source of increasing importance.
+
+The hydrogen atom
+
+Electron energy levels
+
+   Depiction of a hydrogen-1 atom, or protium, showing the Van der Waals
+   radius and the proton nucleus
+   Enlarge
+   Depiction of a hydrogen-1 atom, or protium, showing the Van der Waals
+   radius and the proton nucleus
+
+   The ground state energy level of the electron in a hydrogen atom is
+   13.6 eV, which is equivalent to an ultraviolet photon of roughly 92 nm.
+
+   The energy levels of hydrogen can be calculated fairly accurately using
+   the Bohr model of the atom, which conceptualizes the electron as
+   "orbiting" the proton in analogy to the Earth's orbit of the sun.
+   However, the electromagnetic force attracts electrons and protons to
+   one another, while planets and celestial objects are attracted to each
+   other by gravity. Because of the discretization of angular momentum
+   postulated in early quantum mechanics by Bohr, the electron in the Bohr
+   model can only occupy certain allowed distances from the proton, and
+   therefore only certain allowed energies. A more accurate description of
+   the hydrogen atom comes from a purely quantum mechanical treatment that
+   uses the Schrödinger equation to calculate the probability density of
+   the electron around the proton. Treating the electron as a matter wave
+   reproduces chemical results such as shape of the hydrogen atom more
+   naturally than the particle-based Bohr model, although the energy and
+   spectral results are the same. Modeling the system fully using the
+   reduced mass of nucleus and electron (as one would do in the two-body
+   problem in celestial mechanics) yields an even better formula for the
+   hydrogen spectra, and also the correct spectral shifts for the isotopes
+   deuterium and tritium. Very small adjustments in energy levels in the
+   hydrogen atom, which correspond to actual spectral effects, may be
+   determined by using a full quantum mechanical theory which corrects for
+   the effects of special relativity (see Dirac equation), and by
+   accounting for quantum effects arising from production of virtual
+   particles in the vacuum and as a result of electric fields (see quantum
+   electrodynamics).
+
+   In hydrogen gas, the electronic ground state energy level is split into
+   hyperfine structure levels because of magnetic effects of the quantum
+   mechanical spin of the electron and proton. The energy of the atom when
+   the proton and electron spins are aligned is higher than when they are
+   not aligned. The transition between these two states can occur through
+   emission of a photon through a magnetic dipole transition. Radio
+   telescopes can detect the radiation produced in this process, which is
+   used to map the distribution of hydrogen in the galaxy.
+
+Isotopes
+
+   Protium, the most common isotope of hydrogen, has one proton and one
+   electron. Unique among all stable isotopes, it has no neutrons. (see
+   diproton for discussion of why others do not exist)
+   Enlarge
+   Protium, the most common isotope of hydrogen, has one proton and one
+   electron. Unique among all stable isotopes, it has no neutrons. (see
+   diproton for discussion of why others do not exist)
+
+   Hydrogen has three naturally occurring isotopes, denoted ^1H, ^2H, and
+   ^3H. Other, highly unstable nuclei (^4H to ^7H) have been synthesized
+   in the laboratory but not observed in nature.
+     * ^1H is the most common hydrogen isotope with an abundance of more
+       than 99.98%. Because the nucleus of this isotope consists of only a
+       single proton, it is given the descriptive but rarely used formal
+       name protium.
+
+     * ^2H, the other stable hydrogen isotope, is known as deuterium and
+       contains one proton and one neutron in its nucleus. Deuterium
+       comprises 0.0026–0.0184% of all hydrogen on Earth. It is not
+       radioactive, and does not represent a significant toxicity hazard.
+       Water enriched in molecules that include deuterium instead of
+       normal hydrogen is called heavy water. Deuterium and its compounds
+       are used as a non-radioactive label in chemical experiments and in
+       solvents for ^1H- NMR spectroscopy. Heavy water is used as a
+       neutron moderator and coolant for nuclear reactors. Deuterium is
+       also a potential fuel for commercial nuclear fusion.
+
+     * ^3H is known as tritium and contains one proton and two neutrons in
+       its nucleus. It is radioactive, decays through beta decay with a
+       half-life of 12.32 years. Small amounts of tritium occur naturally
+       because of the interaction of cosmic rays with atmospheric gases;
+       tritium has also been released during nuclear weapons tests. It is
+       used in nuclear fusion reactions, as a tracer in isotope
+       geochemistry, and specialized in self-powered lighting devices.
+       Tritium was once routinely used in chemical and biological labeling
+       experiments as a radiolabel (this has become less common).
+
+   Hydrogen is the only element that has different names for its isotopes
+   in common use today. (During the early study of radioactivity, various
+   heavy radioactive isotopes were given names, but such names are no
+   longer used). The symbols D and T (instead of ^2H and ^3H) are
+   sometimes used for deuterium and tritium, but the corresponding symbol
+   P is already in use for phosphorus and thus is not available for
+   protium. IUPAC states that while this use is common it is not
+   preferred.
+
+Elemental molecular forms
+
+   First tracks observed in liquid hydrogen bubble chamber
+   Enlarge
+   First tracks observed in liquid hydrogen bubble chamber
+
+   There are two different types of diatomic hydrogen molecules that
+   differ by the relative spin of their nuclei. In the orthohydrogen form,
+   the spins of the two protons are parallel and form a triplet state; in
+   the parahydrogen form the spins are antiparallel and form a singlet. At
+   standard temperature and pressure, hydrogen gas contains about 25% of
+   the para form and 75% of the ortho form, also known as the "normal
+   form". The equilibrium ratio of orthohydrogen to parahydrogen depends
+   on temperature, but since the ortho form is an excited state and has a
+   higher energy than the para form, it is unstable and cannot be
+   purified. At very low temperatures, the equilibrium state is composed
+   almost exclusively of the para form. The physical properties of pure
+   parahydrogen differ slightly from those of the normal form. The
+   ortho/para distinction also occurs in other hydrogen-containing
+   molecules or functional groups, such as water and methylene.
+
+   The uncatalyzed interconversion between para and ortho H[2] increases
+   with increasing temperature; thus rapidly condensed H[2] contains large
+   quantities of the high-energy ortho form that convert to the para form
+   very slowly. The ortho/para ratio in condensed H[2] is an important
+   consideration in the preparation and storage of liquid hydrogen: the
+   conversion from ortho to para is exothermic and produces enough heat to
+   evaporate the hydrogen liquid, leading to loss of the liquefied
+   material. Catalysts for the ortho-para interconversion, such as iron
+   compounds, are used during hydrogen cooling.
+
+Chemical and physical properties
+
+   The solubility and adsorption characteristics of hydrogen with various
+   metals are very important in metallurgy (as many metals can suffer
+   hydrogen embrittlement) and in developing safe ways to store it for use
+   as a fuel. Hydrogen is highly soluble in many compounds composed of
+   rare earth metals and transition metals and can be dissolved in both
+   crystalline and amorphous metals. Hydrogen solubility in metals is
+   influenced by local distortions or impurities in the metal crystal
+   lattice.
+
+Combustion
+
+   Hydrogen can combust rapidly in air, and was blamed for the disaster
+   with Hindenburg on May 6, 1937
+   Enlarge
+   Hydrogen can combust rapidly in air, and was blamed for the disaster
+   with Hindenburg on May 6, 1937
+
+   Hydrogen gas is highly flammable and will burn at concentrations as low
+   as 4% H[2] in air. The enthalpy of combustion for hydrogen is –286
+   kJ/mol; it combusts according to the following balanced equation.
+
+          2 H[2](g) + O[2](g) → 2 H[2]O(l) + 572 kJ
+
+   When mixed with oxygen across a wide range of proportions, hydrogen
+   explodes upon ignition. Hydrogen burns violently in air.
+   Hydrogen-oxygen flames are nearly invisible to the naked eye, as
+   illustrated by the faintness of flame from the main Space Shuttle
+   engines (as opposed to the easily visible flames from the shuttle
+   boosters). Thus it is difficult to visually detect if a hydrogen leak
+   is burning. The Hindenburg zeppelin flames seen in the adjacent picture
+   are from the covering skin of the zeppelin which contained carbon and
+   pyrophoric aluminium powder that may have started the fire. Another
+   characteristic of hydrogen fires is that the flames tend to ascend
+   rapidly with the gas in air, causing less damage than hydrocarbon
+   fires. Two-thirds of the Hindenburg passengers survived and deaths were
+   from falling or from gasoline burns.
+
+   H[2] reacts directly with other oxidizing elements. A violent and
+   spontaneous reaction can occur at room temperature with chlorine and
+   fluorine, forming the corresponding hydrogen halides, hydrogen chloride
+   and hydrogen fluoride.
+
+Compounds
+
+Covalent and organic compounds
+
+   While H[2] is not very reactive under standard conditions, it does form
+   compounds with most elements. Millions of hydrocarbons are known, but
+   they are not formed by the direct reaction of elementary hydrogen and
+   carbon. Hydrogen can form compounds with elements that are more
+   electronegative, such as halogens (e.g., F, Cl, Br, I) and chalcogens
+   (O, S, Se); in these compounds hydrogen takes on a partial positive
+   charge. When bonded to fluorine, oxygen, or nitrogen, hydrogen can
+   participate in a form of strong noncovalent bonding called hydrogen
+   bonding, which is critical to the stability of many biological
+   molecules. Hydrogen also forms compounds with less electronegative
+   elements, such as the metals and metalloids, in which it takes on a
+   partial negative charge. These compounds are often known as hydrides.
+
+   Hydrogen forms a vast array of compounds with carbon. Because of their
+   general association with living things, these compounds came to be
+   called organic compounds; the study of their properties is known as
+   organic chemistry and their study in the context of living organisms is
+   known as biochemistry. By some definitions, "organic" compounds are
+   only required to contain carbon (as a classic historical example,
+   urea). However, most of them also contain hydrogen, and since it is the
+   carbon-hydrogen bond which gives this class of compounds most of its
+   particular chemical characteristics, carbon-hydrogen bonds are required
+   in some definitions of the word "organic" in chemistry. (This latter
+   definition is not perfect, however, as in this definition urea would
+   not be included as an organic compound).
+
+   In inorganic chemistry, hydrides can also serve as bridging ligands
+   that link two metal centers in a coordination complex. This function is
+   particularly common in group 13 elements, especially in boranes (boron
+   hydrides) and aluminium complexes, as well as in clustered carboranes.
+
+Hydrides
+
+   Compounds of hydrogen are often called hydrides, a term that is used
+   fairly loosely. To chemists, the term "hydride" usually implies that
+   the H atom has acquired a negative or anionic character, denoted H^−.
+   The existence of the hydride anion, suggested by G.N. Lewis in 1916 for
+   group I and II salt-like hydrides, was demonstated by Moers in 1920
+   with the electrolysis of molten lithium hydride (LiH), that produced a
+   stoichiometric quantity of hydrogen at the anode. For hydrides other
+   than group I and II metals, the term is quite misleading, considering
+   the low electronegativity of hydrogen. An exception in group II
+   hydrides is BeH[2], which is polymeric. In lithium aluminium hydride,
+   the AlH[4]^− anion carries hydridic centers firmly attached to the
+   Al(III). Although hydrides can be formed with almost all main-group
+   elements, the number and combination of possible compounds varies
+   widely; for example, there are over 100 binary borane hydrides known,
+   but only one binary aluminium hydride. Binary indium hydride has not
+   yet been identified, although larger complexes exist.
+
+"Protons" and acids
+
+   Oxidation of H[2] formally gives the proton, H^+. This species is
+   central to discussion of acids, though the term proton is used loosely
+   to refer to positively charged or cationic hydrogen, denoted H^+. A
+   bare proton H^+ cannot exist in solution because of its strong tendency
+   to attach itself to atoms or molecules with electrons. To avoid the
+   convenient fiction of the naked "solvated proton" in solution, acidic
+   aqueous solutions are sometimes considered to contain the hydronium ion
+   (H[3]O^+) organized into clusters to form H[9]O[4]^+. Other oxonium
+   ions are found when water is in solution with other solvents.
+
+   Although exotic on earth, one of the most common ions in the universe
+   is the H[3]^+ ion, known as protonated molecular hydrogen or the
+   triatomic hydrogen cation.
+
+Production
+
+   H[2] is produced in chemistry and biology laboratories, often as a
+   by-product of other reactions; in industry for the hydrogenation of
+   unsaturated substrates; and in nature as a means of expelling reducing
+   equivalents in biochemical reactions.
+
+Laboratory syntheses
+
+   In the laboratory, H[2] is usually prepared by the reaction of acids on
+   metals such as zinc.
+
+          Zn + 2 H^+ → Zn^2+ + H[2]
+
+   Aluminium produces H[2] upon treatment with acids but also with base:
+
+          2 Al + 6 H[2]O → 2 Al(OH)[3] + 3 H[2]
+
+   The electrolysis of water is a simple method of producing hydrogen,
+   although the resulting hydrogen necessarily has less energy content
+   than was required to produce it. A low voltage current is run through
+   the water, and gaseous oxygen forms at the anode while gaseous hydrogen
+   forms at the cathode. Typically the cathode is made from platinum or
+   another inert metal when producing hydrogen for storage. If, however,
+   the gas is to be burnt on site, oxygen is desirable to assist the
+   combustion, and so both electrodes would be made from inert metals.
+   (Iron, for instance, would oxidize, and thus decrease the amount of
+   oxygen given off.) The theoretical maximum efficiency (electricity used
+   vs. energetic value of hydrogen produced) is between 80–94%. Bellona
+   Report on Hydrogen
+
+          2H[2]O(aq) → 2H[2](g) + O[2](g)
+
+Industrial syntheses
+
+   Hydrogen can be prepared in several different ways but the economically
+   most important processes involve removal of hydrogen from hydrocarbons.
+   Commercial bulk hydrogen is usually produced by the steam reforming of
+   natural gas. At high temperatures (700–1100 °C; 1,300–2,000 °F), steam
+   (water vapor) reacts with methane to yield carbon monoxide and H[2].
+
+          CH[4] + H[2]O → CO + 3 H[2]
+
+   This reaction is favored at low pressures but is nonetheless conducted
+   at high pressures (20 atm; 600  inHg) since high pressure H[2] is the
+   most marketable product. The product mixture is known as " synthesis
+   gas" because it is often used directly for the production of methanol
+   and related compounds. Hydrocarbons other than methane can be used to
+   produce synthesis gas with varying product ratios. One of the many
+   complications to this highly optimized technology is the formation of
+   coke or carbon:
+
+          CH[4] → C + 2 H[2]
+
+   Consequently, steam reforming typically employs an excess of H[2]O.
+
+   Additional hydrogen from steam reforming can be recovered from the
+   carbon monoxide through the water gas shift reaction, especially with
+   an iron oxide catalyst. This reaction is also a common industrial
+   source of carbon dioxide:
+
+          CO + H[2]O → CO[2] + H[2]
+
+   Other important methods for H[2] production include partial oxidation
+   of hydrocarbons:
+
+          CH[4] + 0.5 O[2] → CO + 2 H[2]
+
+   and the coal reaction, which can serve as a prelude to the shift
+   reaction above:
+
+          C + H[2]O → CO + H[2]
+
+   NB. Hydrogen is sometimes produced and consumed in the same industrial
+   process, without being separated. In the Haber process for the
+   production of ammonia (the world's fifth most produced industrial
+   compound), hydrogen is generated from natural gas.
+
+Biological syntheses
+
+   H[2] is a product of some types of anaerobic metabolism and is produced
+   by several microorganisms, usually via reactions catalyzed by iron- or
+   nickel-containing enzymes called hydrogenases. These enzymes catalyze
+   the reversible redox reaction between H[2] and its component two
+   protons and two electrons. Evolution of hydrogen gas occurs in the
+   transfer of reducing equivalents produced during pyruvate fermentation
+   to water.
+
+   Water splitting, in which water is decomposed into its component
+   protons, electrons, and oxygen, occurs in the light reactions in all
+   photosynthetic organisms. Some such organisms — including the alga
+   Chlamydomonas reinhardtii and cyanobacteria — have evolved a second
+   step in the dark reactions in which protons and electrons are reduced
+   to form H[2] gas by specialized hydrogenases in the chloroplast.
+   Efforts have been undertaken to genetically modify cyanobacterial
+   hydrogenases to efficiently synthesize H[2] gas even in the presence of
+   oxygen.
+
+   Other rarer but mechanistically interesting routes to H[2] production
+   also exist in nature. Nitrogenase produces approximately one equivalent
+   of H[2] for each equivalent of N[2] reduced to ammonia. Some
+   phosphatases reduce phosphite to H[2].
+
+Applications
+
+   Large quantities of H[2] are needed in the petroleum and chemical
+   industries. The largest application of H[2] is for the processing
+   ("upgrading") of fossil fuels, and in the production of ammonia. The
+   key consumers of H[2] in the petrochemical plant include
+   hydrodealkylation, hydrodesulfurization, and hydrocracking. H[2] has
+   several other important uses. H[2] is used as a hydrogenating agent,
+   particularly in increasing the level of saturation of unsaturated fats
+   and oils (found in items such as margarine), and in the production of
+   methanol. It is similarly the source of hydrogen in the manufacture of
+   hydrochloric acid. H[2] is also used as a reducing agent of metallic
+   ores.
+
+   Apart from its use as a reactant, H[2] has wide applications in physics
+   and engineering. It is used as a shielding gas in welding methods such
+   as atomic hydrogen welding. H[2] is used as the rotor coolant in
+   electrical generators at power stations, because it has the highest
+   thermal conductivity of any gas. Liquid H[2] is used in cryogenic
+   research, including superconductivity studies. Since H[2] is lighter
+   than air, having a little more than 1/15th of the density of air, it
+   was once widely used as a lifting agent in balloons and airships.
+   However, this use was curtailed after the Hindenburg disaster convinced
+   the public that the gas was too dangerous for this purpose.
+
+   Hydrogen's rarer isotopes also each have specific applications.
+   Deuterium (hydrogen-2) is used in nuclear fission applications as a
+   moderator to slow neutrons, and in nuclear fusion reactions. Deuterium
+   compounds have applications in chemistry and biology in studies of
+   reaction isotope effects. Tritium (hydrogen-3), produced in nuclear
+   reactors, is used in the production of hydrogen bombs, as an isotopic
+   label in the biosciences, and as a radiation source in luminous paints.
+
+   The triple point temperature of equilibrium hydrogen is a defining
+   fixed point on the ITS-90 temperature scale.
+
+Hydrogen as an energy carrier
+
+   Having been used as an ingredient in some rocket fuels for several
+   decades, hydrogen, or more specifically H[2], is now widely discussed
+   in the context of energy. Hydrogen is not an energy source, since it is
+   not an abundant natural resource and more energy is used to produce it
+   than can be ultimately extracted from it. However, it could become
+   useful as a carrier of energy, as elucidated in the United States
+   Department of Energy's 2003 report, "Among the various alternative
+   energy strategies, building an energy infrastructure that uses hydrogen
+   — the third most abundant element on the earth's surface — as the
+   primary carrier that connects a host of energy sources to diverse end
+   uses may enable a secure and clean energy future for the Nation." The
+   hydrogen would then locally be converted into usable energy either via
+   combustion of fossil fuels or by electrochemical conversion into
+   electricity in a fuel cell.
+
+   One theoretical advantage of using H[2] as a carrier is the
+   localization and concentration of environmentally unwelcome aspects of
+   hydrogen manufacture. For example, CO[2] sequestration could be
+   conducted at the point of H[2] production from methane. Hydrogen could
+   also be produced using the electrolysis of water method; however, this
+   is currently three to six times as expensive as production from natural
+   gas. High-temperature electrolysis, which promises greater efficiency,
+   is being investigated. Currently, however hydrogen production is
+   expensive relative to other energy storage chemicals, and the bulk of
+   hydrogen is now produced by the least expensive method, which (as
+   noted) employs methane and which, as currently practiced, creates
+   greenhouse gas emissions.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Hydrogen"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

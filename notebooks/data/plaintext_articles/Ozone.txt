@@ -1,0 +1,460 @@
+   #copyright
+
+Ozone
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds;
+Climate and the Weather
+
+                           Ozone
+
+                          General
+   Systematic name         Trioxygen
+   Molecular formula       O[3]
+   Molar mass              47.998 g/mol
+   Appearance              bluish colored gas
+   CAS number              [10028-15-6]
+                        Properties
+   Density and phase       2.144 g/l (0 °C), gas
+   Solubility in water     0.105 g/100 ml (0 °C)
+   Melting point           80.7 K, −192.5 °C
+   Boiling point           161.3 K, −111.9 °C
+                    Thermodynamic data
+   Standard enthalpy of
+   formation Δ[f]H°[solid] +142.3 kJ/mol
+   Standard molar entropy
+   S°[solid]               237.7 J.K^−1.mol^−1
+                          Hazards
+   EU classification       not listed
+   NFPA 704
+                  Supplementary data page
+   Structure and
+   properties              n, ε[r], etc.
+   Thermodynamic
+   data                    Phase behaviour
+                           Solid, liquid, gas
+   Spectral data           UV, IR, NMR, MS
+   Regulatory data         Flash point,
+                           RTECS number, etc.
+     Except where noted otherwise, data are given for
+   materials in their standard state (at 25 °C, 100 kPa)
+   Infobox disclaimer and references
+
+   Ozone (O[3]) is a triatomic molecule, consisting of three oxygen atoms.
+   It is an allotrope of oxygen that is much less stable than the diatomic
+   species O[2]. It is present in low concentrations throughout the
+   Earth's atmosphere. It has many industrial and consumer applications as
+   well as being used in ozone therapy.
+
+   Ozone, the first allotrope of a chemical element to be described by
+   science, was discovered by Christian Friedrich Schönbein in 1840, who
+   named it after the Greek word for smell (ozein), from the peculiar
+   odour in lightning storms. The odour from a lightning strike is from
+   electrons freed during the rapid chemical changes, not the ozone
+   itself.
+
+Physical properties
+
+   Undiluted ozone is a pale blue gas at standard temperature and
+   pressure; it forms a dark blue liquid below −112 °C and a violet-black
+   solid below −193 °C . At concentrations found in the atmosphere it is
+   colorless . The concentration above which it can be smelt ( odour
+   threshold) is between 0.0076 and 0.036 ppm.
+
+Chemistry
+
+   Ozone is a powerful oxidizing agent. It is also unstable at high
+   concentrations, decaying to ordinary diatomic oxygen:
+
+          2 O[3] → 3 O[2].
+
+   This reaction proceeds more rapidly with increasing temperature and
+   decreasing pressure. Ozone will oxidize metals (except gold, platinum,
+   and iridium) to oxides of the metals in their highest oxidation state:
+
+          2 Cu^2+ + 2 H^+ + O[3] → 2 Cu^3+ + H[2]O + O[2]
+
+   Ozone converts oxides to peroxides:
+
+          SO[2] + O[3] → SO[3] + O[2]
+
+   It also increases the oxidation number of oxides:
+
+          NO + O[3] → NO[2] + O[2]
+
+   The above reaction is accompanied by chemiluminescence. The NO[2] can
+   be further oxidized:
+
+          NO[2] + O[3] → NO[3] + O[2]
+
+   The NO[3] formed can react with NO[2] to form N[2]O[5]:
+
+          NO[2] + NO[3] → N[2]O[5]
+
+   Ozone reacts with carbon to form carbon dioxide, even at room
+   temperature:
+
+          C + 2 O[3] → CO[2] + 2 O[2]
+
+   Ozone does not react with ammonium salts but it reacts with ammonia to
+   form ammonium nitrate:
+
+          2 NH[3] + 4 O[3] → NH[4]NO[3] + 4 O[2] + H[2]O
+
+   Ozone reacts with sulfides to make sulfates:
+
+          PbS + 4 O[3] → PbSO[4] + 4 O[2]
+
+   Sulfuric acid can be produced from ozone, either starting from
+   elemental sulfur or from sulfur dioxide:
+
+          S + H[2]O + O[3] → H[2]SO[4]
+          3 SO[2] + 3 H[2]O + O[3] → 3 H[2]SO[4]
+
+   All three atoms of ozone may also react, as in the reaction with
+   tin(II) chloride and hydrochloric acid:
+
+          3 SnCl[2] + 6 HCl + O[3] → 3 SnCl[4] + 3 H[2]O
+
+   In the gas phase, ozone reacts with hydrogen sulfide to form sulfur
+   dioxide:
+
+          H[2]S + O[3] → SO[2] + H[2]O
+
+   In an aqueous solution, however, two competing simultaneous reactions
+   occur, one to produce elemental sulfur, and one to produce sulfuric
+   acid:
+
+          H[2]S + O[3] → S + O[2] + H[2]O
+          3 H[2]S + 4 O[3] → 3 H[2]SO[4]
+
+   Iodine perchlorate can be made by treating iodine dissolved in cold
+   anhydrous perchloric acid with ozone:
+
+          I[2] + 6 HClO[4] + O[3] → 2 I(ClO[4])[3] + 3 H[2]O
+
+   Solid nitryl perchlorate can be made from NO[2], ClO[2], and O[3]
+   gases:
+
+          2 NO[2] + 2 ClO[2] 2 O[3] → 2 NO[2]ClO[4] + O[2]
+
+   Ozone can be used for combustion reactions and combusting gases in
+   ozone provides higher temperatures than combusting in dioxygen (O[2]).
+   Following is a reaction for the combustion of carbon subnitride:
+
+          3 C[4]N[2] + 4 O[3] → 12 CO + 3 N[2]
+
+   Ozone can react at cryogenic temperatures. At 77 K (-196 °C), atomic
+   hydrogen reacts with liquid ozone to form a hydrogen superoxide
+   radical, which dimerizes:
+
+          H + O[3] → HO[2] + O
+          2 HO[2] → H[2]O[4]
+
+   Ozonides can be formed, which contain the ozonide anion, O[3]^-. These
+   compounds are explosive and must be stored at cryogenic temperatures.
+   Ozonides for all the alkali metals are known. KO[3], RbO[3], and CsO[3]
+   can be prepared from their respective superoxides:
+
+          KO[2] + O[3] → KO[3] + O[2]
+
+   Although KO[3] can be formed as above, it can also be formed from
+   potassium hydroxide and ozone:
+
+          2 KOH + 5 O[3] → 2 KO[3] + 5 O[2] + H[2]O
+
+   NaO[3] and LiO[3] must be prepared by action of CsO[3] in liquid NH[3]
+   on an ion exchange resin containing Na^+ or Li^+ ions:
+
+          CsO[3] + Na^+ → Cs^+ + NaO[3]
+
+   Treatment with ozone of calcium dissolved in ammonia leads to ammonium
+   ozonide and not calcium ozonide:
+
+          3 Ca + 10 NH[3] + 6 O[3] → Ca•6NH[3] + Ca(OH)[2] + Ca(NO[3])[2]
+          + 2 NH[4]O[3] + 2 O[2] + H[2]
+
+   Ozone can be used to remove manganese from the water, forming a
+   precipitate which can be filtered:
+
+          2 Mn^2+ + 2 O[3] + 4 H[2]O → 2 MnO(OH)[2 (s)] + 2 O[2] + 4 H^+
+
+   Ozone will also turn cyanides to the one thousand times less toxic
+   cyanates:
+
+          CN^- + O[3] → CNO^- + O[2]
+
+   Finally, ozone will also completely decompose urea:
+
+          (NH[2])[2]CO + O[3] → N[2] + CO[2] + 2 H[2]O
+
+Ozone in Earth's atmosphere
+
+   Concentration of ozone as measured by the Nimbus-7 satellite.
+   Enlarge
+   Concentration of ozone as measured by the Nimbus-7 satellite.
+
+   The standard way to express total ozone amounts (the amount of ozone in
+   a vertical column) in the atmosphere is by using Dobson units.
+   Concentrations at a point are measured in parts per billion (ppb) or in
+   μg/m³.
+
+Ozone layer
+
+   Total ozone concentration in June 2000 as measured by EP-TOMS satellite
+   instrument.
+   Enlarge
+   Total ozone concentration in June 2000 as measured by EP-TOMS satellite
+   instrument.
+
+   The highest levels of ozone in the atmosphere are in the stratosphere,
+   in a region also known as the ozone layer between about 10 km and 50 km
+   above the surface. Here it filters out the shorter wavelengths (less
+   than 320 nm) of ultraviolet light (270 to 400 nm) from the Sun that
+   would be harmful to most forms of life in large doses. These same
+   wavelengths are also responsible for the production of vitamin D, which
+   is essential for human health. Ozone in the stratosphere is mostly
+   produced from ultraviolet rays reacting with oxygen:
+
+          O[2] + (radiation < 240 nm) → 2 O
+
+          O + O[2] → O[3]
+
+   It is destroyed by the reaction with atomic oxygen:
+
+          O[3] + O → 2 O[2]
+
+   (See Ozone-oxygen cycle for more detail.)
+
+   The latter reaction is catalysed by the presence of certain free
+   radicals, of which the most important are hydroxyl (OH), nitric oxide
+   (NO) and atomic chlorine (Cl) and bromine (Br). In recent decades the
+   amount of ozone in the stratosphere has been declining mostly due to
+   emissions of CFCs and similar chlorinated and brominated organic
+   molecules, which have increased the concentration of ozone-depleting
+   catalysts above the natural background. See ozone depletion for more
+   information. For more information on stratospheric ozone see Seinfeld
+   and Pandis (1999).
+
+Low level ozone
+
+   Low level ozone (or tropospheric ozone) is regarded as a pollutant by
+   the World Health Organisation. It is not emitted directly by car
+   engines or by industrial operations. It is formed by the reaction of
+   sunlight on air containing hydrocarbons and nitrogen oxides that to
+   form ozone directly at the source of the pollution or many kilometers
+   down wind. For more details of the complex chemical reactions that
+   produce low level ozone see tropospheric ozone or Seinfled and Pandis
+   (1998).
+
+   Ozone reacts directly with some hydrocarbons such as aldehydes and thus
+   begins their removal from the air, but the products are themselves key
+   components of smog. Ozone photolysis by UV light leads to production of
+   the hydroxyl radical and this plays a part in the removal of
+   hydrocarbons from the air, but is also the first step in the creation
+   of components of smog such as peroxyacyl nitrates which can be powerful
+   eye irritants. The atmospheric lifetime of tropospheric ozone is about
+   22 days and its main removal mechanisms are being deposited to the
+   ground, the above mentioned reaction giving OH, and by reactions with
+   OH and the peroxy radical HO[2]· (Stevenson et al, 2006) .
+
+   As well as having an impact on human health (see below) there is also
+   evidence of significant reduction in agricultural yields due to
+   increased ground-level ozone and pollution which interferes with
+   photosynthesis and stunts overall growth of some plant species.
+
+Ozone as a greenhouse gas
+
+   Although ozone was present at ground level before the industrial
+   revolution, peak concentrations are far higher than the pre-industrial
+   levels and even background concentrations well away from sources of
+   pollution are substantially higher. This increase in ozone is of
+   further concern as ozone present in the upper troposphere acts as a
+   greenhouse gas, absorbing some of the infrared energy emitted by the
+   earth. Quantifying the greenhouse gas potency of ozone is difficult as
+   it is not present in uniform concentrations across the globe. However,
+   the most recent scientific review on the climate change (the IPCC Third
+   Assessment Report) suggests that the radiative forcing of tropospheric
+   ozone is about 25% that of carbon dioxide.
+
+Ozone and health
+
+Ozone in air pollution
+
+   There is a great deal of evidence to show that high concentrations
+   (ppm) of ozone, created by high concentrations of pollution and
+   daylight UV rays at the earth's surface, can harm lung function and
+   irritate the respiratory system . There has also been shown to be a
+   connection between increased ozone caused by thunderstorms and hospital
+   admissions of asthma sufferers . Air quality guidelines such as those
+   from the World Health Organization are based on detailed studies of
+   what levels can cause measurable health effects.
+
+Physiology of ozone
+
+   Ozone, along with reactive forms of oxygen such as superoxide, singlet
+   oxygen (see oxygen), hydrogen peroxide, and hypochlorite ions, is
+   naturally produced by white blood cells and other biological systems
+   (such as the roots of marigolds) as a means of destroying foreign
+   bodies. Ozone reacts directly with organic double bonds. Also, when
+   ozone breaks down to dioxygen it gives rise to oxygen free radicals,
+   which are highly reactive and capable of damaging many organic
+   molecules. Ozone has been found to convert cholesterol in the blood
+   stream to plaque (which causes hardening and narrowing of arteries).
+   Moreover, it is believed that the powerful oxidizing properties of
+   ozone may be a contributing factor of inflammation. The
+   cause-and-effect relationship of how the ozone is created in the body
+   and what it does is still under consideration and still subject to
+   various interpretations, since other body chemical processes can
+   trigger some of the same reactions. A team headed by Dr. Paul Wentworth
+   Jr. of the Department of Chemistry at the Scripps Research Institute
+   has shown evidence linking the antibody-catalyzed water-oxidation
+   pathway of the human immune response to the production of ozone. In
+   this system, ozone is produced by antibody-catalyzed production of
+   trioxidane from water and neutrophil-produced singlet oxygen. . See
+   also trioxidane for more on this biological ozone-producing reaction.
+
+   Ozone has also been proven to form specific, cholesterol-derived
+   metabolites that are thought to facilitate the build-up and
+   pathogenesis of atherosclerotic plaques (A form of heart disease).
+   These metabolites have been confirmed as naturally occurring in human
+   atherosclerotic arteries and are categorized into a class of
+   secosterols termed “Atheronals”, generated by ozonolysis of
+   cholesterol's double bond to form a 5,6 secosterol as well as a
+   secondary condensation product via aldolization. Volume: Number: Page:
+   23 DOI:
+
+Safety
+
+Artificial production
+
+   Ozone may be formed from O[2] by electrical discharges and by action of
+   high energy electromagnetic radiation. Certain electrical equipment
+   generate significant levels of ozone. This is especially true of
+   devices using high voltages, such as laser printers, photocopiers, and
+   arc welders. Electric motors using brushes can generate ozone from
+   repeated sparking inside the unit. Large motors, such as those used by
+   elevators or hydraulic pumps, will generate more ozone than smaller
+   motors.
+
+Industrial production
+
+   Ozone used in industry is measured in ppm or mg/L ( OSHA exposure
+   limits for example), and percent by mass or weight. Industrially, ozone
+   is produced with short wavelength ultraviolet radiation from a mercury
+   vapor lamp or the application of a high voltage electrical field in a
+   process called cold or corona discharge. The cold discharge apparatus
+   consists of two metal plates separated by an air gap and a high
+   dielectric strength electrical insulator such as borosilicate glass or
+   mica. A high voltage alternating current is applied to the plates and
+   the ozone is formed in the air gap when O[2] molecules disassociate and
+   recombine into O[3]. A faint corona may be present in the air gap, but
+   the voltage is maintained below that which would cause punch-through of
+   the insulator with subsequent arcing and plasma formation.
+
+Laboratory production
+
+   In the laboratory ozone can be produced by electrolysis using a 9 volt
+   battery, a pencil graphite rod cathode, a platinum wire anode and a 3M
+   sulfuric acid electrolyte. The half cell reactions taking place are:
+
+          3 H[2]O → O[3] + 6 H^+ + 6 e^− ΔE^o = − 1.53 V
+          6 H^+ + 6 e^− → 3 H[2] ΔE^o = 0 V
+          2 H[2]O → O[2] + 4 H^+ + 4 e^− ΔE^o = −1. 23 V
+
+   So that in the net reaction three equivalents of water are converted
+   into one equivalent of ozone and three equivalents of hydrogen. Oxygen
+   formation is a competing reaction.
+
+Applications
+
+Industrial applications
+
+   Ozone can be used for bleaching substances and for killing bacteria.
+   Many municipal drinking water systems kill bacteria with ozone instead
+   of the more common chlorine. Ozone does not form organochlorine
+   compounds, but it also does not remain in the water after treatment, so
+   some systems introduce a small amount of chlorine to prevent bacterial
+   growth in the pipes, or may use chlorine intermittently, based on
+   results of periodic testing. Where electrical power is abundant, ozone
+   is a cost-effective method of treating water, as it is produced on
+   demand and does not require transportation and storage of hazardous
+   chemicals. Once it has decayed, it leaves no taste or odour in drinking
+   water. Low level of Ozone is helpful to purify air inside the house.
+   Eliminate mildew and mold build up.
+
+   Industrially, ozone or ozonated water is used to
+     * disinfect water before it is bottled;
+     * deodorize air and objects, such as after a fire;
+     * kill bacteria on food or on contact surfaces;
+     * scrub yeast and mold spores from the air in food processing plants;
+     * wash fresh fruits and vegetables to kill yeast, mold and bacteria;
+     * chemically attack contaminants in water (iron, arsenic, hydrogen
+       sulfide, nitrites, and complex organics lumped together as
+       "colour");
+     * provide an aid to flocculation (agglomeration of molecules, which
+       aids in filtration, where the iron and arsenic are removed);
+     * clean and bleach fabrics (the latter use is patented);
+     * assist in processing plastics to allow adhesion of inks;
+     * age rubber samples to determine the useful life of a batch of
+       rubber;
+     * in surface water treatment plants to eradicate water borne
+       parasites such as Giardia and Cryptosporidium. This process is
+       known as ozonation.
+
+   Ozone is a reagent in many organic reactions in the laboratory and in
+   industry. Ozonolysis is the cleavage of an alkene to carbonyl
+   compounds.
+
+   Many hospitals in the U.S. and around the world use large ozone
+   generators to decontaminate operating rooms between surgeries. The
+   rooms are cleaned and then sealed airtight before being filled with
+   ozone which effectively kills or neutralizes all remaining bacteria.
+
+Consumer applications
+
+   Ozone machines, with or without ionization, are currently used to
+   sanitize (high ozone output) and deodorize non-inhabited rooms,
+   ductwork, vehicles, boats, woodsheds, and buildings.
+
+   Some models of air purifiers that also emit low levels of ozone have
+   been sold in the US. These type of air purifiers claim to imitate
+   nature's "filterless" air purifying mechanisms and claim to "sanitize"
+   the air and/or household surfaces. The government successfully sued one
+   company in 1995, ordering them to stop repeating health claims without
+   supporting scientific studies.
+
+   Ozonated water is used to launder clothes, sanitize food, drinking
+   water, and surfaces in the home. According to the FDA, it is "amending
+   the food additive regulations to provide for the safe use of ozone in
+   gaseous and aqueous phases as an antimicrobial agent on food, including
+   meat and poultry." Ironically, while ozone is considered an atmospheric
+   pollutant, pollution and smog by the US government, it can actually
+   reduce pollutants like pesticides in fruits and vegetables.
+
+   Ozone is used in spas or hot tubs with reduced levels of Chlorine or
+   Bromine for keeping the water free of bacteria. As it does not remain
+   in the water after treatment, it is ineffective at preventing bather
+   cross-contamination, and must be used in conjuction with another
+   sanitizer. Ozone gas is created by an ultraviolet light bulb or corona
+   discharge chip and injected into the plumbing system.
+
+   Ozone is also widely used in treatment of water in aquaria and fish
+   ponds. Its use can minimise bacterial growth control parasites and
+   removes or reduce "yellowing" of the water. As the Ozone rapidly
+   decomposes, at correctly controlled levels the application has no
+   effect on the fish.
+
+Pharmaceutical applications
+
+   Ozone has a number of medical uses. It can be used to affect the body's
+   antioxidant-prooxidant balance, since the body usually reacts to its
+   presence by producing antioxidant enzymes. Ozone therapy has blossomed
+   into a thriving field of alternative medicine, with a host of claimed
+   applications far above and beyond what has actually been verified by
+   studies .
+
+   Retrieved from " http://en.wikipedia.org/wiki/Ozone"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

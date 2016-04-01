@@ -1,0 +1,705 @@
+   #copyright
+
+Elementary arithmetic
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   Elementary arithmetic is the most basic kind of mathematics: it
+   concerns the operations of addition, subtraction, multiplication, and
+   division. Most people learn elementary arithmetic in elementary school.
+
+   Elementary arithmetic starts with the natural numbers and the Arabic
+   numerals used to represent them. It requires the memorization of
+   addition tables and multiplication tables for adding and multiplying
+   pairs of digits. Knowing these tables, a person can perform certain
+   well-known procedures for adding and multiplying natural numbers. Other
+   algorithms are used for subtraction and division. Mental arithmetic is
+   elementary arithmetic performed in the head, for example to know that
+   100 − 37 = 63 without use of paper. It is an everyday skill. Extended
+   forms of mental calculation may involve calculating extremely large
+   numbers, but this is a skill not usually taught at the elementary
+   level.
+
+   Elementary arithmetic then moves on to fractions, decimals, and
+   negative numbers, which can be represented on a number line.
+
+   Nowadays people routinely use electronic calculators, cash registers,
+   and computers to perform their elementary arithmetic for them. Earlier
+   calculating tools included slide rules (for multiplication, division,
+   logs and trig), tables of logarithms, nomographs, and mechanical
+   calculators.
+
+   The question of whether or not calculators should be used, and whether
+   traditional mathematics manual computation methods should still be be
+   taught in elementary school has provoked heated controversy as many
+   standards-based mathematics texts deliberately omit some or most
+   standard computation methods. The 1989 NCTM standards led to curricula
+   which de-emphasized or ommitted much of what was considered to be
+   elementary arithmetic in elementary school, and replaced it with
+   emphasis on topics traditionally studied in college such as algebra,
+   statistics and problem solving.
+
+   In ancient times, and in many parts of Asia, the abacus is still often
+   used to perform elementary arithmetic as a skilled user can be as fast
+   as a calculator which may require batteries.
+
+   In the 14th century Arabic numerals were introduced to Europe by
+   Leonardo Pisano. These numerals were more efficient for performing
+   calculations than Roman numerals, because of the positional system.
+
+The digits
+
+   0 , zero, represents absence of objects to be counted.
+   1 , one. This is one stick: I
+   2 , two. This is two sticks: I I
+   3 , three. This is three sticks: I I I
+   4 , four. This is four sticks: I I I  I
+   5 , five. This is five sticks: I I I  I I
+   6 , six. This is six sticks: I I I  I I I
+   7 , seven. This is seven sticks: I I I  I I I  I
+   8 , eight. This is eight sticks: I I I  I I I  I I
+   9 , nine. This is nine sticks: I I I  I I I  I I I
+   There are as many digits as fingers on the hands: the word "digit" can
+   also mean finger. But if counting the digits on both hands, the first
+   digit would be one and the last digit would not be counted as "zero"
+   but as " ten": 10 , made up of the digits one and zero. The number 10
+   is the first two-digit number. This is ten sticks: I I I  I I I  I I I
+   I
+
+   If a number has more than one digit, then the rightmost digit, said to
+   be the last digit, is called the "ones-digit". The digit immediately to
+   its left is the "tens-digit". The digit immediately to the left of the
+   tens-digit is the "hundreds-digit". The digit immediately to the left
+   of the hundreds-digit is the "thousands-digit".
+
+Addition
+
+   + 0 1  2  3  4  5  6  7  8  9
+   0 0 1  2  3  4  5  6  7  8  9
+   1 1 2  3  4  5  6  7  8  9  10
+   2 2 3  4  5  6  7  8  9  10 11
+   3 3 4  5  6  7  8  9  10 11 12
+   4 4 5  6  7  8  9  10 11 12 13
+   5 5 6  7  8  9  10 11 12 13 14
+   6 6 7  8  9  10 11 12 13 14 15
+   7 7 8  9  10 11 12 13 14 15 16
+   8 8 9  10 11 12 13 14 15 16 17
+   9 9 10 11 12 13 14 15 16 17 18
+
+   What does it mean to add two natural numbers? Suppose you have two
+   bags, one bag holding five apples and a second bag holding three
+   apples. Grabbing a third, empty bag, move all the apples from the first
+   and second bags into the third bag. The third bag now holds eight
+   apples. This illustrates the combination of three apples and five
+   apples is eight apples; or more generally: "three plus five is eight"
+   or "three plus five equals eight" or "eight is the sum of three and
+   five". Numbers are abstract, and the addition of a group of three
+   things to a group of five things will yield a group of eight things.
+   Addition is a regrouping: two sets of objects which were counted
+   separately are put into a single group and counted together: the count
+   of the new group is the "sum" of the separate counts of the two
+   original groups.
+
+   Symbolically, addition is represented by the " plus sign": +. So the
+   statement "three plus five equals eight" can be written symbolically as
+   3 + 5 = 8. The order in which two numbers are added does not matter, so
+   3 + 5 = 5 + 3 = 8. This is the commutative property of addition.
+
+   To add a pair of digits using the table, find the intersection of the
+   row of the first digit with the column of the second digit: the row and
+   the column intersect at a square containing the sum of the two digits.
+   Some pairs of digits add up to two-digit numbers, with the tens-digit
+   always being a 1. In the addition algorithm the tens-digit of the sum
+   of a pair of digits is called the " carry digit".
+
+Addition algorithm
+
+   For simplicity, consider only numbers with three digits or less. To add
+   a pair of numbers (written in Arabic numerals), write the second number
+   under the first one, so that digits line up in columns: the rightmost
+   column will contain the ones-digit of the second number under the
+   ones-digit of the first number. This rightmost column is the
+   ones-column. The column immediately to its left is the tens-column. The
+   tens-column will have the tens-digit of the second number (if it has
+   one) under the tens-digit of the first number (if it has one). The
+   column immediately to the left of the tens-column is the
+   hundreds-column. The hundreds-column will line up the hundreds-digit of
+   the second number (if there is one) under the hundreds-digit of the
+   first number (if there is one).
+
+   After the second number has been written down under the first one so
+   that digits line up in their correct columns, draw a line under the
+   second (bottom) number. Start with the ones-column: the ones-column
+   should contain a pair of digits: the ones-digit of the first number
+   and, under it, the ones-digit of the second number. Find the sum of
+   these two digits: write this sum under the line and in the ones-column.
+   If the sum has two digits, then write down only the ones-digit of the
+   sum. Write the "carry digit" above the top digit of the next column: in
+   this case the next column is the tens-column, so write a 1 above the
+   tens-digit of the first number.
+
+   If both first and second number each have only one digit then their sum
+   is given in the addition table, and the addition algorithm is
+   unnecessary.
+
+   Then comes the tens-column. The tens-column might contain two digits:
+   the tens-digit of the first number and the tens-digit of the second
+   number. If one of the numbers has a missing tens-digit then the
+   tens-digit for this number can be considered to be a zero. Add the
+   tens-digits of the two numbers. Then, if there is a carry digit, add it
+   to this sum. If the sum was 18 then adding the carry digit to it will
+   yield 19. If the sum of the tens-digits (plus carry digit, if there is
+   one) is less than ten then write it in the tens-column under the line.
+   If the sum has two digits then write its last digit in the tens-column
+   under the line, and carry its first digit (which should be a one) over
+   to the next column: in this case the hundreds column.
+
+   If none of the two numbers has a hundreds-digit then if there is no
+   carry digit then the addition algorithm has finished. If there is a
+   carry digit (carried over from the tens-column) then write it in the
+   hundreds-column under the line, and the algorithm is finished. When the
+   algorithm finishes, the number under the line is the sum of the two
+   numbers.
+
+   If at least one of the numbers has a hundreds-digit then if one of the
+   numbers has a missing hundreds-digit then write a zero digit in its
+   place. Add the two hundreds-digits, and to their sum add the carry
+   digit if there is one. Then write the sum of the hundreds-column under
+   the line, also in the hundreds column. If the sum has two digits then
+   write down the last digit of the sum in the hundreds-column and write
+   the carry digit to its left: on the thousands-column.
+
+Example
+
+   Say one wants to find the sum of the numbers 653 and 274. Write the
+   second number under the first one, with digits aligned in columns, like
+   so:
+   6 5 3
+   2 7 4
+
+   Then draw a line under the second number and start with the
+   ones-column. The ones-digit of the first number is 3 and of the second
+   number is 4. The sum of three and four is seven, so write a seven in
+   the ones-column under the line:
+   6 5 3
+   2 7 4
+       7
+
+   Next, the tens-column. The tens-digit of the first number is 5, and the
+   tens-digit of the second number is 7, and five plus seven is twelve:
+   12, which has two digits, so write its last digit, 2, in the
+   tens-column under the line, and write the carry digit on the
+   hundreds-column above the first number:
+   1
+   6 5 3
+   2 7 4
+     2 7
+
+   Next, the hundreds-column. The hundreds-digit of the first number is 6,
+   while the hundreds-digit of the second number is 2. The sum of six and
+   two is eight, but there is a carry digit, which added to eight is equal
+   to nine. Write the nine under the line in the hundreds-column:
+   1
+   6 5 3
+   2 7 4
+   9 2 7
+
+   No digits (and no columns) have been left unadded, so the algorithm
+   finishes, and
+
+          653 + 274 = 927.
+
+Successorship and size
+
+   The result of the addition of one to a number is the successor of that
+   number. Examples:
+   the successor of zero is one,
+   the successor of one is two,
+   the successor of two is three,
+   the successor of ten is eleven.
+   Every natural number has a successor.
+
+   The predecessor of the successor of a number is the number itself. For
+   example, five is the successor of four therefore four is the
+   predecessor of five. Every natural number except zero has a
+   predecessor.
+
+   If a number is the successor of another number, then the first number
+   is said to be larger than the other number. If a number is larger than
+   another number, and if the other number is larger than a third number,
+   then the first number is also larger than the third number. Example:
+   five is larger than four, and four is larger than three, therefore five
+   is larger than three. But six is larger than five, therefore six is
+   also larger than three. But seven is larger than six, therefore seven
+   is also larger than three... therefore eight is larger than three...
+   therefore nine is larger than three, etc.
+
+   If two non-zero natural numbers are added together, then their sum is
+   larger than either one of them. Example: three plus five equals eight,
+   therefore eight is larger than three (8>3) and eight is larger than
+   five (8>5). The symbol for "larger than" is >.
+
+   If a number is larger than another one, then the other is smaller than
+   the first one. Examples: three is smaller than eight (3<8) and five is
+   smaller than eight (5<8). The symbol for smaller than is <. A number
+   cannot be at the same time larger and smaller than another number.
+   Neither can a number be at the same time larger than and equal to
+   another number. Given a pair of natural numbers, one and only one of
+   the following cases must be true:
+     * the first number is larger than the second one,
+     * the first number is equal to the second one,
+     * the first number is smaller than the second one.
+
+Counting
+
+   To count a group of objects means to assign a natural number to each
+   one of the objects, as if it were a label for that object, such that a
+   natural number is never assigned to an object unless its predecessor
+   was already assigned to another object, with the exception that zero is
+   not assigned to any object: the smallest natural number to be assigned
+   is one, and the largest natural number assigned depends on the size of
+   the group. It is called the count and it is equal to the number of
+   objects in that group.
+
+   The process of counting a group is the following:
+   Step 1: Let "the count" be equal to zero. "The count" is a variable
+   quantity, which though beginning with a value of zero, will soon have
+   its value changed several times.
+   Step 2: Find at least one object in the group which has not been
+   labeled with a natural number. If no such object can be found (if they
+   have all been labeled) then the counting is finished. Otherwise choose
+   one of the unlabeled objects.
+   Step 3: Increase the count by one. That is, replace the value of the
+   count by its successor.
+   Step 4: Assign the new value of the count, as a label, to the unlabeled
+   object chosen in Step 2.
+   Step 5: Go back to Step 2.
+
+   When the counting is finished, the last value of the count will be the
+   final count. This count is equal to the number of objects in the group.
+
+   Often, when counting objects, one does not keep track of what numerical
+   label corresponds to which object: one only keeps track of the subgroup
+   of objects which have already been labeled, so as to be able to
+   identify unlabeled objects necessary for Step 2. However, if one is
+   counting persons, then one can ask the persons who are being counted to
+   each keep track of the number which the person's self has been
+   assigned. After the count has finished it is possible to ask the group
+   of persons to file up in a line, in order of increasing numerical
+   label. What the persons would do during the process of lining up would
+   be something like this: each pair of persons who are unsure of their
+   positions in the line ask each other what their numbers are: the person
+   whose number is smaller should stand on the left side and the one with
+   the larger number on the right side of the other person. Thus, pairs of
+   persons compare their numbers and their positions, and commute their
+   positions as necessary, and through repetition of such conditional
+   commutations they become ordered.
+
+Algorithms for Subtraction
+
+   There are several methods to accomplish subtraction. Traditional
+   mathematics taught elementary school children to subtract using methods
+   suitable for hand calculation. The particular method used varies from
+   country from country, and within a country, different methods are in
+   fashion at different times. Standards-based mathematics are
+   distinguished generally by the lack of preference for any standard
+   method, replaced by guiding 2nd grade children to invent their own
+   methods of computation, such as using properties of negative numbers in
+   the case of TERC.
+
+   American schools currently teach a method of subtraction using
+   borrowing and a system of markings called crutches. Although a method
+   of borrowing had been known and published in textbooks prior,
+   apparently the crutches are the invention of William A. Browell who
+   used them in a study in November of 1937 . This system caught on
+   rapidly, displacing the other methods of subtraction in use in America
+   at that time.
+
+   European children are taught, and some older Americans employ, a method
+   of subtraction called the Austrian method, also known as the additions
+   method. There is no borrowing in this method. There are also crutches
+   (markings to aid the memory) which [probably] vary according to
+   country.
+
+   In the method of borrowing, a subtraction such as 86 - 39 will
+   accomplish the one's place subtraction of 9 from 6 by borrowing a 10
+   from 80 and adding it to the 6. The problem is thus transformed into
+   (70+16)-39, effectively. This is indicated by striking through the 8,
+   writing a small 7 above it, and writing a small 1 above the 6. These
+   markings are called crutches. The 9 is then subtracted from 16, leaving
+   7, and the 30 from the 70, leaving 40, or 47 as the result.
+
+   In the additions method, a 10 is borrowed to make the 6 into 16, in
+   preparation for the subtraction of 9, just as in the borrowing method.
+   However, the 10 is not taken by reducing minuend, rather one augments
+   the subtrahend. Effectively, the problem is transformed into
+   (80+16)-(39+10). Typically a crutch of a small one is marked just below
+   the subtrahend digit as a reminder. Then the operations proceed: 9 from
+   16 is 7; and 40 (that is, 30+10) from 80 is 40, or 47 as the result.
+
+   The additions method seem to be taught in two variations, which differ
+   only in psychology. Continuing the example of 86-39, the first
+   variation attempts to subtract 9 from 6, and then 9 from 16, borrowing
+   a 10 by marking near the digit of the subtrahend in the next column.
+   The second variation attempts to find a digit which, when added to 9
+   gives 6, and recognizing that is not possible, gives 16, and carrying
+   the 10 of the 16 as a one marking near the same digit as in the first
+   method. The markings are the same, it is just a matter of preference as
+   to how one explains its appearance.
+
+   As a final caution, the borrowing method gets a bit complicated in
+   cases such as 100-87, where a borrow cannot be made immediately, and
+   must be obtained by reaching across several columns. In this case, the
+   minuend is effectively rewriten as 90+10, by taking a one hundred from
+   the hundreds, making ten tens from it, and immediately borrowing that
+   down to 9 tens in the tens column and finally placing a ten in the
+   one's column.
+
+   There are several other methods, some of which are particularly
+   advantageous to machine calculation. For example, digital computers
+   employ the method of two's complement. Of great importance is the
+   counting up method by which change is made. Suppose an amount P is
+   given to pay the required amount Q, with P greater than Q. Rather than
+   performing the subtraction P-Q and counting out that amount in change,
+   money is counted out starting at Q and continuing until reaching P.
+   Curiously, although the amount counted out must equal the result of the
+   subtraction P-Q, the subtraction was never really done and the value of
+   P-Q might still be unknown to the change-maker.
+
+   1 Subtraction in the United States: An Historial Perspective, Susan
+   Ross, Mary Pratt-Cotter, The Mathematics Educator, Vol. 8, No. 1.
+
+   Browell, W. A. (1939). Learning as reorganization: An experimental
+   study in third-grade arithmetic, Duke University Press.
+
+   See also:
+     * Method of complements
+     * Subtraction without borrowing
+
+Multiplication
+
+   × 0 1 2  3  4  5  6  7  8  9
+   0 0 0 0  0  0  0  0  0  0  0
+   1 0 1 2  3  4  5  6  7  8  9
+   2 0 2 4  6  8  10 12 14 16 18
+   3 0 3 6  9  12 15 18 21 24 27
+   4 0 4 8  12 16 20 24 28 32 36
+   5 0 5 10 15 20 25 30 35 40 45
+   6 0 6 12 18 24 30 36 42 48 54
+   7 0 7 14 21 28 35 42 49 56 63
+   8 0 8 16 24 32 40 48 56 64 72
+   9 0 9 18 27 36 45 54 63 72 81
+
+   When two numbers are multiplied together, the result is called a
+   product. The two numbers being multiplied together are called factors.
+
+   What does it mean to multiply two natural numbers? Suppose there are
+   five red bags, each one containing three apples. Now grabbing an empty
+   green bag, move all the apples from all five red bags into the green
+   bag. Now the green bag will have fifteen apples. Thus the product of
+   five and three is fifteen. This can also be stated as "five times three
+   is fifteen" or "five times three equals fifteen" or "fifteen is the
+   product of five and three". Multiplication can be seen to be a form of
+   repeated addition: the first factor indicates how many times the second
+   factor should be added onto itself; the final sum being the product.
+
+   Symbolically, multiplication is represented by the multiplication sign:
+   \times . So the statement "five times three equals fifteen" can be
+   written symbolically as
+
+          5 \times 3 = 15.\
+
+   In some countries, and in more advanced arithmetic, other
+   multiplication signs are used, e.g. 5\cdot3 . In some situations,
+   especially in algebra, where numbers can be symbolized with letters,
+   the multiplication symbol may be omitted; e.g xy means x \times y . The
+   order in which two numbers are multiplied does not matter, so that, for
+   example, three times four equals four times three. This is the
+   commutative property of multiplication.
+
+   To multiply a pair of digits using the table, find the intersection of
+   the row of the first digit with the column of the second digit: the row
+   and the column intersect at a square containing the product of the two
+   digits. Most pairs of digits produce two-digit numbers. In the
+   multiplication algorithm the tens-digit of the product of a pair of
+   digits is called the " carry digit".
+
+Multiplication algorithm for a single-digit factor
+
+   Consider a multiplication where one of the factors has only one digit,
+   whereas the other factor has an arbitrary quantity of digits. Write
+   down the multi-digit factor, then write the single-digit factor under
+   the last digit of the multi-digit factor. Draw a horizontal line under
+   the single-digit factor. Henceforth, the single-digit factor will be
+   called the "multiplier" and the multi-digit factor will be called the
+   "multiplicand".
+
+   Suppose for simplicity that the multiplicand has three digits. The
+   first digit is the hundreds-digit, the middle digit is the tens-digit,
+   and the last, rightmost, digit is the ones-digit. The multiplier only
+   has a ones-digit. The ones-digits of the multiplicand and multiplier
+   form a column: the ones-column.
+
+   Start with the ones-column: the ones-column should contain a pair of
+   digits: the ones-digit of the multiplicand and, under it, the
+   ones-digit of the multiplier. Find the product of these two digits:
+   write this product under the line and in the ones-column. If the
+   product has two digits, then write down only the ones-digit of the
+   product. Write the "carry digit" as a superscript of the yet-unwritten
+   digit in the next column and under the line: in this case the next
+   column is the tens-column, so write the carry digit as the superscript
+   of the yet-unwritten tens-digit of the product (under the line).
+
+   If both first and second number each have only one digit then their
+   product is given in the multiplication table, and the multiplication
+   algorithm is unnecessary.
+
+   Then comes the tens-column. The tens-column so far contains only one
+   digit: the tens-digit of the multiplicand (though it might contain a
+   carry digit under the line). Find the product of the multiplier and the
+   tens-digits of the multiplicand. Then, if there is a carry digit
+   (superscripted, under the line and in the tens-column), add it to this
+   product. If the resulting sum is less than ten then write it in the
+   tens-column under the line. If the sum has two digits then write its
+   last digit in the tens-column under the line, and carry its first digit
+   over to the next column: in this case the hundreds column.
+
+   If the multiplicand does not have a hundreds-digit then if there is no
+   carry digit then the multiplication algorithm has finished. If there is
+   a carry digit (carried over from the tens-column) then write it in the
+   hundreds-column under the line, and the algorithm is finished. When the
+   algorithm finishes, the number under the line is the product of the two
+   numbers.
+
+   If the multiplicand has a hundreds-digit... find the product of the
+   multiplier and the hundreds-digit of the multiplicand, and to this
+   product add the carry digit if there is one. Then write the resulting
+   sum of the hundreds-column under the line, also in the hundreds column.
+   If the sum has two digits then write down the last digit of the sum in
+   the hundreds-column and write the carry digit to its left: on the
+   thousands-column.
+
+Example
+
+   Say one wants to find the product of the numbers 3 and 729. Write the
+   single-digit multiplier under the multi-digit multiplicand, with the
+   multiplier under the ones-digit of the multiplicand, like so:
+   7 2 9
+       3
+
+   Then draw a line under the multiplier and start with the ones-column.
+   The ones-digit of the multiplicand is 9 and the multiplier is 3. The
+   product of three and nine is 27, so write a seven in the ones-column
+   under the line, and write the carry-digit 2 as a superscript of the
+   yet-unwritten tens-digit of the product under the line:
+   7 2   9
+   _ _   3
+      ^2 7
+
+   Next, the tens-column. The tens-digit of the multiplicand is 2, the
+   multiplier is 3, and three times two is six. Add the carry-digit, 2, to
+   the product 6 to obtain 8. Eight has only one digit: no carry-digit, so
+   write in the tens-column under the line:
+   7 2   9
+   _ _   3
+     8^2 7
+
+   Next, the hundreds-column. The hundreds-digit of the multiplicand is 7,
+   while the multiplier is 3. The product of three and seven is 21, and
+   there is no previous carry-digit (carried over from the tens-column).
+   The product 21 has two digits: write its last digit in the
+   hundreds-column under the line, then carry its first digit over to the
+   thousands-column. Since the multiplicand has no thousands-digit, then
+   write this carry-digit in the thousands-column under the line (not
+   superscripted):
+     7 2   9
+   _ _ _   3
+   2 1 8^2 7
+
+   No digits of the multiplicand have been left unmultiplied, so the
+   algorithm finishes, and
+    3 \times 729 = 2187 .
+
+Multiplication algorithm for multi-digit factors
+
+   Given a pair of factors, each one having two or more digits, write both
+   factors down, one under the other one, so that digits line up in
+   columns.
+
+   For simplicity consider a pair of three-digits numbers. Write the last
+   digit of the second number under the last digit of the first number,
+   forming the ones-column. Immediately to the left of the ones-column
+   will be the tens-column: the top of this column will have the second
+   digit of the first number, and below it will be the second digit of the
+   second number. Immediately to the left of the tens-column will be the
+   hundreds-column: the top of this column will have the first digit of
+   the first number and below it will be the first digit of the second
+   number. After having written down both factors, draw a line under the
+   second factor.
+
+   The multiplication will consist of two parts. The first part will
+   consist of several multiplications involving one-digit multipliers. The
+   operation of each one of such multiplications was already described in
+   the previous multiplication algorithm, so this algorithm will not
+   describe each one individually, but will only describe how the several
+   multiplications with one-digit multipliers shall be coördinated. The
+   second part will add up all the subproducts of the first part, and the
+   resulting sum will be the product.
+
+   First part. Let the first factor be called the multiplicand. Let each
+   digit of the second factor be called a multiplier. Let the ones-digit
+   of the second factor be called the "ones-multiplier". Let the
+   tens-digit of the second factor be called the "tens-multiplier". Let
+   the hundreds-digit of the second factor be called the
+   "hundreds-multiplier".
+
+   Start with the ones-column. Find the product of the ones-multiplier and
+   the multiplicand and write it down in a row under the line, aligning
+   the digits of the product in the previously-defined columns. If the
+   product has four digits, then the first digit will be the beginning of
+   the thousands-column. Let this product be called the "ones-row".
+
+   Then the tens-column. Find the product of the tens-multiplier and the
+   multiplicand and write it down in a row — call it the "tens-row" —
+   under the ones-row, but shifted one column to the left. That is, the
+   ones-digit of the tens-row will be in the tens-column of the ones-row;
+   the tens-digit of the tens-row will be under the hundreds-digit of the
+   ones-row; the hundreds-digit of the tens-row will be under the
+   thousands-digit of the ones-row. If the tens-row has four digits, then
+   the first digit will be the beginning of the ten-thousands-column.
+
+   Next, the hundreds-column. Find the product of the hundreds-multiplier
+   and the multiplicand and write it down in a row — call it the
+   "hundreds-row" — under the tens-row, but shifted one more column to the
+   left. That is, the ones-digit of the hundreds-row will be in the
+   hundreds-column; the tens-digit of the hundreds-row will be in the
+   thousands-column; the hundreds-digit of the hundreds-row will be in the
+   ten-thousands-column. If the hundreds-row has four digits, then the
+   first digit will be the beginning of the hundred-thousands-column.
+
+   After having down the ones-row, tens-row, and hundreds-row, draw a
+   horizontal line under the hundreds-row. The multiplications are over.
+
+   Second part. Now the multiplication has a pair of lines. The first one
+   under the pair of factors, and the second one under the three rows of
+   subproducts. Under the second line there will be six columns, which
+   from right to left are the following: ones-column, tens-column,
+   hundreds-column, thousands-column, ten-thousands-column, and
+   hundred-thousands-column.
+
+   Between the first and second lines, the ones-column will contain only
+   one digit, located in the ones-row: it is the ones-digit of the
+   ones-row. Copy this digit by rewriting it in the ones-column under the
+   second line.
+
+   Between the first and second lines, the tens-column will contain a pair
+   of digits located in the ones-row and the tens-row: the tens-digit of
+   the ones-row and the ones-digit of the tens-row. Add these digits up
+   and if the sum has just one digit then write this digit in the
+   tens-column under the second line. If the sum has two digits then the
+   first digit is a carry-digit: write the last digit down in the
+   tens-column under the second line and carry the first digit over to the
+   hundreds-column, writing it as a superscript to the yet-unwritten
+   hundreds-digit under the second line.
+
+   Between the first and second lines, the hundreds-column will contain
+   three digits: the hundreds-digit of the ones-row, the tens-digit of the
+   tens-row, and the ones-digit of the hundreds-row. Find the sum of these
+   three digits, then if there is a carry-digit from the tens-column
+   (written in superscript under the second line in the hundreds-column)
+   then add this carry-digit as well. If the resulting sum has one digit
+   then write it down under the second line in the hundreds-column; if it
+   has two digits then write the last digit down under the line in the
+   hundreds-column, and carry over the first digit to the
+   thousands-column, writing it as a superscript to the yet-unwritten
+   thousands-digit under the line.
+
+   Between the first and second lines, the thousands-column will contain
+   either two or three digits: the hundreds-digit of the tens-row, the
+   tens-digit of the hundreds-row, and (possibly) the thousands-digit of
+   the ones-row. Find the sum of these digits, then if there is a
+   carry-digit from the hundreds-column (written in superscript under the
+   second line in the thousands-column) then add this carry-digit as well.
+   If the resulting sum has one digit then write it down under the second
+   line in the thousands-column; if it has two digits then write the last
+   digit down under the line in the thousands-column, and carry the first
+   digit over to the ten-thousands-column, writing it as a superscript to
+   the yet-unwritten ten-thousands-digit under the line.
+
+   Between the first and second lines, the ten-thousands-column will
+   contain either one or two digits: the hundreds-digit of the
+   hundreds-column and (possibly) the thousands-digit of the tens-column.
+   Find the sum of these digits (if the one in the tens-row is missing
+   think of it as a zero), and if there is a carry-digit from the
+   thousands-column (written in superscript under the second line in the
+   ten-thousands-column) then add this carry-digit as well. If the
+   resulting sum has one digit then write it down under the second line in
+   the ten-thousands-column; if it has two digits then write the last
+   digit down under the line in the ten-thousands-column, and carry the
+   first digit over to the hundred-thousands-column, writing it as a
+   superscript to the yet-unwritten ten-thousands digit under the line.
+   However, if the hundreds-row has no thousands-digit then do not write
+   this carry-digit as a superscript, but in normal size, in the position
+   of the hundred-thousands-digit under the second line, and the
+   multiplication algorithm is over.
+
+   If the hundreds-row does have a thousands-digit, then add to it the
+   carry-digit from the previous row (if there is no carry-digit then
+   think of it as a zero) and write the single-digit sum in the
+   hundred-thousands-column under the second line.
+
+   The number under the second line is the sought-after product of the
+   pair of factors above the first line.
+
+Example
+
+   Let our objective be to find the product of 789 and 345. Write the 345
+   under the 789 in three columns, and draw a horizontal line under them:
+   7 8 9
+   3 4 5
+
+   First part. Start with the ones-column. The multiplicand is 789 and the
+   ones-multiplier is 5. Perform the multiplication in a row under the
+   line:
+      7   8   9
+      3   4   5
+   3  9^4 4^4 5
+
+   Then the tens-column. The multiplicand is 789 and the tens-multiplier
+   is 4. Perform the multiplication in the tens-row, under the previous
+   subproduct in the ones-row, but shifted one column to the left:
+          7   8   9
+          3   4   5
+      3   9^4 4^4 5
+   3  1^3 5^3 6
+
+   Next, the hundreds-column. The multiplicand is once again 789, and the
+   hundreds-multiplier is 3. Perform the multiplication in the
+   hundreds-row, under the previous subproduct in the tens-row, but
+   shifted one (more) column to the left. Then draw a horizontal line
+   under the hundreds-row:
+              7   8   9
+              3   4   5
+          3   9^4 4^4 5
+      3   1^3 5^3 6
+   2  3^2 6^2 7
+
+   Second part. Now add the subproducts between the first and second
+   lines, but ignoring any superscripted carry-digits located between the
+   first and second lines.
+              7   8   9
+              3   4   5
+          3   9^4 4^4 5
+      3   1^3 5^3 6
+   2  3^2 6^2 7
+   2  7^1 2^2 2^1 0   5
+
+   The answer is
+
+          789 \times 345 = 272205.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Elementary_arithmetic"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

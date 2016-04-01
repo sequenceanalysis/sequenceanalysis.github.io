@@ -1,0 +1,482 @@
+   #copyright
+
+Number
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   A number is an abstract entity that represents a count or measurement.
+   A symbol for a number is called a numeral. In common usage, numerals
+   are often used as labels (e.g. road, telephone and house numbering), as
+   indicators of order ( serial numbers), and as codes ( ISBN). In
+   mathematics, the definition of a number has extended to include
+   abstractions such as fractions, negative, irrational, transcendental
+   and complex numbers.
+
+   The arithmetical operations of numbers, such as addition, subtraction,
+   multiplication and division, are generalized in the branch of
+   mathematics called abstract algebra, the study of abstract number
+   systems such as groups, rings and fields.
+
+Types of numbers
+
+   Numbers can be classified into sets called number systems. For
+   different methods of expressing numbers with symbols, see numeral
+   systems.
+
+Natural numbers
+
+   The most familiar numbers are the natural numbers, which to some mean
+   the non-negative integers and to others mean the positive integers. In
+   everyday parlance the non-negative integers are commonly referred to as
+   whole numbers, the positive integers as counting numbers.
+
+   In the base ten number system, in almost universal use, the symbols for
+   natural numbers are written using ten digits, 0 through 9. An implied
+   place value system, one that increments in powers of ten, is used for
+   numbers greater than nine. Thus, numbers greater than nine have
+   numerals formed with two or more digits. The symbol for the set of all
+   natural numbers is \mathbb{N}.
+
+Integers
+
+   Negative numbers are numbers which are less than zero. They are usually
+   written by indicating their opposite, which is a positive number, with
+   a preceding minus sign. For example, if a positive number is used to
+   indicate distance to the right of a fixed point, a negative number
+   would indicate distance to the left. Similarly, if a positive number
+   indicates a bank deposit, then a negative number indicates a
+   withdrawal. When the negative whole numbers are combined with the
+   positive whole numbers and zero, one obtains the integers \mathbb{Z}
+   (German Zahl, plural Zahlen).
+
+Rational numbers
+
+   A rational number is a number that can be expressed as a fraction with
+   an integer numerator and a non-zero natural number denominator. The
+   fraction m/n represents the quantity arrived at when a whole is divided
+   into n equal parts, and m of those equal parts are chosen. Two
+   different fractions may correspond to the same rational number; for
+   example ½ and 2/4 are the same. If the absolute value of m is greater
+   than n, the absolute value of the fraction is greater than one.
+   Fractions can be positive, negative, or zero. The set of all fractions
+   includes the integers, since every integer can be written as a fraction
+   with denominator 1. The symbol for the rational numbers is a bold face
+   \mathbb{Q} (for quotient).
+
+Real numbers
+
+   Loosely speaking, real numbers may be identified with points on a
+   continuous line. All rational numbers are real numbers, and like those,
+   real numbers can be classified as being either positive, zero, or
+   negative.
+
+   The real numbers are uniquely characterized by their mathematical
+   properties: they are the only complete ordered field. They are not,
+   however, an algebraically closed field.
+
+   Decimal numerals are another way in which numbers can be expressed. In
+   the base-ten number system, they are written as a string of digits,
+   with a period ( decimal point) (in, for example, the US and UK) or a
+   comma (in, for example, continental Europe) to the right of the ones
+   place; negative real numbers are written with a preceding minus sign. A
+   decimal numeral defining a rational number repeats or terminates
+   (though any number of zeroes can be appended), though 0 is the only
+   real number that cannot be defined through a repeating decimal numeral.
+   For example, the fraction 5/4 can be written as the decimal numeral
+   1.25, which terminates, or the decimal numeral 1.24999... (unending
+   nines), which repeats. The fraction 1/3 can be written only as
+   0.3333... (unending threes), which repeats. All repeating and
+   terminating decimal numerals define rational numbers, which can also be
+   written as fractions; 1.25 = 5/4 and 0.3333... = 1/3. Unlike repeating
+   and terminating decimal numerals, non-repeating, non-terminating
+   decimal numerals represent irrational numbers, numbers that cannot be
+   written as fractions. For example, well-known mathematical constants
+   such as π (pi) and \sqrt{2} , the square root of 2, are irrational, and
+   so is the real number expressed by the decimal numeral
+   0.101001000100001..., because that expression doesn't repeat or
+   terminate.
+
+   The real numbers are made up of all numbers that can be expressed as
+   decimal numerals, both rational and irrational. The symbol for the real
+   numbers is \mathbb{R}. The real numbers are used to represent
+   measurements, and correspond to the points on the number line. As
+   measurements are only made to a certain level of precision, there is
+   always some error margin when using real numbers to represent them.
+   This is often dealt with by giving an appropriate number of significant
+   figures.
+
+Complex numbers
+
+   Moving to a greater level of abstraction, the real numbers can be
+   extended to the complex numbers \mathbb{C}. This set of numbers arose,
+   historically, from the question of whether a negative number can have a
+   square root. From this problem, a new number was discovered: the square
+   root of negative one. This number is denoted by i, a symbol assigned by
+   Leonhard Euler. The complex numbers consist of all numbers of the form
+   a + b i, where a and b are real numbers. When a is zero, then a + b i
+   is called imaginary. Likewise, when b is zero, then a + b i is real,
+   since there is no imaginary component. A complex number that has a and
+   b as integers is called a Gaussian integer. The complex numbers are an
+   algebraically closed field, meaning that every polynomial with complex
+   coefficients can be factored into linear factors with complex
+   coefficients. Complex numbers correspond to points on the complex
+   plane.
+
+   Each of the number systems mentioned above is a subset of the next
+   number system. Symbolically, \mathbb{N} \sub \mathbb{Z} \sub \mathbb{Q}
+   \sub \mathbb{R} \sub \mathbb{C}.
+
+Other types
+
+   Superreal, hyperreal and surreal numbers extend the real numbers by
+   adding infinitesimally small numbers and infinitely large numbers, but
+   still form fields.
+
+   The idea behind p-adic numbers is this: While real numbers may have
+   infinitely long expansions to the right of the decimal point, these
+   numbers allow for infinitely long expansions to the left. The number
+   system which results depends on what base is used for the digits: any
+   base is possible, but a system with the best mathematical properties is
+   obtained when the base is a prime number.
+
+   For dealing with infinite collections, the natural numbers have been
+   generalized to the ordinal numbers and to the cardinal numbers. The
+   former gives the ordering of the collection, while the latter gives its
+   size. For the finite set, the ordinal and cardinal numbers are
+   equivalent, but they differ in the infinite case.
+
+   There are also other sets of numbers with specialized uses. Some are
+   subsets of the complex numbers. For example, algebraic numbers are the
+   roots of polynomials with rational coefficients. Complex numbers that
+   are not algebraic are called transcendental numbers.
+
+   Sets of numbers that are not subsets of the complex numbers include the
+   quaternions \mathbb{H} , invented by Sir William Rowan Hamilton, in
+   which multiplication is not commutative, and the octonions, in which
+   multiplication is not associative. Elements of function fields of
+   finite characteristic behave in some ways like numbers and are often
+   regarded as numbers by number theorists.
+
+Numerals
+
+   Numbers should be distinguished from numerals, the symbols used to
+   represent numbers. The number five can be represented by both the base
+   ten numeral 5 and by the Roman numeral V. Notations used to represent
+   numbers are discussed in the article numeral systems. An important
+   development in the history of numerals was the development of a
+   positional system, like modern decimals, which can represent very large
+   numbers. The Roman numerals require extra symbols for larger numbers.
+
+History
+
+History of integers
+
+The first numbers
+
+   The first known use of numbers dates back to around 30000 BC when tally
+   marks were used by Paleolithic peoples. The earliest known example is
+   from a cave in Southern Africa. . This system had no concept of
+   place-value (such as in the currently used decimal notation), which
+   limited its representation of large numbers. The first known system
+   with place-value was the Mesopotamian base 60 system (ca. 3400 BC) and
+   the earliest known base 10 system dates to 3100 BC in Egypt.
+
+History of zero
+
+   The use of zero as a number should be distinguished from its use as a
+   placeholder numeral in place-value systems. Many ancient Indian texts
+   use a Sanskrit word Shunya to refer to the concept of void; in
+   mathematics texts this word would often be used to refer to the number
+   zero. . In a similar vein, Pāṇini ( 5th century BC) used the null
+   (zero) operator (ie a lambda production) in the Ashtadhyayi, his
+   algebraic grammar for the Sanskrit language. (also see Pingala)
+
+   Records show that the Ancient Greeks seemed unsure about the status of
+   zero as a number: they asked themselves "how can 'nothing' be
+   something?", leading to interesting philosophical and, by the Medieval
+   period, religious arguments about the nature and existence of zero and
+   the vacuum. The paradoxes of Zeno of Elea depend in large part on the
+   uncertain interpretation of zero. (The ancient Greeks even questioned
+   that 1 was a number.)
+
+   The late Olmec people of south-central Mexico began to use a true zero
+   (a shell glyph) in the New World possibly by the 4th century BC but
+   certainly by 40 BC, which became an integral part of Maya numerals and
+   the Maya calendar, but did not influence Old World numeral systems.
+
+   By 130, Ptolemy, influenced by Hipparchus and the Babylonians, was
+   using a symbol for zero (a small circle with a long overbar) within a
+   sexagesimal numeral system otherwise using alphabetic Greek numerals.
+   Because it was used alone, not as just a placeholder, this Hellenistic
+   zero was the first documented use of a true zero in the Old World. In
+   later Byzantine manuscripts of his Syntaxis Mathematica (Almagest), the
+   Hellenistic zero had morphed into the Greek letter omicron (otherwise
+   meaning 70).
+
+   Another true zero was used in tables alongside Roman numerals by 525
+   (first known use by Dionysius Exiguus), but as a word, nulla meaning
+   nothing, not as a symbol. When division produced zero as a remainder,
+   nihil, also meaning nothing, was used. These medieval zeros were used
+   by all future medieval computists (calculators of Easter). An isolated
+   use of their initial, N, was used in a table of Roman numerals by Bede
+   or a colleague about 725, a true zero symbol.
+
+   An early documented use of the zero by Brahmagupta (in the
+   Brahmasphutasiddhanta) dates to 628. He treated zero as a number and
+   discussed operations involving it, including division. By this time
+   (7th century) the concept had clearly reached Cambodia, and
+   documentation shows the idea later spreading to China and the Islamic
+   world.
+
+History of negative numbers
+
+   The abstract concept of negative numbers was recognised as early as 100
+   BC - 50 BC. The Chinese ” Nine Chapters on the Mathematical Art”
+   (Jiu-zhang Suanshu) contains methods for finding the areas of figures;
+   red rods were used to denote positive coefficients, black for negative.
+   This is the earliest known mention of negative numbers in the East; the
+   first reference in a western work was in the 3rd century in Greece.
+   Diophantus referred to the equation equivalent to 4x + 20 = 0 (the
+   solution would be negative) in Arithmetica, saying that the equation
+   gave an absurd result.
+
+   During the 600s, negative numbers were in use in India to represent
+   debts. Diophantus’ previous reference was discussed more explicitly by
+   Indian mathematician Brahmagupta, in Brahma-Sphuta-Siddhanta 628, who
+   used negative numbers to produce the general form quadratic formula
+   that remains in use today. However, in the 12th century in India,
+   Bhaskara gives negative roots for quadratic equations but says the
+   negative value "is in this case not to be taken, for it is inadequate;
+   people do not approve of negative roots."
+
+   European mathematicians, for the most part, resisted the concept of
+   negative numbers until the 17th century, although Fibonacci allowed
+   negative solutions in financial problems where they could be
+   interpreted as debits (chapter 13 of Liber Abaci, 1202) and later as
+   losses (in Flos). At the same time, the Chinese were indicating
+   negative numbers by drawing a diagonal stroke through the right-most
+   nonzero digit of the corresponding positive number's numeral. The first
+   use of negative numbers in a European work was by Chuquet during the
+   15th century. He used them as exponents, but referred to them as
+   “absurd numbers”.
+
+   As recently as the 18th century, the Swiss mathematician Leonhard Euler
+   believed that negative numbers were greater than infinity, and it was
+   common practice to ignore any negative results returned by equations on
+   the assumption that they were meaningless, just as René Descartes did
+   with negative solutions in a cartesian coordinate system.
+
+History of rational, irrational, and real numbers
+
+History of rational numbers
+
+   It is likely that the concept of fractional numbers dates to
+   prehistoric times. Even the Ancient Egyptians wrote math texts
+   describing how to convert general fractions into their special
+   notation. Classical Greek and Indian mathematicians made studies of the
+   theory of rational numbers, as part of the general study of number
+   theory. The best known of these is Euclid's Elements, dating to roughly
+   300 BC. Of the Indian texts, the most relevant is the Sthananga Sutra,
+   which also covers number theory as part of a general study of
+   mathematics.
+
+   The concept of decimal fractions is closely linked with decimal place
+   value notation; the two seem to have developed in tandem. For example,
+   it is common for the Jain math sutras to include calculations of
+   decimal-fraction approximations to pi or the square root of two.
+   Similarly, Babylonian math texts had always used sexagesimal fractions
+   with great frequency.
+
+History of irrational numbers
+
+   The earliest known use of irrational numbers was in the Indian Sulba
+   Sutras composed between 800- 500 BC. The first existence proofs of
+   irrational numbers is usually attributed to Pythagoras, more
+   specifically to the Pythagorean Hippasus of Metapontum, who produced a
+   (most likely geometrical) proof of the irrationality of the square root
+   of 2. The story goes that Hippasus discovered irrational numbers when
+   trying to represent the square root of 2 as a fraction. However
+   Pythagoras believed in the absoluteness of numbers, and could not
+   accept the existence of irrational numbers. He could not disprove their
+   existence through logic, but his beliefs would not accept the existence
+   of irrational numbers and so he sentenced Hippasus to death by
+   drowning.
+
+   The sixteenth century saw the final acceptance by Europeans of
+   negative, integral and fractional numbers. The seventeenth century saw
+   decimal fractions with the modern notation quite generally used by
+   mathematicians. But it was not until the nineteenth century that the
+   irrationals were separated into algebraic and transcendental parts, and
+   a scientific study of theory of irrationals was taken once more. It had
+   remained almost dormant since Euclid. The year 1872 saw the publication
+   of the theories of Karl Weierstrass (by his pupil Kossak), Heine (
+   Crelle, 74), Georg Cantor (Annalen, 5), and Richard Dedekind. Méray had
+   taken in 1869 the same point of departure as Heine, but the theory is
+   generally referred to the year 1872. Weierstrass's method has been
+   completely set forth by Pincherle (1880), and Dedekind's has received
+   additional prominence through the author's later work (1888) and the
+   recent endorsement by Paul Tannery (1894). Weierstrass, Cantor, and
+   Heine base their theories on infinite series, while Dedekind founds his
+   on the idea of a cut (Schnitt) in the system of real numbers,
+   separating all rational numbers into two groups having certain
+   characteristic properties. The subject has received later contributions
+   at the hands of Weierstrass, Kronecker (Crelle, 101), and Méray.
+
+   Continued fractions, closely related to irrational numbers (and due to
+   Cataldi, 1613), received attention at the hands of Euler, and at the
+   opening of the nineteenth century were brought into prominence through
+   the writings of Joseph Louis Lagrange. Other noteworthy contributions
+   have been made by Druckenmüller (1837), Kunze (1857), Lemke (1870), and
+   Günther (1872). Ramus (1855) first connected the subject with
+   determinants, resulting, with the subsequent contributions of Heine,
+   Möbius, and Günther, in the theory of Kettenbruchdeterminanten.
+   Dirichlet also added to the general theory, as have numerous
+   contributors to the applications of the subject.
+
+Transcendental numbers and reals
+
+   The first results concerning transcendental numbers were Lambert's 1761
+   proof that π cannot be rational, and also that e^n is irrational if n
+   is rational (unless n = 0). (The constant e was first referred to in
+   Napier's 1618 work on logarithms.) Legendre extended this proof to
+   showed that π is not the square root of a rational number. The search
+   for roots of quintic and higher degree equations was an important
+   development, the Abel–Ruffini theorem ( Ruffini 1799, Abel 1824) showed
+   that they could not be solved by radicals (formula involving only
+   arithmetical operations and roots). Hence it was necessary to consider
+   the wider set of algebraic numbers (all solutions to polynomial
+   equations). Galois (1832) linked polynomial equations to group theory
+   giving rise to the field of Galois theory.
+
+   Even the set of algebraic numbers was not sufficient and the full set
+   of real number includes transcendental numbers. The existence of which
+   was first established by Liouville (1844, 1851). Hermite proved in 1873
+   that e is transcendental and Lindemann proved in 1882 that π is
+   transcendental. Finally Cantor shows that the set of all real numbers
+   is uncountably infinite but the set of all algebraic numbers is
+   countably infinite, so there is an uncountably infinite number of
+   transcendental numbers.
+
+Infinity
+
+   The earliest known conception of mathematical infinity appears in the
+   Yajur Veda, which at one point states "if you remove a part from
+   infinity or add a part to infinity, still what remains is infinity".
+   Infinity was a popular topic of philosophical study among the Jain
+   mathematicians circa 400 BC. They distinguished between five types of
+   infinity: infinite in one and two directions, infinite in area,
+   infinite everywhere, and infinite perpetually.
+
+   In the West, the traditional notion of mathematical infinity was
+   defined by Aristotle, who distinguished between actual infinity and
+   potential infinity; the general consensus being that only the latter
+   had true value. Galileo's Two New Sciences discussed the idea of
+   one-to-one correspondences between infinite sets. But the next major
+   advance in the theory was made by Georg Cantor; in 1895 he published a
+   book about his new set theory, introducing, among other things, the
+   continuum hypothesis.
+
+   A modern geometrical version of infinity is given by projective
+   geometry, which introduces "ideal points at infinity," one for each
+   spatial direction. Each family of parallel lines in a given direction
+   is postulated to converge to the corresponding ideal point. This is
+   closely related to the idea of vanishing points in perspective drawing.
+
+Complex numbers
+
+   The earliest fleeting reference to square roots of negative numbers
+   occurred in the work of the Greek mathematician and inventor Heron of
+   Alexandria in the 1st century AD, when he considered the volume of an
+   impossible frustum of a pyramid. They became more prominent when in the
+   16th century closed formulas for the roots of third and fourth degree
+   polynomials were discovered by Italian mathematicians (see Niccolo
+   Fontana Tartaglia, Gerolamo Cardano). It was soon realized that these
+   formulas, even if one was only interested in real solutions, sometimes
+   required the manipulation of square roots of negative numbers.
+
+   This was doubly unsettling since they did not even consider negative
+   numbers to be on firm ground at the time. The term "imaginary" for
+   these quantities was coined by René Descartes in 1637 and was meant to
+   be derogatory (see imaginary number for a discussion of the "reality"
+   of complex numbers). A further source of confusion was that the
+   equation \sqrt{-1}^2=\sqrt{-1}\sqrt{-1}=-1 seemed to be capriciously
+   inconsistent with the algebraic identity \sqrt{a}\sqrt{b}=\sqrt{ab} ,
+   which is valid for positive real numbers a and b, and which was also
+   used in complex number calculations with one of a, b positive and the
+   other negative. The incorrect use of this identity (and the related
+   identity \frac{1}{\sqrt{a}}=\sqrt{\frac{1}{a}} ) in the case when both
+   a and b are negative even bedeviled Euler. This difficulty eventually
+   led him to the convention of using the special symbol i in place of
+   \sqrt{-1} to guard against this mistake.
+
+   The 18th century saw the labors of Abraham de Moivre and Leonhard
+   Euler. To De Moivre is due (1730) the well-known formula which bears
+   his name, de Moivre's formula:
+
+          (\cos \theta + i\sin \theta)^{n} = \cos n \theta + i\sin n
+          \theta \,
+
+   and to Euler (1748) Euler's formula of complex analysis:
+
+          \cos \theta + i\sin \theta = e ^{i\theta }. \,
+
+   The existence of complex numbers was not completely accepted until the
+   geometrical interpretation had been described by Caspar Wessel in 1799;
+   it was rediscovered several years later and popularized by Carl
+   Friedrich Gauss, and as a result the theory of complex numbers received
+   a notable expansion. The idea of the graphic representation of complex
+   numbers had appeared, however, as early as 1685, in Wallis's De Algebra
+   tractatus.
+
+   Also in 1799, Gauss provided the first generally accepted proof of the
+   fundamental theorem of algebra, showing that every polynomial over the
+   complex numbers has a full set of solutions in that realm. The general
+   acceptance of the theory of complex numbers is not a little due to the
+   labors of Augustin Louis Cauchy and Niels Henrik Abel, and especially
+   the latter, who was the first to boldly use complex numbers with a
+   success that is well known.
+
+   Gauss studied complex numbers of the form a + bi, where a and b are
+   integral, or rational (and i is one of the two roots of x^2 + 1 = 0).
+   His student, Ferdinand Eisenstein, studied the type a + bω, where ω is
+   a complex root of x^3 − 1 = 0. Other such classes (called cyclotomic
+   fields) of complex numbers are derived from the roots of unity x^k − 1
+   = 0 for higher values of k. This generalization is largely due to
+   Kummer, who also invented ideal numbers, which were expressed as
+   geometrical entities by Felix Klein in 1893. The general theory of
+   fields was created by Évariste Galois, who studied the fields generated
+   by the roots of any polynomial equation
+
+          \ F(x) = 0.
+
+   In 1850 Victor Alexandre Puiseux took the key step of distinguishing
+   between poles and branch points, and introduced the concept of
+   essential singular points; this would eventually lead to the concept of
+   the extended complex plane.
+
+Prime numbers
+
+   Prime numbers have been studied throughout recorded history. Euclid
+   devoted one book of the Elements to the theory of primes; in it he
+   proved the infinitude of the primes and the fundamental theorem of
+   arithmetic, and presented the Euclidean algorithm for finding the
+   greatest common divisor of two numbers.
+
+   In 240 BC, Eratosthenes used the Sieve of Eratosthenes to quickly
+   isolate prime numbers. But most further development of the theory of
+   primes in Europe dates to the Renaissance and later eras.
+
+   In 1796, Adrien-Marie Legendre conjectured the prime number theorem,
+   describing the asymptotic distribution of primes. Other results
+   concerning the distribution of the primes include Euler's proof that
+   the sum of the reciprocals of the primes diverges, and the Goldbach
+   conjecture which claims that any sufficiently large even number is the
+   sum of two primes. Yet another conjecture related to the distribution
+   of prime numbers is the Riemann hypothesis, formulated by Bernhard
+   Riemann in 1859. The prime number theorem was finally proved by Jacques
+   Hadamard and Charles de la Vallée-Poussin in 1896.
+   Retrieved from " http://en.wikipedia.org/wiki/Number"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

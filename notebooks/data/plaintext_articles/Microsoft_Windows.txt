@@ -1,0 +1,311 @@
+   #copyright
+
+Microsoft Windows
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   CAPTION: Microsoft Windows
+
+   Windows logo
+   Screenshot of Windows Vista, the newest release of Microsoft Windows.
+   Company/ developer: Microsoft Corporation
+   OS family: MS-DOS-based, Windows NT, Windows 9x, Windows CE
+   Source model: Closed source
+   Stable release: Windows Vista
+   NT 6.0  ( November 8, 2006) [[ +/-]]
+   Preview release: Windows Server "Longhorn"
+   August 2006 CTP
+   NT 6.0.5600  ( September 12, 2006) [[ +/-]]
+
+   License: MS- EULA
+   Working state: Current
+   Website: Microsoft Windows
+
+   Microsoft Windows is a family of operating systems by Microsoft. They
+   can run on several types of platforms such as servers, embedded devices
+   and, most typically, on personal computers. Microsoft first introduced
+   an operating environment named Windows in November 1985 as an add-on to
+   MS-DOS in response to the growing trend of graphical user interfaces
+   (GUI) popularized by the Macintosh. Microsoft Windows eventually came
+   to dominate the world's personal computer market. At the 2004 IDC
+   Directions conference, IDC Vice President Avneesh Saxena stated that
+   Windows had approximately 90% of the client operating system market.
+
+Versions
+
+   The term Windows collectively describes any or all of several
+   generations of Microsoft (MS) operating system (OS) products. These
+   products are generally categorized as follows:
+
+16-bit operating environments
+
+   The early versions of Windows were often thought of as just graphical
+   user interfaces or desktops, mostly because they were started from
+   MS-DOS and used it for file system services. However even the earliest
+   16-bit Windows versions already assumed many typical operating system
+   functions, notably having their own executable file format and
+   providing their own device drivers (timer, graphics, printer, mouse,
+   keyboard and sound) for applications. Unlike MS-DOS, Windows allowed
+   users to execute multiple graphical applications at the same time,
+   through cooperative multitasking. Finally, Windows implemented an
+   elaborate, segment-based, software virtual memory scheme which allowed
+   it to run applications larger than available memory: code segments and
+   resources were swapped in and thrown away when memory became scarce,
+   and data segments moved in memory when a given application had
+   relinquished processor control, typically waiting for user input.
+   Examples include Windows 1.0 (1985) and Windows 2.0 (1987) and its
+   close relative Windows/286.
+
+Hybrid 16/32-bit operating environments
+
+   Windows/386 introduced a 32-bit protected mode kernel and virtual
+   machine monitor. For the duration of a Windows session, it created one
+   or more virtual 8086 environments and provided device virtualization
+   for the video card, keyboard, mouse, timer and interrupt controller
+   inside each of them. The user-visible consequence was that it became
+   possible to preemptively multitask multiple MS-DOS environments in
+   separate windows (graphical applications required switching the window
+   to full screen mode). Windows applications were still multi-tasked
+   cooperatively inside one of such real-mode environments.
+
+   Windows 3.0 (1990) and Windows 3.1 (1992) improved the design, mostly
+   thanks to virtual memory and loadable virtual device drivers ( VxDs)
+   which allowed them to share arbitrary devices between multitasked DOS
+   windows. Because of this, Windows applications could now run in 16-bit
+   protected mode (when Windows was running in Standard or 386 Enhanced
+   Mode), which gave them access to several megabytes of memory and
+   removed the obligation to participate in the software virtual memory
+   scheme. They still ran inside the same address space, where the
+   segmented memory provided a degree of protection, and multi-tasked
+   cooperatively. For Windows 3.0, Microsoft also rewrote critical
+   operations from C into assembly, making this release faster and less
+   memory-hungry than its predecessors.
+
+Hybrid 16/32-bit operating systems
+
+   With the introduction of 32-bit File Access in Windows for Workgroups
+   3.11, Windows could finally stop relying on DOS for file management.
+   Leveraging this, Windows 95 introduced Long File Names, reducing the
+   8.3 DOS to the role of a boot loader. MS-DOS was now bundled with
+   Windows; this notably made it (partially) aware of long file names when
+   its utilities were run from within Windows, but angered the
+   competition. The most important novelty was the possibility of running
+   32-bit multi-threaded preemptively multitasked graphical programs.
+   However, the necessity of keeping compatibility with 16-bit programs
+   meant the GUI components were still 16-bit only and not fully
+   reentrant, which resulted in reduced performance and stability.
+
+   There were three releases of Windows 95 (the first in 1995, then
+   subsequent bug-fix versions in 1996 and 1997, only released to OEMs,
+   which added extra features such as FAT32 support). Microsoft's next OS
+   was Windows 98; there were two versions of this (the first in 1998 and
+   the second, named "Windows 98 Second Edition", in 1999). In 2000,
+   Microsoft released Windows Me (Me standing for Millennium Edition),
+   which used the same core as Windows 98 but adopted the visual
+   appearance of Windows 2000, as well as a new feature called System
+   Restore, allowing the user to set the computer's settings back to an
+   earlier date. It was not a very well received implementation, and many
+   user problems occurred. Windows Me was considered a stopgap to the day
+   both product lines would be seamlessly merged. Microsoft left little
+   time for Windows Me to become popular before announcing their next
+   version of Windows which would be called Windows XP.
+
+32-bit operating systems
+
+   This family of Windows systems was designed and marketed for
+   higher-reliability business use, and was unencumbered by any Microsoft
+   DOS heritage. The first release was Windows NT 3.1 (1993, numbered
+   "3.1" to match the Windows version and to one-up OS/2 2.1, IBM's
+   flagship OS codeveloped by Microsoft and Windows NT's main competitor
+   at the time), which was followed by NT 3.5 (1994), NT 3.51 (1995), and
+   NT 4.0 (1996); the latter implemented the Windows 95 user interface.
+   Microsoft then moved to combine their consumer and business operating
+   systems. Their first attempt, Windows 2000, failed to meet their goals,
+   and was released as a business system. The home consumer edition of
+   Windows 2000, codenamed " Windows Neptune", ceased development and
+   Microsoft released Windows Me in its place. Eventually "Neptune" was
+   merged into their new project, Whistler, which later became Windows XP.
+   Since then, a new business system, Windows Server 2003, has expanded
+   the top end of the range, and the forthcoming Windows Vista will
+   complete it. Windows CE, Microsoft's offering in the mobile and
+   embedded markets, is also a true 32-bit operating system.
+
+64-bit operating systems
+
+   Windows NT included support for several different platforms before the
+   x86-based personal computer became dominant in the professional world.
+   Versions of NT from 3.1 to 4.0 supported DEC Alpha and MIPS R4000,
+   which were 64-bit processors, although the operating system treated
+   them as 32-bit processors.
+
+   With the introduction of the IA-64 ( Itanium) architecture, and later
+   the AMD64/ EM64T (or x64 in Microsoft terminology) architectures,
+   Microsoft released new versions of its more contemporary operating
+   systems to support them. The modern 64-bit Windows family comprises
+   Windows XP 64-bit Edition for IA-64 systems, Windows XP Professional
+   x64 Edition for AMD64/EM64T systems, and Windows Server 2003, in both
+   IA-64 and x64 editions. The x64 versions of Windows XP Professional and
+   Server 2003 were released on April 25, 2005, while the IA-64 versions
+   were released at the same time as their mainstream x86 (32-bit)
+   counterparts. Windows Vista will be the first end-user version of
+   Windows that Microsoft plans to release simultaneously in 32-bit and
+   x64 editions.
+
+History
+
+   Microsoft has taken two parallel routes in operating systems. One route
+   has been the home user and the other has been the professional IT user.
+   The dual route has generally led to the home versions with more "eye
+   candy" and less functionality in networking and security, and
+   professional versions with less "eye candy" and better networking and
+   security.
+
+   The first independent version of Microsoft Windows, version 1.0,
+   released in November 1985, lacked a degree of functionality and
+   achieved little popularity. Windows 1.0 did not provide a complete
+   operating system; rather, it extended MS-DOS. Microsoft Windows version
+   2.0 was released in November, 1987 and was slightly more popular than
+   its predecessor. Windows 2.03 (release date January 1988) had changed
+   the OS from tiled windows to overlapping windows. The result of this
+   change led to Apple Computer filing a suit against Microsoft alleging
+   infringement on Apple's copyrights.
+
+   Microsoft Windows version 3.0, released in 1990, was the first
+   Microsoft Windows version to achieve broad commercial success, selling
+   2 million copies in the first six months. It featured improvements to
+   the user interface and to multitasking capabilities. In August 1995,
+   Microsoft released Windows 95, which made further changes to the user
+   interface and was the first Windows version to utilize multitasking.
+
+   In July 1993, Microsoft released Windows NT based on a new kernel. NT
+   was considered to be the professional OS. NT and the Windows
+   non-professional line would later be fused together to create Windows
+   XP.
+
+   The next in line was Microsoft Windows 98 released in June 1998.
+   Substantially criticized for its slowness compared with Windows 95,
+   many of its basic problems were later rectified with the release of
+   Windows 98 Second Edition in 1999.
+
+   As part of its professional line, Microsoft released Windows 2000 in
+   February 2000. The consumer version following Windows 98 was Windows Me
+   (Windows Millennium Edition). Released in September 2000, Windows Me
+   attempted to implement a number of new technologies for Microsoft: most
+   notably publicized was " Universal Plug and Play." However, the OS was
+   substantially criticized for its lack of compatibility and stability.
+
+   In October 2001, Microsoft released Windows XP, a version built on the
+   Windows NT kernel that also retained the consumer-oriented usability of
+   Windows 95 and its successors. This new version was widely praised in
+   computer magazines. It shipped in two distinct editions, "Home" and
+   "Professional", the former lacking many of the superior security and
+   networking features of the Professional edition. Additionally, the
+   "Media Centre" edition was released in 2003, with an emphasis on
+   support for DVD and TV functionality including program recording and a
+   remote control.
+
+   In April 2003, Windows Server 2003 was introduced, replacing the
+   Windows 2000 line of server products with a number of new features and
+   a strong focus on security; this was followed in December 2005 by
+   Windows Server 2003 R2.
+
+   Windows Vista, the successor to Windows XP, is due to be released on
+   January 30, 2007. Windows Server 2003's successor will be Windows
+   Server "Longhorn", and has a planned release date in the second half of
+   2007.
+
+Security
+
+   Security has been a hot topic with Windows for many years, and even
+   Microsoft itself has been the victim of security breaches. Due in some
+   part to the widespread usage of Windows on personal computers, as well
+   as a number of technical reasons there is reportedly a five-fold
+   greater amount of malware for Windows than other operating systems such
+   as GNU/ Linux, Unix, Mac OS X, and FreeBSD. Windows was originally
+   designed for ease-of-use on a single-user PC without a network
+   connection, and did not have security features built in from the
+   outset. Windows NT and its successors are designed for security
+   (including on a network) and multi-user PCs, but was not designed for
+   Internet security in mind as much since, when it was first developed,
+   the Internet was less important. Combined with occasionally flawed code
+   (such as buffer overflows), Windows is a frequent target of worms and
+   virus writers. Furthermore, until Windows Server 2003 most versions of
+   even Windows NT were shipped with important security features disabled
+   by default, and vulnerable (albeit useful) system services enabled by
+   default. In June 2005, Bruce Schneier's Counterpane Internet Security
+   reported that it had seen over 1,000 new viruses and worms in the
+   previous six months.
+
+   Microsoft publicly admitted their ongoing security problems shortly
+   after the turn of the century and now claims to regard security as
+   their number one priority. The much-needed Automatic Update came first
+   with Windows Me. As a result, Service Pack 2 for Windows XP, as well as
+   Windows Server 2003, was installed by users more quickly than it might
+   have been. Microsoft releases security patches through its Windows
+   Update service approximately once a month (usually the second Tuesday
+   of the month), although critical updates are made available at shorter
+   intervals when necessary. In Windows 2000 (SP3 and later), Windows XP
+   and Windows Server 2003, updates can be automatically downloaded and
+   installed if the user selects to do so.
+
+Windows Defender
+
+   On 6 January 2005, Microsoft released a beta version of Windows
+   AntiSpyware, based upon the previously released Giant AntiSpyware. On
+   14 February 2006, Windows AntiSpyware became Windows Defender with the
+   release of beta 2. Windows Defender is a freeware program designed to
+   protect against spyware and other unwanted software.
+
+   Paul Thurrott's Supersite for Windows gave Defender Beta 2 a stellar
+   review; it received more middling reviews from other publications such
+   as PC Magazine. and CNet. Windows 2000 and Windows XP users can freely
+   download the program from Microsoft's web site, and Microsoft has
+   stated that Windows Defender will ship as part of Windows Vista.
+
+Third-party analysis
+
+   A study conducted by Kevin Mitnick and marketing communications firm
+   Avantgarde found that an unprotected and unpatched Windows XP system
+   lasted only 4 minutes on the Internet before it was compromised. The
+   AOL National Cyber Security Alliance Online Safety Study of October
+   2004 determined that 80% of Windows users were infected by at least one
+   spyware/ adware product. Much documentation is available describing how
+   to increase the security of Microsoft Windows products. Typical
+   suggestions include deploying Microsoft Windows behind a hardware or
+   software firewall, running anti-virus and anti-spyware software, and
+   installing patches as they become available through Windows Update.
+
+Emulation software
+
+   Emulation allows the use of some Windows applications without using
+   Microsoft Windows. These include:
+     * Wine – (Wine Is Not an Emulator) an almost complete free software/
+       open-source software implementation of the Windows API, allowing
+       one to run most Windows applications on x86 Unix-based platforms,
+       including GNU/Linux.
+     * CrossOver Office – a commercially packaged Wine with licensed
+       fonts. Its developers are regular contributors to Wine, and focus
+       on Wine running officially supported applications.
+     * Cedega (formerly known as WineX) – TransGaming Technologies'
+       proprietary fork of Wine, which is designed specifically for
+       running games written for Microsoft Windows under GNU/ Linux.
+     * ReactOS – open-source operating system, aimed to be compatible with
+       existing Windows NT applications and drivers.
+     * Project David – ambitious and controversial project to fully
+       emulate Windows programs to run on other OSs.
+     * Parallels Workstation - by Parallels, Inc.
+     * Virtual PC - Virtual PC for Mac OS X is an emulation suite, and
+       Virtual PC for Windows is a virtualization suite. The software was
+       originally written by Connectix, and was subsequently acquired by
+       Microsoft. Virtual PC for Mac emulates an x86-32 CPU, therefore can
+       also support other OSs, but has specific support for Windows.
+     * Darwine - this project intends to port and develop Wine as well as
+       other supporting tools that will allow Darwin and Mac OS X users to
+       run Microsoft Windows Applications, and to provide Win32 API
+       compatibility at application source code level.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Microsoft_Windows"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

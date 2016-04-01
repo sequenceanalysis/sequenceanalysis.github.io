@@ -1,0 +1,143 @@
+   #copyright
+
+Tim Berners-Lee
+
+2007 Schools Wikipedia Selection. Related subjects: Computing People
+
+   Sir Timothy John "Tim" Berners-Lee, KBE (born June 8, 1955 in London,
+   England) is the inventor of the World Wide Web and director of the
+   World Wide Web Consortium, which oversees its continued development.
+   Informally, in technical circles, he is sometimes called "TimBL" or
+   "TBL".
+
+Background and early career
+
+   Berners-Lee was born in London, England, the son of Conway Berners-Lee
+   and Mary Lee Woods. His parents, both mathematicians, were employed
+   together on the team that built the Manchester Mark I, one of the
+   earliest computers. They taught Berners-Lee to use mathematics
+   everywhere, even at the dinner table. Berners-Lee attended Sheen Mount
+   Primary School (which has dedicated a new hall in his honour) before
+   moving on to study his O-Levels and A-Levels at Emanuel School in
+   Wandsworth where he learned about computer science. He is an alumnus of
+   Queen's College (where he played tiddlywinks for Oxford, against rival
+   Cambridge), Oxford University (which has dedicated a computer room in
+   his honour), where he built a computer with a soldering iron, TTL
+   gates, an M6800 processor and an old television. While at Oxford, he
+   was caught hacking with a friend and was subsequently banned from using
+   the university computer.
+
+   He was employed at Plessey Controls Limited (in Poole whose main
+   business is traffic lights) in 1976 as a programmer. He met his first
+   wife Jane while at Oxford and they married soon after they started work
+   in Poole. Jane also worked at Plessey Telecommunications Limited in
+   Poole. In 1978, he worked at D.G. Nash Limited (also in Poole) where he
+   wrote typesetting software and an operating system.
+
+World Wide Web
+
+   This NeXTcube was used by Berners-Lee at CERN and became the first Web
+   server.
+   Enlarge
+   This NeXTcube was used by Berners-Lee at CERN and became the first Web
+   server.
+
+   While an independent contractor at CERN from June to December 1980,
+   Berners-Lee proposed a project based on the concept of hypertext, to
+   facilitate sharing and updating information among researchers. While
+   there, he built a prototype system named ENQUIRE.
+
+   After leaving CERN in 1980 to work at John Poole's Image Computer
+   Systems Ltd., he returned in 1984 as a fellow. In 1989, CERN was the
+   largest Internet node in Europe, and Berners-Lee saw an opportunity to
+   join hypertext with the Internet: "I just had to take the hypertext
+   idea and connect it to the TCP and DNS ideas and — ta-da! — the World
+   Wide Web." . He wrote his initial proposal in March of 1989, and in
+   1990, with the help of Robert Cailliau, produced a revision which was
+   accepted by his manager, Mike Sendall. He used similar ideas to those
+   underlying the Enquire system to create the World Wide Web, for which
+   he designed and built the first web browser and editor (called
+   WorldWideWeb and developed on NEXTSTEP) and the first Web server called
+   httpd (short for HyperText Transfer Protocol daemon).
+
+   The first Web site built was at http://info.cern.ch/ and was first put
+   online on August 6, 1991. It provided an explanation about what the
+   World Wide Web was, how one could own a browser and how to set up a Web
+   server. It was also the world's first Web directory, since Berners-Lee
+   maintained a list of other Web sites apart from his own.
+
+   In 1994, Berners-Lee founded the World Wide Web Consortium (W3C) at the
+   Massachusetts Institute of Technology. It comprised various companies
+   willing to create standards and recommendations to improve the quality
+   of the Web. In December 2004 he accepted a chair in Computer Science at
+   the School of Electronics and Computer Science, University of
+   Southampton, UK, where he will be working on his new project — the
+   Semantic Web.
+
+   Berners-Lee made his idea available freely, with no patent and no
+   royalties due. The World Wide Web Consortium decided that their
+   standards must be based on royalty-free technology, so they can be
+   easily adopted by anyone.
+
+Weaving the Web
+
+   In Berners-Lee's book Weaving the Web, several recurring themes are
+   apparent:
+     * It is just as important to be able to edit the Web as browse it. (
+       Wiki is a step in this direction, although Berners-Lee considers it
+       merely a shadow of the WYSIWYG functionality of his first browser.)
+     * Computers can be used for background tasks that enable humans to
+       work better in groups.
+     * Every aspect of the Internet should function as a Web, rather than
+       a hierarchy. Notable current exceptions are the Domain Name System
+       and the domain naming rules managed by ICANN.
+     * Computer scientists have a moral responsibility as well as a
+       technical responsibility.
+
+Recognition
+
+     * The University of Southampton was the first to recognise
+       Berners-Lee's contribution to developing the World Wide Web with an
+       honorary degree in 1996 and he currently holds a Chair of Computer
+       Science in the School of Electronics and Computer Science. He was
+       the first holder of the 3Com Founders Chair at MIT, and is also now
+       a Senior Research Scientist there. He is a Distinguished Fellow of
+       the British Computer Society, an Honorary Fellow of the Institution
+       of Electrical Engineers, and a member of the American Academy of
+       Arts and Sciences.
+     * In 1997 he was made an Officer in the Order of the British Empire,
+       became a Fellow of the Royal Society in 2001, and received the
+       Japan Prize in 2002. In 2002 he received the Principe de Asturias
+       award in the category of Scientific and Technical Research. He
+       shared the prize with Lawrence Roberts, Robert Kahn and Vinton
+       Cerf. Also in 2002, the British public named him among the 100
+       Greatest Britons of all time, according to a BBC poll spanning the
+       entire history of the nation.
+     * On April 15, 2004 he was named as the first recipient of Finland's
+       Millennium Technology Prize for inventing the World Wide Web. The
+       cash prize, worth one million euros (about £663,000 or USD$1.2
+       million), was awarded on June 15, in Helsinki, Finland by President
+       of the Republic of Finland, Tarja Halonen.
+     * He was given the rank of Knight Commander (the second-highest rank
+       in the Order of the British Empire) by Queen Elizabeth II as part
+       of the New Year's Honours on July 16, 2004.
+     * On July 21, 2004 he was presented with the degree of Doctor of
+       Science ( honoris causa) from Lancaster University.
+     * On January 27, 2005 he was named Greatest Briton of 2004 for his
+       achievements as well as displaying the key English characteristics
+       of "diffidence, determination, a sharp sense of humour and
+       adaptability" as put by David Hempleman-Adams, a panel member. Time
+       Magazine included Berners-Lee in its list of the 100 most
+       influential people of the 20th century, published in 1999.
+
+Works
+
+     * Berners-Lee, Tim, Mark Fischetti (1999). Weaving the Web: Origins
+       and Future of the World Wide Web. Britain: Orion Business. ISBN
+       0-7528-2090-7.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Tim_Berners-Lee"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

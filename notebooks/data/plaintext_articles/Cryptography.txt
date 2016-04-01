@@ -1,0 +1,671 @@
+   #copyright
+
+Cryptography
+
+2007 Schools Wikipedia Selection. Related subjects: Cryptography
+
+   The German Lorenz cipher machine, used in World War II for encryption
+   of very high-level general staff messages
+   Enlarge
+   The German Lorenz cipher machine, used in World War II for encryption
+   of very high-level general staff messages
+
+   Cryptography (or cryptology; derived from Greek κρυπτός kryptós
+   "hidden," and the verb γράφω gráfo "write") is the study of message
+   secrecy. In modern times, it has become a branch of information theory,
+   as the mathematical study of information and especially its
+   transmission from place to place. The noted cryptographer Ron Rivest
+   has observed that "cryptography is about communication in the presence
+   of adversaries." It is a central contributor to several fields:
+   information security and related issues, particularly, authentication,
+   and access control. One of cryptography's primary purposes is hiding
+   the meaning of messages, not usually the existence of such messages.
+   Cryptography also contributes to computer science, central to the
+   techniques used in computer and network security for such things as
+   access control and information confidentiality. Cryptography is also
+   used in many applications encountered in everyday life; the security of
+   ATM cards, computer passwords, and electronic commerce all depend on
+   cryptography.
+
+Terminology
+
+   The term is often used to refer to the field as a whole, as is
+   cryptology ("the study of secrets"). The study of how to circumvent the
+   confidentiality sought by using encryption is called cryptanalysis or,
+   more loosely, "codebreaking." The field is a rich source of jargon,
+   some of it humorous.
+
+   Until modern times, cryptography referred almost exclusively to
+   encryption, the process of converting ordinary information ( plaintext)
+   into something unintelligible; this is a ciphertext. Decryption is the
+   reverse, moving from unintelligible ciphertext to plaintext. A cipher
+   (or cypher) is a pair of algorithms which perform this encryption and
+   the reversing decryption. The detailed operation of a cipher is
+   controlled both by the algorithm and, in each instance, by a key. This
+   is a secret parameter (known only to the communicants) for the cipher
+   algorithm. Keys are important as ciphers without variable keys are
+   trivially breakable and so rather less than useful. Historically,
+   ciphers were often used directly for encryption or decryption without
+   additional procedures.
+
+   In colloquial use, the term " code" is often used to mean any method of
+   encryption or concealment of meaning. However, within cryptography,
+   code has a more specific meaning; it means the replacement of a unit of
+   plaintext (i.e., a meaningful word or phrase) with a code word (for
+   example, apple pie replaces attack at dawn). Codes are no longer used
+   in serious cryptography—except incidentally for such things as unit
+   designations (eg, 'Bronco Flight')—since properly chosen ciphers are
+   both more practical and more secure than even the best codes, and
+   better adapted to computers as well.
+
+   Some use the English terms cryptography and cryptology interchangeably,
+   while others use cryptography to refer to the use and practice of
+   cryptographic techniques, and cryptology to refer to the subject as a
+   field of study. In this respect, English usage is more tolerant of
+   overlapping meanings than are several European languages.
+
+History of cryptography and cryptanalysis
+
+   The Ancient Greek scytale, probably much like this modern
+   reconstruction, may have been one of the earliest devices used to
+   implement a cipher.
+   Enlarge
+   The Ancient Greek scytale, probably much like this modern
+   reconstruction, may have been one of the earliest devices used to
+   implement a cipher.
+
+   Before the modern era, cryptography was concerned solely with message
+   confidentiality (i.e., encryption) — conversion of messages from a
+   comprehensible form into an incomprehensible one, and back again at the
+   other end, rendering it unreadable by interceptors or eavesdroppers
+   without secret knowledge (namely, the key needed for decryption). In
+   recent decades, the field has expanded beyond confidentiality concerns
+   to include techniques for authentication of message integrity or
+   sender/receiver identity, digital signatures, interactive proofs, and
+   secure computation.
+
+   The earliest forms of secret writing required little more than pen and
+   paper. The main classical cipher types are transposition ciphers, which
+   rearrange the order of letters in a message (e.g. 'help me' becomes
+   'ehpl em' in a trivially simple rearrangement scheme); and substitution
+   ciphers, which systematically replace letters or groups of letters with
+   other letters or groups of letters (e.g., 'fly at once' becomes 'gmz bu
+   podf' by replacing each letter with the one following it in the
+   alphabet). Simple versions of either offered little confidentiality,
+   and still don't. An early substitution cipher was the Caesar cipher, in
+   which each letter in the plaintext was replaced by a letter some fixed
+   number of positions further down the alphabet. It was named after
+   Julius Caesar who is reported to have used it, with a shift of 3, to
+   communicate with his generals during his military campaigns.
+
+   Encryption attempts to ensure secrecy in communications, such as those
+   of spies, military leaders, and diplomats, but it has also had
+   religious applications. For instance, early Christians used
+   cryptography to obfuscate some aspects of their religious writings to
+   avoid the near certain persecution they would have faced had they been
+   less obscured; famously, 666, the Number of the Beast from the
+   Christian New Testament Book of Revelation, is sometimes thought to be
+   a ciphertext referring to the Roman Emperor Nero, one of whose policies
+   was persecution of Christians. There is record of several, even
+   earlier, Hebrew ciphers as well. Cryptography is recommended in the
+   Kama Sutra as a way for lovers to communicate without inconvenient
+   discovery. Steganography (i.e., hiding even the existence of a message
+   so as to keep it confidential) was also first developed in ancient
+   times. An early example, from Herodotus, concealed a message - a tattoo
+   on a slave's shaved head - by regrown hair. More modern examples of
+   steganography include the use of invisible ink, microdots, and digital
+   watermarks to conceal information .
+
+   Ciphertexts produced by classical ciphers always reveal statistical
+   information about the plaintext, which can often be used to break them.
+   After the Arab discovery of frequency analysis (around the year 1000),
+   nearly all such ciphers became more or less readily breakable by an
+   informed attacker. Such classical ciphers still enjoy popularity today,
+   though mostly as puzzles (see cryptogram). Essentially all ciphers
+   remained vulnerable to cryptanalysis using this technique until the
+   invention of the polyalphabetic cipher by Leon Battista Alberti around
+   the year 1467. Alberti's innovation was to use different ciphers (ie,
+   substitution alphabets) for various parts of a message (often each
+   successive plaintext letter). He also invented what was probably the
+   first automatic cipher device, a wheel which implemented a partial
+   realization of his invention. In the polyalphabetic Vigenère cipher
+   encryption uses a key word, which controls letter substitution
+   depending on which letter of the key word is used. Despite this
+   improvement, polyalphabetic ciphers of this type remained partially
+   vulnerable to frequency analysis techniques, though this was
+   undiscovered until the mid 1800s by Babbage.
+   The Enigma machine, used in several variants by the German military
+   between the late 1920s and the end of World War II, implemented a
+   complex electro-mechanical polyalphabetic cipher to protect sensitive
+   communications. Breaking the Enigma cipher at the Biuro Szyfrów, and
+   the subsequent large-scale decryption of Enigma traffic at Bletchley
+   Park, was an important factor contributing to the Allied victory in
+   WWII.
+   Enlarge
+   The Enigma machine, used in several variants by the German military
+   between the late 1920s and the end of World War II, implemented a
+   complex electro-mechanical polyalphabetic cipher to protect sensitive
+   communications. Breaking the Enigma cipher at the Biuro Szyfrów, and
+   the subsequent large-scale decryption of Enigma traffic at Bletchley
+   Park, was an important factor contributing to the Allied victory in
+   WWII.
+
+   Although frequency analysis is a powerful and general technique,
+   encryption was still often effective in practice: many a would-be
+   cryptanalyst was unaware of the technique. Breaking a message without
+   frequency analysis essentially required knowledge of the cipher used,
+   thus encouraging espionage, bribery, burglary, defection, etc. to
+   discover it. It was finally recognized in the 19th century that secrecy
+   of a cipher's algorithm is not a sensible, nor practical, safeguard: in
+   fact, any adequate cryptographic scheme (including ciphers) should
+   remain secure even if the adversary knows the cipher algorithm itself.
+   Secrecy of the key should alone be sufficient for confidentiality when
+   under attack — for good ciphers. This fundamental principle was first
+   explicitly stated in 1883 by Auguste Kerckhoffs and is called
+   Kerckhoffs' principle; alternatively and more bluntly, it was restated
+   by Claude Shannon as Shannon's Maxim — 'the enemy knows the system'.
+
+   Various physical devices and aids have been used to assist with
+   ciphers. One of the earliest may have been the scytale of ancient
+   Greece, a rod supposedly used by the Spartans as an aid for a
+   transposition cipher. In medieval times, other aids were invented such
+   as the cipher grille, also used for a kind of steganography. With the
+   invention of polyalphabetic ciphers came more sophisticated aids such
+   as Alberti's own cipher disk, Johannes Trithemius' tabula recta scheme,
+   and Thomas Jefferson's multi-cylinder (invented independently by
+   Bazeries around 1900). Early in the 20th century, several mechanical
+   encryption/decryption devices were invented, and many patented,
+   including rotor machines — most famously the Enigma machine used by
+   Germany in World War II. The ciphers implemented by the better of these
+   designs brought about a substantial increase in cryptanalytic
+   difficulty.
+
+   The development of digital computers and electronics after WWII made
+   possible much more complex ciphers. Furthermore, computers allowed for
+   the encryption of any kind of data that is represented by computers in
+   binary unlike classical ciphers which only encrypted written text,
+   dissolving the need for a linguistic approach to cryptanalysis. Many
+   computer ciphers can be characterised by their operation on binary bits
+   (sometimes in groups or blocks), unlike classical and mechanical
+   schemes, which generally manipulate traditional characters (i.e.,
+   letters and digits). However, computers have also assisted
+   cryptanalysis, which has compensated to some extent for increased
+   cipher complexity. Nonetheless, good modern ciphers have stayed ahead
+   of cryptanalysis: it is usually the case that use of a quality cipher
+   is very efficient, while breaking it requires an effort many orders of
+   magnitude larger, making cryptanalysis so inefficient and impractical
+   as to be effectively impossible.
+
+   Extensive open academic research into cryptography is relatively recent
+   — it began only in the mid-1970s with the public specification of DES
+   (the Data Encryption Standard) by the NBS, the Diffie-Hellman paper,
+   and the public release of the RSA algorithm. Since then, cryptography
+   has become a widely used tool in communications, computer networks, and
+   computer security generally. The security of many modern cryptographic
+   techniques is based on the difficulty of certain computational
+   problems, such as the integer factorisation problem or the discrete
+   logarithm problem. In many cases, there are proofs that cryptographic
+   techniques are secure if a certain computational problem cannot be
+   solved efficiently. With one notable exception - the one-time pad -
+   these contingent, and thus not definitive, proofs are the best
+   available for cryptographic algorithms and protocols.
+
+   As well as being aware of cryptographic history, cryptographic
+   algorithm and system designers must also sensibly consider probable
+   future developments in their designs. For instance, the continued
+   improvements in computer processing power has increased the scope of
+   brute-force attacks when specifying key lengths. The potential effects
+   of quantum computing are already being considered by some cryptographic
+   system designers.
+
+   Essentially, prior to the early 20th century, cryptography was chiefly
+   concerned with linguistic patterns. Since then the emphasis has
+   shifted, and cryptography now makes extensive use of mathematics,
+   including aspects of information theory, computational complexity,
+   statistics, combinatorics, abstract algebra, and number theory.
+   Cryptography is also a branch of engineering, but an unusual one as it
+   deals with active, intelligent, and malevolent opposition (see
+   cryptographic engineering and security engineering); all other kinds of
+   engineering need deal only with neutral natural forces. There is also
+   active research examining the relationship between cryptographic
+   problems and quantum physics (see quantum cryptography and quantum
+   computing).
+
+Modern cryptography
+
+   The modern field of cryptography can be divided into several areas of
+   study. The primary ones are discussed here; see Topics in Cryptography
+   for more.
+
+Symmetric-key cryptography
+
+   Symmetric-key cryptography refers to encryption methods in which both
+   the sender and receiver share the same key (or, less commonly, in which
+   their keys are different, but related in an easily computable way).
+   This was the only kind of encryption publicly known until 1976.
+   One round (out of 8.5) of the patented IDEA cipher, used in some
+   versions of PGP for high-speed encryption of, for instance, e-mail
+   Enlarge
+   One round (out of 8.5) of the patented IDEA cipher, used in some
+   versions of PGP for high-speed encryption of, for instance, e-mail
+
+   The modern study of symmetric-key ciphers relates mainly to the study
+   of block ciphers and stream ciphers and to their applications. A block
+   cipher is, in a sense, a modern embodiment of Alberti's polyalphabetic
+   cipher: block ciphers take as input a block of plaintext and a key, and
+   output a block of ciphertext of the same size. Since messages are
+   almost always longer than a single block, some method of knitting
+   together successive blocks is required. Several have been developed,
+   some with better security in one aspect of another than others. They
+   are the mode of operations and must be carefully considered when using
+   a block cipher in a cryptosystem.
+
+   DES and AES are block ciphers which have been designated cryptography
+   standards by the US government (though DES's designation was finally
+   withdrawn after the AES was adopted). Despite its deprecation as an
+   official standard, DES (especially its still-approved and much more
+   secure triple-DES variant) remains quite popular; it is used across a
+   wide range of applications, from ATM encryption to e-mail privacy and
+   secure remote access. Many other block ciphers have been designed and
+   released, with considerable variation in quality; Many have been
+   thoroughly broken. See Category:Block ciphers.
+
+   Stream ciphers, in contrast to the 'block' type, create an arbitrarily
+   long stream of key material, which is combined with the plaintext
+   bit-by- bit or character-by-character, somewhat like the one-time pad.
+   In a stream cipher, the output stream is created based on an internal
+   state which changes as the cipher operates. That state's change is
+   controlled by the key, and, in some stream ciphers, by the plaintext
+   stream as well. RC4 is an example of a well-known stream cipher; see
+   Category:Stream ciphers.
+
+   Cryptographic hash functions (often called message digest functions) do
+   not use keys, but are a related and important class of cryptographic
+   algorithms. They take input data (often an entire message), and output
+   a short, fixed length hash, and do so as a one-way function. For good
+   ones, collisions (two plaintexts which produce the same hash) are
+   extremely difficult to find.
+
+   Message authentication codes (MACs) are much like cryptographic hash
+   functions, except that a secret key is used to authenticate the hash
+   value on receipt.
+
+Public-key cryptography
+
+   Symmetric-key cryptosystems typically use the same key for encryption
+   and decryption. A significant disadvantage of symmetric ciphers is the
+   key management necessary to use them securely. Each distinct pair of
+   communicating parties must , ideally, share a different key. The number
+   of keys required increases as the square of the number of network
+   members, which very quickly requires complex key management schemes to
+   keep them all straight and secret. The difficulty of establishing a
+   secret key between two communicating parties, when a secure channel
+   doesn't already exist between them, also presents a chicken-and-egg
+   problem which is a considerable practical obstacle for cryptography
+   users in the real world.
+   Whitfield Diffie and Martin Hellman, inventors of public-key
+   cryptography
+   Enlarge
+   Whitfield Diffie and Martin Hellman, inventors of public-key
+   cryptography
+
+   In a groundbreaking 1976 paper, Whitfield Diffie and Martin Hellman
+   proposed the notion of public-key (also, more generally, called
+   asymmetric key) cryptography in which two different but mathematically
+   related keys are used — a public key and a private key. A public key
+   system is so constructed that calculation of the private key is
+   computationally infeasible from the public key, even though they are
+   necessarily related. Instead, both keys are generated secretly, as an
+   interrelated pair. The historian David Kahn described public-key
+   cryptography as "the most revolutionary new concept in the field since
+   polyalphabetic substitution emerged in the Renaissance".
+
+   In public-key cryptosystems, the public key may be freely distributed,
+   while its paired private key must remain secret. The public key is
+   typically used for encryption, while the private or secret key is used
+   for decryption. Diffie and Hellman showed that public-key cryptography
+   was possible by presenting the Diffie-Hellman key exchange protocol. In
+   1978, Ronald Rivest, Adi Shamir, and Len Adleman invented RSA, another
+   public-key system. In 1997, it finally became publicly known that
+   asymmetric key cryptography had been invented by James H. Ellis at
+   GCHQ, a British intelligence organization, in the early 1970s, and that
+   both the Diffie-Hellman and RSA algorithms had been previously
+   developed (by Malcolm J. Williamson and Clifford Cocks, respectively).
+
+   Diffie-Hellman and RSA, in addition to being the first publicly known
+   examples of high quality public-key cryptosystems, have been among the
+   most widely used. Others include the Cramer-Shoup cryptosystem, ElGamal
+   encryption, and various elliptic curve techniques. See
+   Category:Asymmetric-key cryptosystems.
+   Padlock icon from the Firefox web browser, meant to indicate a page has
+   been sent in SSL or TLS-encrypted protected form. However, such an icon
+   is not a guarantee of security: a subverted browser might mislead a
+   user by displaying a proper icon when a transmission is not actually
+   being protected by SSL or TLS.
+   Enlarge
+   Padlock icon from the Firefox web browser, meant to indicate a page has
+   been sent in SSL or TLS-encrypted protected form. However, such an icon
+   is not a guarantee of security: a subverted browser might mislead a
+   user by displaying a proper icon when a transmission is not actually
+   being protected by SSL or TLS.
+
+   In addition to encryption, public-key cryptography can be used to
+   implement digital signature schemes. A digital signature is reminiscent
+   of an ordinary signature; they both have the characteristic that they
+   are easy for a user to produce, but difficult for anyone else to forge.
+   Digital signatures can also be permanently tied to the content of the
+   message being signed; they cannot be 'moved' from one document to
+   another, for any attempt will be detectable. In digital signature
+   schemes, there are two algorithms: one for signing, in which a secret
+   key is used to process the message (or a hash of the message, or both),
+   and one for verification, in which the matching public key is used with
+   the message to check the validity of the signature. RSA and DSA are two
+   of the most popular digital signature schemes. Digital signatures are
+   central to the operation of public key infrastructures and to many
+   network security schemes ( SSL/TLS, many VPNs, etc).
+
+   Public-key algorithms are most often based on the computational
+   complexity of "hard" problems, often from number theory. The hardness
+   of RSA is related to the integer factorization problem, while
+   Diffie-Hellman and DSA are related to the discrete logarithm problem.
+   More recently, elliptic curve cryptography has developed in which
+   security is based on number theoretic problems involving elliptic
+   curves. Because of the complexity of the underlying problems, most
+   public-key algorithms involve operations such as modular multiplication
+   and exponentiation, which are much more computationally expensive than
+   the techniques used in most block ciphers, especially with typical key
+   sizes. As a result, public-key cryptosystems are commonly "hybrid"
+   systems, in which a fast symmetric-key encryption algorithm is used for
+   the message itself, while the relevant symmetric key is sent with the
+   message, but encrypted using a public-key algorithm. Similarly, hybrid
+   signature schemes are often used, in which a cryptographic hash
+   function is computed, and only the resulting hash is digitally signed.
+
+Cryptanalysis
+
+   The goal of cryptanalysis is to find some weakness or insecurity in a
+   cryptographic scheme, thus permitting its subversion or evasion.
+   Cryptanalysis might be undertaken by a malicious attacker, attempting
+   to subvert a system, or by the system's designer (or others) attempting
+   to evaluate whether a system has vulnerabilities, and so it is not
+   inherently a hostile act. In modern practice, however, cryptographic
+   algorithms and protocols must have been carefully examined and tested
+   to offer any confidence in the system's quality (at least, under clear
+   — and hopefully reasonable — assumptions). Without such an examination,
+   no confidence in a crypto-system's quality is justified as there are
+   few proofs of security in cryptography or cryptanalysis.
+
+   It is a commonly held misconception that every encryption method can be
+   broken. In connection with his WWII work at Bell Labs, Claude Shannon
+   proved that the one-time pad cipher is unbreakable, provided the key
+   material is truly random, never reused, kept secret from all possible
+   attackers, and of equal or greater length than the message. Most
+   ciphers, apart from the one-time pad, can be broken with enough
+   computational effort by brute force attack, but the amount of effort
+   needed may be exponentially dependent on the key size, as compared to
+   the effort needed to use the cipher. In such cases, effective security
+   could be achieved if it is proven that any effort ('work factor' in
+   Shannon's terms) is beyond the ability of any adversary. This means it
+   must be proven that no efficient method (as opposed to the very
+   inefficient brute force method) can be found to break the cipher. As of
+   today, the one-time-pad remains the only theoretically unbreakable
+   cipher.
+
+   There are a wide variety of cryptanalytic attacks, and they can be
+   classified in any of several ways. A common distinction turns on what
+   an attacker knows and what capabilities are available. In a
+   ciphertext-only attack, the cryptanalyst has access only to the
+   ciphertext (good modern cryptosystems are usually effectively immune to
+   ciphertext-only attacks). In a known-plaintext attack, the cryptanalyst
+   has access to a ciphertext and its corresponding plaintext (or to many
+   such pairs). In a chosen-plaintext attack, the cryptanalyst may choose
+   a plaintext and learn its corresponding ciphertext (perhaps many
+   times); an example is the gardening used by the British during WWII.
+   Finally, in a chosen-ciphertext attack, the cryptanalyst may choose
+   ciphertexts and learn their corresponding plaintexts. Also important,
+   often overwhelmingly so, are mistakes (generally in the design or use
+   of one of the protocols involved; see Cryptanalysis of the Enigma for
+   some historical examples of this).
+
+   Cryptanalysis of symmetric-key ciphers typically involves looking for
+   attacks against the block ciphers or stream ciphers that are more
+   efficient than any attack that could be against a perfect cipher. For
+   example, a simple brute force attack against DES requires one known
+   plaintext and 2^55 decryptions, trying approximately half of the
+   possible keys, to reach a point at which chances are better than even
+   the key sought will be found. But this may not be enough assurance; a
+   linear cryptanalysis attack against DES requires 2^43 known plaintexts
+   and approximately 2^43 DES operations. This is a considerable
+   improvement on brute force attacks.
+
+   Public-key algorithms are based on the computational difficulty of
+   various problems. The most famous of these is integer factorization
+   (the RSA cryptosystem is based on a problem related to factoring), but
+   the discrete logarithm problem is also important. Much public-key
+   cryptanalysis concerns numerical algorithms for solving these
+   computational problems, or some of them, efficiently. For instance, the
+   best known algorithms for solving the elliptic curve-based version of
+   discrete logarithm are much more time-consuming than the best known
+   algorithms for factoring, at least for problems of equivalent size.
+   Thus, other things being equal, to achieve an equivalent strength of
+   attack resistance, factoring-based encryption techniques must use
+   larger keys than elliptic curve techniques. For this reason, public-key
+   cryptosystems based on elliptic curves have become popular since their
+   invention in the mid-1990s.
+
+   While pure cryptanalysis uses weaknesses in the algorithms themselves,
+   other attacks on cryptosystems are based on actual use of the
+   algorithms in real devices, known as side-channel attacks. If a
+   cryptanalyst has access to, say, the amount of time the device took to
+   encrypt a number of plaintexts or report an error in a password or PIN
+   character, he may be able to use a timing attack to break a cipher that
+   is otherwise resistant to analysis. An attacker might also study the
+   pattern and length of messages to derive valuable information; this is
+   known as traffic analysis, and can be quite useful to an alert
+   adversary. And, of course, social engineering, and other attacks
+   against the personnel who work with cryptosystems or the messages they
+   handle (e.g., bribery, extortion, blackmail, espionage, ...) may be
+   most productive attacks of all.
+
+Cryptographic primitives
+
+   Unsolved problems in computer science: One-way functions are functions
+   that are easy to compute but hard to invert. Can one-way functions be
+   proved to exist?
+
+   Much of the theoretical work in cryptography concerns cryptographic
+   primitives — algorithms with basic cryptographic properties — and their
+   relationship to other cryptographic problems. For example, a one-way
+   function is a function intended to be easy to compute but hard to
+   invert. In a very general sense, for any cryptographic application to
+   be secure (if based on such computational feasibility assumptions),
+   one-way functions must exist. However, if one-way functions exist, this
+   implies that P ≠ NP. Since the P versus NP problem is currently
+   unsolved, we don't know if one-way functions exist. For instance, if
+   one-way functions exist, then secure pseudorandom generators and secure
+   pseudorandom functions exist.
+
+   Currently known cryptographic primitives provide only basic
+   functionality. These are usually noted as confidentiality, message
+   integrity, authentication, and non-repudiation. Any other functionality
+   must be built into combinations of these algorithms and assorted
+   protocols. Such combinations are called crypto systems and it is they
+   which users will encounter. Examples include PGP and its variants, SSH,
+   SSL/ TLS, all PKIs, digital signatures, etc
+
+   Other cryptographic primitives include cipher algorithms themselves,
+   one-way permutations, trapdoor permutations, etc.
+
+Cryptographic protocols
+
+   In many cases, cryptographic techniques involve back and forth
+   communication among two or more parties in space (eg, between the home
+   office and a branch office) or across time (e.g., cryptographically
+   protected backup data). The term cryptographic protocol captures this
+   general idea.
+
+   Cryptographic protocols have been developed for a wide range of
+   problems, including relatively simple ones like interactive proofs,
+   secret sharing, and zero-knowledge, and much more complex ones like
+   electronic cash and secure multiparty computation.
+
+   When the security of a good cryptographic system fails, it is rare that
+   the vulnerabilty leading to the breach will have been in a quality
+   cryptographic primitive. Instead, weaknesses are often mistakes in the
+   protocol design (often due to inadequate design procedures, or less
+   than thoroughly informed designers), in the implementation (e.g., a
+   software bug), in a failure of the assumptions on which the design was
+   based (e.g., proper training of those who will be using the system), or
+   some other human error. Many cryptographic protocols have been designed
+   and analyzed using ad hoc methods, but they rarely have any proof of
+   security. Methods for formally analyzing the security of protocols,
+   based on techniques from mathematical logic (see for example BAN
+   logic), and more recently from concrete security principles, have been
+   the subject of research for the past few decades. Unfortunately, to
+   date these tools have been cumbersome and are not widely used for
+   complex designs.
+
+   The study of how best to implement and integrate cryptography in
+   applications is itself a distinct field, see: cryptographic engineering
+   and security engineering.
+
+Legal issues involving cryptography
+
+Prohibitions
+
+   Because of its potential to assist the malicious in their schemes,
+   cryptography has long been of interest to intelligence gathering
+   agencies and law enforcement agencies. Because of its facilitation of
+   privacy, and the diminution of privacy attendant on its prohibition,
+   cryptography is also of considerable interest to civil rights
+   supporters. Accordingly, there has been a history of controversial
+   legal issues surrounding cryptography, especially since the advent of
+   inexpensive computers has made possible widespread access to high
+   quality cryptography.
+
+   In some countries, even the domestic use of cryptography is, or has
+   been, restricted. Until 1999, France significantly restricted the use
+   of cryptography domestically. In China, a license is still required to
+   use cryptography. Many countries have tight restrictions on the use of
+   cryptography. Among the more restrictive are laws in Belarus, China,
+   Kazakhstan, Mongolia, Pakistan, Russia, Singapore, Tunisia, Venezuela,
+   and Vietnam.
+
+   In the United States, cryptography is legal for domestic use, but there
+   has been much conflict over legal issues related to cryptography. One
+   particularly important issue has been the export of cryptography and
+   cryptographic software and hardware. Because of the importance of
+   cryptanalysis in World War II and an expectation that cryptography
+   would continue to be important for national security, many western
+   governments have, at some point, strictly regulated export of
+   cryptography. After World War II, it was illegal in the US to sell or
+   distribute encryption technology overseas; in fact, encryption was
+   classified as a munition, like tanks and nuclear weapons. Until the
+   advent of the personal computer and the Internet, this was not
+   especially problematic. Good cryptography is indistinguishable from bad
+   cryptography for nearly all users, and in any case, most of the
+   cryptographic techniques generally available were slow and error prone
+   whether good or bad. However, as the Internet grew and computers became
+   more widely available, high quality encryption techniques became
+   well-known around the globe. As a result, export controls came to be
+   seen to be an impediment to commerce and to research.
+
+Export Controls
+
+   In the 1990s, there were several challenges to US export regulations of
+   cryptography. One involved Philip Zimmermann's Pretty Good Privacy
+   (PGP) encryption program; it was released in the US, together with its
+   source code, and found its way onto the Internet in June of 1991. After
+   a complaint by RSA Security (then called RSA Data Security, Inc., or
+   RSADSI), Zimmermann was criminally investigated by the Customs Service
+   and the FBI for several years. No charges were ever filed, however.
+   Also, Daniel Bernstein, then a graduate student at UC Berkeley, brought
+   a lawsuit against the US government challenging some aspects of the
+   restrictions based on free speech grounds. The 1995 case Bernstein v.
+   United States which ultimately resulted in a 1999 decision that printed
+   source code for cryptographic algorithms and systems was protected as
+   free speech by the United States Constitution.
+
+   In 1996, thirty-nine countries signed the Wassenaar Arrangement, an
+   arms control treaty that deals with the export of arms and "dual-use"
+   technologies such as cryptography. The treaty stipulated that the use
+   of cryptography with short key-lengths (56-bit for symmetric
+   encryption, 512-bit for RSA) would no longer be export-controlled.
+   Cryptography exports from the US are now much less strictly regulated
+   than in the past as a consequence of a major relaxation in 2000; there
+   are no longer very many restrictions on key sizes in US- exported
+   mass-market software. In practice today, since the relaxation in US
+   export restrictions, and because almost every personal computer
+   connected to the Internet, everywhere in the world, includes US-sourced
+   web browsers such as Mozilla Firefox or Microsoft Internet Explorer,
+   almost every Internet user worldwide has strong cryptography (i.e.,
+   using long keys) in their browser's Transport Layer Security or SSL
+   stack. The Mozilla Thunderbird and Microsoft Outlook E-mail client
+   programs similarly can connect to IMAP or POP servers via TLS, and can
+   send and receive email encrypted with S/MIME. Many Internet users don't
+   realize that their basic application software contains such extensive
+   cryptography systems. These browsers and email programs are so
+   ubiquitous that even governments whose intent is to regulate civilian
+   use of cryptography generally don't find it practical to do much to
+   control distribution or use of cryptography of this quality, so even
+   when such laws are in force, actual enforcement is often effectively
+   impossible.
+
+NSA involvement
+
+   Another contentious issue connected to cryptography in the United
+   States is the influence of the National Security Agency in cipher
+   development and policy. NSA was involved with the design of DES during
+   its development at IBM and its consideration by the National Bureau of
+   Standards as a possible Federal Standard for cryptography. DES was
+   designed to be secure against differential cryptanalysis, a powerful
+   and general cryptanalytic technique known to NSA and IBM, that became
+   publicly known only when it was rediscovered in the late 1980s.
+   According to Steven Levy, IBM rediscovered differential cryptanalysis,
+   but kept the technique secret at NSA's request. The technique became
+   publicly known only when Biham and Shamir re-rediscovered it some years
+   later. The entire affair illustrates the difficulty of determining what
+   resources and knowledge an attacker might actually have.
+
+   Another instance of NSA's involvement was the 1993 Clipper chip affair,
+   an encryption microchip intended to be part of the Capstone
+   cryptography-control initiative. Clipper was widely criticized by
+   cryptographers for two reasons: the cipher algorithm was classified
+   (the cipher, called Skipjack, was declassified in 1998 long after the
+   Clipper initiative lapsed), which caused concerns that NSA had
+   deliberately made the cipher weak in order to assist its intelligence
+   efforts. The whole initiative was also criticized based on its
+   violation of Kerckhoffs' principle, as the scheme included a special
+   escrow key held by the government for use by law enforcement, for
+   example in wiretaps.
+
+Digital Rights Management
+
+   Cryptography is central to digital rights management (DRM), a group of
+   techniques for technologically controlling use of copyrighted material,
+   being widely implemented and deployed at the behest of some copyright
+   holders. In 1998, Bill Clinton signed the Digital Millennium Copyright
+   Act (DMCA), which criminalized the production, dissemination, and use
+   of certain cryptanalytic techniques and technology; specifically, those
+   that could be used to circumvent DRM technological schemes. This had a
+   very serious potential impact on the cryptography research community
+   since an argument can be made that any cryptanalytic research violated,
+   or might violate, the DMCA. The FBI and the Justice Department have not
+   enforced the DMCA as rigorously as had been feared by some, but the
+   law, nonetheless, remains a controversial one. One well-respected
+   cryptography researcher, Niels Ferguson, has publicly stated that he
+   will not release some research into an Intel security design for fear
+   of prosecution under the DMCA, and both Alan Cox (longtime number 2 in
+   Linux kernel development) and Professor Edward Felten (and some of his
+   students at Princeton) have encountered problems related to the Act.
+   Dmitry Sklyarov was arrested during a visit to the US, and jailed for
+   some months, for alleged violations of the DMCA which occurred in
+   Russia, where the work for which he was arrested and charged was legal.
+   Similar statutes have since been enacted in several countries. See for
+   instance the EU Copyright Directive.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Cryptography"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

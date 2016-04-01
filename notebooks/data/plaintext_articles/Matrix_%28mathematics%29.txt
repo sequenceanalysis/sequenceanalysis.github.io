@@ -1,0 +1,318 @@
+   #copyright
+
+Matrix (mathematics)
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, a matrix (plural matrices) is a rectangular table of
+   numbers or, more generally, a table consisting of abstract quantities
+   that can be added and multiplied. Matrices are used to describe linear
+   equations, keep track of the coefficients of linear transformations and
+   to record data that depend on two parameters. Matrices can be added,
+   multiplied, and decomposed in various ways, making them a key concept
+   in linear algebra and matrix theory.
+
+   In this article, the entries of a matrix are real or complex numbers
+   unless otherwise noted.
+   Organization of a matrix
+   Enlarge
+   Organization of a matrix
+
+Definitions and notations
+
+   The horizontal lines in a matrix are called rows and the vertical lines
+   are called columns. A matrix with m rows and n columns is called an
+   m-by-n matrix (written m×n) and m and n are called its dimensions. The
+   dimensions of a matrix are always given with the number of rows first,
+   then the number of columns.
+
+   The entry of a matrix A that lies in the i -th row and the j-th column
+   is called the i,j entry or (i,j)-th entry of A. This is written as
+   A[i,j] or A[i,j]. The row is always noted first, then the column.
+
+   We often write A:=(a_{i,j})_{m \times n} to define an m × n matrix A
+   with each entry in the matrix A[i,j] called a[ij] for all 1 ≤ i ≤ m and
+   1 ≤ j ≤ n. However, the convention that the indices i and j start at 1
+   is not universal: some programming languages start at zero, in which
+   case we have 0 ≤ i ≤ m − 1 and 0 ≤ j ≤ n − 1.
+
+   A matrix where one of the dimensions equals one is often called a
+   vector, and interpreted as an element of real coordinate space. A 1 × n
+   matrix (one row and n columns) is called a row vector, and an m × 1
+   matrix (one column and m rows) is called a column vector.
+
+Example
+
+   The matrix
+
+          A = \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 7 \\ 4&9&2 \\
+          6&0&5\end{bmatrix}
+
+   is a 4×3 matrix. The element A[2,3] or a[2,3] is 7.
+
+   The matrix
+
+          R = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9
+          \end{bmatrix}
+
+   is a 1×9 matrix, or 9-element row vector.
+
+Adding and multiplying matrices
+
+Sum
+
+   Given m-by-n matrices A and B, their sum A + B is the m-by-n matrix
+   computed by adding corresponding elements (i.e. (A + B)[i, j] = A[i, j]
+   + B[i, j] ). For example:
+
+          \begin{bmatrix} 1 & 3 & 2 \\ 1 & 0 & 0 \\ 1 & 2 & 2
+          \end{bmatrix} + \begin{bmatrix} 0 & 0 & 5 \\ 7 & 5 & 0 \\ 2 & 1
+          & 1 \end{bmatrix} = \begin{bmatrix} 1+0 & 3+0 & 2+5 \\ 1+7 & 0+5
+          & 0+0 \\ 1+2 & 2+1 & 2+1 \end{bmatrix} = \begin{bmatrix} 1 & 3 &
+          7 \\ 8 & 5 & 0 \\ 3 & 3 & 3 \end{bmatrix}
+
+   Another, much less often used notion of matrix addition is the direct
+   sum.
+
+Scalar multiplication
+
+   Given a matrix A and a number c, the scalar multiplication cA is
+   computed by multiplying the scalar c by every element of A (i.e.
+   (cA)[i, j] = cA[i, j] ). For example:
+
+          2 \begin{bmatrix} 1 & 8 & -3 \\ 4 & -2 & 5 \end{bmatrix} =
+          \begin{bmatrix} 2\times 1 & 2\times 8 & 2\times -3 \\ 2\times 4
+          & 2\times -2 & 2\times 5 \end{bmatrix} = \begin{bmatrix} 2 & 16
+          & -6 \\ 8 & -4 & 10 \end{bmatrix}
+
+Matrix multiplication
+
+   Multiplication of two matrices is well-defined only if the number of
+   columns of the left matrix is the same as the number of rows of the
+   right matrix. If A is an m-by-n matrix and B is an n-by-p matrix, then
+   their matrix product AB is the m-by-p matrix (m rows, p columns) given
+   by:
+
+          (AB)[i,j] = A[i,1] B[1,j] + A[i,2] B[2,j] + ... + A[i,n] B[n,j]
+          \!\
+
+   for each pair i and j.
+
+   For example:
+
+          \begin{bmatrix} 1 & 0 & 2 \\ -1 & 3 & 1 \\ \end{bmatrix} \times
+          \begin{bmatrix} 3 & 1 \\ 2 & 1 \\ 1 & 0 \end{bmatrix} =
+          \begin{bmatrix} (1 \times 3 + 0 \times 2 + 2 \times 1) & (1
+          \times 1 + 0 \times 1 + 2 \times 0) \\ (-1 \times 3 + 3 \times 2
+          + 1 \times 1) & (-1 \times 1 + 3 \times 1 + 1 \times 0) \\
+          \end{bmatrix} = \begin{bmatrix} 5 & 1 \\ 4 & 2 \\ \end{bmatrix}
+
+   These two operations turn the set M(m, n, R) of all m-by-n matrices
+   with real entries into a real vector space of dimension mn.
+
+   Matrix multiplication has the following properties:
+     * (AB)C = A(BC) for all k-by-m matrices A, m-by-n matrices B and
+       n-by-p matrices C ("associativity").
+     * (A + B)C = AC + BC for all m-by-n matrices A and B and n-by-k
+       matrices C ("right distributivity").
+     * C(A + B) = CA + CB for all m-by-n matrices A and B and k-by-m
+       matrices C ("left distributivity").
+
+   It is important to note that commutativity does not generally hold;
+   that is, given matrices A and B and their product defined, then
+   generally AB ≠ BA.
+
+Linear transformations, ranks and transpose
+
+   Matrices can conveniently represent linear transformations because
+   matrix multiplication neatly corresponds to the composition of maps, as
+   will be described next. This same property makes them powerful data
+   structures in high-level programming languages.
+
+   Here and in the sequel we identify R^n with the set of "columns" or
+   n-by-1 matrices. For every linear map f : R^n → R^m there exists a
+   unique m-by-n matrix A such that f(x) = Ax for all x in R^n. We say
+   that the matrix A "represents" the linear map f. Now if the k-by-m
+   matrix B represents another linear map g : R^m → R^k, then the linear
+   map g o f is represented by BA. This follows from the above-mentioned
+   associativity of matrix multiplication.
+
+   More generally, a linear map from an n-dimensional vector space to an
+   m-dimensional vector space is represented by an m-by-n matrix, provided
+   that bases have been chosen for each.
+
+   The rank of a matrix A is the dimension of the image of the linear map
+   represented by A; this is the same as the dimension of the space
+   generated by the rows of A, and also the same as the dimension of the
+   space generated by the columns of A.
+
+   The transpose of an m-by-n matrix A is the n-by-m matrix A^tr (also
+   sometimes written as A^T or ^tA) formed by turning rows into columns
+   and columns into rows, i.e. A^tr[i, j] = A[j, i] for all indices i and
+   j. If A describes a linear map with respect to two bases, then the
+   matrix A^tr describes the transpose of the linear map with respect to
+   the dual bases, see dual space.
+
+   We have (A + B)^tr = A^tr + B^tr and (AB)^tr = B^tr A^tr.
+
+Square matrices and related definitions
+
+   A square matrix is a matrix which has the same number of rows and
+   columns. The set of all square n-by-n matrices, together with matrix
+   addition and matrix multiplication is a ring. Unless n = 1, this ring
+   is not commutative.
+
+   M(n, R), the ring of real square matrices, is a real unitary
+   associative algebra. M(n, C), the ring of complex square matrices, is a
+   complex associative algebra.
+
+   The unit matrix or identity matrix I[n], with elements on the main
+   diagonal set to 1 and all other elements set to 0, satisfies MI[n]=M
+   and I[n]N=N for any m-by-n matrix M and n-by-k matrix N. For example,
+   if n = 3:
+
+          I_3 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1
+          \end{bmatrix}
+
+   The identity matrix is the identity element in the ring of square
+   matrices.
+
+   Invertible elements in this ring are called invertible matrices or
+   non-singular matrices. An n by n matrix A is invertible if and only if
+   there exists a matrix B such that
+
+          AB = I[n] ( = BA).
+
+   In this case, B is the inverse matrix of A, denoted by A^−1. The set of
+   all invertible n-by-n matrices forms a group (specifically a Lie group)
+   under matrix multiplication, the general linear group.
+
+   If λ is a number and v is a non-zero vector such that Av = λv, then we
+   call v an eigenvector of A and λ the associated eigenvalue. (Eigen
+   means "own" in German.) The number λ is an eigenvalue of A if and only
+   if A−λI[n] is not invertible, which happens if and only if p[A](λ) = 0.
+   Here p[A](x) is the characteristic polynomial of A. This is a
+   polynomial of degree n and has therefore n complex roots (counting
+   multiple roots according to their multiplicity). In this sense, every
+   square matrix has n complex eigenvalues.
+
+   The determinant of a square matrix A is the product of its n
+   eigenvalues, but it can also be defined by the Leibniz formula.
+   Invertible matrices are precisely those matrices with nonzero
+   determinant.
+
+   The Gaussian elimination algorithm is of central importance: it can be
+   used to compute determinants, ranks and inverses of matrices and to
+   solve systems of linear equations.
+
+   The trace of a square matrix is the sum of its diagonal entries, which
+   equals the sum of its n eigenvalues.
+
+   Matrix exponential is defined for square matrices, using power series.
+
+Special types of matrices
+
+   In many areas in mathematics, matrices with certain structure arise. A
+   few important examples are
+     * Symmetric matrices are such that elements symmetric about the main
+       diagonal (from the upper left to the lower right) are equal, that
+       is, a[i,j]=a[j,i].
+     * Skew-symmetric matrices are such that elements symmetric about the
+       main diagonal are the negative of each other, that is, a[i,j]= -
+       a[j,i]. In a skew-symmetric matrix, all diagonal elements are zero,
+       that is, a[i,i]=0.
+     * Hermitian (or self-adjoint) matrices are such that elements
+       symmetric about the diagonal are each others complex conjugates,
+       that is, a[i,j]=a^*[j,i], where the superscript '*' signifies
+       complex conjugation.
+     * Toeplitz matrices have common elements on their diagonals, that is,
+       a[i,j]=a[i+1,j+1].
+     * Stochastic matrices are square matrices whose columns are
+       probability vectors; they are used to define Markov chains.
+
+   For a more extensive list see list of matrices.
+
+Matrices in abstract algebra
+
+   If we start with a ring R, we can consider the set M(m,n, R) of all m
+   by n matrices with entries in R. Addition and multiplication of these
+   matrices can be defined as in the case of real or complex matrices (see
+   above). The set M(n, R) of all square n by n matrices over R is a ring
+   in its own right, isomorphic to the endomorphism ring of the left R-
+   module R^n.
+
+   Similarly, if the entries are taken from a semiring S, matrix addition
+   and multiplication can still be defined as usual. The set of all square
+   n×n matrices over S is itself a semiring. Note that fast matrix
+   multiplication algorithms such as the Strassen algorithm generally only
+   apply to matrices over rings and will not work for matrices over
+   semirings that are not rings.
+
+   If R is a commutative ring, then M(n, R) is a unitary associative
+   algebra over R. It is then also meaningful to define the determinant of
+   square matrices using the Leibniz formula; a matrix is invertible if
+   and only if its determinant is invertible in R.
+
+   All statements mentioned in this article for real or complex matrices
+   remain correct for matrices over an arbitrary field.
+
+   Matrices over a polynomial ring are important in the study of control
+   theory.
+
+History
+
+   The study of matrices is quite old. Latin squares and magic squares
+   have been studied since prehistoric times.
+
+   Matrices have a long history of application in solving linear
+   equations. Leibniz, one of the two founders of calculus, developed the
+   theory of determinants in 1693. Cramer developed the theory further,
+   presenting Cramer's rule in 1750. Carl Friedrich Gauss and Wilhelm
+   Jordan developed Gauss-Jordan elimination in the 1800s.
+
+   The term "matrix" was first coined in 1848 by J. J. Sylvester. Cayley,
+   Hamilton, Grassmann, Frobenius and von Neumann are among the famous
+   mathematicians who have worked on matrix theory.
+
+   Olga Taussky Todd (1906-1995) started to use matrix theory when
+   investigating an aerodynamic phenomenon called fluttering or
+   aeroelasticity, during WWII.
+
+Applications
+
+Transportation
+
+   If one is given a list of cities (or destinations, nodes, etc.) and is
+   told that there are flights (or roads, connections, etc.) from city a
+   to city b, then one can build a square matrix with the cities indexing
+   each side of the matrix. Each entry M[a,b] is set to 1 if there is a
+   connection from a to b; it is 0 otherwise. If there is a reverse
+   connection, going from b to a, then also M[b,a] = 1. In many instances
+   the connection a to b might not be bidirectional, i.e. M[a,b] = 1 does
+   not necessarily imply that M[b,a] = 1.
+
+   By multiplying the matrix M by itself one obtains M^2. The matrix M^2
+   will indicate if you can go from a to b via a third city. If (M^2)[a,b]
+   = 1, then there exists one third city c which acts as a layover, that
+   is, you can go from a to c and then from c to b. If (M^2)[a,b] = n,
+   then there are n such layovers.
+
+Encryption
+
+   See Matrix encryption
+
+   Matrices can be used to encrypt numerical data. Encryption is done by
+   multiplying the data matrix with a key matrix. Decryption is done
+   simply by multiplying the encrypted matrix with the inverse of the key.
+
+Computer Graphics
+
+   4x4 transformation matrices are commonly used in computer graphics. The
+   upper left 3x3 portion of a transformation matrix is composed of the
+   new X, Y, and Z axes of the post-transformation coordinate space.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Matrix_%28mathematics%29"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

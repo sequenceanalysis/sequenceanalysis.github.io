@@ -1,0 +1,423 @@
+   #copyright
+
+Speech synthesis
+
+2007 Schools Wikipedia Selection. Related subjects: Software
+
+   Speech synthesis is the artificial production of human speech. A
+   computer system used for this purpose is called a speech synthesizer,
+   and can be implemented in software or hardware. A text-to-speech (TTS)
+   system converts normal language text into speech; other systems render
+   symbolic linguistic representations like phonetic transcriptions into
+   speech.
+
+   Synthesized speech can be created by concatenating pieces of recorded
+   speech that are stored in a database. Systems differ in the size of the
+   stored speech units; a system that stores phones or diphones provides
+   the largest output range, but may lack clarity. For specific usage
+   domains, the storage of entire words or sentences allows for
+   high-quality output. Alternatively, a synthesizer can incorporate a
+   model of the vocal tract and other human voice characteristics to
+   create a completely "synthetic" voice output.
+
+   The quality of a speech synthesizer is judged by its similarity to the
+   human voice, and by its ability to be understood. An intelligible
+   text-to-speech program allows people with visual impairments or reading
+   disabilities to listen to written works on a home computer. Many
+   computer operating systems have included speech synthesizers since the
+   early 1980s.
+
+Overview of text processing
+
+   A text-to-speech system (or "engine") is composed of two parts: a
+   front-end and a back-end. The front-end has two major tasks. First, it
+   converts raw text containing symbols like numbers and abbreviations
+   into the equivalent of written-out words. This process is often called
+   text normalization, pre-processing, or tokenization. The front-end then
+   assigns phonetic transcriptions to each word, and divides and marks the
+   text into prosodic units, like phrases, clauses, and sentences. The
+   process of assigning phonetic transcriptions to words is called
+   text-to-phoneme or grapheme-to-phoneme conversion. Phonetic
+   transcriptions and prosody information together make up the symbolic
+   linguistic representation that is output by the front-end. The
+   back-end—often referred to as the synthesizer—then converts the
+   symbolic linguistic representation into sound.
+
+History
+
+Mechanical devices
+
+   Long before electronic signal processing was invented, speech
+   researchers tried to build machines to create human speech. Early
+   examples of "speaking heads" were made by Gerbert of Aurillac (d. 1003
+   AD), Albertus Magnus (1198–1280), and Roger Bacon (1214–1294).
+
+   In 1779, the Danish scientist Christian Kratzenstein, working at the
+   Russian Academy of Sciences, built models of the human vocal tract that
+   could produce the five long vowel sounds (in International Phonetic
+   Alphabet notation, they are [aː], [eː], [iː], [oː] and [uː]). This was
+   followed by the bellows-operated "acoustic-mechanical speech machine"
+   by Wolfgang von Kempelen of Vienna, Austria, described in a 1791 paper.
+   This machine added models of the tongue and lips, enabling it to
+   produce consonants as well as vowels. In 1837, Charles Wheatstone
+   produced a "speaking machine" based on von Kempelen's design, and in
+   1857, M. Faber built the "Euphonia". Wheatstone's design was
+   resurrected in 1923 by Paget.
+
+   In the 1930s, Bell Labs developed the VOCODER, a keyboard-operated
+   electronic speech analyzer and synthesizer that was said to be clearly
+   intelligible. Homer Dudley refined this device into the VODER, which he
+   exhibited at the 1939 New York World's Fair.
+
+   The Pattern playback was built by Dr. Franklin S. Cooper and his
+   colleagues at Haskins Laboratories in the late 1940s and completed in
+   1950. There were several different versions of this hardware device but
+   only one currently survives. The machine converts pictures of the
+   acoustic patterns of speech in the form of a spectrogram back into
+   sound. Using this device, Alvin Liberman and colleagues were able to
+   discover acoustic cues for the perception of phonetic segments
+   (consonants and vowels).
+
+   Early electronic speech synthesizers sounded robotic and were often
+   barely intelligible. However, the quality of synthesized speech has
+   steadily improved, and output from contemporary speech synthesis
+   systems is sometimes indistinguishable from actual human speech.
+
+Electronic devices
+
+   The first computer-based speech synthesis systems were created in the
+   late 1950s, and the first complete text-to-speech system was completed
+   in 1968. In 1961, physicist John Larry Kelly, Jr used an IBM 704
+   computer to synthesize speech, an event among the most prominent in the
+   history of Bell Labs. Kelly's voice recorder synthesizer (vocoder)
+   recreated the song " Daisy Bell", with musical accompaniment from Max
+   Mathews. Coincidentally, Arthur C. Clarke was visiting his friend and
+   colleague John Pierce at the Bell Labs Murray Hill facility. Clarke was
+   so impressed by the demonstration that he used it in the climactic
+   scene of his screenplay for his novel 2001: A Space Odyssey, where the
+   HAL 9000 computer sings the same song as it is being put to sleep by
+   astronaut Dave Bowman.
+
+   Despite the success of purely electronic speech synthesis, research is
+   still being conducted into mechanical speech synthesizers for use in
+   humanoid robots. Even a perfect electronic synthesizer is limited by
+   the quality of the transducer (usually a loudspeaker) that produces the
+   sound, so, in a robot, a mechanical system may be able to produce a
+   more natural sound than a small loudspeaker.
+
+Synthesizer technologies
+
+   The most important qualities of a speech synthesis system are
+   naturalness and intelligibility. Naturalness describes how closely the
+   output sounds like human speech, while intelligibility is the ease with
+   which the output is understood. The ideal speech synthesizer is both
+   natural and intelligible and most speech synthesis systems try to
+   maximize both characteristics.
+
+   The two primary technologies for generating synthetic speech waveforms
+   are concatenative synthesis and formant synthesis. Each technology has
+   strengths and weaknesses, and the intended uses of a synthesis system
+   will typically determine which approach is used.
+
+Concatenative synthesis
+
+   Concatenative synthesis is based on the concatenation (or stringing
+   together) of segments of recorded speech. Generally, concatenative
+   synthesis produces the most natural-sounding synthesized speech.
+   However, differences between natural variations in speech and the
+   nature of the automated techniques for segmenting the waveforms
+   sometimes result in audible glitches in the output. There are three
+   main subtypes of concatenative synthesis.
+
+Unit selection synthesis
+
+   Unit selection synthesis uses large databases of recorded speech.
+   During database creation, each recorded utterance is segmented into
+   some or all of the following: individual phones, syllables, morphemes,
+   words, phrases, and sentences. Typically, the division into segments is
+   done using a specially modified speech recognizer set to a "forced
+   alignment" mode with some manual correction afterward, using visual
+   representations such as the waveform and spectrogram. An index of the
+   units in the speech database is then created based on the segmentation
+   and acoustic parameters like the fundamental frequency ( pitch),
+   duration, position in the syllable, and neighboring phones. At runtime,
+   the desired target utterance is created by determining the best chain
+   of candidate units from the database (unit selection). This process is
+   typically achieved using a specially weighted decision tree.
+
+   Unit selection provides the greatest naturalness, because it applies
+   only a small amount of digital signal processing (DSP) to the recorded
+   speech. DSP often makes recorded speech sound less natural, although
+   some systems use a small amount of signal processing at the point of
+   concatenation to smooth the waveform. The output from the best
+   unit-selection systems is often indistinguishable from real human
+   voices, especially in contexts for which the TTS system has been tuned.
+   However, maximum naturalness typically require unit-selection speech
+   databases to be very large, in some systems ranging into the gigabytes
+   of recorded data, representing dozens of hours of speech.
+
+Diphone synthesis
+
+   Diphone synthesis uses a minimal speech database containing all the
+   diphones (sound-to-sound transitions) occurring in a language. The
+   number of diphones depends on the phonotactics of the language: for
+   example, Spanish has about 800 diphones, and German about 2500. In
+   diphone synthesis, only one example of each diphone is contained in the
+   speech database. At runtime, the target prosody of a sentence is
+   superimposed on these minimal units by means of digital signal
+   processing techniques such as linear predictive coding or PSOLA (used
+   by MBROLA).
+
+   The quality of the resulting speech is generally worse than that of
+   unit-selection systems, but more natural-sounding than the output of
+   formant synthesizers. Diphone synthesis suffers from the sonic glitches
+   of concatenative synthesis and the robotic-sounding nature of formant
+   synthesis, and has few of the advantages of either approach other than
+   small size. As such, its use in commercial applications is declining,
+   although it continues to be used in research because there are a number
+   of freely available software implementations.
+
+Domain-specific synthesis
+
+   Domain-specific synthesis concatenates prerecorded words and phrases to
+   create complete utterances. It is used in applications where the
+   variety of texts the system will output is limited to a particular
+   domain, like transit schedule announcements or weather reports. The
+   technology is very simple to implement, and has been in commercial use
+   for a long time, in devices like talking clocks and calculators. The
+   level of naturalness of these systems can be very high because the
+   variety of sentence types is limited, and they closely match the
+   prosody and intonation of the original recordings. Because these
+   systems are limited by the words and phrases in their databases, they
+   are not general-purpose and can only synthesize the combinations of
+   words and phrases with which they have been preprogrammed.
+
+Formant synthesis
+
+   Formant synthesis does not use human speech samples at runtime.
+   Instead, the synthesized speech output is created using an acoustic
+   model. Parameters such as fundamental frequency, voicing, and noise
+   levels are varied over time to create a waveform of artificial speech.
+   This method is sometimes called rules-based synthesis; however, many
+   concatenative systems also have rules-based components.
+
+   Many systems based on formant synthesis technology generate artificial,
+   robotic-sounding speech that would never be mistaken for human speech.
+   However, maximum naturalness is not always the goal of a speech
+   synthesis system, and formant synthesis systems have advantages over
+   concatenative systems. Formant-synthesized speech can be reliably
+   intelligible, even at very high speeds, avoiding the acoustic glitches
+   that commmonly plague concatenative systems. High-speed synthesized
+   speech is used by the visually impaired to quickly navigate computers
+   using a screen reader. Formant synthesizers are usually smaller
+   programs than concatenative systems because they do not have a database
+   of speech samples. They can therefore be used in embedded systems,
+   where memory and microprocessor power are especially limited. Because
+   formant-based systems have complete control of all aspects of the
+   output speech, a wide variety of prosodies and intonations can be
+   output, conveying not just questions and statements, but a variety of
+   emotions and tones of voice.
+
+   Examples of non-real-time but highly accurate intonation control in
+   formant synthesis include the work done in the late 1970s for the Texas
+   Instruments toy Speak & Spell, and in the early 1980s Sega arcade
+   machines. Creating proper intonation for these projects was
+   painstaking, and the results have yet to be matched by real-time
+   text-to-speech interfaces.
+
+Articulatory synthesis
+
+   Articulatory synthesis refers to computational techniques for
+   synthesizing speech based on models of the human vocal tract and the
+   articulation processes occurring there. The first articulatory
+   synthesizer regularly used for laboratory experiments was developed at
+   Haskins Laboratories in the mid-1970s by Philip Rubin, Tom Baer, and
+   Paul Mermelstein. This synthesizer, known as ASY, was based on vocal
+   tract models developed at Bell Laboratories in the 1960s and 1970s by
+   Paul Mermelstein, Cecil Coker, and colleagues.
+
+   Articulatory synthesis has been mostly of academic interest until
+   recently. Few of these models are currently sufficiently advanced or
+   computationally efficient to be used in commercial speech synthesis
+   systems. A notable exception is the NeXT-based system originally
+   developed and marketed by Trillium Sound Research, a spin-off company
+   of the University of Calgary, where much of the original research was
+   conducted. Following the demise of the various incarnations of NeXT
+   (started by Steve Jobs in the late 1980s and merged with Apple Computer
+   in 1997), the Trillium software was published under a GNU General
+   Public Licence, with work continuing as gnuspeech. The system, first
+   marketed in 1994, provides full articulatory-based text-to-speech
+   conversion using a waveguide or transmission-line analog of the human
+   oral and nasal tracts controlled by Carré's "distinctive region model".
+
+HMM-based synthesis
+
+   HMM-based synthesis is a synthesis method based on hidden Markov
+   models. In this system, the frequency spectrum ( vocal tract),
+   fundamental frequency (vocal source), and duration ( prosody) of speech
+   are modeled simultaneously by HMMs. Speech waveforms are generated from
+   HMMs themselves based on maximum likelihood criteria.
+
+Sinewave synthesis
+
+   Sinewave synthesis is a technique for synthesizing speech by replacing
+   the formants (main bands of energy) with pure tone whistles.
+
+Challenges
+
+Text normalization challenges
+
+   The process of normalizing text is rarely straightforward. Texts are
+   full of heteronyms, numbers, and abbreviations that all require
+   expansion into a phonetic representation. There are many spellings in
+   English which are pronounced differently based on context. For example,
+   "My latest project is to learn how to better project my voice" contains
+   two pronunciations of "project".
+
+   Most text-to-speech (TTS) systems do not generate semantic
+   representations of their input texts, as processes for doing so are not
+   reliable, well understood, or computationally effective. As a result,
+   various heuristic techniques are used to guess the proper way to
+   disambiguate homographs, like examining neighboring words and using
+   statistics about frequency of occurrence.
+
+   Deciding how to convert numbers is another problem that TTS systems
+   have to address. It is a simple programming challenge to convert a
+   number into words, like "1325" becoming "one thousand three hundred
+   twenty-five." However, numbers occur in many different contexts; when
+   part of an address, "1325" should likely be read as "thirteen
+   twenty-five", or, when part of a social security number, as "one three
+   two five". A TTS system can often infer how to expand a number based on
+   surrounding words, numbers, and punctuation, and sometimes the system
+   provides a way to specify the context if it is ambiguous.
+
+   Similarly, abbreviations can be ambiguous. For example, the
+   abbreviation "in" for "inches" must be differentiated from the word
+   "in". TTS systems with intelligent front ends can make educated guesses
+   about ambiguous abbreviations, while others provide the same result in
+   all cases, resulting in nonsensical (and sometimes comical) outputs.
+
+Text-to-phoneme challenges
+
+   Speech synthesis systems use two basic approaches to determine the
+   pronunciation of a word based on its spelling, a process which is often
+   called text-to-phoneme or grapheme-to-phoneme conversion ( phoneme is
+   the term used by linguists to describe distinctive sounds in a
+   language). The simplest approach to text-to-phoneme conversion is the
+   dictionary-based approach, where a large dictionary containing all the
+   words of a language and their correct pronunciations is stored by the
+   program. Determining the correct pronunciation of each word is a matter
+   of looking up each word in the dictionary and replacing the spelling
+   with the pronunciation specified in the dictionary. The other approach
+   is rule-based, in which pronunciation rules are applied to words to
+   determine their pronunciations based on their spellings. This is
+   similar to the "sounding out", or synthetic phonics, approach to
+   learning reading.
+
+   Each approach has advantages and drawbacks. The dictionary-based
+   approach is quick and accurate, but completely fails if it is given a
+   word which is not in its dictionary. As dictionary size grows, so too
+   does the memory space requirements of the synthesis system. On the
+   other hand, the rule-based approach works on any input, but the
+   complexity of the rules grows substantially as the system takes into
+   account irregular spellings or pronunciations. (Consider that the word
+   "of" is very common in English, yet is the only word in which the
+   letter "f" is pronounced [v].) As a result, nearly all speech synthesis
+   systems use a combination of these approaches.
+
+   Some languages, like Spanish, have a very regular writing system, and
+   the prediction of the pronunciation of words based on their spellings
+   is quite successful. Speech synthesis systems for such languages often
+   use the rule-based method extensively, resorting to dictionaries only
+   for those few words, like foreign names and borrowings, whose
+   pronunciations are not obvious from their spellings. On the other hand,
+   speech synthesis systems for languages like English, which have
+   extremely irregular spelling systems, are more likely to rely on
+   dictionaries, and to use rule-based methods only for unusual words, or
+   words that aren't in their dictionaries.
+
+Computer operating systems or outlets with speech synthesis
+
+Apple
+
+   The first speech system integrated into an operating system was Apple
+   Computer's MacInTalk in 1984. During most of the early 1990s, Apple
+   voices were synthetic. More recently, Apple has added sample-based
+   voices. Starting as a curiosity, the speech system of Apple Macintosh
+   eventually evolved to a fully-supported program, PlainTalk, for people
+   with vision problems.
+
+AmigaOS
+
+   The second operating system with advanced speech synthesis capabilities
+   was AmigaOS, introduced in 1985. The voice synthesis was licensed by
+   Commodore International from a third-party software house (Don't Ask
+   Software, now Softvoice, Inc.) and it featured a complete system of
+   voice emulation, with both male and female voices and "stress"
+   indicator markers, made possible by advanced features of the Amiga
+   hardware audio chipset. It was divided into a narrator device and a
+   translator library. Amiga Speak Handler featured a text-to-speech
+   translator. AmigaOS considered speech synthesis a virtual hardware
+   device, so the user could even redirect console output to it. Some
+   Amiga programs, such as word processors, made extensive use of the
+   speech system.
+
+Microsoft Windows
+
+   Modern Windows systems use SAPI4- and SAPI5-based speech systems that
+   include a speech recognition engine (SRE). SAPI 4.0 was available on
+   Microsoft-based operating systems like Windows 95 and Windows 98.
+   Windows XP featured a speech synthesis program called Narrator,
+   directly available to users. All Windows-compatible programs could make
+   use of speech synthesis features, available through menus once
+   installed on the system. Microsoft Speech Server is a complete package
+   for voice synthesis and recognition, for commercial applications such
+   as call centers.
+
+Websites
+
+   Recently, websites such as Bluemountain.com have featured eCards that
+   allow a user to produce custom-made vocal greetings from a
+   computer-generated voice. These eCards usually consist of pre-made
+   images, but some allow the user to select an image of whatever the user
+   wants. All of the eCards allow the user to select the computer's
+   vocabulary.
+
+Others
+
+     * The 1979 and 1981 Texas Instruments TI-99/4 and TI-99/4A home
+       computers were capable of text-to-phoneme synthesis or reciting
+       complete words and phrases (text-to-dictionary), using a very
+       popular Speech Synthesizer peripheral. TI used a proprietary codec
+       to embed complete spoken phrases into applications, primarily video
+       games.
+     * Systems that operate on GNU/Linux systems are various, and include
+       open-source programs such as the Festival Speech Synthesis System
+       which uses diphone-based synthesis (and can use a limited number of
+       MBROLA voices), and gnuspeech which uses articulatory synthesis
+       from the Free Software Foundation. Other commercial vendor software
+       also runs on GNU/Linux.
+     * Several other commercial speech synthesis systems have been
+       created, including one by the now-defunct Lernout & Hauspie called
+       TTS 3000. Acapela Group, AT&T, Cepstral, DECtalk, IBM ViaVoice,
+       NeoSpeech, and Nuance Communications all have commercial offerings
+       as well.
+
+Speech synthesis markup languages
+
+   A number of markup languages have been established for the rendition of
+   text as speech in an XML-compliant format. The most recent is Speech
+   Synthesis Markup Language (SSML), which became a W3C recommendation in
+   2004. Older speech synthesis markup languages include Java Speech
+   Markup Language (JSML) and SABLE. Although each of these was proposed
+   as a standard, none of them has been widely adopted.
+
+   Speech synthesis markup languages are distinguished from dialogue
+   markup languages. VoiceXML, for example, includes tags related to
+   speech recognition, dialogue management and touchtone dialing, in
+   addition to text-to-speech markup.
+   Retrieved from " http://en.wikipedia.org/wiki/Speech_synthesis"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

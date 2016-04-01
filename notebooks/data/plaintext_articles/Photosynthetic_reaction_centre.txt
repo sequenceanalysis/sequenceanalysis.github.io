@@ -1,0 +1,272 @@
+   #copyright
+
+Photosynthetic reaction centre
+
+2007 Schools Wikipedia Selection. Related subjects: General Biology
+
+   A photosynthetic reaction centre is a protein that is the site of the
+   light reactions of photosynthesis. The reaction centre contains
+   pigments such as chlorophyll and phaeophytin. These absorb light,
+   promoting an electron to a higher energy level within the pigment. The
+   free energy created is used to reduce an electron acceptor and is
+   critical for the production of chemical energy during photosynthesis.
+
+   Reaction centres are present in all green plants and in many bacteria
+   and algae. Green plants have two reaction centres known as photosystem
+   I and photosystem II and the structures of these centres are complex
+   involving a multisubunit protein. The reaction centre found in
+   Rhodopseudomonas bacteria is currently better understood since it has
+   fewer proteins than the examples in green plants.
+
+Capturing light energy
+
+   A reaction centre is laid out in such a way that it captures the energy
+   of a photon using pigment molecules and turns it into a usable form.
+   Once the light energy has been absorbed directly by the pigment
+   molecules, or passed to them by resonance transfer from antenna
+   pigments, they release two electrons into an electron transport chain.
+
+   Light is made up of small bundles of energy called photons. If a photon
+   with the right amount of energy hits an electron it will raise the
+   electron to a higher energy level. Electrons are most stable at their
+   lowest energy level or ground state, the orbit in which the electron
+   has the least amount of energy. Electrons in higher energy levels can
+   return to ground state in a manner analogous to a ball falling down a
+   staircase. In doing so they release energy. This is the process which
+   is exploited by a photosynthetic reaction centre.
+
+   When an electron rises to a higher energy level it increases the
+   reduction potential of the molecule. This means it has a greater
+   tendency to donate electrons, the key to the conversion of light energy
+   to chemical energy. In green plants, the electron transport chain that
+   follows has many electron acceptors including phaeophytin, quinone,
+   plastoquinone, cytochrome bf, and ferredoxin that ultimately result in
+   the reduced molecule NADPH. The passage of the electron through the
+   electron transport chain also results in the pumping of protons
+   (hydrogen ions) from the chlorplast's stroma into the lumen resulting
+   in a proton gradient across the thylakoid membrane that can be used to
+   synthesis ATP using ATP synthase. Both the ATP and NADPH are used in
+   the Calvin cycle to fix carbon dioxide into triose sugars.
+
+Bacteria
+
+Structure
+
+   Bacterial photosynthetic reaction centre.
+   Bacterial photosynthetic reaction centre.
+
+   The bacterial photosynthetic reaction centre has been an important
+   model to understand the structure and chemistry of the biological
+   process of capturing light energy. In the 1960's, Roderick Clayton was
+   the first to purify the reaction centre complex from purple bacteria.
+   However, the first crystal structure was determined by Hartmut Michel,
+   Johann Deisenhofer and Robert Huber for which they shared the Nobel
+   Prize in 1988. This was also significant since it was the first
+   structure for any membrane protein complex.
+
+   Four different subunits were found to be important for the function of
+   the photosynthetic reaction centre. The L and M subunits, shown in blue
+   and purple in the image of the structure both span the plasma membrane.
+   They are structurally similar to one another, both having 5
+   transmembrane polypeptide helices. Four bacteriochlorophyll b (BChl-b)
+   molecules, two bacteriophaeophytin b molecules (BPh) molecules, two
+   quinones (Q[A] and Q[B]), and a ferrous ion are associated with the L
+   and M subunits. The H subunit, shown in gold, lies on the cytoplasmic
+   side of the plasma membrane. A cytochrome subunit, shown in green,
+   contains four c-type hemes and is located on the periplasmic surface
+   (outer) of the membrane.
+
+   The reaction centre contains two pigments that serve to collect and
+   transfer the energy from photon absorption: BChb and Bph. BChb roughly
+   resembles the chlorophyll molecule found in green plants, but due to
+   minor structural differences, its peak absorption wavelength is shifted
+   into the infrared, with wavelengths as long as 1000nm. Bph has the same
+   structure as BChb, but the central magnesium ion is replaced by two
+   protons.
+
+Mechanism
+
+   The light reaction
+   Enlarge
+   The light reaction
+
+   The process starts when light is absorbed by two BChl-b molecules that
+   lie near the periplasmic side of the membrane. This pair of chlorophyll
+   molecules, often called the "special pair", absorbs photons at roughly
+   960nm, and thus is called P960 (with P standing for "pigment"). Once
+   P960 absorbs a photon it ejects an electron, which is transferred
+   through another molecule of Bchl to the BPh in the L subunit. This
+   initial charge separation yields a positive charge on P960 and a
+   negative charge on the BPh. This process takes place in 10 picoseconds
+   (10^-11 seconds).
+
+   The charges on the P960^+ and the BPh^- could undergo charge
+   recombination in this state. This would waste the high-energy electron
+   and convert the absorbed light energy in to heat. Several factors of
+   the reaction centre structure serve to prevent this. First the transfer
+   of an electron from BPh^- to P960^+ is relatively slow compared to two
+   other redox reactions in the reaction centre. The faster reactions
+   involve the transfer of an electron from BPh^- (BPh^- is oxidised to
+   BPh) to the electron acceptor quinone (Q[A]) and the transfer of an
+   electron to P960^+ (P960^+ is reduced to P960) from a heme in the
+   cytochrome subunit above the reaction centre.
+
+   The high-energy electron which resides on the tightly bound quinone
+   molecule Q[A] is transferred to an exchangeable quinone molecule Q[B].
+   This molecule is loosely associated with the protein and is fairly easy
+   to detach. Two of the high-energy electrons are required to fully
+   reduce Q[B] to QH[2] taking up two protons from the cytoplasm in the
+   process. The reduced quinone QH[2] diffuses through the membrane to
+   another protein complex ( cytochrome bc[1]-complex) where it is
+   oxidised. In the process the reducing power of the QH[2] is used to
+   pump protons across the membrane to the periplasmic space. The
+   electrons from the cytochrome bc[1]-complex are then transferred
+   through a soluble cytochrome c intermediate, called cytochrome c[2], in
+   the periplasm to the cytochrome subunit. Thus, the flow of electrons in
+   this system is cyclical.
+
+Green plants
+
+Oxygenic photosynthesis
+
+   In 1772, the chemist Joseph Priestly carried out a series of
+   experiments relating to the gasses involved in respiration and
+   combustion. In his first experiment, he lit a candle and placed it
+   under an upturned jar. After a short period of time, the candle burned
+   out. He carried out a similar experiment with a mouse in the confined
+   space of the burning candle. He found that the mouse died a short time
+   after the candle had been extinguished. However, he could revivify the
+   foul air by placing green plants in the area and exposing them to
+   light. Priestly's observations were some of the first experiments that
+   demonstrated the activity of a photosynthetic reaction centre.
+
+   In 1779, Jan Ingenhousz carried out more than 500 experiments spread
+   out over 4 months in an attempt to understand what was really going on.
+   He wrote up his discoveries in a book entitled ‘Experiments upon
+   Vegetables’. Ingenhousz took green plants and immersed them in water
+   inside a transparent tank. He observed many bubbles rising from the
+   surface of the leaves whenever the plants were exposed to light.
+   Ingenhousz collected the gas which was given off by the plants and
+   performed several different tests in attempt to determine what the gas
+   was. The test which finally revealed the identity of the gas was
+   placing a smoldering taper into the gas sample and having it relight.
+   This test proved it was oxygen, or as Joseph Priestly had called it,
+   'de- phlogisticated air'.
+
+   In 1932, Professor Robert Emerson and an undergraduate student, William
+   Arnold, used a repetitive flash technique to precisely measure small
+   quantities of oxygen evolved by chlorophyll in the algae Chlorella.
+   Their experiment proved the existence of a photosynthetic unit. Gaffron
+   and Wohl later interpreted the experiment and realized that the light
+   absorbed by the photosynthetic unit was transferred. This reaction
+   occurs at the reaction centre of photosystem II and takes place in
+   cyanobacteria, algae and green plants.
+
+Photosystem II
+
+   Photosystem II is the photosystem that generates the electron that will
+   eventually reduce NADP^+. Photosystem II is present on the thylakoid
+   membranes inside chloroplasts, the site of photosynthesis in green
+   plants. The structure of Photosystem II is remarkably similar to the
+   bacterial reaction centre and it is theorized that they share a common
+   ancestor.
+
+   The core of photosystem II consists of two subunits referred to as D1
+   and D2. These two subunits are similar to the L and M subunits present
+   in the bacterial reaction centre. Photosystem II differs from the
+   bacterial reaction centre in that it has many additional subunits which
+   bind additional chlorophylls to increase efficiency. The overall
+   reaction catalyzed by photosystem II is:
+
+   \begin{matrix}\ &light &\ \\ 2Q + 2H_2 O &\Longrightarrow & O_2 +
+   2QH_2\end{matrix}
+
+   Q represents plastoquinone, the oxidized form of Q. QH[2] represents
+   plastoquinol, the reduced form of Q. This process of reducing quinone
+   is comparable to that which takes place in the bacterial reaction
+   centre. Photosystem II obtains electrons by oxidizing water in a
+   process called photolysis. Molecular oxygen is a byproduct of this
+   process and it is this reaction that supplies the atmosphere with
+   oxygen. The fact that the oxygen from green plants originated from
+   water was first deduced by the Canadian-born American biochemist Martin
+   David Kamen. He used a radioactive isotope of oxygen, O[18] to trace
+   the path of the oxygen, from water to gaseous molecular oxygen. This
+   reaction is catalyzed by a reactive centre in photosystem II containing
+   four manganese ions.
+
+   The reaction begins with the excitation of a pair of chlorophyll
+   molecules similar to those in the bacterial reaction centre. Due to the
+   presence of chlorophyll a, as opposed to bacteriochlorophyll,
+   photosystem II absorbs light at a shorter wavelength. The pair of
+   chlorophyll molecules at the reaction centre are often referred to as
+   P680. When the photon has been absorbed the resulting high-energy
+   electron is transferred to a nearby pheophytin molecule. This is above
+   and to the right of the pair on the diagram and is coloured grey. The
+   electron travels from the pheophytin molecule through two plastoquinone
+   molecules, the first tightly bound, the second loosely bound. The
+   tightly bound molecule is shown above the pheophytin molecule and is
+   coloured red. The loosely bound molecule is to the left of this and is
+   also coloured red. This flow of electrons is similar to that of the
+   bacterial reaction centre. Two electrons are required to fully reduce
+   the loosely bound plastoquinone molecule to QH[2] as well as the uptake
+   of two protons.
+
+   The difference between photosystem II and the bacterial reaction centre
+   is the source of the electron that neutralizes the pair of chlorophyll
+   a molecules. In the bacterial reaction centre, the electron is obtained
+   from a reduced compound heme group in a cytochrome subunit.
+
+   A difference between photosystem II and the bacterial reaction centre
+   is the source of the electron which neutralizes the pair of pigment
+   molecules. Once photoinduced charge separation has taken place, the
+   P680 molecule carries a positive charge. P680 is a very strong oxidant
+   and extracts electrons from two water molecules which are bound at the
+   manganese centre directly below the pair. This centre, below and to the
+   left of the pair in the diagram, contains four manganese ions, a
+   calcium ion, a chloride ion, and a tyrosine residue. Manganese is used
+   because it is capable of existing in four oxidation states; Mn^2+,
+   Mn^3+, Mn^4+ and Mn^5+. Manganese also forms strong bonds with
+   oxygen-containing molecules such as water.
+
+   Every time the P680 absorbs a photon, it emits an electron, gaining a
+   positive charge. This charge is neutralized by the extraction of an
+   electron from the manganese centre which sits directly below it. The
+   process of oxidizing two molecules of water requires four electrons.
+   The water molecules which are oxidized in the manganese centre are the
+   source of the electrons which reduce the two molecules of Q to QH[2].
+
+Photosystem I
+
+   After the electron has left photosystem II it is transferred to a
+   cytochrome b6f complex and then to plastocyanin, a blue copper protein
+   and electron carrier. The plastocyanin complex carries the electron
+   that will neutralize the pair in the next reaction centre, photosystem
+   I.
+
+   As with photosystem II and the bacterial reaction centre, a pair of
+   chlorophyll a molecules initiates photoinduced charge separation. This
+   pair is referred to as P700. 700 is a reference to the wavelength at
+   which the chlorophyll molecules absorb light maximally. The P700 lies
+   in the centre of the protein. Once photoinduced charge separation has
+   been initiated, the electron travels down a pathway through a
+   chlorophyll α molecule situated directly above the P700, through a
+   quinone molecule situated directly above that, through three 4Fe-4S
+   clusters and finally to an interchangeable ferredoxin complex.
+   Ferredoxin is a soluble protein containing a 2Fe-2S cluster coordinated
+   by four cysteine residues. The positive charge left on the P700 is
+   neutralized by the transfer of an electron from plastocyanin. Thus the
+   overall reaction catalyzed by photosystem I is:
+
+   \begin{matrix} \ & light & \ \\ Pc(Cu^+ ) + Fd_{ox} & \Longrightarrow &
+   Pc(Cu^{2+}) + Fd_{red} \end{matrix}
+
+   The cooperation between photosystems I and II creates an electron flow
+   from H[2]O to NADP^+. This pathway is called the 'Z-scheme' because the
+   redox diagram from P680 to P700 resembles the letter z.
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/Photosynthetic_reaction_centre"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

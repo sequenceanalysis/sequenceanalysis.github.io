@@ -1,0 +1,674 @@
+   #copyright
+
+Pythagorean theorem
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+   In mathematics, the Pythagorean theorem or Pythagoras' theorem is a
+   relation in Euclidean geometry among the three sides of a right
+   triangle. The theorem is named after the Greek mathematician
+   Pythagoras, who by tradition is credited with its discovery, although
+   knowledge of the theorem almost certainly predates him. Pythagoras was
+   noted for his obsession with ratios. He believed that ratios could be
+   applied to all aspects of the world.
+   The Pythagorean theorem: The sum of the areas of the two squares on the
+   legs (a and b) equals the area of the square on the hypotenuse (c).
+   Enlarge
+   The Pythagorean theorem: The sum of the areas of the two squares on the
+   legs (a and b) equals the area of the square on the hypotenuse (c).
+
+   The theorem is as follows:
+
+                In any right triangle, the area of the square whose side
+                is the hypotenuse (the side of a right triangle opposite
+                the right angle) is equal to the sum of areas of the
+                squares whose sides are the two legs (i.e. the two sides
+                other than the hypotenuse).
+
+   If we let c be the length of the hypotenuse and a and b be the lengths
+   of the other two sides, the theorem can be expressed as the equation
+
+          a^2 + b^2 = c^2. \,
+
+   This equation provides a simple relation among the three sides of a
+   right triangle so that if the lengths of any two sides are known, the
+   length of the third side can be found. A generalization of this theorem
+   is the law of cosines, which allows the computation of the length of
+   the third side of any triangle, given the lengths of two sides and the
+   size of the angle between them.
+
+   This theorem may have more known proofs than any other. The Pythagorean
+   Proposition, a book published in 1940, contains 370 proofs of
+   Pythagoras' theorem, including one by American President James
+   Garfield.
+
+   The converse of the theorem is also true:-
+
+                For any three positive numbers a, b, and c such that a² +
+                b² = c², there exists a triangle with sides a, b and c,
+                and every such triangle has a right angle between the
+                sides of lengths a and b.
+
+   Visual proof for the (3, 4, 5) triangle as in the Chou Pei Suan Ching
+   500–200 BC
+   Enlarge
+   Visual proof for the (3, 4, 5) triangle as in the Chou Pei Suan Ching
+   500–200 BC
+
+History
+
+   The history of the theorem can be divided into three parts: knowledge
+   of Pythagorean triples, knowledge of the relationship between the sides
+   of a right triangle, and proofs of the theorem.
+
+   Megalithic monuments from 4000 BC in Egypt, and in the British Isles
+   from circa 2500 BC, incorporate right triangles with integer sides but
+   the builders did not necessarily understand the theorem . Bartel
+   Leendert van der Waerden conjectures that these Pythagorean triples
+   were discovered algebraically .
+
+   Written between 2000– 1786 BC, the Middle Kingdom Egyptian papyrus
+   Berlin 6619 includes a problem, whose solution is a Pythagorean triple.
+
+   During the reign of Hammurabi, the Mesopotamian tablet Plimpton 322,
+   written between 1790 and 1750 BC, contains many entries closely related
+   to Pythagorean triples.
+
+   The Baudhayana Sulba Sutra, written in the 8th century BC in India,
+   contains a list of Pythagorean triples discovered algebraically, a
+   statement of the Pythagorean theorem, and a geometrical proof of the
+   Pythagorean theorem for an isosceles right triangle.
+
+   The Apastamba Sulba Sutra (circa 600 BC) contains a numerical proof of
+   the general Pythagorean theorem, using an area computation. Van der
+   Waerden believes that "it was certainly based on earlier traditions".
+   According to Albert Bŭrk, this is the original proof of the theorem,
+   and Pythagoras copied it on his visit to India. Many scholars find van
+   der Waerden and Bŭrk's claims unsubstantiated.
+
+   Pythagoras, whose dates are commonly given as 569– 475 BC, used
+   algebraic methods to construct Pythagorean triples, according to
+   Proklos's commentary on Euclid. Proklos, however, wrote between 410 and
+   485 AD. According to Sir Thomas L. Heath, there is no attribution of
+   the theorem to Pythagoras for five centuries after Pythagoras lived.
+   However, when authors such as Plutarch and Cicero attributed the
+   theorem to Pythagoras, they did so in a way which suggests that the
+   attribution was widely known and undoubted.
+
+   Around 400 BC, according to Proklos, Plato gave a method for finding
+   Pythagorean triples that combined algebra and geometry. Circa 300 BC,
+   in Euclid's Elements, the oldest extant axiomatic proof of the theorem
+   is presented.
+
+   Written sometime between 500 BC and 200 AD, the Chinese text Chou Pei
+   Suan Ching (周髀算经), (The Arithmetical Classic of the Gnomon and the
+   Circular Paths of Heaven) gives a visual proof of the Pythagorean
+   theorem — in China it is called the "Gougu Theorem" (勾股定理) — for the
+   (3, 4, 5) triangle. During the Han Dynasty, from 200 BC to 200 AD,
+   Pythagorean triples appear in The Nine Chapters on the Mathematical
+   Art, together with a mention of right triangles.
+
+   There is much debate on whether the Pythagorean theorem was discovered
+   once or many times. B.L. van der Waerden asserts a single discovery, by
+   someone in Neolithic Britain, knowledge of which then spread to
+   Mesopotamia circa 2000 BC, and from there to India, China, and Greece
+   by 600 BC. Most scholars disagree however, and favour independent
+   discovery.
+
+   More recently, Shri Bharati Krishna Tirthaji in his book Vedic
+   Mathematics claimed ancient Indian Hindu Vedic proofs for the
+   Pythagoras Theorem.
+
+Proofs
+
+   This theorem may have more known proofs than any other (the law of
+   quadratic reciprocity being also a contender for that distinction); the
+   book Pythagorean Proposition, by Elisha Scott Loomis, contains over 350
+   proofs. James Garfield, who later became President of the United
+   States, devised an original proof of the Pythagorean theorem in 1876.
+   The external links below provide a sampling of the many proofs of the
+   Pythagorean theorem.
+
+   Some arguments based on trigonometric identities (such as Taylor series
+   for sine and cosine) have been proposed as proofs for the theorem.
+   However, since all the fundamental trigonometric identities are proved
+   using the Pythagorean theorem, there cannot be any trigonometric proof.
+   (See also begging the question.)
+
+Geometrical proof
+
+   Proof using similar triangles
+   Enlarge
+   Proof using similar triangles
+
+   Like many of the proofs of the Pythagorean theorem, this one is based
+   on the proportionality of the sides of two similar triangles.
+
+   Let ABC represent a right triangle, with the right angle located at C,
+   as shown on the figure. We draw the altitude from point C, and call H
+   its intersection with the side AB. The new triangle ACH is similar to
+   our triangle ABC, because they both have a right angle (by definition
+   of the altitude), and they share the angle at A, meaning that the third
+   angle will be the same in both triangles as well. By a similar
+   reasoning, the triangle CBH is also similar to ABC. The similarities
+   lead to the two ratios:
+
+          \frac{AC}{AB}=\frac{AH}{AC}\ \mbox{and}\
+          \frac{CB}{AB}=\frac{HB}{CB}.\,\!
+
+   These can be written as:
+
+          AC^2=AB\times AH\,\! and CB^2=AB\times HB.\,\!
+
+   Summing these two equalities, we obtain:
+
+          AC^2+CB^2=AB\times AH+AB\times HB=AB\times(AH+HB)=AB^2.\,\!
+
+   In other words, the Pythagorean theorem:
+
+          AC^2+BC^2=AB^2.\,\!
+
+Euclid's proof
+
+   Proof in Euclid's Elements
+   Enlarge
+   Proof in Euclid's Elements
+
+   In Euclid's Elements, the Pythagorean theorem is proved by an argument
+   along the following lines. Let P, Q, R be the vertices of a right
+   triangle, with a right angle at Q. Drop a perpendicular from Q to the
+   side opposite the hypotenuse in the square on the hypotenuse. That line
+   divides the square on the hypotenuse into two rectangles, each having
+   the same area as one of the two squares on the legs.
+
+   We see here three similar figures, each being "a square with a triangle
+   on top". Since the large triangle is made of the two smaller trangles,
+   its area is the sum of areas of the two smaller ones. By similarity, it
+   is clear that the same must apply also to the areas of the squares.
+
+   For the formal proof, we require four elementary lemmata:
+
+   1. If two triangles have two sides of the one equal to two sides of the
+   other,each to each, and the angles included by those sides equal,then
+   the triangles are equal in all respects.
+
+   2. The area of a triangle is half the area of any parallelogram on the
+   same base and having the same altitude.
+
+   3. The area of any square is equal to the product of two of its' sides.
+
+   4. The area of any rectangle is equal to the product of two adjacent
+   sides (follows from Lemma 3).
+
+   The proof is as follows:
+
+   Let QPR\,\! be a right-angled triangle; with the right angle at Q\,\!
+
+   On each of the sides
+
+   AC,\,\!
+
+   CB\,\! and
+
+   BA\,\!
+
+   squares
+
+   AFGC,\,\!
+
+   CHKB,\,\! and
+
+   BEDA\,\!
+
+   are drawn,in that order.
+
+   Q\,\! and D\,\! are joined.
+
+   R\,\! and F\,\! are joined.
+
+   Let the perpendicular from Q\,\! on DE\,\! be QZ\,\! .
+
+   Let QZ\,\! intersect PR\,\! at Y\,\! .
+
+   Then QZ\,\! is parallel to AD\,\! , since both of the angles QZE\,\!
+   and ADL\,\! are right angles.
+
+   Now, because both of the angles RQP\,\! and RQG\,\! are right angles,
+
+   the points R, Q, G\,\! are collinear.
+
+   Similarly, \angle RPD = \angle FRQ = \mbox{one right angle.}
+
+   Adding \angle QPR\, to each side of the equality
+
+          \angle RPD = \angle FRQ,\,
+
+   we get
+
+          \angle QPD = \angle FPR.\,
+
+   Then the triangles
+
+          QPD\,\! and FPR\,\!
+
+   are congruent;
+
+   because QP = FP,\,
+
+   PD = PR,\,
+
+   and
+
+          \angle QPD = \angle FPR\,
+
+   (from Lemma 1).
+
+   Now the area of the rectangle
+
+   PDZY\,\!
+
+   is double the triangle
+
+   QPR\,\! ,
+
+   being on the same base
+
+   PD\,\!
+
+   and between the same parallels
+
+   PD\,\!
+
+   and QZ\,\! .
+
+   Again, the area of the square
+
+   PFGQ\,\!
+
+   is double the triangle
+
+   FPR\,\! ,
+
+   as they both stand on the same base
+
+   FP\,\!
+
+   and between the same parallels
+
+   FP\,\!
+
+   and GR\,\! .
+
+   Thus, the area of the rectangle
+
+   PDZY\,\!
+
+   is equal to the square
+
+   PFQG\,\! ,
+
+   ie,
+
+   PD\cdot DZ = QP^2\,\!
+
+   Similarly, by joining QE\,\! and PK\,\! ,
+
+   it can easily be shown that the rectangle YREZ\,\!
+
+   is equal in area to the square QHKR\,\! ,
+
+   which leads to
+
+   RE \cdot EZ = QR^2\,
+
+   Adding these two results, we see that
+
+   PD \cdot DZ + RE\cdot EZ = QR^2 + QP^2\,\!
+
+   or, PD\cdot DZ + ZE\cdot PD = QR^2 + QP^2\,\! (since PDER\,\! is a
+   square)
+
+   or, PD(DZ + ZE) = QR^2 + QP^2\,\!
+
+   or, PD\cdot DE = QR^2\,\! + QP^2\,\!
+
+   or, PD^2 + QR^2 + QP^2\,\!
+
+   or, RP^2 = QR^2 + QP^2\,\! (since PDER\,\! is a square)
+
+   And thus,
+
+   RP^2 = QR^2 + QP^2\,\!
+
+   which proves the statement that
+
+   in any right-angled triangle, the square desribed on the hypotenuse is
+   equal to the sum of the squares described on the other two sides.
+
+   With the help of trigonometry, this theorem can be extended for all
+   triangles.
+
+   For any triangle QPR\,\! ,
+
+          q^2 = p^2 + r^2 - 2pr\cos Q,\,
+
+   where p, q\,\! and r\,\! denote the sides of the triangle opposite the
+   angles P,Q\,\! and R\,\! ; and cyclic permutations.
+
+Visual proof
+
+   Proof using area subtraction
+   Enlarge
+   Proof using area subtraction
+
+   A visual proof is given by this illustration. The area of each large
+   square is (a + b)². In both, the area of four identical triangles is
+   removed. The remaining areas, a² + b² and c², are equal. Q.E.D.
+
+   This proof is indeed very simple, but it is not elementary, in the
+   sense that it does not depend solely upon the most basic axioms and
+   theorems of Euclidean geometry. In particular, while it is quite easy
+   to give a formula for area of triangles and squares, it is not as easy
+   to prove that the area of a square is the sum of areas of its pieces.
+   In fact, proving the necessary properties is harder than proving the
+   Pythagorean theorem itself. For this reason, axiomatic introductions to
+   geometry usually employ another proof based on the similarity of
+   triangles (see above).
+   Proof using rearrangement
+   Enlarge
+   Proof using rearrangement
+
+   A second graphic illustration of the Pythagorean theorem fits parts of
+   the sides' squares into the hypotenuse's square. A related proof would
+   show that the repositioned parts are identical with the originals and,
+   since the sum of equals are equal, that the corresponding areas are
+   equal. To show that a square is the result one must show that the
+   length of the new sides equals c.
+
+Algebraic Proof
+
+   A square created by aligning four right angle triangles and a large
+   square.
+   Enlarge
+   A square created by aligning four right angle triangles and a large
+   square.
+
+   A more algebraic variant of this proof is provided by the following
+   reasoning. Looking at the illustration, the area of each of the four
+   red, yellow, green and pink right-angled triangles is given by:
+
+          \frac{1}{2} ab
+
+   The blue square in the middle has side length c, so its area is c^2.
+   Thus the area of everything together is given by:
+
+          4\left(\frac{1}{2}ab\right)+c^2.
+
+   However, as the large square has sides of length a+b, we can also
+   calculate its area as (a+b)², which expands to a²+2ab+b². This can be
+   shown by considering the angles.
+
+   Thus, a^2 + 2ab + b^2= 4\left(\frac{1}{2}ab\right)+c^2.
+
+   (Distribution of the 4) a^2 + 2ab + b^2=2ab + c^2
+
+   (Subtraction of 2ab) a^2 + b^2=c^2
+
+Proof by differential equations
+
+   One can arrive at the Pythagorean theorem by studying how changes in a
+   side produce a change in the hypotenuse in the following diagram and
+   employing a little calculus.
+   Proof using differential equations
+   Enlarge
+   Proof using differential equations
+
+   As a result of a change in side a,
+
+          \frac {da}{dc} = \frac {c}{a}
+
+   by similar triangles and for differential changes. So
+
+          c\, dc = a\, da
+
+   upon separation of variables. A more general result is
+
+          c\ dc = a\, da + b\, db
+
+   which results from adding a second term for changes in side b.
+
+   Integrating gives
+
+          c^2 = a^2 +b^2 + \mathrm{constant}.\ \,\!
+
+          a = b = c = 0 \Rightarrow \mathrm{constant} = 0\,\!
+
+   So
+
+          c^2 = a^2 +b^2.\
+
+   As can be seen, the squares are due to the particular proportion
+   between the changes and the sides while the sum is a result of the
+   independent contributions of the changes in the sides which is not
+   evident from the geometric proofs. From the proportion given it can be
+   shown that the changes in the sides are inversely proportional to the
+   sides. The differential equation suggests that the theorem is due to
+   relative changes and its derivation is nearly equivalent to computing a
+   line integral. A simpler derivation would leave b\ fixed and then
+   observe that
+
+          a=0 \Rightarrow c^2 = b^2 = \mathrm{constant}.\,\!
+
+   It is doubtful that the Pythagoreans would have been able to do the
+   above proof but they knew how to compute the area of a triangle and
+   were familiar with figurate numbers and the gnomon, a segment added
+   onto a geometrical figure. All of these ideas predate calculus and are
+   an alternative for the integral.
+
+   The proportional relation between the changes and their sides is at
+   best an approximation, so how can one justify its use? The answer is
+   the approximation gets better for smaller changes since the arc of the
+   circle which cuts off c more closely approaches the tangent to the
+   circle. As for the sides and triangles, no matter how many segments
+   they are divided into the sum of these segments is always the same. The
+   Pythagoreans were trying to understand change and motion and this led
+   them to realize that the number line was infinitely divisible. Could
+   they have discovered the approximation for the changes in the sides?
+   One only has to observe that the motion of the shadow of a sundial
+   produces the hypotenuses of the triangles to derive the figure shown.
+
+Rational trigonometry
+
+   For a proof by the methods of rational trigonometry, see Pythagoras'
+   theorem proof (rational trigonometry).
+
+Proof of the converse
+
+          For any three positive numbers a, b, and c such that
+          a^2 + b^2 = c^2, there exists a triangle with sides a, b and c,
+          and every such triangle has a right angle between the sides of
+          lengths a and b.
+
+   This converse also appears in Euclid's Elements. It can be proven using
+   the law of cosines (see below under Generalizations), or by the
+   following proof:
+
+   Let ABC be a triangle with side lengths a, b, and c, with
+   a^2 + b^2 = c^2. We need to prove that the angle between the a and b
+   sides is a right angle. We construct another triangle with a right
+   angle between sides of lengths a and b. By the Pythagorean theorem, it
+   follows that the hypotenuse of this triangle also has length c. Since
+   both triangles have the same side lengths a, b and c, they are
+   congruent, and so they must have the same angles. Therefore, the angle
+   between the side of lengths a and b in our original triangle is a right
+   angle.
+
+Consequences and uses of the theorem
+
+Pythagorean triples
+
+   A Pythagorean triple consists of three positive integers a, b, and c,
+   such that a^2 + b^2 = c^2. In other words, a Pythagorean triple
+   represents the lengths of the sides of a right triangle where all three
+   sides have integer lengths. Evidence from megalithic monuments on the
+   British Isles shows that such triples were known before the discovery
+   of writing. Such a triple is commonly written (a, b, c), and a
+   well-known example is (3, 4, 5).
+
+   A Pythagorean triple is primitive if a, b, and c have no common divisor
+   other than 1. There are infinitely many primitive triples, and all
+   Pythagorean triples can be explicitly generated using the following
+   formula: choose two integers m and n with m > n, and let a = m^2 − n^2,
+   b = 2mn, c = m^2 + n^2. Then we have a^2 + b^2 = c^2. Also, any
+   multiple of a Pythagorean triple is again a Pythagorean triple.
+
+   Pythagorean triples allow the construction of right angles. The fact
+   that the lengths of the sides are integers means that, for example,
+   tying knots at equal intervals along a string allows the string to be
+   stretched into a triangle with sides of length three, four, and five,
+   in which case the largest angle will be a right angle. This methods was
+   used to step masts at sea and by the Egyptians in construction work.
+
+   A generalization of the concept of Pythagorean triples is a triple of
+   positive integers a, b, and c, such that a^n + b^n = c^n, for some n
+   strictly greater than 2. Pierre de Fermat in 1637 claimed that no such
+   triple exists, a claim that came to be known as Fermat's last theorem.
+   The first proof was given by Andrew Wiles in 1994.
+
+The existence of irrational numbers
+
+   One of the consequences of the Pythagorean theorem is that irrational
+   numbers, such as the square root of two, can be constructed. A right
+   triangle with legs both equal to one unit has hypotenuse length square
+   root of two. The Pythagoreans proved that the square root of two is
+   irrational, and this proof has come down to us even though it flew in
+   the face of their cherished belief that everything was rational.
+   According to the legend, Hippasus, who first proved the irrationality
+   of the square root of two, was drowned at sea as a consequence.
+
+Distance in Cartesian coordinates
+
+   The distance formula in Cartesian coordinates is derived from the
+   Pythagorean theorem. If (x[0], y[0]) and (x[1], y[1]) are points in the
+   plane, then the distance between them, also called the Euclidean
+   distance, is given by
+
+                \sqrt{(x_1-x_0)^2 + (y_1-y_0)^2}.
+
+   More generally, in Euclidean n-space, the Euclidean distance between
+   two points A=(a_1,a_2,\dots,a_n) and B=(b_1,b_2,\dots,b_n) , is
+   defined, using the Pythagorean theorem, as:
+
+          \sqrt{(a_1-b_1)^2 + (a_2-b_2)^2 + \cdots + (a_n-b_n)^2} =
+          \sqrt{\sum_{i=1}^n (a_i-b_i)^2}
+
+Generalizations
+
+   The Pythagorean theorem was generalised by Euclid in his Elements:
+
+          If one erects similar figures (see Euclidean geometry) on the
+          sides of a right triangle, then the sum of the areas of the two
+          smaller ones equals the area of the larger one.
+
+   The Pythagorean theorem is a special case of the more general theorem
+   relating the lengths of sides in any triangle, the law of cosines:
+
+                a^2+b^2-2ab\cos{\theta}=c^2, \,
+
+          where θ is the angle between sides a and b.
+          When θ is 90 degrees, then cos(θ) = 0, so the formula reduces to
+          the usual Pythagorean theorem.
+
+   Given two vectors v and w in a complex inner product space, the
+   Pythagorean theorem takes the following form:
+
+                \|\mathbf{v}+\mathbf{w}\|^2 = \|\mathbf{v}\|^2 +
+                \|\mathbf{w}\|^2 +
+                2\,\mbox{Re}\,\langle\mathbf{v},\mathbf{w}\rangle
+
+   In particular, ||v + w||^2 = ||v||^2 + ||w||^2 if and only if v and w
+   are orthogonal.
+
+   Using mathematical induction, the previous result can be extended to
+   any finite number of pairwise orthogonal vectors. Let v[1], v[2],...,
+   v[n] be vectors in an inner product space such that <v[i], v[j]> = 0
+   for 1 ≤ i < j ≤ n. Then
+
+                \left\|\,\sum_{k=1}^{n}\mathbf{v}_k\,\right\|^2 =
+                \sum_{k=1}^{n} \|\mathbf{v}_k\|^2
+
+   The generalisation of this result to infinite-dimensional real inner
+   product spaces is known as Parseval's identity.
+
+   When the theorem above about vectors is rewritten in terms of solid
+   geometry, it becomes the following theorem. If lines AB and BC form a
+   right angle at B, and lines BC and CD form a right angle at C, and if
+   CD is perpendicular to the plane containing lines AB and BC, then the
+   sum of the squares of the lengths of AB, BC, and CD is equal to the
+   square of AD. The proof is trivial.
+
+   Another generalization of the Pythagorean theorem to three dimensions
+   is de Gua's theorem, named for Jean Paul de Gua de Malves: If a
+   tetrahedron has a right angle corner (a corner like a cube), then the
+   square of the area of the face opposite the right angle corner is the
+   sum of the squares of the areas of the other three faces.
+
+   There are also analogs of these theorems in dimensions four and higher.
+
+   In a triangle with three acute angles, α + β > γ holds. Therefore, a^2
+   + b^2 > c^2 holds.
+
+   In a triangle with an obtuse angle, α + β < γ holds. Therefore, a^2 +
+   b^2 < c^2 holds.
+
+   Edsger Dijkstra has stated this proposition about acute, right, and
+   obtuse triangles in this language:
+
+                sgn(α + β − γ) = sgn(a^2 + b^2 − c^2)
+
+   where α is the angle opposite to side a, β is the angle opposite to
+   side b and γ is the angle opposite to side c.
+
+The Pythagorean theorem in non-Euclidean geometry
+
+   The Pythagorean theorem is derived from the axioms of Euclidean
+   geometry, and in fact, the Euclidean form of the Pythagorean theorem
+   given above does not hold in non-Euclidean geometry. (It has been shown
+   in fact to be equivalent to Euclid's Parallel (Fifth) Postulate.) For
+   example, in spherical geometry, all three sides of the right triangle
+   bounding an octant of the unit sphere have length equal to π / 2; this
+   violates the Euclidean Pythagorean theorem because
+   (\pi/2)^2+(\pi/2)^2\neq (\pi/2)^2 .
+
+   This means that in non-Euclidean geometry, the Pythagorean theorem must
+   necessarily take a different form from the Euclidean theorem. There are
+   two cases to consider -- spherical geometry and hyperbolic plane
+   geometry; in each case, as in the Euclidean case, the result follows
+   from the appropriate law of cosines:
+
+   For any right triangle on a sphere of radius R, the Pythagorean theorem
+   takes the form
+
+                \cos \left(\frac{c}{R}\right)=\cos
+                \left(\frac{a}{R}\right)\,\cos \left(\frac{b}{R}\right).
+
+   By using the Maclaurin series for the cosine function, it can be shown
+   that as the radius R approaches infinity, the spherical form of the
+   Pythagorean theorem approaches the Euclidean form.
+
+   For any triangle in the hyperbolic plane (with Gaussian curvature −1),
+   the Pythagorean theorem takes the form
+
+                \cosh c=\cosh a\,\cosh b
+
+          where cosh is the hyperbolic cosine.
+
+   By using the Maclaurin series for this function, it can be shown that
+   as a hyperbolic triangle becomes very small (i.e., as a, b, and c all
+   approach zero), the hyperbolic form of the Pythagorean theorem
+   approaches the Euclidean form.
+   Retrieved from " http://en.wikipedia.org/wiki/Pythagorean_theorem"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

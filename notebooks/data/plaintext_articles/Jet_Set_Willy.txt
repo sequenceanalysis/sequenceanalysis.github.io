@@ -1,0 +1,213 @@
+   #copyright
+
+Jet Set Willy
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+                              Jet Set Willy
+    Developer(s)   Software Projects
+    Publisher(s)   Software Projects
+     Designer(s)   Matthew Smith
+       Series      Miner Willy Series
+   Release date(s) 1984
+      Genre(s)     Platform game
+       Mode(s)     Single player
+     Platform(s)   ZX Spectrum, Amstrad CPC, BBC Micro, Acorn Electron,
+                   Commodore 64, Atari 8-bit family, MSX
+        Media      Cassette, Floppy disk
+        Input      Keyboard or joystick
+
+   Jet Set Willy is a computer game for the ZX Spectrum home computer. Its
+   release in 1984 was concurrent with the height of the Spectrum's
+   popularity in the early 1980s.
+
+   It was written by Matthew Smith, hailed at the time as a games-writing
+   genius. Smith later moved to the Netherlands and, since his whereabouts
+   were widely unknown, he was largely thought to have "vanished" until he
+   returned to the UK in the late 1990s. He has since appeared on a TV
+   programme ( Thumb Candy) to discuss his early games and has attended
+   several retrogaming conventions.
+
+   The game is a sequel to Manic Miner ( 1983), and is the second game in
+   the immensely popular Miner Willy Series. It was a significant
+   development in the platform game genre on the home micro. It was
+   published by Software Projects.
+
+Plot
+
+   A very tired Miner Willy has to tidy up all the items left around his
+   house after a huge party. With this done his housekeeper Maria will
+   allow him access to his bedroom. Willy's mansion house was bought with
+   the wealth obtained from his adventures in Manic Miner but much of it
+   remains unexplored and it appears to be full of strange creatures,
+   possibly a result of the previous (missing) owner's experiments. Willy
+   must explore the enormous mansion and its grounds (including a beach
+   and a yacht) to fully tidy-up the house so he can get some much-needed
+   sleep.
+
+Gameplay
+
+   Miner Willy in the Cold Store
+
+   Jet Set Willy has a similar game engine to Manic Miner and is extremely
+   simple to play, having only three controls: left, right and jump. Willy
+   can climb stairs by walking into them (jumping through them to avoid
+   them) and climb swinging ropes by pushing left or right depending on
+   what direction the rope is swinging in. The play area itself consists
+   of 60 flick-screen rooms (an impressively large number at the time of
+   the game's release) containing patrolling monsters (everything from
+   killer jellies to rolling giant eggs to enormous flies), various
+   platforms and collectable objects. The collectable items glow to
+   distinguish them from other items in the room.
+
+   The game has become well-known for its peculiarities: for example,
+   Willy loses a life if he falls too far, but if his fall causes him to
+   enter another screen before dying then the game will send Willy back to
+   where he entered the screen. On losing a life, Willy therefore begins
+   another fall, dies, is sent back again and will die repeatedly with no
+   possible escape until his lives run out. Another peculiarity of the
+   game is that the in-game music changes pitch and goes more out of tune
+   every time Willy loses a life. (Technically: the frequency of each note
+   is shifted rather than scaled.)
+
+The Attic Bug
+
+   As originally released, the game could not be completed due to several
+   bugs, the most notorious being known as the Attic Bug. After the player
+   entered the room The Attic, various rooms would undergo corruption on
+   all subsequent game plays, including all monsters disappearing from The
+   Chapel, and other screens triggering instant death. This was caused by
+   an error in the path of an arrow in The Attic, resulting in the sprite
+   travelling past the end of the Spectrum's video memory and overwriting
+   crucial game data instead.
+
+   Initially Software Projects attempted to pass this off as an
+   intentional feature to make the game more difficult, claiming that the
+   rooms in question were filled with poison gas. However, they later
+   rescinded this claim and issued a set of POKEs (low-level
+   memory-writing hacks) to correct the flaws.
+
+We Must Perform A Quirkafleeg
+
+   One of the more bizarrely-named rooms in the game is We Must Perform A
+   Quirkafleeg. (The pre-release name for the screen was "The Gaping
+   Pit".) This was characteristic of Matthew Smith's "off the wall" sense
+   of humour, and was in fact a reference to the comic strip Fat Freddy's
+   Cat, a spin-off from the Fabulous Furry Freak Brothers; in the original
+   comic, the quirkafleeg was an obscure ritual in a foreign country,
+   required to be performed upon the sight of dead furry animals.
+
+   To negotiate the room, the player must first wait a few seconds (after
+   entering the screen from the left), then jump the arrow that flies in
+   from the right (pictured). Now is the player's chance to get over the
+   pit in one piece, jump right as the rope is at the lowest point of its
+   swing (right to left), and keep moving right once on the rope (this
+   will let you climb up the rope a bit) - Climbing too far up the rope
+   will result in the player entering another room. Just enough to avoid
+   the spikes at the bottom of the pit. Now jump right at the highest
+   point of the swing. If the player did this right the bird should be on
+   the left, and should present no problem to the player's safe passage on
+   to the next screen.
+
+Trivia
+
+     * In the 1980s, Matthew Smith suggested that he was working on a
+       further Miner Willy game possibly to be titled either The Megatree
+       or Miner Willy Meets the Taxman. However, neither game has yet
+       appeared.
+     * The original in-game music is taken from " If I Were a Rich Man",
+       itself from the musical Fiddler on the Roof. The title music was
+       adapted from the first movement of Beethoven's Moonlight Sonata.
+     * There is an in-game cheat mode, which involves typing the phrase
+       WRITETYPER whilst standing between the stairs and hole in the floor
+       on the First Landing, (after which the player can travel to any
+       room in the game by holding down combinations of the number keys 9,
+       and 1-5).
+     * Software Projects announced a competition with the original release
+       of Jet Set Willy, stating that the first person to complete the
+       game would win a case of champagne and a helicopter ride over
+       London, to be piloted by Tommy Barton, a director of Software
+       Projects. The competition was won by two Londoners; Ross Holman and
+       Cameron Else. The pair opted for cash in place of the chopper ride,
+       but they did get the champagne. (Ross & Cam hacked Jet Set Willy
+       when they realized that it couldn't be completed as it stood
+       because of 4 major bugs, they produced the necessary fixes which
+       then became the official Software Projects pokes. On completing the
+       game they phoned up Software Projects, told them that "Willy went
+       to commune with the Great White Telephone", and that there were a
+       total of 83 objects.)
+     * Ross Holman consequently became a writer for the magazine Your
+       Spectrum which later changed its name to Your Sinclair.
+     * Cameron Else coded the MSX conversion of the game.
+     * In a jibe at Imagine Software with their motto "The Name of The
+       Game", the room Nomen Luni is a pun on the Latin for Name of the
+       Game Nomen Ludi. An aeroplane from the game Zzoom has crashed into
+       the roof and is visible in both Nomen Luni and Under the roof.
+     * The game was one of the first for the Spectrum to feature copy
+       protection. A card containing a grid of colour codes came with the
+       cassette; once the game loaded, the user was asked to type in one
+       of the codes randomly selected by the game. This was done in the
+       days when colour reproduction was hard. Solutions to work around
+       the protection scheme included simply copying out the grid;
+       additionally, a number of POKEs were devised to bypass the code
+       system. The magazine Computer and Video Games, published a letter
+       detailing one such POKE in 1984.
+
+Third-Party Modifications
+
+   In its original Spectrum version, Jet Set Willy has a clear separation
+   between the game engine and the data describing the rooms. The rooms
+   themselves are stored in a straightforward format, with no compression.
+   It is therefore relatively easy to create customised versions of the
+   game.
+
+   The review of JSW in issue 4 of Your Spectrum included a section
+   entitled 'JSW - A Hacker's Guide'; remarks in this section imply that
+   the author had successfully deduced at least some of the data
+   structures, since he was able to remove sections of wall in the Master
+   Bedroom. The following year, issue 13 contained a program that added an
+   extra room ("April Showers") to the game, and issue 15 described the
+   data formats in some detail.
+
+   Several third-party editing tools were published between 1984 and 1986,
+   allowing players to design their own rooms and sprites. Since then,
+   these and other programs have been used by fans to create many modified
+   versions of JSW, ranging from relatively minor changes in a few rooms
+   to completely new games. In recent years, a Windows-based JSW editor
+   has been created.
+
+   Henry's Hoard, released by Alternative Software in 1985, was based on a
+   modified version of the JSW game engine, apparently without the
+   knowledge of Software Projects.
+
+Ports
+
+   The following ports to other computer platforms were made:
+     * Jet Set Willy II, an expanded version for the Amstrad CPC, was
+       later converted back to the ZX Spectrum.
+     * Both the original game and Jet Set Willy II were released for the
+       BBC Micro, Acorn Electron, MSX, Commodore 16 and Commodore 64. The
+       original BBC Micro release also contained a bug which made it
+       impossible to complete the game - though not the same bug as the
+       Spectrum version.
+     * A different expanded version of Jet Set Willy was released for the
+       Dragon 32/64, with 13 extra rooms.
+     * A port of Jet Set Willy to the Atari 8-bit family of computers was
+       released by Tynesoft in 1987. It received generally poor reviews,
+       and has since been called "the lousiest version of JSW ever".
+       However, this version features completely different music (by Rob
+       Hubbard), which is generally held to be one of its stronger points.
+       Like the Spectrum version, it was impossible to complete but for
+       different reasons. Some of the legitimate items that were needed
+       caused the player to lose a life (e.g. the bottles in the Off
+       Licence).
+     * Software Projects made ports to the Commodore Amiga and Atari ST
+       but canceled them before they were released.
+     * Unofficial ports exist for the Acorn Archimedes, DOS, Microsoft
+       Windows, PlayStation, Gameboy, Cambridge Z88 and the Java platform.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Jet_Set_Willy"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

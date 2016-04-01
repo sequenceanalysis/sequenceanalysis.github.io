@@ -1,0 +1,138 @@
+   #copyright
+
+Phosphorus tribromide
+
+2007 Schools Wikipedia Selection. Related subjects: Chemical compounds
+
+                              Phosphorus tribromide
+                   Phosphorus tribromide Phosphorus tribromide
+                                     General
+          Systematic name                                  phosphorus tribromide
+              Other names                    phosphorus(III) bromide
+                                                             phosphorous bromide
+                                                               tribromophosphine
+        Molecular formula                                                 PBr[3]
+               Molar mass                                           270.70 g/mol
+               Appearance                               clear, colourless liquid
+               CAS number                                            [7789-60-8]
+                                    Properties
+        Density and phase                                   2.852 g/cm^3, liquid
+      Solubility in water                                       rapid hydrolysis
+              in methanol                                             decomposes
+              in acetone,
+              chloroform,
+            diethyl ether                                                soluble
+            Melting point                                     -41.5 °C (231.7 K)
+            Boiling point                                     173.2 °C (446.4 K)
+                Viscosity                                          ? c P at ? °C
+                                    Structure
+          Molecular shape                                   trigonal bipyramidal
+            Dipole moment                                                    ? D
+                                     Hazards
+                     MSDS                                          External MSDS
+             Main hazards                             corrosive, toxic, reactive
+                                                         with water and alcohols
+                 NFPA 704 Image:nfpa_h3.png Image:nfpa_f0.png Image:nfpa_r2.png
+              Flash point                                                   ? °C
+            R/S statement                                          R: 14, 34, 37
+                                                                       S: 25, 45
+             RTECS number                                              TH4460000
+                             Supplementary data page
+   Structure & properties                                          n, ε[r], etc.
+       Thermodynamic data                                        Phase behaviour
+                                                              Solid, liquid, gas
+                      NMR                           δ227 (downfield of H[3]PO[4]
+                                Related compounds
+             Other anions                    phosphorus trifluoride
+                                                          phosphorus trichloride
+                                                            phosphorus triiodide
+            Other cations                      nitrogen tribromide
+                                                              arsenic tribromide
+                                                             antimony tribromide
+        Related compounds                                phosphorus pentabromide
+                                                           phosphorus oxybromide
+                 Except where noted otherwise, data are given for
+                          materials in their standard state (at 25°C, 100 kPa)
+                                              Infobox disclaimer and references
+
+   Phosphorus tribromide is a colourless liquid with the formula PBr[3].
+   It fumes in air due to hydrolysis and has a penetrating odour. It is
+   widely used in the laboratory for the conversion of alcohols to alkyl
+   bromides.
+
+Chemical properties
+
+   Phosphorus tribromide, like PCl[3] and PF[3], has both properties of a
+   Lewis base and a Lewis acid. For example, with a Lewis acid such as
+   boron tribromide it forms stable 1:1 adducts such as Br[3]B-PBr[3]. At
+   the same time PBr[3] can react as an electrophile or Lewis acid in many
+   of its reactions, for example with amines.
+
+   The most important reaction of PBr[3] is with alcohols, where it
+   replaces an OH group with a bromine atom to produce an alkyl bromide.
+   Note that all three bromines can be transferred.
+
+          PBr[3] + 3 ROH → 3 RBr + HP(O)(OH)[2]
+
+   The mechanism (shown for a primary alcohol) involves initial activation
+   of the alcohol oxygen by the electrophilic phosphorus (to form a good
+   leaving group), followed by an S[N]2 substitution at the alcohol
+   carbon.
+
+   Because of the S[N]2 substitution step, the reaction generally works
+   well for primary and secondary alcohols, but fails for tertiary
+   alcohols. If the reacting carbon centre is chiral, the reaction usually
+   occurs with inversion of configuration at the alcohol carbon, as is
+   usual with an S[N]2 reaction.
+
+   In a similar reaction, PBr[3] also converts carboxylic acids to acyl
+   bromides.
+
+          PBr[3] + 3 RCOOH → 3 RCOBr + HP(O)(OH)[2]
+
+   PBr[3] is a reasonably strong reducing agent, and the oxidation of
+   PBr[3] with oxygen gas is more vigorous than seen with PCl[3]. It gives
+   an explosive reaction that forms P[2]O[5] and Br[2].
+
+Preparation
+
+   PBr[3] is by treating phosphorus with bromine, using PBr[3] itself as
+   the solvent (white phosphorus is soluble in PBr[3]). An excess of
+   phosphorus is used in order to prevent formation of PBr[5].
+
+          P[4] + 6 Br[2] → 4 PBr[3]
+
+Uses
+
+   The main use for phosphorus tribromide is for conversion of primary or
+   secondary alcohols to alkyl bromides^, as described above. PBr[3]
+   usually gives higher yields than hydrobromic acid, and it avoids
+   problems of carbocation rearrangement- for example even neopentyl
+   bromide can be made from the alcohol in 60% yield^.
+
+   Another use for PBr[3] is as a catalyst for the α-bromination of
+   carboxylic acids. Although acyl bromides are rarely made in comparison
+   with acyl chlorides, they are used as intermediates in
+   Hell-Volhard-Zelinsky halogenation ^. Initially PBr[3] reacts with the
+   carboxylic acid to form the acyl bromide, which is more reactive
+   towards bromination. The overall process can be represented as
+
+   On a commercial scale, phosphorus tribromide is used in the manufacture
+   of pharmaceuticals such as alprazolam, methohexital and fenoprofen. It
+   is also a potent fire suppression agent marketed under the name
+   PhostrEx.
+
+Precautions
+
+   PBr[3] evolves corrosive HBr, is toxic, and reacts violently with water
+   and alcohols.
+
+   In reactions that produce phosphorous acid as a by-product, when
+   working up by distillation be aware that this can decompose above about
+   160 °C to give phosphine which can cause explosions in contact with
+   air.^
+   Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

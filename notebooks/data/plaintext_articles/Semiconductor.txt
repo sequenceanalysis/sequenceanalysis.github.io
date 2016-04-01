@@ -1,0 +1,377 @@
+   #copyright
+
+Semiconductor
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   A semiconductor is a solid whose electrical conductivity can be
+   controlled over a wide range, either permanently or dynamically.
+   Semiconductors are tremendously important technologically and
+   economically. Silicon is the most commercially important semiconductor,
+   though dozens of others are important as well.
+
+   Semiconductor devices, electronic components made of semiconductor
+   materials, are essential in modern electrical devices, from computers
+   to cellular phones to digital audio players.
+
+Overview
+
+   Semiconductors are very similar to insulators. The two categories of
+   solids differ primarily in that insulators have larger band gaps —
+   energies that electrons must acquire to be free to flow. In
+   semiconductors at room temperature, just as in insulators, very few
+   electrons gain enough thermal energy to leap the band gap, which is
+   necessary for conduction. For this reason, pure semiconductors and
+   insulators, in the absence of applied fields, have roughly similar
+   electrical properties. The smaller bandgaps of semiconductors, however,
+   allow for many other means besides temperature to control their
+   electrical properties.
+
+   Semiconductors' intrinsic electrical properties are very often
+   permanently modified by introducing impurities, in a process known as
+   doping. Usually it is reasonable to approximate that each impurity atom
+   adds one electron or one "hole" (a concept to be discussed later) that
+   may flow freely. Upon the addition of a sufficiently large proportion
+   of dopants, semiconductors conduct electricity nearly as well as
+   metals. Depending on kind of the impurity, a region of semiconductor
+   can have more electrons or holes, and then it is called N-type or
+   P-type semiconductor, respectively. Junctions between regions of N- and
+   P-type semiconductors have built-in electric fields, which cause
+   electrons and holes to escape from them, and are critical to
+   semiconductor device operation. Also, a density difference of
+   impurities produces in the region small electric field which is used to
+   accelerate non-equilibrium electrons or holes in it.
+
+   In addition to permanent modification through doping, the electrical
+   properties of semiconductors are often dynamically modified by applying
+   electric fields. The ability to control conductivity in small and
+   well-defined regions of semiconductor material, both statically through
+   doping and dynamically through the application of electric fields, has
+   led to the development of a broad range of semiconductor devices, like
+   transistors. Semiconductor devices with dynamically controlled
+   conductivity are the building blocks of integrated circuits, like the
+   microprocessor. These "active" semiconductor devices are combined with
+   simpler passive components, such as semiconductor capacitors and
+   resistors, to produce a variety of electronic devices.
+
+   In certain semiconductors, when electrons fall from the conduction band
+   to the valence band (the energy levels above and below the band gap),
+   they often emit light. This photoemission process underlies the
+   light-emitting diode (LED) and the semiconductor laser, both of which
+   are very important commercially. Conversely, semiconductor absorption
+   of light in photodetectors excites electrons from the valence band to
+   the conduction band, facilitating reception of fibre optic
+   communications, and providing the basis for energy from solar cells.
+
+   Semiconductors may be elemental materials such as silicon and
+   germanium, or compound semiconductors such as gallium arsenide and
+   indium phosphide, or alloys such as silicon germanium or aluminium
+   gallium arsenide.
+
+Band structure
+
+   Band structure of a semiconductor showing a full valence band and an
+   empty conduction band.
+   Band structure of a semiconductor showing a full valence band and an
+   empty conduction band.
+
+   Like other solids, the electrons in semiconductors can have energies
+   only within certain bands between the energy of the ground state,
+   corresponding to electrons tightly bound to the atomic nuclei of the
+   material, and the free electron energy, which is the energy required
+   for an electron to escape entirely from the material. The energy bands
+   each correspond to a large number of discrete quantum states of the
+   electrons, and most of the states with low energy are full, up to a
+   particular band called the valence band. Semiconductors and insulators
+   are distinguished from metals because the valence band in the former
+   materials is very nearly full under normal conditions.
+
+   The ease with which electrons in a semiconductor can be excited from
+   the valence band to the conduction band depends on the band gap between
+   the bands, and it is the size of this energy bandgap that serves as an
+   arbitrary dividing line (roughly 4 eV) between semiconductors and
+   insulators.
+
+   The electrons must move between states to conduct electric current, and
+   so due to the Pauli exclusion principle full bands do not contribute to
+   the electrical conductivity. However, as the temperature of a
+   semiconductor rises above absolute zero, the states of the electrons
+   are increasingly randomized, or smeared out, and some electrons are
+   likely to be found in states of the conduction band, which is the band
+   immediately above the valence band. The current-carrying electrons in
+   the conduction band are known as "free electrons", although they are
+   often simply called "electrons" if context allows this usage to be
+   clear.
+
+   Electrons excited to the conduction band also leave behind electron
+   holes, or unoccupied states in the valence band. Both the conduction
+   band electrons and the valence band holes contribute to electrical
+   conductivity. The holes themselves don't actually move, but a
+   neighbouring electron can move to fill the hole, leaving a hole at the
+   place it has just come from, and in this way the holes appear to move,
+   and the holes behave as if they were actual positively charged
+   particles.
+
+   One covalent bond between neighboring atoms in the solid is ten times
+   stronger than the binding of the single electron to the atom, so
+   freeing the electron does not imply to destroy the crystal structure.
+
+   The notion of holes, which was introduced for semiconductors, can also
+   be applied to metals, where the Fermi level lies within the conduction
+   band. With most metals the Hall effect reveals electrons to be the
+   charge carriers, but some metals have a mostly filled conduction band,
+   and the Hall effect reveals positive charge carriers, which are not the
+   ion-cores, but holes. Contrast this to some conductors like solutions
+   of salts, or plasma. In the case of a metal, only a small amount of
+   energy is needed for the electrons to find other unoccupied states to
+   move into, and hence for current to flow. Sometimes even in this case
+   it may be said that a hole was left behind, to explain why the electron
+   does not fall back to lower energies: It cannot find a hole. In the end
+   in both materials electron-phonon scattering and defects are the
+   dominant causes for resistance.
+   Fermi-Dirac distribution. States with energy ε below the Fermi energy,
+   here μ, have higher probability n to be occupied, and those above are
+   less likely to be occupied. Smearing of the distribution increases with
+   temperature.
+   Fermi-Dirac distribution. States with energy ε below the Fermi energy,
+   here μ, have higher probability n to be occupied, and those above are
+   less likely to be occupied. Smearing of the distribution increases with
+   temperature.
+
+   The energy distribution of the electrons determines which of the states
+   are filled and which are empty. This distribution is described by
+   Fermi-Dirac statistics. The distribution is characterized by the
+   temperature of the electrons, and the Fermi energy or Fermi level.
+   Under absolute zero conditions the Fermi energy can be thought of as
+   the energy up to which available electron states are occupied. At
+   higher temperatures, the Fermi energy is the energy at which the
+   probability of a state being occupied has fallen to 0.5.
+
+   The dependence of the electron energy distribution on temperature also
+   explains why the conductivity of a semiconductor has a strong
+   temperature dependency, as a semiconductor operating at lower
+   temperatures will have fewer available free electrons and holes able to
+   do the work.
+
+Energy–momentum dispersion
+
+   In the preceding description an important fact is ignored for the sake
+   of simplicity: the dispersion of the energy. The reason that the
+   energies of the states are broadened into a band is that the energy
+   depends on the value of the wave vector, or k-vector, of the electron.
+   The k-vector, in quantum mechanics, is the representation of the
+   momentum of a particle.
+
+   The dispersion relationship determines the effective mass, m ^* , of
+   electrons or holes in the semiconductor, according to the formula:
+
+          m^{*} = \hbar^2 \cdot \left[ {{d^2 E(k)} \over {d k^2}}
+          \right]^{-1}
+
+   The effective mass is important as it affects many of the electrical
+   properties of the semiconductor, such as the electron or hole mobility,
+   which in turn influences the diffusivity of the charge carriers and the
+   electrical conductivity of the semiconductor.
+
+   Typically the effective mass of electrons and holes are different. This
+   affects the relative performance of p-channel and n-channel IGFETs, for
+   example (Muller & Kamins 1986:427).
+
+   The top of the valence band and the bottom of the conduction band might
+   not occur at that same value of k. Materials with this situation, such
+   as silicon and germanium, are known as indirect bandgap materials.
+   Materials in which the band extrema are aligned in k, for example
+   gallium arsenide, are called direct bandgap semiconductors. Direct gap
+   semiconductors are particularly important in optoelectronics because
+   they are much more efficient as light emitters than indirect gap
+   materials.
+
+Carrier generation and recombination
+
+   When ionizing radiation strikes a semiconductor, it may excite an
+   electron out of its energy level and consequently leave a hole. This
+   process is known as electron–hole pair generation. Electron-hole pairs
+   are constantly generated from thermal energy as well, in the absence of
+   any external energy source.
+
+   Electron-hole pairs are also apt to recombine. Conservation of energy
+   demands that these recombination events, in which an electron loses an
+   amount of energy larger than the band gap, be accompanied by the
+   emission of thermal energy (in the form of phonons) or radiation (in
+   the form of photons).
+
+   In the steady state, the generation and recombination of electron–hole
+   pairs are in equipoise. The number of electron-hole pairs in the steady
+   state at a given temperature is determined by quantum statistical
+   mechanics. The precise quantum mechanical mechanisms of generation and
+   recombination are governed by conservation of energy and conservation
+   of momentum.
+
+   As probability that electrons and holes meet together is proportional
+   to the product of their amounts, the product is in steady state nearly
+   constant at a given temperature, providing that there is no significant
+   electric field (which might "flush" carriers of both types, or move
+   them from neighbour regions containing more of them to meet together)
+   or externally driven pair generation. The product is a function of the
+   temperature, as the probability of getting enough thermal energy to
+   produce a pair increases with temperature, being approximately
+   1/exp(band gap / kT), where k is Boltzmann's constant and T is absolute
+   temperature.
+
+   The probability of meeting is increased by carrier traps – impurities
+   or dislocations which can trap an electron or hole and hold it until a
+   pair is completed. Such carrier traps are sometimes purposely added to
+   reduce the time needed to reach the steady state.
+
+Doping
+
+   The property of semiconductors that makes them most useful for
+   constructing electronic devices is that their conductivity may easily
+   be modified by introducing impurities into their crystal lattice. The
+   process of adding controlled impurities to a semiconductor is known as
+   doping. The amount of impurity, or dopant, added to an intrinsic (pure)
+   semiconductor varies its level of conductivity. Doped semiconductors
+   are often referred to as extrinsic.
+
+Dopants
+
+   The materials chosen as suitable dopants depend on the atomic
+   properties of both the dopant and the material to be doped. In general,
+   dopants that produce the desired controlled changes are classified as
+   either electron acceptors or donors. A donor atom that activates (that
+   is, becomes incorporated into the crystal lattice) donates weakly-bound
+   valence electrons to the material, creating excess negative charge
+   carriers. These weakly-bound electrons can move about in the crystal
+   lattice relatively freely and can facilitate conduction in the presence
+   of an electric field. (The donor atoms introduce some states under, but
+   very close to the conduction band edge. Electrons at these states can
+   be easily excited to conduction band, becoming free electrons, at room
+   temperature.) Conversely, an activated acceptor produces a hole.
+   Semiconductors doped with donor impurities are called n-type, while
+   those doped with acceptor impurities are known as p-type. The n and p
+   type designations indicate which charge carrier acts as the material's
+   majority carrier. The opposite carrier is called the minority carrier,
+   which exists due to thermal excitation at a much lower concentration
+   compared to the majority carrier.
+
+   For example, the pure semiconductor silicon has four valence electrons.
+   In silicon, the most common dopants are IUPAC group 13 (commonly known
+   as group III) and group 15 (commonly known as group V) elements. Group
+   13 elements all contain three valence electrons, causing them to
+   function as acceptors when used to dope silicon. Group 15 elements have
+   five valence electrons, which allows them to act as a donor. Therefore,
+   a silicon crystal doped with boron creates a p-type semiconductor
+   whereas one doped with phosphorus results in an n-type material.
+
+Carrier concentration
+
+   The concentration of dopant introduced to an intrinsic semiconductor
+   determines its concentration and indirectly affects many of its
+   electrical properties. The most important factor that doping directly
+   affects is the material's carrier concentration. In an intrinsic
+   semiconductor under thermal equilibrium, the concentration of electrons
+   and holes is equivalent. That is,
+
+          n = p = n[i]
+
+   Where n is the concentration of conducting electrons, p is the electron
+   hole concentration, and n[i] is the material's intrinsic carrier
+   concentration. Intrinsic carrier concentration varies between materials
+   and is dependent on temperature. Silicon's n[i], for example, is
+   roughly 1×10^10 cm^-3 at 300 kelvins (room temperature).
+
+   In general, an increase in doping concentration affords an increase in
+   conductivity due to the higher concentration of carriers available for
+   conduction. Degenerately (very highly) doped semiconductors have
+   conductivity levels comparable to metals and are often used in modern
+   integrated circuits as a replacement for metal. Often superscript plus
+   and minus symbols are used to denote relative doping concentration in
+   semiconductors. For example, n ^+ denotes an n-type semiconductor with
+   a high, often degenerate, doping concentration. Similarly, p ^− would
+   indicate a very lightly doped p-type material. It is useful to note
+   that even degenerate levels of doping imply low concentrations of
+   impurities with respect to the base semiconductor. In crystalline
+   intrinsic silicon, there are approximately 5×10^22 atoms/cm³. Doping
+   concentration for silicon semiconductors may range anywhere from 10^13
+   cm^-3 to 10^18 cm^-3. Doping concentration above about 10^18 cm^-3 is
+   considered degenerate at room temperature. Degenerately doped silicon
+   contains a proportion of impurity to silicon in the order of parts per
+   thousand. This proportion may be reduced to parts per billion in very
+   lightly doped silicon. Typical concentration values fall somewhere in
+   this range and are tailored to produce the desired properties in the
+   device that the semiconductor is intended for.
+
+Effect on band structure
+
+   Band diagram of a p+n junction. The band bending is a result of the
+   positioning of the Fermi levels in the p+ and n sides.
+   Band diagram of a p^+n junction. The band bending is a result of the
+   positioning of the Fermi levels in the p^+ and n sides.
+
+   Doping a semiconductor crystal introduces allowed energy states within
+   the band gap but very close to the energy band that corresponds with
+   the dopant type. In other words, donor impurities create states near
+   the conduction band while acceptors create states near the valence
+   band. The gap between these energy states and the nearest energy band
+   is usually referred to as dopant-site bonding energy or E[B] and is
+   relatively small. For example, the E[B] for boron in silicon bulk is
+   0.045 eV, compared with silicon's band gap of about 1.12 eV. Because
+   E[B] is so small, it takes little energy to ionize the dopant atoms and
+   create free carriers in the conduction or valence bands. Usually the
+   thermal energy available at room temperature is sufficient to ionize
+   most of the dopant.
+
+   Dopants also have the important effect of shifting the material's Fermi
+   level towards the energy band that corresponds with the dopant with the
+   greatest concentration. Since the Fermi level must remain constant in a
+   system in thermodynamic equilibrium, stacking layers of materials with
+   different properties leads to many useful electrical properties. For
+   example, the p-n junction's properties are due to the energy band
+   bending that happens as a result of lining up the Fermi levels in
+   contacting regions of p-type and n-type material.
+
+   This effect is shown in a band diagram. The band diagram typically
+   indicates the variation in the valence band and conduction band edges
+   versus some spatial dimension, often denoted x. The Fermi energy is
+   also usually indicated in the diagram. Sometimes the intrinsic Fermi
+   energy, E[i], which is the Fermi level in the absence of doping, is
+   shown. These diagrams are useful in explaining the operation of many
+   kinds of semiconductor devices.
+
+Preparation of semiconductor materials
+
+   Semiconductors with predictable, reliable electronic properties are
+   necessary for mass production. The level of chemical purity needed is
+   extremely high because the presence of impurities even in very small
+   proportions can have large effects on the properties of the material. A
+   high degree of crystalline perfection is also required, since faults in
+   crystal structure (such as dislocations, twins, and stacking faults)
+   interfere with the semiconducting properties of the material.
+   Crystalline faults are a major cause of defective semiconductor
+   devices. The larger the crystal, the more difficult it is to achieve
+   the necessary perfection. Current mass production processes use crystal
+   ingots between four and twelve inches (300 mm) in diameter which are
+   grown as cylinders and sliced into wafers.
+
+   Because of the required level of chemical purity and the perfection of
+   the crystal structure which are needed to make semiconductor devices,
+   special methods have been developed to produce the initial
+   semiconductor material. A technique for achieving high purity includes
+   growing the crystal using the Czochralski process. An additional step
+   that can be used to further increase purity is known as zone refining.
+   In zone refining, part of a solid crystal is melted. The impurities
+   tend to concentrate in the melted region, while the desired material
+   recrystalizes leaving the solid material more pure and with fewer
+   crystalline faults.
+
+   In manufacturing semiconductor devices involving heterojunctions
+   between different semiconductor materials, the lattice constant, which
+   is the length of the repeating element of the crystal structure, is
+   important for determining the compatibility of materials.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Semiconductor"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

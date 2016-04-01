@@ -1,0 +1,426 @@
+   #copyright
+
+Rubik's Cube
+
+2007 Schools Wikipedia Selection. Related subjects: Games
+
+   Variations of Rubik's Cubes (from left to right: Rubik's Revenge,
+   Rubik's Cube, Professor's Cube, & Pocket Cube)
+   Enlarge
+   Variations of Rubik's Cubes (from left to right: Rubik's Revenge,
+   Rubik's Cube, Professor's Cube, & Pocket Cube)
+
+   Rubik's Cube or (informally) Rubix Cube is a mechanical puzzle invented
+   in 1974 by the Hungarian sculptor and professor of architecture Ernő
+   Rubik. The plastic cube comes in four widely available versions: the
+   2×2×2 (" Pocket Cube"), the 3×3×3 standard cube, the 4×4×4 (" Rubik's
+   Revenge"), 5×5×5 (" Professor's Cube"). 6×6×6 and 7×7×7 cubes are
+   currently being produced. The 3×3×3 version, which is the version
+   usually meant by the term "Rubik's Cube," has nine square faces on each
+   side, for a total area of fifty-four faces, and occupies the volume of
+   twenty-six unit cubes (not counting the invisible cube in the centre).
+   Typically, the faces of the Cube are covered by stickers in six solid
+   colors, one for each side of the Cube. When the puzzle is solved, each
+   side of the Cube is a solid colour. The original 3×3×3 version
+   celebrated its twenty-fifth anniversary in 2005, when a special edition
+   Cube in a presentation box was released, featuring a sticker in the
+   centre of the white face (which was replaced with a reflective surface)
+   with a "Rubik's Cube 1980-2005" logo.
+
+   Originally called the Magic Cube by its inventor, it was renamed
+   Rubik's Cube in 1980 and released worldwide in May of that year,
+   winning a Spiel des Jahres special award for Best Puzzle. It is said to
+   be the world's best-selling toy, with some 300,000,000 Rubik's Cubes
+   and imitations sold worldwide.
+
+History
+
+Conception and development
+
+   The Magic Cube was invented in 1974 by Ernő Rubik, a Hungarian sculptor
+   and professor of architecture with an interest in geometry and the
+   study of three-dimensional forms. Ernő obtained Hungarian patent
+   HU170062 for the Magic Cube in 1975 but did not take out international
+   patents. The first test batches of the product were produced in late
+   1977 and released to Budapest toy shops.
+
+   The Cube slowly grew in popularity throughout Hungary as word of mouth
+   spread. Western academics also showed interest in it. In September
+   1979, a deal was reached with Ideal Toys to release the Magic Cube
+   internationally. It made its international debut at the toy fairs of
+   London, New York, Nuremberg, and Paris in early 1980.
+
+   The progress of the Cube towards the toy shop shelves of the West was
+   then briefly halted so that it could be manufactured to Western safety
+   and packaging specifications. A lighter Cube was produced, and Ideal
+   Toys decided to rename it. " The Gordian Knot" and "Inca Gold" were
+   considered, but the company finally decided on "Rubik's Cube," and the
+   first batch was exported from Hungary in May 1980.
+
+   Taking advantage of an initial shortage of Cubes, many cheap imitations
+   appeared. In 1984, Ideal lost a patent infringement suit by Larry
+   Nichols for his patent US3655201. Terutoshi Ishigi acquired Japanese
+   patent JP55‒8192 for a nearly identical mechanism while Rubik's patent
+   was being processed, but Ishigi is generally credited with an
+   independent reinvention.
+
+Popularity
+
+   Over one hundred million Cubes were sold in the period from 1980 to
+   1982. It won the BATR Toy of the Year award in 1980 and again in 1981.
+   Many similar puzzles were released shortly after the Rubik's Cube, both
+   from Rubik himself and from other sources, including the Rubik's
+   Revenge, a 4×4×4 version of the Rubik's Cube. There are also 2×2×2 and
+   5×5×5 Cubes (known as the Pocket Cube and the Rubik's Professor,
+   respectively) and puzzles in other shapes, such as the Pyraminx, a
+   tetrahedron.
+
+   In May 2005, the Greek Panagiotis Verdes constructed a 6×6×6 Rubik's
+   Cube. and on May 23 2006, Frank Morris, a world champion Rubik's Cube
+   solver, tested this version. He had previously solved the 3×3×3 in 15
+   seconds, the 4×4×4 in 1 minute and 10 seconds, and the 5×5×5 in 2
+   minutes. The 6×6×6 took him 5 minutes and 37 seconds to solve. Morris
+   himself thanked the inventor for making it and purportedly stated that
+   the bigger the Cube is, the greater the pleasure. In July 2006, Mr.
+   Verdes succesfully constructed the 7x7x7 cube, and on October 27 2006,
+   a video of Frank Morris testing the cube was released. Videos of these
+   tests can be viewed at http://www.olympicube.com
+
+   In 1981, Patrick Bossert, a twelve-year-old schoolboy from England,
+   published his own solution in a book called You Can Do the Cube ( ISBN
+   0-14-031483-0). The book sold over 1.5 million copies worldwide in
+   seventeen editions and became the number one book on both The Times and
+   the New York Times bestseller lists for that year.
+
+   At the height of the puzzle's popularity, separate sheets of colored
+   stickers were sold so that frustrated or impatient Cube owners could
+   restore their puzzle to its original appearance.
+
+   It has been suggested that the international appeal and export
+   achievement of the Cube became one of the contributing factors in the
+   reform and liberalization of the Hungarian economy between 1981 and
+   1985, which finally led to the move from communism to capitalism.
+
+   Financially, the Cube was so successful that Rubik became the first
+   self-made elite in a communist country.
+
+   The name "Rubik's Cube" is common in many languages except Hebrew and
+   in Hungarian. In the first, it is known as the "Hungarian Cube", whilst
+   in the second, its name is "Magic Cube" (Bűvös kocka).
+
+Workings
+
+   Rubik's Cube partially disassembled
+   Enlarge
+   Rubik's Cube partially disassembled
+
+   A standard Cube measures approximately 2¼ inches (5.7 cm) on each side.
+   The puzzle consists of the twenty-six unique miniature cubes ("cubies")
+   on the surface. However, the centre cube of each face is merely a
+   single square façade; all are affixed to the core mechanisms. These
+   provide structure for the other pieces to fit into and rotate around.
+   So there are twenty-one pieces: a single core piece consisting of three
+   intersecting axes holding the six centre squares in place but letting
+   them rotate, and twenty smaller plastic pieces which fit into it to
+   form the assembled puzzle. The Cube can be taken apart without much
+   difficulty, typically by turning one side through a 45° angle and
+   prying an "edge cubie" away from a "centre cubie" until it dislodges
+   (however, prying loose a corner cubie is a good way to break off a
+   centre cubie - thus ruining the cube). It is a simple process to solve
+   a Cube by taking it apart and reassembling it in a solved state;
+   however, this is not the challenge.
+
+   There are twelve edge pieces which show two colored sides each, and
+   eight corner pieces which show three colors. Each piece shows a unique
+   color combination, but not all combinations are present (for example,
+   there is no edge piece with both white and yellow sides, if white and
+   yellow are on opposite sides of the solved Cube.). The location of
+   these cubes relative to one another can be altered by twisting an outer
+   third of the Cube 90°, 180° or 270°, but the location of the colored
+   sides relative to one another in the completed state of the puzzle
+   cannot be altered: it is fixed by the relative positions of the centre
+   squares and the distribution of colour combinations on edge and corner
+   pieces.
+
+   For most recent Cubes, the colors of the stickers are red opposite
+   orange, yellow opposite white, and green opposite blue. However, there
+   also exist Cubes with alternative colour arrangements. These
+   alternative Cubes have the yellow face opposite the green, and the blue
+   face opposite the white (with red and orange opposite faces remaining
+   unchanged).
+
+Permutations
+
+   A Normal (3x3x3) Rubik's Cube can have (8! × 3^8−1) × (12! × 2^12−1)/2
+   = 43,252,003,274,489,856,000 different positions, also referred to by
+   the mathematical term permutations. This number can also be written as
+   (~4.3 × 10^19), about forty-three quintillion ( short scale) or
+   forty-three trillion ( long scale), but the puzzle is advertised as
+   having only " billions" of positions, due to the general
+   incomprehensibility of such a large number to laymen. Despite the vast
+   number of positions, all Cubes can be solved in twenty-nine or fewer
+   moves (see Optimal solutions for Rubik's Cube).
+
+   In fact, there are (8! × 3^8) × (12! × 2^12) =
+   519,024,039,293,878,272,000 (about 519 quintillion on the short scale)
+   possible arrangements of the pieces that make up the Cube, but only one
+   in twelve of these is actually reachable. This is because there is no
+   sequence of moves that will swap a single pair or rotate a single
+   corner or edge cubie. Thus there are twelve possible sets of reachable
+   configurations, sometimes called "universes" or "orbits," into which
+   the Cube can be placed by dismantling and reassembling it.
+
+Centre faces
+
+   The original and still official Rubik's Cube has no markings on the
+   centre faces. This obscures the fact that the centre faces can rotate
+   independently. If you have a marker pen, you could, for example, mark
+   the central squares of an unshuffled Cube with four colored marks on
+   each edge, each corresponding to the colour of the adjacent square.
+   Some Cubes have also been produced commercially with markings on all of
+   the squares, such as the Lo Shu magic square or playing card suits.
+   Thus one can scramble and then unscramble the Cube yet have the
+   markings on the centres rotated, and it becomes an additional challenge
+   to "solve" the centres as well.
+
+   Putting markings on the Rubik's Cube increases the challenge chiefly
+   because it expands the set of distinguishable possible configurations.
+   When the Cube is unscrambled apart from the orientations of the central
+   squares, there will always be an even number of squares requiring a
+   quarter turn. Thus there are 4^6/2 = 2,048 possible configurations of
+   the centre squares in the otherwise unscrambled position, increasing
+   the total number of Cube permutation from 43,252,003,274,489,856,000 to
+   88,580,102,706,155,225,088,000.
+
+Solutions
+
+   Many general solutions for the Rubik's Cube have been discovered
+   independently. The most popular method was developed by David
+   Singmaster and published in the book Notes on Rubik's Magic Cube in
+   1980. This solution involves solving the Cube layer by layer, in which
+   one layer, designated the top, is solved first, followed by the middle
+   layer, and then the final and bottom layer. Other general solutions
+   include "corners first" methods or combinations of several other
+   methods.
+
+   Speed cubing solutions have been developed for solving the Rubik's Cube
+   as quickly as possible. The most common speed cubing solution was
+   developed by Jessica Fridrich. It is a very efficient layer-by-layer
+   method that requires a large number of algorithms, especially for
+   orienting and permuting the last layer. The first layer corners and
+   second layer are done simultaneously, with each corner paired up with a
+   second-layer edge piece. Another well-known method was developed by
+   Lars Petrus. In this method, a 2×2×2 section is solved first.
+
+   Solutions typically consist of a sequence of processes. A process, or
+   algorithm or operator as it is sometimes called, is a series of twists
+   which accomplishes a particular goal. For instance, one process might
+   switch the locations of three corner pieces, while leaving the rest of
+   the pieces in place. These sequences are performed in the appropriate
+   order, as dictated by the current configuration of the puzzle, to solve
+   the Cube. Complete solutions can be found in any of the books listed in
+   the bibliography, and most can be used to solve any Cube in under five
+   minutes. These solutions typically are intended to be easy to learn,
+   but much effort has gone into finding even faster solutions to Rubik's
+   Cube (see Optimal solutions for Rubik's Cube).
+
+Move notation
+
+   Rubik's Cube in a scrambled state
+   Enlarge
+   Rubik's Cube in a scrambled state
+   Rubik's Cube being solved
+   Enlarge
+   Rubik's Cube being solved
+   Rubik's Cube in solved state
+   Enlarge
+   Rubik's Cube in solved state
+
+   Most 3×3×3 Rubik's Cube solution guides use the same notation,
+   originated by David Singmaster, to communicate sequences of moves. This
+   is generally referred to as "Cube notation" or in some literature
+   "Singmaster notation" (or variations thereof). Its relative nature
+   allows algorithms to be written in such a way that they can be applied
+   regardless of which side is designated the top or how the colors are
+   organized on a particular Cube.
+     * F (Front): the side currently facing you
+     * B (Back): the side opposite the front
+     * U (Up): the side above or on top of the front side
+     * D (Down): the side opposite Up or on bottom
+     * L (Left): the side directly to the left of the front
+     * R (Right): the side directly to the right of the front
+
+   When an apostrophe follows a letter, it means to turn the face
+   counter-clockwise a quarter-turn, while a letter without an apostrophe
+   means to turn it a quarter-turn clockwise. Such an apostrophe mark is
+   pronounced prime. A letter followed by a 2 (occasionally superscript)
+   means to turn the face a half-turn (the direction does not matter).
+
+   (Some solution guides, including Ideal's official publication, The
+   Ideal Solution, use slightly different conventions. Top and Bottom are
+   used rather than Up and Down for the top and bottom faces, with Back
+   being replaced by Posterior. + indicates clockwise rotation and -
+   counterclockwise, with ++ representing a half-turn. However,
+   alternative notations failed to catch on, and today the Singmaster
+   scheme is used universally by those interested in the puzzle.)
+
+   Less often used moves include rotating the entire Cube or two-thirds of
+   it. The letters x, y, and z are used to indicate that the entire Cube
+   should be turned about one of its axes. The X-axis is the line that
+   passes through the left and right faces, the Y-axis is the line that
+   passes through the up and down faces, and the Z-axis is the line that
+   passes through the front and back faces. (This type of move is used
+   infrequently in most solutions, to the extent that some solutions
+   simply say "stop and turn the whole Cube upside-down" or something
+   similar at the appropriate point.)
+
+   Lowercase letters f, b, u, d, l, and r signify to move the first two
+   layers of that face while keeping the remaining layer in place. This is
+   of course equivalent to rotating the whole Cube in that direction, then
+   rotating the opposite face back the same amount in the opposite
+   direction, but is useful notation to describe certain triggers for
+   speedcubing. Furthermore, M, E, and S (and respectively their lowercase
+   for larger sized cubes), are used for inner-slice movements. M
+   signifies turning the layer that is between L and R downward (clockwise
+   if looking from the left side). E signifies turning the layer between U
+   and D towards the right (counter-clockwise if looking from the top). S
+   signifies turning the layer between F and B clockwise.
+
+   For example, the algorithm (or operator, or sequence) F2U'R'LF2RL'U'F2,
+   which cycles three edge cubes in the top layer without affecting any
+   other part of the Cube, means:
+    1. Turn the Front face 180 degrees
+    2. Turn the Up face 90 degrees counterclockwise
+    3. Turn the Right face 90 degrees counterclockwise
+    4. Turn the Left face 90 degrees clockwise
+    5. Turn the Front face 180 degrees
+    6. Turn the Right face 90 degrees clockwise
+    7. Turn the Left face 90 degrees counterclockwise
+    8. Turn the Up face 90 degrees counterclockwise
+    9. Finally, turn the front face 180 degrees.
+
+   For beginning students of the Cube, this notation can be daunting, and
+   many solutions available online therefore incorporate animations that
+   demonstrate the algorithms presented. For an example, see an animation
+   of the above sequence.
+
+   4×4×4 and larger Cubes use slightly different notation to incorporate
+   the middle layers. Generally speaking, upper case letters (FBUDLR)
+   refer to the outermost portions of the cube (called faces). Lower case
+   letters (fbudlr) refer to the inner portions of the cube (called
+   slices). Again Ideal breaks rank by describing their 4×4×4 solution in
+   terms of layers (vertical slices that rotate about the Z-axis), tables
+   (horizontal slices), and books (vertical slices that rotate about the
+   X-axis).
+
+Competitions
+
+   Many speedcubing competitions have been held to determine who can solve
+   the Rubik's Cube in the shortest time.
+
+   Ideal Toys held the first UK competition in 1981 less than a year after
+   the cube was launched (sponsored by the Daily Mirror). The following
+   times were recorded in the regional championships;
+
+   Edinburgh heat - Alex McNair from Edinburgh in 48.85 secs, Manchester
+   heat - Edgar Whitley from Colwyn Bay in 39.98 secs, York heat - Brian
+   Storey from Sunderland in 41.76 secs, Midlands heat Nicolas Hammond
+   from Nottingham in 35.38 secs, Bristol heat - Julian Bush from Bristol
+   in 52.09 secs, Great Yarmouth heat - Julian Chilvers from Great
+   Yarmouth in 38.67 secs, Southampton heat - Christopher Lennon from
+   Portsmouth in 55.35 secs, London heat - Ben Jones from St
+   Nicholas-at-Wade in 46.12 secs.
+
+   The first world championship was held in Budapest on June 5, 1982 and
+   was won by Minh Thai, a Vietnamese student from Los Angeles, with a
+   time of 22.95 seconds.
+
+   Many individuals have recorded shorter times, but these records were
+   not recognized due to lack of compliance with agreed-upon standards for
+   timing and competing. Only records set during official World Cube
+   Association (WCA)-sanctioned tournaments are acknowledged.
+
+   In 2004, the WCA established a new set of standards, with a special
+   timing device called a Stackmat timer.
+
+   Toby Mao set the current world record of 10.48 seconds at the 2006 US
+   Nationals competition on August 6, 2006. The official world record
+   based on an average of the middle three out of five Cubes is 13.22
+   seconds, set on March 20, 2006 in Norrköping, Sweden by Anssi Vanhala,
+   a Finn. This record is recognized by the World Cube Association, the
+   official governing body which regulates events and records.
+
+Alternative Competitions
+
+   In addition, informal alternative competitions have been held,
+   challenging participants to solve the cube under unusual situations.
+   These include:
+     * Blindfolded solving
+     * Solving a cube in a room with colored lights intended to confuse
+       participants in the colors of the tiles
+     * Solving the cube underwater in a single breath
+     * Solving the cube using a single hand
+
+Rubik's Cube in mathematics and science
+
+   The Rubik's Cube is of interest to many mathematicians, partly because
+   it is a tangible representation of a mathematical group. Additionally,
+   a parallel between Rubik's Cube and particle physics was noted by
+   mathematician Solomon W. Golomb and then extended and modified by
+   Anthony E. Durham. Essentially, clockwise and counter-clockwise
+   "twists" of corner cubies may be compared to the electric charges of
+   quarks (+⅔ and −⅓) and antiquarks (−⅔ and +⅓). Feasible combinations of
+   corner twists are paralleled by allowable combinations of quarks and
+   antiquarks—both corner twist and the quark/antiquark charge must total
+   to an integer. Combinations of two or three twisted corners may be
+   compared to various hadrons, though this analogy is not always
+   workable.
+
+Rubik's Cube in popular culture
+
+     * From 1983 to 1984, a Ruby-Spears produced Saturday morning cartoon
+       based upon the toy Rubik, the Amazing Cube aired on ABC as part of
+       a package program, "The Pac-Man/Rubik, The Amazing Cube Hour."
+     * Saturday Night Live has had two commercial parodies for Rubik's
+       cube-esque products: Rubik's Teeth (a pair of dentures that are
+       multicolored like a Rubik's cube) and Rubik's Grenade (a live hand
+       grenade with a Rubik's cube puzzle on the side that explodes if the
+       puzzle isn't solved correctly)
+     * The Rubik's Cube makes several appearances in The Simpsons, most
+       notably when Homer is distracted by a Rubik's Cube when learning
+       the power plant controls in " Homer Defined", when Marge attempts
+       to solve the Cube while the rest of the family shouts hints at her
+       in " Hurricane Neddy", and when Homer speedcubes a basket full of
+       Cubes after becoming a person with average intelligence (with the
+       IQ of 105 points) in " HOMЯ".
+     * A Rubik's Cube serves as the MacGuffin in Dude, Where's My Car?
+     * It won a Spiel des Jahres Best Puzzle prize in 1980.
+     * The Australian sketch comedy show The Ronnie Johns Half Hour
+       features a fictional Rubik's cube world champion named Sergei
+       Haminov.
+     * Rubik's Cubes are used as a NASA testing method for Harry Stamper's
+       team in the movie Armageddon
+     * In a recent commercial for the Playstation 3, demonstrating the
+       game console's "advanced intelligence," it is presented in a
+       colorless cubic room with the puzzle in front of it. It then
+       telekinetically grasps the cube, levitating it to the centre of the
+       room and speedsolving it in mid-air. The cube then violently
+       explodes and fills each corresponding wall of the room with the
+       respective colour of the Rubik's Cube sides.
+     * It is seen in the Family Guy episode "Saving Private Brian" when
+       Brian solves a Rubik's Cube in order to pass basic training.
+     * In an episode of The Fresh Prince of Bel Air, The Alma Matter, Will
+       Smith solves a rubik's cube in a few seconds during an interview
+       for Princeton and is then recommended to attend the school.
+     * Speedcubing champions Tyson Mao and Toby Mao were hired as
+       consultants in the 2006 Sony Picture's movie The Pursuit of
+       Happyness, to teach Will Smith's character how to solve a Rubik's
+       Cube. There is a scene in the movie where a man tells him how
+       impossible it is to solve the Rubik's cube, yet Smith solves it in
+       mere seconds.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Rubik%27s_Cube"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

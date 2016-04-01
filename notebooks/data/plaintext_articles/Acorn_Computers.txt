@@ -1,0 +1,587 @@
+   #copyright
+
+Acorn Computers
+
+2007 Schools Wikipedia Selection. Related subjects: Companies; Computing
+hardware and infrastructure
+
+
+   This is a featured article. Click here for more information.
+   Acorn Computers
+       Type     Formerly public as Acorn Group plc ( LSE:GB0000061167), now
+                defunct.
+     Founded    Cambridge, England (December, 1978)
+   Headquarters Cambridge, England
+    Key people  Chris Curry
+                Steve Furber
+                Hermann Hauser
+                Andy Hopper
+                Sophie Wilson
+     Industry   Computer hardware
+     Products   Microcomputer System
+                Atom
+                BBC Micro (aka Proton)
+                Archimedes range
+                RiscPC range
+                Acorn Network Computer
+                Phoebe
+     Revenue    N/A
+    Employees   Unknown
+      Slogan    No slogan
+     Website    Formerly www.acorn.com
+
+   Acorn Computers was a British computer company established in
+   Cambridge, England, in 1978. The company produced a number of computers
+   which were especially popular in the UK. These included the Acorn
+   Electron, the BBC Micro and the Acorn Archimedes. Acorn's BBC Micro
+   computer dominated the UK educational computer market during the 1980s
+   and early 1990s, drawing many comparisons with Apple in the U.S. Though
+   the company was broken up into several independent operations in 2000,
+   it leaves an impressive legacy, particularly in the development of RISC
+   personal computers. A number of Acorn's former subsidiaries, notably
+   ARM Holdings, live on today.
+
+   Although a new company licensed the Acorn trademark in 2006 to sell a
+   range of branded laptop computers, the company has no staff and only
+   one technology associated with the previous incarnation of the company.
+
+Prehistory
+
+   On 25 July 1961, Clive Sinclair founded Sinclair Radionics to develop
+   and sell electronic devices such as calculators. The failure of the
+   Black Watch wristwatch and the calculator market's move from LEDs to
+   LCDs led to financial problems, and Sinclair approached the National
+   Enterprise Board (NEB) for help. After losing control of the company to
+   the NEB, Sinclair encouraged Chris Curry to leave Radionics and get
+   Science of Cambridge (SoC) up and running. In June 1978, SoC launched a
+   microcomputer kit that Curry wanted to develop further, but Sinclair
+   could not be persuaded. During the development of the MK14, Hermann
+   Hauser, a friend of Curry's, had been visiting SoC's offices and had
+   grown interested in the product.
+
+CPU Ltd (1978–83)
+
+   Curry and Hauser decided to pursue their joint interest in
+   microcomputers and, on 5 December 1978, they set up Cambridge Processor
+   Unit Ltd (CPU) as the vehicle with which to do this. CPU soon obtained
+   a consultancy contract to develop a microprocessor-based controller for
+   a fruit machine for Ace Coin Equipment (ACE) of Wales. The ACE project
+   was started at office space obtained at 4a Market Hill in Cambridge.
+   Initially, the ACE controller was based on a SC/MP microprocessor, but
+   soon the switch to a 6502 was made.
+
+The microcomputer systems
+
+   CPU had financed the development of a 6502-based microcomputer system
+   using the income from its design-and-build consultancy. This system was
+   launched in January 1979 as the first product of Acorn Computer Ltd, a
+   trading name used by CPU to keep the risks of the two different lines
+   of business separate. Acorn was chosen because the microcomputer system
+   was to be expandable and growth-oriented. It also had the attraction of
+   appearing before " Apple" in a telephone directory.
+
+   Around this time, CPU and Andy Hopper set up Orbis Ltd to commercialise
+   the Cambridge Ring networking system Hopper had worked on for his PhD,
+   but it was soon decided to bring him into CPU as a director because he
+   could promote CPU's interests at the University of Cambridge Computer
+   Laboratory. CPU purchased Orbis, and Hopper's Orbis shares were
+   exchanged for shares in CPU Ltd. CPU's role gradually changed as its
+   Acorn brand grew, and soon CPU was simply the holding company and Acorn
+   was responsible for development work. At some point Curry had a
+   disagreement with Sinclair and formally left Science of Cambridge, but
+   did not join the other Acorn employees at Market Hill until a little
+   while later.
+   The Acorn System 1, upper board; this one shipped on 9 April 1979.
+   Enlarge
+   The Acorn System 1, upper board; this one shipped on 9 April 1979.
+
+   The Acorn Microcomputer, later renamed the Acorn System 1, was designed
+   by Sophie Wilson. It was a semi-professional system aimed at
+   engineering and laboratory users, but its price was low enough, at
+   around £80, to appeal to the more serious enthusiast as well. It was a
+   very small machine built on two cards, one with an LED display, keypad,
+   and cassette interface (the circuitry to the left of the keypad), and
+   the other with the rest of the computer (including the CPU). Almost all
+   CPU signals were accessible via a Eurocard connector.
+
+   The System 2 made it easier to expand the system by putting the CPU
+   card from the System 1 in a 19-inch Eurocard rack that allowed a number
+   of optional additions. The System 2 typically shipped with keyboard
+   controller, external keyboard, a text display interface, and a cassette
+   operating system with built-in BASIC interpreter.
+
+   The System 3 moved on by adding floppy disk support and the System 4 by
+   including a larger case with a second drive. The System 5 was largely
+   similar to the System 4, but included a newer 2  MHz version of the
+   6502.
+
+The Atom
+
+   Development of the ZX80 started at Science of Cambridge in May 1979.
+   Learning of this probably prompted Curry to conceive the Atom project
+   to target the consumer market. Curry and another designer, Nick Toop,
+   worked from Curry's home in the Fens on the development of this
+   machine. It was at this time that Acorn Computers Ltd was incorporated
+   and Curry moved to Acorn full-time.
+
+   It was Curry who wanted to target the consumer market – other factions
+   within Acorn, including the engineers, were happy to be out of that
+   market, considering a home computer to be a rather frivolous product
+   for a company operating in the laboratory equipment market. To keep
+   costs down and not give the doubters reason to object to the Atom,
+   Curry asked industrial designer Allen Boothroyd to design a case that
+   could also function as an external keyboard for the microcomputer
+   systems. The internals of the System 3 were placed inside the keyboard,
+   creating a quite typical set-up for an inexpensive home computer of the
+   early '80s – the relatively successful Acorn Atom.
+
+   To facilitate software development, a proprietary local area network
+   had been installed at Market Hill. It was decided to include this, the
+   Econet, in the Atom, and at its launch at a computer show in March
+   1980, eight networked Atoms were demonstrated with functions that
+   allowed files to be shared, screens to be remotely viewed and keyboards
+   to be remotely slaved.
+
+BBC Micro and the Electron
+
+   With the Atom on the market, Acorn could begin to think about its
+   replacement. There were new 16-bit processors coming onto the market –
+   should they move in that direction? After a great deal of discussion,
+   Hauser suggested a compromise – an improved 6502-based machine with far
+   greater expansion capabilities: the Proton. Acorn's technical staff had
+   not wanted to do the Atom and they now saw the Proton as their
+   opportunity to "do it right".
+
+   One of the developments proposed for the Proton was the Tube, a
+   proprietary interface allowing a second processor to be added. This
+   compromise would make for an affordable 6502 machine for the mass
+   market which could be expanded with more sophisticated and expensive
+   processors. The Tube enabled processing to be farmed out to the second
+   processor leaving the 6502 to perform data input/output (I/O). In later
+   years the Tube would play an important role in the development of
+   Acorn's own processor.
+
+   In early 1980, the BBC Further Education department conceived the idea
+   of a computer literacy programme, mostly as a follow-up to a BBC
+   documentary, The Mighty Micro, in which Dr Christopher Evans from the
+   UK National Physical Laboratory predicted the coming microcomputer
+   revolution. It was a very influential documentary – so much so that
+   questions were asked in parliament. As a result of these questions, the
+   Department of Industry (DoI) became interested in the programme, as did
+   BBC Enterprises, which saw an opportunity to sell a machine to go with
+   the series. BBC Engineering was instructed to draw up an objective
+   specification for a computer to accompany the series.
+
+   Eventually, under some pressure from the DoI to choose a British
+   system, the BBC chose the NewBrain from Newbury Laboratories. This
+   selection revealed the extent of the pressure brought to bear on the
+   supposedly independent BBC's computer literacy project – Newbury was
+   owned by the National Enterprise Board, a government agency operating
+   in close collaboration with the DoI. The choice was also somewhat
+   ironic given that the NewBrain started life as a Sinclair Radionics
+   project, and it was Sinclair's preference for developing it over
+   Science of Cambridge's MK14 that led to Curry leaving SoC to found CPU
+   with Hauser. The NEB moved the NewBrain to Newbury after Sinclair left
+   Radionics and went to SoC.
+
+   In 1980 - 1982 the UK Department of Education and Science (DES) had
+   begun the Microelectronics Education Programme to introduce
+   microprocessing concepts and educational materials. In 1982 through to
+   1986, the DoI allocated funding to assist UK local education
+   authorities to supply their schools with a range of computers, the BBC
+   Micro being one of the most popular. In parallel the DES continued to
+   fund more materials for the computers, such as software and applied
+   computing projects, plus teacher training.
+
+   Although the NewBrain was under heavy development by Newbury, it soon
+   became clear that they were not going to be able to produce it –
+   certainly not in time for the literacy programme nor to the BBC's
+   specification. The BBC's programmes, initially scheduled for autumn
+   1981, were moved back to spring 1982. After Curry and Sinclair found
+   out about the BBC's plans, the BBC allowed other manufacturers to
+   submit their proposals. The BBC visited Acorn and were given a
+   demonstration of the Proton. Shortly afterwards, the literacy programme
+   computer contract was awarded to Acorn, and the Proton was launched
+   early in 1982 as the BBC Micro. In April 1984 Acorn won the Queen's
+   Award for Technology for the BBC Micro. The award paid special tribute
+   to the BBC Micro's advanced design, and it commended Acorn "for the
+   development of a microcomputer system with many innovative features".
+
+   In April 1982 Sinclair launched the ZX Spectrum. Curry conceived of the
+   Electron as Acorn's sub-200-pound competitor. In many ways a cut-down
+   BBC Micro, it used one Acorn-designed ULA to reproduce most of the
+   functionality. But problems in producing the ULAs led to short supply,
+   and the Electron, although launched in August 1983, was not on the
+   market in sufficient numbers to capitalise on the 1983 Christmas sales
+   period. Acorn resolved to avoid this problem in 1984 and negotiated new
+   production contracts.
+
+Acorn Computer Group plc (1983–85)
+
+   The BBC Micro sold spectacularly well – so much so that Acorn's profits
+   rose from a mere £3000 in 1979 to £8.6m in July 1983. In September
+   1983, CPU shares were liquidated and Acorn was floated on the Unlisted
+   Securities Market as Acorn Computer Group plc, with Acorn Computers Ltd
+   as the microcomputer division. With a minimum tender price of 120p, the
+   group came into existence with a market capitalisation of about £135
+   million. CPU founders Herman Hauser and Chris Curry leapt instantly
+   into the paper millionaire bracket: Hauser's 53.25 million shares made
+   him worth £64m; Curry's 43 million shares translated into £51m.
+
+New RISC architecture
+
+   Even from the time of the Atom, Acorn were considering how to move on
+   from the 6502 processor: the 16-bit Acorn Communicator developed in
+   1982 using the 65816 being a key example.
+
+   The IBM PC was launched on 12 August 1981. Although a version of that
+   machine was aimed at the enthusiast market much like the BBC Micro, its
+   real area of success was business. The successor to the PC, the XT
+   (EXtended Technology) was introduced in early 1983. The success of
+   these machines and the variety of Z80-based CP/M machines in the
+   business sector demonstrated that it was a viable market, especially
+   given that sector's ability to cope with premium prices. The
+   development of a business machine looked like a good idea to Acorn. A
+   development programme was started to create a business computer using
+   Acorn's existing technology – the BBC Micro mainboard, the Tube and
+   second processors to give CP/M, MS-DOS and Unix ( Xenix) workstations.
+
+   This Acorn Business Computer (ABC) plan required a number of second
+   processors to be made to work with the BBC Micro platform. In
+   developing these, Acorn had to implement the Tube protocols on each
+   processor chosen, in the process finding out, during 1983, that there
+   were no obvious candidates to replace the 6502. Because of many-cycle
+   uninterruptible instructions, for example, the interrupt response times
+   of the 68000 were too slow to handle the communication protocol that
+   the host 6502-based BBC Micro coped with easily. Development of the
+   National Semiconductor 32016-based model of the ABC range, later sold
+   as the Cambridge Workstation, had shown Sophie Wilson and Steve Furber
+   the value of memory bandwidth. It also showed that an 8 MHz 32016 was
+   completely trounced in performance terms by a 4 MHz 6502. Furthermore,
+   the Apple Lisa had shown the Acorn engineers that they needed to
+   develop a windowing system – and this was not going to be easy with a
+   2–4 MHz 6502-based system doing the graphics. Acorn would need a new
+   architecture.
+
+   Acorn had tested all of the available processors and found them
+   wanting. Having ruled out existing CPUs, it was clear to the developers
+   that Acorn should seriously consider designing its own processor.
+   Acorn’s engineers came across papers on the Berkeley RISC project. They
+   could now handle the truth: if a class of graduate students could
+   create a competitive 32-bit processor, then Acorn would have no
+   problem. A trip to the Western Design Centre in Phoenix showed Furber
+   and Wilson that they did not need massive resources and
+   state-of-the-art R&D facilities.
+
+   Sophie Wilson set about developing the instruction set, writing a
+   simulation of the processor in BBC Basic that ran on a BBC Micro with a
+   6502 second processor. It convinced the Acorn engineers that they were
+   on the right track. Before they could go any further, however, they
+   would need more resources. It was time for Wilson to approach Hauser
+   and explain what was afoot. Once the go-ahead had been given, a small
+   team was put together to implement Wilson's model in hardware.
+
+   The official Acorn RISC Machine project started in October 1983. VLSI
+   Technology, Inc were chosen as silicon partner, since they already
+   supplied Acorn with ROMs and some custom chips. VLSI produced the first
+   ARM silicon on 26 April 1985 – it worked first time and came to be
+   known as ARM1. Its first practical application was as a second
+   processor to the BBC Micro, where it was used to develop the simulation
+   software to finish work on the support chips (VIDC, IOC, MEMC) and to
+   speed up the operation of the CAD software used in developing ARM2.
+   Wilson subsequently coded BBC Basic in ARM assembly language, and the
+   in-depth knowledge obtained from designing the instruction set allowed
+   the code to be very dense, making ARM BBC Basic an extremely good test
+   for any ARM emulator.
+
+   Such was the secrecy surrounding the ARM CPU project that when Olivetti
+   were negotiating to take a controlling share of Acorn in 1985, they
+   were not told about the development team until after the negotiations
+   had been finalised. In 1992 Acorn once more won the Queen's Award for
+   Technology for the ARM.
+
+Financial problems
+
+   Acorn's watershed year was 1984 – it had gone public just as the home
+   computer market collapsed. It was the year when Atari was sold, Apple
+   nearly went bust, and Acorn had solved the one problem it had had
+   throughout its history: production volumes.
+
+   The Electron had been launched in 1983, but problems with the supply of
+   its ULAs meant that Acorn was not able to capitalise on the 1983
+   Christmas selling period – a successful advertising campaign, including
+   TV advertisements, had led to 300,000 orders, but the Malaysian
+   suppliers were only able to supply 30,000 machines. The apparently
+   strong demand for Electrons proved to be illusory: rather than wait,
+   parents bought Commodore 64s or ZX Spectrums for their children's
+   presents. Ferranti solved the production problem and in 1984 production
+   reached its anticipated volumes, but the contracts Acorn had negotiated
+   with its suppliers were not flexible enough to allow volumes to be
+   reduced quickly in this unanticipated situation – supplies of the
+   Electron built up. Acorn was in real trouble: by the end of the year it
+   had 250,000 unsold Electrons on its hands, which had all been paid for
+   and needed to be stored – at additional expense.
+
+   Acorn was also spending a large portion of its reserves on development:
+   the BBC Master was being developed; the ARM project was underway; the
+   Acorn Business Computer entailed a lot of development work but
+   ultimately proved to be something of a flop, with only the 32016-based
+   version ever being sold (as the Cambridge Workstation); and obtaining
+   Federal approval for the BBC Micro in order to expand into the United
+   States proved to a drawn-out and expensive process that proved futile –
+   all of the expansion devices that were intended to be sold with the BBC
+   Micro had to be tested and radiation emissions had to be reduced.
+   Around $20m was sunk into the U.S. operation but the NTSC modified BBC
+   Micros sold barely at all. They did, however, make an appearance in the
+   school of Supergirl in the 1984 film Supergirl: The Movie.
+
+Olivetti subsidiary (1985–98)
+
+   The dire financial situation was brought to a head in February 1985,
+   when one of Acorn's creditors issued a winding-up petition. After a
+   short period of negotiations, Curry and Hauser signed an agreement with
+   Olivetti on 20 February. The Italian computer company took a 49.3%
+   stake in Acorn for £12 million, which went some way to covering Acorn's
+   £11 million losses in the previous six months. This valuation fell some
+   £165m below Acorn's peak valuation of £190m. In September 1985,
+   Olivetti took a controlling share of Acorn with 79% of shares.
+
+BBC Master and Archimedes
+
+   The BBC Master was launched in February 1986 and met with great
+   success. From 1986 to 1989, about 200,000 systems were sold, each
+   costing £499, mainly to UK schools and universities. A number of
+   enhanced versions were launched – for example, the Master 512, which
+   had 512 KB of RAM and an internal 80186 processor for MS-DOS
+   compatibility, and the Master Turbo, which had a 65C02 second
+   processor.
+
+   The first commercial use of the ARM architecture was in the ARM
+   Development System, a Tube-linked second processor for the BBC Master
+   which allowed one to write programs for the new system. It sold for
+   around £4,000 and included the ARM processor and three support chips, 4
+   MB of RAM and a set of development tools with an enhanced version of
+   BBC BASIC.
+
+   The second ARM-based product was the Acorn Archimedes desktop-computer,
+   released in mid-1987. The Archimedes was popular in the United Kingdom,
+   Australasia and Ireland, and was considerably more powerful and
+   advanced than most offerings of the day, but the market was already
+   stratifying into the PC-dominated world. Acorn continued to produce
+   updated models of the Archimedes including a laptop (the A4) and in
+   1994 launched the Risc PC, where the top specification included a
+   200 MHz+ StrongARM processor. These were sold mainly into education,
+   specialist and enthusiast markets.
+
+ARM Ltd
+
+   Acorn's silicon partner, VLSI, had been tasked with finding new
+   applications for the ARM CPU and support chips. Hauser's Active Book
+   company had been developing a handheld device and for this the ARM CPU
+   developers had created a static version of their processor, the ARM2aS.
+
+   Apple was developing an entirely new computing platform, the Newton.
+   Various requirements had been set for the processor in terms of power
+   consumption, cost and performance, and there was also a need for fully
+   static operation in which the clock could be stopped at any time. Only
+   the Acorn RISC Machine came close to meeting all these demands, but
+   there were still deficiencies. The ARM did not, for example, have an
+   integral memory management unit as this function was being provided by
+   the MEMC support chip and Acorn did not have the resources to develop
+   one.
+
+   Apple and Acorn began to collaborate on developing the ARM, and it was
+   decided that this would be best achieved by a separate company. The
+   bulk of the Advanced Research and Development section of Acorn that had
+   developed the ARM CPU formed the basis of ARM Ltd when that company was
+   spun off in November 1990. Acorn Group and Apple Computer Inc each had
+   a 43% shareholding in ARM, while VLSI were an investor and first ARM
+   licensee.
+
+Set-Top boxes
+
+   In 1994, Acorn Online Media was founded to exploit the projected
+   video-on-demand (VOD) boom, an interactive television system which
+   would allow users to select and watch video content over a network. In
+   September 1994 the Cambridge Trial of video-on-demand services was set
+   up by Acorn Online Media, Anglia Television, Cambridge Cable and
+   Advanced Telecommunication Modules Ltd (ATML) – the trial involved
+   creating a wide area ATM network linking TV-company to subscribers'
+   homes and delivering services such as home shopping, online education,
+   software downloaded on-demand and the World Wide Web. The wide area
+   network used a combination of fibre and coaxial cable, and the switches
+   were housed in the roadside cabinets of Cambridge Cable's existing
+   network. Olivetti Research Laboratory developed the technology used by
+   the trial. An ICL video server provided the service via ATM switches
+   manufactured by ATML, another company set up by Hauser and Hopper. The
+   trial commenced at a speed of 2 Mbit/s to the home, subsequently
+   increased to 25 Mbit/s.
+
+   Subscribers used Acorn Online Media set-top boxes. For the first six
+   months the trial involved 10 VOD terminals; the second phase was
+   expanded to cover 100 homes and 8 schools with a further 150 terminals
+   in test labs. A number of other organisations gradually joined in,
+   including NatWest Bank, the BBC, the Post Office, Tesco and the local
+   education authority.
+
+   BBC Education tested delivery of radio-on-demand programmes to primary
+   schools, and a new educational service, Education Online, was
+   established to deliver material such as Open University television
+   programmes and educational software. Netherhall secondary school was
+   provided with an inexpensive video server and operated as a provider of
+   Trial services, with Anglia Polytechnic University taking up a similar
+   role some time later. It was hoped that Online Media could be floated
+   as a separate company, but the predicted video-on-demand boom never
+   really materialised.
+
+Network Computers
+
+   When BBC2's The Money Programme screened an interview with Larry
+   Ellison in October 1995, Acorn Online Media Managing Director Malcolm
+   Bird realised that Ellison's network computer was, basically, an Acorn
+   set-top box. After initial discussions between Oracle Corporation and
+   Olivetti, Hauser and Acorn a few weeks later, Bird was dispatched to
+   San Francisco with Acorn's latest Set Top Box. Oracle had already
+   talked seriously with computer manufacturers including Sun and Apple
+   about the contract for putting together the NC blueprint machine; there
+   were also rumours in the industry that said Oracle itself was working
+   on the reference design. After Bird's visit to Oracle, Ellison visited
+   Acorn and a deal was reached: Acorn would define the NC Reference
+   Standard.
+
+   Ellison was expecting to announce the NC in February 1996. Sophie
+   Wilson was put in charge of the NC project, and by mid-November a draft
+   NC specification was ready. By January 1996 the formal details of the
+   contract between Acorn and Oracle had been worked out, and the PCB was
+   designed and ready to be put into production. In February 1996 Acorn
+   Network Computing was founded. In August 1996 it launched the Acorn
+   Network Computer.
+
+   It was hoped that the Network Computer would create a significant new
+   sector in which Acorn Network Computing would be a major player, either
+   selling its own products or earning money from licence fees paid by
+   other manufacturers for the right to produce their own NCs. To that
+   end, two of Acorn Network Computing's major projects were the creation
+   of a new 'consumer device' operating system, Galileo and, in
+   conjunction with Digital Semiconductor and ARM, a new StrongARM
+   chipset, the SA1500 / SA1501. Galileo's main feature was a guarantee of
+   a certain quality of service to each process in which the resources
+   (CPU, memory, etc.) required to ensure reliable operation would be kept
+   available regardless of the behaviour of other processes. The SA1500
+   sported higher clock rates than existing StrongARM CPUs and, more
+   importantly, a media-focussed coprocessor (the Attached Media Processor
+   or AMP). The SA1500 was to be the first release target for Galileo.
+
+   Having incorporated its STB and NC business areas as separate
+   companies, Acorn reorganised its PC manufacturing into a further wholly
+   owned subsidiary, Acorn RISC Technologies (ART).
+
+Final break up of Acorn (1998–2000) and on-going developments of their
+technology
+
+   Acorn's last real hopes of becoming a major player in the computer
+   industry had fizzled out: set-top boxes were not taking off as
+   expected, and the Network Computer, too, had been a bit of a flop –
+   traditional PCs were reaching the types of prices thought to justify
+   such a design, and increases in bandwidth to the home were slow to come
+   about, making a web connection something of a luxury for the late '90s.
+   Between 1996 and 1998 Olivetti disposed of its interest in Acorn Group
+   through a series of structured transactions, raising £54m. Acorn
+   restructured its operations, bringing its subsidiary companies back
+   together as divisions within Acorn. Acorn Risc Technologies became the
+   Workstation Division, which was closed in late 1998 when Acorn finally
+   stopped producing desktop-computers in favour of set-top boxes. The
+   last machine, code-named Phoebe or RiscPC 2, was nearly fully developed
+   at the time of the project's abandonment, and therefore was never
+   produced in volume nor sold to the public. Notably, numbers of its
+   distinctive yellow case were produced and sold off cheaply.
+
+   ARM, however, had gone from strength to strength. In 1998, the Company
+   underwent an initial public offering (IPO) and reregistered as a public
+   company under the name ARM Holdings plc when it completed its IPO and
+   listed its shares for trading on the London Stock Exchange and for
+   quotation on the Nasdaq National Market. Morgan Stanley Dean Witter
+   acted as global co-ordinator and book-runner for the Offering as well
+   as sponsor and broker for the listing on the London exchange.
+
+   In January 1999, Acorn Group changed the name of Acorn Computers Ltd to
+   Element 14 Ltd as it recast itself in the image of ARM – that is as a
+   developer of intellectual property (IP), in this case in the digital
+   signal processing (DSP) market. Around this time, ARM's share value had
+   increased to a point where the capital value of Acorn Group plc was
+   worth less than the value of its 24% holding in ARM. This situation led
+   shareholders to press Acorn to sell its stake in ARM to provide a
+   return on their investment. The situation also led ARM to consider
+   taking action itself, since a financially weak shareholder such as
+   Acorn was putting ARM in a vulnerable position. Acorn Computers Group
+   plc was purchased on 1 June 1999 by Morgan Stanley Dean Witter
+   Investments Limited. The transaction involved the de-listing of Acorn
+   Group plc, as a result of which its shareholding in ARM was distributed
+   to Acorn's shareholders.
+
+   Morgan Stanley sold the set-top-box division to Pace for £200,000, and
+   Pace thereby acquired control of RISC OS. On 26 July 1999, an Acorn
+   management team led by Stan Boland bought the DSP business, Element 14,
+   from MSDW for £1.5 million – its net asset value. Element 14
+   subsequently secured £8.25 ($13) million in first-round funding from
+   Bessemer Venture Partners, Atlas Ventures and Hauser's Amadeus Capital
+   Partners. It had its headquarters in Cambridge and an engineering
+   facility in Bristol, UK. It headhunted Alcatel's top digital subscriber
+   line (DSL) engineers, including designers of analogue front-end and
+   digital ICs, xDSL modem software and specialists in asymmetric DSL
+   (ADSL) and very high rate DSL (VDSL) systems, and thereby acquired an
+   engineering centre in Mechelen, Belgium. Element 14 continued to
+   develop its DSP products until it was purchased by Broadcom in November
+   2000 for £366 million ($594 million).
+
+   The operating system developed for Phoebe, RISC OS 4 – codename Ursula,
+   was made available to RiscPC users by RISCOS Ltd, which licensed the
+   operating system, and continues to develop, support and sell RISC OS
+   today. However, the market is still competitive with two strands of the
+   OS currently being developed. RISC OS 4 is available in 26-bit and
+   32-bit versions for the Acorn RiscPC and A7000+, as well as
+   MicroDigital's and RiscStation's computers (Mico, Alpha, Omega, R7500s)
+   plus the newly developed A9 range from AdvantageSix. It also works on
+   the VirtualAcorn range of emulators. The 32-bit-only RISC OS 5 from
+   Castle is used for their Iyonix computers and set-top boxes. Castle is
+   currently considering to open-source their branch of the OS, hoping to
+   achieve a re-unification of the two OS branches.
+
+New company licenses Acorn trademark (2006-)
+
+   In early 2006, the dormant Acorn trademark was licensed from French
+   company Aristide & Co Antiquaire De Marques by a new company based in
+   Nottingham. In April, internet news portals claimed that the company
+   was to relaunch. The new company exhibited its computers at the CTS
+   2006 show at the Birmingham NEC in early May where the company
+   distributed leaflets inviting people to "be part of one of the most
+   exciting brand re-launches in UK history" by joining its reseller
+   program.
+
+   It transpired that the new company, which sells a range of laptop
+   computers, employs no staff from any previous incarnation of Acorn
+   Computers . The systems use Microsoft Windows rather than the RISC OS
+   operating system used by some of Acorn's previous systems and the
+   company does not support any older Acorn technologies. The company
+   launched on 18 September 2006 and employs 25 members of staff.
+
+   On 24 July 2006, Nominet's Dispute Resolution Service (DRS) ruled that
+   the domain name acorncomputers.co.uk should be transferred to the new
+   Acorn from computer enthusiast Roy Johnson. The company made a
+   complaint to DRS contending that the "use of [Acorn Computers'] company
+   name is illegal and has caused much confusion and continues to do so
+   which is detrimental to [Acorn] and extremely misleading". Despite the
+   fact that Johnson appeared to have been operating the website since at
+   least 2001, five years before the new Acorn was registered as a
+   company, mail to Johnson's registered address was returned by Royal
+   Mail marked addressee has gone away.
+
+   The reuse of the Acorn Computers Ltd name has caused an amount of
+   confusion and controversy, particularly amongst the users of Acorn's
+   previous products.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Acorn_Computers"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,421 @@
+   #copyright
+
+Gmail
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   Gmail
+   Gmail's beta logo
+   Gmail screenshot
+   Gmail Inbox
+   Developer: Google
+      OS:     Cross-platform (web-based application)
+      Use:    POP3 e-mail, Webmail
+    Website:  https://mail.google.com, http://www.gmail.com
+
+   Gmail, officially Google Mail in the United Kingdom and Germany, is a
+   free webmail and POP3 e-mail service provided by Google. Known for its
+   abundant storage and advanced interface, Gmail competes mainly with AIM
+   Mail, Windows Live Mail (previously known as MSN Hotmail), and Yahoo!
+   Mail.
+
+   Released on April 1, 2004, Gmail rapidly reached a wide range of users,
+   quickly evolving in response to feedback. After more than two and a
+   half years, Gmail is officially still in beta.
+
+   Access to the service is limited to those who have an invitation from
+   an existing account holder, from Blogger, or through their mobile
+   phone. Google has stated that the invitation system is intended to
+   reduce the amount of abuse, as spammers are unable to make a large
+   number of accounts, something which they can do with other services
+   like Hotmail or Yahoo! Mail, whose registration is completely open.
+
+   Google has made accounts available, without an invitation or Google
+   SMS, to anyone in Australia and New Zealand since August 9, 2006 and
+   Japan since August 23, 2006.
+
+Overview
+
+   While Gmail is not entirely open to the general public yet, most Gmail
+   users have many invites to spare, as Google gives users anything from 0
+   to 100 free invitations (and frequently replenishes them, as a reward
+   for users who frequently check their Gmail accounts ). It is possible
+   for someone in Australia, New Zealand or Japan to sign up without an
+   invitation. Someone can also sign up if one has a mobile phone from
+   Indonesia, Malaysia, Singapore, Thailand, Turkey, Philippines, or the
+   United States via SMS Signup or a .edu e-mail address from an
+   accredited U.S. institution. One can find free Gmail invites at various
+   Web sites, or even for sale at online auctions, despite Google's
+   prohibition of selling of Gmail addresses.
+
+   The service is notable for providing over 2.78 gigabytes ( as of
+   November 2006) of storage space, increased from the original limit of 1
+   GB. This change was announced on April 1, 2005, and was made for the
+   one-year anniversary of Gmail. The announcement was accompanied by a
+   statement that Google would "keep giving people more space forever".
+   All Google will say about this now is that it will keep increasing by
+   the second as long as they have enough space on their servers. Although
+   Gmail's storage space continuously goes up, Google is only increasing
+   the inbox capacity by a nominal four bytes per second (as of 27 October
+   2006). The growth rate was faster when the announcement was first made.
+   If the present growth rate continues unchanged, storage capacity will
+   reach 3 gigabytes by the middle of 2009.
+
+   Gmail also has an integrated calendar named " Google Calendar" that was
+   launched on April 12, 2006.
+
+   Gmail makes intensive use of Ajax (specifically, the AjaXSLT
+   framework), employing modern browser features such as JavaScript and
+   keyboard access keys, allowing for a rich user experience, while
+   retaining the benefits of a web application. Most importantly, the
+   service is available on any computer with a supported browser: Internet
+   Explorer 5.5+, Mozilla Application Suite 1.4+, Firefox 0.8+, Safari
+   1.2.1+, , Netscape 7.1+, Opera 9+. Gmail also offers "Basic HTML view"
+   to allow users to access the Gmail messages from almost any computer
+   running browsers that do not fully support the more advanced features,
+   such as Internet Explorer 4.0+, Netscape 4.07+ or Opera 6.03+, or users
+   with JavaScript disabled. Gmail's Help Centre provides a list of fully
+   supported browsers. Gmail has recently also become available as a
+   downloadable application for mobile phones as well as WAP-enabled
+   mobile phones. It also works on the PSP and Nintendo DS Opera Browser
+   web browsers, but is not fully supported.
+
+   There has been some criticism of Gmail's information and privacy
+   policies. Much of it stems from phrases in Gmail's Privacy Policy which
+   state that Gmail will keep all e-mail for "some time" even if it has
+   been deleted or the account terminated and that Gmail will disclose
+   personal information (including the actual text of e-mails) if it has a
+   "good faith belief" that such a disclosure is necessary for various
+   reasons such to "protect the rights, property or safety of ... the
+   public". Similarly, some privacy advocates criticize the lack of
+   disclosed data retention and correlation policies. More than 30 privacy
+   and civil rights organizations have urged Google to suspend the Gmail
+   service until these issues are resolved.
+
+Features
+
+Conversation views
+
+   A major innovation Gmail introduced was its method of categorizing
+   e-mails, which Google calls Conversation View. In contrast to other
+   e-mail services, Gmail keeps track of individual "conversations" (an
+   original message, along with all the replies to that message) by
+   grouping them together. This allows users to easily view all the
+   e-mails related to a specific message, and it keeps the inbox more
+   organized. Gmail's algorithm for determining how conversations fit
+   together is not perfect, however: Single conversations sometimes become
+   fragmented (especially when a replier changes the e-mail's subject
+   line) and unrelated conversations occasionally become attached
+   together. Also, if a conversation has more than approximately 100
+   messages, it splits into two separate storage sections, sometimes
+   resulting in 5 or 6 chunks making up a whole conversation.
+
+Labels instead of folders
+
+   Gmail allows users to categorize their e-mails with "labels." Labels
+   give users a flexible method of categorizing e-mails, since an e-mail
+   may have any number of labels (in contrast to a system in which an
+   e-mail may belong to only one folder). Users can display all e-mails
+   having a particular label and can use labels as a search criterion.
+   Gmail also allows users to set up filters which label incoming e-mail
+   automatically.
+
+Auto save enhancement
+
+   Google has added an Auto Save feature to Gmail, a system for avoiding
+   loss of data in case of a browser crash or other error. When composing
+   an e-mail, a draft copy of the message and any attachments are saved
+   automatically. Although messages begin to be saved once a minute,
+   saving times vary depending on the size of the message.
+
+Keyboard shortcuts
+
+   Gmail allows users to navigate its interface by using the keyboard as
+   an accessible alternative to the mouse, which is the norm for site
+   navigation. This feature is not enabled by default, although
+   instructions on how to enable it are provided.
+
+Optional dots
+
+   Gmail usernames must be between 6 and 30 characters (inclusive) and
+   made up of only letters, numbers, and dots. The use of dots, however,
+   are optional (that is, Gmail ignores dots when resolving addresses).
+   Google states that "Gmail doesn't recognize dots (.) as characters
+   within a username. This way, you can add and remove dots to your
+   username for desired address variations." For instance, the account
+   google@gmail.com receives mail sent to goo.gle@gmail.com,
+   g.o.o.g.l.e@gmail.com, etc. Likewise, the account goo.gle@gmail.com
+   receives mail sent to google@gmail.com. This can be useful in setting
+   filters for incoming mail. However, when signing in it is necessary to
+   include any dots used in the creation of the account.
+
+Plus-addressing
+
+   Gmail also supports "plus-addressing" of e-mails. Messages can be sent
+   to addresses in the form: username+extratext@gmail.com where extratext
+   can be any string. Plus-addressing allows users to sign up for
+   different services with different aliases and then easily filter all
+   e-mails from those services. However, a significant number of services
+   do not support email addresses containing plus signs.
+
+Talk integration
+
+   Gmail's "Talk" features allow users to chat with other people who are
+   online that have a Gmail account. It interacts with the Jabber network,
+   so it can be synchronised with Google Talk, and other Jabber clients
+   (including Gizmo Project, Psi, Miranda IM and iChat). However, only
+   text-based chat can take place within Internet Browsers, with a limit
+   to four chats at once. Voice calling is therefore one of Google Talk's
+   advantages.
+
+   Added in late 2006 was the voicemail feature, which allows users to
+   leave a voice message for contacts who are not online. The voicemail
+   system is also reached if a user does not answer a call. Gmail keeps an
+   index of voicemails received on Gmail itself, because this feature is
+   accessible to users who have opted not to install Google Talk. Another
+   feature added at the same time was the ability to make calls from the
+   Gmail page itself. However, this only works if you have Google Talk
+   downloaded and are placing a call from the webpage instead of the
+   Google Talk software.
+
+   Gmail Chat also allows the user to keep an archive of chats in their
+   Gmail account - although this is disabled if either user in a
+   conversation objects (called 'off the record mode' by Google). However,
+   'off the record' mode does not guarantee anonymity, since the other
+   user could be using a third-party client with its own logging ability
+   such as Gaim. The other user could also copy and paste the conversation
+   into a text editor and save it.
+
+   Gmail also recently introduced contact pictures and introduced sound
+   into Gmail Chat, so users receive auditory notifications when receiving
+   an instant message through Gmail Chat.
+
+   Gmail offers a "standard without chat" view. This is the regular
+   standard view without the chat functionality. Opera 8+ supports
+   "standard without chat" view, although it does not support "standard"
+   view - unless Opera is set to mask itself as Internet Explorer.
+
+   Because of the move away from e-mail, and therefore the name "Gmail",
+   Google has changed the logo for Gmail, so that it includes '+ talk'.
+   The logo also has a glossier finish compared to its predecessor.
+
+Calendar integration
+
+   On April 13, 2006, Google rolled out Google Calendar. It allows users
+   to create multiple calendars, which hold appointments, and can be
+   shared with other users through private addresses, or completely public
+   on the web.
+
+   It is fully integrated with Gmail, as events can be added whilst
+   writing a message, that get stored on the main Calendar interface.
+   Recipients who use Gmail will then receive an invitation to the event,
+   which they can accept or decline. Furthermore, Gmail attempts to
+   recognise event dates and locations within e-mails, and gives users the
+   option to add the event to a calendar.
+
+Awards
+
+   Gmail was ranked second in PC World's "The 100 Best Products of 2005",
+   behind Mozilla Firefox. Gmail also won 'Honorable Mention' in the
+   Bottom Line Design Awards 2005. Gmail has drawn many favorable reviews
+   from users because of its available space and unique organization..
+
+Criticisms
+
+Absent features
+
+   The conversation view groups related messages in a linear stack that
+   can be expanded and collapsed. While innovative, it offers no option to
+   differentiate messages that branch off from the original thread. This
+   can occur when mail is sent to multiple recipients who respond
+   individually, or when someone changes the subject line of a message he
+   or she is responding to.
+
+   Some features present in several desktop e-mail applications but
+   missing in Gmail are: sorting, "attachment warning," and automatic
+   bounce-back of unwanted mail (imitating a mail-daemon message). Some of
+   these absent features are offered by other webmail applications,
+   sometimes for a price. Also, the lack of IMAP support is the most
+   common complaint according to Most wanted Gmail features.
+
+Non-US interfaces
+
+   Because Google is located primarily in the United States, non-US
+   interfaces may experience a delay in receiving upgrades and features.
+   Google Calendar is not available through all non-US Gmail interfaces.
+   However, if non-US users change their language to English (US) they can
+   access these services. Support for entering bi-directional text is
+   currently available only in the Arabic and Hebrew interfaces.
+
+Privacy
+
+   There has been criticism regarding Gmail's privacy policy. Many
+   believed that the clause "residual copies of e-mail may remain on our
+   systems for some time, even after you have deleted messages from your
+   mailbox or after the termination of your account" meant that Google may
+   intentionally archive copies of deleted mail forever. Google continues
+   to reply to this criticism by pointing out that Gmail is using mostly
+   industry-wide practices. Google later stated that they will "make
+   reasonable efforts to remove deleted information from our systems as
+   quickly as is practical."
+
+   Most of the criticism, however, was against Google's plans to add
+   context-sensitive advertisements to e-mails by automatically scanning
+   them. Privacy advocates raised concerns that the plan involved scanning
+   their personal, assumed private, e-mails, and that this was a security
+   problem. Allowing e-mail content to be read, even by a computer, for
+   advertising purposes, raises the risk that the expectation of privacy
+   in e-mail will be reduced. Furthermore, non-subscribers' e-mail is
+   scanned by Gmail as well, and these senders of e-mail did not agree to
+   Gmail's terms of service or privacy policy. Also taken into account is
+   the fact that Google can change its privacy policy unilaterally, and
+   that Google is technically able to cross-reference cookies across its
+   information-rich product line to make dossiers on individuals. However,
+   again the practice is standard across all email systems—it is the only
+   way spam mail checkers can work.
+
+   Opponents of these views state that when one's e-mail is checked to see
+   if it is spam, it is being scanned by the same process. Because a human
+   is not reading the message, they say, it is not a problem.
+
+   What privacy advocates also consider another problem is the lack of
+   disclosed data retention and correlation policies. It is possible for
+   Google to combine information contained in a person's emails with
+   information about their Internet searches. It is not known how long
+   such information would be kept, and how it could be used. One of the
+   concerns is that it could be of interest to law enforcement agencies.
+   More than 30 privacy and civil rights organizations have urged Google
+   to suspend Gmail service until these issues are resolved.
+
+Development history
+
+   Gmail was a project begun by Google developer Paul Buchheit years
+   before it was ever announced to the public. For several years, the
+   software was only available internally, as an email client for Google
+   employees.
+
+   Gmail was finally announced to the public in 2004 amid a flurry of
+   rumor. Owing to April Fool's Day, however, the company's press release
+   was greeted with skepticism in the technology world, especially since
+   Google already had been known to make April Fool's Jokes (such as
+   PigeonRank). However, they explained that their real joke had been a
+   press release saying that they would take offshoring to the extreme by
+   putting employees in a " Google Copernicus Centre" on the Moon.
+   Jonathan Rosenberg, Google's vice-president of products, was quoted by
+   BBC News as saying, "We are very serious about Gmail."
+
+   Gmail also initially received a lot of criticism for a statement they
+   made in their original terms of use, refusing to guarantee that all
+   e-mails at Gmail would be deleted upon request by the user. Google
+   later clarified that they were referring to backup copies of e-mails,
+   and promised that all deleted mails would eventually be expunged
+   completely from their servers. This, along with the feature that
+   advertisements would be generated by software-based scanning of e-mails
+   in order to better target them, gave rise to a controversy on web
+   privacy (see BBC News Article; for a defense see " The Fuss About Gmail
+   and Privacy: Nine Reasons Why It's Bogus").
+
+   Before being acquired by Google, the gmail.com domain name was used by
+   the free e-mail service offered by Garfield.com, online home of the
+   comic strip Garfield. This free e-mail service has moved to
+   e-garfield.com.
+
+   As of June 22, 2005, Gmail's canonical URI has been changed to
+   http://mail.google.com/mail/ instead of http://gmail.google.com/gmail/.
+
+   On November 2, 2006, Google began offering a mobile-application based
+   version of its Gmail product for mobile phones capable of running Java
+   applications . Those interested in using the application can download
+   it from gmail.com/app directly from their mobile phone. In addition,
+   Sprint announced separately that it would make the application
+   available from its Vision and Power Vision homepages and which will be
+   preloaded onto some new Sprint phones. The application gives Gmail its
+   own custom menu system, which is much easier to navigate than a
+   Web-based application would be on a cell phone. Gmail's message
+   threading also shows up clearly, and the site displays attachments
+   (like photos, Word documents) in the application.
+
+Gmail for your domain
+
+   On February 10, 2006, Google introduced Gmail for your domain. This
+   service, currently in beta testing, allows organizations to offer
+   e-mail services through Gmail using their own domain. Google may
+   eventually open the service to all domain owners, as Microsoft has with
+   its Windows Live Custom Domains service.
+
+Google Mail
+
+     * On July 4, 2005, Google announced that Gmail Deutschland would be
+       rebranded Google Mail. From that point forward, visitors
+       originating from an IP address determined to be in Germany would be
+       forwarded to googlemail.com where they could obtain an email
+       address containing the new domain. Any German user who wants a
+       gmail.com address must sign up for an account through a proxy.
+       German users who were already registered were allowed to keep their
+       old addresses.
+     * On October 19, 2005, the United Kingdom version of Gmail was
+       converted to Google Mail, because "Gmail" is trademarked by another
+       company in the UK. However, this can be bypassed by using a proxy.
+       Users who registered before the switch to Googlemail face no
+       problems whatsoever - they keep their Gmail address (although the
+       logo in the top-left of the page appears as 'Google Mail').
+     * Even if the user is signed up with Google Mail, email sent to the
+       @gmail.com version of your email address will still be received.
+       This is also the same for the other way around.
+
+Competition
+
+   After Gmail's initial announcement and development, many existing web
+   mail services quickly increased their storage capacity. For example,
+   Hotmail went from giving some users 2MB to 25MB (250MB after 30 days,
+   and 2 GB for Hotmail Plus accounts), while Yahoo! Mail went from 4MB to
+   100MB (and 2 GB for Yahoo! Mail Plus accounts). Yahoo! Mail storage
+   then proceeded to 250MB, and finally, in late April of 2005, to 1GB.
+   These were all seen as moves to stop existing users from switching to
+   Gmail, and to capitalize on the newly rekindled public interest in web
+   mail services. The desire to catch up was especially visible for MSN
+   Hotmail, which upgraded its e-mail storage erratically from 250 MB to
+   the new Windows Live Mail (beta) which includes 2 GB of storage over a
+   number of months. In August of 2005, AOL started providing all AIM
+   screen names with their own e-mail accounts with 2 GB of storage.
+   Another example of competition came from 30Gigs who were offering 30
+   gigabytes of storage, and was also invite only, but now offers free
+   accounts for anyone.
+
+   Every account which is inactive for 6 months is labeled dormant, and 3
+   months later (a total of 9 months), gets deactivated by Gmail. All
+   stored messages get deleted and the account gets "recycled", which
+   means the account name can be used by any other users afterwards. Other
+   webmail services, like Yahoo! Mail and Hotmail, have different, often
+   shorter, times for marking an account as inactive. Yahoo! Mail
+   deactivates dormant accounts after four months, while Hotmail
+   deactivates free accounts after only one month.
+
+   Other than the general increase of storage limit, there has also been
+   an improvement of the e-mail interfaces of Yahoo! Mail and Hotmail
+   after the launch of Gmail. Gmail's ability to have an attachment size
+   of 10MB was also matched by Yahoo! Mail and Hotmail during 2005.
+   Following the footsteps of Gmail, Yahoo! launched the Yahoo! Mail Beta
+   service and Microsoft launched Windows Live Mail, both now
+   incorporating Ajax interfaces.
+
+Help in Gmail
+
+   When users first sign up for Gmail, they are prompted to take the Gmail
+   Tour which teaches them the basic features and what makes Gmail
+   different. There is also a help page teaching new Gmail users how to
+   import their contacts from their previous webmail account using CSV.
+   However, it only offers personalized help for Yahoo! Mail and Hotmail;
+   it has also been reported that recently-created Gmail accounts will
+   receive a welcome e-mail with the link to the switching guide. Clicking
+   "Help" at the top right hand corner of Gmail takes a user to the Gmail
+   Help Centre. If the Gmail Help Centre does not answer a question, a
+   user can contact Gmail. Alternatively, a user can also ask other users
+   for help on Gmail Help Discussion, a Google Group for users to give and
+   receive help concerning Gmail.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Gmail"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

@@ -1,0 +1,232 @@
+   #copyright
+
+Wave
+
+2007 Schools Wikipedia Selection. Related subjects: General Physics
+
+   A wave is a disturbance that propagates through space or spacetime,
+   often transferring energy. While a mechanical wave exists in a medium
+   (which on deformation is capable of producing elastic restoring
+   forces), waves of electromagnetic radiation (and probably gravitational
+   radiation) can travel through vacuum, that is, without a medium. Waves
+   travel and transfer energy from one point to another, with little or no
+   permanent displacement of the particles of the medium (there is little
+   or no associated mass transport); instead there are oscillations around
+   fixed positions.
+
+   For many years, scientists have been trying to work out the problem of
+   energy transfer from one place to another - especially sound and light
+   energy.
+
+Characteristics
+
+   Surface waves in water
+   Enlarge
+   Surface waves in water
+
+   Periodic waves are characterized by crests (highs) and troughs (lows),
+   and may usually be categorized as either longitudinal or transverse.
+   Transverse waves are those with vibrations perpendicular to the
+   direction of the propagation of the wave; examples include waves on a
+   string and electromagnetic waves. Longitudinal waves are those with
+   vibrations parallel to the direction of the propagation of the wave;
+   examples include most sound waves.
+
+   When an object bobs up and down on a ripple in a pond, it experiences
+   an orbital trajectory because ripples are not simple transverse
+   sinusoidal waves.
+   A = At deep water. B = At shallow water. The circular movement of a
+   surface particle becomes elliptical with decreasing depth. 1 =
+   Progression of wave 2 = Crest 3 = Trough
+   Enlarge
+   A = At deep water.
+   B = At shallow water. The circular movement of a surface particle
+   becomes elliptical with decreasing depth.
+   1 = Progression of wave
+   2 = Crest
+   3 = Trough
+
+   Ripples on the surface of a pond are actually a combination of
+   transverse and longitudinal waves; therefore, the points on the surface
+   follow orbital paths.
+
+   All waves have common behaviour under a number of standard situations.
+   All waves can experience the following:
+     * Reflection – the change of direction of waves, due to hitting a
+       reflective surface.
+     * Refraction – the change of direction of waves due to them entering
+       a new medium.
+     * Diffraction – the circular spreading of waves that happens when the
+       distance between waves move through an opening of equal distance.
+     * Interference – the superposition of two waves that come into
+       contact with each other.
+     * Dispersion – the splitting up of waves by frequency.
+     * Rectilinear propagation – the movement of waves in straight lines.
+
+Polarization
+
+   A wave is polarized if it can only oscillate in one direction. The
+   polarization of a transverse wave describes the direction of
+   oscillation, in the plane perpendicular to the direction of travel.
+   Longitudinal waves such as sound waves do not exhibit polarization,
+   because for these waves the direction of oscillation is along the
+   direction of travel. A wave can be polarized by using a polarizing
+   filter.
+
+Examples
+
+   Examples of waves include:
+     * Ocean surface waves, which are perturbations that propagate through
+       water.
+     * Radio waves, microwaves, infrared rays, visible light, ultraviolet
+       rays, x-rays, and gamma rays make up electromagnetic radiation. In
+       this case, propagation is possible without a medium, through
+       vacuum. These electromagnetic waves travel at 299,792,458 m/s in a
+       vacuum.
+     * Sound - a mechanical wave that propagates through air, liquid or
+       solids.
+     * Seismic waves in earthquakes, of which there are three types,
+       called S, P, and L.
+     * Gravitational waves, which are fluctuations in the gravitational
+       field predicted by general Relativity. These waves are nonlinear,
+       and have yet to be observed empirically.
+     * Inertial waves, which occur in rotating fluids and are restored by
+       the Coriolis force.
+
+Mathematical description
+
+   Waves can be described mathematically using a series of parameters.
+
+   The amplitude of a wave (commonly notated as A, or another letter) is a
+   measure of the maximum disturbance in the medium during one wave cycle.
+   In the illustration to the right, this is the maximum vertical distance
+   between the baseline and the wave. The units of the amplitude depend on
+   the type of wave — waves on a string have an amplitude expressed as a
+   distance (meters), sound waves as pressure (pascals) and
+   electromagnetic waves as the amplitude of the electric field
+   (volts/meter). The amplitude may be constant (in which case the wave is
+   a c.w. or continuous wave), or may vary with time and/or position. The
+   form of the variation of amplitude is called the envelope of the wave.
+
+   The wavelength (denoted as λ) is the distance between two sequential
+   crests (or troughs). This generally has the unit of metres; it is also
+   commonly measured in nanometres for the optical part of the
+   electromagnetic spectrum.
+
+   A wavenumber k can be associated with the wavelength by the relation
+
+          k = \frac{2 \pi}{\lambda} .
+
+   Waves can be represented by simple harmonic motion.
+   Enlarge
+   Waves can be represented by simple harmonic motion.
+
+   The period T is the time for one complete cycle for an oscillation of a
+   wave. The frequency f (also frequently denoted as ν) is how many
+   periods per unit time (for example one second) and is measured in
+   hertz. These are related by:
+
+          f=\frac{1}{T} .
+
+   In other words, the frequency and period of a wave are reciprocals of
+   each other.
+
+   The angular frequency ω represents the frequency in terms of radians
+   per second. It is related to the frequency by:
+
+          \omega = 2 \pi f = \frac{2 \pi}{T} .
+
+   There are two velocities that are associated with waves. The first is
+   the phase velocity, which gives the rate at which the wave propagates,
+   is given by
+
+          v_p = \frac{\omega}{k} .
+
+   The second is the group velocity, which gives the velocity at which
+   variations in the shape of the wave's amplitude propagate through
+   space. This is the rate at which information can be transmitted by the
+   wave. It is given by
+
+          v_g = \frac{\partial \omega}{\partial k}
+
+The wave equation
+
+   The wave equation is a differential equation that describes the
+   evolution of a harmonic wave over time. The equation has slightly
+   different forms depending on how the wave is transmitted, and the
+   medium it is traveling through. Considering a one-dimensional wave that
+   is travelling down a rope along the x-axis with velocity v and
+   amplitude u (which generally depends on both x and t), the wave
+   equation is
+
+          \frac{1}{v^2}\frac{\partial^2 u}{\partial t^2}=\frac{\partial^2
+          u}{\partial x^2}. \
+
+   In three dimensions, this becomes
+
+          \frac{1}{v^2}\frac{\partial^2 u}{\partial t^2} = \nabla^2 u ,
+
+   where \nabla^2 is the Laplacian.
+
+   The velocity v will depend on both the type of wave and the medium
+   through which it is being transmitted.
+
+   A general solution for the wave equation in one dimension was given by
+   d'Alembert. It is
+
+          u(x,t)=F(x-vt)+G(x+vt). \
+
+   This can be viewed as two pulses travelling down the rope in opposite
+   directions; F in the +x direction, and G in the -x direction. If we
+   substitute for x above, replacing it with directions x, y, z, we then
+   can describe a wave propagating in three dimensions.
+
+   The Schrödinger equation describes the wave-like behaviour of particles
+   in quantum mechanics. Solutions of this equation are wave functions
+   which can be used to describe the probability density of a particle.
+   Quantum mechanics also describes particle properties that other waves,
+   such as light and sound, have on the atomic scale and below.
+
+Traveling waves
+
+   Waves that remain in one place are called standing waves - e.g.
+   vibrations on a violin string. Waves that are moving are called
+   traveling waves, and have a disturbance that varies both with time t
+   and distance z. This can be expressed mathematically as:
+
+          u = A(z,t) \cos (\omega t - kz + \phi)\,
+
+   where A(z,t) is the amplitude envelope of the wave, k is the wave
+   number and φ is the phase. The phase velocity v[p] of this wave is
+   given by:
+
+          v_p = \frac{\omega}{k}= \lambda f,
+
+   where λ is the wavelength of the wave.
+
+Propagation through strings
+
+   The speed of a wave traveling along a string (v) is directly
+   proportional to the square root of the tension (T) over the linear
+   density (μ):
+
+          v=\sqrt{\frac{T}{\mu}}.
+
+Transmission medium
+
+   The medium that carries a wave is called a transmission medium. It can
+   be classified into one or more of the following categories:
+     * A linear medium if the amplitudes of different waves at any
+       particular point in the medium can be added.
+     * A bounded medium if it is finite in extent, otherwise an unbounded
+       medium.
+     * A uniform medium if its physical properties are unchanged at
+       different locations in space.
+     * An isotropic medium if its physical properties are the same in
+       different directions.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Wave"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

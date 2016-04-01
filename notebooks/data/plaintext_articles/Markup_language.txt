@@ -1,0 +1,349 @@
+   #copyright
+
+Markup language
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   A specialized markup language using SGML is used to write the
+   electronic version of the Oxford English Dictionary. This enables
+   sophisticated queries to be performed, as well as easy translation into
+   HTML.
+   A specialized markup language using SGML is used to write the
+   electronic version of the Oxford English Dictionary. This enables
+   sophisticated queries to be performed, as well as easy translation into
+   HTML.
+
+   A markup language combines text and extra information about the text.
+   The extra information, for example about the text's structure or
+   presentation, is expressed using markup, which is intermingled with the
+   primary text. The best-known markup language in modern use is HTML (
+   HyperText Markup Language), one of the foundations of the World Wide
+   Web. Historically, markup was (and is) used in the publishing industry
+   in the communication of printed work between authors, editors, and
+   printers.
+
+Classes of markup languages
+
+   Markup languages are often divided into three classes: presentational,
+   procedural, and descriptive.
+
+Presentational markup
+
+   Presentational markup is an attempt to infer document structure from
+   cues in the encoding. For example, in a text file, the title of a
+   document might be preceded by several newlines and/or spaces, thus
+   suggesting leading spacing and centering. Word-processing and desktop
+   publishing products sometimes attempt to deduce structure from such
+   conventions, but, as the enormous variety of Wiki plain-text
+   conventions prove, this is, as of yet, an unresolved problem.
+
+Procedural markup
+
+   Procedural markup is typically also focused on the presentation of
+   text, but is usually visible to the user editing the text file, and is
+   expected to be interpreted by software in the order in which it
+   appears. To format a title, a succession of formatting directives would
+   be inserted into the file immediately before the title's text,
+   instructing software to switch into centered display mode, then enlarge
+   and embolden the typeface. The title text would be followed by
+   directives to reverse these effects; in more advanced systems macros or
+   a stack model make this less tedious. In most cases, the procedural
+   markup capabilities comprise a Turing-complete programming language.
+   Examples of procedural-markup systems include nroff, troff, TeX, Lout
+   and PostScript. Procedural markup has been widely used in professional
+   publishing applications, where professional typographers can be
+   expected to learn the languages required.
+
+Descriptive markup
+
+   Descriptive markup or semantic markup applies labels to fragments of
+   text without necessarily mandating any particular display or other
+   processing semantics. For example, the Atom syndication language
+   provides markup to label the "updated" time-stamp, which is an
+   assertion from the publisher as to when some item of information was
+   last changed. While the Atom specification discusses the meaning of the
+   "updated" timestamp, and specifies the markup used to identify it, it
+   makes no assertions about whether or how it might be presented to a
+   user. Software might put this markup to a variety of uses, including
+   many not foreseen by the designers of the Atom language. SGML and XML
+   are systems explicitly designed to support the design of descriptive
+   markup languages.
+
+   In practice, the classes of markup usually co-occur in any given
+   system. For example, HTML contains markup elements which are purely
+   procedural (for example b for bold) and others which are purely
+   descriptive ("blockquote", or the "href=" attribute). HTML also
+   includes the PRE element, which encloses areas of presentational markup
+   to be laid out exactly as typed.
+
+   Sets of markup elements and rules for their use are commonly developed
+   by standards bodies to support the kinds of documents used in
+   particular industries or communities. One of the earliest of these was
+   CALS, used by the US military for technical manuals. Industries with
+   large-scale documentation requirements soon followed suit, developing
+   tag-sets for aircraft, telecommunications, automotive, and computer
+   hardware manuals. This led to delivering many such manuals solely in
+   electronic form; some companies were able to produce printed, online,
+   and CD-based manuals all from a single (descriptive markup) source. A
+   notable example was Sun Microsystems, where Jon Bosak (who later
+   founded the XML committee) decided on SGML for multi-target
+   documentation delivery, achieving considerable cost savings.
+
+   Markup languages now abound; among the more widely known are DocBook,
+   MathML, SVG, Open eBook, TEI, and XBRL. Many are for various kinds of
+   text documents, but specialized languages are used in many other
+   domains.
+
+   Generic markup is another term for descriptive markup. Most modern
+   descriptive markup systems structure documents into trees, while also
+   providing some means for embedding cross-references. Because of this,
+   documents can be readily treated as databases, in which the database
+   system is aware of the structure (not " blobs" as in the past). Because
+   they do not have such strict schemas as relational databases, however,
+   they are commonly called " semi-structured databases".
+
+   In the third millennium, great interest has arisen in document
+   structures that are not trees. For example, ancient and sacred
+   literature commonly has a rhetorical or prose structure (stories,
+   pericopes, paragraphs, and so on), as well as a reference structure
+   (books, chapters, verses, lines). Since the boundaries of these units
+   often cross, they cannot readily be encoded using tree-structured
+   markup systems. Among the document modeling systems that support such
+   structures are MECS (developed for encoding the works of Wittgenstein),
+   aspects of the TEI Guidelines, LMNL, and CLIX.
+
+   A primary virtue of descriptive markup is considered to be its
+   flexibility: if the fragments of text are labeled as to "what they are"
+   as opposed to "how they should be displayed", software may be written
+   to process these fragments in useful ways not anticipated by the
+   designers of the languages. For example, HTML's hyperlinks, originally
+   designed for activation by a human following a link, are also widely
+   used by Web search engines both in discovering new material to index
+   and in estimating the popularity of Web resources.
+
+   Descriptive markup also facilitates the simpler task of reformatting a
+   document as needed, because the format specification is not intertwined
+   with the content. For example, italics might be used both for emphasis,
+   and to indicate foreign words. However, if both are merely tagged
+   (presentationally or procedurally) as italic, this ambiguity cannot
+   readily be sorted out. If a decision is later made not to italicize
+   foreign words, there is nothing for it but to review all italic
+   portions and sort them out one by one. However, if the two cases were
+   (descriptively or generically) tagged differently to begin with, either
+   can be reformatted without interfering with the other.
+
+History
+
+   The term "markup" is derived from the traditional publishing practice
+   of "marking up" a manuscript, that is, adding symbolic printer's
+   instructions in the margins of a paper manuscript. For centuries, this
+   task was done by specialists known as "markup men" and proofreaders who
+   marked up text to indicate what typeface, style, and size should be
+   applied to each part, and then handed off the manuscript to someone
+   else for the tedious task of typesetting by hand. A familiar example of
+   manual markup symbols still in use is proofreader's marks, which are a
+   subset of larger vocabularies of handwritten markup symbols.
+
+GenCode
+
+   The idea of "markup languages" was apparently first presented by
+   publishing executive William W. Tunnicliffe at a conference in 1967,
+   although he preferred to call it "generic coding." Tunnicliffe would
+   later lead the development of a standard called GenCode for the
+   publishing industry. Book designer Stanley Fish also published
+   speculation along similar lines in the late 1960s. Brian Reid, in his
+   1980 dissertation at Carnegie Mellon University, developed the theory
+   and a working implementation of descriptive markup in actual use.
+   However, IBM researcher Charles Goldfarb is more commonly seen today as
+   the "father" of markup languages, because of his work on IBM GML, and
+   then as chair of the International Organization for Standardization
+   committee that developed SGML, the first widely used descriptive markup
+   system. Goldfarb hit upon the basic idea while working on an early
+   project to help a newspaper computerize its workflow, although the
+   published record does not clarify when. He later became familiar with
+   the work of Tunnicliffe and Fish, and heard an early talk by Reid which
+   further sparked his interest.
+
+   It must be noted that the details of the early history of descriptive
+   markup languages are hotly debated. However, it is clear that the
+   notion was independently discovered several times throughout the 70s
+   (and possibly the late 60s), and became an important practice in the
+   late 80s.
+
+   Some early examples of markup languages available outside the
+   publishing industry can be found in typesetting tools on Unix systems
+   such as troff and nroff. In these systems, formatting commands were
+   inserted into the document text so that typesetting software could
+   format the text according to the editor's specifications. It was a
+   trial and error iterative process to get a document printed correctly.
+   Availability of WYSIWYG ("what you see is what you get") publishing
+   software supplanted much use of these languages among casual users,
+   though serious publishing work still uses markup to specify the
+   non-visual structure of texts.
+
+TeX
+
+   Another major publishing standard is TeX, created and continuously
+   refined by Donald Knuth in the 1970s and 80s. TeX concentrated on
+   detailed layout of text and font descriptions in order to typeset
+   mathematical books in professional quality. This required Knuth to
+   spend considerable time investigating the art of typesetting. However,
+   TeX requires considerable skill from the user, so that it is mainly
+   used in academia, where it is a de-facto standard in many scientific
+   disciplines. A TeX macro package known as LaTeX provides a descriptive
+   markup system on top of TeX, and is widely used.
+
+SGML
+
+   The first language to make a clear and clean distinction between
+   structure and presentation was certainly Scribe, developed by Brian
+   Reid and described in his doctoral thesis in 1980. Scribe was
+   revolutionary in a number of ways, not least that it introduced the
+   idea of styles separated from the marked up document, and of a grammar
+   controlling the usage of descriptive elements. Scribe influenced the
+   development of Generalized Markup Language (later SGML) and is a direct
+   ancestor to HTML and LaTeX.
+
+   In the early 1980s, the idea that markup should be focused on the
+   structural aspects of a document and leave the visual presentation of
+   that structure to the interpreter led to the creation of SGML. The
+   language was developed by a committee chaired by Goldfarb. It
+   incorporated ideas from many different sources, including Tunnicliffe's
+   project, GenCode. Sharon Adler, Anders Berglund, and James D. Mason
+   were also key members of the SGML committee.
+
+   SGML specified a syntax for including the markup in documents, as well
+   as one for separately describing what tags were allowed, and where (the
+   Document Type Definition ( DTD) or schema). This allowed authors to
+   create and use any markup they wished, selecting tags that made the
+   most sense to them and were named in their own natural languages. Thus,
+   SGML is properly a meta-language, and many particular markup languages
+   are derived from it. From the late 80s on, most substantial new markup
+   languages have been based on SGML system, including for example TEI and
+   DocBook. SGML was promulgated as an International Standard by
+   International Organization for Standardization, ISO 8879, in 1986.
+
+   SGML found wide acceptance and use in fields with very large-scale
+   documentation requirements. However, it was generally found to be
+   cumbersome and difficult to learn, a side effect of attempting to do
+   too much and be too flexible. For example, SGML made end tags (or
+   start-tags, or even both) optional in certain contexts, because it was
+   thought that markup would be done manually by overworked support staff
+   who would appreciate saving keystrokes.
+
+HTML
+
+   By 1991, it appeared to many that SGML would be limited to commercial
+   and data-based applications while WYSIWYG tools (which stored documents
+   in proprietary binary formats) would suffice for other document
+   processing applications.
+
+   The situation changed when Sir Tim Berners-Lee, learning of SGML from
+   co-worker Anders Berglund and others at CERN, used SGML syntax to
+   create HTML. HTML resembles other SGML-based tag languages, although it
+   began as simpler than most and a formal DTD was not developed until
+   later. DeRose argues that HTML's use of descriptive markup (and SGML in
+   particular) was a major factor in the success of the Web, because of
+   the flexibility and extensibility that it enabled (other factors
+   include the notion of URLs and the free distribution of browsers). HTML
+   is quite likely the most used markup language in the world today.
+
+   However, HTML's status as a markup language is disputed by some
+   computer scientists. The argument for this is that HTML restricts the
+   placement of tags, requiring them to be either fully nested inside of
+   other tags, or the root tag of the document. Because of this, these
+   scientists would suggest instead that HTML is a container language,
+   following a Hierarchical model.
+
+XML
+
+   Another, newer, markup language that is now widely used is XML
+   (Extensible Markup Language). XML was developed by the World Wide Web
+   Consortium, in a committee created and chaired by Jon Bosak. The main
+   purpose of XML was to simplify SGML by focusing on a particular problem
+   — documents on the Internet. XML remains a meta-language like SGML,
+   allowing users to create any tags needed (hence "extensible") and then
+   describing those tags and their permitted uses.
+
+   XML adoption was helped because every XML document is also an SGML
+   document, and existing SGML users and software could switch to XML
+   fairly easily. However, XML eliminated many of the more complex
+   features of SGML, easing learning and implementation (while increasing
+   markup size and reducing readability). Other improvements rectified
+   some SGML problems in international settings, and made it possible to
+   parse and interpret document hierarchy even if no schema is available.
+
+   XML was designed primarily for semi-structured environments such as
+   documents and publications. However, it appeared to hit a sweet spot
+   between simplicity and flexibility, and was rapidly adopted for many
+   other uses. XML is now widely used for communicating data between
+   applications.
+
+XHTML
+
+   Since January 2000 all W3C Recommendations for HTML have been based on
+   XML rather than SGML, using the abbrebiation XHTML (the eXtensible
+   Hypertext Markup Language). The language specification requires that
+   XHTML Web documents must be "well-formed" XML documents – this allows
+   for more rigorous and robust documents while using tags familiar from
+   HTML.
+
+   One of the most noticeable differences between HTML and XHTML is the
+   rule that all tags must be closed: 'empty' HTML tags such as <br> must
+   either be 'closed' with a regular end-tag, or replaced by a special
+   form: <br /> (note that there must be a space before the '/' on the end
+   tag as otherwise the tag is not valid SGML). Another is that all
+   attribute values in tags must be quoted.
+
+Other XML-based applications
+
+   Many XML-based applications now exist, including RDF, XForms, DocBook,
+   SOAP and the Web Ontology Language (OWL). For a partial list of these
+   see List of XML markup languages.
+
+Features
+
+   A common feature of many markup languages is that they intermix the
+   text of a document with markup instructions in the same data stream or
+   file. Here, for example, is a small section of text marked up in HTML:
+<h1> Anatidae </h1>
+<p>
+The family <i>Anatidae</i> includes ducks, geese, and swans,
+but <em>not</em> the closely-related screamers.
+</p>
+
+   The codes enclosed in angle-brackets <like this> are markup
+   instructions (known as tags), while the text between these instructions
+   is the actual text of the document. The codes "h1", "p", and "em" are
+   examples of structural markup, in that they describe the intended
+   purpose or meaning of the text they include. Specifically, "h1" means
+   "this is a first-level heading", "p" means "this is a paragraph", and
+   "em" means "this is an emphasized word". A device reading such
+   structural markup may apply its own rules or styles for presenting it,
+   using larger type, boldface, indentation, or whatever style it prefers.
+   The "i" instruction is an example of presentational markup. It
+   specifies the exact appearance of the text (in this case, the use of an
+   italic typeface) without specifying the reason for that appearance.
+
+   The Text Encoding Initiative (TEI) has published extensive guidelines
+   for how to encode texts of interest in the humanities and social
+   sciences, developed through years of international cooperative work.
+   These guidelines are used by countless projects encoding historical
+   documents, the works of particular scholars, periods, or genres, and so
+   on.
+
+Alternative usage
+
+   While the idea of markup language originated with text documents, there
+   is an increasing usage of markup languages in areas like vector
+   graphics, web services, content syndication, and user interfaces. Most
+   of these are XML applications because it is a clean, well-formatted,
+   and extensible language. The use of XML has also led to the possibility
+   of combining multiple markup languages into a single profile, like
+   XHTML+SMIL and XHTML+MathML+SVG .
+
+   Retrieved from " http://en.wikipedia.org/wiki/Markup_language"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

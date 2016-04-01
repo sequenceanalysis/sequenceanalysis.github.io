@@ -1,0 +1,157 @@
+   #copyright
+
+Optical telescope
+
+2007 Schools Wikipedia Selection. Related subjects: Engineering; Space
+(Astronomy)
+
+   An optical telescope is a telescope which is used to gather, and focus
+   light, for directly viewing a magnified image, making a photograph,
+   etc. The term is used especially for a monocular with static mounting
+   for observing the sky. Handheld binoculars are common for other
+   purposes.
+
+   Light is made up of photons, and professional telescopes concentrate
+   the light onto electronic detectors which collect the photons. There
+   are three primary types of optical telescope: Refractors ( Dioptrics)
+   which use lenses, Reflectors ( Catoptrics) which use mirrors, and
+   Combined Lens-Mirror Systems ( Catadioptrics) which use lenses and
+   mirrors in combination (for example the Maksutov telescope and the
+   Schmidt camera).
+
+How it works
+
+   The basic scheme is that the primary light-gathering element, the
+   objective ( objective lens (1) or concave mirror), focuses light from a
+   distant object (4) to a focal plane where it forms a real image (5).
+   This image is viewed through an eyepiece (2), which acts like a
+   magnifying glass. The eye (3) sees a magnified virtual image (6) at a
+   large distance.
+   Keplerian telescope, schematic
+   Enlarge
+   Keplerian telescope, schematic
+
+   Telescopes which employ two convex lenses cause the image to appear
+   inverted. Terrestrial versions of such telescopes and binoculars employ
+   prisms (e.g. Porro prisms) or a relay lens between objective and
+   eyepiece to invert the image once more. Thus, an upright image appears
+   in the eyepiece.
+
+   Many types of telescope fold the optical path with secondary or
+   tertiary mirrors. These may be integral part of the optical design (
+   Cassegrain reflector and similar types), but also serve for making the
+   telescope more compact and placing the eyepiece or detector at a more
+   convenient position. On large telescopes these additional mirrors are
+   often used to provide improved image quality over a larger field of
+   view.
+
+Angular resolution
+
+   Ignoring blurring of the image by turbulence in the atmosphere (
+   atmospheric seeing) and optical imperfections of the telescope, the
+   angular resolution of an optical telescope is determined by the width
+   of the objective, termed its " aperture" (the primary mirror, or lens.)
+   The Rayleigh criterion for the resolution limit α[R] (in radians) is
+   given by
+
+          α[R] = 1.22λ / D,
+
+   where λ is the wavelength and D is the aperture. For visible light (λ =
+   550rmnm), this equation can be rewritten:
+
+          α[R] = 138 / D.
+
+   Here, α[R] denotes the resolution limit in arcseconds and D is in
+   millimeters. In the ideal case, the two components double stars can be
+   split even if separated by slightly less than α[R]. This is taken into
+   account by the Dawes limit
+
+          α[D] = 116 / D.
+
+   Essentially; the larger the aperture, the better the angular resolution
+
+   It should be noted that the resolution is NOT given by the maximum
+   magnification (or "power") of a telescope. Telescopes marketed by
+   giving high values of the maximum power often deliver poor images.
+
+   For large ground-based telescopes, the resolution is limited by
+   atmospheric seeing. This limit can be overcome by placing the
+   telescopes above the atmosphere, e.g., space telescopes, balloon
+   telescopes and telescopes on high-flying airplanes ( Kuiper Airborne
+   Observatory, SOFIA) or by adaptive optics or speckle imaging for
+   ground-based telescopes.
+
+   Recently, it has become practical to perform aperture synthesis with
+   arrays optical telescopes. Very high resolution images can be obtained
+   with groups of widely-spaced smaller telescopes, linked together by
+   carefully-controlled optical paths, but these interferometers can only
+   used for imaging bright objects such as stars or measuring the bright
+   cores of active galaxies. Example images of starspots on Betelgeuse can
+   be seen here.
+
+Focal length and f-ratio
+
+   The focal length determines how wide an angle the telescope can view
+   with a given eyepiece or size of a CCD detector or photographic plate.
+   The f-ratio (or focal ratio, or f-number) of a telescope is the ratio
+   between the focal length and the aperture (i.e., diameter) of the
+   objective. Thus, for a given aperture (light-gathering power), low
+   f-ratios indicate wide fields of view. Wide-field telescopes (such as
+   astrographs) are used to track satellites and asteroids, for cosmic-ray
+   research, and for surveys of the sky. It is more difficult to reduce
+   optical aberrations in telescopes with low f-ratio than in telescopes
+   with larger f-ratio.
+
+Light-gathering power
+
+   The light-gathering power of an optical telescope is directly related
+   to the diameter (or aperture) of the objective lens or mirror. Note
+   that the area of a circle is proportional to the square of the radius.
+   A telescope with a lens which has a diameter three times that of
+   another will have nine times the light-gathering power. Larger
+   objectives gather more light, and more sensitive imaging equipment can
+   produce better images from less light.
+
+Research telescopes
+
+   Nearly all large research-grade astronomical telescopes are reflectors.
+   Some reasons are:
+     * In a lens the entire volume of material has to be free of
+       imperfection and inhomogeneities, whereas in a mirror, only one
+       surface has to be perfectly polished.
+     * Light of different colors travels through a medium other than
+       vacuum at different speeds. This causes chromatic aberration.
+     * There are technical difficulties involved in manufacturing and
+       manipulating large-aperture lenses. One of them is that all real
+       materials sag in gravity. A lens can only be held by its perimeter.
+       A mirror, on the other hand, can be supported by the whole side
+       opposite to its reflecting face.
+
+   The size of optical telescopes increased steadily in the 20th century,
+   doubling between the 1910s and the 1940s, and doubling again between
+   the late 1940s and the 1990s. The largest current telescopes are the
+   11m SALT and Hobby-Eberly telescopes and the 10.4m Gran Telescopio
+   Canarias.
+
+   In the 1980s a number of technological improvements were made which
+   created a new generation of telescopes. These advances included the
+   creation of multi-mirror telescopes and the invention of cheap personal
+   computers which could control the mirrors. Another major advanced was
+   the invention of rotating furnaces in which centrifugal force would
+   shape a telescope mirror to close to its final shape.
+
+   Names of types:
+     * Binoculars are just two monoculars mounted side-by side with
+       adjustments to let both be used. A major practical advantage of
+       these telescopes is not magnification, so much as a brighter field
+       of view at dusk and dawn. Monoculars and binoculars with built-in
+       compasses are used by army artillery units and ships to navigate by
+       triangulating from topographic (shore) features. Hand-held
+       telescopes are limited by hand-shaking to about 7 power. The
+       brightest-field, best-magnifying practical monocular is about 7x50.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Optical_telescope"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

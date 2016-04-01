@@ -1,0 +1,473 @@
+   #copyright
+
+Doom
+
+2007 Schools Wikipedia Selection. Related subjects: Computer & Video games
+
+   Doom
+   "The Ultimate Doom" title artwork, painted by Don Ivan Punchatz,
+   depicts the lone hero, a space marine, fighting demonic creatures.
+   Developer(s) id Software
+   Publisher(s) id Software, GT Interactive, Activision
+   Designer(s) John Romero
+   Engine Doom
+   Release date(s) December 10, 1993
+   Genre(s) First-person shooter
+   Mode(s) Single player
+   Multiplayer ( cooperative)
+   Multiplayer ( deathmatch)
+   Rating(s) ESRB: M
+   ESRB: T ( GBA)
+   BBFC: 15
+   OFLC: MA15+
+   RSAC: V3: Blood and gore
+   L1: Mild expletives
+   Platform(s) PC ( MS-DOS)
+   Other versions and ports of Doom
+   Media 3½" floppy disk, CD (1)
+
+   Doom (or DOOM) is a 1993 computer game by id Software that is among the
+   landmark titles in the first-person shooter genre. It is widely
+   recognized for its pioneering use of immersive 3D graphics, networked
+   multiplayer gaming on the PC platform, and the support for players to
+   create custom expansions ( WADs). Distributed as shareware, Doom was
+   downloaded by an estimated 10 million people within two years,
+   popularizing the mode of gameplay and spawning a gaming subculture; as
+   a sign of its impact on the industry, games from the mid-1990s boom of
+   first-person shooters are often known simply as " Doom clones". Its
+   graphic and interactive violence has also made Doom the subject of much
+   controversy reaching outside the gaming world. According to GameSpy,
+   Doom was voted by industry insiders to be the #1 game of all time.
+
+   The Doom franchise was continued with Doom II: Hell on Earth (1994) and
+   numerous expansion packs, including The Ultimate Doom (1995), Master
+   Levels for Doom II (1995), and Final Doom (1996). Originally released
+   for PC/ DOS, these games have later been ported to many other
+   platforms, including nine different game consoles. The series lost
+   mainstream appeal as the technology of the Doom game engine was
+   surpassed in the mid-1990s, although fans have continued making WADs,
+   speedrunning, and modifying the source code which was released in 1997.
+   The franchise again received popular attention in 2004 with the release
+   of Doom 3, a retelling of the original game using new technology, and
+   an associated 2005 Doom motion picture.
+
+Game features
+
+Story
+
+   Doom has a science fiction/ horror theme, and a simple plot. The
+   background is only given in the game's manual, and the in-game story is
+   mainly advanced with short messages displayed between the game's
+   episodes.
+
+   The player takes the role of a nameless space marine (referred to as "
+   Doomguy" by many fans), "one of Earth's toughest, hardened in combat
+   and trained for action", who has been deported to Mars for assaulting a
+   senior officer when ordered to kill unarmed civilians. He is forced to
+   work for the Union Aerospace Corporation (UAC), a military-industrial
+   conglomerate that is performing secret experiments with teleportation
+   between the moons of Mars, Phobos and Deimos. Suddenly, something goes
+   wrong and creatures from Hell come out of the teleportation gates, or
+   "Gateways". A defensive response from base security fails to halt the
+   invasion, and the bases quickly get overrun by demons; all personnel
+   are killed or turned into zombies. At the same time, Deimos vanishes
+   entirely. A UAC team from Mars is sent to Phobos to investigate the
+   incident, but soon radio contact ceases and only one human is left
+   alive — the player, whose task is to make it out alive.
+
+   In order to beat the game, the player must fight through three episodes
+   containing nine levels each (see Episodes and levels of Doom).
+   Knee-Deep in the Dead, the first episode and the only one in the
+   shareware version, is set in the high-tech military bases on Phobos. It
+   ends with the player fighting the Barons of Hell and afterwards
+   entering the teleporter leading to Deimos, there getting overwhelmed by
+   monsters and seemingly killed. In the second episode, Shores of Hell,
+   the player journeys through the Deimos installation, whose areas are
+   interwoven with beastly architecture. After encountering the
+   Cyberdemon, the truth about the vanished moon is discovered: it is
+   floating above Hell. The player climbs down to the surface, and the
+   final episode, Inferno, begins. After destroying the final boss, the
+   Spider Mastermind, a hidden doorway opens for the hero who has "proven
+   too tough for Hell to contain", leading back home to Earth. The
+   expansion pack Ultimate Doom adds a fourth episode, Thy Flesh Consumed,
+   chronicling the marine's return to Earth.
+
+Gameplay
+
+   Being a first-person shooter, Doom is experienced through the eyes of
+   the main character. The objective of each level is simply to locate the
+   exit room that leads to the next area (usually labeled with an inviting
+   red EXIT sign), while surviving all hazards on the way. Among the
+   obstacles are monsters, pits of radioactive slime, ceilings that come
+   down and crush the player, and locked doors for which a keycard or
+   remote switch need to be located. The levels are sometimes labyrinthine
+   (the automap is a crucial aid in navigating them), and feature plenty
+   of hidden secret areas that hold power-ups as a reward for players who
+   explore.
+
+   Doom is notable for the weapons arsenal available to the player, which
+   became prototypical for first-person shooters. The player starts armed
+   only with a pistol, and brass-knuckled fists in case the ammunition
+   runs out, but larger weapons can be picked up: these are a chainsaw, a
+   shotgun, a chaingun, a rocket launcher, a plasma rifle, and finally the
+   immensely powerful BFG 9000. There is a wide array of power-ups, such
+   as a backpack that increases the player's ammunition-carrying capacity,
+   armor, first aid kits to restore health, the berserk pack (a black
+   first aid box that puts the character into berserk mode, allowing them
+   to deal out rocket launcher-level damage with their fists and
+   potentially splattering former humans and imps), and supernatural blue
+   orbs that boost the player's health percentage beyond 100%, up to a
+   maximum of 200%.
+
+   The enemy monsters in Doom make up the central gameplay element. The
+   player faces them in large numbers, on the higher of the game's five
+   difficulty levels often encountering a dozen or more in the same room.
+   There are 10 types of monsters ( Doom II doubles this figure),
+   including possessed humans as well as demons of different strength,
+   ranging from weak but ubiquitous imps and red, floating cacodemons, to
+   the bosses which survive multiple strikes even from the player's
+   strongest weapons. The monsters have very simple behaviour, consisting
+   of either walking toward the player or attacking by throwing fireballs,
+   biting, and scratching (though they can also fight each other).
+
+   Many versions of Doom (and its sequels) include secret levels which are
+   accessed by the player discovering alternate exits, often hidden behind
+   secret doors or in difficult-to-reach areas. In some versions of Doom
+   II two of these secret levels incorporate level design and characters
+   from Doom's precursor, Wolfenstein 3D.
+
+   Aside from the single-player game mode, Doom features two multiplayer
+   modes playable over a network: "co-operative", in which two to four
+   players team up against the legions of Hell, and " deathmatch", in
+   which two to four players fight each other.
+     * Doom single-player gameplay demonstration
+          + Video of a single-player game, in the level E3M6: Mount
+            Erebus.
+     * .
+
+Development
+
+   Some of the Doom monsters were digitized from sculptures. Here, Adrian
+   Carmack creates the Baron of Hell in clay.
+   Enlarge
+   Some of the Doom monsters were digitized from sculptures. Here, Adrian
+   Carmack creates the Baron of Hell in clay.
+
+   The development of Doom started in 1992 when John Carmack developed a
+   new 3-D game engine, the Doom engine, while the rest of the id Software
+   team finished the Wolfenstein 3D sequel Spear of Destiny. When the game
+   design phase began in late 1992, the main thematic influences were the
+   science fiction action movie Aliens and the horror movie Evil Dead II.
+   The title of the game was picked by Carmack:
+
+          There is a scene in " The Colour of Money" where Tom Cruse [sic]
+          shows up at a pool hall with a custom pool cue in a case. "What
+          do you have in there?" asks someone. "Doom." replied Cruse with
+          a cocky grin. That, and the resulting carnage, was how I viewed
+          us springing the game on the industry.
+
+   Designer Tom Hall wrote an elaborate design document called the Doom
+   Bible, according to which the game would feature a detailed storyline,
+   multiple player characters, and a number of interactive features.
+   However, many of his ideas were discarded during development in favour
+   of simpler design primarily advocated by Carmack, resulting in Hall in
+   the end being forced to resign due to not contributing effectively in
+   the direction the rest of the team was going. Most of the level design
+   that ended up in the final game is that of John Romero and Sandy
+   Petersen. The graphics, by Adrian Carmack, Kevin Cloud and Gregor
+   Punchatz, were created in various ways: although much was drawn or
+   painted, several of the monsters were built from sculptures in clay or
+   latex, and some of the weapons are toy guns from Toys "R" Us. A heavy
+   metal- ambient soundtrack was supplied by Bobby Prince.
+
+Engine technology
+
+   Doom's primary distinguishing feature at the time of its release was
+   its realistic 3D graphics, then unparalleled by other
+   real-time-rendered games running on consumer-level hardware. The
+   advance from id Software's previous game Wolfenstein 3D was enabled by
+   several new features in the Doom engine:
+     * Height differences (all rooms in Wolfenstein 3D are at the same
+       altitude);
+     * Non- perpendicular walls (all walls in Wolfenstein 3D run along a
+       rectangular grid);
+     * Swaying of the weapon (in Wolfenstein 3D the arms stay fixed in
+       front in the screen no matter what the character does), this gives
+       the impression of fluidity while walking or running;
+     * Full texture mapping of all surfaces (in Wolfenstein 3D, floors and
+       ceilings are not texture mapped);
+     * Varying light levels (all areas in Wolfenstein 3D are fully lit at
+       the same brightness). While contributing to the game's visual
+       authenticity by allowing effects such as highlights and shadows,
+       this perhaps most importantly added to the game's atmosphere and
+       even gameplay; the use of darkness as a means of frightening or
+       confusing the player was an unseen element in games.
+
+   In contrast to the static levels of Wolfenstein 3D, those in Doom are
+   highly interactive: platforms can lower and rise, floors can raise
+   sequentially to form staircases, and bridges can raise and lower. The
+   life-like feeling of the environment was enhanced further by the stereo
+   sound system, which made it possible to roughly tell the direction and
+   distance of a sound's origin. The player is kept on guard by the grunts
+   and growls of monsters, and receives occasional clues to finding secret
+   areas in the form of sounds of hidden doors opening remotely. Monsters
+   can also become aware of the player's presence by hearing distant
+   gunshots.
+
+   Carmack had to make use of several tricks for these features to run
+   smoothly on home computers of 1993. Most significantly, Doom levels are
+   not truly three-dimensional; they are internally represented on a
+   plane, with height differences added separately (a similar trick is
+   still used by many games to create huge outdoor environments). This
+   leads to several limitations: it is, for example, not possible for a
+   Doom level to have one room over another. This two-dimensional
+   representation does, however, have the benefit that rendering can be
+   done very quickly, using a binary space partitioning method. Another
+   benefit was the clearness of the automap because it could be displayed
+   with 2D vectors without the risk of overlapping.
+
+   Another important feature of the Doom engine is a modular approach that
+   allows the game content to be replaced by loading custom WAD files.
+   Wolfenstein 3D was not designed to be expandable, but fans had
+   nevertheless figured out how to create their own levels for it, and
+   Doom was designed to take the phenomenon further. The ability to create
+   custom scenarios contributed significantly to the game's popularity
+   (see the section on WADs below).
+
+Release and later history
+
+Initial popularity
+
+   The development of Doom was surrounded by much anticipation. The large
+   number of posts in Internet newsgroups about Doom led to the SPISPOPD
+   joke, to which a nod was given in the game in the form of a cheat code.
+   In addition to news, rumors, and screenshots, unauthorized leaked alpha
+   versions also circulated online. (Many years later these alpha versions
+   were sanctioned by id Software because of historical interest; they
+   reveal how the game progressed from its early design stages.) The first
+   public version of Doom was uploaded to an FTP run at the University of
+   Wisconsin-Madison on December 10, 1993.
+
+   Released as shareware, people were encouraged to distribute Doom
+   further, and did so: in 1995, Doom was estimated to have been installed
+   on more than 10 million computers. Although most users did not purchase
+   the registered version, over one million copies have been sold, and the
+   popularity helped the sales of later games in the Doom series which
+   were not released as shareware. In 1995, The Ultimate Doom (version
+   1.9, including episode IV) was released, making this the first time
+   that Doom was sold commercially in stores.
+
+   In a press release dated January 1, 1993, id Software had written that
+   they expected Doom to be "the number one cause of decreased
+   productivity in businesses around the world". This prediction came true
+   at least in part: Doom became a major problem at workplaces, both
+   occupying the time of employees and clogging computer networks with
+   traffic caused by deathmatches. Intel, Lotus Development and Carnegie
+   Mellon University are among many organizations reported to form
+   policies specifically disallowing Doom-playing during work hours. At
+   the Microsoft campus, Doom was by one account equal to a "religious
+   phenomenon".
+
+   In late 1995, Doom was estimated to be installed on more computers
+   worldwide than Microsoft's new operating system Windows 95, despite
+   million-dollar advertising campaigns for the latter. The game's
+   popularity prompted Bill Gates to briefly consider buying id Software,
+   and led Microsoft to develop a Windows 95 port of Doom to promote the
+   operating system as a gaming platform. One such presentation to promote
+   Windows 95 had Bill Gates digitally superimposed into the game. The
+   Microsoft 1995 release Excel 95 included a Doom-esque secret level as
+   an easter egg containing portraits of the programmers among other
+   things. It is speculated that Microsoft engineers took advantage of
+   their experience working on the Doom Windows 95 port to place the code
+   in the spreadsheet program.
+
+   Doom was also widely praised in the gaming press. In 1994, it was
+   awarded Game of the Year by both PC Gamer and Computer Gaming World. It
+   also received the Award for Technical Excellence from PC Magazine, and
+   the Best Action Adventure Game award by the Academy of Interactive Arts
+   & Sciences.
+
+   In addition to the thrilling nature of the single-player game, the
+   deathmatch mode was an important factor in the game's popularity. Doom
+   was not the first first-person shooter with a deathmatch mode— MIDI
+   Maze on the Atari ST had one in 1987, using the MIDI ports built into
+   the ST to network up to four machines together. However, Doom was the
+   first game to allow deathmatching over ethernet, and the combination of
+   violence and gore with fighting friends made deathmatching in Doom
+   particularly attractive. Two player deathmatch was also possible over a
+   phone line by using a modem. Due to its widespread distribution, Doom
+   hence became the game that introduced deathmatching to a large audience
+   (and was also the first game to use the term "deathmatch").
+
+WADs
+
+   The ability to create custom levels and otherwise modify the game, in
+   the form of custom WAD files, turned out to be a particularly popular
+   aspect of Doom. Gaining the first large mod-making community, Doom
+   affected the culture surrounding first-person shooters, and also the
+   industry. Several to-be professional game designers started their
+   careers making Doom WADs as a hobby, among them Tim Willits, who later
+   became the lead designer at id Software.
+
+   The first level editors appeared in early 1994, and additional tools
+   have been created that allow most aspects of the game to be edited.
+   Although the majority of WADs contain one or several custom levels
+   mostly in the style of the original game, others implement new monsters
+   and other resources, and heavily alter the gameplay; several popular
+   movies, television series and other brands from popular culture have
+   been turned into Doom WADs by fans (without authorization), including
+   Aliens, Star Wars, The X-files, The Simpsons, South Park, Pokemon and
+   Batman. Some works like the Theme Doom Patch even combined enemies from
+   several movies like Aliens, Predator and The Terminator.
+
+   Some addon files were also made which changed the sounds made by the
+   various characters and weapons. Notable ones were samples from Beavis
+   and Butthead and the famous orgasm scene from When Harry Met Sally....
+
+   Around 1994 and 1995, WADs were primarily distributed online over
+   bulletin board systems or sold in collections on compact discs in
+   computer shops, sometimes bundled with editing guide books. FTP servers
+   became the primary method in later years. A few WADs have been released
+   commercially, including the Master Levels for Doom II, which was
+   released in 1995 along with Maximum Doom, a CD containing 1,830 WADs
+   that had been downloaded from the Internet. Several thousands of WADs
+   have been created in total: the idgames FTP archive contains over
+   13,000 files, and this does not represent the complete output of Doom
+   fans.
+
+   Third party programs were also written to handle the loading of various
+   WADs, since the game is a DOS game and all commands had to be entered
+   on the command line in order to run. A typical launcher would allow the
+   player to select which files to load from a menu, making it much easier
+   to start.
+
+Clones and related products
+
+   The phrase "Doom clone" was initially popular to describe the style of
+   gameplay in Doom-like games, but after 1996 was gradually replaced by
+   "first person shooter".
+   Enlarge
+   The phrase " Doom clone" was initially popular to describe the style of
+   gameplay in Doom-like games, but after 1996 was gradually replaced by "
+   first person shooter".
+
+   The popularity of Doom led to the development of a sequel, Doom II:
+   Hell on Earth (1994), as well as expansion packs and alternate versions
+   based on the same game engine, including The Ultimate Doom (1995),
+   Final Doom (1996), and Doom 64 (1997). Doom became a killer application
+   that all capable consoles and operating systems were expected to have,
+   and versions of Doom have subsequently been released for the following
+   systems: DOS, Microsoft Windows, QNX, Irix, NEXTSTEP, Linux, Apple
+   Macintosh, Super NES, Sega 32X, Sony PlayStation, Game Boy Advance,
+   RISC OS, Atari Jaguar, Sega Saturn, Nintendo 64, Tapwave Zodiac, 3DO,
+   Xbox as a feature of Doom 3: Limited Edition, and Xbox 360 on Xbox Live
+   Arcade. The total number of copies of Doom games sold is unknown, but
+   may be well over 4 million; Doom II alone has sold for over $100
+   million.
+
+   The game engine was licensed to several other companies as well, who
+   released their own games based on it, including Heretic, HeXen, Strife
+   and HacX. There is also a Doom-based game released by a breakfast
+   cereal maker as a product tie-in called Chex Quest, and the United
+   States Marine Corps released Marine Doom, designed to "teach teamwork,
+   coordination and decision-making".
+
+   Dozens of new first-person shooter titles appeared following Doom's
+   release, and they were often referred to as " Doom clones" rather than
+   "first-person shooters". Some of these were certainly "clones"—hastily
+   assembled and quickly forgotten about—others explored new grounds of
+   the genre and were highly acclaimed. Many of the games closely imitated
+   features in Doom such as the selection of weapons and cheat codes.
+   Doom's principal rivals were Apogee's Rise of the Triad and Looking
+   Glass Studios' System Shock (which, unlike Doom, featured 3D gameplay).
+   The popularity of Star Wars-themed WADs is rumored to have been the
+   factor that prompted LucasArts to create their first-person shooter
+   Dark Forces.
+
+   When, three years later, 3D Realms released Duke Nukem 3D, a
+   tongue-in-cheek science fiction shooter based on Ken Silverman's
+   technologically similar Build engine, id Software had nearly finished
+   Quake, its next-generation game, which mirrored Doom's success for the
+   remainder of the 1990s and significantly reduced interest in its
+   predecessor. The franchise remained in that state until 2000, when Doom
+   3 was announced. A retelling of the original Doom using entirely new
+   graphics technology, Doom 3 was hyped to provide as large a leap in
+   realism and interactivity as the original Doom, but received mixed
+   reactions when released in 2004.
+
+   Doom has appeared in several forms in addition to games, including a
+   comic book, four novels by Dafydd Ab Hugh and Brad Linaweaver (loosely
+   based on events and locations in the games), and a film starring Karl
+   Urban and The Rock released in 2005. The game's development and impact
+   on popular culture is also the subject of the book Masters of Doom by
+   David Kushner.
+
+Controversy
+
+   Doom was and remains notorious for its high levels of violence, gore,
+   and satanic imagery, which have generated much controversy from a broad
+   range of groups. It has been criticized numerous times by religious
+   organizations for its diabolic undertones and was dubbed a "mass murder
+   simulator" by critic and Killology Research Group founder Lt. Col.
+   David Grossman. Doom prompted fears that the then-emerging virtual
+   reality technology could be used to simulate extremely realistic
+   killing, and in 1994 led to unsuccessful attempts by Washington state
+   senator Phil Talmadge to introduce compulsory licensing of VR use (in
+   fact, according to a well-known graph from the USA Department of
+   Justice, violent crime has plummeted since the early 1990s: )
+
+   The game again sparked controversy throughout a period of school
+   shootings in the United States when it was found that Eric Harris and
+   Dylan Klebold, who committed the Columbine High School massacre in
+   1999, were avid players of the game. While planning for the massacre,
+   Harris said that the killing would be "like fucking Doom" and that his
+   shotgun was "straight out of" the game. A rumor spread afterwards that
+   Harris had designed Doom levels that looked like the halls of the high
+   school, populated with representations of Harris's classmates and
+   teachers, and that Harris practiced for his role in the shootings by
+   playing these levels over and over. However, although Harris did design
+   Doom levels, they were not simulations of Columbine High School (see
+   Harris levels).
+
+Continued legacy
+
+   Doom is widely regarded as one of the most important titles in gaming
+   history. It was voted the "#1 game of all time" in a poll among over
+   100 game developers and journalists conducted by GameSpy in July 2001,
+   and PC Gamer proclaimed Doom the most influential game of all time in
+   its ten-year anniversary issue in April 2004. However, several game
+   journalists have also contrasted the relatively simplistic gameplay in
+   Doom unfavorably with more story-oriented first-person shooters such as
+   Half-Life.
+
+   Although the popularity of the Doom games dropped with the release of
+   Quake (1996) and afterwards, the games have retained a strong fan base
+   that continues playing competitively and creating WADs (the idgames FTP
+   archive receives a few to a dozen new WADs each week as of 2005), and
+   Doom-related news is still tracked at multiple websites such as
+   Doomworld. Interest in Doom was renewed in 1997, when the source code
+   for the Doom engine was released (it was also placed under the GNU
+   General Public License in 1999). Fans then began porting the game to
+   various operating systems, even to previously unsupported platforms
+   such as the Dreamcast, PSP and the iPod, and adding new features such
+   as OpenGL rendering and scripting, which allows WADs to alter the
+   gameplay more radically. There are well over 50 different Doom source
+   ports, some of which remain under active development.
+
+   Devoted players have spent years creating speedruns for Doom, competing
+   for the quickest completion times and sharing knowledge about routes
+   through the levels and how to exploit bugs in the Doom engine for
+   shortcuts. Achievements include the completion of both Doom and Doom II
+   on the Ultra-Violence difficulty setting in less than 30 minutes each.
+   In addition, a few players have also managed to complete Doom II in a
+   single run on the Nightmare! difficulty setting, on which monsters are
+   more aggressive, enemy projectiles are faster or, in the case of the
+   Pinky Demon, move faster and respawn roughly 30 seconds after they have
+   been killed (level designer John Romero characterized the idea of such
+   a run as "[just having to be] impossible"). Movies of most of these
+   runs are available from the COMPET-N website.
+   Retrieved from " http://en.wikipedia.org/wiki/Doom"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

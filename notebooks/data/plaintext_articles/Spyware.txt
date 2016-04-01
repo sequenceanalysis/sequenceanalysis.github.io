@@ -1,0 +1,686 @@
+   #copyright
+
+Spyware
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+   Spyware is computer software that collects personal information about
+   users without their informed consent. The term, coined in 1995 but not
+   widely used for another five years, is often used interchangeably with
+   adware and malware (software designed to infiltrate and damage a
+   computer).
+
+   Personal information is secretly recorded with a variety of techniques,
+   including logging keystrokes, recording Internet web browsing history,
+   and scanning documents on the computer's hard disk. Purposes range from
+   overtly criminal (theft of passwords and financial details) to the
+   merely annoying (recording Internet search history for targeted
+   advertising, while consuming computer resources). Spyware may collect
+   different types of information. Some variants attempt to track the
+   websites a user visits and then send this information to an advertising
+   agency. More malicious variants attempt to intercept passwords or
+   credit card numbers as a user enters them into a web form or other
+   application.
+
+   The spread of spyware has led to the development of an entire
+   anti-spyware industry. Its products remove or disable existing spyware
+   on the computers they are installed on and prevent its installation.
+   However, a number of companies have incorporated forms of spyware into
+   their products. These programs are not considered malware, but are
+   still spyware as they watch and observe with for advertising purposes.
+   It is debatable whether such 'legitimate' uses of adware/spyware are
+   malware since the user often has no knowledge of these 'legitimate'
+   programs being installed on his/her computer and is generally unaware
+   that these programs are infringing on his/her privacy. In any case,
+   these programs still use the resources of the host computer without
+   permission.
+
+History and development
+
+   The first recorded use of the term spyware occurred on October 16, 1995
+   in a Usenet post that poked fun at Microsoft's business model. Spyware
+   at first denoted hardware meant for espionage purposes. However, in
+   early 2000 the founder of Zone Labs, Gregor Freund, used the term in a
+   press release for the ZoneAlarm Personal Firewall. Since then,
+   "spyware" has taken on its present sense.
+
+   In early 2001, Steve Gibson of Gibson Research realized that
+   advertising software had been installed on his system, and suspected it
+   was stealing his personal information. After analysis, he determined
+   that it was adware from the companies Aureate (later Radiate) and
+   Conducent. Gibson developed and released the first anti-spyware
+   program, OptOut. Many more have appeared since then.
+
+   According to a November 2004 study by AOL and the National
+   Cyber-Security Alliance, 80% of surveyed users' computers had some form
+   of spyware, with an average of 93 spyware components per computer (such
+   counts usually include 'cookies' which report back to a website, but
+   are not software as such). 89% of surveyed users with spyware reported
+   that they did not know of its presence, and 95% reported that they had
+   not given permission for the installation of the spyware.
+
+   As of 2006, spyware has become one of the preeminent security threats
+   to computer systems running Microsoft Windows operating systems. In an
+   estimate based on customer-sent scan logs, Webroot Software, makers of
+   Spy Sweeper, said that 9 out of 10 computers connected to the Internet
+   are infected. Computers where Internet Explorer (IE) is the primary
+   browser are particularly vulnerable to such attacks not only because IE
+   is the most widely-used but because its tight integration with Windows
+   allows spyware acccess to crucial parts of the operating system.
+
+Comparison
+
+Spyware, adware and tracking
+
+   The term adware frequently refers to any software which displays
+   advertisements, whether or not the user has consented. Programs such as
+   the Eudora mail client display advertisements as an alternative to
+   shareware registration fees. These classify as "adware" in the sense of
+   advertising-supported software, but not as spyware. Adware in this form
+   does not operate surreptitiously or mislead the user, and provides the
+   user with a specific service.
+
+   Most spyware is adware in a different sense: it displays advertising.
+   Claria Corporation's Gator Software and Exact Advertising's
+   BargainBuddy are examples. Visited Web sites frequently install Gator
+   on client machines in a surreptitious manner, and it directs revenue to
+   the installing site and to Claria by displaying advertisements to the
+   user. The user receives many pop-up advertisements.
+
+   Other spyware behaviour, such as reporting on websites the user visits,
+   occurs in the background. The data is used for "targeted" advertisement
+   impressions. The prevalence of spyware has cast suspicion upon other
+   programs that track Web browsing, even for statistical or research
+   purposes. Some observers describe the Alexa Toolbar, an Internet
+   Explorer plug-in published by Amazon.com, as spyware (and some
+   anti-spyware programs report it as such). Many users, however, choose
+   to install it.
+
+Spyware, virus and worm
+
+   Unlike viruses and worms, spyware does not usually self-replicate. Like
+   many recent viruses, however, spyware — by design — exploits infected
+   computers for commercial gain. Typical tactics furthering this goal
+   include delivery of unsolicited pop-up advertisements; theft of
+   personal information (including financial information such as credit
+   card numbers); monitoring of Web-browsing activity for marketing
+   purposes; or routing of HTTP requests to advertising sites.
+
+Routes of infection
+
+   Spyware does not directly spread in the manner of a computer virus or
+   worm: generally, an infected system does not attempt to transmit the
+   infection to other computers. Instead, spyware gets on a system through
+   deception of the user or through exploitation of software
+   vulnerabilities.
+
+   Most spyware is installed without users being aware. Since they tend
+   not to install software if they know that it will disrupt their working
+   environment and compromise their privacy, spyware deceives users,
+   either by piggybacking on a piece of desirable software such as Kazaa,
+   or tricking them into installing it (the Trojan horse method). Some
+   "rogue" anti-spyware programs even masquerade as security software.
+
+   The distributor of spyware usually presents the program as a useful
+   utility — for instance as a "Web accelerator" or as a helpful software
+   agent. Users download and install the software without immediately
+   suspecting that it could cause harm. For example, Bonzi Buddy, a
+   spyware program targeted at children, claims that:
+
+     He will explore the Internet with you as your very own friend and
+     sidekick! He can talk, walk, joke, browse, search, e-mail, and
+     download like no other friend you've ever had! He even has the
+     ability to compare prices on the products you love and help you save
+     money! Best of all, he's FREE!
+
+   Spyware can also come bundled with shareware or other downloadable
+   software, as well as music CDs. The user downloads a progam and
+   installs it, and the installer additionally installs the spyware.
+   Although the desirable software itself may do no harm, the bundled
+   spyware does. In some cases, spyware authors have paid shareware
+   authors to bundle spyware with their software. In other cases, spyware
+   authors have repackaged desirable free software with installers that
+   add spyware.
+
+   A third way of distributing spyware involves tricking users by
+   manipulating security features designed to prevent unwanted
+   installations. IE prevents websites from initiating an unwanted
+   download. Instead, it requires a user action, such as clicking on a
+   link. However, links can prove deceptive: for instance, a pop-up ad may
+   appear like a standard Windows dialog box. The box contains a message
+   such as "Would you like to optimise your Internet access?" with links
+   which look like buttons reading Yes and No. No matter which "button"
+   the user presses, a download starts, placing the spyware on the user's
+   system. Later versions of IE offer fewer avenues for this attack.
+
+   Some spyware authors infect a system through security holes in the Web
+   browser or in other software. When the user navigates to a Web page
+   controlled by the spyware author, the page contains code which attacks
+   the browser and forces the download and installation of spyware. The
+   spyware author would also have some extensive knowledge of
+   commercially-available anti-virus and firewall software. This has
+   become known as a " drive-by download", which leaves the user a hapless
+   bystander to the attack. Common browser exploits target security
+   vulnerabilities in Internet Explorer and in the Microsoft Java runtime.
+
+   The installation of spyware frequently involves Internet Explorer. Its
+   popularity and history of security issues have made it the most
+   frequent target. Its deep integration with the Windows environment and
+   scriptability make it an obvious point of attack into Windows. Internet
+   Explorer also serves as a point of attachment for spyware in the form
+   of Browser Helper Objects, which modify the browser's behaviour to add
+   toolbars or to redirect traffic.
+
+   In a few cases, a worm or virus has delivered a spyware payload. Some
+   attackers used the Spybot worm to install spyware that put pornographic
+   pop-ups on the infected system's screen. By directing traffic to ads
+   set up to channel funds to the spyware authors, they can profit even
+   from such clearly illegal behaviour.
+
+Effects and behaviors
+
+   A spyware program is rarely alone on a computer: an affected machine
+   can rapidly be infected by many other components. Users frequently
+   notice unwanted behaviour and degradation of system performance. A
+   spyware infestation can create significant unwanted CPU activity, disk
+   usage, and network traffic, all of which slow the computer down.
+   Stability issues, such as application or system-wide crashes, are also
+   common. Spyware which interferes with networking software commonly
+   causes difficulty connecting to the Internet.
+
+   In some infections, the spyware is not even evident. Users assume in
+   those situations that the issues relate to hardware, to Windows
+   installation problems, or a virus. Some owners of badly infected
+   systems resort to contacting technical support experts, or even buying
+   a new computer because the existing system "has become too slow". Badly
+   infected systems may require a clean reinstall of all their software in
+   order to return to full functionality.
+
+   Only rarely does a single piece of software render a computer unusable.
+   Rather, a computer will likely have multiple infections. As the 2004
+   AOL study noted, if a computer has any spyware at all, it typically has
+   dozens of different pieces installed. The cumulative effect, and the
+   interactions between spyware components, cause the symptoms commonly
+   reported by users: a computer which slows to a crawl, overwhelmed by
+   the many parasitic processes running on it. Moreover, some types of
+   spyware disable software firewalls and anti-virus software, and/or
+   reduce browser security settings, thus opening the system to further
+   opportunistic infections, much like an immune deficiency disease.
+   Documented cases have also occurred where a spyware program has
+   disabled other spyware programs that have been installed by its
+   competitors.
+
+   Some other types of spyware (Targetsoft, for example) modify system
+   files so they will be harder to remove. Targetsoft modifies the "
+   Winsock" Windows Sockets files. The deletion of the spyware-infected
+   file "inetadpt.dll" will interrupt normal networking usage. Unlike
+   users of many other operating systems, a typical Windows user has
+   administrative privileges, mostly for convenience. Because of this, any
+   program the user runs (intentionally or not) has unrestricted access to
+   the system. Spyware, along with other threats, has led some Windows
+   users to move to other platforms such as Linux or Apple Macintosh,
+   which are less attractive targets for malware. This is because these
+   programs are not granted unrestricted access to the operating system
+   (due to the Unix underpinnings upon which both Linux and Mac OS X are
+   built) and some allege it's partly due to the far smaller number of
+   machines installed with these operating systems making spyware
+   development potentially less profitable for these platforms.
+
+Advertisements
+
+   Many spyware programs display advertisements. Some programs simply
+   display pop-up ads on a regular basis; for instance, one every several
+   minutes, or one when the user opens a new browser window. Others
+   display ads in response to specific sites that the user visits. Spyware
+   operators present this feature as desirable to advertisers, who may buy
+   ad placement in pop-ups displayed when the user visits a particular
+   site. It is also one of the purposes for which spyware programs gather
+   information on user behaviour. Pop-ups are one of users' most common
+   complaints about spyware.
+
+   Many users complain about irritating or offensive advertisements as
+   well. As with many banner ads, many spyware advertisements use
+   animation or flickering banners which can be visually distracting and
+   annoying to users. Pop-up ads for pornography often display
+   indiscriminately. When children are the users, this could possibly
+   violate anti-pornography laws in some jurisdictions.
+
+   A further issue in the case of some spyware programs has to do with the
+   replacement of banner ads on viewed web sites. Spyware that acts as a
+   web proxy or a Browser Helper Object can replace references to a site's
+   own advertisements (which fund the site) with advertisements that
+   instead fund the spyware operator. This cuts into the margins of
+   advertising-funded Web sites.
+
+"Stealware" and affiliate fraud
+
+   A few spyware vendors, notably 180 Solutions, have written what the New
+   York Times has dubbed " stealware", and what spyware-researcher Ben
+   Edelman terms affiliate fraud, also known as click fraud. Stealware
+   diverts the payment of affiliate marketing revenues from the legitimate
+   affiliate to the spyware vendor.
+
+   Spyware which attacks affiliate networks places the spyware operator's
+   affiliate tag on the user's activity—replacing any other tag, if there
+   is one. The spyware operator is the only party that gains from this.
+   The user has their choices thwarted, a legitimate affiliate loses
+   revenue, Networks' reputations are injured, and vendors are harmed by
+   having to pay out affiliate revenues to an "affiliate" who is not party
+   to a contract.
+
+   Affiliate fraud is a violation of the terms of service of most
+   affiliate marketing networks. As a result, spyware operators such as
+   180 Solutions have been terminated from affiliate networks including
+   LinkShare and ShareSale.
+
+Identity theft and fraud
+
+   In one case, spyware has been closely associated with identity theft.
+   In August 2005, researchers from security software firm Sunbelt
+   Software believed that the makers of the common CoolWebSearch spyware
+   had used it to transmit "chat sessions, user names, passwords, bank
+   information, etc.", but it turned out that "it actually (was) its own
+   sophisticated criminal little trojan that's independent of CWS." This
+   case is currently under investigation by the FBI.
+
+   That case aside, identity theft remains theoretically possible as
+   keyloggers are routinely packaged with spyware. Information security
+   researcher John Bambenek estimates that identity thieves have stolen
+   over $24 billion US dollars of account information in the United States
+   alone.
+
+   Spyware-makers may commit wire fraud with dialer program spyware. These
+   can reset a modem to dial up a premium-rate telephone number instead of
+   the usual ISP. Connecting to these suspicious numbers involves
+   long-distance or overseas charges which invariably result in high
+   charges. Dialers are ineffective on computers that do not have a modem,
+   or are not connected to a telephone line.
+
+Digital rights management
+
+   Some copy-protection technologies also use spyware techniques. Digital
+   rights management technologies (such as Sony's XCP) actually use
+   trojan-horse tactics to verify a user's lawful ownership of the file in
+   question. Sony has been sued for using virus-like techniques to prevent
+   users from copying its CDs. It used a rootkit to embed Sony's software
+   in parts of the Windows operating system that make it hard to find by
+   antispyware software and difficult to uninstall.
+
+   Beginning April 25, 2006, Microsoft's Windows Genuine Advantage
+   Notifications application install on most Windows PCs as a "critical
+   security update". While the main pupose of this deliberately
+   uninstallable application is making sure the copy of Windows on the
+   machine was lawfully purchased and installed, it also installs software
+   that has been accused of "phoning home" on a daily basis, like spyware.
+   It can be removed with the RemoveWGA tool.
+
+Spyware and cookies
+
+   Anti-spyware programs often report Web advertisers' HTTP cookies, the
+   small text files that track browsing activity, as spyware. While they
+   are not inherently malicious, many users object to third parties using
+   space on their personal computers for their business purposes, and so
+   many anti-spyware programs offer to remove them.
+
+Examples of spyware
+
+   These common spyware programs illustrate the diversity of behaviors
+   found in these attacks. Note that as with computer viruses, researchers
+   give names to spyware programs which may not be used by their creators.
+   Programs may be grouped into "families" based not on shared program
+   code, but on common behaviors, or by "following the money" of apparent
+   financial or business connections. For instance, a number of the
+   spyware programs distributed by Claria are collectively known as
+   "Gator". Likewise, programs which are frequently installed together may
+   be described as parts of the same spyware package, even if they
+   function separately.
+     * CoolWebSearch, a group of programs, takes advantage of Internet
+       Explorer vulnerabilities. The package directs traffic to
+       advertisements on Web sites including coolwebsearch.com. It
+       displays pop-up ads, rewrites search engine results, and alter the
+       infected computer's hosts file to direct DNS lookups to these
+       sites.
+
+     * Internet Optimizer, also known as DyFuCa, redirects Internet
+       Explorer error pages to advertising. When users follow a broken
+       link or enter an erroneous URL, they see a page of advertisements.
+       However, because password-protected Web sites (HTTP Basic
+       authentication) use the same mechanism as HTTP errors, Internet
+       Optimizer makes it impossible for the user to access
+       password-protected sites.
+
+     * 180 Solutions transmits detailed information to advertisers about
+       the Web sites which users visit. It also alters HTTP requests for
+       affiliate advertisements linked from a Web site, so that the
+       advertisements make unearned profit for the 180 Solutions company.
+       It opens pop-up ads that cover over the Web sites of competing
+       companies.
+
+     * HuntBar, aka WinTools or Adware.Websearch, is a small family of
+       spyware programs distributed by Traffic Syndicate. It is installed
+       by an ActiveX drive-by download at affiliate Web sites, or by
+       advertisements displayed by other spyware programs — an example of
+       how spyware can install more spyware. These programs add toolbars
+       to IE, track browsing behaviour, redirect affiliate references, and
+       display advertisements.
+
+Legal issues related to spyware
+
+Criminal law
+
+   Unauthorized access to a computer is illegal under computer crime laws,
+   such as the U.S. Computer Fraud and Abuse Act, the U.K.'s Computer
+   Misuse Act and similar laws in other countries. Since the owners of
+   computers infected with spyware generally claim that they never
+   authorized the installation, a prima facie reading would suggest that
+   the promulgation of spyware would count as a criminal act. Law
+   enforcement has often pursued the authors of other malware,
+   particularly viruses. However, few spyware developers have been
+   prosecuted, and many operate openly as strictly legitimate businesses,
+   though some have faced lawsuits.
+
+   Spyware producers argue that, contrary to the users' claims, users do
+   in fact give consent to installations. Spyware that comes bundled with
+   shareware applications may be described in the legalese text of an
+   end-user license agreement (EULA). Many users habitually ignore these
+   purported contracts, but spyware companies such as Claria claim these
+   demonstrate that users have consented.
+
+   Despite the ubiquity of EULAs and of " clickwrap" agreements, under
+   which a single click can be taken as consent to the entire text,
+   relatively little case law has resulted from their use. It has been
+   established in most common law jurisdictions that a clickwrap agreement
+   can be a binding contract in certain circumstances. This does not,
+   however, mean that every such agreement is a contract or that every
+   term in one is enforceable.
+
+   Some jurisdictions, including the U.S. states of Iowa and Washington ,
+   have passed laws criminalizing some forms of spyware. Such laws make it
+   illegal for anyone other than the owner or operator of a computer to
+   install software that alters Web-browser settings, monitors keystrokes,
+   or disables computer-security software.
+
+Civil law
+
+   New York State Attorney General and Governor-elect Eliot Spitzer has
+   pursued spyware companies for fraudulent installation of software. In a
+   suit brought in 2005 by Spitzer, the California firm Intermix Media,
+   Inc. ended up settling by agreeing to pay US$7.5 million and to stop
+   distributing spyware.
+
+   The hijacking of Web advertisements has also led to litigation. In June
+   2002, a number of large Web publishers sued Claria for replacing
+   advertisements, but settled out of court.
+
+   Courts have not yet had to decide whether advertisers can be held
+   liable for spyware which displays their ads. In many cases, the
+   companies whose advertisements appear in spyware pop-ups do not
+   directly do business with the spyware firm. Rather, they have
+   contracted with an advertising agency, which in turn contracts with an
+   online subcontractor who gets paid by the number of "impressions" or
+   appearances of the advertisement. Some major firms such as Dell
+   Computer and Mercedes-Benz have sacked advertising agencies which have
+   run their ads in spyware.
+
+Libel suits by spyware developers
+
+   Litigation has gone both ways. Since "spyware" has become a common
+   pejorative, some makers have filed libel and defamation actions when
+   their products have been so described. In 2003, Gator (now known as
+   Claria) filed suit against the website PC Pitstop for describing its
+   program as "spyware". PC Pitstop settled, agreeing not to use the word
+   "spyware", but continues to describe harm caused by the Gator/Claria
+   software. As a result, other antispyware and antivirus companies have
+   also used other terms such as "potentially unwanted programs" or
+   greyware to denote these products.
+
+Remedies and prevention
+
+   As the spyware threat has worsened, a number of techniques have emerged
+   to counteract it. These include programs designed to remove or to block
+   spyware, as well as various user practices which reduce the chance of
+   getting spyware on a system.
+
+   Nonetheless, spyware remains a costly problem. When a large number of
+   pieces of spyware have infected a Windows computer, the only remedy may
+   involve backing up user data, and fully reinstalling the operating
+   system.
+
+Anti-spyware programs
+
+   Many programmers and some commercial firms have released products
+   designed to remove or block spyware. Steve Gibson's OptOut, mentioned
+   above, pioneered a growing category. Programs such as Lavasoft's
+   Ad-Aware SE and Patrick Kolla's Spybot - Search & Destroy rapidly
+   gained popularity as effective tools to remove, and in some cases
+   intercept, spyware programs. More recently Microsoft acquired the GIANT
+   AntiSpyware software, rebranding it as Windows AntiSpyware beta and
+   releasing it as a free download for Windows XP and Windows 2003 users.
+   In early spring, 2006, Microsoft renamed the beta software to Windows
+   Defender, and it was released as a free download in October 2006.
+   Microsoft has also announced that the product will ship (for free) with
+   Windows Vista. Other well-known anti-spyware products include Webroot
+   Spy Sweeper, Trend Micro's Anti-Spyware, PC Tools' Spyware Doctor, and
+   Sunbelt's CounterSpy (which uses a forked codebase from the GIANT
+   Anti-Spyware, now called Microsoft's Windows Defender). Blue Coat
+   Systems released a gateway anti-spyware solution in 2004.
+
+   Major anti-virus firms such as Symantec, McAfee and Sophos have come
+   later to the table, adding anti-spyware features to their existing
+   anti-virus products. Early on, anti-virus firms expressed reluctance to
+   add anti-spyware functions, citing lawsuits brought by spyware authors
+   against the authors of web sites and programs which described their
+   products as "spyware". However, recent versions of these major firms'
+   home and business anti-virus products do include anti-spyware
+   functions, albeit treated differently from viruses. Symantec
+   Anti-Virus, for instance, categorizes spyware programs as "extended
+   threats" and now offers real-time protection from them (as it does for
+   viruses). Recently the anti virus company Grisoft, who make the AVG
+   anti virus program, re-labled the Ewido anti spyware program as AVG
+   anti Spyware program. This shows a trend by anti virus companies to
+   launch a dedicated solution to spyware and malware. Zone Labs, who make
+   the Zone Alarm firewall have also released an anti spyware program.
+
+   Anti-spyware programs can combat spyware in two ways:
+     * Real-time protection, which prevents the installation of spyware;
+     * Detection and removal, which removes spyware from an infected
+       computer.
+
+   Writers of anti-spyware programs usually find detection and removal
+   simpler, and many more programs have become available which do so. Such
+   programs inspect the contents of the Windows registry, the operating
+   system files, and installed programs, and remove files and entries
+   which match a list of known spyware components. Real-time protection
+   from spyware works identically to real-time anti-virus protection: the
+   software scans incoming network data and disk files at download time,
+   and blocks the activity of components known to represent spyware. In
+   some cases, it may also intercept attempts to install start-up items or
+   to modify browser settings. Because many spyware and adware are
+   installed as a result of browser exploits or user error, using security
+   software (some of which are antispyware, though many are not) to
+   sandbox browsers can also be effective to help restrict any damage
+   done.
+
+   Earlier versions of anti-spyware programs focused chiefly on detection
+   and removal. Javacool Software's SpywareBlaster, one of the first to
+   offer real-time protection, blocked the installation of ActiveX-based
+   and other spyware programs. To date, other programs such as Ad-Aware
+   and Windows Defender now combine the two approaches, while
+   SpywareBlaster remains focused on prevention.
+
+   Like most anti-virus software, many anti-spyware/adware tools require a
+   frequently-updated database of threats. As new spyware programs are
+   released, anti-spyware developers discover and evaluate them, making
+   "signatures" or "definitions" which allow the software to detect and
+   remove the spyware. As a result, anti-spyware software is of limited
+   usefulness without a regular source of updates. Some vendors provide a
+   subscription-based update service, while others provide updates gratis.
+   Updates may be installed automatically on a schedule or before doing a
+   scan, or may be done manually.
+
+   Not all programs rely on updated definitions. Some programs rely partly
+   (for instance many antispyware programs such as Windows Defender,
+   Spybot's TeaTimer and Spysweeper) or fully (programs falling under the
+   class of Hips such as BillP's WinPatrol), on historical observation.
+   They watch certain configuration parameters (such as certain portions
+   of the Windows registry or browser configuration) and report any change
+   to the user, without judgment or recommendation. While they do not rely
+   on updated definitions, which may allow them to spot newer spyware,
+   they can offer no guidance. The user is left to determine "what did I
+   just do, and is this configuration change appropriate?"
+
+   Windows Defender's Spynet attempts to alleviate this through offering a
+   community to share information, which helps guide both users, who can
+   look decisions made by others, and analysts, who can spot
+   fast-spreading spyware. A popular generic spyware removal tool used by
+   those with a certain degree of expertise is HijackThis, which scans
+   certain areas of the Windows OS where spyware often resides and
+   presents a list with items to delete manually. As most of the items are
+   legitimate windows files/registry entries it is advised for those who
+   are less knowledgeable on this subject to post a HijackThis log on the
+   numerous antispyware sites and let the experts decide what to delete.
+   Open source anti-spyware programs are also available. One program,
+   wssecure, can detect new processes and change in system files using
+   checksum verification, a technique that can be helpful in detecting
+   spyware that are downloaded automatically due to Windows
+   vulnerabilities.
+
+   If a spyware program is not blocked and manages to get itself
+   installed, it may resist attempts to terminate or uninstall it. Some
+   programs work in pairs: when an anti-spyware scanner (or the user)
+   terminates one running process, the other one respawns the killed
+   program. Likewise, some spyware will detect attempts to remove registry
+   keys and immediately add them again. Usually, booting the infected
+   computer in safe mode allows an anti-spyware program a better chance of
+   removing persistent spyware. Killing the process tree can also work.
+
+   A new breed of spyware (Look2Me spyware by NicTechNetworks is a good
+   example) is starting to hide inside system-critical processes and start
+   up even in safe mode. With no process to terminate they are harder to
+   detect and remove. Sometimes they do not even leave any on-disk
+   signatures. Rootkit technology is also seeing increasing use, as is the
+   use of NTFS alternate data streams. Newer spyware programs also have
+   specific countermeasures against well known anti-malware products and
+   may prevent them from running or being installed, or even uninstall
+   them. An example of one that uses all three methods is Gromozon, a new
+   breed of malware. It uses alternate data streams to hide. A rootkit
+   hides it even from alternate data streams scanners and actively stops
+   popular rootkit scanners from running.
+
+Fake anti-spyware programs
+
+   Malicious programmers have released a large number of fake anti-spyware
+   programs, and widely distributed Web banner ads now spuriously warn
+   users that their computers have been infected with spyware, directing
+   them to purchase programs which do not actually remove spyware — or
+   worse, may add more spyware of their own.
+
+   The recent proliferation of fake or spoofed antivirus products has
+   occasioned some concern. Such products often bill themselves as
+   antispyware, antivirus, or registry cleaners, and sometimes feature
+   popups prompting users to install them. They are called rogue software.
+
+   Known offenders include:
+     * The Shield 2006
+     * Privacy Defender
+     * Malware Wipe
+     * Pest Trap
+     * SpyAxe
+     * AntiVirus Gold
+     * SpywareStrike
+     * Spyware Quake
+     * SpyFalcon
+     * WorldAntiSpy
+     * WinFixer
+     * SpyTrooper
+
+                         * Spyware Stormer
+                         * Spy Sheriff
+                         * SpyBan
+                         * SpyWiper
+                         * PAL Spyware Remover
+                         * PSGuard
+                         * AlfaCleaner
+                         * BraveSentry
+                         * VirusBurst
+                         * Trustcleaner Pro
+                         * AntispywareSoldier
+                         * Mallware
+                         * WinAntiVirus Pro 2006
+
+   On 2006- 01-26, Microsoft and the Washington state attorney general
+   filed suit against Secure Computer for its Spyware Cleaner product.
+
+Security practices
+
+   To deter spyware, computer users have found several practices useful in
+   addition to installing anti-spyware programs.
+
+   Many system operators install a web browser other than IE, such as
+   Opera or Mozilla Firefox. Although these have also suffered some
+   security vulnerabilities, they are not targeted as much as IE because
+   most users who are likely to fall for spyware are not using them.
+   Though no browser is completely safe, Internet Explorer is at a greater
+   risk for spyware infection due to its large user base as well as
+   vulnerabilities such as ActiveX.
+
+   Some ISPs — particularly colleges and universities — have taken a
+   different approach to blocking spyware: they use their network
+   firewalls and web proxies to block access to Web sites known to install
+   spyware. On March 31, 2005, Cornell University's Information Technology
+   department released a report detailing the behaviour of one particular
+   piece of proxy-based spyware, Marketscore, and the steps the university
+   took to intercept it. Many other educational institutions have taken
+   similar steps. Spyware programs which redirect network traffic cause
+   greater technical-support problems than programs which merely display
+   ads or monitor users' behaviour, and so may more readily attract
+   institutional attention.
+
+   Some users install a large hosts file which prevents the user's
+   computer from connecting to known spyware related web addresses.
+   However, by connecting to the numeric IP address, rather than the
+   domain name, spyware may bypass this sort of protection.
+
+   Spyware may get installed via certain shareware programs offered for
+   download. Downloading programs only from reputable sources can provide
+   some protection from this source of attack. Recently, CNet revamped its
+   download directory: it has stated that it will only keep files that
+   pass inspection by Ad-Aware and Spyware Doctor.
+
+Notable programs distributed with spyware
+
+     * BearShare
+     * Bonzi Buddy
+     * Dope Wars
+     * ErrorGuard
+     * Grokster
+     * Kazaa
+     * Morpheus
+     * RadLight
+     * WeatherBug
+     * EDonkey2000
+     * Sony's Extended Copy Protection involved the installation of
+       spyware from audio compact discs through autorun. This practice
+       sparked considerable controversy when it was discovered.
+     * WildTangent The antispyware program CounterSpy used to say that
+       it's okay to keep WildTangent, but it now says that the spyware
+       Winpipe is "possibly distributed with the adware bundler
+       WildTangent or from a threat included in that bundler".
+     * Drive Cleaner
+
+Notable programs formerly distributed with spyware
+
+     * AOL Instant Messenger (AOL Instant Messenger still packages
+       Viewpoint Media Player, and WildTangent)
+     * DivX (except for the paid version, and the "standard" version
+       without the encoder). DivX announced removal of GAIN software from
+       version 5.2.
+     * EDonkey2000
+     * LimeWire (all free Windows versions up to 3.9.3)
+     * FlashGet (trial version prior to program being made freeware)
+
+   Retrieved from " http://en.wikipedia.org/wiki/Spyware"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

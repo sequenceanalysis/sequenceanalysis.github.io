@@ -1,0 +1,241 @@
+   #copyright
+
+Electricity
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+   Lightning strikes during a night-time thunderstorm. Energy is radiated
+   as light when powerful electric currents flow through the Earth's
+   atmosphere.
+   Lightning strikes during a night-time thunderstorm. Energy is radiated
+   as light when powerful electric currents flow through the Earth's
+   atmosphere.
+
+   Electricity (from ήλεκτρον [electron], "amber") is a general term for
+   the variety of phenomena resulting from the presence and flow of
+   electric charge. Together with magnetism, it constitutes the
+   fundamental interaction known as electromagnetism. It includes many
+   well-known physical phenomena such as lightning, electromagnetic fields
+   and electric currents, and is put to use in industrial applications
+   such as electronics and electric power.
+
+   In casual usage, the term electricity is applied to several related
+   concepts that are better identified by more precise terms:
+     * Electric potential - the capacity of an electric field to do work,
+       typically measured in volts.
+     * Electric current - a movement or flow of electrically charged
+       particles, typically measured in amperes.
+     * Electric field - an effect produced by an electric charge that
+       exerts a force on charged objects in its vicinity.
+     * Electrical energy - the energy made available by the flow of
+       electric charge through an electrical conductor.
+     * Electric power - the rate at which electric energy is converted to
+       or from another energy form, such as light, heat, or mechanical
+       energy.
+     * Electric charge - a connection conserved property of some subatomic
+       particles, which determines their electromagnetic interactions.
+       Electrically charged matter is influenced by, and produces,
+       electromagnetic fields.
+
+History of electricity
+
+   Static electricity from rubbing objects against fur was known in
+   ancient Greece and Parthian Mesopotamia. The Parthians and
+   Mesopotamians may have had some knowledge of electroplating, based on
+   the discovery of the Baghdad Battery, which resembles a Galvanic cell.
+
+   Benjamin Franklin conducted extensive research in electricity. He had
+   theories on the relationship between lightning and static electricity,
+   including his famous kite-flying experiment,which was a key attached to
+   a wet string and kite. During a lightning storm a small spark struck
+   his finger showing that lightning is electricity. It sparked the
+   interest of later scientists whose work provided the basis for modern
+   electrical technology. Most notably these include Luigi Galvani
+   (1737–1798), Alessandro Volta (1745-1827), Michael Faraday (1791–1867),
+   André-Marie Ampère (1775–1836), and Georg Simon Ohm (1789-1854). The
+   late 19th and early 20th century produced such giants of electrical
+   engineering as Nikola Tesla, Samuel Morse, Antonio Meucci, Thomas
+   Edison, George Westinghouse, Werner von Siemens, Charles Steinmetz,
+   Alexander Graham Bell and William Thomson, 1st Baron Kelvin.
+   Franklin Kite Plaque
+   Franklin Kite Plaque
+
+Concepts in detail
+
+Electric potential
+
+   The electric potential difference between two points is defined as the
+   work done (against electrical forces) per unit of charge in moving a
+   positive point charge slowly between two points. If one of the points
+   is taken to be a reference point with zero potential, then the electric
+   potential at any point can be defined in terms of the work done per
+   unit charge in moving a positive point charge from that reference point
+   to the point at which the potential is to be determined. For isolated
+   charges, the reference point is usually taken to be infinity. The
+   potential is measured in volts. (1 volt = 1 joule/ coulomb) The
+   electric potential is analogous to temperature: there is a different
+   temperature at every point in space, and the temperature gradient
+   indicates the direction and magnitude of the driving force behind heat
+   flow. Similarly, there is an electric potential at every point in
+   space, and its gradient indicates the direction and magnitude of the
+   driving force behind charge movement.
+
+Electric Current
+
+   Nikola Tesla
+   Nikola Tesla
+
+   An electric current is a flow of electric charge, and its intensity is
+   measured in amperes. Examples of electric currents include metallic
+   conduction, where electrons flow through a conductor or conductors such
+   as a metal wire, and electrolysis, where ions (charged atoms) flow
+   through liquids. The particles themselves often move quite slowly,
+   while the electric field that drives them propagates at close to the
+   speed of light. See electrical conduction for more information.
+
+   Devices that use charge flow principles in materials are called
+   electronic devices.
+
+   A direct current (DC) is a unidirectional flow, while an alternating
+   current (AC) reverses direction repeatedly. The time average of an
+   alternating current is zero, but its energy capability ( RMS value) is
+   not zero.
+
+   Ohm's Law is an important relationship describing the behaviour of
+   electric currents, relating them to voltage.
+
+   For historical reasons, electric current is said to flow from the most
+   positive part of a circuit to the most negative part. The electric
+   current thus defined is called conventional current. It is now known
+   that, depending on the conditions, an electric current can consist of a
+   flow of charged particles in either direction, or even in both
+   directions at once. The positive-to-negative convention is widely used
+   to simplify this situation. If another definition is used - for
+   example, "electron current" - it should be explicitly stated.
+
+Electric field
+
+   Michael Faraday
+   Michael Faraday
+
+   The concept of electric fields was introduced by Michael Faraday. The
+   electrical field force acts between two charges, in the same way that
+   the gravitational field force acts between two masses. However, the
+   electric field is a little bit different. Gravitational force depends
+   on the masses of two bodies, whereas electric force depends on the
+   electric charges of two bodies. While gravity can only pull masses
+   together, the electric force can be an attractive or repulsive force.
+   If both charges are of same sign (e.g. both positive), there will be a
+   repulsive force between the two. If the charges are opposite, there
+   will be an attractive force between the two bodies. The magnitude of
+   the force varies inversely with the square of the distance between the
+   two bodies, and is also proportional to the product of the unsigned
+   magnitudes of the two charges.
+
+Electrical energy
+
+   Electrical energy is energy stored in an electric field or transported
+   by an electric current. Energy is defined as the ability to do work,
+   and electrical energy is simply one of the many types of energy.
+   Examples of electrical energy include:
+     * the energy that is constantly stored in the Earth's atmosphere, and
+       is partly released during a thunderstorm in the form of lightning
+     * the energy that is stored in the coils of an electrical generator
+       in a power station, and is then transmitted by wires to the
+       consumer; the consumer then pays for each unit of energy received
+     * the energy that is stored in a capacitor, and can be released to
+       drive a current through an electrical circuit
+
+Electric power
+
+   Electric power is the rate at which electrical energy is produced or
+   consumed, and is measured in watts (symbol is: W).
+   A nuclear power station.
+   A nuclear power station.
+
+   A fossil-fuel, solar-thermal, nuclear or biomass power station converts
+   heat to electrical energy, and the faster the station burns fuel, the
+   higher its power output. The output of a power station is usually
+   specified in megawatts (millions of watts). The electrical energy is
+   then sent over transmission lines to reach the consumers.
+
+   Every consumer uses appliances that convert the electrical energy to
+   other forms of energy, such as heat (in electric arc furnaces and
+   electric heaters), light (in light bulbs and fluorescent lamps), or
+   motion, i.e. kinetic energy (in electric motors). Like the power
+   station, each appliance is also rated in watts, depending on the rate
+   at which it converts electrical energy into another form. The power
+   station must produce electrical energy at the same rate as all the
+   connected appliances consume it.
+
+   In electrical engineering, the concepts of apparent power and reactive
+   power are also used. Apparent power is the product of RMS voltage and
+   RMS current, and is measured in volt-amperes (VA). Reactive power is
+   measured in volt-amperes-reactive (VAr).
+
+   Non-nuclear electric power is categorized as either green or brown
+   electricity.
+
+   Green power is a cleaner alternative energy source in comparison to
+   traditional sources, and is derived from renewable energy resources
+   that do not produce any nuclear waste; examples include energy produced
+   from wind, water, solar, thermal, hydro, combustible renewables and
+   waste. Some, however, argue that nuclear energy is also a form of
+   "clean" energy, and is one of the many ways future generations will
+   supply themselves with energy. Modern day nuclear power techniques have
+   been able to greatly minimize nuclear waste output from nuclear plants.
+
+   Electricity from coal, oil, and natural gas is known as traditional
+   power or "brown" electricity.
+
+Electric charge
+
+   Electric charge is a property of certain subatomic particles (e.g.,
+   electrons and protons) which interacts with electromagnetic fields and
+   causes attractive and repulsive forces between them. Electric charge
+   gives rise to one of the four fundamental forces of nature, and is a
+   conserved property of matter that can be quantified. In this sense, the
+   phrase " quantity of electricity" is used interchangeably with the
+   phrases "charge of electricity" and " quantity of charge". There are
+   two types of charge: we call one kind of charge positive and the other
+   negative. Through experimentation, we find that like-charged objects
+   repel and opposite-charged objects attract one another. The magnitude
+   of the force of attraction or repulsion is given by Coulomb's law.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Electricity"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

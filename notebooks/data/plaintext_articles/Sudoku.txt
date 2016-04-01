@@ -1,0 +1,435 @@
+   #copyright
+
+Sudoku
+
+2007 Schools Wikipedia Selection. Related subjects: Recreation
+
+   A sudoku puzzle
+   Enlarge
+   A sudoku puzzle
+
+   Sudoku (数独, sūdoku^ ?), also known as Number Place or Nanpure, is a
+   logic-based placement puzzle. The objective is to fill the grid so that
+   every column, every row and every 3×3 box contains the digits 1 to 9.
+   The puzzle setter provides a partially completed grid so that there is
+   only one solution.
+
+   Completed Sudoku puzzles are a type of Latin square, with an additional
+   constraint on the contents of individual regions. Leonhard Euler is
+   sometimes (incorrectly) cited as the source of the puzzle, based on his
+   work with Latin squares.
+
+   The modern puzzle was invented by an American, Howard Garns, in 1979
+   and published by Dell Magazines under the name "Number Place". It
+   became popular in Japan in 1986, when it was published by Nikoli and
+   given the name Sudoku. It became an international hit in 2005.
+
+Introduction
+
+   The name "Sudoku" is the Japanese abbreviation of a longer phrase,
+   "Sūji wa dokushin ni kagiru" (数字は独身に限る, "Sūji wa dokushin ni kagiru"^
+   ?), meaning "the digits must occur only once". It is a trademark of
+   puzzle publisher Nikoli Co. Ltd. in Japan. In Japanese, the word is
+   pronounced [sɯːdokɯ]; in English, it is usually spoken with an
+   Anglicised pronunciation, [səˈdəʊkuː] (BrE) [səˈdoʊkuː] (AmE) or
+   [ˈsuːdəʊku] (BrE) [ˈsuːdoʊku] (AmE) (See IPA (International Phonetic
+   Alphabet) or IPA chart for English for notation usage.) Other Japanese
+   publishers refer to the puzzle as Number Place, the original U.S.
+   title, or as "Nanpure" for short. Some non-Japanese publishers spell
+   the title as "Su Doku".
+
+   The numerals in Sudoku puzzles are used for convenience; arithmetic
+   relationships between numerals are irrelevant. Any set of distinct
+   symbols will do; letters, shapes, or colours may be used without
+   altering the rules. In fact, ESPN published Sudoku puzzles substituting
+   the positions on a baseball field for the numbers 1–9. Dell Magazines,
+   the puzzle's originator, has been using numerals for Number Place in
+   its magazines since they first published it in 1979.
+
+   The attraction of the puzzle is that the rules are simple, yet the line
+   of reasoning required to solve the puzzle may be complex. The level of
+   difficulty can be selected to suit the audience. The puzzles are often
+   available free from published sources and may be custom-made using
+   software.
+
+Solution methods
+
+   The strategy for solving a puzzle may be regarded as comprising a
+   combination of three processes: scanning, marking up, and analyzing.
+   The top right region must contain a 5. By hatching across and up from
+   5s elsewhere, the solver can eliminate all the empty cells in the
+   region which cannot contain a 5. This leaves only one possibility
+   (shaded green).
+   Enlarge
+   The top right region must contain a 5. By hatching across and up from
+   5s elsewhere, the solver can eliminate all the empty cells in the
+   region which cannot contain a 5. This leaves only one possibility
+   (shaded green).
+
+Scanning
+
+   Scanning is performed at the outset and throughout the solution. Scans
+   need to be performed only once in between analyses. Scanning consists
+   of two techniques:
+     * Cross-hatching: the scanning of rows to identify which line in a
+       region may contain a certain numeral by a process of elimination.
+       The process is repeated with the columns. For fastest results, the
+       numerals are scanned in order of their frequency, from high to low.
+       It is important to perform this process systematically, checking
+       all of the digits 1–9.
+     * Counting 1–9 in regions, rows, and columns to identify missing
+       numerals. Counting based upon the last numeral discovered may speed
+       up the search. It also can be the case, particularly in tougher
+       puzzles, that the best way to ascertain the value of a cell is to
+       count in reverse—that is, by scanning the cell's region, row, and
+       column for values it cannot be, in order to see what remains.
+
+   Advanced solvers look for "contingencies" while scanning, narrowing a
+   numeral's location within a row, column, or region to two or three
+   cells. When those cells lie within the same row and region, they can be
+   used for elimination during cross-hatching and counting. Puzzles solved
+   by scanning alone without requiring the detection of contingencies are
+   classified as "easy"; more difficult puzzles cannot be solved by basic
+   scanning alone.
+   A method for marking likely numerals in a single cell by the placing of
+   pencil dots. To reduce the number of dots used in each cell, the
+   marking would only be done after as many numbers as possible have been
+   added to the puzzle by scanning. Dots are erased as their corresponding
+   numerals are eliminated as candidates.
+   Enlarge
+   A method for marking likely numerals in a single cell by the placing of
+   pencil dots. To reduce the number of dots used in each cell, the
+   marking would only be done after as many numbers as possible have been
+   added to the puzzle by scanning. Dots are erased as their corresponding
+   numerals are eliminated as candidates.
+
+Marking up
+
+   Scanning stops when no further numerals can be discovered, making it
+   necessary to engage in logical analysis. One method to guide the
+   analysis is to mark candidate numerals in the blank cells. There are
+   two popular notations: subscripts and dots.
+     * In the subscript notation the candidate numerals are written in
+       subscript in the cells. Because puzzles printed in a newspaper are
+       too small to accommodate more than a few subscript digits of normal
+       handwriting, solvers may create a larger copy of the puzzle.
+
+     * The second notation uses a pattern of dots in each square, where
+       the dot position indicates a number from 1 to 9. The dot notation
+       can be used on the original puzzle. Dexterity is required in
+       placing the dots, since misplaced dots or inadvertent marks
+       inevitably lead to confusion and may not be easily erased.
+
+   An alternative technique is to "mark up" the numerals that a cell
+   cannot be. A cell will start empty and as more constraints become
+   known, it will slowly fill until only one mark is missing. Assuming no
+   mistakes are made and the marks can be overwritten with the value of a
+   cell, there is no longer a need for any erasures.
+
+Analysis
+
+   The two main approaches to analysis are "candidate elimination" and
+   "what-if". In "candidate elimination", progress is made by successively
+   eliminating candidate numerals from cells to leave one choice. After
+   each answer has been achieved, another scan may be performed—usually
+   checking to see the effect of the contingencies. In general, if
+   entering a particular numeral prevents completion of the other
+   necessary placements, then the numeral in question can be eliminated as
+   a candidate. One method works by identifying "matched cell groups". For
+   instance, if precisely two cells within a scope (a particular row,
+   column, or region) contain the same two candidate numerals (p,q), or if
+   precisely three cells within a scope contain the same three candidate
+   numerals (p,q,r), these cells are said to be matched. The placement of
+   those candidate numerals anywhere else within that same scope would
+   make a solution impossible; therefore, those candidate numerals can be
+   deleted from all other cells in the scope.
+
+   In the "what-if" approach (also called "guess-and-check",
+   "bifurcation", " backtracking" and " Ariadne's thread"), a cell with
+   two candidate numerals is selected, and a guess is made. The steps are
+   repeated unless a duplication is found or a cell is left without a
+   possible candidate, in which case the alternative candidate must be the
+   solution. For each cell's candidate, the question is posed: 'will
+   entering a particular numeral prevent completion of the other
+   placements of that numeral?' If the answer is 'yes', then that
+   candidate can be eliminated. The what-if approach requires a pencil and
+   eraser or a good layout memory.
+
+   There are three kind of conflicts, which can appear during puzzle
+   solving:
+    1. basic conflicts - there are only N-1 different candidates in N cell
+       in the area
+    2. fish conflicts - when eliminating number from N rows/columns, it
+       will disappear also from N+1 columns/rows.
+    3. unique conflicts - this pattern means multiple solutions, all
+       numbers in the pattern exist exactly two times in every area, row
+       and column. If there are only one candidate in the cell, any
+       virtual candidate can be added.
+
+   Encountering any of those would indicate that the puzzle is not
+   uniquely solvable. So, if you encounter them as a consequence of
+   "what-if", you use your eraser and go back to try untried alternatives.
+
+Computer solutions
+
+   There are two general approaches taken in the creation of serious
+   Sudoku-solving programs: human solving methods and rapid-style methods.
+   Human-style solvers will typically operate by maintaining a mark-up
+   matrix, and search for contingencies, matched cells, and other elements
+   that a human solver can utilize in order to determine and exclude cell
+   values.
+
+   Many rapid-style solvers employ backtracking searches, with various
+   pruning techniques also being used in order to help reduce the size of
+   the search tree.
+
+   Rapid solvers are preferred for trial-and-error puzzle-creation
+   algorithms, which allow for testing large numbers of partial problems
+   for validity in a short time; human-style solvers can be employed by
+   hand-crafting puzzlesmiths for their ability to rate the challenge of a
+   created puzzle and show the actual solving process their target
+   audience can be expected to follow.
+
+   Although vanilla Sudoku puzzles (with 9×9 grid and 3×3 regions) can be
+   solved quickly by computer, the generalization to larger grids is known
+   to be NP-Complete. Various optimisation methods have been proposed for
+   large grids.
+
+Difficulty ratings
+
+   The difficulty of a puzzle is based on the relevance and the
+   positioning of the given numbers rather than their quantity.
+   Surprisingly, the number of givens does not always reflect a puzzle's
+   difficulty. Computer solvers can estimate the difficulty for a human to
+   find the solution, based on the complexity of the solving techniques
+   required. Some online versions offer several difficulty levels.
+
+   Most publications sort their Sudoku puzzles into four or five rating
+   levels, although the actual cut-off points and the names of the levels
+   themselves can vary widely. Typically, however, the titles are synonyms
+   of "easy", "intermediate", "hard", and "challenging". An easy puzzle
+   can be solved using only scanning; an intermediate puzzle may take
+   markup to solve; a hard or challenging puzzle will usually take
+   analysis.
+
+   Another approach is to rely on the experience of a group of human test
+   solvers. Puzzles can be published with a median solving time rather
+   than an algorithmically defined difficulty level.
+
+Construction
+
+   Building a Sudoku puzzle can be performed by pre-determining the
+   locations of the givens and assigning them values only as needed to
+   make deductive progress. This technique gives the constructor greater
+   control over the flow of puzzle solving, leading the solver along the
+   same path the compiler used in building the puzzle. Great caution is
+   required, however, as failing to recognize where a number can be
+   logically deduced at any point in construction—regardless of how
+   tortuous that logic may be—can result in an unsolvable puzzle when
+   defining a future given contradicts what has already been built.
+   Building a Sudoku with symmetrical givens is a simple matter of placing
+   the undefined givens in a symmetrical pattern to begin with.
+
+   Nikoli Sudoku are hand-constructed, with the author being credited; the
+   givens are always found in a symmetrical pattern. Dell Number Place
+   Challenger (see Variants below) puzzles also list authors. The Sudoku
+   puzzles printed in most UK newspapers are apparently computer-generated
+   but employ symmetrical givens; The Guardian famously claimed that
+   because they were hand-constructed, their puzzles would contain
+   "imperceptible witticisms" that would be very unlikely in
+   computer-generated Sudoku.
+
+Variants
+
+   A nonomino Sudoku puzzle, sometimes also known as a Jigsaw Sudoku, for
+   instance in the Sunday Telegraph
+   Enlarge
+   A nonomino Sudoku puzzle, sometimes also known as a Jigsaw Sudoku, for
+   instance in the Sunday Telegraph
+
+   Even though the 9×9 grid with 3×3 regions is by far the most common,
+   variations abound: sample puzzles can be 4×4 grids with 2×2 regions;
+   5×5 grids with pentomino regions have been published under the name
+   Logi-5; the World Puzzle Championship has previously featured a 6×6
+   grid with 2×3 regions and a 7×7 grid with six heptomino regions and a
+   disjoint region. Larger grids are also possible, with Daily SuDoku's
+   16×16-grid Monster SuDoku , the Times likewise offers a 12×12-grid
+   Dodeka sudoku with 12 regions each being 4×3, Dell regularly publishing
+   16×16 Number Place Challenger puzzles (the 16×16 variant often uses 1
+   through G rather than the 0 through F used in hexadecimal), and Nikoli
+   proffering 25×25 Sudoku the Giant behemoths. Even larger sizes, for
+   instance 100×100, have been claimed.
+
+   Another common variant is for additional restrictions to be enforced on
+   the placement of numbers beyond the usual row, column, and region
+   requirements. Often the restriction takes the form of an extra
+   "dimension"; the most common is for the numbers in the main diagonals
+   of the grid to also be required to be unique. The aforementioned Number
+   Place Challenger puzzles are all of this variant, as are the Sudoku X
+   puzzles in the Daily Mail, which use 6×6 grids.
+
+   Puzzles constructed from multiple Sudoku grids are common. Five 9×9
+   grids which overlap at the corner regions in the shape of a quincunx is
+   known in Japan as Gattai 5 (five merged) Sudoku. In The Times, The Age
+   and The Sydney Morning Herald this form of puzzle is known as Samurai
+   SuDoku. Puzzles with twenty or more overlapping grids are not uncommon
+   in some Japanese publications. Often, no givens are to be found in
+   overlapping regions. Sequential grids, as opposed to overlapping, are
+   also published, with values in specific locations in grids needing to
+   be transferred to others.
+
+   Alphabetical variations have also emerged; there is no functional
+   difference in the puzzle unless the letters spell something. Some
+   variants, such as in the TV Guide, include a word reading along a main
+   diagonal, row, or column once solved; determining the word in advance
+   can be viewed as a solving aid. The Code Doku devised by Steve Schaefer
+   has an entire sentence embedded into the puzzle; the Super Wordoku from
+   Top Notch embeds two 9-letter words, one on each diagonal. It is
+   debatable whether these are true Sudoku puzzles: although they
+   purportedly have a single linguistically valid solution, they cannot
+   necessarily be solved entirely by logic, requiring the solver to
+   determine the embedded words. Top Notch claims this as a feature
+   designed to defeat solving programs.
+
+   Here are some of the more notable single-instance variations:
+     * A three-dimensional Sudoku puzzle was invented by Dion Church and
+       published in the Daily Telegraph in May 2005.
+     * The 2005 U.S. Puzzle Championship includes a variant called Digital
+       Number Place: rather than givens, most cells contain a partial
+       given—a segment of a number, with the numbers drawn as if part of a
+       seven-segment display.
+     * The online journal Speculative Grammarian has published a trio of
+       linguistics-themed Sudoku-like puzzles called LingDoku, which
+       require the solver to solve for two or more variables at once,
+       including a simple 3×3 puzzle,, a slightly more complicated 4x4
+       puzzle, and a Samurai-style puzzle with 3 overlapping 3×3 grids.
+
+   Greater-Than or Comparison Sudoku (sample)
+   Enlarge
+   Greater-Than or Comparison Sudoku (sample)
+
+   A new variant without any given numbers for start comes up this summer
+   (2006) from India by Yoogi Games, named Greater-Than or Comparison
+   Sudoku. All rules of a standard Sudoku are the same, but you have to
+   find out by comparisons the sequence of the digits (or letters if you
+   want, but the symbols used must be in ascending order) from one through
+   nine for each region. Therefore, each cell's border line inside every
+   region is notched in the meaning of < (less than) – or vice versa. A 3D
+   variant of Sudoku is Sudoku-Ball™,. Sudoku-Ball contains 14 networked
+   sudokus that follow the idea of the 2D samurai puzzle but than
+   converted into 3D. The physical game is not yet available on the market
+   but is due to release early 2007.
+
+   An example of a Hexudoku. Enlarge
+   An example of a Hexudoku.
+
+   A Hexudoku is a variant of the game Sudoku, which uses a grid of 16x16
+   squares instead of 9x9. The name originates from the contraction of the
+   greek-, and latin prefixes hexa-deca, which means 16, and the word
+   sudoku.
+
+   Similar to sudoku, the goal of the game is to complete a not-completely
+   filled grid, such that each row, each column, and each of the 16 marked
+   4x4 squares contains each number between 1 and 16 exactly once. With
+   256 squares, the hexudoku has more than 3 times as many squares as the
+   regular sudoku.
+
+   Instead of the numbers 1 to 16, sometimes the hexadecimal digits 0-9,
+   a-f are used, or a variant starting at 1: 1-9, a-g. Also a letter-only
+   variant is sometimes used.
+
+Mathematics of Sudoku
+
+   A completed Sudoku grid is a special type of Latin square with the
+   additional property of no repeated values in any 3×3 block. The number
+   of classic 9×9 Sudoku solution grids was shown in 2005 by Bertram
+   Felgenhauer and Frazer Jarvis to be 6,670,903,752,021,072,936,960
+   (sequence A107739 in OEIS) : this is roughly 0.00012% the number of 9×9
+   Latin squares. Various other grid sizes have also been enumerated—see
+   the main article for details. The number of essentially different
+   solutions, when symmetries such as rotation, reflection and relabelling
+   are taken into account, was shown by Ed Russell and Frazer Jarvis to be
+   just 5,472,730,538 (sequence A109741 in OEIS). Both results have been
+   confirmed by independent authors.
+
+   The maximum number of givens provided while still not rendering the
+   solution unique is four short of a full grid; if two instances of two
+   numbers each are missing and the cells they are to occupy form the
+   corners of an orthogonal rectangle, and exactly two of these cells are
+   within one region, there are two ways the numbers can be assigned.
+   Since this applies to Latin squares in general, most variants of Sudoku
+   have the same maximum. The inverse problem—the fewest givens that
+   render a solution unique—is unsolved, although the lowest number yet
+   found for the standard variation without a symmetry constraint is 17, a
+   number of which have been found by Japanese puzzle enthusiasts, and 18
+   with the givens in rotationally symmetric cells.
+
+History
+
+   Page from La France newspaper, July 6, 1895
+   Enlarge
+   Page from La France newspaper, July 6, 1895
+
+   Number puzzles first appeared in newspapers in the late 19th century,
+   when French puzzle setters began experimenting with removing numbers
+   from magic squares. Le Siècle, a Paris-based daily, published a
+   partially completed 9×9 magic square with 3×3 sub-squares in 1892. It
+   was not a Sudoku because it contained double-digit numbers and required
+   arithmetic rather than logic to solve, but it shared key
+   characteristics: each row, column and sub-square added up to the same
+   number.
+
+   Within three years Le Siècle's rival, La France, refined the puzzle so
+   that it was almost a modern Sudoku. It simplified the 9×9 magic square
+   puzzle so that each row and column contained only the numbers 1–9, but
+   did not mark the sub-squares. Although they are unmarked, each 3×3
+   sub-square does indeed comprise the numbers 1–9. However, the puzzle
+   cannot be considered the first Sudoku because, under modern rules, it
+   has two solutions. The puzzle setter ensured a unique solution by
+   requiring 1–9 to appear in both diagonals.
+
+   These weekly puzzles were a feature of newspaper titles including
+   L'Echo de Paris for about a decade but disappeared about the time of
+   the First World War.
+
+   According to Will Shortz, the modern Sudoku was most likely designed
+   anonymously by Howard Garns, a 74-year-old retired architect and
+   freelance puzzle constructor, and first published in 1979 by Dell
+   Magazines as Number Place (the earliest known examples of modern
+   Sudoku), because Garns' name was always present on the list of
+   contributors in issues of Dell Pencil Puzzles and Word Games that
+   included Number Place, and was always absent from issues that did not.
+   Sadly, he died in 1989 before getting a chance to see his creation as a
+   worldwide phenomenon.
+
+   The puzzle was introduced in Japan by Nikoli in the paper Monthly
+   Nikolist in April 1984 as Suuji wa dokushin ni kagiru (数字は独身に限る, Suuji
+   wa dokushin ni kagiru^ ?), which can be translated as "the numbers must
+   be single" or "the numbers must occur only once." At a later date, the
+   name was abbreviated to Sudoku by Maki Kaji (鍜治 真起, Kaji Maki^ ?),
+   taking only the first kanji of compound words to form a shorter
+   version. In 1986, Nikoli introduced two innovations: the number of
+   givens was restricted to no more than 32, and puzzles became
+   "symmetrical" (meaning the givens were distributed in rotationally
+   symmetric cells). It is now published in mainstream Japanese
+   periodicals, such as the Asahi Shimbun.
+
+Competitions
+
+     * The first world championship was held in Lucca, Italy from 10 to 12
+       March 2006; it was won by Jana Tylová, a 31-year-old accountant
+       from the Czech Republic. The competition included numerous
+       variants.
+     * The second world championship will be held in Prague from March 28
+       to April 1, 2007;
+
+Related games
+
+     * Minesweeper (computer game)
+     * Paint by numbers
+
+   Retrieved from " http://en.wikipedia.org/wiki/Sudoku"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

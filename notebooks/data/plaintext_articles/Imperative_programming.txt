@@ -1,0 +1,106 @@
+   #copyright
+
+Imperative programming
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   In computer science, imperative programming, as contrasted with
+   declarative programming, is a programming paradigm that describes
+   computation as statements that change a program state. In much the same
+   way as the imperative mood in natural languages expresses commands to
+   take action, imperative programs are a sequence of commands for the
+   computer to perform. A commonly used synonym to imperative programming
+   is procedural programming.
+
+   Imperative programming languages stand in contrast to other types of
+   languages, such as functional and logical programming languages.
+   Functional programming languages, such as Haskell, are not a sequence
+   of statements and have no global state as imperative languages do.
+   Logical programming languages, like Prolog, are often thought of as
+   defining "what" is to be computed, rather than "how" the computation is
+   to take place, as an imperative programming language does.
+
+Overview
+
+   The hardware implementation of almost all computers is imperative;
+   nearly all computer hardware is designed to execute machine code, which
+   is native to the computer, written in the imperative style. From this
+   low-level perspective, the program state is defined by the contents of
+   memory, and the statements are instructions in the native machine
+   language of the computer. Higher-level imperative languages use
+   variables and more complex statements, but still follow the same
+   paradigm. Recipes and process checklists, while not computer programs,
+   are also familiar concepts that are similar in style to imperative
+   programming; each step is an instruction, and the physical world holds
+   the state. Since the basic ideas of imperative programming are both
+   conceptually familiar and directly embodied in the hardware, most
+   computer languages are in the imperative style.
+
+   Assignment statements, in general, perform an operation on information
+   located in memory and store the results in memory for later use.
+   High-level imperative languages, in addition, permit the evaluation of
+   complex expressions, which may consist of a combination of arithmetic
+   operations and function evaluations, and the assignment of the
+   resulting value to memory. Looping statements allow a sequence of
+   statements to be executed multiple times. Loops can either execute the
+   statements they contain a predefined number of times, or they can
+   execute them repeatedly until some condition changes. Conditional
+   branching statements allow a block of statements to be executed only if
+   some condition is met. Otherwise, the statements are skipped and the
+   execution sequence continues from the statement following the block.
+   Unconditional branching statements allow the execution sequence to be
+   transferred to some other part of the program. These include the jump,
+   called " goto" in many languages, and the subprogram, or procedure,
+   call.
+
+History
+
+   The earliest imperative languages were the machine languages of the
+   original computers. In these languages, instructions were very simple,
+   which made hardware implementation easier, but hindered the creation of
+   complex programs. FORTRAN, developed by John Backus at IBM starting in
+   1954, was the first major programming language to remove the obstacles
+   presented by machine code in the creation of complex programs. FORTRAN
+   was a compiled language that allowed named variables, complex
+   expressions, subprograms, and many other features now common in
+   imperative languages. The next two decades saw the development of a
+   number of other major high-level imperative programming languages. In
+   the late 1950s and 1960s, ALGOL was developed in order to allow
+   mathematical algorithms to be more easily expressed, and even served as
+   the operating system's target language for some computers. COBOL (1960)
+   and BASIC (1964) were both attempts to make programming syntax look
+   more like English. In the 1970s, Pascal was developed by Niklaus Wirth,
+   and C was created by Dennis Ritchie while he was working at Bell
+   Laboratories. Wirth went on to design Modula-2, Modula-3, and Oberon.
+   For the needs of the United States Department of Defense, Jean Ichbiah
+   and a team at Honeywell began designing Ada in 1978, after a 4-year
+   project to define the requirements for the language. The specification
+   was first published in 1983, with revisions in 1995 and 2005/6.
+
+   The 1980s saw a rapid growth in interest in object-oriented
+   programming. These languages were imperative in style, but added
+   features to support objects. The last two decades of the 20th century
+   saw the development of a considerable number of such programming
+   languages. Smalltalk-80, originally conceived by Alan Kay in 1969, was
+   released in 1980 by the Xerox Palo Alto Research Centre. Drawing from
+   concepts in another object-oriented language — Simula (which is
+   considered to be the world's first object-oriented programming
+   language, developed in the late 1960s) — Bjarne Stroustrup designed
+   C++, an object-oriented language based on C. C++ was first implemented
+   in 1985. In the late 1980s and 1990s, the notable imperative languages
+   drawing on object-oriented concepts were Perl, released by Larry Wall
+   in 1987; Python, released by Guido van Rossum in 1990; PHP, released by
+   Rasmus Lerdorf in 1994; and Java, first released by Sun Microsystems in
+   1994.
+
+Example languages
+
+   The canonical examples of imperative programming languages are Fortran
+   and Algol. Others include Pascal, C, and Ada.
+
+   Category:Imperative programming languages provides an exhaustive list.
+   Retrieved from " http://en.wikipedia.org/wiki/Imperative_programming"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

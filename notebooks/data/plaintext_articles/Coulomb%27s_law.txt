@@ -1,0 +1,195 @@
+   #copyright
+
+Coulomb's law
+
+2007 Schools Wikipedia Selection. Related subjects: Electricity and
+Electronics
+
+   Electromagnetism
+   Electricity · Magnetism
+           Electrostatics
+   Electric charge
+   Coulomb's law
+   Electric field
+   Gauss's law
+   Electric potential
+   Electric dipole moment
+           Magnetostatics
+   Ampère's law
+   Magnetic field
+   Magnetic dipole moment
+          Electrodynamics
+   Electric current
+   Lorentz force law
+   Electromotive force
+   (EM) Electromagnetic induction
+   Faraday-Lenz law
+   Displacement current
+   Maxwell's equations
+   (EMF) Electromagnetic field
+   (EM) Electromagnetic radiation
+         Electrical Network
+   Electrical conduction
+   Electrical resistance
+   Capacitance
+   Inductance
+   Impedance
+   Resonant cavities
+   Waveguides
+   Coulomb's torsion balance
+   Coulomb's torsion balance
+
+   Coulomb's law, developed in the 1780s by French physicist Charles
+   Augustin de Coulomb, may be stated as follows:
+
+   The magnitude of the electrostatic force between two point charges is
+   directly proportional to the magnitudes of each charge and inversely
+   proportional to the square of the distance between the charges.
+
+   This is analogous to Newton's third law of motion in mechanics. The
+   formula to Coulomb's Law is of the same form as Newton's Gravitational
+   Law: The electrical force of one body exerted on the second body is
+   equal to the force exerted by the second body on the first.
+
+   Coulomb's law is the mathematical consequence of law of conservation of
+   linear momentum in exchange by virtual photons in 3-dimensional space
+   (see quantum electrodynamics).
+
+Scalar form
+
+   If you are interested only in the magnitude of the force (and not in
+   its direction), it may be easiest to consider a simplified, scalar
+   version of the law:
+
+          F = k_C \frac{|q_1| |q_2|}{r^2}
+
+   where:
+
+          F \ is the magnitude of the force exerted,
+          q_1 \ is the charge on one body,
+          q_2 \ is the charge on the other body,
+          r \ is the distance between them,
+          k_C = \frac{1}{4 \pi \epsilon_0} \approx 8.988×10^9 N m^2 C^-2
+          (also m F^-1) is the electrostatic constant or Coulomb force
+          constant, and
+          \epsilon_0 \approx 8.854×10^−12 C^2 N^-1 m^-2 (also F m^-1) is
+          the permittivity of free space, also called electric constant,
+          an important physical constant.
+
+   In cgs units, the unit charge, esu of charge or statcoulomb, is defined
+   so that this Coulomb force constant is 1.
+
+   This formula says that the magnitude of the force is directly
+   proportional to the magnitude of the charges of each object and
+   inversely proportional to the square of the distance between them. When
+   measured in units that people commonly use (such as MKS - see
+   International System of Units), the Coulomb force constant, k, is
+   numerically much much larger than the universal gravitational constant
+   G. This means that for objects with charge that is of the order of a
+   unit charge (C) and mass of the order of a unit mass (kg), the
+   electrostatic forces will be so much larger than the gravitational
+   forces that the latter force can be ignored. This is not the case when
+   Planck units are used and both charge and mass are of the order of the
+   unit charge and unit mass. However, charged elementary particles have
+   mass that is far less than the Planck mass while their charge is about
+   the Planck charge so that, again, gravitational forces can be ignored.
+
+   The force F acts on the line connecting the two charged objects.
+   Charged objects of the same polarity repel each other along this line
+   and charged objects of opposite polarity attract each other along this
+   line connecting them.
+
+   Coulomb's law can also be interpreted in terms of atomic units with the
+   force expressed in Hartrees per Bohr radius, the charge in terms of the
+   elementary charge, and the distances in terms of the Bohr radius.
+
+Electric field
+
+   It follows from the Lorentz Force Law that the magnitude of the
+   electric field E created by a single point charge q is
+
+          |E| = { 1 \over 4 \pi \epsilon_0 } \frac{\left|q\right|}{r^2}
+
+   For a positive charge q, the direction of E points along lines directed
+   radially away from the location of the point charge, while the
+   direction is the opposite for a negative charge. Units: volts per meter
+   or newtons per coulomb.
+
+Vector form
+
+   For the direction and magnitude of the force simultaneously, one will
+   wish to consult the full vector version of the Law
+
+          \vec{F}_{12} = \frac{1}{4 \pi \epsilon_0} \frac{q_1 q_2
+          }{|\vec{r}_{21}|^3} \vec{r}_{21} = \frac{1}{4 \pi \epsilon_0 }
+          \frac{q_1 q_2}{r^2} \hat{r}_{21}
+
+   where
+
+          \vec{F}_{12} is the electrostatic force vector, for the force
+          experienced by charge 1 from the action of charge 2.
+          q_1 \ is the charge on which the force acts,
+          q_2 \ is the acting charge,
+          \vec{r}_{21}=\vec{r_1}-\vec{r_2} is the vector pointing from
+          charge 2 to charge 1,
+          \vec{r_1} \ is position vector of q_1 \ ,
+          \vec{r_2} \ is position vector of q_2 \ ,
+          r \ is the the magnitude of \vec{r}_{21}
+          \hat{r}_{21} is a unit vector pointing in the direction of
+          \vec{r}_{21} , and
+          \epsilon_0 \ is a constant called the permittivity of free
+          space.
+
+   This vector equation indicates that opposite charges attract, and like
+   charges repel. When q_1 q_2 \ is negative, the force is attractive.
+   When positive, the force is repulsive.
+
+Graphical representation
+
+   Below is a graphical representation of Coulomb's law, when q_1 q_2 > 0
+   \ . The vector \vec{F_1} is the force experienced by Q_1 \ . The vector
+   \vec{F_2} is the force experienced by Q_2 \ . Their magnitudes will
+   always equal. The vector \vec{R}_{12} is the displacement vector ( = -
+   \vec{r}_{21} above, somebody should fix the picture below! ) between
+   two charges ( Q_1 \ and Q_2 \ ).
+   A graphical representation of Coulomb's law.
+   A graphical representation of Coulomb's law.
+
+Electrostatic approximation
+
+   In either formulation, Coulomb's law is fully accurate only when the
+   objects are stationary, and remains approximately correct only for slow
+   movement. These conditions are collectively known as the electrostatic
+   approximation. When movement takes place, magnetic fields are produced
+   that alter the force on the two objects. The magnetic interaction
+   between moving charges can be thought of as a manifestation of the
+   force from the electrostatic field but with Einstein's theory of
+   relativity taken into consideration.
+
+   The accuracy of the exponent in Coulomb's Law has been found to differ
+   from two by less than one in a billion by measuring the electric field
+   inside a charged conducting shell.
+
+Table of derived quantities
+
+   Particle property Relationship Field property
+   Vector quantity
+   Force (on 1 by 2)
+   \vec{F}_{12}= {1 \over 4\pi\epsilon_0}{q_1 q_2 \over r^2}\hat{r}_{21} \
+   \vec{F}_{12}= q_1 \vec{E}_{12}
+   Electric field (at 1 by 2)
+   \vec{E}_{12}= {1 \over 4\pi\epsilon_0}{q_2 \over r^2}\hat{r}_{21} \
+   Relationship \vec{F}_{12}=-\vec{\nabla}U_{12}
+   \vec{E}_{12}=-\vec{\nabla}V_{12}
+   Scalar quantity
+   Potential energy (at 1 by 2)
+   U_{12}={1 \over 4\pi\epsilon_0}{q_1 q_2 \over r} \
+   U_{12}=q_1 V_{12} \
+   Potential (at 1 by 2)
+   V_{12}={1 \over 4\pi\epsilon_0}{q_2 \over r}
+
+   Retrieved from " http://en.wikipedia.org/wiki/Coulomb%27s_law"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

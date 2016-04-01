@@ -1,0 +1,519 @@
+   #copyright
+
+Maglev train
+
+2007 Schools Wikipedia Selection. Related subjects: Railway transport
+
+   Transrapid at the Emsland test facility in Germany
+   Enlarge
+   Transrapid at the Emsland test facility in Germany
+   Maglev in Shanghai
+   Enlarge
+   Maglev in Shanghai
+   Inside the Shanghai maglev
+   Enlarge
+   Inside the Shanghai maglev
+   Inside the Shanghai maglev VIP section
+   Enlarge
+   Inside the Shanghai maglev VIP section
+
+   Magnetic levitation transport, or maglev, is a form of transportation
+   that suspends, guides and propels vehicles via electromagnetic force.
+   This method can be faster and more comfortable than wheeled mass
+   transit systems. Maglevs could potentially reach velocities comparable
+   to turboprop and jet aircraft (500 to 580 km/h). Since much of a
+   Maglev's propulsion system is in the track rather than the vehicle,
+   Maglev trains are lighter and can ascend steeper slopes than
+   conventional trains. They can be supported on lightweight elevated
+   tracks. Maglevs have operated commercially since 1984. However,
+   scientific and economic limitations have hindered the proliferation of
+   the technology.
+
+   Maglev technology has minimal overlap with wheeled train technology and
+   is not compatible with conventional railroad tracks. Because they
+   cannot share existing infrastructure, maglevs must be designed as
+   complete transportation systems. The term "maglev" refers not only to
+   the vehicles, but to the vehicle/guideway interaction; each being a
+   unique design element specifically tailored to the other to create and
+   precisely control magnetic levitation and propulsion.
+
+   The world's first commercial application of a high-speed maglev line is
+   the IOS (initial operating segment) demonstration line in Shanghai that
+   transports people 30 km (18.6 miles) to the airport in just 7 minutes
+   20 seconds (top speed of 431 km/h or 268 mph, average speed 250 km/h or
+   150 mph). Other maglev projects worldwide are being studied for
+   feasibility.
+
+Technology
+
+   There are two primary types of maglev technology:
+     * electromagnetic suspension (EMS) uses the attractive magnetic force
+       of a magnet beneath a rail to lift the train up.
+     * electrodynamic suspension (EDS) uses a repulsive force between two
+       magnetic fields to push the train away from the rail.
+
+Electromagnetic suspension
+
+   In current EMS systems, the train levitates above a steel rail while
+   electromagnets, attached to the train, are oriented toward the rail
+   from below. The electromagnets use feedback control to maintain a train
+   at a constant distance from a track.
+
+Electrodynamic suspension
+
+   In Electrodynamic suspension (EDS), both the rail and the train exert a
+   magnetic field, and the train is levitated by the repusive force
+   between these magnetic fields. The magnetic field in the train is
+   produced by either superconducting electromagnets (as in JR-Maglev) or
+   by an array of permanent magnets (as in Inductrack). The repulsive
+   force in the track is created by an induced magnetic field in wires or
+   other conducting strips in the track.
+
+   At slow speeds, the current induced in these coils and the resultant
+   magnetic flux is not large enough to support the weight of the train.
+   For this reason the train must have wheels or some other form of
+   landing gear to support the train until it reaches a speed that can
+   sustain levitation.
+
+   Propulsion coils on the guideway are used to exert a force on the
+   magnets in the train and make the train move forwards. The propulsion
+   coils that exert a force on the train are effectively a linear motor:
+   An alternating current flowing through the coils generates a
+   continuously varying magnetic field that moves forward along the track.
+   The magnets on the train line up with this field, and the train moves.
+
+Pros and cons of different technologies
+
+   Each implementation of the magnetic levitation principle for train-type
+   travel involves advantages and disadvantages. Time will tell as to
+   which principle, and whose implementation, wins out commercially.
+     __________________________________________________________________
+
+   Technology    Pros    Cons
+     __________________________________________________________________
+
+   EMS (Electromagnetic) Magnetic fields inside and outside the vehicle
+   are insignificant; proven, commercially available technology that can
+   attain very high speeds (500 km/h); no wheels or secondary propulsion
+   system needed The separation between the vehicle and the guideway must
+   be constantly monitored and corrected by computer systems to avoid
+   collision due to the unstable nature of electromagnetic attraction.
+     __________________________________________________________________
+
+   Superconducting EDS (Electrodynamic) Powerful onboard superconducting
+   magnets and large margin between rail and train enable highest recorded
+   train speeds (581 km/h) and heavy load capacity; has recently
+   demonstrated (Dec 2005) successful operations using high temperature
+   superconductors ( HTS) in its onboard magnets, cooled with inexpensive
+   liquid nitrogen Strong magnetic fields onboard the train make the train
+   inaccessible to passengers with pacemakers or magnetic data storage
+   media such as hard drives and credit cards; vehicle must be wheeled for
+   travel at low speeds; system per mile cost still considered
+   prohibitive; the system is not yet out of prototype phase.
+     __________________________________________________________________
+
+   Inductrack System (Permanent Magnet EDS) Failsafe Suspension - no power
+   required to activate magnets; Magnetic field is localized below the
+   car, can generate enough force at low speeds (around 5 km/h) to
+   levitate maglev train; in case of power failure cars slow down on their
+   own in a safe, steady and predictable manner before coming to a stop;
+   Halbach arrays of permanent magnets may prove more cost-effective than
+   electromagnets Requires either wheels or track segments that move for
+   when the vehicle is stopped. New technology that is still under
+   development ( as of 2006) and has as yet no commercial version or full
+   scale system prototype.
+     __________________________________________________________________
+
+   Neither Inductrack nor the Superconducting EDS are able to levitate
+   vehicles at a standstill, although Inductrack provides levitation down
+   to a much lower speed. Wheels are required for both systems. EMS
+   systems are wheel-less.
+
+   The German Transrapid, Japanese HSST (Linimo), and Korean Rotem maglevs
+   levitate at a standstill, with electricity extracted from guideway
+   using power rails for the latter two, and wirelessly for Transrapid. If
+   guideway power is lost on the move, the Transrapid is still able to
+   generate levitation down to 10 km/h speed, using the power from onboard
+   batteries. This is not the case with the HSST and Rotem systems.
+
+Propulsion
+
+   An EMS system can provide both levitation and propulsion using an
+   onboard linear motor. EDS systems can only levitate the train using the
+   magnets onboard, not propel it forward. As such, vehicles need some
+   other technology for propulsion. A linear motor (propulsion coils)
+   mounted in the track is one solution. Over long distances where the
+   cost of propulsion coils could be prohibitive, a propeller or jet
+   engine could be used.
+
+Stability
+
+   Static magnetic bearings using only electromagnets and permagnets are
+   unstable, as explained by Earnshaw's theorem. As all EDS systems are
+   moving systems, Earnshaw's theorem does not apply to them. EMS systems
+   rely on active electronic stabilization. Such systems constantly
+   measure the bearing distance and adjust the electromagnet current
+   accordingly.
+
+Pros and cons of maglev vs. conventional trains
+
+   Due to the lack of physical contact between the track and the vehicle,
+   the only friction experienced by a maglev train is due to air
+   resistance (although maglev trains also experience electromagnetic
+   drag, this is relatively small at high speeds). The power consumption
+   per passenger-km of the Transrapid Maglev train at 200 km/h is 24% less
+   than the ICE at 200 km/h (22 Wh per seat-km, compared to 29 Wh per
+   seat-km).
+
+   Because maglev trains do not run on rails, their speed is not limited
+   by the tolerances of track designs. Systems have been proposed that
+   operate at up to 650 km/h (404 mph), which is far faster than is
+   practical with conventional rail transport. The very high maximum speed
+   potential of maglevs make them potential competitors to airline routes
+   of 1,000 kilometers (600 miles) or less.
+
+   The weight of the large electromagnets in EMS and EDS designs are a
+   major design issue. A very strong magnetic field is required to
+   levitate a massive train. For this reason one research path is using
+   superconductors to improve the efficiency of the electromagnets.
+
+   In April 2004, a peer-reviewed article in the Journal of the Acoustical
+   Society of America stated that the noise from high-speed maglev trains
+   is considerably more disturbing than standard steel on steel intercity
+   train noise and is approximately as disturbing as road traffic. The
+   difference between equal disturbance levels of maglev and traditional
+   trains was 5dB (about 78% noisier). Maglev is characterized by high
+   noise levels and brief duration, which may startle those underneath the
+   track. The type of noise a maglev emits is similar to a jet aircraft,
+   due to the speed and shape of the maglev train.
+
+Economics
+
+   High-speed maglevs can be expensive to build, but are comparable to the
+   capital costs of building a traditional high-speed rail system from
+   scratch, a highway system or a system of airports. More importantly,
+   maglevs are significantly less expensive to operate and maintain than
+   traditional high-speed trains, planes or intercity buses. The data
+   coming out of the Shanghai maglev demonstration project indicates that
+   operation and maintenance costs are quite low, and are indeed covered
+   by the current relatively low volume of 7,000 passengers per day.
+   Passenger volumes on this Pudong International Airport line is expected
+   to rise dramatically once the line is extended from Longyang Road metro
+   station all the way to Shanghai's downtown train depot.
+
+   The Shanghai maglev cost US$1.2 billion to build. At US$6 per passenger
+   and 20,000 passengers per day, it would take over 27 years just to
+   repay the capital costs (including cost of financing), not accounting
+   for track maintenance, salaries and electricity (see solar power).This
+   computes to US$60 million per mile. The total $1.2 billion includes
+   infrastructure capital costs such as manufacturing and construction
+   facilities, and operational training, as part of the calculated
+   per-mile cost of the short track. It is predicted that the per-mile
+   costs of the extension to Hangzhou will be significantly lower.
+
+   The proposed Chūō Shinkansen line is estimated to cost approximately
+   US$ 82 billion to build.
+
+   However, when one considers the cost of airport construction (e.g.,
+   Hong Kong Airport cost US$20 billion to build in 1998) and eight-lane
+   Interstate highway systems that cost around US$50 million per mile, it
+   becomes immediately apparent that maglev's costs are competitive,
+   especially considering that they can handle much higher volumes of
+   passengers per hour than airports or eight-lane highways and do it
+   without introducing any air pollution along the right of way.
+
+   The only low-speed maglev (100 km/h) currently operational, the
+   Japanese Linimo HSST, cost approximately US$100 million/km to build.
+   Besides offering improved O&M costs over other transit systems, these
+   low-speed maglevs provide ultra-high levels of operational reliability
+   and introduce little noise and zero air pollution into dense urban
+   settings.
+
+   As maglev systems are deployed around the world, experts expect
+   construction costs to drop as new construction methods are perfected.
+
+Existing maglev systems
+
+   JR-Maglev at Yamanashi
+   Enlarge
+   JR-Maglev at Yamanashi
+
+Birmingham 1984–1995
+
+   The world's first commercial automated system was a low-speed maglev
+   shuttle that ran from the airport terminal of Birmingham International
+   Airport (UK) to the nearby Birmingham International railway station
+   from 1984 to 1995. Based on experimental work commissioned by the
+   British government at the British Rail Research Division laboratory at
+   Derby, the length of the track was 600 m, and trains "flew" at an
+   altitude of 15 mm. It was in operation for nearly eleven years, but
+   obsolescence problems with the electronic systems made it unreliable in
+   its later years and it has now been replaced with a cable-drawn system.
+
+Berlin 1989–1991
+
+   In West Berlin, the M-Bahn was built in the late 1980s. It was a
+   driverless maglev system with a 1.6 km track connecting three stations.
+   Testing in passenger traffic started in August 1989, and regular
+   operation started in July 1991. Although the line largely followed a
+   new elevated alignment, it terminated at the U-Bahn station
+   Gleisdreieck, where it took over a platform that was then no longer in
+   use; it was from a line that formerly ran to East Berlin. After the
+   fall of the Berlin Wall, plans were set in motion to reconnect this
+   line (today's U2). Deconstruction of the M-Bahn line began only two
+   months after regular service began and was completed in February 1992.
+
+Emsland, Germany
+
+   Transrapid, a German maglev company, has a test track in Emsland with a
+   total length of 31.5 km.
+
+JR-Maglev
+
+   Japan has a test track in Yamanashi prefecture where test trains
+   JR-Maglev MLX01 have reached 581 km/h (361 mph), faster than wheeled
+   trains. These trains use superconducting magnets which allow for a
+   larger gap, and repulsive-type "Electro-Dynamic Suspension" (EDS). In
+   comparison Transrapid uses conventional electromagnets and
+   attractive-type "Electro-Magnetic Suspension" (EMS). These
+   "Superconducting Maglev Shinkansen", developed by the Central Japan
+   Railway Co. ("JR Central") and Kawasaki Heavy Industries, are currently
+   the fastest trains in the world, achieving a record speed of 581 km/h
+   on December 2, 2003.
+
+Linimo (Tobu Kyuryo Line)
+
+   Linimo train approaching Banpaku Kinen Koen, towards Fujigaoka Station
+   Enlarge
+   Linimo train approaching Banpaku Kinen Koen, towards Fujigaoka Station
+
+   The world's first commercial automated " Urban Maglev" system commenced
+   operation in March 2005 in Aichi, Japan. This is the nine-station 8.9
+   km long Tobu-kyuryo Line, otherwise known as the Linimo. The line has a
+   minimum operating radius of 75 m and a maximum gradient of 6%. The
+   linear-motor magnetic-levitated train has a top speed of 100 km/h. The
+   line serves the local community as well as the Expo 2005 fair site. The
+   trains were designed by the Chūbu HSST Development Corporation, which
+   also operates a test track in Nagoya. Urban-type maglevs patterned
+   after the HSST have been constructed and demonstrated in Korea, and a
+   Korean commercial version Rotem is now under construction in Daejeon
+   and projected to go into operation by April of 2007.
+
+FTA's UMTD program
+
+   In the US, the Federal Transit Administration (FTA) Urban Maglev
+   Technology Demonstration program has funded the design of several
+   low-speed urban maglev demonstration projects. It has assessed HSST for
+   the Maryland Department of Transportation and maglev technology for the
+   Colorado Department of Transportation. The FTA has also funded work by
+   General Atomics at California University of Pennsylvania to demonstrate
+   new maglev designs, the MagneMotion M3 and of the Maglev2000 of Florida
+   superconducting EDS system. Other US urban maglev demonstration
+   projects of note are the LEVX in Washington State and the
+   Massachusetts-based Magplane.
+
+Southwest Jiaotong University, China
+
+   On December 31, 2000, the first crewed high-temperature superconducting
+   maglev was tested successfully at Southwest Jiaotong University,
+   Chengdu, China. This system is based on the principle that bulk
+   high-temperature superconductors can be levitated or suspended stably
+   above or below a permanent magnet. The load was over 530 kg and the
+   levitation gap over 20 mm. The system uses liquid nitrogen, which is
+   very cheap, to cool the superconductor.
+
+The first, the German patent (1941)
+
+   The first patent for a magnetic levitation train propelled by linear
+   motors was German Patent 707032, issued in June 1941. The US patent
+   12700 date 1st October 1907 was for a linear motor propelled train in
+   which the motor, below the steel track, carried some but not all of the
+   weight of the train ( inventor Alfred Zehden of Frankfurt-am-Main )
+
+Under construction
+
+Old Dominion University
+
+   A track of less than a mile in length has been constructed at Old
+   Dominion University in Norfolk, Virginia. The system is not
+   operational, but research is currently ongoing to resolve some
+   stability issues with the system. This system uses a "smart train, dumb
+   track" that involves most of the sensors, magnets, and computation
+   occurring on the train rather than the track. This system will cost
+   less to build per mile than existing systems. The same principle is
+   involved in the construction of a second prototype system in Powder
+   Springs, Georgia, by American Maglev Technology, Inc., set for
+   deployment in Fall 2006.
+
+Proposals
+
+Europe
+
+Munich
+
+   A Transrapid connection of the Bavarian capital Munich to its
+   international airport (37 km) is now being planned. It would reduce the
+   current connection time via S-Bahn (German city railroad system) from
+   about 40 minutes to 10 minutes.
+
+Berlin – Hamburg
+
+   A 292 km Transrapid line linking Berlin to Hamburg. It has been
+   cancelled due to lack of funds. Instead the existing railway line has
+   been upgraded to 230 km/h for ICE train sets.
+
+London – Edinburgh and/or Glasgow
+
+   A maglev line has recently been proposed in the United Kingdom from
+   London to Edinburgh and/or Glasgow with several route options through
+   the Midlands, Northwest and Northeast, and is reported to be under
+   favourable consideration by the government. A further high speed link
+   is also being investigated as an option between Glasgow to Edinburgh
+   though there is no settled technology for this concept yet, ie
+   (Maglev/Hi Speed Electric etc)
+
+Asia
+
+Tokyo – Osaka
+
+   If a proposed Chūō Shinkansen is built, connecting Tokyo to Osaka by
+   maglev, the existing test track in Yamanashi prefecture would be part
+   of the line.
+
+Shanghai – Hangzhou
+
+   China has decided to build a second Transrapid maglev rail with a
+   length of 160 km from Shanghai to Hangzhou ( Shanghai-Hangzhou maglev
+   line). Talks with Germany and Transrapid Konsortium about the details
+   of the construction contracts have started. On March 7, 2006, the
+   Chinese Minister of Transportation was quoted by several Chinese and
+   Western newspapers as saying the line was approved. Construction will
+   probably start towards the end of 2006 and is scheduled to be completed
+   in time for the 2010 Shanghai Expo, becoming the first inter-city
+   Maglev rail line in commercial service in the world. The line will be
+   an extension of the Shanghai airport Maglev line.
+
+Johor, Malaysia
+
+   Malaysia has decided to use Mag-lev technology to link important
+   landmarks across the city. This will be a boost to business to compete
+   against the neighbouring city, Singapore.
+
+USA
+
+Los Angeles, Southern California – Las Vegas
+
+   High-speed maglev lines between major cities of southern California and
+   Las Vegas are also being studied via the California-Nevada Interstate
+   Maglev Project. This plan was originally supposed to be part of a I-5
+   or I-15 expansion plan, but the federal government has ruled it must be
+   separated from interstate work projects.
+
+   Since the federal government decision, private groups from Nevada have
+   proposed a line running from Las Vegas to Los Angeles with stops in
+   Primm, Nevada; Baker, California; and points throughout Riverside
+   County into Los Angeles.
+
+   Southern California politicians have not been receptive to these
+   proposals; many are concerned that a high speed rail line out of state
+   would drive out dollars that would be spent in state "on a rail" to
+   Nevada.
+
+Baltimore – Washington, D.C.
+
+   A 64 km project linking Camden Yards in Baltimore and
+   Baltimore-Washington International (BWI) Airport to Union Station in
+   Washington, D.C. It is in demand for the area due to its current
+   traffic/congestion problems. The project is in contention for the same
+   federal grant as the Pittsburgh project.
+
+Florida High Speed Rail
+
+   The history of High Speed Rail in Florida started in 1976 with
+   feasibility study for service between Daytona Beach and St. Petersburg.
+   In November of 2000, the Florida voters approved an amendment to the
+   State constitution mandating the construction of a High Speed
+   Transportation system to link the five largest urban areas in Florida.
+   Construction was mandated to begin by November 1, 2003.
+
+   In October 2002, the Authority issued a Request for Proposal to Design,
+   Build, Operate, Maintain and Finance (DBOM&F) the first phase of the
+   project from Tampa to Orlando. Based on Fluor Bombardier (FB) proposal
+   first and the Global Rail Consortium (GRC) proposal, the cost of
+   initial phase is approximately $2.4 billion.
+
+   In early 2004, Governor Jeb Bush endorsed an effort to repeal the 2000
+   amendment that mandated the construction of the High Speed Rail System
+   which was approved by the voters, resulting in removal of the
+   constitutional mandate.
+
+   The Florida High Speed Rail Authority Act is still remains in effect
+   pending any action from the Florida Legislature. In fiscal year
+   2004/05, no State funds were appropriated, and the Authority has
+   operated on surplus funds from previous years.
+
+Honolulu
+
+   The city of Honolulu, Hawaii is said to be planning a Linimo class
+   urban Maglev for its main mass transit train.
+
+San Diego
+
+   San Diego is considering a high-speed maglev line to serve as a
+   passenger transportation node to remote airport sites under
+   consideration. The cost estimate is approximately $10 billion U.S. for
+   the 120-150 km (80-100 mile) run, not including the cost of
+   construction of the airport.
+
+The Cascadia Maglev
+
+   Long-proposed but not on any official drawing boards would be a Maglev
+   line along the Interstate 5 corridor, its core component from Portland,
+   Oregon to Vancouver, British Columbia, with eventual extensions to
+   Eugene, Oregon (in the south) and Whistler, British Columbia (in the
+   north). The initial phase of the project would link Tacoma to Seattle,
+   mirroring the old interurban line between those two cities. The same
+   idea has re-surfaced with a conventional high-speed rail proposal,
+   although its extension into British Columbia has been largely blocked
+   by opposition on the part of the City of White Rock, British Columbia,
+   which would sit astride the line.
+
+Vactrain
+
+   More exotic proposals include maglev lines through vacuum-filled
+   tunnels (see Vactrain), where the absence of air resistance would allow
+   extremely high speeds, up to 6000-8000 km/h (4000-5000 mph) according
+   to some sources. Theoretically, these tunnels could be built deep
+   enough to pass under oceans or to use gravity to assist the trains'
+   acceleration. This would likely be prohibitively costly without major
+   advances in tunnelling technology. Alternatives such as elevated
+   concrete tubes with partial vacuums have been proposed to reduce these
+   costs. If the trains topped out at around 8000 km/h (5000 mph), the
+   5567km trip between London and New York would take a short 54 minutes,
+   effectively supplanting aircraft as the world's fastest mode of public
+   transportation.
+
+UniModal
+
+   UniModal is a personal rapid transit idea that proposes to use
+   Inductrack suspension to achieve speeds of 160 km/h (100 mph).
+
+Most significant accidents and incidents
+
+August 11, 2006 fire
+
+   On August 11, 2006 a fire broke out on the Shanghai commercial
+   Transrapid, shortly after leaving the terminal in Longyang.
+
+September 22, 2006 crash
+
+   On September 22, 2006 an elevated Transrapid train collided with a
+   maintenance vehicle on a test run in Lathen (Lower Saxony /
+   north-western Germany). Twenty five people were killed, and ten people
+   were injured. These were the first fatalities resulting from a Maglev
+   train accident.
+   Retrieved from " http://en.wikipedia.org/wiki/Maglev_train"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

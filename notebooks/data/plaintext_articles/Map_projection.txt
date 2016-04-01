@@ -1,0 +1,478 @@
+   #copyright
+
+Map projection
+
+2007 Schools Wikipedia Selection. Related subjects: General Geography
+
+   The Mercator projection shows courses of constant bearing as straight
+   lines. While common, scholars advise against using it for reference
+   maps of the world because it drastically inflates the high latitudes.
+   The Mercator projection shows courses of constant bearing as straight
+   lines. While common, scholars advise against using it for reference
+   maps of the world because it drastically inflates the high latitudes.
+
+   A map projection is any method used in cartography (mapmaking) to
+   represent the two-dimensional curved surface of the earth or other body
+   on a plane. The term " projection" here refers to any function defined
+   on the earth's surface and with values on the plane, and not
+   necessarily a geometric projection.
+
+   Flat maps could not exist without map projections. Flat maps can be
+   more useful than globes in many situations: they are more compact and
+   easier to store; they readily accommodate an enormous range of scales;
+   they are viewed easily on computer displays; they can facilitate
+   measuring properties of the terrain being mapped; they can show larger
+   portions of the earth's surface at once; and they are cheaper to
+   produce and transport. These useful traits of flat maps motivate the
+   development of map projections.
+
+Metric properties of maps
+
+   An Albers projection shows areas accurately, but distorts shapes.
+   An Albers projection shows areas accurately, but distorts shapes.
+
+   Many properties can be measured on the earth's surface independently of
+   its geography. Some of these properties are:
+     * Area
+     * Shape
+     * Direction
+     * Bearing
+     * Distance
+     * Scale
+
+   Map projections can be constructed to preserve one or some of these
+   properties, though not all of them simultaneously. Each projection
+   preserves or compromises or approximates basic metric properties in
+   different ways. The purpose of the map, then, determines which
+   projection should form the base for the map. Since many purposes exist
+   for maps, so do many projections exist upon which to construct them.
+
+   Another major concern that drives the choice of a projection is the
+   compatibility of data sets. Data sets are geographic information. As
+   such, their collection depends on the chosen model of the earth.
+   Different models assign slightly different coordinates to the same
+   location, so it is important that the model be known and that chosen
+   projection is compatible with that model. On small areas (large scale)
+   data compatibility issues are more important since metric distortions
+   are minimal at this level. In very large areas (small scale), on the
+   other hand, distortion is a more important factor to consider.
+
+Construction of a map projection
+
+   The creation of a map projection involves three steps:
+    1. Selection of a model for the shape of the earth or planetary body
+       (usually choosing between a sphere or ellipsoid)
+    2. Transformation of geographic coordinates ( longitude and latitude)
+       to plane coordinates (eastings and northings or x,y)
+    3. Reduction of the scale (it does not matter in what order the second
+       and third steps are performed)
+
+   Because the real earth's shape is irregular, information is lost in the
+   first step, in which an approximating, regular model is chosen.
+   Reducing the scale may be considered to be part of transforming
+   geographic coordinates to plane coordinates.
+
+   Most map projections, both practically and theoretically, are not
+   "projections" in any physical sense. Rather, they depend on
+   mathematical formulae that have no direct physical interpretation.
+   However, in understanding the concept of a map projection it is helpful
+   to think of a globe with a light source placed at some definite point
+   with respect to it, projecting features of the globe onto a surface.
+   The following discussion of developable surfaces is based on that
+   concept.
+
+Choosing a projection surface
+
+   A Miller cylindrical projection maps the globe onto a cylinder.
+   A Miller cylindrical projection maps the globe onto a cylinder.
+
+   A surface that can be unfolded or unrolled into a flat plane or sheet
+   without stretching, tearing or shrinking is called a ' developable
+   surface'. The cylinder, cone and of course the plane are all
+   developable surfaces. Unfortunately, the sphere and ellipsoid are not
+   developable surfaces. Any projection that attempts to project a sphere
+   (or an ellipsoid) on a flat sheet will have to distort the image
+   (similar to the impossibility of making a flat sheet from an orange
+   peel).
+
+   One way of describing a projection is describing a projection from the
+   earth's surface to a cylinder or cone. Together with the simple second
+   step of unrolling the cylinder (or cone) into a plane, we have the full
+   projection. While the first step inevitably distorts some properties of
+   the globe, the developable surface may then be unfolded without further
+   distortion.
+
+Orientation of the projection
+
+   This transverse Mercator projection is mathematically the same as a
+   standard Mercator, but oriented around a different axis.
+   This transverse Mercator projection is mathematically the same as a
+   standard Mercator, but oriented around a different axis.
+
+   Once a choice is made between projecting onto a cylinder, cone, or
+   plane, the orientation of the shape must be chosen. The orientation is
+   how the shape is placed with respect to the globe. The orientation of
+   the projection surface can be normal (inline with the earth's axis),
+   transverse (at right angles to the earth's axis) or oblique (any angle
+   in between). These surfaces may also be either tangent or secant to the
+   spherical or ellipsoidal globe. Tangent means the surface touches but
+   does not slice through the globe; secant means the surface does slice
+   through the globe. Insofar as preserving metric properties go, it is
+   never advantageous to move the developable surface away from contact
+   with the globe, so that practice is not discussed here.
+
+Scale
+
+   A globe is the only way to represent the earth with the same scale
+   throughout the entire map surface and in all directions. For a flat map
+   this is not even possible across an area of any extent.
+
+   Thus, on a flat map, properties of constant scale are always limited.
+
+   Possible properties are:
+     * The scale depends on location, but not on direction; this is
+       equivalent with preservation of angles: conformal map
+     * For a given latitude and direction, the scale is the same
+       everywhere; this applies for any cylindrical projection
+     * Combination of the two: the scale depends on latitude only, not on
+       longitude or direction; this applies for the Mercator projection
+
+Choosing a model for the shape of the Earth
+
+   Projection construction is also affected by how the shape of the earth
+   is approximated. In the following discussion on projection categories,
+   a sphere is assumed. However, the Earth is not exactly spherical but is
+   closer in shape to an oblate ellipsoid, a shape which bulges around the
+   equator. Selecting a model for a shape of the earth involves choosing
+   between the advantages and disadvantages of a sphere versus an
+   ellipsoid. Spherical models are useful for small-scale maps such as
+   world atlases and globes, since the error at that scale is not usually
+   noticeable or important enough to justify using the more complicated
+   ellipsoid. The ellipsoidal model is commonly used to construct
+   topographic maps and for other large and medium scale maps that need to
+   accurately depict the land surface.
+
+   A third model of the shape of the earth is called a geoid, which is a
+   complex and more or less accurate representation of the global mean sea
+   level surface that is obtained through a combination of terrestrial and
+   satellite gravity measurements. This model is not used for mapping due
+   to its complexity but is instead used for control purposes in the
+   construction of geographic datums. (In geodesy, plural of "datum" is
+   "datums," rather than "data".) A geoid is used to construct a datum by
+   adding irregularities to the ellipsoid in order to better match the
+   Earth's actual shape (it takes into account the large scale features in
+   the Earth's gravity field associated with mantle convection patterns,
+   as well as the gravity signatures of very large geomorphic features
+   such as mountain ranges, plateaus and plains). Historically, datums
+   have been based on ellipsoids that best represent the geoid within the
+   region the datum is intended to map. Each ellipsoid has a distinct
+   major and minor axis. Different controls (modifications) are added to
+   the ellipsoid in order to construct the datum, which is specialized for
+   a specific geographic regions (such as the North American Datum). A few
+   modern datums, such as WGS84 (the one used in the Global Positioning
+   System GPS), are optimized to represent the entire earth as well as
+   possible with a single ellipsoid, at the expense of some accuracy in
+   smaller regions.
+
+Classification
+
+   A fundamental projection classification is based on type of projection
+   surface onto which the globe is conceptually projected. The projections
+   are described in terms of placing a gigantic surface in contact with
+   the earth, followed by an implied scaling operation. These surfaces are
+   cylindrical (e.g., Mercator), conic (e.g., Albers), and azimuthal or
+   plane (e.g., stereographic). Many mathematical projections, however, do
+   not neatly fit into any of these three conceptual projection methods.
+   Hence other peer categories have been described in the literature, such
+   as pseudoconic (meridians are arcs of circles), pseudocylindrical
+   (meridians are straight lines), pseudoazimuthal, retroazimuthal, and
+   polyconic.
+
+   Another way to classify projections is through the properties they
+   retain. Some of the more common categories are:
+     * Direction preserving, called azimuthal (but only possible from the
+       central point)
+     * Locally shape-preserving, called conformal or orthomorphic
+     * Area-preserving, called equal-area or equiareal or equivalent or
+       authalic
+     * Distance preserving - equidistant (preserving distances between one
+       or two points and every other point)
+     * Shortest-route preserving - gnomonic projection
+
+   NOTE: It is impossible to construct a map projection that is both
+   equal-area and conformal.
+
+Projections by surface
+
+Cylindrical
+
+   The space-oblique Mercator projection was developed by the USGS for use
+   in Landsat images.
+   The space-oblique Mercator projection was developed by the USGS for use
+   in Landsat images.
+
+   The term "cylindrical projection" is used to refer to any projection in
+   which meridians are mapped to equally spaced vertical lines and circles
+   of latitude (parallels) are mapped to horizontal lines (or, mutatis
+   mutandis, more generally, radial lines from a fixed point are mapped to
+   equally spaced parallel lines and concentric circles around it are
+   mapped to perpendicular lines).
+
+   The mapping of meridians to vertical lines can be visualized by
+   imagining a cylinder (of which the axis coincides with the Earth's axis
+   of rotation) wrapped around the Earth and then projecting onto the
+   cylinder, and subsequently unfolding the cylinder.
+
+   Unavoidably, all cylindrical projections have an east-west stretching
+   away from the equator by a factor equal to the secant of the latitude,
+   compared with the scale at the equator. The various cylindrical
+   projections can be described in terms of the north-south stretching:
+     * North-south stretching is equal to the east-west stretching
+       (secant(L)): The east-west scale matches the north-south-scale:
+       conformal cylindrical or Mercator; this distorts areas excessively
+       in high latitudes (see also transverse Mercator).
+     * North-south stretching growing rapidly with latitude, even faster
+       than east-west stretching (secant(L))^2: The cylindric perspective
+       (= central cylindrical) projection; unsuitable because distortion
+       is even worse than in the Mercator projection.
+     * North-south stretching grows with latitude, but less quickly than
+       the east-west stretching: such as the Miller cylindrical projection
+       (secant(L*4/5)).
+     * North-south distances neither stretched nor compressed (1):
+       equidistant cylindrical or plate carrée.
+     * North-south compression precisely the reciprocal of east-west
+       stretching (cos(L)): equal-area cylindrical (with many named
+       specializations such as Gall-Peters or Gall orthographic, Behrmann,
+       and Lambert cylindrical equal-area). This divides north-south
+       distances by a factor equal to the secant of the latitude,
+       preserving area but heavily distorting shapes.
+
+   In the first case (Mercator), the east-west scale always equals the
+   north-south scale. In the second case (central cylindrical), the
+   north-south scale exceeds the east-west scale everywhere away from the
+   equator. Each remaining case has a pair of identical latitudes of
+   opposite sign (or else the equator) at which the east-west scale
+   matches the north-south-scale.
+
+   Cylindrical projections map the whole Earth as a finite rectangle,
+   except in the first two cases, where the rectangle stretches infinitely
+   tall while retaining constant width.
+
+Pseudocylindrical
+
+   A sinusoidal projection shows relative sizes accurately, but grossly
+   distorts shapes. Distortion can be reduced by "interrupting" the map.
+   A sinusoidal projection shows relative sizes accurately, but grossly
+   distorts shapes. Distortion can be reduced by "interrupting" the map.
+
+   Pseudocylindrical projections represent the central meridian and each
+   parallel as a straight line segment, but not the other meridians,
+   except for the Collignon projection, which in its most common forms
+   represents all meridians as straight lines from the poles to the
+   equators as straight line segments. Each pseudocylindrical projection
+   represents a point on the Earth along the straight line representing
+   its parallel, at a distance which is a function of its difference in
+   longitude from the central meridian.
+     * Sinusoidal: the north-south scale is the same everywhere at the
+       central meridian, and the east-west scale is throughout the map the
+       same as that; correspondingly, on the map, as in reality, the
+       length of each parallel is proportional to the cosine of the
+       latitude. Thus the shape of the map for the whole earth is the area
+       between two symmetric rotated cosine curves .
+
+   The true distance between two points on the same meridian corresponds
+   to the distance on the map between the two parallels, which is smaller
+   than the distance between the two points on the map; the meridians
+   drawn on the map help the user realizing the distortion and mentally
+   compensating for it
+     * Mollweide
+     * Goode homolosine
+     * Eckert IV
+
+     * Eckert VI
+
+     * Collignon
+
+Hybrid
+
+   The HEALPix projection combines an equal-area cylindrical projection in
+   equatorial regions with the Collignon projection in polar areas.
+
+Conical
+
+     * Equidistant conic
+     * Lambert conformal conic
+     * Albers conic
+
+Pseudoconical
+
+     * Bonne
+     * Werner cordiform designates a pole and a meridian; distances from
+       the pole are preserved, as are distances from the meridian (which
+       is straight) along the parallels
+     * Continuous American polyconic
+
+Azimuthal (projections onto a plane)
+
+   An azimuthal projection shows distances and directions accurately from
+   the center point, but distorts shapes and sizes elsewhere.
+   An azimuthal projection shows distances and directions accurately from
+   the centre point, but distorts shapes and sizes elsewhere.
+
+   Azimuthal projections have the property that directions from a central
+   point are preserved (and hence, great circles through the central point
+   are represented by straight lines on the map). Usually these
+   projections also have radial symmetry in the scales and hence in the
+   distortions: map distances from the central point are computed by a
+   function r(d) of the true distance d, independent of the angle;
+   correspondingly, circles with the central point as center are mapped
+   into circles which have as centre the central point on the map.
+
+   The mapping of radial lines can be visualized by imagining a plane
+   tangent to the Earth, with the central point as tangent point.
+
+   The radial scale is r'(d) and the transverse scale r(d)/(R sin(d/R))
+   where R is the radius of the Earth.
+
+   Some azimuthal projections are true perspective projections; that is,
+   they can be constructed mechanically, projecting the surface of the
+   Earth by extending lines from a points of perspective (along an
+   infinite line through the tangent point and the tangent point's
+   antipode) onto the plane:
+     * Gnomonic displays great circles as straight lines. Can be
+       constructed by using a point of perspective at the centre of the
+       Earth. r(d) = c tan(d/R); a hemisphere already requires an infinite
+       map ,
+     * _ _ _ _ projection can be constructed by using a point of
+       perspective outside the earth. Photographs of Earth (such as those
+       from the ISS) give this perspective.
+     * Orthographic maps each point on the earth to the closest point on
+       the plane. Can be constructed from a point of perspective an
+       infinite distance from the tangent point; r(d) = c sin(d/R) . Can
+       display up to a hemisphere on a finite circle. Photographs of Earth
+       from far enough away, such as the Moon, give this perspective.
+     * Azimuthal conformal projection is the same as stereographic. It can
+       be constructed by using the tangent point's antipode as the point
+       of perspective. r(d) = c tan(d/2R); the scale is
+       c/(2R cos^2(d/2R)). Can display nearly the entire sphere on a
+       finite circle. The full sphere requires an infinite map.
+
+   Other azimuthal projections are not true perspective projections:
+     * Azimuthal equidistant: r(d) = cd; it is used by amateur radio
+       operators to know the direction to point their antennas toward a
+       point and see the distance to it. Distance from the tangent point
+       on the map is proportional to surface distance on the earth (; for
+       the case where the tangent point is the North Pole, see the flag of
+       the United Nations)
+     * Lambert azimuthal equal-area. Distance from the tangent point on
+       the map is proportional to straight-line distance through the
+       earth: r(d) = c sin(d/2R)
+     * Logarithmic azimuthal is constructed so that each point's distance
+       from the centre of the map is the logarithm of its distance from
+       the tangent point on the Earth. Works well with cognitive maps.
+       r(d) = c ln(d/d[0]); locations closer than at a distance equal to
+       the constant d[0] are not shown (, figure 6-5)
+
+Projections by preservation of a metric property
+
+   A stereographic projection is conformal and perspective but not equal
+   area or equidistant.
+   A stereographic projection is conformal and perspective but not equal
+   area or equidistant.
+
+Conformal
+
+   Conformal map projections preserve angles locally:
+     * Mercator - rhumb lines are represented by straight segments
+     * Stereographic - shape of circles is conserved
+     * Roussilhe
+     * Lambert conformal conic
+     * Quincuncial map
+
+Equal-area
+
+   These projections preserve area:
+     * Gall orthographic (also known as Gall-Peters, or Peters,
+       projection)
+
+     * Albers conic
+     * Lambert azimuthal equal-area
+     * Mollweide
+     * Hammer
+     * Briesemeister
+     * Sinusoidal
+     * Werner
+     * Bonne
+     * Bottomley
+     * Goode's homolosine
+     * Hobo-Dyer
+     * Collignon
+     * HEALPix
+
+Equidistant
+
+   These preserve distance from some standard point or line:
+     * Plate carrée - north-south scale is constant
+     * Equirectangular - equal distance between all latitudes and
+       longitudes.
+     * Azimuthal equidistant - radial scale with respect to the central
+       point is constant
+     * Equidistant conic
+     * sinusoidal - east-west scale is constant and corresponds to
+       distances between parallels (but the north-south scale away from
+       the central meridian is larger due to the obliqueness of the
+       meridians)
+     * Werner cordiform distances from the North Pole are correct as are
+       the curved distance on parallels
+     * Soldner
+     * Two-point equidistant
+
+Gnomonic
+
+   The Gnomonic projection is thought to be the oldest map projection,
+   developed by Thales in the 6th century BC
+   The Gnomonic projection is thought to be the oldest map projection,
+   developed by Thales in the 6th century BC
+
+   Great circles are displayed as straight lines:
+     * Gnomonic projection
+
+Retroazimuthal
+
+   Direction to a fixed location B (the bearing at the starting location A
+   of the shortest route) corresponds to the direction on the map from A
+   to B:
+     * Littrow - the only conformal retroazimuthal projection
+     * Hammer retroazimuthal - also preserves distance from the central
+       point
+     * Craig retroazimuthal aka Mecca or Qibla - also has vertical
+       meridians
+
+Compromise projections
+
+   The Robinson projection was adopted by National Geographic Magazine in
+   1988 but abandoned by them in about 1997 for the Winkel Tripel.
+   The Robinson projection was adopted by National Geographic Magazine in
+   1988 but abandoned by them in about 1997 for the Winkel Tripel.
+
+   Compromise projections give up the idea of perfectly preserving metric
+   properties, seeking instead to strike a balance between distortions, or
+   to simply make things "look right". Most of these types of projections
+   distort shape in the polar regions more than at the equator:
+     * Robinson
+     * van der Grinten
+     * Miller cylindrical
+     * Winkel Tripel
+
+Other noteworthy projections
+
+     * Buckminster Fuller's Dymaxion
+     * Chamberlin trimetric
+     * The French cartographer Oronce Fine developed a heart-shaped
+       projection in the sixteenth century
+
+   Retrieved from " http://en.wikipedia.org/wiki/Map_projection"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

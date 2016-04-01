@@ -1,0 +1,307 @@
+   #copyright
+
+GNU/Linux naming controversy
+
+2007 Schools Wikipedia Selection. Related subjects: Websites and the Internet
+
+
+   This is a featured article. Click here for more information.
+   FSF artwork of the gnu (GNU mascot) and the penguin Tux (Linux kernel
+   mascot) representing their viewpoint on "GNU/Linux". The GNU General
+   Public License (GPL), which is used by the Linux kernel as well as by
+   most GNU software, armors both characters.
+   Enlarge
+   FSF artwork of the gnu (GNU mascot) and the penguin Tux (Linux kernel
+   mascot) representing their viewpoint on "GNU/Linux". The GNU General
+   Public License (GPL), which is used by the Linux kernel as well as by
+   most GNU software, armors both characters.
+
+   GNU/Linux is the term promoted by the Free Software Foundation (FSF),
+   its founder Richard Stallman, and its supporters, for operating systems
+   that include the FSF's GNU utilities and the Linux kernel. Debian
+   GNU/Linux uses this term in their name, but most other people simply
+   use the term "Linux" for the whole system.
+
+   The FSF argues for the term GNU/Linux because GNU was a longstanding
+   project to develop a free operating system, of which they argue the
+   kernel was only the final small piece. Proponents of the Linux term
+   contend that users and developers have overwhelmingly chosen to keep
+   this shorter name and, since GNU is but one of many contributors to the
+   operating system as a whole, a name change is not justified.
+
+   A Linux-based operating system has many components, including both the
+   Linux kernel and software developed by the GNU project, as well as
+   substantial amounts of software such as the X Window System by other
+   authors. The Linux kernel has been reported to be the largest single
+   component, while it is smaller than the total amount of code developed
+   by the GNU project in a typical Linux distribution. Determining exactly
+   what constitutes the "operating system" per se is a matter of
+   continuing debate, however, since there is no single authority to
+   determine the demarcation.
+
+History
+
+   The history of Linux is closely tied to that of the GNU operating
+   system. Plans for GNU were made in 1983 and in September of that year
+   they were announced publicly. Software development work began in
+   January 1984. GNU was to be a complete Unix-like operating system
+   composed entirely of free software. By 1991, when the first version of
+   the Linux kernel was released, the GNU mid-level portions of the
+   operating system were almost complete, and the upper level could be
+   supplied by the X Window System, but the lower level (kernel, device
+   drivers, system-level utilities and daemons) was still mostly lacking.
+   The early Linux kernel developers adapted Linux specifically to work
+   with GNU, and later, when the GNU developers learned of Linux, they
+   adapted parts of GNU to work with it. Linux thus filled the last major
+   gap in the GNU operating system. The GNU kernel, GNU Hurd, was still in
+   its infancy. The Hurd followed an ambitious design which proved
+   unexpectedly difficult to implement and has only been marginally
+   usable.
+
+   In 1992, the Yggdrasil Linux distribution adopted the name
+   "Linux/GNU/X". The name "GNU/Linux" was first used by Debian in 1994.
+   In GNU's June 1994 Bulletin, Linux is referred to as a "free Unix clone
+   (with many GNU utilities and libraries)". In the January 1995 edition,
+   the term "GNU/Linux" was used instead. In May 1996, Stallman released
+   Emacs 19.31 with the system target "Linux" changed to "Lignux", also
+   suggesting the alternatives of "Linux-based GNU system" or "GNU/Linux
+   system". Stallman later used "GNU/Linux" exclusively.
+
+Arguments for "GNU/Linux"
+
+   The FSF advocates "GNU/Linux" not simply because of the large number of
+   GNU components used in Linux-based systems or the quantity of GNU
+   source code, but because the goal of the GNU project was specifically
+   to develop a complete operating system:
+
+     So if you were going to pick a name for the system based on who
+     wrote the programs in the system, the most appropriate single choice
+     would be GNU. But we don't think that is the right way to consider
+     the question. The GNU Project was not, is not, a project to develop
+     specific software packages. [...] Many people have made major
+     contributions to the free software in the system, and they all
+     deserve credit. But the reason it is an integrated system — and not
+     just a collection of useful programs — is because the GNU Project
+     set out to make it one. We made a list of the programs needed to
+     make a complete free system, and we systematically wrote, or found
+     people to write, everything on the list.
+
+   The FSF argues that the name issue is important as a way of crediting
+   both the technical contribution of the GNU project and the idealism of
+   the GNU free-software philosophy (as opposed to the open-source
+   movement):
+
+     Calling the system GNU/Linux recognizes the role that our idealism
+     played in building our community, and helps the public recognize the
+     practical importance of these ideals.
+
+     Calling this variant of the GNU system "Linux" plays into the hands
+     of people who choose their software based only on technical
+     advantage, not caring whether it respects their freedom.
+
+   The ordinary understanding of "operating system" includes both the
+   kernel — the specific subsystem that directly interfaces with the
+   hardware — and the " userland" software that is employed by the user
+   and by application software to control the computer. Moreover, both the
+   name "GNU" and the name "Linux" are intentionally related to the name
+   "Unix", and Unix has always conceptually included the C library and
+   userland tools as well as the kernel. In the 1991 release notes for
+   versions 0.01 to 0.11 of Linux (which was not released under the GNU
+   General Public License until version 0.12), Torvalds wrote:
+
+     Sadly, a kernel by itself gets you nowhere. To get a working system
+     you need a shell, compilers, a library etc. These are separate parts
+     and may be under a stricter (or even looser) copyright. Most of the
+     tools used with linux are GNU software and are under the GNU
+     copyleft. These tools aren't in the distribution — ask me (or GNU)
+     for more info.
+
+   The use of the word "Linux" to refer to the kernel, the operating
+   system, and entire distributions, often leads to confusion about the
+   distinctions between the three. (Many of the important GNU packages are
+   a key part of almost every Linux distribution.) Media sources
+   frequently make erroneous statements such as claiming that the entire
+   Linux operating system (rather than simply the kernel) was written from
+   scratch by Torvalds in 1991; that Torvalds directs the development of
+   other components such as graphical interfaces or the GNU tools; or that
+   new releases of the kernel involve a similar degree of user-visible
+   change as do new versions of proprietary operating systems such as
+   Microsoft Windows, where many things besides the kernel change
+   simultaneously.
+
+   Because of this confusion, legal threats and public relations campaigns
+   apparently directed against the kernel, such as those launched by the
+   SCO Group or the Alexis de Tocqueville Institution (AdTI), have been
+   misinterpreted by many commentators who assume that the whole operating
+   system is being targeted. These organisations have even been accused of
+   deliberately exploiting this confusion:
+
+     Generally, SCO's Caldera v IBM Complaint is vague and confusing as
+     to whether the accusations involve the Linux kernel, the GNU/Linux
+     operating system, Linux distributions, Linux applications, or
+     whatever. (Mike Angelo, MozillaQuest Magazine, 2003)
+
+     SCO has used "Linux" to mean "all free software," or "all free
+     software constituting a UNIX-like operating system." This confusion,
+     which the Free Software Foundation warned against in the past, is
+     here shown to have the misleading consequences the Foundation has
+     often predicted. ( Eben Moglen, 2003)
+
+     I guess we can all be glad the world found it so hard to say
+     GNU/Linux, because SCO fell right into the pit, equating Linux, the
+     kernel, with GNU/Linux, the everything, kernel plus the
+     applications. ( Pamela Jones, Groklaw, 2003)
+
+     In particular, Stallman criticized the [ Ken Brown/AdTI] report for
+     capitalizing on common confusion between the Linux kernel, which
+     Stallman says "Linus really wrote," with the full GNU operating
+     system and associated software, which can be and generally is used
+     with the Linux kernel. (Lisa Stapleton, LinuxInsider, 2004)
+
+   In response to suggestions that Stallman's renaming efforts stem from
+   egotism or personal pique, RMS has responded that his interest is not
+   in giving credit to himself, but to the GNU Project:
+
+     Some people think that it's because I want my ego to be fed. Of
+     course, I'm not asking you to call it "Stallmanix".
+
+   Stallman has admitted to irritation, although he believes it to be
+   justified:
+
+     If this thread is annoying, please imagine what it is like to see an
+     idealistic project stymied and made ineffective, because people
+     don't usually give it the credit for what it has done. If you're an
+     idealist like me, that can ruin your whole decade.
+
+   In response to another common argument (see below), the FSF
+   acknowledges that many people have contributed to GNU/Linux and that a
+   short name cannot credit all of them, but argues that this cannot
+   justify calling the system "Linux":
+
+     Since a long name such as
+     GNU/X11/Apache/Linux/TeX/Perl/Python/FreeCiv becomes absurd, at some
+     point you will have to set a threshold and omit the names of the
+     many other secondary contributions. There is no one obvious right
+     place to set the threshold, so wherever you set it, we won't argue
+     against it ... But one name that cannot result from concerns of
+     fairness and giving credit, not for any possible threshold level, is
+     "Linux". It can't be fair to give all the credit to one secondary
+     contribution (Linux) while omitting the principal contribution
+     (GNU).
+
+Arguments for "Linux"
+
+   "Linux" is by far the most widespread name, and most people therefore
+   simply adopt this usage, while references to the naming controversy
+   appear only infrequently in mainstream sources. "Linux" has the most
+   historical momentum because it is the name Torvalds has used for the
+   combined system since 1991, while Stallman only began asking people to
+   call the system "GNU/Linux" in the mid 1990s, some time after the
+   "Linux" name had already become popular. "Linux" is shorter and easier
+   to say than "GNU/Linux", particularly given Stallman's suggested
+   pronunciation Guh-NU-slash-Linux or Guh-NU-plus-Linux.
+
+   Eric S. Raymond writes (in the "Linux" entry of the Jargon File):
+
+     Some people object that the name "Linux" should be used to refer
+     only to the kernel, not the entire operating system. This claim is a
+     proxy for an underlying territorial dispute; people who insist on
+     the term GNU/Linux want the FSF to get most of the credit for Linux
+     because RMS [Stallman] and friends wrote many of its user-level
+     tools. Neither this theory nor the term GNU/Linux has gained more
+     than minority acceptance.
+
+   Linus Torvalds has said in the documentary Revolution OS, when asked if
+   the name GNU/Linux was justified:
+
+     Well, I think it's justified, but it's justified if you actually
+     make a GNU distribution of Linux ... the same way that I think that
+     "Red Hat Linux" is fine, or "SuSE Linux" or "Debian Linux," because
+     if you actually make your own distribution of Linux, you get to name
+     the thing, but calling Linux in general "GNU Linux" I think is just
+     ridiculous.
+
+   An editorial in the Linux Journal expressed the common speculation that
+   Stallman's advocacy of the combined name is an attempt to unfairly ride
+   on the coattails of Linux's fame:
+
+     Perhaps RMS is frustrated because Linus got the glory for what RMS
+     wanted to do.
+
+   (See above for Stallman's response.) The same Linux Journal article
+   quotes Linus Torvalds as saying:
+
+     Umm, this discussion has gone on quite long enough, thank you very
+     much. It doesn't really matter what people call Linux, as long as
+     credit is given where credit is due (on both sides). Personally,
+     I'll very much continue to call it "Linux".
+
+   In a similar vein, the debate over the name for the operating system is
+   sometimes characterized as a trivial distraction; e.g. John C. Dvorak
+   wrote:
+
+     Unfortunately, the Linux community spends too much of its energy on
+     things such as nomenclature (like the name GNU/Linux versus Linux).
+
+   Others have suggested that, regardless of the merits, Stallman's
+   persistence in what sometimes seems a lost cause makes him and GNU look
+   bad. For example, Larry McVoy (author of the proprietary software
+   Bitkeeper, once used to manage Linux kernel development) opined that
+   "claiming credit only makes one look foolish and greedy".
+
+   Many users and vendors who prefer the name "Linux" point to the
+   inclusion of non-GNU, non-kernel tools such as the Apache HTTP Server,
+   the X Window System or the K Desktop Environment in end-user operating
+   systems based on the Linux kernel. As stated by Jim Gettys, originator
+   of X:
+
+     There are lots of people on this bus; I don't hear a clamor of
+     support that GNU is more essential than many of the other
+     components; can't take a wheel away, and end up with a functional
+     vehicle, or an engine, or the seats. I recommend you be happy we
+     have a bus.
+
+   (See the FSF response above, which acknowledges practical limits in
+   credits but draws a different conclusion.)
+
+   In mainstream usage, the name "Linux" on its own is often used as the
+   standard example of the concept of software or other content that may
+   be freely modified and redistributed, even if such usages generally do
+   not mention GNU or "free software" specifically.
+
+Cases where "GNU/Linux" is inapplicable
+
+   In some embedded systems such as handheld devices, the Linux kernel is
+   used with few or no components of GNU, with alternatives like uClibc
+   and BusyBox replacing the GNU tools, or even a single application
+   running as process 1 on a bare kernel. Everyone, including the FSF,
+   agrees that "GNU/Linux" is not an appropriate name in such
+   circumstances. Almost all Linux-based desktops and servers do use the
+   GNU components, such as glibc (the GNU C Library), coreutils, and bash.
+
+Pronunciation
+
+   ə  This article contains nonstandard pronunciation information which
+     should be rewritten using the International Phonetic Alphabet. Please
+            see Wikipedia:Manual of Style (pronunciation) for help.
+
+   Although "GNU/Linux" is often pronounced "GNU Linux", Stallman has
+   advocated explicit pronunciation of the slash to prevent the confusing
+   implication that the Linux kernel itself is a GNU project:
+
+     I prefer to pronounce it GNU-slash-Linux, or GNU-plus-Linux. The
+     reason is that when you say GNU-Linux it is very much prone to
+     suggest a misleading interpretation. After all, we have GNU Emacs
+     which is the version of Emacs which was developed for GNU. If you
+     say "GNU Linux", people will think it means a version of Linux that
+     was developed for GNU. Which is not the fact.
+
+   Given that Stallman pronounces GNU as "guh-NU" ("pronounce the hard
+   'G'"), this would make it "guh-NU-slash-Linux" or "guh-NU-plus-Linux".
+
+   Retrieved from "
+   http://en.wikipedia.org/wiki/GNU/Linux_naming_controversy"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

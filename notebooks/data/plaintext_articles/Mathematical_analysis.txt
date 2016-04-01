@@ -1,0 +1,109 @@
+   #copyright
+
+Mathematical analysis
+
+2007 Schools Wikipedia Selection. Related subjects: Mathematics
+
+          This article is about a branch of mathematics. The words
+          "mathematical analysis" are also used to mean: the process or
+          result of modeling and analyzing a phenomenon using mathematical
+          techniques in general.
+
+   Analysis is a branch of mathematics that depends upon the concepts of
+   limits and convergence. It studies closely related topics such as
+   continuity, integration, differentiability and transcendental
+   functions. These topics are often studied in the context of real
+   numbers, complex numbers, and their functions. However, they can also
+   be defined and studied in any space of mathematical objects that is
+   equipped with a definition of "nearness" (a topological space) or more
+   specifically "distance" (a metric space). Mathematical analysis has its
+   beginnings in the rigorous formulation of calculus.
+
+History
+
+   Greek mathematicians such as Eudoxus and Archimedes made informal use
+   of the concepts of limits and convergence when they used the method of
+   exhaustion to compute the area and volume of regions and solids.
+
+   In India, the 12th century mathematician Bhaskara conceived of
+   differential calculus, and gave examples of the derivative and
+   differential coefficient, along with a statement of what is now known
+   as Rolle's theorem. In the 14th century, mathematical analysis
+   originated with Madhava in South India, who developed the fundamental
+   ideas of the infinite series expansion of a function, the power series,
+   the Taylor series, and the rational approximation of an infinite
+   series. He developed the Taylor series of the trigonometric functions
+   of sine, cosine, tangent and arctangent, and estimated the magnitude of
+   the error terms created by truncating these series. He also developed
+   infinite continued fractions, term by term integration, the Taylor
+   series approximations of sine and cosine, and the power series of the
+   radius, diameter, circumference, π, π/4 and angle θ. His followers at
+   the Kerala School further expanded his works, up to the 16th century.
+
+   In Europe, during the latter half of the 17th century, Newton and
+   Leibniz developed calculus, which grew, with the stimulus of applied
+   work that continued through the 18th century, into analysis topics such
+   as the calculus of variations, ordinary and partial differential
+   equations, Fourier analysis, and generating functions. During this
+   period, calculus techniques were applied to approximate discrete
+   problems by continuous ones.
+
+   In the 18th century, Euler introduced the concept of function and it
+   became a subject of debate among mathematicians. In the 19th century,
+   Cauchy was the first to put calculus on a firm logical foundation by
+   introducing the concept of the Cauchy sequence. He also started the
+   formal theory of complex analysis. Poisson, Liouville, Fourier and
+   others studied partial differential equations and harmonic analysis.
+
+   In the middle of the century Riemann introduced his theory of
+   integration. The last third of the 19th century saw the arithmetization
+   of analysis by Weierstrass, who thought that geometric reasoning was
+   inherently misleading, and introduced the "epsilon-delta" definition of
+   limit. Then, mathematicians started worrying that they were assuming
+   the existence of a continuum of real numbers without proof. Dedekind
+   then constructed the real numbers by Dedekind cuts. Around that time,
+   the attempts to refine the theorems of Riemann integration led to the
+   study of the "size" of the set of discontinuities of real functions.
+
+   Also, " monsters" ( nowhere continuous functions, continuous but
+   nowhere differentiable functions, space-filling curves) began to be
+   created. In this context, Jordan developed his theory of measure,
+   Cantor developed what is now called naive set theory, and Baire proved
+   the Baire category theorem. In the early 20th century, calculus was
+   formalized using axiomatic set theory. Lebesgue solved the problem of
+   measure, and Hilbert introduced Hilbert spaces to solve integral
+   equations. The idea of normed vector space was in the air, and in the
+   1920s Banach created functional analysis.
+
+Subdivisions
+
+   Mathematical analysis includes the following subfields:
+     * Real analysis, the rigorous study of derivatives and integrals of
+       functions of real variables. This includes the study of sequences
+       and their limits, series, and measures.
+     * Functional analysis studies spaces of functions and introduces
+       concepts such as Banach spaces and Hilbert spaces.
+     * Harmonic analysis deals with Fourier series and their abstractions.
+     * Complex analysis, the study of functions from the complex plane to
+       the complex plane which are complex differentiable.
+     * p-adic analysis, the study of analysis within the context of p-adic
+       numbers, which differs in some interesting and surprising ways from
+       its real and complex counterparts.
+     * Non-standard analysis, which investigates the hyperreal numbers and
+       their functions and gives a rigorous treatment of infinitesimals
+       and infinitely large numbers. It is normally classed as model
+       theory.
+     * Numerical analysis, the study of algorithms for approximating the
+       problems of continuous mathematics.
+
+   Classical analysis would normally be understood as any work not using
+   functional analysis techniques, and is sometimes also called hard
+   analysis; it also naturally refers to the more traditional topics. The
+   study of differential equations is now shared with other fields such as
+   dynamical systems, though the overlap with 'straight' analysis is
+   large.
+   Retrieved from " http://en.wikipedia.org/wiki/Mathematical_analysis"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.

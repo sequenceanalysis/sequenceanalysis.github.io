@@ -1,0 +1,343 @@
+   #copyright
+
+Computer science
+
+2007 Schools Wikipedia Selection. Related subjects: Computer Programming
+
+   Computer science, or computing science, is the study of the theoretical
+   foundations of information and computation and their implementation and
+   application in computer systems. Computer science has many sub-fields;
+   some emphasize the computation of specific results (such as computer
+   graphics), while others (such as computational complexity theory)
+   relate to properties of computational problems. Still others focus on
+   the challenges in implementing computations. For example, programming
+   language theory studies approaches to describing computations, while
+   computer programming applies specific programming languages to solve
+   specific computational problems.
+
+History
+
+   The history of computer science predates the invention of the modern
+   digital computer by many years. Machines for calculating fixed
+   numerical tasks have existed since antiquity, such as the abacus.
+   Wilhelm Schickard built the first mechanical calculator in 1623.
+   Charles Babbage designed a difference engine in Victorian times, and
+   around 1900 the IBM corporation sold punch-card machines. However all
+   of these machines were constrained to perform a single task, or at
+   best, some subset of all possible tasks.
+
+   Prior to the 1950s, the term computer referred to a human clerk who
+   performed calculations. Early researchers in what came to be called
+   computer science, such as Kurt Gödel, Alonzo Church, and Alan Turing,
+   were interested in the question of computability: what things can be
+   computed by a human clerk who simply follows a list of instructions
+   with paper and pencil, for as long as necessary, and without ingenuity
+   or insight? Part of the motivation for this work was the desire to
+   develop computing machines that could automate the often tedious and
+   error-prone work of a human computer. Their key insight was to
+   construct universal computing systems capable (in theory) of performing
+   all possible computable tasks, and thus generalising all previous
+   dedicated-task machines into the single notion of the universal
+   computer. The creation of the concept of a universal computer marked
+   the birth of modern computer science.
+
+   During the 1940s, as newer and more powerful computing machines were
+   developed, the term computer came to refer to the machines rather than
+   their human predecessors. As it became clear that computers could be
+   used for more than just mathematical calculations, the field of
+   computer science broadened to study computation in general. Computer
+   science began to be established as a distinct academic discipline in
+   the 1960s, with the creation of the first computer science departments
+   and degree programs. Since practical computers became available, many
+   applications of computing have become distinct areas of study in their
+   own right.
+
+Major achievements
+
+   Despite its relatively short history as a formal academic discipline,
+   computer science has made a number of fundamental contributions to
+   science and society. These include:
+     * A formal definition of computation and computability, and proof
+       that there are computationally unsolvable and intractable problems.
+     * The concept of a programming language, a tool for the precise
+       expression of methodological information at various levels of
+       abstraction
+
+     * The theory and practice of compilers for translating between
+       programming languages
+     * Practical applications: the PC, the internet, search engines,
+       scientific computing
+
+Relationship with other fields
+
+   Despite its name, much of computer science does not involve the study
+   of computers themselves. In fact, the renowned computer scientist
+   Edsger Dijkstra is often quoted as saying, "Computer science is no more
+   about computers than astronomy is about telescopes." The design and
+   deployment of computers and computer systems is generally considered
+   the province of disciplines other than computer science. For example,
+   the study of computer hardware is usually considered part of computer
+   engineering, while the study of commercial computer systems and their
+   deployment is often called information technology or information
+   systems. Computer science is sometimes criticized as being
+   insufficiently scientific, a view espoused in the statement "Science is
+   to computer science as hydrodynamics is to plumbing" credited to Stan
+   Kelly-Bootle and others. However, there has been much
+   cross-fertilization of ideas between the various computer-related
+   disciplines. Computer science research has also often crossed into
+   other disciplines, such as artificial intelligence, cognitive science,
+   physics (see quantum computing), and linguistics.
+
+   Computer science is considered by some to have a much closer
+   relationship with mathematics than many scientific disciplines. Early
+   computer science was strongly influenced by the work of mathematicians
+   such as Kurt Gödel and Alan Turing, and there continues to be a useful
+   interchange of ideas between the two fields in areas such as
+   mathematical logic, category theory, domain theory, and algebra.
+
+   The relationship between computer science and software engineering is a
+   contentious issue, which is further muddied by disputes over what the
+   term "software engineering" means, and how computer science is defined.
+   Some people believe that software engineering is a subset of computer
+   science. Others, taking a cue from the relationship between other
+   engineering and science disciplines, believe that the principle focus
+   of computer science is studying the properties of computation in
+   general, while the principle focus of software engineering is the
+   design of specific computations to achieve practical goals, making them
+   different disciplines. This view is promulgated by (among others) David
+   Parnas. Still others maintain that software cannot be engineered at
+   all.
+
+Fields of computer science
+
+   Computer science searches for concepts and proofs to explain and
+   describe computational systems of interest. It is a science because
+   given a system of interest it performs /analysis/ and seeks general
+   principals to explain that system. As with all sciences, these theories
+   can then be utilised to synthesize practical engineering applications,
+   which in turn may suggest new systems to be studied and analysed.
+
+Mathematical foundations
+
+   Mathematical logic
+          Boolean logic and other ways of modeling logical queries; the
+          uses and limitations of formal proof methods
+
+   Number theory
+          Theory of proofs and heuristics for finding proofs in the simple
+          domain of integers. Used in cryptography as well as a test
+          domain in artificial intelligence.
+
+   Graph theory
+          Foundations for data structures and searching algorithms.
+
+   Type Theory
+          Formal analysis of the types of data, and the use of these types
+          to understand properties of programs — especially program
+          safety.
+
+Theory of computation
+
+   Automata theory
+          Different logical structures for solving problems.
+
+   Computability theory
+          What is calculable with the current models of computers. Proofs
+          developed by Alan Turing and others provide insight into the
+          possibilities of what may be computed and what may not.
+
+   Computational complexity theory
+          Fundamental bounds (especially time and storage space) on
+          classes of computations.
+
+   Quantum computing theory
+
+Algorithms and data structures
+
+   Analysis of algorithms
+          Time and space complexity of algorithms.
+
+   Algorithms
+          Formal logical processes used for computation, and the
+          efficiency of these processes.
+
+   Data structures
+          The organization of and rules for the manipulation of data.
+
+Programming languages and compilers
+
+   Compilers
+          Ways of translating computer programs, usually from higher level
+          languages to lower level ones.
+
+   Programming languages
+          Formal language paradigms for expressing algorithms, and the
+          properties of these languages (EG: what problems they are suited
+          to solve).
+
+Concurrent, parallel, and distributed systems
+
+   Concurrency
+          The theory and practice of simultaneous computation; data safety
+          in any multitasking or multithreaded environment.
+
+   Distributed computing
+          Computing using multiple computing devices over a network to
+          accomplish a common objective or task and there by reducing the
+          latency involved in single processor contributions for any task.
+
+   Parallel computing
+          Computing using multiple concurrent threads of execution.
+
+Software engineering
+
+   Formal methods
+          Mathematical approaches for describing and reasoning about
+          software designs.
+
+   Software engineering
+          The principles and practice of designing, developing, and
+          testing programs, as well as proper engineering practices.
+
+   Reverse engineering
+          The application of the scientific method to the understanding of
+          arbitrary existing software
+
+   Algorithm design
+          Using ideas from algorithm theory to creatively design solutions
+          to real tasks
+
+   Computer programming
+          The practice of using a programming language to implement
+          algorithms
+
+Computer architecture
+
+   Computer architecture
+          The design, organization, optimization and verification of a
+          computer system, mostly about CPUs and Memory subsystem (and the
+          bus connecting them).
+
+   Operating systems
+          Systems for managing computer programs and providing the basis
+          of a useable system.
+
+Communications
+
+   Game theory
+          Recently game theory has drawn attention from computer
+          scientists because of its use in artificial intelligence and
+          cybernetics.
+
+   Networking
+          Algorithms and protocols for reliably communicating data across
+          different shared or dedicated media, often including error
+          correction.
+
+   Cryptography
+          Applies results from complexity, probability and number theory
+          to invent and break codes.
+
+Databases
+
+   Relational databases
+   Data mining
+          Study of algorithms for searching and processing information in
+          documents and databases; closely related to information
+          retrieval.
+
+Artificial intelligence
+
+   Artificial intelligence
+          The implementation and study of systems that exhibit an
+          autonomous intelligence or behaviour of their own.
+
+   Automated reasoning
+          Solving engines, such as used in Prolog, which produce steps to
+          a result given a query on a fact and rule database.
+
+   Robotics
+          Algorithms for controlling the behaviour of robots.
+
+   Computer vision
+          Algorithms for identifying three dimensional objects from a two
+          dimensional picture.
+
+   Machine learning
+          Automated creation of a set of rules and axioms based on input.
+
+Soft computing
+
+   A collective term for techniques used in solving specific problems. See
+   the main article.
+
+Computer graphics
+
+   Computer graphics
+          Algorithms both for generating visual images synthetically, and
+          for integrating or altering visual and spatial information
+          sampled from the real world.
+
+   Image processing
+          Determining information from an image through computation.
+
+   Human computer interaction
+          The study and design of computer interfaces that people use.
+
+Scientific computing
+
+   Numerical algorithms
+          Numerical solution of mathematical problems such as
+          root-finding, integration, the solution of ordinary differential
+          equations and the approximation of special functions.
+
+   Symbolic mathematics
+          Manipulation and solution of expressions in symbolic form, also
+          known as Computer algebra.
+
+   Computational physics
+          Numerical simulations of large non-analytic systems
+
+   Computational chemistry
+          Computational modelling of theoretical chemistry in order to
+          determine chemical structures and properties
+
+   Bioinformatics
+          The use of computer science to maintain, analyse, store
+          biological data and to assist in solving biological problems
+          such as Protein folding, function prediction and Phylogeny.
+
+   Computational neuroscience
+          Computational modelling of real brains
+
+   Cognitive Science
+          Computational modelling of real minds
+
+Computer science education
+
+   Some universities teach computer science as a theoretical study of
+   computation and algorithmic reasoning. These programs often feature the
+   theory of computation, analysis of algorithms, formal methods,
+   concurrency theory, databases, computer graphics and systems analysis,
+   among others. They typically also teach computer programming, but treat
+   it as a vessel for the support of other fields of computer science
+   rather than a central focus of high-level study.
+
+   Other colleges and universities, as well as secondary schools and
+   vocational programs that teach computer science, emphasize the practice
+   of advanced computer programming rather than the theory of algorithms
+   and computation in their computer science curricula. Such curricula
+   tend to focus on those skills that are important to workers entering
+   the software industry. The practical aspects of computer programming
+   are often referred to as software engineering. However, there is a lot
+   of disagreement over what the term "software engineering" actually
+   means, and whether it is the same thing as programming.
+
+          See Peter J. Denning, Great principles in computing curricula,
+          Technical Symposium on Computer Science Education, 2004.
+
+   Retrieved from " http://en.wikipedia.org/wiki/Computer_science"
+   This reference article is mainly selected from the English Wikipedia
+   with only minor checks and changes (see www.wikipedia.org for details
+   of authors and sources) and is available under the GNU Free
+   Documentation License. See also our Disclaimer.
