@@ -50,10 +50,8 @@
 	<a class="anchor" id="about"></a>
 
 	<div class="page-header">
-	<img class="container" src="giraffe.jpg" style="padding:0px;padding-right:25px;">
-<p><font size="1em">CC image courtesy of user puliarfanita on 
-Flickr</font></p>
 		<h1>Analyzing Sequential User Behavior on the Web</h1>
+<img class="container" src="giraffe.jpg" style="padding:0px;padding-right:25px;">
 	</div>
 <h2>Tutorial at the 25th International WWW conference</h2>
 <p class=subheader> 12th of April 2016, Montreal <p>
@@ -96,10 +94,23 @@ for analyzing sequential user behavior on the Web.</p>
 <div class="container">
 	<a class="anchor" id="code"></a>
 	<div class="page-header">
-		<h2>Source Code</h2>
+		<h2>Source Code and Notebooks</h2>
 	</div>
-	<p class=subheader>The code can be found on <a href="https://github.com/sequenceanalysis/sequenceanalysis.github.io/tree/master/notebooks">github</a>.<br /><p>
-	<p class=subheader>Source Code for the Sequential Pattern Mining part:</p>
+<p>In this tutorial, we provide Python code in the form of jupyter notebooks. These notebooks will be used throughout the tutorial but should also give attendees the opportunity to try things out and recap the material later on.</p>
+	<p class=subheader>The code can be found on <a href="https://github.com/sequenceanalysis/sequenceanalysis.github.io/tree/master/notebooks">github</a>.<br />
+
+<p class=subheader>Running the notebooks</p>
+	<p> You can run/study the notebooks by the following three options:</p>
+
+	<ul>
+	<li class="run"><a href="http://mybinder.org/repo/sequenceanalysis/sequenceanalysis.github.io/notebooks">Interactive notebook environment on mybinder</a></li>
+	<li class="run"><a href="http://nbviewer.jupyter.org/github/sequenceanalysis/sequenceanalysis.github.io/tree/master/notebooks/">Rendered HTML notebooks on nbviewer</a></li>
+	<li class="run">Running <a href="https://github.com/sequenceanalysis/sequenceanalysis.github.io/tree/master/notebooks">code/notebooks</a> on your own: <a href="http://jupyter.org/">Jupyter notebook server</a>, <a href="https://www.continuum.io/downloads">Anaconda Python distribution</a></li>
+	</ul>
+
+	<p>Using the interactive notebook environment is probably the simplest way of running the notebooks. If you prefer to setup the notebooks on your notebook server, you should use Python 2.7 and the following list of packages need to be installed (e.g., by using pip): numpy, scipy and scikit-learn. We recommend to use the <a href="https://www.continuum.io/downloads">Anaconda Python distribution</a> that already includes the necessary packages.
+<p>
+	<p class=subheader>Sequential Pattern Mining Part 2:</p>
 	<ul>
 		<li class="code">Jupyter Notebook Apriori</li>
 		<li class="code">Apriori Algorithm</li>
@@ -107,27 +118,18 @@ for analyzing sequential user behavior on the Web.</p>
 		<li class="code">PrefixSpan Algorithm</li>
 	</ul>
 	
-	<p class=subheader>Source Code for the Markov Chain Modeling part:</p>
+	<p class=subheader>Markov Chain Modeling Part 3:</p>
 	<ul>
-		<li class="code">Jupyter Notebook</li>
+		<li class="code">Jupyter Notebook: <a href="https://github.com/sequenceanalysis/sequenceanalysis.github.io/blob/master/notebooks/part3.ipynb">[github]</a> <a href="http://mybinder.org/repo/sequenceanalysis/sequenceanalysis.github.io/notebooks/part3.ipynb">[mybinder]</a> <a href="http://nbviewer.jupyter.org/github/sequenceanalysis/sequenceanalysis.github.io/blob/master/notebooks/part3.ipynb">[nbviewer]</a></li>
 	</ul>
 	
-	<p class=subheader>Source Code for the HypTrails part:</p>
+	<p class=subheader>Comparing Hypotheses about Sequential Data (HypTrails) Part 4:</p>
 	<ul>
-		<li class="code">Jupyter Notebook</li>
-		<li class="code"><a href="http://nbviewer.jupyter.org/github/psinger/HypTrails/blob/master/tutorial/hyptrails_tutorial.ipynb">Additional notebook</a></li>
+		<li class="code">Jupyter Notebook: <a href="https://github.com/sequenceanalysis/sequenceanalysis.github.io/blob/master/notebooks/part4.ipynb">[github]</a> <a href="http://mybinder.org/repo/sequenceanalysis/sequenceanalysis.github.io/notebooks/part4.ipynb">[mybinder]</a> <a href="http://nbviewer.jupyter.org/github/sequenceanalysis/sequenceanalysis.github.io/blob/master/notebooks/part4.ipynb">[nbviewer]</a></li>
+		<li class="code">Additional notebook: <a href="http://nbviewer.jupyter.org/github/psinger/HypTrails/blob/master/tutorial/hyptrails_tutorial.ipynb">[nbviewer]</a></li>
 	</ul>
 
-	<p class=subheader>Running the notebooks</p>
-	<p> You can run/study the notebooks by the following three options:</p>
-
-	<ul>
-	<li class="run"><a href="mybinder.org/repo/sequenceanalysis/sequenceanalysis.github.io/notebooks">Interactive notebook environment on mybinder</a></li>
-	<li class="run"><a href="http://nbviewer.jupyter.org/github/sequenceanalysis/sequenceanalysis.github.io/tree/master/notebooks/">Rendered HTML notebooks on nbviewer</a></li>
-	<li class="run"><a href="http://jupyter.org/">Personal jupyter notebook server</a></li>
-	</ul>
-
-	<p>Using the interactive notebook environment is probably the simplest way of running the notebooks. If you prefer to setup the notebooks on your notebook server, you should use Python 2.7 and the following list of packages need to be installed (e.g., by using pip): numpy, scipy and scikit-learn. We recommend to use the <a href="https://www.continuum.io/downloads">Anaconda Python distribution</a> that already includes the necessary packages.
+	
 </div>
 
 <div class="container">
@@ -169,11 +171,14 @@ for analyzing sequential user behavior on the Web.</p>
 				<div class="desc">Florian Lemmerich<br><a href="mailto:florian.lemmerich@gesis.org">florian.lemmerich@gesis.org</a><br><a href="http://florian.lemmerich.net/">http://florian.lemmerich.net/</a></div>
 			</div></li>
 		</ul>
+<p><font size="1em">CC image courtesy of user puliarfanita on 
+<a href="https://www.flickr.com/photos/puliarfanita/6648892997/">Flickr</a></font></p>
 	</div>
 </div>
 
     <footer class="site-footer">
 	<div class="placeholder"></div>
+
 </footer>
 
     <script type="text/javascript" src="jquery.js"></script>
